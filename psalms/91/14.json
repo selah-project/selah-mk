@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בי חשק",
+      "rationale": "Дословно „во мене се вкопча“ — идиом за силна љубов; задржана сликата на прилепување."
+    },
+    {
+      "kind": "you",
+      "subject": "до верниот",
+      "rationale": "Јахве говори директно за оној што Го љуби — гласот се менува во прво лице од 91:14 до крајот."
+    }
+  ],
+  "translation": "Зашто во Мене се вкопча, па Јас ќе го избавам; ќе го вознесам, зашто го позна Името Мое.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "350e53d9d9d1a37ee4016964f01e5c78257c6a62f78b4d7de4dedb33cf8fdf58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/91\/13-16.1792453755772.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בי",
+      "gloss": "во Мене"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "се вкопча"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "па Јас ќе го избавам"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "ќе го вознесам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "го позна"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Името Мое"
+    }
+  ],
+  "timestamp": "2026-10-19T23:49:15.772744223Z",
+  "model": "glm-5.3"
+}

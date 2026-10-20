@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ресата",
+      "rationale": "יתרת е „она што виси навишек“ — лобусот на црниот дроб, букв. „надмерокот“"
+    },
+    {
+      "kind": "elision",
+      "subject": "за мирис",
+      "rationale": "ויקטר буквално „прави да чади (како мирис)“ — една хебрејска одлика за чинот на горење"
+    }
+  ],
+  "translation": "И зеде ⟨את⟩ сето салото што е врз утробата, и ⟨את⟩ ресата на црниот дроб, и ⟨את⟩ двете бубрези и ⟨את⟩ салото нивно; и Моше ги изгоре на жртвеникот за мирис.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "582b690cadbf75d14b6fac46af90e84c73986e95429031cccc39a60853de1e9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/8\/13-16.1792444203731.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "зеде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сето салото"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "салото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "על",
+      "gloss": "е врз"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "утробата"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ресата"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "ресата"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "на црниот дроб"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "двете бубрези"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "двете"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "бубрези"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "салото нивно"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "салото нивно"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ги изгоре за мирис"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "на жртвеникот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:10:03.734972083Z",
+  "model": "glm-5.3"
+}

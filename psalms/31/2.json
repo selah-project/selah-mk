@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "בצדקתך е 'цедек'-от на Јахве; 'праведноста' сама го губи коренот"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "Директен обрт кон Јахве во молитва"
+    },
+    {
+      "kind": "invitation",
+      "subject": "молитва за прибежиште",
+      "rationale": "Вербален чин на доверба и барање избавување"
+    }
+  ],
+  "translation": "Во тебе, Јахве, засолнив; нека не се посрамам засекогаш; во твоята цедек избави ме.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9254b00dd62810c8092e4f9a4f6a5099fd96e5be4690b7f27be872e4ee8aa708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/31\/2-3.1792458365451.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "во тебе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "засолнив"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нека не"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "се посрамам"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "засекогаш"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "во твоята цедек"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "избави ме"
+    }
+  ],
+  "timestamp": "2026-10-20T01:06:05.452267640Z",
+  "model": "glm-5.3"
+}

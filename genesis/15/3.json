@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "семе",
+      "rationale": "זרע буквално 'семе\/потомство', не 'деца'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ми",
+      "rationale": "македонскиот бара дативен засилувач кај 'мене не ми даде'"
+    }
+  ],
+  "translation": "И рече Аврахам: Ете, мене не ми даде семе, и еве, син од домот мој ќе ме наследи ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "da8a1078efccbc5638e746f15f712abacb2932b80a2eb0f6a306cf95e31abf1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/15\/1-4.1792442554692.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ете"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "даде"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "семе"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и еве"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "од домот мој"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "ќе наследи"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мене"
+    }
+  ],
+  "timestamp": "2026-10-19T20:42:34.706960619Z",
+  "model": "glm-5.3"
+}

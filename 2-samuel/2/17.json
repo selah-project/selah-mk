@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 2:17",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עד מאד",
+      "rationale": "буквално „до множеството\/крајноста“ — дадено како „многу“, хебрејската мерка е изгладена"
+    },
+    {
+      "kind": "addition",
+      "subject": "на",
+      "rationale": "македонскиот бара притворен член во „луѓето на Јисраел“ за конструктивната врска אנשי ישראל"
+    }
+  ],
+  "translation": "И беше битката таа жестока многу во оној ден, и би поразен Авнер и луѓето на Јисраел пред слугите на Давид.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c28a566c5fdf074f533b833d279cb854bd01334aa90bec5f11eda3d67e606303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/2\/17-20.1792448088655.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "битката таа"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "жестока"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оној"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "и би поразен"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнер"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "и луѓето"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слугите"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-19T22:14:48.656620055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 18:6",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "на горите не јадел",
+      "rationale": "јадење на горите = жртвување на идоли на возвишенија; букв. задржано"
+    },
+    {
+      "kind": "substitution",
+      "subject": "идоли",
+      "rationale": "גלולים буквално 'валјаци\/трупци', преведено како идоли"
+    }
+  ],
+  "translation": "На горите не јадел, и очите свои не ги подигнал кон идолите на домот на Јисраел, и ⟨את⟩ жената на блискиот свој не ја нечистил, и кон жена во нечистост не пристапил.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3a6bcda7248a0df85054c31e9b51858e608885f60c523058391ed70190c8642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/18\/5-8.1792451583655.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "горите"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "јадел"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "и очите свои"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ги подигнал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "גלולי",
+      "gloss": "идолите"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "жената на блискиот свој"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жената"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "на блискиот свој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечистил"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и кон"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "во нечистост"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "пристапил"
+    }
+  ],
+  "timestamp": "2026-10-19T23:13:03.656387395Z",
+  "model": "glm-5.3"
+}

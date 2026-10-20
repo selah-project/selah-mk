@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 51:22",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "התרעלה",
+      "rationale": "„зашеметеност\/кривење од пијаност“ — се јавува само тука во Танахот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "гневот",
+      "rationale": "חמה е буквално „жештина“ — топлина на гневот"
+    },
+    {
+      "kind": "addition",
+      "subject": "нема да",
+      "rationale": "хебрејскиот има само „не“ + имперфект; македонскиот минува иднократно"
+    }
+  ],
+  "translation": "Така вели твојот Адонај, Јахве, и твојот Елохим, што се бори за ⟨את⟩ народот свој: Еве, ја зедов од раката твоја ⟨את⟩ чашата на зашеметеноста, ⟨את⟩ пехарот, чашата на гневот мој — нема да ја пиеш повеќе.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "ea1cae1a9ab72cde94bab4ce7a9eb67e0c51f79dbbaddd37ba3a341b9bc30d92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/51\/21-23.1792450144017.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "твојот Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "и твојот Елохим"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "што се бори"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "за народот свој"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "ја зедов"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "од раката твоја"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чашата"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "чашата"
+    },
+    {
+      "surface": "התרעלה",
+      "gloss": "на зашеметеноста"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пехарот"
+    },
+    {
+      "surface": "קבעת",
+      "gloss": "пехарот"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "чашата"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "на гневот мој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוסיפי",
+      "gloss": "нема да продолжиш"
+    },
+    {
+      "surface": "לשתותה",
+      "gloss": "да ја пиеш"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    }
+  ],
+  "timestamp": "2026-10-19T22:49:04.018470086Z",
+  "model": "glm-5.3"
+}

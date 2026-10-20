@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי ... כי",
+      "rationale": "двојното כי е приговарачко „кога“, не причинско „зашто“"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Не плаши се",
+      "rationale": "императив упатен директно на читателот\/душата, срцевината на Псалм 49"
+    }
+  ],
+  "translation": "Не плаши се кога ќе се обогати човек, кога ќе се умножи славата на домот негов.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e05fb71515cee11022f7c26bbd2e6428d750500abb376f9135e9707b79a9e2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/49\/17-20.1792453349183.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "плаши се"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ќе се обогати"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ќе се умножи"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славата"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "на домот негов"
+    }
+  ],
+  "timestamp": "2026-10-19T23:42:29.183736193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 9:7",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתנו",
+      "rationale": "H854 („со нас“), а не маркерот на објект H853 — ист правопис, две зборови"
+    },
+    {
+      "kind": "substitution",
+      "subject": "садови",
+      "rationale": "מכלים буквално „прибор\/торби“ — садови во кои стоел лебот"
+    }
+  ],
+  "translation": "И рече Шаул на слугата свој: А еве, ако одиме, што ќе занесеме на човекот? Зашто лебот исчезна од нашите садови, и дар немаме да занесеме на човекот на Елохим — што ⟨е⟩ ⟨את⟩ со нас?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b5208cfa4a0da03d2009c7e4a82fdf4a2c4daccd1c3ee24b653cc4dbf91e5b30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/9\/6-9.1792447875032.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "на слугата свој"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "а еве"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ако одиме"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "што"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ќе занесеме"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "на човекот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "лебот"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "исчезна"
+    },
+    {
+      "surface": "מכלינו",
+      "gloss": "од нашите садови"
+    },
+    {
+      "surface": "ותשורה",
+      "gloss": "и дар"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немаме"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "да занесеме"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "на човекот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ со нас"
+    }
+  ],
+  "timestamp": "2026-10-19T22:11:15.033962759Z",
+  "model": "glm-5.3"
+}

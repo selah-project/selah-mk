@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 39:10",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨тоа е⟩",
+      "rationale": "хебрејскиот нема копула во 'הטור האחד'"
+    },
+    {
+      "kind": "crux",
+      "subject": "одем · питда · барекет",
+      "rationale": "идентитетот на камењата е несигурен; преведувачите се делат помеѓу карнеол\/сард, топаз и смарагд\/карбункул"
+    },
+    {
+      "kind": "measurement",
+      "subject": "четири реда",
+      "rationale": "бројот на редовите камења во хошенот"
+    }
+  ],
+  "translation": "И го наполнија со четири реда камења: ред карнеол, топаз и карбункул — ⟨тоа е⟩ првиот ред.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c97b73b8eced2e0d6a47fb121a208afe1c590378384d54c7f290d1262810eff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/39\/9-12.1792443942094.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "и го наполнија"
+    },
+    {
+      "surface": "בו",
+      "gloss": "со него"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четири"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "реда"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камења"
+    },
+    {
+      "surface": "טור",
+      "gloss": "ред"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "карнеол"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "топаз"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "и карбункул"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "редот"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "првиот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:05:42.101682498Z",
+  "model": "glm-5.3"
+}

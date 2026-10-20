@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бакар",
+      "rationale": "נחשת е бакар\/бронза, не 'бронза' како современ легиран метал"
+    },
+    {
+      "kind": "idiom",
+      "subject": "врати од бакар и пречки од железо",
+      "rationale": "слика за непробивен затвор (сп. Исаија 45:2); алузија на вавилонските портити"
+    }
+  ],
+  "translation": "Зашто ги скрши вратите од бакар и пре́чки од железо пресече.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2b07d6f719f9be1798e08d130fb11c8a0cda62ce0c3d34b7e41a485a00968ecc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/107\/13-16.1792453874985.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ги скрши"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "вратите"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "од бакар"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "и пре́чки"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "од железо"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "пресече"
+    }
+  ],
+  "timestamp": "2026-10-19T23:51:14.986583604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אישׁ...ואישׁ",
+      "rationale": "Повтор 'секој... и секој' — рамнотежа на логорот и знамето, паралелизам."
+    },
+    {
+      "kind": "measurement",
+      "subject": "распоред на логорот",
+      "rationale": "Стихот го мери просторот на кампот — секој по свој логор, знаме и војска."
+    }
+  ],
+  "translation": "И синовите Јисраелови ќе логоруваат, секој при својот логор и секој при своето знаме, според нивните војски.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "de41dd5ef1701e78ec869b8b37f35a77881937ad9342110bf75f400dd7f02bd0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/1\/49-52.1792444591840.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "ќе логоруваат"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "својот логор"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и секој"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "своето знаме"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "според нивните војски"
+    }
+  ],
+  "timestamp": "2026-10-19T21:16:31.842001382Z",
+  "model": "glm-5.3"
+}

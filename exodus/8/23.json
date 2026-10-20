@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 8:23",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "три дни",
+      "rationale": "патем од три дена — одредена должина на пат"
+    }
+  ],
+  "translation": "Пат од три дни ќе одиме во пустињата и ќе Му колеме жртва на Јахве, нашиот Елохим, како што ќе ни рече.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "eb70608fdca283c9f342c3b827ba5a6978de7a20ec89bbd06d6f35ad9efd7b83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/8\/21-24.1792443426050.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "пат"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "од три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дена"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ќе одиме"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "во пустињата"
+    },
+    {
+      "surface": "וזבחנו",
+      "gloss": "и ќе колеме жртва"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "нашиот Елохим"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ќе рече"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ни"
+    }
+  ],
+  "timestamp": "2026-10-19T20:57:06.063556745Z",
+  "model": "glm-5.3"
+}

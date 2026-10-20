@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 36:9",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתגברו",
+      "rationale": "Од глаголот גבר — 'станаа силни\/надмени\/насилни'; преведувачите се делат меѓу 'беа горди', 'беа насилници' и 'станаа силни'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "се покажаа надмоќно",
+      "rationale": "Дословно 'станаа силни' — контекстот наведува арогантно\/насилно однесување."
+    }
+  ],
+  "translation": "И им го објави нивното дело и нивните бунтови, дека надмоќно се покажаа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "49a09f21a4b4d4c6e5f24796a2c21b82c7bbada85bd18360ae376fb3088aeafe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/36\/9-12.1792455320137.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "И објави"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "פעלם",
+      "gloss": "нивното дело"
+    },
+    {
+      "surface": "ופשעיהם",
+      "gloss": "и нивните бунтови"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "יתגברו",
+      "gloss": "се покажаа надмоќно"
+    }
+  ],
+  "timestamp": "2026-10-20T00:15:20.137905217Z",
+  "model": "glm-5.3"
+}

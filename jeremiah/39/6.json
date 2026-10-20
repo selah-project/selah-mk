@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 39:6",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "велможи",
+      "rationale": "חרי од חור — благородници, угледни луѓе на Јеуда"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישחט…שחט",
+      "rationale": "книгоопис на глаголот 'закла' на почетокот и во средината — повторување на заколкувањето"
+    }
+  ],
+  "translation": "И царот на Бавел ги закла ⟨את⟩ синовите на Цидкијаху во Ривла, пред очите негови; а ⟨את⟩ сите велможи на Јеуда ги закла царот на Бавел.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0b7c8373c29ec8a28187149590c465bb35c49e3897e73aae95c23c9ff0cb9c03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/39\/5-8.1792451021881.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ги закла"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "на Бавел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синовите на Цидкијаху"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "на Цидкијаху"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "во Ривла"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "пред очите негови"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сите велможи на Јеуда"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "велможи"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јеуда"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "ги закла"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "на Бавел"
+    }
+  ],
+  "timestamp": "2026-10-19T23:03:41.882578957Z",
+  "model": "glm-5.3"
+}

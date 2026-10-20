@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "еден дом",
+      "rationale": "Правилото го ограничува местото на јадење на еден единствен дом."
+    },
+    {
+      "kind": "you",
+      "subject": "Излез 12:46",
+      "rationale": "Директна наредба до Израел за пасхалното јагне."
+    }
+  ],
+  "translation": "Во еден дом да се изеде; да не изнесеш од домот надвор од месото, и коска да не скршите во него.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6780bf27487cd51e6cc5a94b5c0055ecb37ce3e223421a8d6307f3585f7a6980",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/12\/46-48.1792447736091.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "во еден дом"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "да се изеде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "да изнесеш"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "месото"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "надвор"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "и коска"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "да скршите"
+    },
+    {
+      "surface": "בו",
+      "gloss": "во него"
+    }
+  ],
+  "timestamp": "2026-10-19T22:08:56.092754865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 6:15",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "помазаникот",
+      "rationale": "המשיח за свештеник — според D2: за свештеник или цар 'помазаникот', не 'машиах'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ќе биде",
+      "rationale": "хебрејскиот става придавка директно, македонскиот бара копула"
+    }
+  ],
+  "translation": "И свештеникот, помазаникот што ќе биде наместо него од синовите негови, ќе ја прави ⟨את⟩ неа — закон вечен за Јахве; целосно ќе се кади.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "8285aa262641836aafdda9359f112205371f7b9ad21de8c26108843bbfedb389",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/6\/13-16.1792444116009.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "И свештеникот"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "помазаникот"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "наместо него"
+    },
+    {
+      "surface": "мבניו",
+      "gloss": "од синовите негови"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ќе прави"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "неа"
+    },
+    {
+      "surface": "חק",
+      "gloss": "закон"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечен"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Јахве"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "целосно"
+    },
+    {
+      "surface": "תקטר",
+      "gloss": "ќе се кади"
+    }
+  ],
+  "timestamp": "2026-10-19T21:08:36.016274485Z",
+  "model": "glm-5.3"
+}

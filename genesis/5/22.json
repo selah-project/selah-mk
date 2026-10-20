@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "одеше со Елохим",
+      "rationale": "התהלך את — букв. „одеше со\/пред“; хитпаел носи повторливост: одеше постојано."
+    },
+    {
+      "kind": "measurement",
+      "subject": "триста години",
+      "rationale": "Бројот останува целосен, како хебрејскиот."
+    }
+  ],
+  "translation": "И одеше Ханох со ⟨את⟩ Елохим откако го роди ⟨את⟩ Метушелах триста години, и роди синови и ќерки.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b4b7b2767f247edb2fc70815d4befd8c896b68012d61e82cf6ea2246c9f7525c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/5\/21-24.1792442452585.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "И одеше"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханох"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елохим"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "откако"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "го роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Метушелах"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Метушелах"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "триста"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и ќерки"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:52.588093998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 6:3",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "изеде",
+      "rationale": "תאכל буквално „јаде“ — огнот ја јаде жртвата"
+    },
+    {
+      "kind": "substitution",
+      "subject": "пепел",
+      "rationale": "דשן значи „маст\/делумно изгорени масти“, а не чиста пепел; од глаголот за согорување"
+    }
+  ],
+  "translation": "И свештеникот нека облече наметка од лен, и ленени ногавици нека облече на телото свое, и нека го крене ⟨את⟩ пепелот што огнот го изеде — ⟨את⟩ приносот на олтарот — и нека го стави покрај олтарот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "669e91a9d21583ec7b45044032d302d4243e03442821d0db31fff5a903f1bad5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/6\/1-4.1792444134100.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבש",
+      "gloss": "И нека облече"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "מדו",
+      "gloss": "наметката"
+    },
+    {
+      "surface": "בד",
+      "gloss": "од лен"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "и ногавици"
+    },
+    {
+      "surface": "בד",
+      "gloss": "ленени"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "нека облече"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "телото свое"
+    },
+    {
+      "surface": "והרים",
+      "gloss": "и нека го крене"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пепелот"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "пепелот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "го изеде"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огнот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "приносот"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "приносот"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "олтарот"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "и нека го стави"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "покрај"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "олтарот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:08:54.103831946Z",
+  "model": "glm-5.3"
+}

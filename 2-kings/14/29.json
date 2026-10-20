@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 14:29",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "заспа со татковците свои",
+      "rationale": "וישכב עם אבתיו — евфемизам за смрт, буквално „легна со татковците свои“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "стана цар",
+      "rationale": "וימלך е инцептивен глагол „зачина да царува“, буквално „и царуваше“."
+    }
+  ],
+  "translation": "И Јеровоам заспа со татковците свои, со царевите на Јисраел; и Захарија, синот негов, стана цар наместо него.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "dc011dc1617f73b1bbbe53ede0640d06704948a8dab98b75c8b1ab85cb451723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/14\/29-29.1792449300880.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "заспа"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Јеровоам"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "татковците свои"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царевите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "стана цар"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Захарија"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот негов"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "наместо него"
+    }
+  ],
+  "timestamp": "2026-10-19T22:35:00.880923375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Хебрејскиот нема копула"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Тора",
+      "rationale": "תורה останува Тора, не 'закон'"
+    }
+  ],
+  "translation": "Кој ја одвраќа својата уш од слушањето на Тората — дури и молитвата негова ⟨е⟩ одвратност.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5adb8c82565ed10a27f45a90d617a81dccea475c80677554a7a8ae2e4214d7af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/28\/9-12.1792454765748.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "одвраќа"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ушта негова"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "од слушањето"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Тората"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дури и"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "молитвата негова"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "одвратност"
+    }
+  ],
+  "timestamp": "2026-10-20T00:06:05.749661674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 24:9",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беа",
+      "rationale": "хебрејскиот кај Јуда нема глагол — ставен ⟨беа⟩ за глаголска врска"
+    },
+    {
+      "kind": "measurement",
+      "subject": "попис",
+      "rationale": "броење на војската: осумстотини илјади и петстотини илјади"
+    },
+    {
+      "kind": "crux",
+      "subject": "числа",
+      "rationale": "овие бројки се разликуваат од 1 Лет. 21:5 (Израел 1.100.000, Јуда 470.000)"
+    }
+  ],
+  "translation": "И Јоав му го даде ⟨את⟩ бројот на попишаните на царот; и беше Јисраел осумстотини илјади воини што влечат меч, а луѓето на Јуда беа петстотини илјади луѓе.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "ccb36c88e6943138e0a0fce5cd265d3d4dab3a87660e26bf9fdebdd84e6eac7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/24\/9-12.1792448491558.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бројот"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "бројот"
+    },
+    {
+      "surface": "מפקד",
+      "gloss": "на попишаните"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "беше"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "осум"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотини"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "איש",
+      "gloss": "луѓе"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "воини"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "што влечат"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "а луѓето"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јуда"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотини"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "איש",
+      "gloss": "луѓе"
+    }
+  ],
+  "timestamp": "2026-10-19T22:21:31.559344864Z",
+  "model": "glm-5.3"
+}

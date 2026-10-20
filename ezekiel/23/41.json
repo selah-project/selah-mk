@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezekiel 23:41",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Мојот \/ Моето",
+      "rationale": "Преведувачката традиција ги додава посесивните „Мој“ (Јахве зборува); хебрејскиот има само „кадиф и масло“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "кревет украсен",
+      "rationale": "כבודה е „тежина, велегледност, богатство“ — „украсен“ е смирен одбран чин."
+    }
+  ],
+  "translation": "И седна на кревет украсен, и маса наредена пред неа, и Мојот кадиф и Моето масло постави на неа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "54b20ad2b84aed05e15c7fb8b49b59230cfefd9e49d7218d392b4e7cefe6aec9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/23\/41-44.1792451737689.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "И седна"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "кревет"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "украсен"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "и маса"
+    },
+    {
+      "surface": "ערוך",
+      "gloss": "наредена"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "пред неа"
+    },
+    {
+      "surface": "וקטרתי",
+      "gloss": "и Мојот кадиф"
+    },
+    {
+      "surface": "ושמני",
+      "gloss": "и Моето масло"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "постави"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на неа"
+    }
+  ],
+  "timestamp": "2026-10-19T23:15:37.689777997Z",
+  "model": "glm-5.3"
+}

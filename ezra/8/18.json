@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 8:18",
+  "book": "ezra",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "добрата рака",
+      "rationale": "כיד...הטובה — хебрејска идиома за милостива сила; задржана буквално"
+    },
+    {
+      "kind": "measurement",
+      "subject": "осумнаесет",
+      "rationale": "број на доведените луѓе"
+    }
+  ],
+  "translation": "И ни доведоа, според добрата рака на Елохим нашиот врз нас, разумен човек од синовите Махли, син Леви, син Јисраел; и Шеревија, и синовите негови, и браќата негови — осумнаесет.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6c5717d1e6f7bc7455e4001b4b13060e52efe02c4985ad84eddedd134461fa77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezra\/8\/17-20.1792456371879.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "и ни доведоа"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "כיד",
+      "gloss": "според раката"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "на Елохим нашиот"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "добрата"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "врз нас"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "разумен"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "од синовите"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ושרביה",
+      "gloss": "и Шеревија"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "и синовите негови"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и браќата негови"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "осум"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наесет"
+    }
+  ],
+  "timestamp": "2026-10-20T00:32:51.880602899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 20:6",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יקרא ... חסדו",
+      "rationale": "Буквално „ќе повика човек својот хесед“ — т.е. ќе го прогласи, ќе се похвали"
+    },
+    {
+      "kind": "crux",
+      "subject": "רב אדם",
+      "rationale": "„Мноштво луѓе“ или „повеќето луѓе“ — дваjesачи на Parses"
+    }
+  ],
+  "translation": "Мнозина луѓе се прогласуваат за свои хесед, но човек верен — кој ќе го најде?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "941bd61dde4f75908ca4d36b5958c69d6aa15fd18098bb525ec322de6b2868ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/20\/5-8.1792454605968.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "мнозина"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "луѓе"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "се прогласуваат"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "својот хесед"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "но човек"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "верен"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ќе го најде"
+    }
+  ],
+  "timestamp": "2026-10-20T00:03:25.969033772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 36:3",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישמעו\/ישובו",
+      "rationale": "чуете\/се вратите — двата глаголи држат реченица целина, повторување на коренот שׁוב на каење"
+    },
+    {
+      "kind": "mystery",
+      "subject": "Може би",
+      "rationale": "אולי — исходот е отворен и на Јахве и на читателот"
+    }
+  ],
+  "translation": "Може би ќе чуе домот Јуда ⟨את⟩ сето злото што Јас го замислувам да им направам, за да се врати секој човек од својот лош пат, и Јас ќе им простам на нивното безаконие и на нивниот грев.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "614351924e0852f19d0085a7b9d3dc9450a34dae8f3116b891d915c8d107eaa0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/36\/1-4.1792450971927.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "Може би"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ќе чуе"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуда"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сето злото"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "злото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "замислувам"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да направам"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ним"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "се врати"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој човек"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "од патот свој"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "лошиот"
+    },
+    {
+      "surface": "וסלחתי",
+      "gloss": "и ќе простам"
+    },
+    {
+      "surface": "לעונם",
+      "gloss": "на безаконието нивно"
+    },
+    {
+      "surface": "ולחטאתם",
+      "gloss": "и на гревот нивни"
+    }
+  ],
+  "timestamp": "2026-10-19T23:02:51.929127031Z",
+  "model": "glm-5.3"
+}

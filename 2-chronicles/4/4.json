@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 4:4",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨беше⟩",
+      "rationale": "Македонскиот бара копула кај 'морето на нив одозгора'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "дванаесет говеда",
+      "rationale": "Бројот и четирите страни на светот се наброени."
+    },
+    {
+      "kind": "substitution",
+      "subject": "навнатре",
+      "rationale": "ביתה буквално 'кон домот' — кон внатрешноста, кон храмот."
+    }
+  ],
+  "translation": "Стоеше на дванаесет говеда — три свртени кон север, и три свртени кон запад, и три свртени кон југ, и три свртени кон исток — и морето ⟨беше⟩ на нив одозгора, и сите нивни задни делови навнатре.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f223a9e5cbd2feef00f255ed7b18545b1e5640d32e245e72e1b901a23a2446bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/4\/1-4.1792457409729.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עומד",
+      "gloss": "стоеше"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дванаесет"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "дванаесет"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "говеда"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "фנים",
+      "gloss": "свртени"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "кон север"
+    },
+    {
+      "surface": "ושלושה",
+      "gloss": "и три"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "свртени"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "кон запад"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "и три"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "свртени"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "кон југ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "и три"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "свртени"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "кон исток"
+    },
+    {
+      "surface": "והים",
+      "gloss": "и морето"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "на нив"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "одозгора"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сите"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "нивните задни делови"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "навнатре"
+    }
+  ],
+  "timestamp": "2026-10-20T00:50:09.730797351Z",
+  "model": "glm-5.3"
+}

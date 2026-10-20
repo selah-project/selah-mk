@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 9:23",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед · цедек",
+      "rationale": "два збора чии范畴 буквално не се милост и праведност — чуваат го хебрејскиот корен"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתהלל\/המתהלל",
+      "rationale": "партicipната игра — 'оној што се фали' — задржана со ист корен 'фали'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כי אם",
+      "rationale": "буквално 'зашто ако\/туку само' — преведено како исклучок 'туку ... само'"
+    }
+  ],
+  "translation": "туку во ова да се фали оној што се фали: дека разбира и Ме познава ⟨את⟩ Мене — дека Јас сум Јахве, Кој прави хесед, суд и цедек на земјата; зашто во овие нешта наоѓам задоволство — изрека на Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b3e2015ff7cacddbec6b2f7acd94d8e202b66beb95e684303266be1dbae96c58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/9\/21-24.1792450556750.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "туку"
+    },
+    {
+      "surface": "אם",
+      "gloss": "само"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "во ова"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "да се фали"
+    },
+    {
+      "surface": "המתהלל",
+      "gloss": "оној што се фали"
+    },
+    {
+      "surface": "השכל",
+      "gloss": " дека разбира"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "и познава"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ Мене",
+      "marks": "Мене"
+    },
+    {
+      "surface": "כי",
+      "gloss": "де"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јас сум"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Кој прави"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "и цедек"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "во овие"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "наоѓам задоволство"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T22:55:56.751268987Z",
+  "model": "glm-5.3"
+}

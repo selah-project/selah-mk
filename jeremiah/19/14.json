@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 19:14",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "кон сиот народ",
+      "rationale": "Јирмејаху им се обраќа на сите луѓе во дворот на домот на Јахве; следниот стих е содржината на обраќањето."
+    }
+  ],
+  "translation": "И дојде Јирмејаху од Тофет, каде што го беше пратил Јахве таму да пророкува; и застана во дворот на домот на Јахве и рече кон сиот народ:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "83d122923bb304b82ff50160792c5f080c6c3f5252502ef2b310deca85cbc442",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/19\/13-15.1792450729188.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и дојде"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јирмејаху"
+    },
+    {
+      "surface": "מהתפת",
+      "gloss": "од Тофет"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "каде што"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "го беше пратил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "להנבא",
+      "gloss": "да пророкува"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и застана"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "во дворот на"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сиот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-10-19T22:58:49.189824038Z",
+  "model": "glm-5.3"
+}

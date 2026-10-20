@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 9:17",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жалопојка",
+      "rationale": "נהי е жална песна, елегија — професионален погребен плач"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יזלו מים",
+      "rationale": "капење вода продолжува ја сликата на солзи — очите како извори"
+    }
+  ],
+  "translation": "И побрзајте и подигнете врз нас жалопојка, и нека се слезат очите наши солзи, и клепките наши да накапат вода.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3fdec580f51d3c7dab461ce2991977c4f7bad13ab976bc9844df96d735cd160f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/9\/17-20.1792450572186.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמהרנה",
+      "gloss": "и побрзајте"
+    },
+    {
+      "surface": "ותשנה",
+      "gloss": "и подигнете"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "врз нас"
+    },
+    {
+      "surface": "נהי",
+      "gloss": "жалопојка"
+    },
+    {
+      "surface": "ותרדנה",
+      "gloss": "и нека се слезат"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "очите наши"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "солзи"
+    },
+    {
+      "surface": "ועפעפינו",
+      "gloss": "и клепките наши"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "да накапат"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    }
+  ],
+  "timestamp": "2026-10-19T22:56:12.186904293Z",
+  "model": "glm-5.3"
+}

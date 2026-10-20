@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ציץ\/יציץ",
+      "rationale": "Именката „цвет“ и глаголот „процутува“ се од ист корен — звучна игра делумно видлива и во македонскиот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "смртниот човек",
+      "rationale": "אנוש е „смртник“, не општо „човек“ (איש\/אדם) — смртноста е во самиот збор."
+    }
+  ],
+  "translation": "Смртниот човек — како трева се деновите негови; како цвет на полето, така процутува.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/103\/13-16.1792453821465.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "смртниот човек"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "како трева"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "деновите негови"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "како цвет"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "на полето"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "процутува"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:21.466349031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 20:1",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бееше",
+      "rationale": "хебрејскиот нема глагол-врска во описот на Пашхур"
+    },
+    {
+      "kind": "substitution",
+      "subject": "пророчки зборува",
+      "rationale": "נבא е глагол од коренот пророк — еден збор на хебрејски"
+    }
+  ],
+  "translation": "И чу Пашхур, син на Имер, свештеникот — а тој ⟨бееше⟩ поставен надзорник, началник во домот на Јахве — дека ⟨את⟩ Јирмејаху пророчки зборува ⟨את⟩ овие зборови.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3f638a8a73de6ea500d881e43a4d3f5dc26ee9da5adc4b8b1dc2983716dc6ed3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/20\/1-4.1792450742197.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и чу"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Пашхур"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "на Имер"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а тој"
+    },
+    {
+      "surface": "פקיד",
+      "gloss": "поставен надзорник"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "началник"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јирмејаху"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јирмејаху"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "пророчки зборува"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "овие зборови"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "зборовите"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овие"
+    }
+  ],
+  "timestamp": "2026-10-19T22:59:02.198497912Z",
+  "model": "glm-5.3"
+}

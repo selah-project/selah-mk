@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 26:16",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משמר לעמת משמר",
+      "rationale": "Повторот „стража спроти стража“ — структурна симетрија на сторижите, зачувана."
+    },
+    {
+      "kind": "measurement",
+      "subject": "стражи",
+      "rationale": "Стихот распределува сторижки долж портите — поделба на должности."
+    },
+    {
+      "kind": "substitution",
+      "subject": "при",
+      "rationale": "עמ со порта — „заедно со \/ крај“; дадено како „при“."
+    }
+  ],
+  "translation": "На Шупим и на Хоса на запад, при портата Шалехет, на патот што се качува нагоре: стража спроти стража.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "87f43899a9501c71398fbd6410a06855ec50d1c1ab6625f94fdaa169fdaef2fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/26\/16-16.1792458560041.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשפים",
+      "gloss": "на Шупим"
+    },
+    {
+      "surface": "ולחסה",
+      "gloss": "и на Хоса"
+    },
+    {
+      "surface": "למערב",
+      "gloss": "на запад"
+    },
+    {
+      "surface": "עם",
+      "gloss": "при"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "שלכת",
+      "gloss": "Шалехет"
+    },
+    {
+      "surface": "במסלה",
+      "gloss": "на патот"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "што се качува нагоре"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "стража"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "стража"
+    }
+  ],
+  "timestamp": "2026-10-20T01:09:20.041553218Z",
+  "model": "glm-5.3"
+}

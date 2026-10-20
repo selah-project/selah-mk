@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 9:13",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "судови праведни",
+      "rationale": "משפטים ישרים — букв. 'прави судови'; ישר е 'прав (линија)', не 'праведен'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Тори на вистина",
+      "rationale": "множина תורות — 'Тори' (поуки), не една Тора"
+    }
+  ],
+  "translation": "И на планината Синај слезе, и говореше со нив од небото, и им даде судови праведни и Тори на вистина, уредби и заповеди добри.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ad5aa74b501354e5c5559b9518269c92666a5586cf26d15d6de05129678ce5a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/9\/13-16.1792456649818.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "הר",
+      "gloss": "планината"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синај"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "слезе"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "и говореше"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "со нив"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "од небото"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "судови"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "праведни"
+    },
+    {
+      "surface": "ותורות",
+      "gloss": "и Тори"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "на вистина"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "уредби"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "и заповеди"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "добри"
+    }
+  ],
+  "timestamp": "2026-10-20T00:37:29.819476437Z",
+  "model": "glm-5.3"
+}

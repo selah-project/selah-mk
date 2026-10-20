@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מצודה",
+      "rationale": "מצודתי може да значи 'утврдување' или 'мрежа' (ловечка) — преводите се делат; тука 'утврдување' по контекст на прибежиште."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жилиште",
+      "rationale": "מעון е 'жилиште\/обиталиште' — место за живеење, не само засолниште."
+    }
+  ],
+  "translation": "Биди ⟨мне⟩ карпа-жилиште, за ⟨да⟩ влегувам постојано; заповеда да ме спасиш, зашто си моя карпа и мое утврдување.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/71\/1-4.1792453535600.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "биди"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨мне⟩"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "карпа"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "жилиште"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "за да влегувам"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "постојано"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "заповеда"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "да ме спасиш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "моя карпа"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "и мое утврдувавање"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    }
+  ],
+  "timestamp": "2026-10-19T23:45:35.601482158Z",
+  "model": "glm-5.3"
+}

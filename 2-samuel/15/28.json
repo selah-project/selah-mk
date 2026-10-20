@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 15:28",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעברות",
+      "rationale": "„премини\/бродови“ (ASV fords) наспроти „полиња“ (KJV\/JPS plains); буквално места за преминување"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ראו",
+      "rationale": "императив „видете“ — царот го повикува Цадок да го слушне планот"
+    },
+    {
+      "kind": "you",
+      "subject": "до Цадок и Авијатар",
+      "rationale": "говорот продолжува директно кон свештениците"
+    }
+  ],
+  "translation": "Видете, јас се задржувам во преминоните на пустињата, додека дојде збор од вас да ми ⟨го⟩ објави.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "cc210c487d4ce651afe49f709d9a132c8e32cef78414f62baffeb3269c679849",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/15\/25-28.1792448358049.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Видете"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "מתמהמה",
+      "gloss": "се задржувам"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "во преминоните"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "на пустињата"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "збор"
+    },
+    {
+      "surface": "מעמכם",
+      "gloss": "од вас"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "да објави"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    }
+  ],
+  "timestamp": "2026-10-19T22:19:18.052211676Z",
+  "model": "glm-5.3"
+}

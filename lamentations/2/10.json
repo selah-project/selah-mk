@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 2:10",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "вреќи од косми",
+      "rationale": "שקים е груба clothа од козина — македонскиот бара повеќе зборови за едниот хебрејски збор."
+    },
+    {
+      "kind": "addition",
+      "subject": "свои",
+      "rationale": "македонскиот бара приговорките кај „главите свои“, хебрејскиот Suffiks ги носи во наставките."
+    }
+  ],
+  "translation": "Седат на земја, онемеле старешините на ќерката Сиона; креваат прав на главите свои, препашани со вреќи од косми; на земја ги спуштија главите своите девоите на Јерушалаим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8fc38a95343f5aa09460a62b0642f218cfb89b45f756efe1ea6bea2aa8d77776",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/2\/9-12.1792455511576.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "Седат"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "на земја"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "онемеле"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старешините"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерката"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сиона"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "креваат"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прав"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "главите свои"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "препашани"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "со вреќи од косми"
+    },
+    {
+      "surface": "הורידו",
+      "gloss": "ги спуштија"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "на земја"
+    },
+    {
+      "surface": "ראשן",
+      "gloss": "главите своите"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "девоите"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    }
+  ],
+  "timestamp": "2026-10-20T00:18:31.577639244Z",
+  "model": "glm-5.3"
+}

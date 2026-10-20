@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 26:1",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פני הישימן",
+      "rationale": "буквално ‚на лицето на Јешимон‘ — хебрејски израз за наспроти\/пред, даден буквално"
+    },
+    {
+      "kind": "you",
+      "subject": "Шаул",
+      "rationale": "Зифејците директно му се обраќаат на Шаул со прашање"
+    }
+  ],
+  "translation": "И дојдоа Зифејците кај Шаул во Гива, велејќи: Не се ли крие Давид на ридот Хахила, спроти лицето на Јешимон?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "82e5e74b0536333054c652363fbbf2e62bc35524e739e4c18f504836c58271c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/26\/1-4.1792447951114.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "И дојдоа"
+    },
+    {
+      "surface": "הזפים",
+      "gloss": "Зифејците"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "во Гива"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "не се ли"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "крие"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "на ридот"
+    },
+    {
+      "surface": "החכילה",
+      "gloss": "Хахила"
+    },
+    {
+      "surface": "על",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "на Јешимон"
+    }
+  ],
+  "timestamp": "2026-10-19T22:12:31.115119752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Ти⟩ · ⟨се⟩",
+      "rationale": "македонскиот бара подмет и копула што хебрејскиот ги испушта"
+    }
+  ],
+  "translation": "Одамна ⟨Ти⟩ ја основа земјата, и небесата ⟨се⟩ дело на рацете Твои.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "813f0a78dff17f327da6e578f53b87e7c76a21a7b123ebcc3bd852a02d2b2f9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/102\/25-28.1792453841514.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "Одамна"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "основавте"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "и дело"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "на рацете Твои"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небесата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:41.515404106Z",
+  "model": "glm-5.3"
+}

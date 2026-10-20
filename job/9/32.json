@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 9:32",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "копула што хебрејскиот ја испушта"
+    },
+    {
+      "kind": "crux",
+      "subject": "кој не е човек",
+      "rationale": "подметот е скриен — Јов вели за Елохим („Тој не е човек како мене“); хебрејскиот не го именува"
+    }
+  ],
+  "translation": "Зашто ⟨тоа⟩ не ⟨е⟩ човек како мене, за да можам да одговорам, да дојдеме заедно на суд.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "677818c64360e2db54f6b20bba5a2a3cbb7f36ece44bf0eb28f62c7c4f3d4907",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/9\/29-32.1792454943746.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "како мене"
+    },
+    {
+      "surface": "אעננו",
+      "gloss": "да одговорам"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "да дојдеме"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заедно"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "на суд"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:03.748040683Z",
+  "model": "glm-5.3"
+}

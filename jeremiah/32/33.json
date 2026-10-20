@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 32:33",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ערף ולא פנים",
+      "rationale": "„тил, а не лице“ — хебрејската идиома за отфрлање, задржана буквално"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פנו\/ערף\/פנים",
+      "rationale": "коренот פנה (свртува) и פנים (лице, она што се свртува) во еден стих, изгубено во македонскиот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "поука",
+      "rationale": "מוסר значи и казна и поука и воспитување; еден збор со повеќекратна тежина"
+    }
+  ],
+  "translation": "И Ми свртија тил, а не лице; и кога ги учев, станувајќи рано и повторно учејќи ⟨את⟩ нив — тие не слушаа да примат поука.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cdb464c6ee91109fd18a116a063519d3c242de03ab1e86b1c9a3cf5c9b22451d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/32\/33-36.1792450912858.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "и свртија"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ми"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "тил"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лице"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "и кога учев"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ги"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "станувајќи рано"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "и повторно учејќи"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "а тие не"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "слушаа"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "да примат"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "поука"
+    }
+  ],
+  "timestamp": "2026-10-19T23:01:52.859120524Z",
+  "model": "glm-5.3"
+}

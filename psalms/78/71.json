@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 78:71",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלות",
+      "rationale": "KJV „ovci што носат млади“ vs JPS „доечки“ — од עול, што цица; корен עלה „да оди зад“ исто така се чита тука"
+    }
+  ],
+  "translation": "Од зад доечките овци го доведе, за да пасе народот свој Јааков, и наследството свое Јисраел.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "25a17ec22a3581843e01c64f78089144b19a6c6669c883c1d7c8d3140f0fea70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/78\/69-72.1792453631971.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאחר",
+      "gloss": "од зад"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "доечките"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "го доведе"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "да пасе"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народот свој"
+    },
+    {
+      "surface": "ובישראל",
+      "gloss": "и"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "наследството свое"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:11.972470147Z",
+  "model": "glm-5.3"
+}

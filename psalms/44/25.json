@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот бара кратка заменска клитика кај преодниот глагол"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "директен обраќач кон Бога во заедничката жалба"
+    },
+    {
+      "kind": "idiom",
+      "subject": "криење на лицето",
+      "rationale": "хебрејски израз за повлекување на наклонетоста, не буквално покривање"
+    }
+  ],
+  "translation": "Зошто го криеш ⟨се⟩ лицето свое и забораваш на бедата наша и на притисокот наш?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "17217f569acff8ee961a15015fd62000bc868b72aab02af2f64f532683fe88a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/44\/25-27.1792453241945.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицето свое"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "го криеш"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "забораваш"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "на бедата наша"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "и на притисокот наш"
+    }
+  ],
+  "timestamp": "2026-10-19T23:40:41.945820015Z",
+  "model": "glm-5.3"
+}

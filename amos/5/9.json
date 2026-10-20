@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המבליג",
+      "rationale": "Редок корен: „да трепне\/испламти” — KJV „ja зајакнува разорениот”, JPS „прави разорувањето да трепне”; задржав слика на трепкање\/блесок."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שד ... ושד",
+      "rationale": "Повторување „разорување... разорување” во паралелни колона — хебрејскиот ја врзува строфата со ист збор."
+    }
+  ],
+  "translation": "Кој трепнува разорување врз силниот, и разорување врз тврдината ќе дојде.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8323a6b0dfe30705e81385fe8dc01f32345f7c4a30e82fb2edfac34cca2b8b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/amos\/5\/9-12.1792452369521.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "Кој трепнува"
+    },
+    {
+      "surface": "שד",
+      "gloss": "разорување"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "עז",
+      "gloss": "силниот"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "и разорување"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "тврдината"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ќе дојде"
+    }
+  ],
+  "timestamp": "2026-10-19T23:26:09.521646488Z",
+  "model": "glm-5.3"
+}

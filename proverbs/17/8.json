@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "номинална реченица без глагол во хебрејскиот"
+    },
+    {
+      "kind": "crux",
+      "subject": "שחד",
+      "rationale": "истиот збор значи 'дар' и 'мит' — преводите се делат; 'мито' го задржува двосмыслениот призвук"
+    },
+    {
+      "kind": "substitution",
+      "subject": "успева",
+      "rationale": "ישכיל е буквално 'постапува мудро\/разборито' — 'успева' е прифатениот идиоматски одговор"
+    }
+  ],
+  "translation": "Камен на милост ⟨е⟩ мито́то во очите на неговиот господар; каде и да се сврти, успева.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7a87d983accc2290c15828830f664af899b684e8e6921402010114f4e44a659f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/17\/5-8.1792454558734.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "камен"
+    },
+    {
+      "surface": "חן",
+      "gloss": "на милост"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "митото"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "во очите"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "на неговиот господар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "се сврти"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "успева"
+    }
+  ],
+  "timestamp": "2026-10-20T00:02:38.736155525Z",
+  "model": "glm-5.3"
+}

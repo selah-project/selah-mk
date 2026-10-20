@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושא",
+      "rationale": "буквално 'подигни\/земи ги' гревовите; традицијата преведува 'прости' — физичката слика на носење\/однесување се губи."
+    },
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "императивни молби упатени кон Бога."
+    }
+  ],
+  "translation": "Види го страданието мое и мачнината моја, и подигни ги сите мои гревови.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "73da87d3002efce831ce742fa6384e9c7cf8037e9def500e32122bd85a028beb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/25\/17-20.1792453072765.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Види"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "страданието мое"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "и мачнината моја"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "и подигни ги"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "моите гревови"
+    }
+  ],
+  "timestamp": "2026-10-19T23:37:52.766234596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 51:16",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אתה",
+      "rationale": "„עמי אתה“ — ти си Народ Мој: самата буква-средба на א и ת, како одговор на ⟨את⟩ marker-от што го покажува избраниот"
+    },
+    {
+      "kind": "you",
+      "subject": "до Цион",
+      "rationale": "стихот завршува со директен говор: „Народ Мој си ти“"
+    }
+  ],
+  "translation": "И ги ставив зборовите Мои во устата твоја, и во сенката на раката Моја те покрив, за да насади небеса и да основе земја, и да ѝ рече на Цион: „Народ Мој си ти.“",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "4d4636d8b09c47c8209c5eb89dcc516b20117c04c72468b9e8943a9100890f25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/51\/13-16.1792450186953.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "ставив"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "зборовите Мои"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "во устата твоја"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "и во сенката"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "на раката Моја"
+    },
+    {
+      "surface": "כסיתיך",
+      "gloss": "те покрив"
+    },
+    {
+      "surface": "לנטע",
+      "gloss": "за да насади"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "וליסד",
+      "gloss": "и да основе"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "ולאמר",
+      "gloss": "и да рече"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "на Цион"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Народ Мој"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    }
+  ],
+  "timestamp": "2026-10-19T22:49:46.955624544Z",
+  "model": "glm-5.3"
+}

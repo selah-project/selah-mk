@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 2:15",
+  "book": "song-of-songs",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "Копула додадена: хебрејскиот вели само „нашите лозја во цвет“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שועלים שועלים",
+      "rationale": "Повторот „лисици, лисици мали“ — ритмичко дуплирање карактеристично за Песната."
+    },
+    {
+      "kind": "substitution",
+      "subject": "лисици",
+      "rationale": "שועל може да значи и чакал; сликата е на животно што копа и расипува лозја."
+    }
+  ],
+  "translation": "Фатете ни лисици, мали лисици што ги расипуваат лозјата, зашто нашите лозја ⟨се⟩ во цвет.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bd3493168025ecb6e5d4595580375f36c28be81abe3c704484593b3a3243cf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/song-of-songs\/2\/13-16.1792455447133.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחזו",
+      "gloss": "Фатете"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "лисици"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "мали лисици"
+    },
+    {
+      "surface": "קטנים",
+      "gloss": "мали"
+    },
+    {
+      "surface": "מחבלים",
+      "gloss": "што расипуваат"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "лозја"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "а нашите лозја"
+    },
+    {
+      "surface": "סמדר",
+      "gloss": "во цвет"
+    }
+  ],
+  "timestamp": "2026-10-20T00:17:27.135346478Z",
+  "model": "glm-5.3"
+}

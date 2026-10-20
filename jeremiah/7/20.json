@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 7:20",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפי",
+      "rationale": "буквално „носот мој“ — гневот е слика од носното дишење при лутина."
+    },
+    {
+      "kind": "rhetorical_structure",
+      "subject": "четирикратното על",
+      "rationale": "Насловната ланица врз човек–добиток–дрво–плод ја повторува ланицата од стих 18: си ја горат сопствената земја."
+    }
+  ],
+  "translation": "Затоа вака рече Адонај Јахве: Еве, гневот мој и жарот мој се излеваат врз ова место — врз човекот и врз добитокот, и врз дрвото полско и врз плодовите на земјата — и ќе гори и нема да се изгаси.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "67571e89e36ec6b60b9bda0bd289bb39e36de480779ef58360bfa440dee776da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/7\/17-20.1792450460049.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "כה",
+      "gloss": "вака"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "гневот мој"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "и жарот мој"
+    },
+    {
+      "surface": "נתכת",
+      "gloss": "се излеваат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "врз"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "местото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "добитокот"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрвото"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "полско"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "плодовите"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "ובערה",
+      "gloss": "и ќе гори"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "да се изгаси"
+    }
+  ],
+  "timestamp": "2026-10-19T22:54:20.051225149Z",
+  "model": "glm-5.3"
+}

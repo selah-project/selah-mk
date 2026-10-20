@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "На што се надевате",
+      "rationale": "Прашањето на Санхерив е реторичко обраќање упатено директно до опколените."
+    },
+    {
+      "kind": "you",
+      "subject": "до Јуда во Јерушалаим",
+      "rationale": "Директен говор на асирскиот цар кон жителите на градот."
+    },
+    {
+      "kind": "crux",
+      "subject": "במצור",
+      "rationale": "«во опсада» или «во бедем\/утврдување» — KJV «во опсадата», YLT «во бедемот»."
+    }
+  ],
+  "translation": "Така рече Санхерив, царот на Ашур: На што се надевате вие, седејќи во опсада во Јерушалаим?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "33da31ad26dd2a56c8b01969218523d4962cd2231b3e5f96f8b8559b68ef6093",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/32\/9-12.1792457853579.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Санхерив"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "на Ашур"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "се надевате"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "седејќи"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "во опсада"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "во Јерушалаим"
+    }
+  ],
+  "timestamp": "2026-10-20T00:57:33.580286891Z",
+  "model": "glm-5.3"
+}

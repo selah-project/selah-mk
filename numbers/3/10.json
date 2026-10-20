@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "туѓинец",
+      "rationale": "הזר е 'туѓиот\/непосветениот' — не-свештеник, не нужно странец по народност."
+    },
+    {
+      "kind": "crux",
+      "subject": "да биде убиен",
+      "rationale": "יומת е причинско 'нека се убие' — пасивна наредба, 'ќе биде убиен' наспроти 'нека умре'."
+    }
+  ],
+  "translation": "А ⟨את⟩ Ахарон и ⟨את⟩ синовите негови ќе ги определиш, и тие ќе го пазат ⟨את⟩ свештенството свое; а туѓинецот што ќе се приближbi — да биде убиен.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "93b481a4f8bd6fab686fa6dd2b859e127539f22b96e2d84e36b96bf6c279c18b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/3\/9-12.1792444602578.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ а"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синовите негови"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ќе ги определиш"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "и ќе го пазат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свештенството свое"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "свештенството свое"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "а туѓинецот"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "што ќе се приближи"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "да биде убиен"
+    }
+  ],
+  "timestamp": "2026-10-19T21:16:42.582583503Z",
+  "model": "glm-5.3"
+}

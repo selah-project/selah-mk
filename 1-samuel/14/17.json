@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 14:17",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Мека честичка за барање, предадена како „ве молам“"
+    },
+    {
+      "kind": "invitation",
+      "subject": "до народот",
+      "rationale": "Шаул им наредува со императив: прегледајте и видете"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אין יונתן",
+      "rationale": "Дословно „нема Јонатан“ — глаголот е ставен за македонскиот ритам"
+    }
+  ],
+  "translation": "И рече Шаул на народот што беше ⟨со⟩ него: „Прегледајте, ве молам, и видете кој отиде од нас.“ И прегледаа, и ете, ги немаше Јонатан ни оној што му ги носеше оружјата.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a6e45712dfa6c9e3f46ed50c988debd5f85a489e537b23b72a746f7962ab498c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/14\/17-20.1792446896772.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "на народот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ со него",
+      "marks": "⟨את⟩ со него"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "Прегледајте"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ве молам"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "и видете"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "отиде"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "од нас"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "И прегледаа"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ете"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ги немаше"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Јонатан"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ни оној што носеше"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "оружјата негови"
+    }
+  ],
+  "timestamp": "2026-10-19T21:54:56.773184596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 2:2",
+  "book": "hosea",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ועלו מן הארץ",
+      "rationale": "„ќе излезат од земјата“ може да значи и „ќе се качат од земјата“ (враќање од прогонство)"
+    }
+  ],
+  "translation": "И ќе се соберат синовите на Јехуда и синовите на Јисраел заедно, и ќе си постават еден глава, и ќе излезат од земјата, зашто голем е денот на Изреел.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b31616355a5530e5d6890226146878deefb310dbd4734f3406351c48fe5a5591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/hosea\/2\/1-4.1792452237692.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונקבצו",
+      "gloss": "и ќе се соберат"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите на"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синовите на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заедно"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "и ќе постават"
+    },
+    {
+      "surface": "להם",
+      "gloss": "си"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "глава"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "и ќе излезат"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голем"
+    },
+    {
+      "surface": "יום",
+      "gloss": "е денот"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "на Изреел"
+    }
+  ],
+  "timestamp": "2026-10-19T23:23:57.693234336Z",
+  "model": "glm-5.3"
+}

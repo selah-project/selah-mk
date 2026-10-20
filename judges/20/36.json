@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "judges 20:36",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויגף \/ נגפו",
+      "rationale": "истиот корен нгф 'порази\/биде поразен' во 20:35 и тука — Јахве порази, Венијамин виде дека е поразен; повторувањето се губи во македонскиот глаголски образци."
+    }
+  ],
+  "translation": "И синовите на Венијамин видоа дека беа поразени, и мажите Јисраелови им отстапија место на Венијамин, бидејќи се надеваа на заседата што ја беа поставиле спроти Гивата.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "d7661a91493b079d8e4f2c0eb48296b02b5dfbb83c908ad7a54931dfbbd124ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/20\/33-36.1792446637432.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "и видоа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "на Венијамин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "беа поразени"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "и им отстапија"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ажи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелови"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "לבנימן",
+      "gloss": "на Венијамин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бидејќи"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "се надеваа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארב",
+      "gloss": "заседата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "беа поставиле"
+    },
+    {
+      "surface": "אל",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Гивата"
+    }
+  ],
+  "timestamp": "2026-10-19T21:50:37.433771643Z",
+  "model": "glm-5.3"
+}

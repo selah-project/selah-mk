@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 25:33",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема глагол-сврзка; הוא е показателно тоа"
+    },
+    {
+      "kind": "crux",
+      "subject": "יגאל מן הלוים",
+      "rationale": "„кој откупува од Левијците“ (KJV\/ASV) наспроти „ако некој купи од Левијците“ (JPS); глаголот еגאל, откуп по сродство"
+    }
+  ],
+  "translation": "И оној што го откупи ⟨את⟩ поседот од Левијците — излезе продажбата на куќата и градот на неговиот посед во јовелот, зашто куќите на градовите на Левијците ⟨е⟩ нивниот посед меѓу синовите на Јисраел.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "46d80eba8ec9f8da3be1799650deb753dd01ee6e5a81bd9bfea8a4d73cd8a9ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/25\/33-36.1792444472506.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "и оној што"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "го откупи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "поседот"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левијците"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "излезе"
+    },
+    {
+      "surface": "мמכר",
+      "gloss": "продажбата"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на куќата"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "и градот"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "неговиот посед"
+    },
+    {
+      "surface": "ביבל",
+      "gloss": "во јовелот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "куќите"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "на градовите"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "на Левијците"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨е⟩"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "нивниот посед"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    }
+  ],
+  "timestamp": "2026-10-19T21:14:32.507585555Z",
+  "model": "glm-5.3"
+}

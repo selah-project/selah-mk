@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קוה…וקוה",
+      "rationale": "Инклюзија — глаголот „надевај се“ стои на почетокот и на крајот, рамка на целиот псалм."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויאמץ לבך",
+      "rationale": "„нека се храбри срцето твое“ (јусив, GJPS\/ASV) наспроти „тој (Јахве) ќе го крепи срцето твое“ (KJV, читајќи го како каузатив)."
+    },
+    {
+      "kind": "invitation",
+      "subject": "до верниот",
+      "rationale": "Императиви упатени директно на читателот\/верникот."
+    }
+  ],
+  "translation": "Надевај се на Јахве; биди крепок, нека се храбри срцето твое, и пак надевај се на Јахве!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7279dd61c31884fd87504f0892046dbd010a32df671d465ed354dd2a9719f65c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/27\/13-14.1792453116375.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "надевај се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "биди крепок"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "и нека се храбри"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "срцето твое"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "и пак надевај се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:38:36.376350098Z",
+  "model": "glm-5.3"
+}

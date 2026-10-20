@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 9:16",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מגן vs צנה",
+      "rationale": "Две хебрејски зборови за штит — поголем (צנה) и помал (מגן) — македонскиот разликува со „штит“\/„мал штит“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "300 шутки на штит",
+      "rationale": "Точна мерка за секој штит, како во ст. 15."
+    },
+    {
+      "kind": "elision",
+      "subject": "шекел",
+      "rationale": "Како во ст. 15 — мерката „злато“ е без именувана единица во хебрејскиот."
+    }
+  ],
+  "translation": "и триста мали штитови од ковано злато — триста злато се креваше на секој еден штит — и царот ги стави ⟨ги⟩ во домот на шумата Ливанска.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ed74386c79c2606b92095c6a3600b2c60dbc8c86ace6139c53df08e99eb51652",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/9\/13-16.1792457468711.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "и триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "✓"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "мали штитови"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ковано"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "✓"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "се креваше"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "штитот"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "еден"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ги стави"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "יער",
+      "gloss": "на шумата"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Ливанска"
+    }
+  ],
+  "timestamp": "2026-10-20T00:51:08.712889276Z",
+  "model": "glm-5.3"
+}

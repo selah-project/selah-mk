@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до пастирите",
+      "rationale": "Директен повик до пастирите — Израелевите старешини."
+    }
+  ],
+  "translation": "Затоа, пастирите, слушнете го словото на Јахве:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "255dda2b567d391e8099640cf67001a99c45b9bee5d43e3c0a2058449c236c43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/34\/9-12.1792451874772.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Затоа"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "пастирите"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слушнете"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:17:54.772569099Z",
+  "model": "glm-5.3"
+}

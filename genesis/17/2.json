@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מאד מאד",
+      "rationale": "двојно повторување „мошне мошне“ — натажителна интензификација, одржана дословно"
+    },
+    {
+      "kind": "you",
+      "subject": "до Аврам",
+      "rationale": "обеќање упатено директно на Аврам"
+    }
+  ],
+  "translation": "И Јас ќе го дадам заветот Мој меѓу Мене и тебе, и многу ќе те умножам, мошне мошне.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c07c6c2ce2c35f2ef0bddc2c3f1f571aa6b1b35c8dac516fc702515ef473251e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/17\/1-4.1792442554111.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "И ќе го дадам"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "заветот Мој"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "меѓу Мене"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "и тебе"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "и ќе те умножам"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "тебе"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "мошне"
+    },
+    {
+      "surface": "мאד",
+      "gloss": "мошне"
+    }
+  ],
+  "timestamp": "2026-10-19T20:42:34.118276285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "молитва",
+      "rationale": "תפלה е молитва\/молба, но коренот значи „суди\/пресуда“ — молитвата како пресуда, овде запрена."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סכותה",
+      "rationale": "стихот 43 и 44 почнуваат со иститиот глагол סכךְ (покри) — повторување што ја врзи сликата."
+    }
+  ],
+  "translation": "Покриваш со облак за себеси, та да не мине молитвата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4fba566d6b5bd59f449d9992520aab66cb773f7233d713d8907c74f13ed09760",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/3\/41-44.1792455604878.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "покриваш"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "со облак"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за себеси"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "да не мине"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "молитвата"
+    }
+  ],
+  "timestamp": "2026-10-20T00:20:04.879088262Z",
+  "model": "glm-5.3"
+}

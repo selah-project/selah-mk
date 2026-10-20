@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 7:8",
+  "book": "hosea",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "погача",
+      "rationale": "עגה е колач печен во жар\/пепел, тркалест; 'погача' е најблиската слика"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתבולל \/ בלל",
+      "rationale": "интензивен облик на 'меша' — Ефраим се измеша со народите како тесто, а потоа е погача што не се превртува"
+    }
+  ],
+  "translation": "Ефраим меѓу народите тој се меша; Ефраим стана погача необрната.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7a256b4f7b997679b4c8da3cbf77de63852b2b7dd89338ec40b7bf37e2368fa4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/hosea\/7\/8-8.1792458303757.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраим"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "меѓу народите"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "יתבולל",
+      "gloss": "се меша"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраим"
+    },
+    {
+      "surface": "היה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "עגה",
+      "gloss": "погача"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "הפוכה",
+      "gloss": "обрната"
+    }
+  ],
+  "timestamp": "2026-10-20T01:05:03.757912504Z",
+  "model": "glm-5.3"
+}

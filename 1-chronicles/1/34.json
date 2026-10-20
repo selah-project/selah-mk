@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 1:34",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "Јисраел",
+      "rationale": "хебрејскиот вели Јисраел (Јаков), а не „Израел“ од традицијата"
+    }
+  ],
+  "translation": "И Аврахам го роди ⟨את⟩ Јицхак. Синовите на Јицхак: Есав и Јисраел.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "58bfa9bacaa49ccf42583cec363483557f06b36985c4fa19cf5e74c1b6e79422",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/1\/33-36.1792456779278.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "И роди"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јицхак"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Јицхак"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Синовите"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "на Јицхак"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "и Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:39.278672460Z",
+  "model": "glm-5.3"
+}

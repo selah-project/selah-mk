@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 15:11",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "именик",
+      "rationale": "список на шесте именувани левитски началници повикани од Давид"
+    }
+  ],
+  "translation": "И Давид ги повика Цадок и Евјатар свештениците, и левитите: Уриел, Асаја, Јоел, Шемаја, Елиел и Аминадав.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "be7f189f8906f45d742e7b18b0a04111e11d5690d3e0c82c58d6d82bb05f0473",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/15\/9-12.1792457048978.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и повика"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "ולאביתר",
+      "gloss": "и Евјатар"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свештениците"
+    },
+    {
+      "surface": "וללוים",
+      "gloss": "и левитите"
+    },
+    {
+      "surface": "לאוריאל",
+      "gloss": "Уриел"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Асаја"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "и Јоел"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемаја"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "и Елиел"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "и Аминадав"
+    }
+  ],
+  "timestamp": "2026-10-20T00:44:08.979405061Z",
+  "model": "glm-5.3"
+}

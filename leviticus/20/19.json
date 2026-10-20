@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 20:19",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שאר",
+      "rationale": "шеер — „плът\/тело\/близок роднина“; KJV „near kin“, буквално „телото свое“."
+    },
+    {
+      "kind": "you",
+      "subject": "до Израел",
+      "rationale": "Директна забрана со „ти“ — закон до народот."
+    }
+  ],
+  "translation": "И голотата на сестрата на мајка ти и на сестрата на татко ти немој да ја откриеш, зашто ⟨тој⟩ го оголил ⟨את⟩ телото свое — вината своја ќе ја понесат.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ca4f30609c0b26fddcbf572c0d5eb19d333ac8199141c1c3a2beef9eadc4db52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/20\/17-20.1792444441619.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וערות",
+      "gloss": "И голотата"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "на сестрата"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "на мајка ти"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "и на сестрата"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "на татко ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "немој"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "да ја откриеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "телото свое"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "телото свое"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "го оголил"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "вината своја"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ќе ја понесат"
+    }
+  ],
+  "timestamp": "2026-10-19T21:14:01.620937346Z",
+  "model": "glm-5.3"
+}

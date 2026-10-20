@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 30:19",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "избери го животот",
+      "rationale": "директен повик до Израел да избере"
+    },
+    {
+      "kind": "you",
+      "subject": "Израел",
+      "rationale": "Моше му се обраќа на народот: „против вас… пред тебе“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בחיים… תחיה",
+      "rationale": "игра на коренот חיה: избери живот за да живееш"
+    }
+  ],
+  "translation": "Земам денес за сведоци против вас ⟨את⟩ небото и ⟨את⟩ земјата: животот и смртта, благословот и клетвата ги ставив пред тебе — па избери го животот, за да живееш ти и потомството твое;",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "965050add94972e57b1a8194578138a08fe5de8138585eef10a6d78fefcd29a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/30\/17-20.1792445818893.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העידתי",
+      "gloss": "Земам за сведоци"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "против вас"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "небото"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небото"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "земјата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "животот"
+    },
+    {
+      "surface": "והמות",
+      "gloss": "и смртта"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ги ставив"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред тебе"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "благословот"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "и клетвата"
+    },
+    {
+      "surface": "ובחרת",
+      "gloss": "па избери"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "го животот"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "живееш"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "и потомството твое"
+    }
+  ],
+  "timestamp": "2026-10-19T21:36:58.894843434Z",
+  "model": "glm-5.3"
+}

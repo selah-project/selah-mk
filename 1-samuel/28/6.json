@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "не му одговори",
+      "rationale": "Тројното молчење на Јахве — сонови, Урим, пророци — е намерно задржана тајна што го тера Шаул кон Ејн Дор."
+    },
+    {
+      "kind": "idiom",
+      "subject": "праша кај",
+      "rationale": "בשאל ביהוה е стручен израз за светилиштно прашување, не обично прашање."
+    }
+  ],
+  "translation": "И Шаул праша кај Јахве, но Јахве не му одговори — ни во сонови, ни во Урим, ни преку пророците.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "93e13a5bc7758e50f368d55c5fe0ecf8fa3d9ee9af084a736af4b4234a53a784",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/28\/5-8.1792448035123.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "и праша"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "кај Јахве"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "му одговори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ни"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "во сонови"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ни"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "во Урим"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ни"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "пеку пророците"
+    }
+  ],
+  "timestamp": "2026-10-19T22:13:55.128346839Z",
+  "model": "glm-5.3"
+}

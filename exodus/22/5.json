@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המבער\/הבערה",
+      "rationale": "Инфинитивна игра: 'оној што пали — палежот', корен בער двапати во соседство."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גדיש",
+      "rationale": "Реткиот збор значи копа\/стек од снопови; 'гомила' би го изгубило значењето."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלם ישלם",
+      "rationale": "Инфинитивен апсолутен: 'платиќе плати' — целосна наплата, дадено како 'целосно нека плати'."
+    }
+  ],
+  "translation": "Ако излезе оган и го фати трњето, и биде изедена копата снопови или стојачкото жито или полето — целосно нека плати оној што ја запалил ⟨את⟩ пожарот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0bf4f97fb15e47a8ec3938b11ffbccb02b4ca14c9c1fabdb7c30713c96a91bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/22\/5-8.1792443716820.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "излезе"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оган"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "и го фати"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "трњето"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "и биде изедена"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "копата снопови"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "стојачкото жито"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "полето"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "целосно"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "нека плати"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "оној што ја запалил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пожарот"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "пожарот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:01:56.824681021Z",
+  "model": "glm-5.3"
+}

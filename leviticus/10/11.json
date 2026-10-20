@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ביד משה",
+      "rationale": "буквално „во раката на Моше“ — преку него, како орудие; македонски „преку раката на“"
+    }
+  ],
+  "translation": "и да ги поучувате ⟨את⟩ синовите Јисраелови ⟨את⟩ сите наредби што им ги изговори Јахве преку раката на Моше.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "7e2d65fcf001e04082906623344a463529b459d903ef2e418d137a3e6b2cbf8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/10\/9-12.1792444172055.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "и да поучувате"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синовите Јисраелови"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелови"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите наредби"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "наредби"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "изговори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ним"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "преку раката"
+    },
+    {
+      "surface": "משה",
+      "gloss": "на Моше"
+    }
+  ],
+  "timestamp": "2026-10-19T21:09:32.059612843Z",
+  "model": "glm-5.3"
+}

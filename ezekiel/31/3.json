@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 31:3",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Хебрејскиот нема глагол-врска: Ашур е именка поставена до именка — македонскиот бара „е“."
+    },
+    {
+      "kind": "crux",
+      "subject": "ובין עבתים",
+      "rationale": "Буквално „и меѓу преплетки“ — KJВ „меѓу дебелите гранки“, YLT „меѓу густишушишта“; сликата е круната скриена во сплет."
+    }
+  ],
+  "translation": "Еве, Ашур ⟨е⟩ кедар на Ливан, убав со гранки и со шумска сенка, и висок по раст — и меѓу густи зеленило му беше круната негова.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "147d0a3e5bfa848bd890fb61c1fb846a5a606227ee4aa0c3966a02036f4d8999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/31\/1-4.1792451808059.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "кедар"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "на Ливан"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "убав"
+    },
+    {
+      "surface": "ענף",
+      "gloss": "со гранки"
+    },
+    {
+      "surface": "וחרש",
+      "gloss": "и со шумска"
+    },
+    {
+      "surface": "מצל",
+      "gloss": "сенка"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "и висок"
+    },
+    {
+      "surface": "קומה",
+      "gloss": "по раст"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и меѓу"
+    },
+    {
+      "surface": "עבתים",
+      "gloss": "густи зеленило"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "му беше"
+    },
+    {
+      "surface": "צמרתו",
+      "gloss": "круната негова"
+    }
+  ],
+  "timestamp": "2026-10-19T23:16:48.060778607Z",
+  "model": "glm-5.3"
+}

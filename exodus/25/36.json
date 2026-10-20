@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 25:36",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кова дело",
+      "rationale": "מקשה — искувана работа, месингерско обликувано со чук (репусе), литерално „округла работа“"
+    }
+  ],
+  "translation": "Нивните јаболкови листови и нивните канали ќе бидат од неа — сета⟨та⟩ една кова дело, чисто злато.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "aa773e3ecc7110f84ad4456890b9cf12cc4119b3bd194604bb209277735cac10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/25\/33-36.1792443764629.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפתריהם",
+      "gloss": "нивните јаболкови листови"
+    },
+    {
+      "surface": "וקנתם",
+      "gloss": "и нивните канали"
+    },
+    {
+      "surface": "мемнев",
+      "gloss": "од неа"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ќе бидат"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "сета"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "кова дело"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "едно"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисто"
+    }
+  ],
+  "timestamp": "2026-10-19T21:02:44.636779122Z",
+  "model": "glm-5.3"
+}

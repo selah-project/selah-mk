@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 33:11",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בחחים",
+      "rationale": "'со куки (во носот)' наспроти 'меѓу трње' (KJV) — ист збор значи трн и носна прстенка"
+    },
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "אשר למלך — македонскиот бара сврзник кај придавската реченица"
+    }
+  ],
+  "translation": "И доведе Јахве врз нив ⟨את⟩ старешините на војската што ⟨се⟩ на царот Ашур, и го фатија ⟨את⟩ Менаше со куки, и го сврзаа со бронзени окови, и го одведоа во Вавилон.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a2fc12ba1e98b77b63b3e2e8ec8968a929031a154d8bcae118f09cc232a47544",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/33\/9-12.1792457840260.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "доведе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "врз нив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "старешините на војската"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "старешините"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "на војската"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "фатија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Менаше"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "בחחים",
+      "gloss": "со куки"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "го сврзаа"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "со бронзени окови"
+    },
+    {
+      "surface": "ויוליכהו",
+      "gloss": "го одведоа"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "во Вавилон"
+    }
+  ],
+  "timestamp": "2026-10-20T00:57:20.261729492Z",
+  "model": "glm-5.3"
+}

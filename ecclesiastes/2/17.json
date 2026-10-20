@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רעות רוח",
+      "rationale": "Дословно „пасење\/загризување на руах“ — традиционално „мачење на духот“, современите преводи „гонење на ветер“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "хевел",
+      "rationale": "הבל останува како звук „хевел“ (див, здив), не се преведува во „нитроштина“ само."
+    },
+    {
+      "kind": "mystery",
+      "subject": "сè е хевел и пасење на руах",
+      "rationale": "Кохелетповторувачката загадочна реченица за состојбата на сè под сонцето."
+    }
+  ],
+  "translation": "И го мразев ⟨את⟩ животот, зашто зло за мене е делото што се прави под сонцето, зашто сè е хевел и пасење на руах.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c1c669dab5203901d782a63b4894168e24168b4354b61b7ce2442b2bb17daf6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/2\/17-20.1792455710238.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "И го мразев"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "животот"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "животот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "за мене"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "делото"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "што се прави"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцето"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "сè"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хевел"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "и пасење"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    }
+  ],
+  "timestamp": "2026-10-20T00:21:50.238719318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מטה\/שבט",
+      "rationale": "два синонимни корена за стап\/жезло во паралелизам, грadenето е во самиот пар"
+    }
+  ],
+  "translation": "Јахве го скрши стапот на злобните, жезлото на владетелите.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "07c977385d7b59558e92bc3fbceea69f239d8635ff3966db3fe7ac4bd4ff2e5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/14\/5-8.1792449727050.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שָׁבַר",
+      "gloss": "го скрши"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מַטֵּה",
+      "gloss": "стапот"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "на злобните"
+    },
+    {
+      "surface": "שֵׁבֶט",
+      "gloss": "жезлото"
+    },
+    {
+      "surface": "מֹשְׁלִים",
+      "gloss": "на владетелите"
+    }
+  ],
+  "timestamp": "2026-10-19T22:42:07.051326374Z",
+  "model": "glm-5.3"
+}

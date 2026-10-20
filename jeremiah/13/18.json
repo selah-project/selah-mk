@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 13:18",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מראשותיכם",
+      "rationale": "Буквално „главешинството ваше“ (од ראש, глава): KJV „вашите кнежевства“ vs. JPS\/ASV „главите\/капите“."
+    },
+    {
+      "kind": "you",
+      "subject": "на царицата-мајка",
+      "rationale": "גבירה — владетелката; традиционално царицата-мајка (мајката на царот)."
+    }
+  ],
+  "translation": "Кажи на царот и на господарката: Понизете се, седнете долу, зашто слезе од главите ваши венецот на вашата величност.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "80e5b47075691074f4ecace86bc603c3b28c8848c517efaf656d5d11b92090ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/13\/17-20.1792450570016.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Кажи"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "ולגבירה",
+      "gloss": "и на господарката"
+    },
+    {
+      "surface": "השפילו",
+      "gloss": "Понизете се"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "седнете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "слезе"
+    },
+    {
+      "surface": "מראשותיכם",
+      "gloss": "од главите ваши"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "венецот"
+    },
+    {
+      "surface": "תפארתכם",
+      "gloss": "на вашата величост"
+    }
+  ],
+  "timestamp": "2026-10-19T22:56:10.016894160Z",
+  "model": "glm-5.3"
+}

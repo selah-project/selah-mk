@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 21:22",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Хебрејскиот нема копула во изразот אלהים עמך."
+    },
+    {
+      "kind": "you",
+      "subject": "до Аврахам",
+      "rationale": "Авимелех му се обраќа директно на Аврахам."
+    },
+    {
+      "kind": "substitution",
+      "subject": "војската",
+      "rationale": "צבאו — воена сила, дружина; множинна форма за збирна целина."
+    }
+  ],
+  "translation": "И биде во тоа време, и Аврахаму рече Авимелех и Фикол, началник на војската негова, велејќи: Елохим ⟨е⟩ со тебе во сè што правиш.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9bdb4a19750bc8a0e638a503b0be8c13a3c70dc5ed549da04267a91041179b2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/21\/21-24.1792442630826.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "во времето"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "ופיכל",
+      "gloss": "и Фикол"
+    },
+    {
+      "surface": "שר",
+      "gloss": "началник"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "на војската негова"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "со тебе"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "правиш"
+    }
+  ],
+  "timestamp": "2026-10-19T20:43:50.829045959Z",
+  "model": "glm-5.3"
+}

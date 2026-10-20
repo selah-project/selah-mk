@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 22:12",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "сега знам",
+      "rationale": "ירא אלהים — 'се боиш од Елохим' или 'богобојазлив си'; конструиран придавка против глагол."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ממני",
+      "rationale": "'од мене' може да значи и 'поради мене' — дативска употреба на מן кај некои преведувачи."
+    }
+  ],
+  "translation": "И рече: Не ја протегај раката своја кон момчето и не прави му ништо, зашто сега знам дека се боиш од Елохим — не го поштеди ⟨את⟩ синот свој, ⟨את⟩ единствениот свој, од мене.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ffb8dc1ed9d7bec130c40f64eb719f5c63487ba6aa227e9f271739788fdceebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/22\/9-12.1792442633852.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ја протегај"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "раката своја"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "момчето"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "прави"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ништо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сега"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "се боиш"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "го поштеди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синот свој"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "синот свој"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "единствениот свој"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "единствениот свој"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "од мене"
+    }
+  ],
+  "timestamp": "2026-10-19T20:43:53.858713878Z",
+  "model": "glm-5.3"
+}

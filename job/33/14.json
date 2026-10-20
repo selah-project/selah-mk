@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 33:14",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "забележува",
+      "rationale": "ישורנה од שור: „гледа\/набљудува“ (KJV „perceiveth“) наспроти читање со סור „не го одвраќа“ (LXX\/BSB) — преводот го држи коренот שור"
+    },
+    {
+      "kind": "substitution",
+      "subject": "човек",
+      "rationale": "македонскиот бара подмет при ישורנה; хебрејскиот го подразбира"
+    }
+  ],
+  "translation": "Зашто Ел зборува еденпат, па двапати — а човек тоа не го забележува.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3dc3627b8b1b1215cfc8c786d3129a67a10ad326a2f456bdfa55fb31cdd97538",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/33\/13-16.1792455225656.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "еденпат"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "зборува"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "па двапати"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "забележува"
+    }
+  ],
+  "timestamp": "2026-10-20T00:13:45.657641504Z",
+  "model": "glm-5.3"
+}

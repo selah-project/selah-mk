@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד е 'хесед' — милост\/верност во еден збор; задржено како збор, не како 'милост' сама"
+    },
+    {
+      "kind": "addition",
+      "subject": "ги",
+      "rationale": "македонскиот бара кратка заменска честица за множински предмет, хебрејскиот ја нема"
+    },
+    {
+      "kind": "wordplay",
+      "subject": " refrain",
+      "rationale": "литургиското повторување 'ки леолам хасдо' на крајот на секој стих е рамка на целиот псалм"
+    }
+  ],
+  "translation": "На Оној што ги создаде неботата со уменост, оти навеки е хеседот Негов.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "317ed6efc2cc6391c7b393cb0d0b3920f14e995d7e9830f3330c6771da69377e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/136\/5-8.1792454084160.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "На Оној што ги создаде"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "неботата"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "со уменост"
+    },
+    {
+      "surface": "כי",
+      "gloss": "оти"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навеки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседот Негов"
+    }
+  ],
+  "timestamp": "2026-10-19T23:54:44.160895234Z",
+  "model": "glm-5.3"
+}

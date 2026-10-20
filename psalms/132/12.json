@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 132:12",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "עדי עד",
+      "rationale": "Двојно „довека навек“ — ремарка на вечноста како траење"
+    },
+    {
+      "kind": "substitution",
+      "subject": "זו",
+      "rationale": "Демонстративот „ова\/што“ кон сведоштвата; македонскиот бара релативна врска"
+    }
+  ],
+  "translation": "Ако синовите твои го чуваат заветот мој и сведоштвата мои што ќе ги учам нив, и синовите нивни довека навек ќе седат на престол за тебе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "21d3a7d3ece29d0a1dc515129376c18e919ada20b7608f0a39f18748c174d874",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/132\/9-12.1792454080610.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "го чуваат"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "синовите твои"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "заветот мој"
+    },
+    {
+      "surface": "ועדתי",
+      "gloss": "и сведоштвата мои"
+    },
+    {
+      "surface": "זו",
+      "gloss": "што"
+    },
+    {
+      "surface": "אלמדם",
+      "gloss": "ќе ги учам нив"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "синовите нивни"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "довека"
+    },
+    {
+      "surface": "עד",
+      "gloss": "навек"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ќе седат"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "на престол"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T23:54:40.611885364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 24:34",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "мתהלך",
+      "rationale": "KJV 'one that travelleth' спроти ASV\/JPS 'robber\/runner' — оној што оди по пат или напаѓач што трча."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מגן",
+      "rationale": "буквално 'со штит', буквата е слика — преведувачите велат 'вооружен'."
+    }
+  ],
+  "translation": "и сиромаштијата твоја ќе дојде ⟨како⟩ оној што оди по пат, а твојот недостаток како вооружен човек.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6c7342138159fa3d93a81d0cf90f27760268de55772b53e03b1d5fc4b7b62fb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/24\/34-34.1792458439608.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "и ќе дојде"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "оној што оди по пат"
+    },
+    {
+      "surface": "רישך",
+      "gloss": "сиромаштијата твоја"
+    },
+    {
+      "surface": "ומחסריך",
+      "gloss": "а твојот недостаток"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "како човек"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "со штит"
+    }
+  ],
+  "timestamp": "2026-10-20T01:07:19.608877563Z",
+  "model": "glm-5.3"
+}

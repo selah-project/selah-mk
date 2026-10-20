@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "имаат",
+      "rationale": "хебрејскиот л- префикс (להם, „им“) се претвори во македонски глагол „имаат“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "анатомската листа",
+      "rationale": "повторен ритам: орган–имаат–но не–глагол, четири пати во 5–7"
+    }
+  ],
+  "translation": "Уста имаат, но не зборуваат; очи имаат, но не гледаат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d238467357eb2dd7bd7606a902d92ce1147ea96c7a51483d5250e9db09898798",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/115\/5-8.1792453957843.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "уста"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имаат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "зборуваат"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "очи"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имаат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "гледаат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:52:37.843925274Z",
+  "model": "glm-5.3"
+}

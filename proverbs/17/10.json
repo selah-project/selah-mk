@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "попушта",
+      "rationale": "תחת е 'слегува, притиска надолу' — сликата на оплетката што слегува длабоко во разумниот."
+    },
+    {
+      "kind": "addition",
+      "subject": "отколку",
+      "rationale": "Споредбата е без поврзувачки збор во хебрејскиот."
+    }
+  ],
+  "translation": "Попушта оплетка врз разумниот повеќе отколку сто удри врз глупавиот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c6437f1d196d69d887c17074e87f7ce4ed3d0a5be2abc0aff97d759064fd1898",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/17\/9-12.1792454536511.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "попушта"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "оплетка"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "врз разумниот"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "отколку удри"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупавиот"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    }
+  ],
+  "timestamp": "2026-10-20T00:02:16.512409539Z",
+  "model": "glm-5.3"
+}

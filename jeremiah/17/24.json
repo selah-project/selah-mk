@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 17:24",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמע תשמעון",
+      "rationale": "инфinitив апсолутен — удвојување за нагласување, „послушно послушате“"
+    },
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "клитика за членуваниот предмет на осветување"
+    }
+  ],
+  "translation": "И ќе биде ако послушно Ме послушате — изрека на Јахве — да не внесувате товар низ портите на овој град во денот на шабат, и да го осветите ⟨את⟩ денот на шабат, не вршејќи во него никаква работа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "138c2f1dc406141943049403a1be0e6ba256184ea735ce08de855332362a967b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/17\/21-24.1792450660339.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И ќе биде"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послушно"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "Ме послушате"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ме"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "да не"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "внесувате"
+    },
+    {
+      "surface": "משא",
+      "gloss": "товар"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "низ портите на"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овој"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот на"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "шабат"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "и да осветите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "денот"
+    },
+    {
+      "surface": "יום",
+      "gloss": "го денот"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "на шабат"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "не"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "вршејќи"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во него"
+    },
+    {
+      "surface": "כל",
+      "gloss": "никаква"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "работа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:57:40.342349267Z",
+  "model": "glm-5.3"
+}

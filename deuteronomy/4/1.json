@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 4:1",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ги \/ ја",
+      "rationale": "македонскиот бара клитички за директниот објект, хебрејскиот користи את"
+    },
+    {
+      "kind": "substitution",
+      "subject": "наследите",
+      "rationale": "ירש — зафаќање со истиснување на претходните жители; „наследите“ е најблиску, но губи сила"
+    },
+    {
+      "kind": "invitation",
+      "subject": "до Јисраел",
+      "rationale": "повик со императив שמע — „послушај“"
+    }
+  ],
+  "translation": "А сега, Јисраел, послушај ги наредбите и правата што јас ⟨את⟩ ве учам да ги исполнувате, за да живеете, и да влезете и да ја наследите ⟨את⟩ земјата што Јахве, Елохим на вашите татковци, ви ја дава.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c7e54bc6beed9fa6486c8601d81f6e4d1635d5bded0325dc3b5a63b5abec15be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/4\/1-4.1792445370022.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послушај"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ги (на)"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "наредбите"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "правата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "מלמד",
+      "gloss": "ве учам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ве"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да ги исполнувате"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "תחיו",
+      "gloss": "живеете"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "и да влезете"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "да ја наследите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "вашите татковци"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дава"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    }
+  ],
+  "timestamp": "2026-10-19T21:29:30.024610053Z",
+  "model": "glm-5.3"
+}

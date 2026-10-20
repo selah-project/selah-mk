@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "нека е",
+      "rationale": "хебрејскиот нема глагол-врска; благословот е именска конструкција"
+    },
+    {
+      "kind": "substitution",
+      "subject": "чудеса",
+      "rationale": "נפלאות — „нешта отделени\/издвоени“, одделени од обичното; чудо е улога, не сликата"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Благословен нека е Јахве",
+      "rationale": "хвалбен повик упатен кон заедницата"
+    }
+  ],
+  "translation": "Благословен нека е Јахве Елохим, Елохимот на Јисраел, кој прави чудеса само ⟨тој⟩.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d4193433031fb1c88c17793e794381f5d0f7f9afe7ab5a66f13c86d8dc085f9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/72\/18-19.1792458360214.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословен нека е"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохимот на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кој прави"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "чудеса"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "само ⟨тој⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T01:06:00.214461763Z",
+  "model": "glm-5.3"
+}

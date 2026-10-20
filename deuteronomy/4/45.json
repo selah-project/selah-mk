@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 4:45",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула во номиналната реченица"
+    },
+    {
+      "kind": "measurement",
+      "subject": "сведоштва, одредби, судови",
+      "rationale": "тричлена формула-попис на корпусот на Тората"
+    }
+  ],
+  "translation": "Оваа се ⟨е⟩ сведоштвата, одредбите и судовите што Моше им ги говори на синовите Јисраелови при нивното излегување од Мицраим.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "53f0dc2ea7a131f64016b7861d3d675064449a6122c4c7a2c1153c0908450a60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/4\/45-48.1792445371095.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Оваа"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "сведоштвата"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "и одредбите"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "и судовите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "при нивното излегување"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "од Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-19T21:29:31.096260897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 6:35",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וקלע \/ המחקה",
+      "rationale": "два различни хебрејски корени за 'резбање' (קלע — како фрлање со прача, חקה) ја рамкираат стихот; во македонскиот се изедначуваат."
+    },
+    {
+      "kind": "crux",
+      "subject": "מישר על המחקה",
+      "rationale": "'злато израмнето врз изрезбаното' — KJV 'fitted upon', YLT 'straightened'; нејасно дали златото е рамномерно нанесено или прилагодено."
+    }
+  ],
+  "translation": "И издлаби херувими и палми и раскриени цветови, и ги обложи со злато, израмнето врз изрезбаното.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b25c9ed274b22d760f116411b721134b066bfbefbe0b0a52ebc6cb48fd133eb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/6\/33-36.1792448630749.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקלע",
+      "gloss": "и издлаби"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "херувими"
+    },
+    {
+      "surface": "ותמרות",
+      "gloss": "и палми"
+    },
+    {
+      "surface": "ופטרי",
+      "gloss": "и раскриени"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "цветови"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "и ги обложи"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "израмнето"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "המחקה",
+      "gloss": "изрезбаното"
+    }
+  ],
+  "timestamp": "2026-10-19T22:23:50.751317829Z",
+  "model": "glm-5.3"
+}

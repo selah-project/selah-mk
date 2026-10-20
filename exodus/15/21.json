@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 15:21",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גאה גאה",
+      "rationale": "Инфинитивен апсолутив: бесконечна возвисеност — повторувањето се губи во македонскиот."
+    },
+    {
+      "kind": "invitation",
+      "subject": "שירו ליהוה",
+      "rationale": "Повик во императив: Пејте на Јахве — Миријам ги повикува жените."
+    },
+    {
+      "kind": "you",
+      "subject": "להם",
+      "rationale": "Директно обраќање до народот\/жените."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ותען",
+      "rationale": "Исто може да значи „пропеа“ наместо „одговори“."
+    }
+  ],
+  "translation": "И Миријам им одговори: Пејте на Јахве, зашто возвисено се возвиси, коњот и неговиот јавач фрли во морето.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "cf8c720d123cbb9253908586f969c4be994690da457a19806077978c6dcb568e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/15\/21-24.1792443516293.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "одговори"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Миријам"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Пејте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "возвисено"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "се возвиси"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "коњот"
+    },
+    {
+      "surface": "ורכבו",
+      "gloss": "и неговиот јавач"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "фрли"
+    },
+    {
+      "surface": "בים",
+      "gloss": "во морето"
+    }
+  ],
+  "timestamp": "2026-10-19T20:58:36.297741649Z",
+  "model": "glm-5.3"
+}

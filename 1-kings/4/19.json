@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 4:19",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונציב אחד אשר בארץ",
+      "rationale": "„еден намесник што е во земјата“ — KJV: единствен старешина; JPS: еден над сите старешини; BSB: уште еден намесник во Јудеја"
+    },
+    {
+      "kind": "measurement",
+      "subject": "список на намесници",
+      "rationale": "Ова е именување\/пребројување на службеници и нивните области"
+    }
+  ],
+  "translation": "Гевер, син на Ури, во земјата Гилад — земјата на Сихон, царот на Еморејците, и на Ог, царот на Башан; и ⟨имаше⟩ еден намесник во ⟨таа⟩ земја.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "ca69ac76d9703b59432a4f6fcc18b5e51bb22b6c2f88df81660f625407d9b3ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/4\/17-20.1792448557637.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "Гевер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "Ури"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилад"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Сихон"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "на Еморејците"
+    },
+    {
+      "surface": "ועג",
+      "gloss": "и на Ог"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "на Башан"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "и намесник"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којшто"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T22:22:37.638417182Z",
+  "model": "glm-5.3"
+}

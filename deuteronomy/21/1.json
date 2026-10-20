@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 21:1",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "прободен",
+      "rationale": "חלал е 'прободен (до смрт)' — член со рана, не само 'убиен'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "не е познато кој го удри",
+      "rationale": "целиот ритуал почива на нерешеното — убиецот е непознат"
+    }
+  ],
+  "translation": "Ако се најде прободен мртов човек во земјата што Јахве, твојот Елохим, ти ја дава да ја наследиш, паднат во полето, а не е познато кој го удри него —",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "155665aeda6c0c7eb5d3a392461b1cd0ca1678c7cd555bd2c52b3f0e5b579546",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/21\/1-4.1792445625703.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "се најде"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "прободен мртов човек"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дава"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "да ја наследиш"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "паднат"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "во полето"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "е познато"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "го удри него"
+    }
+  ],
+  "timestamp": "2026-10-19T21:33:45.704423045Z",
+  "model": "glm-5.3"
+}

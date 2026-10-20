@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "еден го повикав",
+      "rationale": "אחד קראתיו: 'го повикав кога беше сам\/еден' (KJV 'alone') наспроти букв. 'како еден го повикав'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "תחוללכם",
+      "rationale": "корен חול значи 'се мачи\/врти' — буквално 'онаа што се мачеше со вас', преведено 'што ве родила'"
+    }
+  ],
+  "translation": "Погледнете на Аврахам, татко ви, и на Сара што ве родила; зашто еден го повикав, и го благословив, и го умножив.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "675be70d2c4c8aaa0725e5f4bb12a3e6d3ed66f349d95d30edd7c69e1964864e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/51\/1-4.1792450207888.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "погледнете"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "татко ви"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "што ве родила"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "го повикав"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "и го благословив"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "и го умножив"
+    }
+  ],
+  "timestamp": "2026-10-19T22:50:07.889532471Z",
+  "model": "glm-5.3"
+}

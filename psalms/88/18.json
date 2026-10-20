@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סבב\/נקף",
+      "rationale": "два глагола за опкружување во еден стих — задвојување што ја пренесува стеснетоста, делумно изгубено"
+    }
+  ],
+  "translation": "Опколија ме како води целиот ден; заедно ги стегнаа круговите околу мене.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "eda71151d2410ae7e9ab6e9c08f5e534f649778bee36cadc75d74ff1f725fda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/88\/17-19.1792453686616.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Опколија ме"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "како води"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "ги стегнаа круговите"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "околу мене"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "заедно"
+    }
+  ],
+  "timestamp": "2026-10-19T23:48:06.616870372Z",
+  "model": "glm-5.3"
+}

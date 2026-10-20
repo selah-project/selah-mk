@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפש е ближе до „дишечно битие, грло, животна сила“ — не „душа“ како посебен дел од човекот."
+    },
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Македонскиот бара копула што хебрејскиот ја нема."
+    }
+  ],
+  "translation": "И рече Јахве на сатаната: Ене, тој е во раката твоја — само ⟨את⟩ душата негова чувај.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/2\/5-8.1792454851297.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "сатаната"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Ене, тој"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "во раката твоја"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "душата негова"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душата негова"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "чувај"
+    }
+  ],
+  "timestamp": "2026-10-20T00:07:31.298276462Z",
+  "model": "glm-5.3"
+}

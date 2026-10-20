@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула, македонскиот ја бара"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמש\/מגן",
+      "rationale": "звучна пара сонце-штит, слика за заштита и светлина"
+    }
+  ],
+  "translation": "Зашто сонце и штит е Јахве Елохим; благодат и слава дава Јахве; нема да задржи добро од оние што одат во непорочност.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e6c8cc7d871f0aa3b67593935998350e009bd1525591d60cd78812ebb8273999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/84\/9-12.1792453648844.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "сонце"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "и штит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "חן",
+      "gloss": "благодат"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "и слава"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "да задржи"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "од оние што одат"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "во непорочност"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:28.845261171Z",
+  "model": "glm-5.3"
+}

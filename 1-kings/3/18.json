@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 3:18",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бевме",
+      "rationale": "хебрејскиот ја испушта глаголската сврзка кај שתים אנחנו"
+    },
+    {
+      "kind": "measurement",
+      "subject": "третиот ден",
+      "rationale": "времењата на раѓањето се бројат ден по ден"
+    }
+  ],
+  "translation": "И биде на третиот ден откако јас родив — роди и оваа жена; и бевме заедно, немаше странец со ⟨את⟩ нас во домот, освен нас двете ⟨бевме⟩ во домот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "322493bbf3c58d505b483e841ab27e9a558123c4dbffe26b9bccef70622c14f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/3\/17-20.1792448594536.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "на денот"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третиот"
+    },
+    {
+      "surface": "ללדתי",
+      "gloss": "откако јас родив"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "и ние"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заедно"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немаше"
+    },
+    {
+      "surface": "זר",
+      "gloss": "странец"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ со нас"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "зולתי",
+      "gloss": "освен"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "двете"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ние"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во домот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:23:14.539268471Z",
+  "model": "glm-5.3"
+}

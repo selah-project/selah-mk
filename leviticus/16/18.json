@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 16:18",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот ја нема копулата во релативната реченица"
+    }
+  ],
+  "translation": "И нека излезе кон жртвеникот што ⟨е⟩ пред Јахве, и нека го искупи; и нека земе од крвта на волот и од крвта на јарецот, и нека стави на роговите на жртвеникот одсекаде.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a17951f644ba6e4159dd6373631f4a90397291ef9a694cbace2753afb91de8d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/16\/17-20.1792444366717.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и нека излезе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жртвеникот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "и нека искупи"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "него"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "и нека земе"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "од крвта"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "на волот"
+    },
+    {
+      "surface": "ומדם",
+      "gloss": "и од крвта"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "на јарецот"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "и нека стави"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "роговите"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "на жртвеникот"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "одсекаде"
+    }
+  ],
+  "timestamp": "2026-10-19T21:12:46.718957357Z",
+  "model": "glm-5.3"
+}

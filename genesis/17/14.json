@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 17:14",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душа",
+      "rationale": "נפש е дишено суштество, живот-силa\/грло — не бессмртна душа."
+    },
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Хебрејскиот нема копула во „тој го наруши“ — македонскиот ја бара."
+    }
+  ],
+  "translation": "А необрезан маж, што не ќе го обреже ⟨את⟩ месото на својата необрезаност — таа душа ќе биде отсечена од својот народ: ⟨את⟩ Мојот завет го наруши.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "bd70323f7013dc768a279706e7a0a734fca4f182081ac9899ddff6f8d6046068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/17\/13-16.1792442557146.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וערל",
+      "gloss": "а необрезан"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "маж"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "ќе обреже"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "месото"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "месото"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "на својата необрезаност"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "и ќе биде отсечена"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "таа душа"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "од својот народ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мојот завет"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Мојот завет"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "го наруши"
+    }
+  ],
+  "timestamp": "2026-10-19T20:42:37.212226445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 24:8",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "си ослободен",
+      "rationale": "ונקית букв. „ќе бидеш чист“ — ритуално-правна чистота како ослободување од заклетва"
+    }
+  ],
+  "translation": "А ако жената не сака да поиде по тебе, тогаш си ослободен од оваа моја заклетва — само ⟨את⟩ синот мој не го враќај таму!",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2e9ff319661a6b8b3c958ed1f80acb36a7d8f0be943c6775cdc72c885ea6e95e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/24\/5-8.1792442679086.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "сака"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "да поиде"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "по тебе"
+    },
+    {
+      "surface": "ונקית",
+      "gloss": "си ослободен"
+    },
+    {
+      "surface": "משבעתי",
+      "gloss": "од мојата заклетва"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синот мој"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синот мој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "враќај"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "таму"
+    }
+  ],
+  "timestamp": "2026-10-19T20:44:39.343552928Z",
+  "model": "glm-5.3"
+}

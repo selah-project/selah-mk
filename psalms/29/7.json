@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חצב",
+      "rationale": "од глаголот за копање\/тесачење камен: 'heweth' (JPS) наспроти 'divideth' (KJV) наспроти 'strikes' (BSB)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "להבות אש",
+      "rationale": "сликата на молњи како исклани пламени — од громот во бура"
+    }
+  ],
+  "translation": "Гласот на Јахве сече пламени од оган.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "007ebbf8d910a3c8e7e7d2e2d2e22dba0019bd0f8e94a2bfbc19dc384540295b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/29\/5-8.1792453135801.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "гласот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "сече"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "пламени"
+    },
+    {
+      "surface": "אש",
+      "gloss": "од оган"
+    }
+  ],
+  "timestamp": "2026-10-19T23:38:55.802859852Z",
+  "model": "glm-5.3"
+}

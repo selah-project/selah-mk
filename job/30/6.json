@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 30:6",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "долини",
+      "rationale": "נחלים е зимски потоци\/вадици; 'долини' е само една страна на зборот."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרי עפר",
+      "rationale": "'дупки од земјата\/прав' — конструиран однос, дупките се во правот."
+    }
+  ],
+  "translation": "во страшните долини да живеат, во дупки од прав и во карпести пукнатини.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3e283dcd27359b971c36abb8df37e3fb458a49dc7496d52452750b9d6dad5f3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/30\/5-8.1792455186963.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בערוץ",
+      "gloss": "во страшните"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "долини"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "да живеат"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "дупки"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прав"
+    },
+    {
+      "surface": "וכפים",
+      "gloss": "и карпести пукнатини"
+    }
+  ],
+  "timestamp": "2026-10-20T00:13:06.963659549Z",
+  "model": "glm-5.3"
+}

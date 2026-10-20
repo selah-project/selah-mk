@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 41:18",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מסע",
+      "rationale": "фрлак\/стрела — единствено место во Танах"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ושריה",
+      "rationale": "оклоп (плетен) — речиси единствена појава"
+    }
+  ],
+  "translation": "Мечот што ќе го достигне не устојува — ни копјето, ни снарот, ни оклопот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1b9a4decbebf51af192a8150194c0341a91a104a132d87e0876ed2544fce7d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/41\/17-20.1792455393696.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משיגהו",
+      "gloss": "што ќе го достигне"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мечот"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "устојува"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "копјето"
+    },
+    {
+      "surface": "מסע",
+      "gloss": "снарот"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ни оклопот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:16:33.696921251Z",
+  "model": "glm-5.3"
+}

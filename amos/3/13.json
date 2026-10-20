@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 3:13",
+  "book": "amos",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Израел\/домот Јааков",
+      "rationale": "Директен повик да слушне и сведочи народот."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Слушајте",
+      "rationale": "Императив што го повикува слушателот."
+    }
+  ],
+  "translation": "Слушајте и сведочете во домот Јааков — изрека на Адонај Јахве, Елохим Цеваот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ed21941dff667967c348f60471a59a030eb60f87c9bd76e8e2b04e1793724f41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/amos\/3\/13-15.1792452343919.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Слушајте"
+    },
+    {
+      "surface": "והעידו",
+      "gloss": "и сведочете"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Цеваот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:25:43.919778949Z",
+  "model": "glm-5.3"
+}

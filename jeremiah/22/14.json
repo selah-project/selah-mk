@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 22:14",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ששר",
+      "rationale": "шашар — црвена окер (вермилион), ретка збор што се јавува само тука и во Езекијл 23:14"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומשוח",
+      "rationale": "машах значи и 'помазува' и 'фарба' — овде е фарбање со црвен окер, не помазување"
+    }
+  ],
+  "translation": "Кој вели: Ќе си изградам дом со простор и горни соби пространи; и си пробива прозорци, покриен ⟨е⟩ со кедар и намачкан со црвена окер.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "595f8afa3fda109e88f91dea547e4d85141492c6fa3094d802d0390662876682",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/22\/13-16.1792450691964.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "кој вели"
+    },
+    {
+      "surface": "אבנה",
+      "gloss": "ќе изградам"
+    },
+    {
+      "surface": "לי",
+      "gloss": "себеси"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "מדות",
+      "gloss": "со простор"
+    },
+    {
+      "surface": "ועליות",
+      "gloss": "и горни соби"
+    },
+    {
+      "surface": "מרוחים",
+      "gloss": "пространи"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "и пробива"
+    },
+    {
+      "surface": "לו",
+      "gloss": "себеси"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "прозорци"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "покриен"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "со кедар"
+    },
+    {
+      "surface": "ומשוח",
+      "gloss": "и намачкан"
+    },
+    {
+      "surface": "בששר",
+      "gloss": "со црвена окер"
+    }
+  ],
+  "timestamp": "2026-10-19T22:58:11.966177168Z",
+  "model": "glm-5.3"
+}

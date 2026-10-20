@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמע \/ תשמע",
+      "rationale": "Коренот „слуша“ се повторува во првата и последната реченица на стихот — рамка што ја губи македонската синтакса."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Слушај, народе мој",
+      "rationale": "Директен повик со императив кон народот."
+    },
+    {
+      "kind": "you",
+      "subject": "до Јисраел",
+      "rationale": "Обраќање по име до Израел како народ."
+    }
+  ],
+  "translation": "Слушај, народе мој, и ќе те предупредам: Јисраеле, ако слушаш мене!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/81\/9-12.1792453640282.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Слушај"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народе мој"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "и ќе те предупредам"
+    },
+    {
+      "surface": "בך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраеле"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "слушаш"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:20.283407150Z",
+  "model": "glm-5.3"
+}

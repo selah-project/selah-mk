@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 26:17",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "осумдесет",
+      "rationale": "Бројот на свештениците е наведен точно."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חיל",
+      "rationale": "בני חיל е дословно „синови на јунаштво\/силност“, хебрејската слика е задржана."
+    }
+  ],
+  "translation": "И влезе по него Азарјаху свештеникот, а со него свештеници на Јахве, осумдесет, синови на јунаштво.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dbef5c6e4b66def50b31fd317101ef6f98aeb059e8ccbde44b956fcc87f39acd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/26\/17-20.1792457807005.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и влезе"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "по него"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Азарјаху"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "а со него"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "свештеници"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "осумдесет"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "на јунаштво"
+    }
+  ],
+  "timestamp": "2026-10-20T00:56:47.006469870Z",
+  "model": "glm-5.3"
+}

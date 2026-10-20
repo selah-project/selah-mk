@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "והפצותי \/ וזריתם",
+      "rationale": "два глагола за расфрлање и веење на жито — слика на сито, еден образ во два чина."
+    }
+  ],
+  "translation": "И ќе ги расфрлам ⟨את⟩ Мицраим меѓу народите, и ќе ги развеам по земјите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "31b3e1482e918f00fc874357b540115985ed29e47bacfcd3acc6d32c690f0581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/30\/21-24.1792451809036.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "и ќе ги расфрлам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мицраим"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "меѓу народите"
+    },
+    {
+      "surface": "וזריתם",
+      "gloss": "и ќе ги развеам"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "по земјите"
+    }
+  ],
+  "timestamp": "2026-10-19T23:16:49.037168270Z",
+  "model": "glm-5.3"
+}

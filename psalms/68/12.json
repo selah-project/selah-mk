@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "весничките",
+      "rationale": "המבשרות е женски множински партицип — 'жените што пренесуваат радосна вест', половата нијанса се губи во македонскиот"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמר ... המבשרות",
+      "rationale": "зборот е даден и веднаш пренесен — оддавање и прогласување во спрег"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "македонскиот бара копула што хебрејскиот ја изостава"
+    }
+  ],
+  "translation": "Адонај го дава зборот; весничките ⟨се⟩ многубројна војска.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "782088c89db3a0c483570a9cffcc90139503190ce52c3d67f26fa4949be80130",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/68\/9-12.1792453461547.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "го дава"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "зборот"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "весничките"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "војска"
+    },
+    {
+      "surface": "רב",
+      "gloss": "многубројна"
+    }
+  ],
+  "timestamp": "2026-10-19T23:44:21.548765491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 4:44",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Тората",
+      "rationale": "תורה се чува како Тора, не 'закон'"
+    }
+  ],
+  "translation": "И ⟨е⟩ ова Тората што Моше ја постави пред синовите на Јисраел.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "251c7d077da2b156b9eb09ca4dda43304b15c3959a298c1cc28569016d02b358",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/4\/41-44.1792445359026.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "И ова"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тората"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ја постави"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T21:29:19.028354173Z",
+  "model": "glm-5.3"
+}

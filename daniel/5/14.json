@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 5:14",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "боговите",
+      "rationale": "אלהין е арамејска множина — „боговите“ (стојат на pagan царот) наспроти преда­њето што преведува еднина; D2 задржува руах наместо „дух“"
+    }
+  ],
+  "translation": "И слушнав за тебе дека руах на боговите е во тебе, и светлост и разум и мудрост извонредна се најдоа во тебе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0947c236fe496869cae8123fbf2bc3b3756d996c40d17f047f6479dff12a9e7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/5\/13-16.1792456108102.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "и слушнав"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "за тебе"
+    },
+    {
+      "surface": "די",
+      "gloss": "дека"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "אלהין",
+      "gloss": "на боговите"
+    },
+    {
+      "surface": "בך",
+      "gloss": "во тебе"
+    },
+    {
+      "surface": "ונהירו",
+      "gloss": "и светлост"
+    },
+    {
+      "surface": "ושכלתנו",
+      "gloss": "и разум"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "и мудрост"
+    },
+    {
+      "surface": "יתירה",
+      "gloss": "извонредна"
+    },
+    {
+      "surface": "השתכחת",
+      "gloss": "се најде"
+    },
+    {
+      "surface": "בך",
+      "gloss": "во тебе"
+    }
+  ],
+  "timestamp": "2026-10-20T00:28:28.103077490Z",
+  "model": "glm-5.3"
+}

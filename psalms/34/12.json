@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Евете, синови",
+      "rationale": "учителот ги повикува учениците-синови да дојдат и да слушаат"
+    },
+    {
+      "kind": "you",
+      "subject": "синови",
+      "rationale": "директен обращение до синовите-ученици"
+    }
+  ],
+  "translation": "Евете, синови, послушајте ме: стравот од Јахве ќе ви го научам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "95135d11609701d8a44ef03261bde90c730b5875a370fa116b056eba0a669052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/34\/9-12.1792453191161.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Евете"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "послушајте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "стравот од"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "ќе ви го научам"
+    }
+  ],
+  "timestamp": "2026-10-19T23:39:51.162107380Z",
+  "model": "glm-5.3"
+}

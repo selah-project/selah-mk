@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "искувана работа",
+      "rationale": "מקשה е дело изковано\/издлабено со чекан од еден дел, репусé техника"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "אֹתָם е лична заменка „нив“ со наставка, не белегот את (H853), затоа нема ⟨את⟩"
+    }
+  ],
+  "translation": "И ќе направиш два керувима од злато; искувана работа ќе ⟨את⟩ ги направиш нив, на двата краја на капоретот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "6a538aab8ef539fb7265f9d913e442e3bff92a4531a556b0c8f8aad9911bf859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/25\/17-20.1792443763622.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "И ќе направиш"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "керувима"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "од злато"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "искувана работа"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ќе направиш"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ги"
+    },
+    {
+      "surface": "משני",
+      "gloss": "на двата"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "краја"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "на капоретот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:02:43.626180956Z",
+  "model": "glm-5.3"
+}

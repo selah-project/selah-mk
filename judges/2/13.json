@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "маркерот на директен објект ⟨את⟩ нема македонски еквивалент и стои како знак"
+    }
+  ],
+  "translation": "И Ги оставија ⟨את⟩ Јахве, и служеа на Ваал и на Аштарот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d19ad894a891f693bbeb2f86b23687540cfd7b9db321a21a1e53e8db1bd2bf27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/2\/13-16.1792446274390.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "И оставија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "и служеа"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "на Ваал"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "и на Аштарот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:44:34.391518907Z",
+  "model": "glm-5.3"
+}

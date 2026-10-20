@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 48,
+  "translation": "Глас на извик од Хоронаим: разорување и голем скрш!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5f9c341a5ad998c4d6871377d8673034605bffac4db1b2a234eb124f4478a53b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/48\/1-4.1792451126364.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "на извик"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "од Хоронаим"
+    },
+    {
+      "surface": "שד",
+      "gloss": "разорување"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "и скрш"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голем"
+    }
+  ],
+  "timestamp": "2026-10-19T23:05:26.365248140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 15:2",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "на Моше и Ахарон",
+      "rationale": "Јахве им говори директно на Моше и Ахарон."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אישׁ אישׁ",
+      "rationale": "Двојно повторување „човек човек“ — секој поединец, поединечно."
+    },
+    {
+      "kind": "substitution",
+      "subject": "истекување",
+      "rationale": "זוב буквално значи „тече слободно“ (како вода); „истекување“ е заеднички превод."
+    }
+  ],
+  "translation": "Говорете им на синовите Јисраелови и кажете им: секој човек, кога ќе има истекување од телото своето — неговото истекување е нечисто.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f7d8388bac6284fb4da5c44f4b5e5a5d5c612bb1133e19fbf128272f46f0c857",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/15\/1-4.1792444289764.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Говорете"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "и кажете"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе има"
+    },
+    {
+      "surface": "זב",
+      "gloss": "истекување"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "од телото своето"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "неговото истекување"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечисто"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е"
+    }
+  ],
+  "timestamp": "2026-10-19T21:11:29.766716331Z",
+  "model": "glm-5.3"
+}

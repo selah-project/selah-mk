@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 3:7",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Јехошуа",
+      "rationale": "Јахве директно му зборува на Јехошуа"
+    },
+    {
+      "kind": "substitution",
+      "subject": "היום הזה",
+      "rationale": "двојното „во овој ден“ е стегнато во едно „Денес“ — хебрејскиот го потенцира моментот"
+    }
+  ],
+  "translation": "И Јахве му рече на Јехошуа: Денес ќе почнам да те возвеличам пред очите на целиот Јисраел, за да знаат дека како што бев со Моше, така ќе бидам со тебе.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "86a2358d45a1ada112fb21cab48e93067e12010bcb825e11e7f364afb5ba08cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/3\/5-8.1792445923967.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Денес"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "אחל",
+      "gloss": "ќе почнам"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "да те возвеличам"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "пред очите на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "да"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "знаат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "бев"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ќе бидам"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "со тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T21:38:43.968528494Z",
+  "model": "glm-5.3"
+}

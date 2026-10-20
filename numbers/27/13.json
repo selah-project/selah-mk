@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 27:13",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "собран кон народот твој",
+      "rationale": "נאסף אל עמיו е евфемизам за умирање, буквално „собран кон својот народ“."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ја⟩",
+      "rationale": "Македонскиот бара директен објект кај женски род, хебрејскиот го носи само את"
+    }
+  ],
+  "translation": "И кога ќе ⟨ја⟩ видиш ⟨את⟩, и ти ќе бидеш собран кон народот твој, и ти, како што беше собран Ахарон, братот твој:",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "bce42ac82121b26e6d49a1c5de78855d9b844375f9b75e99703654ea2261e66f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/27\/13-16.1792445129784.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראיתה",
+      "gloss": "и кога ќе видиш"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ја"
+    },
+    {
+      "surface": "ונאספת",
+      "gloss": "и ќе бидеш собран"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "народот твој"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "беше собран"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "братот твој"
+    }
+  ],
+  "timestamp": "2026-10-19T21:25:29.784937013Z",
+  "model": "glm-5.3"
+}

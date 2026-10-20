@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-kings 1:53",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "וירדהו е множинско „тие го симнаа“ — македонскиот бара директен објект"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жртвеникот",
+      "rationale": "מזבח — олтар\/жртвеник; избрано жртвеникот заfuncs-местото на жртвување"
+    }
+  ],
+  "translation": "И царот Шломо го испрати, и ⟨го⟩ симнаа од жртвеникот; и влезе и се поклони пред царот Шломо, а Шломо му рече: Оди во твојот дом.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "96504099d3cba6241370241378d0cf4ba4e3533bbab6e9fb6dcfc901ea958af5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/1\/53-53.1792448472948.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "и испрати"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "וירדהו",
+      "gloss": "и симнаа"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жртвеникот"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и влезе"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "и се поклони"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "пред царот"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "לך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "во твојот дом"
+    }
+  ],
+  "timestamp": "2026-10-19T22:21:12.949997929Z",
+  "model": "glm-5.3"
+}

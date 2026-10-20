@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 25:29",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפניו",
+      "rationale": "букв. 'пред лицето негово' — постојан придружување на масата на царот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "алишта",
+      "rationale": "בגדי буквално значи и 'облека' и 'издавништво'; тука е облеката од затворот"
+    }
+  ],
+  "translation": "и ги смени ⟨את⟩ алиштата на својот затвор, и јадеше леб постојано пред него сите дни на својот живот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "50ad5b6cce8b5074cd83009c0e0f71fd29f1ac636c063eae98e4768d16e9a003",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/25\/29-30.1792449531925.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנא",
+      "gloss": "и ги смени"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алиштата"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "алиштата"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "на својот затвор"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "и јадеше"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "постојано"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пред него"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "на својот живот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:38:51.926037270Z",
+  "model": "glm-5.3"
+}

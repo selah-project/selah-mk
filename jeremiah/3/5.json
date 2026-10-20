@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 3:5",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "гневот",
+      "rationale": "הינטר буквално „чува“ без именска цел — предметот (гневот) се подразбира од контекстот (ст. 5 го продолжува прашањето од ст. 4)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "двата глаголи",
+      "rationale": "הינטר и ישמר се синонимни „чуварски“ глаголи; вториот поврзан со נצח (крајна цел\/вечност)"
+    }
+  ],
+  "translation": "Зарем ќе го чува гневот засекогаш, зарем ќе го задржи довека? Еве, ти зборуваше и правеше злата, колку што можеше.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a7484f205294b91bbfad7d9fa3d9829055fb744ac52f3c3dc7234f2151b425e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/3\/5-8.1792450440460.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הינטר",
+      "gloss": "ќе чува (гнев)"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "засекогаш"
+    },
+    {
+      "surface": "אם",
+      "gloss": "зарем"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ќе го задржи"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "довека"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ти зборуваше"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "и правеше"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "злата"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "и можеше"
+    }
+  ],
+  "timestamp": "2026-10-19T22:54:00.460963386Z",
+  "model": "glm-5.3"
+}

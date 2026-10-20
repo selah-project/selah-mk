@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "желбата",
+      "rationale": "דבר буквално е „збор\/работа“, тука во смисла на побарувањето на Естер"
+    }
+  ],
+  "translation": "И рече царот: Побрзајте ⟨את⟩ Хаман да го изврши ⟨את⟩ желбата на Естер. И дојде царот и Хаман на гозбата што ја приготви Естер.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3c605cda140b6bbc6f14507df3805437f8b392bb7a953cfd738f2d5f67c4cc35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/esther\/5\/5-8.1792455865899.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "Побрзајте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хаман"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Хаман"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да го изврши"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "желбата"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "желбата"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "на Естер"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "И дојде"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "и Хаман"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "гозбата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ја приготви"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    }
+  ],
+  "timestamp": "2026-10-20T00:24:25.900293001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 24:18",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "возраст и години на владеење",
+      "rationale": "формулата за царски хроники: години при встапување и должина на владеењето"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בן",
+      "gloss": "Букв. 'син на дваесет и една година'; македонскиот бара глагол и прилог на возраст"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Ирмија",
+      "rationale": "Јирмејаху е човек од Ливна, не пророкот Ирмија — името е исто по звук"
+    }
+  ],
+  "translation": "Дваесет и една година беше Цидкијаху кога стана цар, и единаесет години царуваше во Јерушалаим; а името на мајка му беше Хамутал, ќерка на Јирмејаху од Ливна.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "9f82d92d5ea9cf66f9541c3c4d8fbe100e2a2d7e75ae80c3ebcf3db8231733ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/24\/17-20.1792449497316.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "беше на возраст"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "дваесет"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "и една"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкијаху"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "кога стана цар"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "и еден"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "наесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царуваше"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "во Јерушалаим"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а името"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "на мајка му"
+    },
+    {
+      "surface": "חמיטל",
+      "gloss": "Хамутал"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерка"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "на Јирмејаху"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "од Ливна"
+    }
+  ],
+  "timestamp": "2026-10-19T22:38:17.317877102Z",
+  "model": "glm-5.3"
+}

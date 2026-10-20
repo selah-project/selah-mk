@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 16:16",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "омер за глава",
+      "rationale": "мерка по глава според бројот на душите — бројчено одредување"
+    },
+    {
+      "kind": "substitution",
+      "subject": "души",
+      "rationale": "нефеш е „живо суштество\/дишечко битие“, не бесмртна душа"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Собирајте",
+      "rationale": "заповед во императив, упатена кон синовите Јисраелови"
+    }
+  ],
+  "translation": "Ова е словото што го заповеда Јахве: Собирајте од него — секој според своето јадење, омер за глава, според бројот на вашите души; секој за оние во неговиот шатор — ќе земете.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "7712fdf70ccfcb5be57d22ff3fa3c59bc4e3f5f1e5f2f1fd2c3b94d451cf278f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/16\/13-16.1792443602591.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ова"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "е словото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "го заповеда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לקטו",
+      "gloss": "Собирајте"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од него"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "според"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "своето јадење"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "омер"
+    },
+    {
+      "surface": "לגלגלת",
+      "gloss": "за глава"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "според бројот на"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "вашите души"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "за оние"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "во неговиот шатор"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ќе земете"
+    }
+  ],
+  "timestamp": "2026-10-19T21:00:02.599375314Z",
+  "model": "glm-5.3"
+}

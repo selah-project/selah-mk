@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 19:1",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "непорочност",
+      "rationale": "תמו е 'целина, едноставност'; 'непорочност' е морализирана граница на значењето"
+    },
+    {
+      "kind": "addition",
+      "subject": "отколку",
+      "rationale": "хебрејскиот споредбен изрекува само 'подобро… од' без сврзувачки збор"
+    }
+  ],
+  "translation": "Подобро е сиромавиот што оди во својата непорочност, отколку изопачен со усните свои — а тој е безумник.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8a24d07722e6482b14fd21664da9feea6d1a57470864bf4db479696f3fea60f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/19\/1-4.1792454567707.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Подобро е"
+    },
+    {
+      "surface": "רש",
+      "gloss": "сиромавиот"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "што оди"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "во својата непорочност"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "изопачен"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "со усните свои"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а тој"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "безумник"
+    }
+  ],
+  "timestamp": "2026-10-20T00:02:47.707940750Z",
+  "model": "glm-5.3"
+}

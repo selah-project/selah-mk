@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תקע\/תרועה",
+      "rationale": "коренот на трубене и неговата именка тревога стојат еден до друг; играта се губи"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кон исток",
+      "rationale": "קדמה е „напред\/исток“ — ист збор за двете; земен е правецот"
+    }
+  ],
+  "translation": "И кога ќе затрубите тревога, ќе појдат логорите што престојуваат кон исток.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "717952d3133a016172b31818774583bfda892fd96fc9a19050f0f015b9883edd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/10\/5-8.1792444721474.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "и кога ќе затрубите"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "тревога"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "ќе појдат"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "логорите"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "што престојуваат"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "кон исток"
+    }
+  ],
+  "timestamp": "2026-10-19T21:18:41.474648369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "најцрниот",
+      "rationale": "אישון е буквално 'мален човек' (зеницата на окото) — тука 'срцевината на мракот'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אישון \/ איש",
+      "rationale": "зеницата наречена 'човечче во окото' — истиот корен со 'човек', сликата изгубена"
+    }
+  ],
+  "translation": "Кого проколнува татка си и мајка си — светилката негова ќе изгасне во најцрниот мрак.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "748b86903346a29a87c3c9293d10a3738c5cd48239d46e83f3222714a58e2b75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/20\/17-20.1792454624237.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "проколнува"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "татка си"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "и мајка си"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ќе изгасне"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "светилката негова"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "во најцрниот"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "мрак"
+    }
+  ],
+  "timestamp": "2026-10-20T00:03:44.239218791Z",
+  "model": "glm-5.3"
+}

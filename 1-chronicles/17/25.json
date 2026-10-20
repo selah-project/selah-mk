@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 17:25",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "גלית את אזן",
+      "rationale": "букв. 'ја откри ушта' — хебрејски идиом за откривање на тајна; задржано буквално"
+    },
+    {
+      "kind": "addition",
+      "subject": "храброст",
+      "rationale": "מצא להתפלל букв. 'најде да се моли'; македонскиот бара именка"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Елохим мој",
+      "rationale": "אלהי е Елохим со наставка, не 'Бог'"
+    }
+  ],
+  "translation": "Зашто ти, Елохим мој, ти ѝ ја откри ⟨את⟩ ушта на слугата твој, да му изградиш дом; затоа слугата твој најде ⟨храброст⟩ да се моли пред тебе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "772674a1de46f0e0db15611cbdbb1ffce08e712ce12218ad5f6fb6f927de9ca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/17\/25-27.1792457147030.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мој"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "откри"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ушта"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ушта"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слугата твој"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "да изградиш"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "על",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "најде"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слугата твој"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "да се моли"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред тебе"
+    }
+  ],
+  "timestamp": "2026-10-20T00:45:47.031835326Z",
+  "model": "glm-5.3"
+}

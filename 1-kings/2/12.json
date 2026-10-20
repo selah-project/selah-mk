@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 2:12",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מלכות",
+      "rationale": "напнатост во наративот: царството на синот се утврдува веднаш по налогот за крв од стих 9"
+    }
+  ],
+  "translation": "И Шломо седна на престолот на Давид, татко му, и царството негово се утврди многу.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "3bf12a4814bfbedcdbebfbb452d0081439cd67cae8106ce59c8175d3d42dcb3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/2\/9-12.1792448552712.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלמה",
+      "gloss": "и Шломо"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "седна"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "престолот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "татко му"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "и се утврди"
+    },
+    {
+      "surface": "מלכתו",
+      "gloss": "царството негово"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    }
+  ],
+  "timestamp": "2026-10-19T22:22:32.715140308Z",
+  "model": "glm-5.3"
+}

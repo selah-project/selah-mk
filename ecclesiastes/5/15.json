@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула меѓу 'ова' и 'болно зло'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "לרוח буквално 'за ветер\/дух' — чува руах наместо 'ветер', редовна слика на Коelet"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עמת",
+      "rationale": "формата 'заедно со' ретка, дел од споената идиомска израза"
+    }
+  ],
+  "translation": "И ова исто е болно зло: во сè како што дојде, така ќе оди; и каква придобивка има што се мачи за руах?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4198bf3345ce9fc8d5ebfbe5c36ef51455d5edb50a979a643fa438a780c1d8b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/5\/13-16.1792455679691.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "И исто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "כל",
+      "gloss": "во сè"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "заедно со"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "како што дојде"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ќе оди"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и каква"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "придобивка"
+    },
+    {
+      "surface": "לו",
+      "gloss": "има тој"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "што се мачи"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "за руах"
+    }
+  ],
+  "timestamp": "2026-10-20T00:21:19.692084008Z",
+  "model": "glm-5.3"
+}

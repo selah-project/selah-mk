@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משיחו",
+      "rationale": "хебрејскиот вели 'неговиот помазаник' — без претходно знаење, тоа е царот во Ерусалим, не подоцнежната фигура"
+    },
+    {
+      "kind": "substitution",
+      "subject": "се советуваат",
+      "rationale": "נוסדו буквално 'се поставија заедно (како основа)' — од 'земат совет' до 'се собрале'"
+    }
+  ],
+  "translation": "Застануваат царевите на земјата, и велможите се советуваат заедно, против Јахве и против Неговиот помазаник.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/2\/1-4.1792452983553.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "застануваат"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царевите"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "и велможите"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "се советуваат"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "заедно"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и против"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "помазаникот Негов"
+    }
+  ],
+  "timestamp": "2026-10-19T23:36:23.554659259Z",
+  "model": "glm-5.3"
+}

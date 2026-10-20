@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "да ги познаеме",
+      "rationale": "נדעה אותם — евфемизм е за сексуален однос; букв. „да ги познаеме”, задржано буквално како во хебрејскиот"
+    },
+    {
+      "kind": "you",
+      "subject": "до Лот",
+      "rationale": "директно обраќање на толпата до Лот со барање"
+    }
+  ],
+  "translation": "И го повикаа Лот и му рекоа: Каде се мажите што дојдоа кај тебе навечер? Изведи ги надвор кај нас, па да ги познаеме ⟨אתם⟩.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "4d5966a59c0ee2a681308d53bf33eb234f5f296a019bb8e96b412d38a719326d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/19\/5-8.1792442612839.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "повикаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лот"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "рекоа"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "איה",
+      "gloss": "каде"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "мажите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дојдоа"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "кај тебе"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "навечер"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "изведи ги"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "кај нас"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "па да ги познаеме"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "нив"
+    }
+  ],
+  "timestamp": "2026-10-19T20:43:32.840231149Z",
+  "model": "glm-5.3"
+}

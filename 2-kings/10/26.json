@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "столбовите-идоли",
+      "rationale": "מצבות е 'стоечки столбови', спомен-камења или идоли; KJВ 'images' го губи буквaлниот облик"
+    }
+  ],
+  "translation": "и ги изнесоа ⟨את⟩ столбовите-идоли на домот на Ваал, и ги изгореа.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "dddc40cfce76592b3aeb9a2717cb91b89e8bb8982b57fc23e2a8cce2ef6f0d7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/10\/25-28.1792449226482.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "и ги изнесоа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "столбовите-идоли"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "столбовите-идоли"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "на Ваал"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "и ги изгореа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:33:46.483468496Z",
+  "model": "glm-5.3"
+}

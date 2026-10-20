@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 32:19",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וינאץ",
+      "rationale": "'презре\/гна се од\/отфрли' — неутрално 'отфрли' избегнува претеран бој"
+    }
+  ],
+  "translation": "И виде Јахве, и ги отфрли, од гневот кон своите синови и своите ќерки.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9802b5cbc434c865019bf5cf55a1ba659a653328bc8124098fe7c4eef0bae27c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/32\/17-20.1792445858187.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И виде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "и ги отфрли"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "од гневот"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "кон своите синови"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "и своите ќерки"
+    }
+  ],
+  "timestamp": "2026-10-19T21:37:38.188867374Z",
+  "model": "glm-5.3"
+}

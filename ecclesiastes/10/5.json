@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מלפני השליט",
+      "rationale": "буквално 'од лицето на владетелот' — хебрејски израз за 'од присуството на', задржан буквално"
+    },
+    {
+      "kind": "addition",
+      "subject": "по невнимание",
+      "rationale": "שגגה е технички поим за престап од невнимание, една придавка разложена на повеќе зборови"
+    }
+  ],
+  "translation": "Има зло што го видов под сонцето — како грешка по невнимание што излегува од лицето на владетелот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0588a275be6adbfa70bbf9af9e0fa67a7805a40dccd6d1d0f66351098406449c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/10\/5-8.1792455757322.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "го-видов"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцето"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "како-грешка-по-невнимание"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "што-излегува"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "од-лицето-на"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "владетелот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:22:37.323283359Z",
+  "model": "glm-5.3"
+}

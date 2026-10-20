@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 26:20",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "Додаден глагол за копула\/минато време што хебрејскиот го испушта."
+    },
+    {
+      "kind": "substitution",
+      "subject": "посветените нешта",
+      "rationale": "הקדשים буквално „светите [работи]“ — посветени дарежливи предмети."
+    }
+  ],
+  "translation": "А од Левитите — Ахија беше над ризниците на домот на Елохим и над ризниците на посветените нешта.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e879bdd42e87a64f017a316ddc64c77ab2169f9b77a446994d38acd84e1d4d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/26\/17-20.1792457237208.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "А од Левитите"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ахија"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "ризниците"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "и над ризниците"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "на посветените нешта"
+    }
+  ],
+  "timestamp": "2026-10-20T00:47:17.209469289Z",
+  "model": "glm-5.3"
+}

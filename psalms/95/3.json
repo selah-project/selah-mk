@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדול … גדול",
+      "rationale": "двојното 'голем' во паралелизам го зајакнува величењето"
+    }
+  ],
+  "translation": "Зашто Ел голем ⟨е⟩ Јахве, и цар голем над сите бого́ви.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "10d86986e2ff93155526143b6e52afb9b7bf2e9ef6d05a572507347523f37b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/95\/1-4.1792453777557.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и цар"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голем"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богови"
+    }
+  ],
+  "timestamp": "2026-10-19T23:49:37.558276274Z",
+  "model": "glm-5.3"
+}

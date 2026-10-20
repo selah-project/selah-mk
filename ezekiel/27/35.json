@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 27:35",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שערו שער",
+      "rationale": "глаголот и именката од ист корен — исплашенија со страв; повторувањето се губи во македонскиот"
+    },
+    {
+      "kind": "hapax",
+      "subject": "רעם (во ова значење — треперење на лицето)",
+      "rationale": "реткорен со специфична слика: лицето се тресе\/грчи од ужас"
+    }
+  ],
+  "translation": "Сите жители на островите се зачудоа над тебе, и нивните кралеви се уплашија — страв, со ужас се помрачнија во лицето.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4aa4de6490ad417fc154b3dc7cb75e7219225fd168ea7086a92ca3ded150d5bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/27\/33-36.1792451790170.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жители"
+    },
+    {
+      "surface": "האיים",
+      "gloss": "на островите"
+    },
+    {
+      "surface": "шмму",
+      "gloss": "се зачудоа"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "над тебе"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "и нивните кралеви"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "се уплашија"
+    },
+    {
+      "surface": "שער",
+      "gloss": "страв"
+    },
+    {
+      "surface": "רעמו",
+      "gloss": "се помрачнија"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "во лицето"
+    }
+  ],
+  "timestamp": "2026-10-19T23:16:30.170998895Z",
+  "model": "glm-5.3"
+}

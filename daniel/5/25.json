@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Арамејскиот нема копула; македонскиот бара"
+    },
+    {
+      "kind": "mystery",
+      "subject": "пишувањето",
+      "rationale": "Непознато пишување на ѕидот што само Даниел може да го прочита и толкува"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרסין \/ פרס",
+      "rationale": "Уфарсин („поделено“) звучи исто како Персија — игра на зборови изгубена во македонскиот"
+    }
+  ],
+  "translation": "А ова ⟨е⟩ пишувањето што е напишано: МЕНЕ, МЕНЕ, ТЕКЕЛ УФАРСИН.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8f78deaf002935d2573450ccd01fdd5fbb23dc6cc5ba29af327bd7e307ab97c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/5\/25-28.1792456057223.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "а ова"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "пишување"
+    },
+    {
+      "surface": "די",
+      "gloss": "што"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "е напишано"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "МЕНЕ"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "МЕНЕ"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "ТЕКЕЛ"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "УФАРСИН"
+    }
+  ],
+  "timestamp": "2026-10-20T00:27:37.223669368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Езекиил",
+      "rationale": "Обраќање „сину човечки“ — директен повик до пророкот."
+    }
+  ],
+  "translation": "Сину човечки, запознај ⟨את⟩ Јерушалаим со ⟨את⟩ гнасотиите нејзини,",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "02571a2b4194ea0a33b19d8862d080d37c80ca8b47edaa0d958153893f6516ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/16\/1-4.1792451476476.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сину"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечки"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "запознај"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јерушалаим"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гнасотиите нејзини"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "гнасотиите нејзини"
+    }
+  ],
+  "timestamp": "2026-10-19T23:11:16.477627796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלתה ארכת",
+      "rationale": "букв. 'не излезе нагоре лекувањето' — преведувачите колебаат меѓу 'не зарасна раната' и 'не се поврати здравјето'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨затоа⟩",
+      "rationale": "כי поврзува прашањето со заклучокот; македонскиот бара сврзник"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הצרי",
+      "rationale": "зборот за балсам (цори) — ретка лековита смола од Гилад"
+    }
+  ],
+  "translation": "Балсам нема ли во Гилад? Исцелител нема ли таму? Зошто не се крева излекувањето на ќерката на народот мој?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "acb5b3cd3d21efab2b506d45b4e87f34cb07ab5fd115ec35ee4fe005956c2792",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/8\/21-23.1792450541712.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצרי",
+      "gloss": "балсам"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "во Гилад"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ли"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "исцелител"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨затоа⟩"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "се крева"
+    },
+    {
+      "surface": "ארכת",
+      "gloss": "излекувањето"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерката"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "на народот мој"
+    }
+  ],
+  "timestamp": "2026-10-19T22:55:41.713033269Z",
+  "model": "glm-5.3"
+}

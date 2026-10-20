@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бееше",
+      "rationale": "хебрејскиот го испушта копулата во списокот"
+    },
+    {
+      "kind": "measurement",
+      "subject": "редните броеви",
+      "rationale": "список на синовите на Исхаи по реден број"
+    }
+  ],
+  "translation": "И Исхаи го роди ⟨את⟩ првородениот свој, ⟨את⟩ Елиав; и Авинадав ⟨бееше⟩ вториот, и Шима третиот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2673d87b0643082370fcb0303a3351e8e5caaff3791c7bbd9790288d244c2318",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/2\/13-16.1792456794591.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "и Исхаи"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "првородениот свој"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "првородениот свој"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елиав"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Елиав"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "и Авинадав"
+    },
+    {
+      "surface": "השני",
+      "gloss": "вториот"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "и Шима"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третиот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:54.591891568Z",
+  "model": "glm-5.3"
+}

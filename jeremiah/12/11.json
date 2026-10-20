@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 12:11",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема помошен глагол каר пасивната партicipијална конструкција."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שממה\/שממה\/נשמה",
+      "rationale": "три облици од коренот ш-מ-м во еден стих — густина на „опустошение“ што македонскиот може само делумно да ја пренесе."
+    },
+    {
+      "kind": "idiom",
+      "subject": "става на срце",
+      "rationale": "идиом שם על לב — да земе сериозно, да размислува за тоа."
+    }
+  ],
+  "translation": "Ја направија за опустошение, и тагува над мене опустошена; зашеметена ⟨е⟩ цела земја, зашто нема човек што става ⟨тоа⟩ на срце.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1569b722d48746dd5808517ab5af8bee91e20db1beed9eeb2356b376e1a815e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/12\/9-12.1792450569533.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ја направија"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "за опустошение"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "тагува"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "над мене"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "опустошена"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "зашеметена"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цела"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "שם",
+      "gloss": "што става"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    }
+  ],
+  "timestamp": "2026-10-19T22:56:09.534806594Z",
+  "model": "glm-5.3"
+}

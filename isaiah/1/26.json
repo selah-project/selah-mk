@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 1:26",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "אחרי כן е сложена времепловна frase; כן е elidirano во 'потоа'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עיר\/קריה",
+      "rationale": "Два збора за 'град' во паралелизам — град на цедек \/ верна населба — повторување на синоними карактеристично за Исаија."
+    }
+  ],
+  "translation": "И ќе ги вратам твоите судии како на почетокот, и твоите советници како порано; потоа ќе ти се нарече град на цедек, верна населба.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "eee3dcdb8668e34c30089d842b03c2e976f828dea70b761592f4188a52d3e489",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/1\/25-28.1792449541638.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "и ќе ги вратам"
+    },
+    {
+      "surface": "שפטיך",
+      "gloss": "твоите судии"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "како на почетокот"
+    },
+    {
+      "surface": "ויעציך",
+      "gloss": "и твоите советници"
+    },
+    {
+      "surface": "כבתחלה",
+      "gloss": "како порано"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "потоа"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ќе ти се нарече"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "на цедек"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "населба"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "верна"
+    }
+  ],
+  "timestamp": "2026-10-19T22:39:01.640035680Z",
+  "model": "glm-5.3"
+}

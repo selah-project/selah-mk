@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "да го направиш нивниот суд",
+      "rationale": "משפטם е суд\/право — KJV „maintain their cause“ го проширува; хебрејскиот вели „направи го нивниот суд“"
+    }
+  ],
+  "translation": "тогаш ти да ги чуеш од небото ⟨את⟩ нивната молитва и ⟨את⟩ нивното молење, и да го направиш нивниот суд.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "eaa9992db5cf967c3b8841adfec1e7d90d83424680c9bb9d01cee3eeec95ae1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/6\/33-36.1792457447515.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "и ти да ги чуеш"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небото"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нивната молитва"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "нивната молитва"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "нивното молење"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "нивното молење"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "и да го направиш"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "нивниот суд"
+    }
+  ],
+  "timestamp": "2026-10-20T00:50:47.516390402Z",
+  "model": "glm-5.3"
+}

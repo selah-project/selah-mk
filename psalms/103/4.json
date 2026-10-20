@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משחת",
+      "rationale": "Буквално 'јама' (стапица) или 'шахат' — пропаст; традиционално 'уништување' или 'гроб'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד е верна љубов, милост-сојуз — еден збор што македонскиот го дели на повеќе"
+    },
+    {
+      "kind": "alternative",
+      "subject": "те крунисува",
+      "rationale": "המעטרכי буквално 'те опколува' (како венец) — од коренот на венец\/каима"
+    }
+  ],
+  "translation": "Што го откупува животот твој од јамата на пропаст, што те крунисува со хесед и милости.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/103\/1-4.1792453839492.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Што го откупува"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "од јамата на пропаст"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "животот твој"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "што те крунисува"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "и милости"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:39.493507097Z",
+  "model": "glm-5.3"
+}

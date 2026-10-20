@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רשעתי\/צדקתי",
+      "rationale": "Спротивставувањето безаконие\/цедек во рамен паралелизам."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨сум⟩",
+      "rationale": "Хебрејскиот нема глагол „да сум“ во „сит од срам“."
+    },
+    {
+      "kind": "idiom",
+      "subject": "да ја подигнам главата",
+      "rationale": "Хебрејски идиом за достоинство\/надеж, задржен дословно."
+    }
+  ],
+  "translation": "Ако безаконував — тешко мене; а ако бев цедек — главата нема да ја подигнам; сит ⟨сум⟩ од срам и гледам на бедата своја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a0de202703275a85fe4037e236b54e7d84b81d6a985ed72b551acf657feda211",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/10\/13-16.1792454915257.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "безаконував"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "тешко"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "а ако бев цедек"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "да подигнам"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главата"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "сит"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "од срам"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и гледам"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "на бедата своја"
+    }
+  ],
+  "timestamp": "2026-10-20T00:08:35.258426008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 26:32",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 26,
+  "translation": "и од Шемида родот на Шемидејците; и од Хефер родот на Хефрејците.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e7469ca118ffa5d2ea8ea66c2d80b25a57f0e1ce2fda7fdf24009506936cdcfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/26\/29-32.1792445080417.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמידע",
+      "gloss": "и од Шемида"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "родот"
+    },
+    {
+      "surface": "השמידעי",
+      "gloss": "Шемидејците"
+    },
+    {
+      "surface": "וחפר",
+      "gloss": "и од Хефер"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "родот"
+    },
+    {
+      "surface": "החפרי",
+      "gloss": "Хефрејците"
+    }
+  ],
+  "timestamp": "2026-10-19T21:24:40.418213220Z",
+  "model": "glm-5.3"
+}

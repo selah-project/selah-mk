@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בזקים",
+      "rationale": "коренот значи 'искра\/огнен стрела', но тука 'окови\/синџири' — рана поетска форма"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בזקים\/בכבלי",
+      "rationale": "б-з-к и ב-כ-ב-ל — алитерација на 'врзување' во паралелизмот"
+    }
+  ],
+  "translation": "Да ги врзат царевите нивни со окови, и благородниците нивни со железни кандали.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "138774c5926d3ebe1c2386901e2fdc7601bfdce21de5403bc196f06529cc508b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/149\/5-8.1792454195999.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "Да ги врзат"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "царевите нивни"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "со окови"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "и благородниците нивни"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "со железни кандали"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "железни"
+    }
+  ],
+  "timestamp": "2026-10-19T23:56:36.000786364Z",
+  "model": "glm-5.3"
+}

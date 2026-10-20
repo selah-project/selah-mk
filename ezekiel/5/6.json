@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 5:6",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותמר",
+      "rationale": "марah: „се побуни\/го измени“ — од горчливост кон бунт; KJВ „changed“, ASV „rebelled“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משפטי \/ חקותי",
+      "rationale": "пар末端 повторување на двата пара (судови\/уредби) двапати во еден стих — хијазмична структура"
+    }
+  ],
+  "translation": "И се побуни против ⟨את⟩ моите судови — кон зло повеќе од народите, и ⟨את⟩ моите уредби — повеќе од земјите што се околу неа; зашто моите судови ги отфрлија, и во моите уредби не одеа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "53bbfa9b79e7cf2aca8b87f6978c662c7a67f817e15e623e98dc0165d6417f69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/5\/5-8.1792451418622.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "се побуни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "моите судови"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "моите судови"
+    },
+    {
+      "surface": "לרשעה",
+      "gloss": "кон зло"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "моите уредби"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "моите уредби"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "земјите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "се околу неа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "моите судови"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ги отфрлија"
+    },
+    {
+      "surface": "וחקותי",
+      "gloss": "и моите уредби"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "одеа"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "во нив"
+    }
+  ],
+  "timestamp": "2026-10-19T23:10:18.623342794Z",
+  "model": "glm-5.3"
+}

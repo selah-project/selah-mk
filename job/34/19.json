@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 34:19",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא פנים",
+      "rationale": "буквално 'да подигне лице' = да прави разлика\/партијалност; зачуван буквалниот слик со смисла."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩\/предлози",
+      "rationale": "македонскиот бара сврзни зборови што хебрејскиот ги испушта."
+    }
+  ],
+  "translation": "кој не ги подига лицата на старешините и не согледува богат повисоко ⟨од⟩ сиромавиот, зашто сите тие се дело на рацете негови.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e48203d75f7dc2a0718d925269797892361d95e659e65cc307bc86692cd4e3d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/34\/17-20.1792455264428.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "кој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "подига"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицата"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "старешини"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "согледува"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "богат"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "דל",
+      "gloss": "сиромав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "рацете негови"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "сите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:14:24.429074062Z",
+  "model": "glm-5.3"
+}

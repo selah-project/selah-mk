@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 9:19",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "радувајте се во",
+      "rationale": "хебрејскиот „се радува во“ = да ужива взаемна верност; тука горчливост, не благослов"
+    }
+  ],
+  "translation": "И ако во вистина и во целост постапивте со Јерубаал и со домот негов денес овој — радувајте се во Авимелех, и нека се радува и тој во вас.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b4703df232a0d226ce729144c38dfbc42a254080a7de0f1b53454b091be24b91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/9\/17-20.1792446432201.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "во вистина"
+    },
+    {
+      "surface": "ובתמים",
+      "gloss": "и во целост"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "постапивте"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Јерубаал"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "и со"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "домот негов"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "радувајте се"
+    },
+    {
+      "surface": "באבימלך",
+      "gloss": "во Авимелех"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "и нека се радува"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "во вас"
+    }
+  ],
+  "timestamp": "2026-10-19T21:47:12.202344771Z",
+  "model": "glm-5.3"
+}

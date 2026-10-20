@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "⟨את⟩ работата",
+      "rationale": "знаење скриено од момчето — само двајцата знаат, наратив на таен знак"
+    },
+    {
+      "kind": "substitution",
+      "subject": "работата",
+      "rationale": "הדבר е 'збор\/работа'; преведено како 'работата' за договорениот знак"
+    }
+  ],
+  "translation": "А момчето не знаеше ништо; само Јонатан и Давид знаеја ⟨את⟩ работата.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "807c0bad338d19899fca959482ee043cd0256365a608cb1be576551c4fc60236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/20\/37-40.1792447824447.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "А момчето"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знаеше"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ништо"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Јонатан"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "и Давид"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знаеја"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "работата"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "работата"
+    }
+  ],
+  "timestamp": "2026-10-19T22:10:24.449164323Z",
+  "model": "glm-5.3"
+}

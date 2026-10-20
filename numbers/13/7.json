@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "список на.decodeри",
+      "rationale": "Продолжение на списакот на.decodeри по племиња."
+    }
+  ],
+  "translation": "За племето Јисахар: Јигал, син на Јосеф.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "aa55ee50b4000cbfb333e574404e98b6ea3001e8120a9c891a1378a1e931b60c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/13\/6-8.1792447760802.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "за племето"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Јисахар"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "Јигал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "на Јосеф"
+    }
+  ],
+  "timestamp": "2026-10-19T22:09:20.804645692Z",
+  "model": "glm-5.3"
+}

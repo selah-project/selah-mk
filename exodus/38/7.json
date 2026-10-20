@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 38:7",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "страните",
+      "rationale": "צלעת дословно „ребра“ — ребрата на жртвеникот, закривените страни"
+    }
+  ],
+  "translation": "И ги внесе ⟨את⟩ носачите во прстените на страните на жртвеникот, за да ⟨се⟩ носи ⟨את⟩ него со нив; шупливо, од даски го направи ⟨את⟩ него.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "12a9bc8583a3bf3c4878ad03268f07e26cea04d1d60ebec1f64fa625719f671e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/38\/5-8.1792443960132.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "внесе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "носачите"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "носачите"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "во прстените"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "страните"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жртвеникот"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "да носи"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "жртвеникот"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "со нив"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "шупливо"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "од даски"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "жртвеникот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:06:00.135954229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кошулата",
+      "rationale": "כתנת е долна кошула\/туника, не надворешна облека"
+    },
+    {
+      "kind": "addition",
+      "subject": "од",
+      "rationale": "שעיר עזים е конструкциски пар 'јарец-на-кози', македонскиот бара сврзник"
+    }
+  ],
+  "translation": "И ја зедоа ⟨את⟩ кошулата на Јосеф, и заклаа јарец од козите, и ја натопија ⟨את⟩ кошулата во крвта.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "692fc290941d03bb23df236d8ec60075afe942876746287f4a2ad1221c28fab8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/37\/29-32.1792443080749.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "и-ја-зедоа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кошулата на Јосеф"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "кошулата"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "на-Јосеф"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "и-заклаа"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "јарец"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "од-козите"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "и-ја-натопија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кошулата"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "кошулата"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "во-крвта"
+    }
+  ],
+  "timestamp": "2026-10-19T20:51:20.752133435Z",
+  "model": "glm-5.3"
+}

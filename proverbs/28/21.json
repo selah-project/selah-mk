@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הכר פנים",
+      "rationale": "дословно „да препознаеш лица“ — идиом за парцијалност\/фаворизирање."
+    },
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула."
+    }
+  ],
+  "translation": "Да ги препознаеш лицата не е добро, а за залка леб човек ќе престапи.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d0b790fbd55f352791bbf4a66c2b18053e78c1e4fca3890fb69f98d74ac99f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/28\/21-24.1792454776486.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "да препознаеш"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лицата"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "за"
+    },
+    {
+      "surface": "פת",
+      "gloss": "залка"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "ќе престапи"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "човек"
+    }
+  ],
+  "timestamp": "2026-10-20T00:06:16.487164542Z",
+  "model": "glm-5.3"
+}

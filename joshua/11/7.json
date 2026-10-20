@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 11:7",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויפלו בהם",
+      "rationale": "буквално „паднаа врз нив“ — хебрејски израз за ненадејн напад"
+    }
+  ],
+  "translation": "И дојде Јехошуа и сите луѓе на војната со него врз нив, кај водите на Мерон, ненадејно, и се фрлија врз нив.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b9a6acd5bcf88750ff216a45da301d8c052f1cef7bdab7f72de0bfd9e14fee4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/11\/5-8.1792446089926.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И дојде"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сите"
+    },
+    {
+      "surface": "עם",
+      "gloss": "луѓето"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "на војната"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "со него"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "врз нив"
+    },
+    {
+      "surface": "על",
+      "gloss": "кај"
+    },
+    {
+      "surface": "מי",
+      "gloss": "водите"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Мерон"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ненадејно"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "и се фрлија"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "врз нив"
+    }
+  ],
+  "timestamp": "2026-10-19T21:41:29.927427430Z",
+  "model": "glm-5.3"
+}

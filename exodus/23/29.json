@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 23:29",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "та",
+      "rationale": "פן е негативна цел, македонскиот бара сврзник во ⟨…⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעט מעט",
+      "rationale": "повторот е во следниот стих, тука ја подготвува градацијата прогонување-поплака"
+    }
+  ],
+  "translation": "Нема да ги прогонам од ⟨пред⟩ тебе во една година, ⟨та⟩ земјата да не стане пуста и ѕверовите на полето да не се намножат против тебе.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "09f9bd38b14ac0e4b199910d9d05b3e251dc8cdfc0c1a381399627334c710efe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/23\/29-32.1792443672445.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "да ги прогонам"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "од пред тебе"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "во година"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "פן",
+      "gloss": "та не"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "да стане"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "пуста"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "и да се намножат"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "против тебе"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ѕверовите"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "на полето"
+    }
+  ],
+  "timestamp": "2026-10-19T21:01:12.447975462Z",
+  "model": "glm-5.3"
+}

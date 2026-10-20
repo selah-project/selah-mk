@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 3:14",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שובו\/שובבים",
+      "rationale": "корен שוב: 'вратете се' \/ 'отстапници' — игра на зборови"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעלתי",
+      "rationale": "'сум ваш господар\/сопруг' (בעל — и маж и господар) наспроти 'се оженив со вас'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "повик за враќање",
+      "rationale": "Јахве ги повикува отстапничките синови да се вратат"
+    }
+  ],
+  "translation": "Вратете се, синови отстапници — изрека на Јахве — зашто јас сум ваш господар, и ќе ве земам ⟨את⟩ еден од град и двојца од род, и ќе ве доведам ⟨את⟩ во Цион.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8ff1da43b5b9f1edf590e6c17b6c7f1ead1add17687c259c67a12def594e5807",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/3\/13-16.1792450421745.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "Вратете се"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "שובבים",
+      "gloss": "отстапници"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "בעלתי",
+      "gloss": "сум ваш господар"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "над вас"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "и ќе ве земам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ве",
+      "marks": "вас"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "од град"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и двојца"
+    },
+    {
+      "surface": "ממשפחה",
+      "gloss": "од род"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "и ќе ве доведам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ве",
+      "marks": "вас"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "во Цион"
+    }
+  ],
+  "timestamp": "2026-10-19T22:53:41.746252421Z",
+  "model": "glm-5.3"
+}

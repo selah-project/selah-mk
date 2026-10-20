@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 2:10",
+  "book": "zephaniah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויגדלו",
+      "rationale": "буквално 'го зголемија' — 'се надуја' како македонски идиом за надменост"
+    }
+  ],
+  "translation": "Ова ќе им се случи заради нивната надменост, зашто укорија и се надуја против народот на Јахве Цеваот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "81d8399dd224d8bba39d3baf4be5b5f1efb37fda1f32718a1e90c4ebc063364a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zephaniah\/2\/9-12.1792452673566.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ова"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "заради"
+    },
+    {
+      "surface": "גאונם",
+      "gloss": "нивната надменост"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "укорија"
+    },
+    {
+      "surface": "ויגדלו",
+      "gloss": "и се надуја"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народот на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:31:13.567070197Z",
+  "model": "glm-5.3"
+}

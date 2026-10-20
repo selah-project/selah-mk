@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 49:17",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בניך",
+      "rationale": "מהרו בניך: KJV\/JPS 'тие деца' (בניך синови) наспроти YLT 'градителите' — и двете се можно, хебрејскиот буквално вели 'синовите твои брзаат'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מהרו\/מהרסיך",
+      "rationale": "Играта на звуците maharu \/ meharseikh (брзаат \/ разурнувачите) се губи во македонскиот."
+    },
+    {
+      "kind": "addition",
+      "subject": "ќе",
+      "rationale": "Македонскиот футур бара помошен глагол што хебрејскиот партицип го нема."
+    }
+  ],
+  "translation": "Брзаат синовите твои; разурнувачите твои и пустошачите твои од тебе ќе излезат.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "731b60d89bade3a78ee1bbb6d6513c52d30c0293282c1249de9b12712026b0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/49\/17-20.1792450191879.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "Брзаат"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "синовите твои"
+    },
+    {
+      "surface": "מהרסיך",
+      "gloss": "разурнувачите твои"
+    },
+    {
+      "surface": "ומחרביך",
+      "gloss": "и пустошачите твои"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "од тебе"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ќе излезат"
+    }
+  ],
+  "timestamp": "2026-10-19T22:49:51.880319676Z",
+  "model": "glm-5.3"
+}

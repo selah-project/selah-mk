@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 6:19",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "издишува",
+      "rationale": "יפיח е буквально 'дува, издишува' — лагите како здив"
+    }
+  ],
+  "translation": "сведок на лага што издишува лажни зборови, и оној што пушта раздор меѓу браќа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e6184baccefb4e874a99ab38c4925f2e560aaa1c58eda30ae1c89a5df362a673",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/6\/17-20.1792454349453.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "што издишува"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "лажни зборови"
+    },
+    {
+      "surface": "עד",
+      "gloss": "сведок"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "на лага"
+    },
+    {
+      "surface": "ומשלח",
+      "gloss": "и оној што пушта"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "раздор"
+    },
+    {
+      "surface": "בין",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "браќа"
+    }
+  ],
+  "timestamp": "2026-10-19T23:59:09.454244669Z",
+  "model": "glm-5.3"
+}

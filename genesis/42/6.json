@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 42:6",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше \/ ⟨е⟩",
+      "rationale": "хебрејскиот нема копула; именската реченица бара глагол"
+    },
+    {
+      "kind": "substitution",
+      "subject": "господарот",
+      "rationale": "השליט е 'моќникот, оној што владее' — хапакс во Танах"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "поклонија ... со лицата до земјата",
+      "rationale": "исполнение на соновите од Битие 37 — раскажувачката иронија е во самиот чин"
+    }
+  ],
+  "translation": "А Јосеф — тој беше господарот над земјата, тој беше оној што продаваше ⟨е⟩ жито на целиот народ на земјата. И дојдоа браќата на Јосеф и се поклонија пред него со лицата до земјата.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "8903152af5bfa243771e74ee745ef5b64062102cfb8648ac442efd4bcc0f8a09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/42\/6-8.1792447667908.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "А Јосеф"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "господарот"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "המשביר",
+      "gloss": "оној што продаваше жито"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на целиот"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и дојдоа"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "браќата"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "на Јосеф"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "и се поклонија"
+    },
+    {
+      "surface": "לו",
+      "gloss": "пред него"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "со лицата"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "до земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T22:07:47.910027339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "родословие",
+      "rationale": "Продолжение на родната линија со имиња."
+    }
+  ],
+  "translation": "И Шема роди ⟨את⟩ Рахам, таткото на Јоркеам; и Рекем роди ⟨את⟩ Шамај.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "585488fd096983c21d0941df3348217db687536d2d027879f3e84d60a9714a8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/2\/41-44.1792456794240.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "И Шема"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рахам"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "Рахам"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "таткото"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "на Јоркеам"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "и Рекем"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шамај"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шамај"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:54.241022947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 37:1",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "македонскиот го бара директниот објект кај „кого… за цар“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "кралска генеалогија",
+      "rationale": "стихот брои цареви и синови: Тсидкијаху наместо Канјаху, поставен од Невухадрецар"
+    }
+  ],
+  "translation": "И зацари царот Тсидкијаху, синот на Јошијаху, наместо Канјаху, синот на Јехојаким, кого Невухадрецар, царот на Вавилон, го постави за цар во земјата Јуда.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "90cd1fd9f263e60f20249b8fa04b94d8874537a741556ceab9eaa12ef9720f69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/37\/1-4.1792450947462.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "зацари"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Тсидкијаху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Јошијаху"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "наместо"
+    },
+    {
+      "surface": "כניהו",
+      "gloss": "Канјаху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Јехојаким"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кого"
+    },
+    {
+      "surface": "המליך",
+      "gloss": "постави за цар"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Невухадрецар"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуда"
+    }
+  ],
+  "timestamp": "2026-10-19T23:02:27.462948324Z",
+  "model": "glm-5.3"
+}

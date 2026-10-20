@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 5:2",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема глагол-врска во клаузата за водачот"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולנגיד ממנו",
+      "rationale": "'и за водач — од него': дали значи 'водач излезе од него' (Давид) или 'повисок од него' — носачите се делат"
+    }
+  ],
+  "translation": "зашто Јехуда ги надмина браќата свои, и од него ⟨е⟩ водачот, а првородството е на Јосеф.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0de4d91d30b0e44333e1b9a3b76f6d8455afb94af21e726227b509b76aeda7b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/5\/1-4.1792456859022.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ги надмина"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "браќата свои"
+    },
+    {
+      "surface": "ולנגיד",
+      "gloss": "и водачот"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од него"
+    },
+    {
+      "surface": "והבכרה",
+      "gloss": "а првородството"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "на Јосеф"
+    }
+  ],
+  "timestamp": "2026-10-20T00:40:59.023288414Z",
+  "model": "glm-5.3"
+}

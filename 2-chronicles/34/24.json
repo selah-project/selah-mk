@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 34:24",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "зло",
+      "rationale": "רעה — 'лошо\/зло' како именка, не само 'несреќа'"
+    }
+  ],
+  "translation": "Вака вели Јахве: Еве, јас донесувам зло врз ова место и врз неговите жители — ⟨את⟩ сите проклетства напишани во книгата што ја читаа пред царот на Јехуда,",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3ef4e8d171edb17148a8056a187317150f64be6cbf29e4c1282866484c01d801",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/34\/21-24.1792457914539.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "вака"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ево јас"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "донесувам"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "местото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "יושביו",
+      "gloss": "неговите жители"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите проклетства"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "проклетства"
+    },
+    {
+      "surface": "הכתובות",
+      "gloss": "напишани"
+    },
+    {
+      "surface": "על",
+      "gloss": "во"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "книгата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ја читаа"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јехуда"
+    }
+  ],
+  "timestamp": "2026-10-20T00:58:34.540942525Z",
+  "model": "glm-5.3"
+}

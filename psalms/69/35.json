@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Нека Го фалат",
+      "rationale": "повик до целото создание да фали — една од најшироките покани во Танах."
+    },
+    {
+      "kind": "substitution",
+      "subject": "што лази",
+      "rationale": "רמש е глагол „да лази\/се движи“ употребен субстантивно; македонскиот бара реченична форма."
+    }
+  ],
+  "translation": "Нека Го фалат небото и земјата, морињата и сè што лази во нив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f4a1fcc1a26e80e6d0d6aebf86c37e871c5fc58cf0cfb0cef3a7c04632bdae8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/69\/33-36.1792453510344.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "Нека Го фалат"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небото"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "и земјата"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "мориштата"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сè"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "што лази"
+    },
+    {
+      "surface": "בם",
+      "gloss": "во нив"
+    }
+  ],
+  "timestamp": "2026-10-19T23:45:10.345403374Z",
+  "model": "glm-5.3"
+}

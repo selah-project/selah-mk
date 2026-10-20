@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 58:10",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפש е дишено суштество, животна сила — грло, здив, глад, не бессмртна душа"
+    },
+    {
+      "kind": "alternative",
+      "subject": "како пладне",
+      "rationale": "כצהרים е двојна светлина (дуал) — буквално „како двојната светлина на пладнето“"
+    }
+  ],
+  "translation": "и ја изведеш на гладниот душата своја, и ја наситиш душата измачена — тогаш ќе засвети во темнината светлината твоја, и мрачноста твоја како пладне.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "373d75e201c2c3def20911f6ad3da03ccf38db04ebb0fa32563814436fe4d6bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/58\/9-12.1792450280201.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפק",
+      "gloss": "и изведеш"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "на гладниот"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "душата своја"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "и душата"
+    },
+    {
+      "surface": "נענה",
+      "gloss": "измачена"
+    },
+    {
+      "surface": "תשביע",
+      "gloss": "наситиш"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "и ќе засвети"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "во темнината"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "светлината твоја"
+    },
+    {
+      "surface": "ואפלתך",
+      "gloss": "и мрачноста твоја"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "како пладне"
+    }
+  ],
+  "timestamp": "2026-10-19T22:51:20.202338104Z",
+  "model": "glm-5.3"
+}

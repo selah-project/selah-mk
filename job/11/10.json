@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יקהיל",
+      "rationale": "да свика суд (BSB) или да собере\/затвори (KJV) — глаголот е само „свика“"
+    },
+    {
+      "kind": "you",
+      "subject": "кој",
+      "rationale": "риторичко прашање упатено кон Јов — никој не може да го врати Ел Шадај"
+    }
+  ],
+  "translation": "Ако помине и затвори, и свика ⟨собор⟩, па кој ќе го врати?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7b7a98b157cc4526b28a873bd555e7ddfdfe625cd6e3aa76638c70370bf7ff1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/11\/9-12.1792454983373.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "помине"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "и затвори"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "и свика"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "па кој"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "ќе го врати"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:43.373826520Z",
+  "model": "glm-5.3"
+}

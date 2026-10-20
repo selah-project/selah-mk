@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 19:18",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Хебрејскиот ויהи е раскажувачко „и беше“, македонскиот бара сврзник со двојна точка."
+    },
+    {
+      "kind": "elision",
+      "subject": "-ах наставка на יזרעאלה",
+      "rationale": "Насочувачката наставка кон градот нема македонски еквивалент."
+    }
+  ],
+  "translation": "И беше нивната граница: Јизреел, Кесулот и Шунем.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f956bf34ce2910556de0fe2c35102d84c910d8bdb82fe9cdc1820fe95ce9e9f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/19\/17-20.1792446174183.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "нивната граница"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Јизреел"
+    },
+    {
+      "surface": "והכסולת",
+      "gloss": "и Кесулот"
+    },
+    {
+      "surface": "ושונם",
+      "gloss": "и Шунем"
+    }
+  ],
+  "timestamp": "2026-10-19T21:42:54.183798769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,147 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 13:7",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душа",
+      "rationale": "נפש е ближе до 'живот\/глишка\/жива сила', не бесмртна душа"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "копула — хебрејскиот ја нема во оваа споредба"
+    },
+    {
+      "kind": "you",
+      "subject": "до Израел",
+      "rationale": "директна адреса: твој брат, твојот син — на народот"
+    }
+  ],
+  "translation": "Кога те подговара брат ти, син на мајка ти, или син твој, или ќерка твоја, или жената на твојата пазува, или пријател твој, што ⟨е⟩ како твојата душа, тајно, велејќи: Да одиме и да служиме на други богови, што не ги познаваш ни ти ни татковците твои —",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "eb099aedd85daf184805e78897f807560452dc1f2489903a2fd8df715b9fcade",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/13\/5-8.1792445548520.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "יסיתך",
+      "gloss": "те подговара"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брат ти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "на мајка ти"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "син твој"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ќерка твоја"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жената"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "на твојата пазува"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "пријател твој"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "како твојата душа"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "тајно"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "да одиме"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "и да служиме"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "на други богови"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "други"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "познаваш"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ואבתיך",
+      "gloss": "ни татковците твои"
+    }
+  ],
+  "timestamp": "2026-10-19T21:32:28.521597411Z",
+  "model": "glm-5.3"
+}

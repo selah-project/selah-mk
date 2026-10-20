@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 6:14",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסед не е „милост“ сама — еден збор, една верност љубов."
+    },
+    {
+      "kind": "addition",
+      "subject": "Кој",
+      "rationale": "Македонскиот бара подмет за учествникот שמר; хебрејскиот е само причастие."
+    },
+    {
+      "kind": "you",
+      "subject": "Јахве",
+      "rationale": "Директна молитва — Шеломо Му се обраќа на Јахве пред целиот собор."
+    }
+  ],
+  "translation": "и рече: Јахве, Елохим на Јисраел, нема ⟨како⟩ Тебе Елохим во небесата и на земјата — Кој го пази заветот и хесед кон слугите Свои што одат пред Тебе со сето нивно срце.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8cb3b022dfafc4545f4ef916adfbcd97a39cb0c515201ef917ce303806d61bdc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/6\/13-16.1792457429924.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "како Тебе"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "во небесата"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "и на земјата"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Кој пази"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "заветот"
+    },
+    {
+      "surface": "והחסד",
+      "gloss": "и хесед"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "кон слугите Свои"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "што одат"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред Тебе"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "со сето"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "нивно срце"
+    }
+  ],
+  "timestamp": "2026-10-20T00:50:29.925246773Z",
+  "model": "glm-5.3"
+}

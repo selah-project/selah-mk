@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 29:23",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "безчестие",
+      "rationale": "נבלה е 'глупост\/сквернотија' — морално злосторство, не интелектуална глупост"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידע ועד",
+      "rationale": "Јахве е и знаен и сведок — правен пар од Дт 19:15; двата учесници во сведочењето"
+    }
+  ],
+  "translation": "Зашто направија безчестие во Јисраел и прељубодействаа со ⟨את⟩ жените на своите блиски, и зборуваа збор лажен во Моето име, кој не им заповедав; а Јас — Јас знаам и сведочам, вели Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "43e53e4eba1ecc843a9c98285517bcf1b90e60a1cb108f9cf3573815d2c2074f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/29\/21-24.1792450848101.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "бидејќи"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направија"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "безчестие"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "во Јисраел"
+    },
+    {
+      "surface": "וינאפו",
+      "gloss": "и прељубодействаа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жените на нивните блиски"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "жените"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "на своите блиски"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "и зборуваа"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "збор"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "во Моето име"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лажен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кој"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "не"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "им заповедав"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "а Јас"
+    },
+    {
+      "surface": "הו",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знаам"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и сведочам"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:00:48.102823972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "העבר",
+      "rationale": "истиот глагол како во ст. 37 — 'прекрај\/одврати' — повторување што ги поврзува очите и срамотата"
+    }
+  ],
+  "translation": "Одврати ја срамотата моја што ја страшам, зашто судовите твои се добри.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a1f583fa8c5d10e9a2465be7b2973498b24ae4ae21f3a20071c244c9ee4ecd8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/37-40.1792453978499.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "Одврати"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "срамотата моја"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "ја страшам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "судовите твои"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "се добри"
+    }
+  ],
+  "timestamp": "2026-10-19T23:52:58.501492797Z",
+  "model": "glm-5.3"
+}

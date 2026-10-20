@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 21:33",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "кон",
+      "rationale": "хебрејскиот нема предлог кон Башан — додаден за тек"
+    }
+  ],
+  "translation": "И се свртеа и тргнаа по патот кон Башан, и излезе Ог, царот на Башан, против нив — тој и сите негови луѓе — во војна, кај Едреи.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b46e000413ec5684c7b7b011047ade5448bd708bbf79004fcf5157327729df48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/21\/33-35.1792444953947.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "и се свртеа"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "и тргнаа"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "по патот"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "кон Башан"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и излезе"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ог"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "на Башан"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "против нив"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "ו כל",
+      "gloss": "и сите"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "негови луѓе"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "во војна"
+    },
+    {
+      "surface": "אדרעי",
+      "gloss": "кај Едреи"
+    }
+  ],
+  "timestamp": "2026-10-19T21:22:33.948900787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מן הבתים מן החצרת ומן השדות",
+      "rationale": "Тројно повторување на מן (од… од… и од…) — ритмичка градација на просторот."
+    }
+  ],
+  "translation": "И Јахве направи според зборот на Моше, и жабите изумреа од куќите, од дворовите и од полињата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b10277754b60013bb6c026cf58bc04071dc21f5f02ec830d6a6d2e96f71d4cd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/8\/9-12.1792443430419.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И направи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "според зборот"
+    },
+    {
+      "surface": "משה",
+      "gloss": "на Моше"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "и изумреа"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "жабите"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "куќите"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "дворовите"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "полињата"
+    }
+  ],
+  "timestamp": "2026-10-19T20:57:10.423552364Z",
+  "model": "glm-5.3"
+}

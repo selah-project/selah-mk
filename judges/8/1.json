@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 8:1",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כי",
+      "rationale": "буквално „зашто\/дека“, рендерирано како „кога“ за да се следи приговорот"
+    },
+    {
+      "kind": "you",
+      "subject": "до Гедеон",
+      "rationale": "луѓето од Ефраим директно го обвинуваат Гедеон"
+    }
+  ],
+  "translation": "И му рекоа луѓето од Ефраим: Што е оваа работа што ни ја стори, та не нè повика кога отиде да се бориш со Мидијан? И се скараа со ⟨את⟩ него силно.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "37d4d622d2a82eab9d45e2026f919f5c81d33a0171484b1baeac7202322a1d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/8\/1-4.1792446428294.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и му рекоа"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "איש",
+      "gloss": "луѓето"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "од Ефраим"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "оваа работа"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ни ја стори"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "та не"
+    },
+    {
+      "surface": "קראות",
+      "gloss": "нè повика"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "отиде"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "да се бориш"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "со Мидијан"
+    },
+    {
+      "surface": "ויריבון",
+      "gloss": "и се скараа"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ со него"
+    },
+    {
+      "surface": "בחזקה",
+      "gloss": "силно"
+    }
+  ],
+  "timestamp": "2026-10-19T21:47:08.295262768Z",
+  "model": "glm-5.3"
+}

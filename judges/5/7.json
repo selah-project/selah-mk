@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 5:7",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרזון",
+      "rationale": "единствена реч скоро — 'отворени незаштитени места \/ селани \/ старешини'; избрано букв. 'отворен-живеж'"
+    },
+    {
+      "kind": "addition",
+      "subject": "јас",
+      "rationale": "„Девора“ е во апозиција на прво лице; македонскиот бара „јас“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חדלו…חדלו \/ שקמתי…שקמתי",
+      "rationale": "двојно повторување — замре\/замре, станав\/станав — поетска рамнотежа"
+    }
+  ],
+  "translation": "Замре ⟨незаштитениот⟩ отворен-живеж во Јисраел, замре, додека не станав јас, Девора, станав мајка во Јисраел.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "599c823998dacf9f09627b24e3b06eee888c983c179f9be30c59187207eafd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/5\/5-8.1792446316818.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "замре"
+    },
+    {
+      "surface": "פרזון",
+      "gloss": "отворен-живеж"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "во Јисраел"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "замре"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека не"
+    },
+    {
+      "surface": "שקמתי",
+      "gloss": "станав"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "јас, Девора"
+    },
+    {
+      "surface": "שקמתי",
+      "gloss": "станав"
+    },
+    {
+      "surface": "אם",
+      "gloss": "мајка"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "во Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T21:45:16.819284564Z",
+  "model": "glm-5.3"
+}

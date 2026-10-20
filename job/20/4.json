@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "македонскиот бара рефлексивно 'се' кај 'стави'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "прашање до Јов",
+      "rationale": "Цофар го повикува Јов со реторско прашање — 'зар не го знаеш ова од ancient време'"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јов",
+      "rationale": "директно обраќање со 'ти знаеш'"
+    }
+  ],
+  "translation": "Зар ова го знаеш од порано, од откако ⟨се⟩ стави човек на земјата?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "50095f45bec52eb3b23d729625fbb0aa98ce81112b054f66b5b82fa6bd957b70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/20\/1-4.1792455061904.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "Зар ова"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "го знаеш"
+    },
+    {
+      "surface": "מני",
+      "gloss": "од"
+    },
+    {
+      "surface": "עד",
+      "gloss": "порано"
+    },
+    {
+      "surface": "מני",
+      "gloss": "од откако"
+    },
+    {
+      "surface": "שים",
+      "gloss": "⟨се⟩ стави"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјата"
+    }
+  ],
+  "timestamp": "2026-10-20T00:11:01.905794847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "micah 7:16",
+  "book": "micah",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "рака на уста",
+      "rationale": "гест на занеменост — чудото ги замолкува народите; поврзано со 7:17 („ќе лижат прав“)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "оглувнат",
+      "rationale": "חרש буквално значи да бидеш нем или глув — двата вида онемост; македонскиот мора да избере"
+    }
+  ],
+  "translation": "Народите ќе видат и ќе се посрамат од сета силата своја; ќе стават рака на уста, ушите нивни ќе оглувнат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dbf71ed114ed89d8703c8c8f16ab3be9148f4e048ffc1e16d0de6a3027bafe67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/micah\/7\/13-16.1792452525526.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ќе видат"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "и ќе се посрамат"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од сета"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "силата своја"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "ќе стават"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рака"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פה",
+      "gloss": "уста"
+    },
+    {
+      "surface": "אזניהם",
+      "gloss": "ушите нивни"
+    },
+    {
+      "surface": "תחרשנה",
+      "gloss": "ќе оглувнат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:28:45.527954020Z",
+  "model": "glm-5.3"
+}

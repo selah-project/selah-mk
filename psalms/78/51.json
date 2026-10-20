@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "силата",
+      "rationale": "אונים буквално 'моќ\/имот', за првородениот како прв плод на татковата сила"
+    },
+    {
+      "kind": "measurement",
+      "subject": "сите првородени",
+      "rationale": "поразот е броен — сите првородени, првите на силата"
+    }
+  ],
+  "translation": "Ги порази сите првородени во Мицраим, првите-плодови на силата нивна, во шаторите на Хам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/78\/49-52.1792453572164.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ги порази"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "првородени"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "во Мицраим"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "првите-плодови"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "на силата нивна"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "во шаторите"
+    },
+    {
+      "surface": "חם",
+      "gloss": "на Хам"
+    }
+  ],
+  "timestamp": "2026-10-19T23:46:12.165112473Z",
+  "model": "glm-5.3"
+}

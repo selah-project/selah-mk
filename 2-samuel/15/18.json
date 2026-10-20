@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 15:18",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "шестстотинмина мажи",
+      "rationale": "бројката на Гитите е означена точно"
+    },
+    {
+      "kind": "substitution",
+      "subject": "על ידו",
+      "rationale": "букв. „при раката негова“, здраво „покрај него“"
+    }
+  ],
+  "translation": "И сите слуги негови минуваа покрај него, и сите Керети, и сите Пелети, и сите Гити — шестстотинмина мажи што дојдоа пешке од Гат — минуваа пред лицето на царот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2655ab66004121c956557883e3353d19732b57ecff9aaa23052efb676f10f488",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/15\/17-20.1792448286072.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и-сите"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "слугите-негови"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "минуваа"
+    },
+    {
+      "surface": "על",
+      "gloss": "покрај"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "раката-негова"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и-сите"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "Керетите"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и-сите"
+    },
+    {
+      "surface": "הפלתי",
+      "gloss": "Пелетите"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и-сите"
+    },
+    {
+      "surface": "הגתים",
+      "gloss": "Гитите"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотини"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мина-мажи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дојдоа"
+    },
+    {
+      "surface": "ברגלו",
+      "gloss": "пешке"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "од-Гат"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "минуваа"
+    },
+    {
+      "surface": "על",
+      "gloss": "пред"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на-царот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:18:06.074382181Z",
+  "model": "glm-5.3"
+}

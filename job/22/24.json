@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 22:24",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצר",
+      "rationale": "KJV\/JPS: „злато како прашина“ (богатство безброј); YLT: „стави на прашината одбрана“ — читаат בצר како утврдување; двата спротивни преводи"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨златото⟩",
+      "rationale": "повторување на предметот за вториот дел од стихот, хебрејскиот го има само имплицитно"
+    }
+  ],
+  "translation": "и стави злато на прашината, и ⟨златото⟩ на Офир меѓу карпите на потоците.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "34839cc85820da0747e4c67d47dfa331b923642de585cf389a9635a1e295fc00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/22\/21-24.1792455103710.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושית",
+      "gloss": "и стави"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прашината"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "злато"
+    },
+    {
+      "surface": "ובצור",
+      "gloss": "и меѓу карпите"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "на потоците"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Офир"
+    }
+  ],
+  "timestamp": "2026-10-20T00:11:43.711637499Z",
+  "model": "glm-5.3"
+}

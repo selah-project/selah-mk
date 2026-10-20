@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 29:20",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Тора",
+      "rationale": "התורה останува Тора, не „закон“ — по правилото D2"
+    }
+  ],
+  "translation": "и Јахве ќе го оддели него за зло од сите племиња на Јисраел, според сите клетви на заветот напишан во книгата на оваа Тора.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9aca2e4fe966082c9a08f4d4d4a4948f7ab076ca1310842f6f8d5ef18b5d7e9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/29\/17-20.1792445809251.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבדילו",
+      "gloss": "и ќе го оддели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "за зло"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од сите"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "племиња"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "според сите"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "клетви"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "на заветот"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "напишан"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "во книгата"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "на Тора"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "оваа"
+    }
+  ],
+  "timestamp": "2026-10-19T21:36:49.253366601Z",
+  "model": "glm-5.3"
+}

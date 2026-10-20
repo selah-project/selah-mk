@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 15:2",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בן משק ביתי",
+      "rationale": "'син на поседувањето на домот мој' — најчесто 'стопанственик\/наследник на домот'; букв. сликата е нејасна"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משק \/ דמשק",
+      "rationale": "דמשק е напишано без ר, како да рими со משק — врска што се губи во преводот"
+    },
+    {
+      "kind": "hapax",
+      "subject": "משק",
+      "rationale": "зборот משק се јавува само тука во Танах"
+    }
+  ],
+  "translation": "И рече Аврахам: Адонај Јахве, што ќе ми дадеш, а јас одам без дете, и поседувачот на домот мој — тој е Дамашек Елиезер.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "da8a1078efccbc5638e746f15f712abacb2932b80a2eb0f6a306cf95e31abf1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/15\/1-4.1792442554692.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ќе дадеш"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "а јас"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "одам"
+    },
+    {
+      "surface": "ערירי",
+      "gloss": "без дете"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "и син"
+    },
+    {
+      "surface": "משק",
+      "gloss": "поседување"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "на домот мој"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој е"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Дамашек"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Елиезер"
+    }
+  ],
+  "timestamp": "2026-10-19T20:42:34.705411693Z",
+  "model": "glm-5.3"
+}

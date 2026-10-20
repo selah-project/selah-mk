@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 4:23",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "меѓу триесет и педесет",
+      "rationale": "הебрејскиот вели „син на триесет години“ — мерка според возраста како стриктура"
+    }
+  ],
+  "translation": "од триесет години и нагоре до педесет години ќе ги过失 преброиш ⟨את⟩ нив — сите што доаѓаат ⟨се⟩ на служба, служба-за-работа во шаторот на состанокот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "df482fc2298f8114b0ad23d6c458cd9c66d2a4473c8825a6426cff07f7c6c102",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/4\/21-24.1792447713619.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "мибен",
+      "gloss": "од"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "триесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "и нагоре"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בן",
+      "gloss": "—"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": " педесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "преброиш"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ нив",
+      "marks": "нив"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "што доаѓаат"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "на служба"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "служба"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "да работат"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "работа"
+    },
+    {
+      "surface": "бахел",
+      "gloss": "во шаторот"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на состанокот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:08:33.624045463Z",
+  "model": "glm-5.3"
+}

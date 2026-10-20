@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 22:25",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "синови Раувен и синови Гад",
+      "rationale": "цитираниот збор е директно обраќање до племињата преку Јарден"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Го бојат",
+      "rationale": "ירא е и страв и почит; додавката ⟨Го⟩ е македонски директен предмет"
+    }
+  ],
+  "translation": "и граница даде Јахве меѓу нас и вас, синови Раувен и синови Гад — ⟨את⟩ Јарден; немате дел во Јахве; и ќе натераат вашите синови ⟨את⟩ нашите синови да престанат да Го бојат ⟨את⟩ Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3d758ebc8cab4bdb07db3ce945d89197dfdeaaa363b0eb4ebe45210754f97bc6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/22\/25-28.1792446244373.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "и граница"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ביננו",
+      "gloss": "меѓу нас"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "и меѓу вас"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Раувен"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синови"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јарден"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Јарден"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "дел"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "во Јахве"
+    },
+    {
+      "surface": "והשביתו",
+      "gloss": "и ќе натераат да престанат"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "вашите синови"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нашите синови"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "нашите синови"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "да не"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "бои"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:44:04.374381009Z",
+  "model": "glm-5.3"
+}

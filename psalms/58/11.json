@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חזה ... חזו (ст. 9)",
+      "rationale": "Истиот глагол: злите „не го видоа“ сонцето, праведниот „ја гледа“ одмаздата — гледање како судбина."
+    },
+    {
+      "kind": "alternative",
+      "subject": "פעמיו",
+      "rationale": "Може и „чекорите свои“ — п Islам буквално „ударите\/стапките негови“."
+    }
+  ],
+  "translation": "Праведниот ќе се зарадува кога ќе ја види одмаздата; ќе ги измие стапалата свои во крвта на злото.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/58\/9-12.1792453401532.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ќе се зарадува"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведниот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ќе ја види"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "одмаздата"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "стапалата свои"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "ќе ги измие"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "во крвта"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "на злото"
+    }
+  ],
+  "timestamp": "2026-10-19T23:43:21.533870821Z",
+  "model": "glm-5.3"
+}

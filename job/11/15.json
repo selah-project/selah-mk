@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 11:15",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מצק",
+      "rationale": "пасивен причастие од יצק „излеан“ — „излит\/тврд како метал“; традицијата: „стамен“ vs сликата на леан метал"
+    },
+    {
+      "kind": "substitution",
+      "subject": "мимум",
+      "rationale": "„без недостаток“ е произлезено од מ + מום; букв. „од лошо\/од беља“"
+    }
+  ],
+  "translation": "тогаш навистина ќе го подигнеш лицето свое без недостаток, и ќе бидеш тврд како излеан, и нема да се плашиш.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d9453ead6ef740f73e4b92ce97314adf1b44821849d067b7723c3fe54dbce252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/11\/13-16.1792454994519.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "навистина"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тогаш"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ќе подигнеш"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицето свое"
+    },
+    {
+      "surface": "ממום",
+      "gloss": "без недостаток"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "и ќе бидеш"
+    },
+    {
+      "surface": "מצק",
+      "gloss": "тврд како излеан"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "да се плашиш"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:54.520585611Z",
+  "model": "glm-5.3"
+}

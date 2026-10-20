@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 8:14",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויכתב אליו",
+      "rationale": "„му напиша“ (JPS\/BSB: младичот ги напишал) наспроти „му опиша“ (KJV: Гидеон побарал опис); хебрејскиот е двосмислен за тој кој пишува."
+    },
+    {
+      "kind": "measurement",
+      "subject": "77",
+      "rationale": "бројката седумдесет и седум мажи е дадена целосно, како во хебрејскиот."
+    }
+  ],
+  "translation": "И фати младич од луѓето на Сукот, и го праша, и му напиша ⟨את⟩ началниците на Сукот и ⟨את⟩ старешините негови — седумдесет и седуммина мажи.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3aec9b2c8072b1107719897c1a9c270380584bdc29dbadd7be2a1c6fefb8b9a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/8\/13-16.1792446418786.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "и фати"
+    },
+    {
+      "surface": "נער",
+      "gloss": "младич"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "од луѓето"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Сукот"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "и го праша"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "и напиша"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "началниците на Сукот"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "началниците"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Сукот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "старешините негови"
+    },
+    {
+      "surface": "זקניה",
+      "gloss": "старешините негови"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "седумдесет"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "и седум"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мажи"
+    }
+  ],
+  "timestamp": "2026-10-19T21:46:58.787721413Z",
+  "model": "glm-5.3"
+}

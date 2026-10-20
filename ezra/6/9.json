@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 6:9",
+  "book": "ezra",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Елах",
+      "rationale": "Арамејскиот אלה е звук-верно 'Елах', не 'Бог'; изразот е 'Елах на небесата'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ден по ден",
+      "rationale": "наредбата брои провизии и дневен ритам на давање"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "македонскиот бара помошен глагол кај 'свештениците што се во Јерушалаим'"
+    }
+  ],
+  "translation": "И што е потребно — телиња, овни и јагниња за целопринос на Елах на небесата, пченица, сол, вино и масло, според зборот на свештениците што ⟨се⟩ во Јерушалаим — да им се дава ден по ден, та да нема никаква грешка.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9eba92e07d24dff0ed8fae3627ee8daa1c3a0c38faa01a55d5f5773acb41f98c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezra\/6\/9-12.1792456430361.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "и што"
+    },
+    {
+      "surface": "חשחן",
+      "gloss": "е потребно"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "телиња"
+    },
+    {
+      "surface": "תורין",
+      "gloss": "млади бикови"
+    },
+    {
+      "surface": "ודכרין",
+      "gloss": "и овни"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "и јагниња"
+    },
+    {
+      "surface": "לעלון",
+      "gloss": "за целопринос"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "на Елах"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "на небесата"
+    },
+    {
+      "surface": "חנטין",
+      "gloss": "пченица"
+    },
+    {
+      "surface": "мלח",
+      "gloss": "сол"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "вино"
+    },
+    {
+      "surface": "ומשח",
+      "gloss": "и масло"
+    },
+    {
+      "surface": "כמאמר",
+      "gloss": "според зборот"
+    },
+    {
+      "surface": "כהניא",
+      "gloss": "на свештениците"
+    },
+    {
+      "surface": "די",
+      "gloss": "што"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "во Јерушалаим"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "да"
+    },
+    {
+      "surface": "מתיהב",
+      "gloss": "се дава"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ним"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "по ден"
+    },
+    {
+      "surface": "די",
+      "gloss": "та"
+    },
+    {
+      "surface": "לא",
+      "gloss": "да нема"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "грешка"
+    }
+  ],
+  "timestamp": "2026-10-20T00:33:50.362801650Z",
+  "model": "glm-5.3"
+}

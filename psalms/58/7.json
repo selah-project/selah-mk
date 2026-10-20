@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרס\/נתץ",
+      "rationale": "два различни глаголи за 'крши' во паралелни членови — хебрејскиот паралелизам, во македонскиот повторен со ист збор."
+    }
+  ],
+  "translation": "Елохим, искрши им ги забите во устата нивна; очните заби на младите лавови искрши, Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "eb817a6b037371ddaaf7bf83a2a4b6b8f71815d55c3ab7cafac572118ebca6f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/58\/5-8.1792453424118.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "искрши"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "ги забите нивни"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "во устата нивна"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "очните заби"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "на младите лавови"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "искрши"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:43:44.119370873Z",
+  "model": "glm-5.3"
+}

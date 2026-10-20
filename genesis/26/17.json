@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 26:17",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "долината",
+      "rationale": "נחל е поточно корито на зимски поток \/ клисура; македонскиот бара еден збор"
+    }
+  ],
+  "translation": "И Јицхак тргна од таму и се насели во долината на Герар, и остана да живее таму.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f878347e8efd50fcfc536bbaef5619367662e3958c5bb3a99f682fb6520fd25a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/26\/17-20.1792442809146.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И тргна"
+    },
+    {
+      "surface": "משם",
+      "gloss": "од таму"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Јицхак"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "и се насели"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "во долината"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "на Герар"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и остана да живее"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    }
+  ],
+  "timestamp": "2026-10-19T20:46:49.148461894Z",
+  "model": "glm-5.3"
+}

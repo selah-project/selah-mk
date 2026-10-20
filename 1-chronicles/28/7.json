@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 28:7",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "והכינותי \/ יחזק",
+      "rationale": "корен כון (утврдам) и חזק (да биде силен) — игра на утврдување во условната реченица"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לעולם",
+      "rationale": "буквално «до скриеното\/она што исчезнува» — може и «до вековите», но «до вечност» го чува временско-бесконечниот призвук"
+    }
+  ],
+  "translation": "И ќе ја утврдам ⟨את⟩ царството негово до вечност, ако се утврди да ги извршува заповедите мои и судовите мои, како на овој ден.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "17a9fcbba743b6b5adb86e203301d38c76473de293f55630950e1acb0a214da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/28\/6-7.1792458555281.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכינותי",
+      "gloss": "И ќе ја утврдам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "царството негово"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "царството негово"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "вечност"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "се утврди"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да ги извршува"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "заповедите мои"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "и судовите мои"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "како на денот"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    }
+  ],
+  "timestamp": "2026-10-20T01:09:15.282719325Z",
+  "model": "glm-5.3"
+}

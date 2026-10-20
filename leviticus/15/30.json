@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "помирување",
+      "rationale": "כפר буквално значи „покрива“ — покривање\/искупување, македонското помирување е традиционално"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сепалежна жртва",
+      "rationale": "עלה значи „она што се качува“ — жртва што целосно гори и се качува во чад"
+    }
+  ],
+  "translation": "И свештеникот ќе направи ⟨את⟩ едниот жртва за грев и ⟨את⟩ едниот сепалежна жртва, и свештеникот ќе изврши помирување за неа пред Јахве, за потокот на нејзината нечистотија.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "acf7171abcf72a7bc2720fc42d68a1b48d5712f6fbbaf6705a6dfb62592970d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/15\/29-32.1792444362804.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "и ќе направи"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "едниот"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "едниот"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "жртва за грев"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "едниот"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "едниот"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "сепалежна жртва"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "и ќе изврши помирување"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "за неа"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "за потокот"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "на нејзината нечистотија"
+    }
+  ],
+  "timestamp": "2026-10-19T21:12:42.806424537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 10:27",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מפני שמן",
+      "rationale": "'поради маслото\/мастноста' — традицијата дели: масно тело што го крши јаремот, помазанието, или изобилството"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עול\/עלו",
+      "rationale": "игра меѓу 'јарем' и 'од горе' — поврзаност со Мадменa (10:26 стап) е изгубена во македонскиот"
+    }
+  ],
+  "translation": "И ќе биде во оној ден: ќе се отстрани товарот негов од рамото твое и јаремот негов од вратот твој, и ќе пропадне јаремот од лицето на маслото.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "438a605020493ef5f74ec52fb910c7bb1b24fe4985580ad1fe993c939d1c7771",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/10\/25-28.1792449724926.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оној"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ќе се отстрани"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "товарот негов"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "שכמך",
+      "gloss": "рамото твое"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "и јаремот негов"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "вратот твој"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "ќе пропадне"
+    },
+    {
+      "surface": "על",
+      "gloss": "јаремот"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "од лицето"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "на маслото"
+    }
+  ],
+  "timestamp": "2026-10-19T22:42:04.929513641Z",
+  "model": "glm-5.3"
+}

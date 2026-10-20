@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 43:23",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "македонскиот бара член пред 'јагне' што хебрејскиот го нема."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מנחה",
+      "rationale": "'минха' се чува како збор, не 'жртва' или 'принос' сам."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יגעת \/ הוגעתיך",
+      "rationale": "истиот корен יגע се враќа од 43:22 ('се изморив') во 43:23 ('те изморував') — игра гнев–одговор."
+    }
+  ],
+  "translation": "Не Ми донесе ⟨е⟩ јагне од сепалениците свои, ни жртвите свои Ме почести; не те услугував со минха и не те изморував со тамјан.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2e79bf21d0b8baaef66828fe2226782167b5e5e1bf148ab37546df77f8c970c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/43\/22-23.1792458213619.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הביאת",
+      "gloss": "донесе"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ми"
+    },
+    {
+      "surface": "שה",
+      "gloss": "јагне"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "од сепалениците свои"
+    },
+    {
+      "surface": "וזבחיך",
+      "gloss": "ни жртвите свои"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כבדתני",
+      "gloss": "Ме почести"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "העבדתיך",
+      "gloss": "те услугував"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "со минха"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "הוגעתיך",
+      "gloss": "те изморував"
+    },
+    {
+      "surface": "בלבונה",
+      "gloss": "со тамјан"
+    }
+  ],
+  "timestamp": "2026-10-20T01:03:33.620390761Z",
+  "model": "glm-5.3"
+}

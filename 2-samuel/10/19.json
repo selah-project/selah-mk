@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 10:19",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "се помирија",
+      "rationale": "וישלמו од корен שלם — буквално „направија мир\/се предадоа целосно“; мирот тука е предавање и покорност"
+    }
+  ],
+  "translation": "И кога видоа сите цареви, слугите на Ададезер, дека се поразени пред Јисраел, се помирија со ⟨את⟩ Јисраел и им служеа; и Арам се уплаши повеќе да им помогне на ⟨את⟩ синовите Амонови.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "40c92e762f31e5b1b81e82a7dadafb5ee8dbffbfc1c20029c7d0042e4e74fa3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/10\/17-19.1792448146491.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "видоа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "цареви"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слугите"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Ададезер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "се поразени"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "וישלמו",
+      "gloss": "се помирија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јисраел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "им служеа"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "се уплаши"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "да помогне"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синовите Амонови"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амонови"
+    }
+  ],
+  "timestamp": "2026-10-19T22:15:46.493671402Z",
+  "model": "glm-5.3"
+}

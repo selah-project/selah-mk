@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלוף",
+      "rationale": "Дали 'старешина\/кнез' е титула на човекот или 'старешина на (местото)' — JPS чита 'the chief of Timna'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "список на старешини",
+      "rationale": "Список на едомски старешини — чисто именување."
+    }
+  ],
+  "translation": "И умре Хадад. И беа старешините на Едом: старешина Тимна, старешина Алва, старешина Јетет.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6a2f63e862e27750c45737995c1553310c07d4b24b30cd980e07320d73d24a82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/1\/49-52.1792456785606.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Хадад"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "и беа"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "старешините"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "на Едом"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "старешина"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тимна"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "старешина"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "Алва"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "старешина"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Јетет"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:45.607764413Z",
+  "model": "glm-5.3"
+}

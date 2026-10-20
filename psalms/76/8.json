@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨пламне⟩",
+      "rationale": "хебрејскиот вели само 'от тогаш Твојот гнев' — додаден глагол за разбираливост"
+    },
+    {
+      "kind": "substitution",
+      "subject": "гнев",
+      "rationale": "אף буквално е 'нос\/носница' — слика на гнев што фрла здив"
+    },
+    {
+      "kind": "you",
+      "subject": "до Елохим",
+      "rationale": "директно обраќање, реторичко прашање"
+    }
+  ],
+  "translation": "Ти, страшен си Ти — и кој ќе застане пред Твоето лице штом Твојот гнев ⟨пламне⟩?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2a74c3ec15b03c54751aa2fb13eeaf047c52e9e4390a0d393c579c4d9caf67e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/76\/5-8.1792453602320.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "страшен"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и кој"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ќе застане"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред Твоето лице"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "штом"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "Твојот гнев"
+    }
+  ],
+  "timestamp": "2026-10-19T23:46:42.321947331Z",
+  "model": "glm-5.3"
+}

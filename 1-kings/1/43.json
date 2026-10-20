@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 1:43",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אבל",
+      "rationale": "„не\/напротив“ наспроти „навистина“ (КЈВ „Verily“) — хебрејскиот одречува очекување на Адонија за лоша вест"
+    },
+    {
+      "kind": "you",
+      "subject": "до Адонија",
+      "rationale": "Јонатан одговара директно на Адонија"
+    }
+  ],
+  "translation": "И одговори Јонатан и рече на Адонија: Напротив, господарот наш, царот Давид, го постави за цар ⟨את⟩ Шломо.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ba4f9886672489087e22eaa8a9354a321535ec6a0717518e50614c3e53ff67ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/1\/42-43.1792457981037.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и одговори"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Јонатан"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "на Адонија"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "напротив"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "господарот наш"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "המליך",
+      "gloss": "го постави за цар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шломо"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    }
+  ],
+  "timestamp": "2026-10-20T00:59:41.038207254Z",
+  "model": "glm-5.3"
+}

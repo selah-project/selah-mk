@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Формула 'не... туку' — силно противоставување во хебрејскиот."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עכר\/עכרתי",
+      "rationale": "Повторување на истиот глагол од 18:17 — Елијаху го враќа обвинението вратено кон Ахав."
+    },
+    {
+      "kind": "you",
+      "subject": "Елијаху до Ахав",
+      "rationale": "Директен одговор до царот."
+    }
+  ],
+  "translation": "И тој рече: Не јас го замутив ⟨את⟩ Јисраел, туку ти и домот на татко ти, со тоа што ги оставивте ⟨את⟩ заповедите на Јахве и тргнавте по баалите.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "504816e03c8e004468c2349f92b3c1f16f5a1ea567f4874d490f3afaf7fa58c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/18\/17-20.1792448916828.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И тој рече"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "го замутив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јисраел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "כי",
+      "gloss": "туку"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и домот"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "на татко ти"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "со тоа што оставивте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "заповедите"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "заповедите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "и тргнавте"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "баалите"
+    }
+  ],
+  "timestamp": "2026-10-19T22:28:36.829461449Z",
+  "model": "glm-5.3"
+}

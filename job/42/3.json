@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Кој е овој",
+      "rationale": "македонскиот бараше согласен глагол во сегашното време наспроти хебрејскиот particip 'што крие'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "видов јас",
+      "rationale": "אבין е 'разбирам\/расудувам', не 'гледам' — фигуративна употреба"
+    },
+    {
+      "kind": "mystery",
+      "subject": "нечувани нешта",
+      "rationale": "נפלאות — работи надмоќни за знаење, свесно задржани вон сфаќање на човекот"
+    },
+    {
+      "kind": "you",
+      "subject": "Јов говори",
+      "rationale": "Јов го цитира претходниот збор на Јахве (38:2) и се обраќа на Него"
+    }
+  ],
+  "translation": "Кој е овој што крие совет без знаење? Затоа зборував, а не видов јас — нешта нечувани за мене, и не ги знаев.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "337925b4f59c9019b8c09265db7d608bfdf6cab2189c43495973388eb421693a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/42\/1-4.1792455379073.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "זה",
+      "gloss": "е овој"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "што крие"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "совет"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знаење"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Затоа"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "зборував"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "видов јас"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "нечувани нешта"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "за мене"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ги знаев"
+    }
+  ],
+  "timestamp": "2026-10-20T00:16:19.074229962Z",
+  "model": "glm-5.3"
+}

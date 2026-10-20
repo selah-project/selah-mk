@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 10:12",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חזק \/ נתחזק",
+      "rationale": "корен חזק се повторува во императив и хитпаел — 'биди силен, нека се укрепиме'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Биди силен",
+      "rationale": "императив — повик за храброст упатен на Авшај пред бојот"
+    },
+    {
+      "kind": "you",
+      "subject": "Авшај",
+      "rationale": "продолжение на директниот говор на Јоав кон братот свој"
+    }
+  ],
+  "translation": "Биди силен и нека се укрепиме за нашиот народ и за градовите на нашиот Елохим; а Јахве нека го стори она што е добро во Неговите очи.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "8eebf12e4a91924ac82a487f94f9b05d103bfadeba2d6d16feef6b9b48e03179",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/10\/9-12.1792448149556.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Биди силен"
+    },
+    {
+      "surface": "ונתחזק",
+      "gloss": "и нека се укрепиме"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "за"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "нашиот народ"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "и за"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "градовите"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "на нашиот Елохим"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "а Јахве"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "нека го стори"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "она што е добро"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "во Неговите очи"
+    }
+  ],
+  "timestamp": "2026-10-19T22:15:49.559196527Z",
+  "model": "glm-5.3"
+}

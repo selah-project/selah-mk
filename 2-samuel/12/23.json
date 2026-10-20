@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 12:23",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to David's servants \/ to the reader",
+      "rationale": "David's answer is direct speech addressing those who asked why he fasted."
+    },
+    {
+      "kind": "crux",
+      "subject": "odam kaј nego",
+      "rationale": "'I shall go to him' — death, to the child in sheol; some read it as merely 'I will die too', others as hope of reunion."
+    },
+    {
+      "kind": "substitution",
+      "subject": "da go vratam ⟨se⟩",
+      "rationale": "Hebrew להשיבו already contains the object pronoun 'him'; Macedonian needs the reflexive 'се' supplied and bracketed."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלך אליו \/ ישוב אלי",
+      "rationale": "Mirror symmetry of 'go to him \/ return to me' with שׁוּב and אל — chiastic reversal preserved in word order."
+    }
+  ],
+  "translation": "А сега, кога умре, зошто ова — јас да постам? Можам ли уште да го вратам ⟨се⟩? Јас одам кај него, а тој нема да се врати кај мене.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a212d9c830b7f4adefb98bc7bcc186079920a030bf072426303788ee9df9adde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/12\/23-24.1792458003315.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "מת",
+      "gloss": "умре"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "צם",
+      "gloss": "да постам"
+    },
+    {
+      "surface": "האוכל",
+      "gloss": "можам ли"
+    },
+    {
+      "surface": "להשיבו",
+      "gloss": "да го вратам"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уште"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "одам"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "кај него"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а тој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "да се врати"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "кај мене"
+    }
+  ],
+  "timestamp": "2026-10-20T01:00:03.316162153Z",
+  "model": "glm-5.3"
+}

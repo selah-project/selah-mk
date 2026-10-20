@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 24:18",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨го⟩",
+      "rationale": "македонскиот бара клитички предметен заменски честичен建筑业 заменски показувач, хебрејскиот го има само את"
+    }
+  ],
+  "translation": "И ќе помниш дека роб беше во Мицраим, и Јахве, Елохим твој, те откупи од таму; затоа јас ти заповедам да го направиш ⟨את⟩ оваа работа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bf7550ec3d9d7d2643d842a2957a31b160847f4ad80d018da281b51015fea908",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/24\/18-19.1792457979624.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "и ќе помниш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "роб"
+    },
+    {
+      "surface": "היית",
+      "gloss": "беше"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "во Мицраим"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "и те откупи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "משם",
+      "gloss": "од таму"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ти заповедам"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да направиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оваа работа"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "работата"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "оваа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:59:39.624922081Z",
+  "model": "glm-5.3"
+}

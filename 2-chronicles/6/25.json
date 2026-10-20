@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 6:25",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Соломон се обраќа на Јахве",
+      "rationale": "директна молитва до Јахве за прошка и враќање на народот"
+    },
+    {
+      "kind": "elision",
+      "subject": "נתתה להם",
+      "rationale": "македонскиот бара_EN_jа_енклитика за род на „земјата“, што хебрејскиот нема"
+    }
+  ],
+  "translation": "И Ти ќе слушнеш од небото и ќе го простиш гревот на народот Твој Јисраел, и ќе ги вратиш на земјата што си им ја дал на нив и на татковците нивни.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dfc594869e71615352deace28ee55fdf2274f9ae66d1a50e3f3226fd7839046b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/6\/25-28.1792457476834.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "И Ти"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ќе слушнеш"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небото"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "и ќе простиш"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "гревот"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "на народот Твој"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "והשיבותם",
+      "gloss": "и ќе ги вратиш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "си дал"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ним"
+    },
+    {
+      "surface": "ולאבתיהם",
+      "gloss": "и на татковците нивни"
+    }
+  ],
+  "timestamp": "2026-10-20T00:51:16.835218636Z",
+  "model": "glm-5.3"
+}

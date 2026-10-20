@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 5:13",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот го нема глаголот „да се” — списка е без предикат"
+    }
+  ],
+  "translation": "И нивните браќа според домовите на нивните татковци: Микаел, и Мешулам, и Шева, и Јорај, и Јакан, и Зија, и Ever, — седум.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "16fe03070639c582b7d892302ee40228c035395d14a5136b9b37d9b3a6ac7a3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/5\/13-16.1792456863402.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "И нивните браќа"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "според домовите"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "на нивните татковци"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Микаел"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "и Мешулам"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и Шева"
+    },
+    {
+      "surface": "ויורי",
+      "gloss": "и Јорај"
+    },
+    {
+      "surface": "ויעכן",
+      "gloss": "и Јакан"
+    },
+    {
+      "surface": "וזיע",
+      "gloss": "и Зија"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "и Eber,"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седум"
+    }
+  ],
+  "timestamp": "2026-10-20T00:41:03.402490502Z",
+  "model": "glm-5.3"
+}

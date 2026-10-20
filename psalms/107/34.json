@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למלחה",
+      "rationale": "букв. 'посолена (земја)': 'солена пустош' (JPS) наспроти 'неплодност' (KJV)"
+    }
+  ],
+  "translation": "Плодородна земја ⟨во⟩ солена пустош, заради злобата на оние што живеат во неа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d0c73c4f1f9925a3e7cca95fcea039311e58fb63474b7041fe49065e361f4a26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/107\/33-36.1792453866148.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "плодородна"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "во солена пустош"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "заради злобата"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "на оние што живеат"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во неа"
+    }
+  ],
+  "timestamp": "2026-10-19T23:51:06.149438119Z",
+  "model": "glm-5.3"
+}

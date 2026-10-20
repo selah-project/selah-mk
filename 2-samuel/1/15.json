@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פגע בו",
+      "rationale": "буквално 'удри\/налетaj врз него' — извршничка заповед, не случаен судир"
+    }
+  ],
+  "translation": "И повика Давид еден од младичите и рече: Пријди, удари го! И тој го удри, и умре.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b7b729e46a591d540646099deee06688839aefa1921c663221c56e711027b9ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/1\/13-16.1792448020043.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И повика"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "од младичите"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "גש",
+      "gloss": "Пријди"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "удари"
+    },
+    {
+      "surface": "בו",
+      "gloss": "го"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "го удри"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    }
+  ],
+  "timestamp": "2026-10-19T22:13:40.044720812Z",
+  "model": "glm-5.3"
+}

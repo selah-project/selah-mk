@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 8:9",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צבׇם",
+      "rationale": "хебрејскиот вели „кон убавината\/сјајот“ — без именка; се додава „земјата“ од контекстот"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צבא\/צבי",
+      "rationale": "игра меѓу војската (צבא) и убавината (צבי) низ поглавјето"
+    }
+  ],
+  "translation": "И од една од нив излезе еден рог, мал уште, и се заозна многу ⟨п повеќе⟩ кон југот и кон истокот и кон земјата на убавината.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "376d211f1867062096337b7cbfcea7e76fc90344c2da29136bc265ad31e1cd16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/8\/9-12.1792456141847.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "едната"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "од нив"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излезе"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "рог"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "еден"
+    },
+    {
+      "surface": "מצעירה",
+      "gloss": "мал уште"
+    },
+    {
+      "surface": "ותגדל",
+      "gloss": "и се заозна"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "многу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "југот"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и кон"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "истокот"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и кон"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "земјата на убавината"
+    }
+  ],
+  "timestamp": "2026-10-20T00:29:01.848204693Z",
+  "model": "glm-5.3"
+}

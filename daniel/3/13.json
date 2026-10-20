@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 3:13",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беа доведени",
+      "rationale": "Арамејскиот пасив хafел היתיו бара македонски глаголски облик со помошен глагол"
+    },
+    {
+      "kind": "elision",
+      "subject": "אלך",
+      "rationale": "демонстративот 'овие' веќе е во 'тие мажи', глосата останува празна"
+    }
+  ],
+  "translation": "Тогаш Невухаднецар, во јарост и во гневен бес, заповеда да ги доведат Шадрах, Мејшах и Авед-Него; тогаш тие мажи беа доведени пред царот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "26727df9c02b408a8c562992b9027dc8f78413a7dffad5f46f9e777eaed371df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/3\/13-16.1792455998025.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Тогаш"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Невухаднецар"
+    },
+    {
+      "surface": "ברגז",
+      "gloss": "во јарост"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "и во гневен бес"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "заповеда"
+    },
+    {
+      "surface": "להיתיה",
+      "gloss": "да ги доведат"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Шадрах"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Мејшах"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "и Авед"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Него"
+    },
+    {
+      "surface": "באדין",
+      "gloss": "тогаш"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "тие мажи"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "⟨тие⟩"
+    },
+    {
+      "surface": "היתיו",
+      "gloss": "беа доведени"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "пред"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:26:38.025715048Z",
+  "model": "glm-5.3"
+}

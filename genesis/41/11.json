@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 41:11",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חלם\/חלום",
+      "rationale": "коренот „сон“ се повторува четири пати — ונחלמה חלום…חלמו חלמנו — ритамот се губи во македонскиот"
+    }
+  ],
+  "translation": "И насони сништа во една ноќ — јас и тој; секој според толкувањето на сништото свое насони.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "738e5aebcec41dacc9580b1a423114915c5cabc304ce52d8ee6d42f27f3a33ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/41\/9-12.1792443106503.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונחלמה",
+      "gloss": "и насони"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "сништа"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "во една ноќ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "една"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и тој"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој"
+    },
+    {
+      "surface": "כפתרון",
+      "gloss": "според толкувањето"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "на сништото свое"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "насони"
+    }
+  ],
+  "timestamp": "2026-10-19T20:51:46.507781214Z",
+  "model": "glm-5.3"
+}

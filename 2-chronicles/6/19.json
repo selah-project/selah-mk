@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 6:19",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "мој",
+      "rationale": "אלהי е во конструкција без наставка во хебрејскиот (Елохим мој е применето од обраќањето); македонскиот бараш посесор."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל пред הרנה",
+      "rationale": "Слушање 'кон' повикот — македонскиот го испушта предлогот."
+    },
+    {
+      "kind": "you",
+      "subject": "молитва до Јахве",
+      "rationale": "Директно обраќање: 'Јахве, Елохим мој'."
+    }
+  ],
+  "translation": "Сврти се кон молитвата на слугата Твој и кон молбата негова, Јахве, Елохим мој, за да го слушнеш повикот и молитвата што слугата Твој ја моли пред Тебе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "faf59debe8667017903f21e92674cce58fb365efbd040fd31614e998706307e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/6\/17-20.1792457428323.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופנית",
+      "gloss": "Сврти се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "молитвата"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "на слугата Твој"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и кон"
+    },
+    {
+      "surface": "תחנתו",
+      "gloss": "молбата негова"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "за да слушнеш"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הרנה",
+      "gloss": "повикот"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и"
+    },
+    {
+      "surface": "התפלה",
+      "gloss": "молитвата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слугата Твој"
+    },
+    {
+      "surface": "מתפלל",
+      "gloss": "ја моли"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред Тебе"
+    }
+  ],
+  "timestamp": "2026-10-20T00:50:28.324243131Z",
+  "model": "glm-5.3"
+}

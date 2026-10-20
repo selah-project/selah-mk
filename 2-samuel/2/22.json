@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 2:22",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשא פני",
+      "rationale": "букв. 'да го кренам лицето' — идиом за гледање некој со почит, без срам."
+    },
+    {
+      "kind": "invitation",
+      "subject": "сврти си",
+      "rationale": "повторен повик-императив да се откаже од гонитбата."
+    }
+  ],
+  "translation": "И Авнер додаде уште да рече на Асаел: Сврти си од зад мене; зошто да те удрам на земја? А како ќе го подигнам лицето мое кон Јоав, братот твој?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6c89a07db6279238c712748cd557ac4f3925e8d5739a99cc249f763a8ff0b35a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/2\/21-24.1792448114916.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "додаде"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уште"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнер"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "да рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Асаел"
+    },
+    {
+      "surface": "סור",
+      "gloss": "сврти"
+    },
+    {
+      "surface": "לך",
+      "gloss": "си"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "од зад"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "אככה",
+      "gloss": "да те удрам"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "на земја"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "а како"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ќе подигнам"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "братот твој"
+    }
+  ],
+  "timestamp": "2026-10-19T22:15:14.918213335Z",
+  "model": "glm-5.3"
+}

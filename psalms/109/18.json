@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמדו",
+      "rationale": "מד е облека\/мерка; традицијата „како неговата облека” наспроти „како со околку” — избирам облека"
+    }
+  ],
+  "translation": "И се облече со клетва како со облеката своја, та влезе во утробата негова како вода и како масло во коските негови.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/109\/17-20.1792453950400.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "и се облече"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "клетва"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "како облеката своја"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "та влезе"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "како вода"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "во утробата негова"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "и како масло"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "во коските негови"
+    }
+  ],
+  "timestamp": "2026-10-19T23:52:30.401130854Z",
+  "model": "glm-5.3"
+}

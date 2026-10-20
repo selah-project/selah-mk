@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Кружат",
+      "rationale": "חוגו од корен за движење во круг \/ гатување — слика за нестабилност, не за верска поворка"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨човек⟩ · ⟨се⟩",
+      "rationale": "implicit subject 'човек' кај שכור и сврзник 'се' за глаголската конструкција"
+    }
+  ],
+  "translation": "Кружат и се нишаат како пијан ⟨човек⟩, и сета нивна мудрост ⟨се⟩ проголтува.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "213f323a1eb252fb03113974b76d84387e4d33d740bcc49748feb77cb332705e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/107\/25-28.1792453872869.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "Кружат"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "и се нишаат"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "како пијан"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сета"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "нивната мудрост"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "се проголтува"
+    }
+  ],
+  "timestamp": "2026-10-19T23:51:12.870721774Z",
+  "model": "glm-5.3"
+}

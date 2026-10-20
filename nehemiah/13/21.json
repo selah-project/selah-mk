@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 13:21",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יד אשלח בכם",
+      "rationale": "Дословно „раца ќе испратам врз вас“ — идиом за сила\/апсење, задржан дословно."
+    },
+    {
+      "kind": "you",
+      "subject": "трговците",
+      "rationale": "Немија им се обраќа директно на трговците надвор од Ерусалим."
+    }
+  ],
+  "translation": "И посведочив против нив и им реков: Зошто ноќевате спроти ѕидот? Ако ⟨го⟩ повторите ⟨тоа⟩, раца ќе испратам врз вас. Од тоа време тие не дојдоа на шабат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cd18fcc176b4eeeb5e4ab34152ffb3c20abc02e6e0a01008732d9b6abd9587db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/13\/21-24.1792456758246.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "И посведочив"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "против нив"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "и реков"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ним"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Зошто"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "לנים",
+      "gloss": "ноќевате"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ѕидот"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "תשנו",
+      "gloss": "повторите"
+    },
+    {
+      "surface": "יד",
+      "gloss": "раца"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ќе испратам"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "врз вас"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Од"
+    },
+    {
+      "surface": "העת",
+      "gloss": "времето"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "она"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дојдоа"
+    },
+    {
+      "surface": "בשבת",
+      "gloss": "на шабат"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:18.247499782Z",
+  "model": "glm-5.3"
+}

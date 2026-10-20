@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 17:19",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אבל",
+      "rationale": "„напротив\/но навистина“ — поправка на имплицитната желба на Аврахам за Јишмаел (17:18)"
+    },
+    {
+      "kind": "addition",
+      "subject": "Јас",
+      "rationale": "хебрејскиот нема заменка при свршен глагол 1 л. мн. за иднина"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצחק",
+      "rationale": "името „тој ќе се смее“ одговара на смеењето на Аврахам во 17:17"
+    }
+  ],
+  "translation": "И рече Елохим: Напротив, Сара, жената твоја, ќе ти роди син, и ќе го наречеш ⟨את⟩ името негово Јицхак; и Јас воспоставам ⟨את⟩ заветот Мој ⟨את⟩ со него како вечен завет за семето негово по него.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "907c11973fa36ec13ff694e8cb8c1ca450aa415eda6c5190ff526fa5c9df098d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/17\/18-20.1792447649525.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Напротив"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "жената твоја"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "ќе роди"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "и ќе го наречеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "името негово"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името негово"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Јицхак"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "и Јас воспоставам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "заветот Мој"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "заветот Мој"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ со него"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "како завет"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечен"
+    },
+    {
+      "surface": "לזרעו",
+      "gloss": "за семето негово"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "по него"
+    }
+  ],
+  "timestamp": "2026-10-19T22:07:29.529954575Z",
+  "model": "glm-5.3"
+}

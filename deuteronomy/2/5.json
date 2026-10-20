@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד מדרך כף רגל",
+      "rationale": "буквално 'дури до газење на дланта на ногата' — идиом за ни најмалку дел од земја"
+    },
+    {
+      "kind": "crux",
+      "subject": "תתגרו",
+      "rationale": "глагол גרה значи 'дразни\/провоцирај' или 'војувај'; излегува 'не се борете со нив'"
+    }
+  ],
+  "translation": "Не се судрувајте со нив, зашто нема да ви дадам од нивната земја ни да стапне стапалото на ногата, зашто како наследство на Есав ја дадов ⟨את⟩ планината Сеир.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5dc1972f40ea857d7469fe562033be4c4cdf44cc71ef397159c659e566bc8f9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/2\/5-8.1792445310948.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "се судрувајте"
+    },
+    {
+      "surface": "בם",
+      "gloss": "со нив"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "да ви дадам"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨ви⟩"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "од нивната земја"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ни"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "да стапне"
+    },
+    {
+      "surface": "כף",
+      "gloss": "стапалото"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "на ногата"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "како наследство"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "на Есав"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ја дадов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "планината Сеир"
+    },
+    {
+      "surface": "הר",
+      "gloss": "планината"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    }
+  ],
+  "timestamp": "2026-10-19T21:28:30.949638229Z",
+  "model": "glm-5.3"
+}

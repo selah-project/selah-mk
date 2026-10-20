@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "тука",
+      "rationale": "вајију — „беа (оставени)“; македонскиот бара место или состојба"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ביד משה",
+      "rationale": "„пеку раката на“ — хебрејски начин за „пеку\/со помош на“"
+    }
+  ],
+  "translation": "И тие беа ⟨тука⟩ за да ги искуша со нив ⟨את⟩ Јисраел, за да знае дали ќе ги послушаат ⟨את⟩ заповедите на Јахве, што им ги заповеда на ⟨את⟩ татковците им преку раката на Моше.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "703fa72d56fced0a7e5894b48d12a10ccefe886f7463c06f819020dd38594353",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/3\/1-4.1792446303724.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И беа"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "да искуша"
+    },
+    {
+      "surface": "בם",
+      "gloss": "со нив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јисраел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "да знае"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "дали ќе послушаат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "заповедите"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "заповедите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеда"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "татковците им"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "на татковците им"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "пеку раката"
+    },
+    {
+      "surface": "משה",
+      "gloss": "на Моше"
+    }
+  ],
+  "timestamp": "2026-10-19T21:45:03.725403718Z",
+  "model": "glm-5.3"
+}

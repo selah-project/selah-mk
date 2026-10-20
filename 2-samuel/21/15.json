@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "Овде את е предлог (H854 'со\/кај'), не показателот на предмет — затоа без ⟨את⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויעף",
+      "rationale": "Коренот значи и 'летати' и 'да потсклиснува од темнина\/измор' — сликата на замаглување се губи."
+    }
+  ],
+  "translation": "И беше уште еднаш војна на Плиштимците со Јисраел; и слезе Давид и слугите негови со него, и војуваа ⟨את⟩ против Плиштимците; а Давид изнемоште.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "aab3924c7b965dca57193e03caceac34ebf2949af9c938c5a67ff357e836da6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/21\/13-16.1792448437840.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уште еднаш"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "војна"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "на Плиштимците"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ со"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "и слезе"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "и слугите негови"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "со него"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "и војуваа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ против"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштимците"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "а изнемоште"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-19T22:20:37.854968304Z",
+  "model": "glm-5.3"
+}

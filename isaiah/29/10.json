@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "רוח е 'дух\/ветер\/здив' — останува како руах, еден збор за три нешта."
+    },
+    {
+      "kind": "secret",
+      "subject": "длабок сон",
+      "rationale": "תרדמה — премрежење што Јахве го излеа: видението е одземено, знаењето запечатано."
+    },
+    {
+      "kind": "you",
+      "subject": "вас \/ вашите",
+      "rationale": "Директен обрати кон Ерусалим\/народот — 'очите ваши', 'главите ваши'."
+    }
+  ],
+  "translation": "Зашто Јахве излеа врз вас руах на длабок сон, и ги затвори ⟨את⟩ очите ваши — ⟨את⟩ пророците, и ⟨את⟩ главите ваши — гледачите покри.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "9f3df25ced4b0a7661a2a6c3b5c98c5d6c978b2f260be0bf67359862705baa9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/29\/9-12.1792449902441.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "излеа"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "врз вас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "на длабок сон"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "и ги затвори"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "очите ваши"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "очите ваши"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пороците"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "пороците"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "главите ваши"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "главите ваши"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "гледачите"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "покри"
+    }
+  ],
+  "timestamp": "2026-10-19T22:45:02.444228889Z",
+  "model": "glm-5.3"
+}

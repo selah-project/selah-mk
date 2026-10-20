@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата моја",
+      "rationale": "нефеш е здив, животна сила — не само 'душа'."
+    },
+    {
+      "kind": "crux",
+      "subject": "хасид",
+      "rationale": "חסיד: 'богобојазлив\/предан' (KJF 'holy') против скромно 'кинески' — избор е да се чува зборот хасид од коренот хесед."
+    },
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "директен обраќа до Елохим како на слуга до господар."
+    }
+  ],
+  "translation": "Чувај ја душата моја, зашто хасид сум јас; спаси го слугата свој — ти си Елохим мој — ⟨оној⟩ што се надева на тебе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9bf46ba0d669e77375ecc6311d1ed76a626361b83e9a0d9085bd67760988709b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/86\/1-4.1792453675018.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Чувај ја"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата моја"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "хасид"
+    },
+    {
+      "surface": "אני",
+      "gloss": "сум јас"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "спаси"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слугата свој"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти си"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мој"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "⟨оној⟩ што се надева"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "на тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:55.019327861Z",
+  "model": "glm-5.3"
+}

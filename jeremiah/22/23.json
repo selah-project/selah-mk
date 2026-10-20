@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 22:23",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נחנת",
+      "rationale": "Од חנן (милувам\/помилувам): KJV „how gracious“ наспроти читањето со נוח (одмориш\/се потпреш) или иронично „колку ќе ти е помогнато“."
+    },
+    {
+      "kind": "idiom",
+      "subject": "חבלים חיל כילדה",
+      "rationale": "Сликата на породилни маки како метафора за судбината на градот."
+    }
+  ],
+  "translation": "Што седиш во Ливан, што се гнездиш во кедрите — како ќе зајакнеш кога ќе ти дојдат маки, болка како жена што раѓа!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f30bdfacf814a6fb61166f402ed87f0688a5868da1959a1890c7653e347e5b16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/22\/21-24.1792450688135.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישבתי",
+      "gloss": "Што седиш"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "во Ливан"
+    },
+    {
+      "surface": "מקננתי",
+      "gloss": "што се гнездиш"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "во кедрите"
+    },
+    {
+      "surface": "מה",
+      "gloss": "како"
+    },
+    {
+      "surface": "נחנת",
+      "gloss": "ќе зајакнеш"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "кога ќе дојдат"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "маки"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "болка"
+    },
+    {
+      "surface": "כילדה",
+      "gloss": "како жена што раѓа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:58:08.136608733Z",
+  "model": "glm-5.3"
+}

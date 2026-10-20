@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 44:5",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨сум⟩",
+      "rationale": "хебрејскиот нема копула во „На Јахве јас“"
+    },
+    {
+      "kind": "crux",
+      "subject": "יכתב ידו",
+      "rationale": "„ќе ја запише раката своја“ — буквално: пишува на\/со раката своја (тетоваж или потпис); KJV „subscribe with his hand“, BSB „write on his hand“"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יכנה",
+      "rationale": "第二次 читане: „ќе добие прекар“ — кנה значи да се даде додатно име"
+    }
+  ],
+  "translation": "Овој ќе рече: На Јахве ⟨сум⟩ јас, и овој ќе повика во името Јааков, и овој ќе ја запише раката своја ⟨за⟩ Јахве, и со името Јисраел ќе се наречи.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "3bf59ca5bf086dee7b94323cac2f2c1b0f193fae9112a49c689d8c3dc528bee3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/44\/5-8.1792450111131.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ќе рече"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "и овој"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ќе повика"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "во името"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "и овој"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "ќе запише"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "раката своја"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨за⟩ Јахве"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "и со името"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "יכנה",
+      "gloss": "ќе се наречи"
+    }
+  ],
+  "timestamp": "2026-10-19T22:48:31.132642998Z",
+  "model": "glm-5.3"
+}

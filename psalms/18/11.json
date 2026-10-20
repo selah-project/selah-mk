@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "руахот",
+      "rationale": "רוח е еден збор за ветер\/дух\/здив — се чува како 'руах', не се преведува само 'ветер'"
+    },
+    {
+      "kind": "crux",
+      "subject": "וידא",
+      "rationale": "KJV 'да лета (повторно)' vs JPS 'се фрли наназад' — букв. 'да стрелка, да лета брзо'"
+    }
+  ],
+  "translation": "И јаваше на херувим и леташе, и се понесе на крилјата на руахот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9cf51954dd183cfb042f9c423f4bdb6e91bd98f8166bde785bb175b0addbb432",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/18\/9-12.1792453018678.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "И јаваше"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "херувим"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "и леташе"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "и се понесе"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "крилјата"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руахот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:36:58.679113840Z",
+  "model": "glm-5.3"
+}

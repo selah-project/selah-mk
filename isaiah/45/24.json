@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 45:24",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לי אמר",
+      "rationale": "„мене ми се вели“ (Јахве зборува за себе) наспроти „некој ќе рече“ — подметот на глаголот е оспоруван кај преведувачите"
+    },
+    {
+      "kind": "substitution",
+      "subject": "горат",
+      "rationale": "חרה буквално е „да горат (од гнев)“ — следено со ב, гневот е „против“ него"
+    }
+  ],
+  "translation": "Само во Јахве — мене ми се вели — има праведности и сила; кај него ќе дојдат и ќе се засрамат сите што горат против него.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "d8abf4e963898c70c2c03225f104d787dae45d16d992388ac19f7f3aefe7fc9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/45\/21-24.1792450141972.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Само"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "во Јахве"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене ми"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "се вели"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "праведности"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "и сила"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "кај него"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ќе дојдат"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "и ќе се засрамат"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הנחרים",
+      "gloss": "што горат"
+    },
+    {
+      "surface": "בו",
+      "gloss": "против него"
+    }
+  ],
+  "timestamp": "2026-10-19T22:49:01.973574385Z",
+  "model": "glm-5.3"
+}

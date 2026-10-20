@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 8:27",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "зет",
+      "rationale": "חתן е сродник по брак — зет\/девер; тука: поврзан со домот на Ахав преку брак"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בית אחאב ×3",
+      "rationale": "трикратно повторување на „домот на Ахав“ во еден стих — ритам на обвинението"
+    }
+  ],
+  "translation": "И одеше по патот на домот на Ахав, и правеше злото пред очите на Јахве, како домот на Ахав, зашто беше зет на домот на Ахав.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "4a1b0acfc57e7eb19ee695e459ef2abb98518bbae58973c573515848da0cab8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/8\/25-28.1792449181247.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И одеше"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "по патот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахав"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и правеше"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "злото"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "пред очите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "како домот"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "зет"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахав"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    }
+  ],
+  "timestamp": "2026-10-19T22:33:01.249471036Z",
+  "model": "glm-5.3"
+}

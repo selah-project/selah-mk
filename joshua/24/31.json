@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 24:31",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "האריכו ימים",
+      "rationale": "Буквално „ги издолжија дните“ — идиом за „поживеаа долго“."
+    },
+    {
+      "kind": "addition",
+      "subject": "Му \/ ги",
+      "rationale": "Македонските кратки заменски форми се додадени за глаголите да имаат предмет, хебрејскиот ги нема."
+    }
+  ],
+  "translation": "И Јисраел Му служеше на Јахве ⟨את⟩ сите дни на Јехошуа, и сите дни на старешините што поживеаа по Јехошуа, и што ги знаеја ⟨את⟩ сите дела на Јахве, што ги направи за Јисраел.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "650da16a52120dcaeb57aae3d07a8a38fecb1a7b4cc5162b697474b45a27c6ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/24\/29-32.1792446263695.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "И служеше"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "на Јехошуа"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сите"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "на старешините"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "поживеаа"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "долго"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и што"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ги знаеја"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите дела"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дела"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "за Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T21:44:23.696611884Z",
+  "model": "glm-5.3"
+}

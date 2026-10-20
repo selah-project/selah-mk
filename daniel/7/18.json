@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "daniel 7:18",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "толкување",
+      "rationale": "Ангелот ја открива скриената смисла на соништата — одговор на прашањето од 7:16"
+    }
+  ],
+  "translation": "И ќе го примат царството светите на Елјонин, и ќе го држат царството до векот и до векот на вековите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "57f7ba244d0a93aba922325ef013d1568b5b79c9f932a01d7edd7c85c9cbed38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/7\/17-20.1792456216824.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבלון",
+      "gloss": "И ќе го примат"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "царството"
+    },
+    {
+      "surface": "קדישי",
+      "gloss": "светите"
+    },
+    {
+      "surface": "עליונין",
+      "gloss": "на Елјонин"
+    },
+    {
+      "surface": "ויחסנון",
+      "gloss": "и ќе го држат"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "царството"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "векот"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "עלם",
+      "gloss": "векот"
+    },
+    {
+      "surface": "עלמיא",
+      "gloss": "на вековите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:30:16.825005061Z",
+  "model": "glm-5.3"
+}

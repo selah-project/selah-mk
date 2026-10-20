@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 11:9",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Хебрејскиот нема копула; двата предикативни израза ја бараат"
+    },
+    {
+      "kind": "crux",
+      "subject": "משנה",
+      "rationale": "'втор (по ранг)' наспроти 'вториот дел на градот' (BSB); буквално 'двојник\/повторување'"
+    }
+  ],
+  "translation": "И Јоел, син на Зикри, ⟨е⟩ надгледник над нив, а Јехуда, син на Снуах, ⟨е⟩ втор над градот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0845c5f49066b03950ca32a3305bff4b54265a695f946c883a343d31e877e13e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/11\/9-12.1792456712125.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "И Јоел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "на Зикри"
+    },
+    {
+      "surface": "פקיד",
+      "gloss": "надгледник"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над нив"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "а Јехуда"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "הסנואה",
+      "gloss": "на Снуах"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "втор"
+    }
+  ],
+  "timestamp": "2026-10-20T00:38:32.126475757Z",
+  "model": "glm-5.3"
+}

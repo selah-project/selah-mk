@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "се засити со денови",
+      "rationale": "השבע ימים — буквално 'заситен со денови', идиом за доживеан длабок старост."
+    },
+    {
+      "kind": "addition",
+      "subject": "за цар",
+      "rationale": "Причинската на וימלך бара македонски израз 'го постави за цар'."
+    }
+  ],
+  "translation": "И Давид остари и се засити со денови, и го постави за цар ⟨את⟩ Шломо, синот свој, над Јисраел.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1d016336ea05e3701619ffcde0a8fd28e75b6d7f40cc20795aeab6bef2a9f4a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/23\/1-4.1792457127408.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "И Давид"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "остари"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "се засити"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "со денови"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "го постави за цар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шломо"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот свој"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-20T00:45:27.409583582Z",
+  "model": "glm-5.3"
+}

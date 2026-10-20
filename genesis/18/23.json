@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "избришеш",
+      "rationale": "ספה буквално 'да стриже\/изгребе' — да однесе сосема"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "Аврахам директно му се обраќа на Јахве"
+    }
+  ],
+  "translation": "И Аврахам се приближи и рече: Зар навистина ќе ги избришеш праведните заедно со безбожните?",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "eb73bb0d36b618d9c15e5b8723eed2a25c50403e6caeb346f96fad68a5f14646",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/18\/21-24.1792442573849.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "И се приближи"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "האף",
+      "gloss": "Зар навистина"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "ќе ги избришеш"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведниот"
+    },
+    {
+      "surface": "עם",
+      "gloss": "заедно со"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "безбожниот"
+    }
+  ],
+  "timestamp": "2026-10-19T20:42:53.862196018Z",
+  "model": "glm-5.3"
+}

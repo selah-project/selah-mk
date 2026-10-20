@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула во првата реченица"
+    },
+    {
+      "kind": "idiom",
+      "subject": "фрлање обувал",
+      "rationale": "фрлање сандала врз земја е чин на преземање посед; буквата би збунела"
+    },
+    {
+      "kind": "crux",
+      "subject": "סיר",
+      "gloss_note": null,
+      "rationale": "сад\/лонец — KJV „washpot“; буквално „Моав ми е лонец за миење“"
+    }
+  ],
+  "translation": "Моав е лонец за миење мој; врз Едом ќе го фрлам обувалот мој; врз Фелишта ќе извикам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e69b23b51c4bea361ba24c724e93c2f89bf0e653cd67a10f2afcb61cd32469ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/108\/9-12.1792453863615.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "лонец"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "за миење мој"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ќе го фрлам"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "обувалот мој"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "врз"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Фелишта"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "ќе извикам"
+    }
+  ],
+  "timestamp": "2026-10-19T23:51:03.616460670Z",
+  "model": "glm-5.3"
+}

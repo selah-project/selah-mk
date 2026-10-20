@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 13:53",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ударот",
+      "rationale": "нега е „удар\/рана“, не „проказа“ — македонскиот збор пренесува болест, а хебрејскиот збор е обичен „удар“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "основа \/ претка",
+      "rationale": "шети = надолжната нишка (основа), ерев — напречната (претка)"
+    }
+  ],
+  "translation": "И ако свештеникот погледне, и ете, ударот не се проширил на облеката, или на основата, или на претката, или на било кој предмет од кожа —",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "883507b5a91641848ebc7269dd3e8779f2a02f9c557d936a871d3211b19cd6e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/13\/53-56.1792444296578.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "погледне"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ете"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "се проширил"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ударот"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "на облеката"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "на основата"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "на претката"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "на било кој"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "предмет"
+    },
+    {
+      "surface": "עור",
+      "gloss": "од кожа"
+    }
+  ],
+  "timestamp": "2026-10-19T21:11:36.579658911Z",
+  "model": "glm-5.3"
+}

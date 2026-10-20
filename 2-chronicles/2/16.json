@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 2:16",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "попис",
+      "rationale": "Цензузен попис на дошленците: сто и педесет илјади и три илјади и шестотини души."
+    },
+    {
+      "kind": "substitution",
+      "subject": "дошленци",
+      "rationale": "הגרים буквално 'гости\/странци', луѓе што живеат во земја што не е нивна; не секој 'туѓинец' е во прашање туку жител без наследство."
+    }
+  ],
+  "translation": "И Шеломо ги изброи сите луѓе дошленци што беа во земјата Јисраел, според пописот со кој ги изброи Давид, татко му; и се најдоа сто и педесет илјади и три илјади и шестотини.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c615cececd65840b6b0f8fbc10b4a1391ac4ce9129bc351f66d35e2abb28dc93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/2\/13-16.1792457363452.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "и ги изброи"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "луѓе"
+    },
+    {
+      "surface": "הגירים",
+      "gloss": "дошленци"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "според"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "пописот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "со кој"
+    },
+    {
+      "surface": "ספרם",
+      "gloss": "ги изброи"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "татко му"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "и се најдоа"
+    },
+    {
+      "surface": "мאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "и педесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "и три"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "и шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотини"
+    }
+  ],
+  "timestamp": "2026-10-20T00:49:23.454345437Z",
+  "model": "glm-5.3"
+}

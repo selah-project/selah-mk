@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "родословие",
+      "rationale": "Продолжува свештеничката лоза на поколенија."
+    }
+  ],
+  "translation": "И Ахитув роди ⟨את⟩ Цадок, и Цадок роди ⟨את⟩ Ахимаац.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "083f995fbbc7b12711d5eb7ae2c95b94558673227081b23891f30fabcb938d60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/5\/33-36.1792456857264.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "и Ахитув"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цадок"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "и Цадок"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахимаац"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ахимаац"
+    }
+  ],
+  "timestamp": "2026-10-20T00:40:57.265083132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 17:11",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשגשגי",
+      "rationale": "корен שוג\/שגה: „оградуваш“ (ASV) или „правиш да расте\/напредува“ (KJV, YLT)."
+    },
+    {
+      "kind": "crux",
+      "subject": "נד",
+      "rationale": "„куп\/бран“ — „жетвата ќе биде куп (ништо останато)“ или „жетвата бега како бран“; „נחלה“ или „наследување“ или од חלה „болест“."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨да растат⟩",
+      "rationale": "глаголот תשגשגי бара објект по смисла; македонскиот го надополнува."
+    }
+  ],
+  "translation": "Во денот на садењето твое ќе правиш ⟨да растат⟩, и наутро семето твое ќе процвета — куп жетва во ден на немош и болка неизлечива.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "53bd39ee18239dcbb230b601ed0b7c7b6f74d41f8ade89c8b49155072f1d59bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/17\/9-12.1792449800783.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Во денот"
+    },
+    {
+      "surface": "נטעך",
+      "gloss": "на садењето твое"
+    },
+    {
+      "surface": "תשגשגי",
+      "gloss": "ќе напредуваш"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "и наутро"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "семето твое"
+    },
+    {
+      "surface": "תפריחי",
+      "gloss": "ќе процвета"
+    },
+    {
+      "surface": "נד",
+      "gloss": "куп"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "жетва"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во ден"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "на немош"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "и болка"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "неизлечива"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:20.787459272Z",
+  "model": "glm-5.3"
+}

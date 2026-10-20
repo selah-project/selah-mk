@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "објавува крајот од почетокот",
+      "rationale": "Предзнаење на иднината како доказ за единственоста на Елохим"
+    },
+    {
+      "kind": "substitution",
+      "subject": "план",
+      "rationale": "עצה е совет\/намера; „план“ ја задржува смислат"
+    }
+  ],
+  "translation": "Онај што објавува ⟨את⟩ крајот од почетокот, и од старо време она што уште не е направено — кој вели: мојот план ќе устои, и сè што сакам ќе го направам.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "8555de819c89b8125b99c8ab018794a5c6154e0a44f7933e68869a4a3433192a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/46\/9-12.1792450139298.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Онај што објавува"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "од почетокот"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "крајот"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "и од старо време"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "е направено"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "мојот план"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ќе устои"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сè"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "што сакам"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ќе направам"
+    }
+  ],
+  "timestamp": "2026-10-19T22:48:59.299069513Z",
+  "model": "glm-5.3"
+}

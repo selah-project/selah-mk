@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 5:19",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נתן אתן",
+      "rationale": "инфинитив апсолутен — ќе предадам, навистина ќе предадам; македонскиот го губи удвојувањето"
+    },
+    {
+      "kind": "you",
+      "subject": "до Давид",
+      "rationale": "Јахве директно му одговара на Давид"
+    }
+  ],
+  "translation": "И праша Давид во Јахве, велејќи: Да ли качам кај Плиштим — ќе ги предадеш ли во раката моја? И рече Јахве на Давид: Качи се, зашто ќе предадам, ќе ги предадам ⟨את⟩ Плиштим во раката твоја.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a35aa081a31f9e0319d45ea4e41df206e87ab56b21b6e1abcb027338d4bd30fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/5\/17-20.1792448087976.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "И праша"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "во Јахве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "האעלה",
+      "gloss": "Да ли качам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштим"
+    },
+    {
+      "surface": "התתנם",
+      "gloss": "ќе ги предадеш ли"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "во раката моја"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Качи се"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "предавање"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ќе предадам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Плиштим"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Плиштим"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "во раката твоја"
+    }
+  ],
+  "timestamp": "2026-10-19T22:14:47.978451109Z",
+  "model": "glm-5.3"
+}

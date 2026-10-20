@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ישא",
+      "rationale": "глаголот нема именски објект во хебрејскиот; 'глас' е додавка од следната клауза"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨глас⟩ · ⟨се⟩",
+      "rationale": "македонскиот барa објект и рефлексивна честичка што хебрејскиот не ги има"
+    }
+  ],
+  "translation": "Нема да извика и нема да крене ⟨глас⟩, нека ⟨се⟩ чуе надвор гласот негов.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/42\/1-4.1792450118482.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Нема"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "да извика"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "да крене"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ниту"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "да се чуе"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "надвор"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "гласот негов"
+    }
+  ],
+  "timestamp": "2026-10-19T22:48:38.484283438Z",
+  "model": "glm-5.3"
+}

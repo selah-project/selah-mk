@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула во првата половина."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גאל",
+      "rationale": "коренот „откупувам\/калам“ поврзан со אגאלתי во v.3 — одмаздата и откупот од ист корен."
+    }
+  ],
+  "translation": "Зашто ден на одмазда е во срцето мое, и годината на откупените мои дојде.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cd7ba23a782916557019d3f111fca9cbf73f8a4c5f175cd79b732f3da29654ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/63\/1-4.1792450333539.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "на одмазда"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "во срцето мое"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "и годината"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "на откупените мои"
+    },
+    {
+      "surface": "באה",
+      "gloss": "дојде"
+    }
+  ],
+  "timestamp": "2026-10-19T22:52:13.541949532Z",
+  "model": "glm-5.3"
+}

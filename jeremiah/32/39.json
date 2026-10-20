@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 32:39",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ליראה",
+      "rationale": "יראה е страв-почит, не само страв; македонскиот нема еден збор за двете"
+    }
+  ],
+  "translation": "И ќе им дадам едно срце и еден пат да Me страхуваат сите денови, за добро на нив и на синовите нивни по нив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f142d11fac7caf5530022656cfc0d7024b363a2c207127d1c66bd621d6485916",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/32\/37-40.1792450840411.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "И ќе им дадам"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "едно"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "и пат"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "да страхуваат"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "Мене"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "денови"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "за добро"
+    },
+    {
+      "surface": "להם",
+      "gloss": "на нив"
+    },
+    {
+      "surface": "ולבניהם",
+      "gloss": "и на синовите нивни"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "по нив"
+    }
+  ],
+  "timestamp": "2026-10-19T23:00:40.412544008Z",
+  "model": "glm-5.3"
+}

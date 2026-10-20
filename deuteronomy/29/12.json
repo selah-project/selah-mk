@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Израел во Моав",
+      "rationale": "Второ лице едечина — целиот народ како еденAddressат на заветот."
+    },
+    {
+      "kind": "measurement",
+      "subject": "наведување на татковците",
+      "rationale": "Родовото наведување Аврахам–Јицхак–Јааков ja jaкотира заклетвата."
+    },
+    {
+      "kind": "addition",
+      "subject": "предлог 'за'",
+      "rationale": "Хебрејскиот лamed-конструкција лעам е обновена македонски со 'за народ'."
+    }
+  ],
+  "translation": "за да те востанови ⟨את⟩ тебе денес за Себе за народ, и тој да ти биде Елохим — како што ти зборуваше и како што им се заколна на твоите татковци, на Аврахам, на Јицхак и на Јааков.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "613764cbd906a2d63bb9cfe5d19264aead3614839c7c7a0fe55c8496ca3849b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/29\/9-12.1792445743070.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "востанови"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "тебе"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за Себе"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "за народ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и тој"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "да биде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборуваше"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "и како што"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "се заколна"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "на твоите татковци"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "на Аврахам"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "на Јицхак"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "и на Јааков"
+    }
+  ],
+  "timestamp": "2026-10-19T21:35:43.072924145Z",
+  "model": "glm-5.3"
+}

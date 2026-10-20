@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 9:16",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "селцата",
+      "rationale": "חצרים е дворови\/заградени места — македонскиот бара именска категорија"
+    },
+    {
+      "kind": "measurement",
+      "subject": "родословна листа",
+      "rationale": "именски попис со место на живеење"
+    }
+  ],
+  "translation": "и Овадја син Шемаја, син Галал, син Једутун; и Берехја син Аса, син Елкана — тој што живееше во селцата на нефофатците.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ebf329f20b228849668ac3c29fc6a9ea81d2d91ae15c429b925be85c032e46f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/9\/13-16.1792456957897.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדיה",
+      "gloss": "и Овадја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемаја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "Галал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Једутун"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "и Берехја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Елкана"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "тој што живееше"
+    },
+    {
+      "surface": "בחצרי",
+      "gloss": "во селцата"
+    },
+    {
+      "surface": "נטופתי",
+      "gloss": "на нефофатците"
+    }
+  ],
+  "timestamp": "2026-10-20T00:42:37.898952252Z",
+  "model": "glm-5.3"
+}

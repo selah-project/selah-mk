@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Кој",
+      "rationale": "македонскиот бара подмет; хебрејскиот е причастие משיב — „оној што одговара“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אולת … וכלמה",
+      "rationale": "два кратки искази едно до друго — глупост и срам — како одмерен рамномерен заклучок"
+    }
+  ],
+  "translation": "Кој одговара збор пред да чуе — глупост е тоа ⟨за него⟩ и срам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0caa280d11821f426c443f316129b619762aff88ad1807092ef6444b23708b50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/18\/13-16.1792454567781.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "одговара"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "збор"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "пред да"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "чуе"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "глупост"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨е⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за него"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "и срам"
+    }
+  ],
+  "timestamp": "2026-10-20T00:02:47.781674620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לנער",
+      "rationalе": "",
+      "rationale": "хебрејската форма е машка („за момчето\/девојката“) — буквално „за младинката“; преведувачите ја читаат како за девојката по контекст."
+    },
+    {
+      "kind": "elision",
+      "subject": "כל ימיו",
+      "rationale": "нe — стихот е недовршена реченица што продолжува во стих 21 со казната; цртата го бележи прекинот."
+    }
+  ],
+  "translation": "А ако е вистина оваа работа — не се најдени знаци на девственост кај девојката —",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0b35c2ca1cf594574b21e168d5e357c8aab3c76385631338aeca2915d17316f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/22\/17-20.1792445694043.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А ако"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "вистина"
+    },
+    {
+      "surface": "היה",
+      "gloss": "е"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "работа"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "се најдени"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "знаци на девственост"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "кај девојката"
+    }
+  ],
+  "timestamp": "2026-10-19T21:34:54.044887886Z",
+  "model": "glm-5.3"
+}

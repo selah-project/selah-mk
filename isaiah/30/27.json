@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 30:27",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "rationale": "буквално 'неговите ноздри' — слика на лутина што дише, дадено како 'лутината негова'"
+    },
+    {
+      "kind": "crux",
+      "subject": "וכבד משאה",
+      "rationale": "'тежок е кревот\/столбот на чад' — KJV чита 'товарот негов е тежок', ASV\/JPS 'во густ дим што се крева'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "זעם",
+      "rationale": "букв. 'пена на уста' — фигуративно божествен гнев, дадено како 'гневен жар'"
+    }
+  ],
+  "translation": "Ете, Името на Јахве доаѓа од далеку, лутината негова гори и кревот на чадот е тежок; усните негови се полни со гневен жар, и јазикот негов е како оган што голта.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "78451e2ab64c25000f22c6cc434baf02381c2f9f46d0de650b916e36b52f6623",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/30\/25-28.1792449968914.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ете"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "בא",
+      "gloss": "доаѓа"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "од далеку"
+    },
+    {
+      "surface": "בער",
+      "gloss": "гори"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "лутината негова"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "и тежок"
+    },
+    {
+      "surface": "משאה",
+      "gloss": "кревот на чадот"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "усните негови"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "се полни"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "со гневен жар"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "и јазикот негов"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "како оган"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "што голта"
+    }
+  ],
+  "timestamp": "2026-10-19T22:46:08.918438037Z",
+  "model": "glm-5.3"
+}

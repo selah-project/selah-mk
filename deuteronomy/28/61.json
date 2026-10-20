@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "deuteronomy 28:61",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "болест",
+      "rationale": "חלי носи и тесен слика на слабост\/тревога, не само болест"
+    },
+    {
+      "kind": "you",
+      "subject": "до Израел",
+      "rationale": "Клетвата продолжува во второ лице едечко, директно упатена до слушателот"
+    }
+  ],
+  "translation": "И секоја болест и секој удар што не е запишан во книгата на оваа Тора — нив ќе ги крене Јахве врз тебе, сè додека не бидеш уништен.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3b6a3c0c8e6f9febd94281b67337a6d9381492f9378b183f017a5e0f87144ef4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/28\/61-64.1792445796761.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "И"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секоја"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "болест"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и секој"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "удар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "е запишан"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "во книгата"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "на оваа Тора"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "ќе ги крене"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "врз тебе"
+    },
+    {
+      "surface": "עד",
+      "gloss": "сè додека"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "не бидеш уништен"
+    }
+  ],
+  "timestamp": "2026-10-19T21:36:36.762256202Z",
+  "model": "glm-5.3"
+}

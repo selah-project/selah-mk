@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "очите изнемоштија",
+      "rationale": "עיני כלו — идиом за исцрпено чекање; буквално 'очите ми се потрошија'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדק останува цедек"
+    }
+  ],
+  "translation": "Очите мои изнемоштија за спасението Твоe и за изреката на Твојот цедек.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8ab7dffb29c8572f4537a19b3024d19d043d50f4049b89f95dd83e4d3980aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/121-124.1792454035180.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Очите мои"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "изнемоштија"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "спасението Твоe"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "и за изреката"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "на Твојот цедек"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:55.183176291Z",
+  "model": "glm-5.3"
+}

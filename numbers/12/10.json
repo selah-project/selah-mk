@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 12:10",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מצרעת … מצרעת",
+      "rationale": "двојното повторување на „лепрозна“ — на Мирјам и во очите на Ахарон — ја потцртува ударната глетка"
+    },
+    {
+      "kind": "substitution",
+      "subject": "лепрозна",
+      "rationale": "צרעת не е современа лепра туку ритуално-кожна болест; македонскиот нема посебен збор"
+    }
+  ],
+  "translation": "И облакот се повлече од шаторот, и ете — Мирјам лепрозна како снег; и се сврте Ахарон кон Мирјам, и ете — лепрозна.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "04be339c93e097ae88f92da7d36ebf3c14357cadb92c94044ecf0bc05592beca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/12\/9-12.1792444799913.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והענן",
+      "gloss": "и облакот"
+    },
+    {
+      "surface": "סר",
+      "gloss": "се повлече"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "шаторот"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ете"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Мирјам"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "лепрозна"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "како снег"
+    },
+    {
+      "surface": "ויפן",
+      "gloss": "и се сврте"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Мирјам"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ете"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "лепрозна"
+    }
+  ],
+  "timestamp": "2026-10-19T21:19:59.914684505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 5:12",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "Македонскиот клитички пленитивен го е задолжителен при негација, хебрејскиот нема таков збор"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יביטו\/ראו",
+      "rationale": "Два глагола за гледање во паралелизам — интензивно „зирање“ и „видување“ — го отсликуваат двојното слепило на пировниците"
+    }
+  ],
+  "translation": "И кинор и невел, тапан и свирка, и вино — нивните пирови; а ⟨את⟩ делото на Јахве не го гледаат, и делото на рацете Негови не го видоа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bdbad86e3638fa9dc0d194e24e040260f84cd0d3c891c8ee762d823fb01513d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/5\/12-12.1792458154586.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "кинор"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "и невел"
+    },
+    {
+      "surface": "תף",
+      "gloss": "тапан"
+    },
+    {
+      "surface": "וחליל",
+      "gloss": "и свирка"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "нивните пирови"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "делото"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "делото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "го гледаат"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "и делото"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "на рацете Негови"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "го видоа"
+    }
+  ],
+  "timestamp": "2026-10-20T01:02:34.587109863Z",
+  "model": "glm-5.3"
+}

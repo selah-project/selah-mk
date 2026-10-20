@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 24:23",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משמו אל",
+      "rationale": "'кога Ел го постави тоа' vs 'кога Бог го прави ова'; се менува само глаголската форма"
+    },
+    {
+      "kind": "mystery",
+      "subject": "кое нешто",
+      "rationale": "משמו — придавката е отстапена; станува збор за скришни настани"
+    }
+  ],
+  "translation": "И го подигна својот машал, и рече: Ој, кој ќе живее откако Ел ⟨го⟩ постави ⟨тоа⟩!",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "6553d13de5b839e0649c754f9026d569023e12ed6d522afb4916af770c690a36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/24\/21-24.1792445044377.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "го подигна"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "својот машал"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ој"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ќе живее"
+    },
+    {
+      "surface": "משמו",
+      "gloss": "постави"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    }
+  ],
+  "timestamp": "2026-10-19T21:24:04.378992862Z",
+  "model": "glm-5.3"
+}

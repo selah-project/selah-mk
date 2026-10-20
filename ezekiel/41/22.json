@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 41:22",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "три лакти… два лакти",
+      "rationale": "Мерење на олтарот — висина и должина во лакти."
+    },
+    {
+      "kind": "crux",
+      "subject": "מזבח…השלчן",
+      "rationale": "Дрвен олтар наречен „маса пред Јахве“ — спротивставување на приносот (олтар) и масата (_showbread) во една реченица."
+    },
+    {
+      "kind": "elision",
+      "subject": "אלי",
+      "gloss": "",
+      "rationale": "„кон мене“ вброено во „ми зборуваше“."
+    },
+    {
+      "kind": "you",
+      "subject": "к响起 mi зборуваше",
+      "rationale": "Водичот се обраќа директно на Езекиил — „ми“."
+    }
+  ],
+  "translation": "Олтарот — дрво, три лакти висок, а должината му два лакти; и аглите негови — негови, и должината негова и ѕидовите негови — дрво. И ми зборуваше: Еве ја масата што е пред Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c6ed478132331c092c04604d5792501d689fb38bbe89b2054b12d782da6bba15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/41\/21-24.1792452069403.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המזבח",
+      "gloss": "Олтарот"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "три"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "лакти"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "висок"
+    },
+    {
+      "surface": "וארכו",
+      "gloss": "а должината му"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "два"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "лакти"
+    },
+    {
+      "surface": "ומקצעותיו",
+      "gloss": "и аглите негови"
+    },
+    {
+      "surface": "לו",
+      "gloss": "негови"
+    },
+    {
+      "surface": "וארכו",
+      "gloss": "и должината негова"
+    },
+    {
+      "surface": "וקירתיו",
+      "gloss": "и ѕидовите негови"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "И ми зборуваше"
+    },
+    {
+      "surface": "אלי",
+      "gloss": ""
+    },
+    {
+      "surface": "זה",
+      "gloss": "Еве ја"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "масата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:21:09.404107633Z",
+  "model": "glm-5.3"
+}

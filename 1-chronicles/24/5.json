@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 24:5",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "имаше",
+      "rationale": "хебрејскиот хаја во овој контекст е егзистенцијален, македонскиот бара лична форма"
+    },
+    {
+      "kind": "substitution",
+      "subject": "старешина на светото",
+      "rationale": "саре кодеш — стареши на светилиштето; секоја гибус-форма е обид за апстрактното 'свето'"
+    }
+  ],
+  "translation": "И ги разделија со жребии, овие заедно со овие, зашто имаше старешина на светото и старешини на Елохим од синовите на Елеазар и од синовите на Итамар.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b8711f0e5d66cd8891bd418ee6d28547b4996d40debd5c8047525645c761b4bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/24\/5-8.1792457217810.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלקום",
+      "gloss": "и ги разделија"
+    },
+    {
+      "surface": "בגורלות",
+      "gloss": "со жребии"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "עם",
+      "gloss": "заедно со"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "היו",
+      "gloss": "имаше"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "старешина"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "на светото"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "и старешини"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "од синовите"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "на Елеазар"
+    },
+    {
+      "surface": "ובבני",
+      "gloss": "и од синовите"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "на Итамар"
+    }
+  ],
+  "timestamp": "2026-10-20T00:46:57.811230380Z",
+  "model": "glm-5.3"
+}

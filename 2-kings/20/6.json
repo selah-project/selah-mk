@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 20:6",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ќе",
+      "rationale": "иден времеви помошен глагол додаден за македонскиот"
+    },
+    {
+      "kind": "measurement",
+      "subject": "петнаесет години",
+      "rationale": "бројот на додадените години е точно наведен"
+    }
+  ],
+  "translation": "И ќе ти додадам на твоите дни петнаесет години, и од раката на царот на Ашур ќе те избавам, и ⟨את⟩ овој град; и ќе го штитам овој град — заради мене и заради Давид, моиот слуга.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "3eae1c460f6e6b72680ed04a18185fc3887462980c27ba63c3501742e5ccf956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/20\/5-8.1792449433629.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והספתי",
+      "gloss": "и ќе додадам"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "твоите дни"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "наесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "и од раката"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "ќе те избавам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "овој град"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "овој град"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овој"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "и ќе штитам"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овој"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "заради мене"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "и заради"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "моиот слуга"
+    }
+  ],
+  "timestamp": "2026-10-19T22:37:13.631159632Z",
+  "model": "glm-5.3"
+}

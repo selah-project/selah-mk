@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 30:17",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "на",
+      "rationale": "македонскиот бара кратка предлозна конструкција кај заповед до лице, хебрејскиот има само את"
+    }
+  ],
+  "translation": "Ова се наредбите што Јахве му ги заповеда ⟨את⟩ на Моше — помеѓу мажот и жената негова, помеѓу таткото и ќерката негова, во нејзината младост, во домот на татко ѝ.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d2c28a1407bdd6acd22f38088b98fa74b0b3658f95b7c5080fcda49c93d06617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/30\/17-17.1792445135010.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ова"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "наредбите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בין",
+      "gloss": "помеѓу"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мажот"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "жената негова"
+    },
+    {
+      "surface": "בין",
+      "gloss": "помеѓу"
+    },
+    {
+      "surface": "אב",
+      "gloss": "таткото"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "ќерката негова"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "во нејзината младост"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "татко ѝ"
+    }
+  ],
+  "timestamp": "2026-10-19T21:25:35.011518953Z",
+  "model": "glm-5.3"
+}

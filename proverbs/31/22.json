@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 31:22",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "шеш · аргаман",
+      "rationale": "שש е бел лен, ארגמן пурпурна волна — задржани хебрејските зборови со објаснување во загради."
+    }
+  ],
+  "translation": "Покривки направи за себе; облеката нејзина е од шеш ⟨бел лен⟩ и аргаман ⟨пурпур⟩.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5eac4d701ffd51344d8454f29a9617e2ef99fe52fbc32abd0564fd1ef28442da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/31\/21-24.1792454749419.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "покривки"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "לה",
+      "gloss": "за себе"
+    },
+    {
+      "surface": "שש",
+      "gloss": "од шеш"
+    },
+    {
+      "surface": "וארגממן",
+      "gloss": "и аргаман"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "облеката нејзина"
+    }
+  ],
+  "timestamp": "2026-10-20T00:05:49.420165651Z",
+  "model": "glm-5.3"
+}

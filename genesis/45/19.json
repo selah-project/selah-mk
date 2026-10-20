@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 45:19",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "деца",
+      "rationale": "טף е колективно 'малки деца \/ семејство', буквално 'тапчилци'."
+    },
+    {
+      "kind": "you",
+      "subject": "до Јосеф",
+      "rationale": "Фараон се обраќа директно на Јосеф — 'ти си заповедан'."
+    }
+  ],
+  "translation": "А ти си заповедан: ова направете — земете си од земјата Мицраим коли за децата ваши и за жените ваши, и носете го ⟨את⟩ татко вашиот и дојдете.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "85b59f09f521293df9aa691ac84718562a7c4315f97853f3a3f08c4ee78481c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/45\/17-20.1792443262716.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "си заповедан"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "овој"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направете"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "земете"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "си"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "коли"
+    },
+    {
+      "surface": "לטפכם",
+      "gloss": "за децата ваши"
+    },
+    {
+      "surface": "ולנשיכם",
+      "gloss": "и за жените ваши"
+    },
+    {
+      "surface": "ונשאתם",
+      "gloss": "и носете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "татко вашиот"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "татко вашиот"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "и дојдете"
+    }
+  ],
+  "timestamp": "2026-10-19T20:54:22.723956517Z",
+  "model": "glm-5.3"
+}

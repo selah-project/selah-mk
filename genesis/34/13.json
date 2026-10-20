@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "загади",
+      "rationale": "טמא е церемијално-морално 'нечист', 'осудено'; 'загади' е најблизок, но ритуалната нијанса се губи"
+    },
+    {
+      "kind": "you",
+      "subject": "до Шхем и Хамор",
+      "rationale": "лукавиот одговор е директно обраќање"
+    }
+  ],
+  "translation": "И синовите на Јааков одговорија ⟨את⟩ Шхем и ⟨את⟩ Хамор, татко му, со лукавштина, и зборуваа — зашто тој ја загади ⟨את⟩ Дина, сестра им.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "48ee8be64a6bfe91abe09221571ee01a9d29ea9e599cb0366df7dcfc714f1334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/34\/13-16.1792443042567.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "одговорија"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "на Јааков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шхем"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шхем"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хамор"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Хамор"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "татко му"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "со лукавштина"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "и зборуваа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "загади"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Дина"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Дина"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "сестра им"
+    }
+  ],
+  "timestamp": "2026-10-19T20:50:42.568292600Z",
+  "model": "glm-5.3"
+}

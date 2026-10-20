@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 1:31",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפים",
+      "rationale": "букв. «нос\/ноздри», тука «лице» — слика на поклон"
+    },
+    {
+      "kind": "idiom",
+      "subject": "Нека живее… довекá",
+      "rationale": "дворска формула за желба за долг живот на царот"
+    }
+  ],
+  "translation": "И Бат-Шева се поклони со лицето до земја и се простре пред царот, и рече: Нека живее господарот мој, царот Давид, довекá.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b585ae4433d9ea7473aa7b783bf37342077aca4b20b52b5dd5cf55826aa497a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/1\/29-32.1792448532891.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "се поклони"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Бат-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "до земја"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "се простре"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "пред царот"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Нека живее"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господарот мој"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "довекá"
+    }
+  ],
+  "timestamp": "2026-10-19T22:22:12.892902378Z",
+  "model": "glm-5.3"
+}

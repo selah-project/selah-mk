@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וגם אני אליך",
+      "rationale": "двосмислено: „и јас исто така кон тебе“ (KJV: и јас ќе бидам твој) или JPS: „ниту јас ќе бидам твој“ — хебрејскиот не го наведува глаголот"
+    },
+    {
+      "kind": "measurement",
+      "subject": "многу денови",
+      "rationale": "неодреден временски рок — иѕглед на чекање"
+    }
+  ],
+  "translation": "И ѝ реков: Многу денови ќе останеш за мене, нема да блудиш и нема да бидеш на друг маж — и исто така јас кон тебе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9d47e7184f112630e5685209087dd2f219885b067baed2ca42cc7b76cc1b463a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/hosea\/3\/1-4.1792452217998.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И реков"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ѝ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "денови"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многу"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "ќе останеш"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мене"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "да блудиш"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "да бидеш"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "на друг маж"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и исто така"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "кон тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T23:23:37.999331288Z",
+  "model": "glm-5.3"
+}

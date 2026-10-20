@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 18:15",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דעת … דעת",
+      "rationale": "знаење стои на крајот од двата дела — срцето го добива, увото го бара"
+    }
+  ],
+  "translation": "Срце разумно здобива знаење, и уво на мудрите бара знаење.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0caa280d11821f426c443f316129b619762aff88ad1807092ef6444b23708b50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/18\/13-16.1792454567781.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "разумно"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "здобива"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знаење"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "и уво"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрите"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "бара"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знаење"
+    }
+  ],
+  "timestamp": "2026-10-20T00:02:47.782051445Z",
+  "model": "glm-5.3"
+}

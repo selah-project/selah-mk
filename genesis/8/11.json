@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 8:11",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "טרף",
+      "rationale": "ова придевска употреба на „набран\/кинат“ се јавува само тука во Танах"
+    },
+    {
+      "kind": "substitution",
+      "subject": "олеснаа",
+      "rationale": "קלו од корен קלל — „станаа лесни\/испуштија“; повеќето преводи даваат „се повлекоа“"
+    }
+  ],
+  "translation": "И дојде гулабицата кај него во време на самрак, и ете, лист маслинка свежо набран во устата нејзината; и Нох сфати дека водите олеснаа од земјата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2d1ed446fcdbf126e276d14a5759e9726f696b1044ceed4b9e0b96c172b69ab1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/8\/9-12.1792442435651.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "и дојде"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "кај него"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "гулабицата"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "во време на"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "самрак"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ете"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "лист"
+    },
+    {
+      "surface": "זית",
+      "gloss": "маслинка"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "свежо набран"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "во устата нејзината"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "и сфати"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нох"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "олеснаа"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водите"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:35.652989592Z",
+  "model": "glm-5.3"
+}

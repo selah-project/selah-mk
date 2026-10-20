@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 33:28",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עין יעקב",
+      "rationale": "'изворот на Јааков' (со збор од истиот корен) или 'окото на Јааков' — и двете се лит. во传统ите"
+    },
+    {
+      "kind": "substitution",
+      "subject": "моуст",
+      "rationale": "תירוש е свежо исцеден грозжев сок, не fermentирано вино"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јисраел",
+      "rationale": "благословот ги опфаќа сите племиња на Јисраел"
+    }
+  ],
+  "translation": "И Јисраел живее безбедно, сам — изворот на Јааков — во земја жито и моуст; и неговите небеса ќе истуруат роса.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "67f3d8fca57661e18ca252ddd0319b9708581d1a1571610ed31b1af14c4eb4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/33\/25-28.1792445830253.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכן",
+      "gloss": "И живее"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "безбедно"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "сам"
+    },
+    {
+      "surface": "עין",
+      "gloss": "изворот"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "на Јааков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "жито"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "и моуст"
+    },
+    {
+      "surface": "אף",
+      "gloss": "и"
+    },
+    {
+      "surface": "שמיו",
+      "gloss": "неговите небеса"
+    },
+    {
+      "surface": "יערפו",
+      "gloss": "ќе истуруат"
+    },
+    {
+      "surface": "טל",
+      "gloss": "роса"
+    }
+  ],
+  "timestamp": "2026-10-19T21:37:10.254859404Z",
+  "model": "glm-5.3"
+}

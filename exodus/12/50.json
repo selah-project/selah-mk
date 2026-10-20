@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויעשו … עשו",
+      "rationale": "инклюзија: стихот почнува и завршува со ист глагол „направија“"
+    }
+  ],
+  "translation": "И сите синови на Јисраел направија како што заповеда Јахве ⟨את⟩ Моше и ⟨את⟩ Ахарон — така направија.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5848b63ae38dea267daa8a2fe41a1bcedfbba8abb5adbc345a51aff5971f70b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/12\/49-51.1792443497263.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "И направија"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ахарон"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направија"
+    }
+  ],
+  "timestamp": "2026-10-19T20:58:17.268377240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 27:28",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беа",
+      "rationale": "хебрејскиот нема глагол-сврска"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשפלה",
+      "rationale": "Шефела — ниската крајбрежна земја; не обична „долина“ туга географско име"
+    }
+  ],
+  "translation": "А над маслинките и сикоморите што беа во Шефела — Баал-Ханан Гедериецот; а над ризниците на маслото — Јоаш.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cd566db08673027307713596f3b4ee2afd20c998fc6e7dfe30e31bd9b36820b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/27\/25-28.1792457304585.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "а над"
+    },
+    {
+      "surface": "הזיתים",
+      "gloss": "маслинките"
+    },
+    {
+      "surface": "והשקמים",
+      "gloss": "и сикоморите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "во Шефела"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    },
+    {
+      "surface": "הגדרי",
+      "gloss": "Гедериецот"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "а над"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "ризниците"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "на маслото"
+    },
+    {
+      "surface": "יועש",
+      "gloss": "Јоаш"
+    }
+  ],
+  "timestamp": "2026-10-20T00:48:24.586270699Z",
+  "model": "glm-5.3"
+}

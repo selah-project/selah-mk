@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 61:4",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרבות…חרב · שממות…שממות",
+      "rationale": "корените за запустеност се повторуваат во хијазам, звукот на пустош одекува низ стихот"
+    }
+  ],
+  "translation": "И ќе ги изградат руините од старо, запустените од порано ќе ги подигнат, и ќе ги обноват разурнатите градови, запустени од поколение во поколение.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9110b8a18c681086226b48e2c25f4b2f116eb1a40fad64a7d4925090a2db74e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/61\/1-4.1792450326579.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "и ќе изградат"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "руините"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "од старо"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "запустените"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "од порано"
+    },
+    {
+      "surface": "יקוממו",
+      "gloss": "ќе ги подигнат"
+    },
+    {
+      "surface": "וחדשו",
+      "gloss": "и ќе ги обноват"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "градовите"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "разурнати"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "запустени"
+    },
+    {
+      "surface": "דור",
+      "gloss": "од поколение"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "во поколение"
+    }
+  ],
+  "timestamp": "2026-10-19T22:52:06.584794499Z",
+  "model": "glm-5.3"
+}

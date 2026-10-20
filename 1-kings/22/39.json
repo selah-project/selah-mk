@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 22:39",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "слонова коска",
+      "rationale": "השן буквално 'заб' — куќа од заб, т.е. од слонова коска"
+    },
+    {
+      "kind": "invitation",
+      "subject": "не се ли тие запишани",
+      "rationale": "реторичко прашање упатено кон читателот, повикување да се провери хрониката"
+    },
+    {
+      "kind": "measurement",
+      "subject": "книгата на делата на дните",
+      "rationale": "упатување на архивен запис — топос на избројување на делата на царот"
+    }
+  ],
+  "translation": "А останатите дела на Ахав, и сè што направи, и куќата од слонова коска што ја изгради, и сите градови што ги изгради — не се ли тие запишани во книгата на делата на дните за царевите на Јисраел?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "d7d52a1fb407d901162ce45b9057c31b6a465ddeef8348beb04e4ca27b657cd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/22\/37-40.1792449053970.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "а останатите"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "дела"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "на Ахав"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и куќата"
+    },
+    {
+      "surface": "השן",
+      "gloss": "од слонова коска"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ја изгради"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сите"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "градови"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ги изгради"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "не се ли"
+    },
+    {
+      "surface": "הם",
+      "gloss": "тие"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "запишани"
+    },
+    {
+      "surface": "על",
+      "gloss": "во"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книгата"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "на делата"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "на дните"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "за царевите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T22:30:53.971917575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 44:9",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тоху",
+      "rationale": "תהו е истори збор од Битие 1:2 — празнина\/ништост; оставен како тоху за да се чува обликот на зборот"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצרי…יצרהו",
+      "rationale": "коренот יצר (обликува) се повторува низ целовата пасуса за вистинскиот Творец и за ложните обликувачи на идоли"
+    }
+  ],
+  "translation": "Обликувачите на идол — сите тие се тоху, и нивните возљубени ништо нема да користат; и нивните сведоци — тие самите не гледаат и не знаат, за да се засрамат.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "568802be28bbe9a40bc47a03890735dc4eade70cf24bd44470cb9a3a3cdc4a35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/44\/9-12.1792450098103.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצרי",
+      "gloss": "Обликувачите"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "идол"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "сите"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "тоху"
+    },
+    {
+      "surface": "וחמודיהם",
+      "gloss": "и нивните возљубени"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ништо"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "нема да користат"
+    },
+    {
+      "surface": "ועדיהם",
+      "gloss": "и нивните сведоци"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие самите"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "гледаат"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знаат"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "се засрамат"
+    }
+  ],
+  "timestamp": "2026-10-19T22:48:18.104353974Z",
+  "model": "glm-5.3"
+}

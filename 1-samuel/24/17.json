@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 24:17",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "кон Шаул",
+      "rationale": "Шаул се обраќа директно на Давид со прашањето „дали е овој твојот глас, синко мој“."
+    },
+    {
+      "kind": "idiom",
+      "subject": "го подигна гласот свој",
+      "rationale": "хебрејско насא кол — да се крене глас, знак на силна емоција пред плач."
+    }
+  ],
+  "translation": "И биде кога Давид заврши да ги зборува ⟨את⟩ овие зборови кон Шаул, и рече Шаул: дали е овој твојот глас, синко мој Давид? И Шаул го подигна гласот свој и заплака.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "833ee93192eea437ad869212c20946797a9d837a6c4eace053f6233870a0f2a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/24\/17-20.1792447903679.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "кога заврши"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "да зборува"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "овие зборови"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "зборовите"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "הקלך",
+      "gloss": "твојот глас"
+    },
+    {
+      "surface": "זה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синко мој"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "и подигна"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "гласот свој"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "и заплака"
+    }
+  ],
+  "timestamp": "2026-10-19T22:11:43.680354362Z",
+  "model": "glm-5.3"
+}

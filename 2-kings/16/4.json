@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "зелено",
+      "rationale": "רענן is 'verdant, lush, fresh' — 'green\/leafy' tree as fertile cult site."
+    }
+  ],
+  "translation": "И принесуваше жртви и кадеше мирис на возвишенијата, и на ридовите, и под секое зелено дрво.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "70b7894f776396b111e608730403b00eeab34480c8bcb7a3159642fa03c263bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/16\/1-4.1792449357209.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "И принесуваше жртви"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "и кадеше мирис"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "на возвишенијата"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ридовите"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "и под"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секое"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "зелено"
+    }
+  ],
+  "timestamp": "2026-10-19T22:35:57.213533400Z",
+  "model": "glm-5.3"
+}

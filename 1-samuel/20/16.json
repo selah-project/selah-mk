@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 20:16",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויכרת",
+      "rationale": "истиот корен כרת — заветот се „секува“ како и отсекувањето од стих 15."
+    },
+    {
+      "kind": "crux",
+      "subject": "ובקש יהוה",
+      "rationale": "кој бара од кого: „Јахве да побара од непријателите“ (казна) или „Јахве да го побара ⟨заветот⟩“ — двете читања се во традициите."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨тоа⟩",
+      "rationale": "објектот на барањето е исчезнат во хебрејскиот; македонскиот бара предмет."
+    }
+  ],
+  "translation": "И Јонатан склучи завет со домот на Давид, ⟨и⟩ Јахве да побара ⟨тоа⟩ од раката на непријателите на Давид.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "cb14f6d7744f54c69aaef52baf127fee4bac8c66f30a41aced25b0187218fdb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/20\/13-16.1792446957611.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "и склучи"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Јонатан"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "и да побара"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "од раката"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "на непријателите"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-10-19T21:55:57.612918717Z",
+  "model": "glm-5.3"
+}

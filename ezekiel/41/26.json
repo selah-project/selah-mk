@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 41:26",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара"
+    },
+    {
+      "kind": "substitution",
+      "subject": "задовршени",
+      "rationale": "אטמות буквално 'затворени', за прозорци со скосени рабови — тесни решеткасти прозорци"
+    },
+    {
+      "kind": "substitution",
+      "subject": "рамениците",
+      "rationale": "כתפות буквално 'раме', архитектонски: странични ѕидови\/крила на предворието"
+    },
+    {
+      "kind": "measurement",
+      "subject": "опис на храмот",
+      "rationale": "продолжение на архитектонскиот опис со прецизни елементи"
+    }
+  ],
+  "translation": "И прозорци ⟨е⟩ задовршени, и тиморим одтука и одтука, при рамениците на предворието, и страничните крила на куќата и архитравите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e89f9fb8171a2b5c27f3df6d154d29e83855668c20ae2e59a0177ef31ce99d64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/41\/25-26.1792452025644.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחלונים",
+      "gloss": "и прозорци"
+    },
+    {
+      "surface": "אטמות",
+      "gloss": "задовршени"
+    },
+    {
+      "surface": "ותמרים",
+      "gloss": "и тиморим"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "одтука"
+    },
+    {
+      "surface": "ומפו",
+      "gloss": "и одтука"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "рамениците"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "на предворието"
+    },
+    {
+      "surface": "וצלעות",
+      "gloss": "и страничните крила"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "на куќата"
+    },
+    {
+      "surface": "והעבים",
+      "gloss": "и архитравите"
+    }
+  ],
+  "timestamp": "2026-10-19T23:20:25.645253550Z",
+  "model": "glm-5.3"
+}

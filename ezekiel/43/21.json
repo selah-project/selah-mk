@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨место⟩",
+      "rationale": "במפקד е 'одредено (место)' — именскиот остаток е додаден"
+    },
+    {
+      "kind": "you",
+      "subject": "кон Езекиил",
+      "rationale": "заповед упатена директно на пророкот за обредот"
+    }
+  ],
+  "translation": "И ќе го земеш ⟨את⟩ волот за жртвата за грев, и ќе го запалиш во одреденото место на домот, надвор од светилиштето.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "65d1b2443c8537c34dbec9c3bfab7345b82e9d92dff13857c6c30a01a6c8beb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/43\/21-24.1792452032273.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "И ќе го земеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "волот"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "волот"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "за жртвата за грев"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "и ќе го запалиш"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "во одреденото ⟨место⟩"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "надвор"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "од светилиштето"
+    }
+  ],
+  "timestamp": "2026-10-19T23:20:32.273599147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 28:4",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "прогонети",
+      "rationale": "גלות е конкретна множествена — „гилизините\/прогнаните“, не апстрактната „галичина\""
+    }
+  ],
+  "translation": "И ⟨את⟩ Јехоња, син на Јехојаким, царот на Јудеја, и ⟨את⟩ сите прогонети од Јудеја што отидоа во Вавилон, јас ги враќам на ова место — изрека на Јахве — зашто ќе го скршам ⟨את⟩ јаремот на царот на Вавилон.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "079f9383f32f1dbd195e2ceed92f44f201ebd8972ecf6221aca797430f9cd7a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/28\/1-4.1792450836071.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Јехоња"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Јехоња"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Јехојаким"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудеја"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сите прогонети"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "прогонети"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудеја"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "што отидоа"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "во Вавилон"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "враќам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "ќе скршам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "јаремот"
+    },
+    {
+      "surface": "על",
+      "gloss": "јаремот"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    }
+  ],
+  "timestamp": "2026-10-19T23:00:36.072899789Z",
+  "model": "glm-5.3"
+}

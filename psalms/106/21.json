@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 106:21",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Го",
+      "rationale": "македонскиот го бара кратката заменска форма за директниот предмет"
+    },
+    {
+      "kind": "addition",
+      "subject": "дела",
+      "rationale": "גדלות е само „големи“ — именката е додадена за читливост"
+    }
+  ],
+  "translation": "Го заборавија Ел, избавителот свој, што правеше големи дела во Мицраим,",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "150c162f992e3756c3ed160d70e20c0e9b3694ea8e6a31a8b8e4dfe9f591c1d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/106\/21-24.1792453861784.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שכחו",
+      "gloss": "Го заборавија"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "מושיעם",
+      "gloss": "избавителот свој"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "што правеше"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "големи дела"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "во Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-19T23:51:01.784675247Z",
+  "model": "glm-5.3"
+}

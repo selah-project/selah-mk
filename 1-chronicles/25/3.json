@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 25:3",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הודות",
+      "rationale": "од ידה — „фрлање\/испознавање“; „славење\/благодарност“ е прифатенbuild, букв. е исповед-со-рака"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על ידי אביהם",
+      "rationale": "„на рацете на татко им“ — под раководство"
+    },
+    {
+      "kind": "measurement",
+      "subject": "шестмина",
+      "rationale": "бројот е кажан како во хебрејскиот"
+    }
+  ],
+  "translation": "На Једутун: синовите на Једутун — Гедалјаху и Цери и Јешајаху, Хашавјаху и Матитјаху, шестмина, под рацете на нивниот татко Једутун, со кинор пророкуваше, за славење и фалење на Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1f06775c2162aff65c443a52ecad10c4a759076dacfcab0a781ec72f685a4550",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/25\/1-4.1792457264444.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לידותון",
+      "gloss": "На Једутун"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Једутун"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Гедалјаху"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "и Цери"
+    },
+    {
+      "surface": "וישעיהו",
+      "gloss": "и Јешајаху"
+    },
+    {
+      "surface": "חשביהו",
+      "gloss": "Хашавјаху"
+    },
+    {
+      "surface": "ומתתיהו",
+      "gloss": "и Матитјаху"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шестмина"
+    },
+    {
+      "surface": "על",
+      "gloss": "под"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "рацете"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "на нивниот татко"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Једутун"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "со кинор"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пророкуваше"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "הדות",
+      "gloss": "славење"
+    },
+    {
+      "surface": "והלל",
+      "gloss": "и фалење"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    }
+  ],
+  "timestamp": "2026-10-20T00:47:44.445750867Z",
+  "model": "glm-5.3"
+}

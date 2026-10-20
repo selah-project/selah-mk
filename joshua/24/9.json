@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 24:9",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "на (синот на Ципор)",
+      "rationale": "македонскиот бара предложен знак во родителската врска, хебрејскиот има конструктивна врска"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јисраел",
+      "rationale": "Јахве им зборува директно на народот — «да ве проколнува»"
+    }
+  ],
+  "translation": "Тогаш стана Балак, синот на Ципор, цар на Моав, и војуваше против Јисраел; и праќаше и повика Билеам, синот на Беор, да ве проколнува ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "30f94f1314f824cfcb009c2b3c162da3cdf9baa668e0c621cbc524d409a5dda0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/24\/9-12.1792446250036.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "стана"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Ципор"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "војуваше"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "против Јисраел"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "праќаше"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "повика"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Билеам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Беор"
+    },
+    {
+      "surface": "לקלל",
+      "gloss": "да проколнува"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:44:10.036985998Z",
+  "model": "glm-5.3"
+}

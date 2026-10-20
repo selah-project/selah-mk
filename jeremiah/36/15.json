@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 36:15",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "באזנינו \/ באזניהם",
+      "rationale": "повторот 'во ушите наши \/ во ушите нивни' рамка околу читањето — чува се во преводот"
+    }
+  ],
+  "translation": "И му рекоа: „Седни, те молам, и читај ни во нашите уши.“ И им читаше Барух во нивните уши.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "37213f5ceb141864119539f6fcca21c126276a5fc5a17c2285bbdeaf48ab309d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/36\/13-16.1792450958691.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "рекоа"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "שב",
+      "gloss": "седни"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молам"
+    },
+    {
+      "surface": "וקראנה",
+      "gloss": "читај ни"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "во нашите уши"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "читаше"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барух"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "во нивните уши"
+    }
+  ],
+  "timestamp": "2026-10-19T23:02:38.693071879Z",
+  "model": "glm-5.3"
+}

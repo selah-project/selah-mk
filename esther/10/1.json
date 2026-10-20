@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "данок",
+      "rationale": "מס е примордијално 'терет' — данок во вид на присилна работа"
+    }
+  ],
+  "translation": "И царот Ахашверош наметна данок на земјата и на островите на морето.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "29b796585a0543d16a5c2b1a9929059f852632dde09f023113bf3667d50739a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/esther\/10\/1-3.1792455992531.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "И наметна"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Ахашверош"
+    },
+    {
+      "surface": "מס",
+      "gloss": "данок"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "и на островите"
+    },
+    {
+      "surface": "הים",
+      "gloss": "на морето"
+    }
+  ],
+  "timestamp": "2026-10-20T00:26:32.531957330Z",
+  "model": "glm-5.3"
+}

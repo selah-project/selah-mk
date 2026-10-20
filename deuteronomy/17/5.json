@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "го · ги",
+      "rationale": "македонските кратки заменски члени немаат соодвет во хебрејскиот поредок на зборовите"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האיש ... האשה",
+      "rationale": "двојно повторување маж\/жена во спротивен пар, повторено по вторпат — реторичко потцртување"
+    }
+  ],
+  "translation": "тогаш изведи го ⟨את⟩ тој човек или ⟨את⟩ таа жена, што го направиле ⟨את⟩ ова зло нешто, до твоите порти — ⟨את⟩ човекот или ⟨את⟩ жената — и камнувај ги со камења и нека умрат.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "342db6a9636315b17f1df2183553795089bb560514bad0935a591dda2e257299",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/17\/5-8.1792445641116.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "изведи го"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тој човек"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "таа жена"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направиле"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ова зло нешто"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "нешто"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "твоите порти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "човекот"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жената"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "камнувај ги"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "со камења"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "нека умрат"
+    }
+  ],
+  "timestamp": "2026-10-19T21:34:01.117716357Z",
+  "model": "glm-5.3"
+}

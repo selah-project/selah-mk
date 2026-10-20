@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 27:23",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "пописот",
+      "rationale": "броење според годишна возраст — дваесет години и надолу не се бројат"
+    },
+    {
+      "kind": "idiom",
+      "subject": "како ѕвездите на небото",
+      "rationale": "хебрејската слика за безбројност, задржана буквално"
+    }
+  ],
+  "translation": "И Давид не го подигна бројот нивен — од син на дваесет години и надолу — зашто Јахве рече дека ќе ги умножи ⟨את⟩ Јисраел како ѕвездите на небото.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d44c3f86e2255064eabe4b207ef8a3bce6b027e08e559ae62aae922be2758b12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/27\/21-24.1792457259323.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "го подигна"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "бројот нивен"
+    },
+    {
+      "surface": "למבן",
+      "gloss": "од син"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "на дваесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ולמטה",
+      "gloss": "и надолу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": " дека ќе умножи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јисраел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "како ѕвездите"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "на небото"
+    }
+  ],
+  "timestamp": "2026-10-20T00:47:39.324339375Z",
+  "model": "glm-5.3"
+}

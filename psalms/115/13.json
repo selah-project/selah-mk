@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "на оние што се бојат од Јахве",
+      "rationale": "Повторено ветување упатено кон заедницата на богобојазливите, малите и големите заедно."
+    }
+  ],
+  "translation": "Ќе ги благослови оние што се бојат од Јахве — малите заедно со големите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "94fdd6dfbc9af7eca968cd0d3b2707bef8936df77625e627c8acbdad3d4cef3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/115\/13-16.1792453949092.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "ќе благослови"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "оне што се бојат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "малите"
+    },
+    {
+      "surface": "עם",
+      "gloss": "заедно со"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "големите"
+    }
+  ],
+  "timestamp": "2026-10-19T23:52:29.092581107Z",
+  "model": "glm-5.3"
+}

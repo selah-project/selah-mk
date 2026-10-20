@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 28:35",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Исраел",
+      "rationale": "цел стих е директно проклетство упатено кон 'ти' — Израел"
+    }
+  ],
+  "translation": "Ќе те удари Јахве со злобен чир на колената и на листите, од што нема да можеш да се излечиш — од стопалото на ногата твоја до темето на главата твоя.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9b587ef8ff799b641a16ff6d16461a7b148c44c8c670479199ed7ec77d451842",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/28\/33-36.1792445737008.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "Ќе те удари"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "со чир"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злобен"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הברכים",
+      "gloss": "колената"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "השקים",
+      "gloss": "листите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "од што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "нема да можеш"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "да се излечиш"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "од стопалото"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "на ногата твоја"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "קדקדך",
+      "gloss": "темето на главата твоя"
+    }
+  ],
+  "timestamp": "2026-10-19T21:35:37.009566755Z",
+  "model": "glm-5.3"
+}

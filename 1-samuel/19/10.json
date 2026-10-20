@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 19:10",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨го забие⟩",
+      "rationale": "ובקיר стои без глагол — „и ⟨го забие⟩ во ѕидот” го надополнува исказот"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨тој⟩",
+      "rationale": "субјектот кај ויך е Шаул, македонскиот бара заменка"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויפטר",
+      "rationale": "„се изврте\/се ослободи” — корен п-ט-ר „да пробие\/излезе”; преводите се делат меѓу „се тргна” и „се ослободи”"
+    }
+  ],
+  "translation": "И Шаул сакаше да го удри со копјето Давида и ⟨го забие⟩ во ѕидот, но Давид се изврте од лицето на Шаул, и ⟨тој⟩ ја удри ⟨את⟩ копјето во ѕидот; и Давид побегна и се спаси таа ноќ.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "bb33ca57b978b04d0522ec25012d7b95ac8604b30feeecd4ce17b0c63aa797ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/19\/9-12.1792447837725.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "И сакаше"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "да удри"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "со копјето"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "и во ѕидот"
+    },
+    {
+      "surface": "ויפטר",
+      "gloss": "се изврте"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "од лицето на"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "и удри"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "копјето"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "копјето"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "во ѕидот"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "и Давид"
+    },
+    {
+      "surface": "נס",
+      "gloss": "побегна"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "и се спаси"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "таа ноќ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨таа⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T22:10:37.729145768Z",
+  "model": "glm-5.3"
+}

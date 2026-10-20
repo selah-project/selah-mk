@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עין גנים",
+      "rationale": "Едно име од два збора („извор на градините“), споено во Ен-Ганим"
+    }
+  ],
+  "translation": "и Занох, и Ен-Ганим, Тапуах и Енам,",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2e78a333b6853452018ce1f3703feb81c59f4e5f7edcafce387293c04d0613c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/15\/33-36.1792446134949.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "и Занох"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "Ен"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "-Ганим"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "Тапуах"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "и Енам"
+    }
+  ],
+  "timestamp": "2026-10-19T21:42:14.950330339Z",
+  "model": "glm-5.3"
+}

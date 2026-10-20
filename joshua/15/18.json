@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 15:18",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בבואה",
+      "rationale": "„Кога таа дојде“ — кај кого: кај мажот (Отниел) или кај таткото; повеќето преводи: кај мажот"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מה לך",
+      "rationale": "Дословно „што на тебе?“ — македонски идиом „што е со тебе \/ што сакаш“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "החמור",
+      "gloss-note": "",
+      "rationale": "„магаре“ за хамор — мажјак од магариња, македонскиот не прави разлика"
+    }
+  ],
+  "translation": "И биде, кога таа дојде, таа го поттикна да побара од ⟨את⟩ татко и поле; и таа се симна од магарето, и Калев и рече: Што ⟨е⟩ со тебе?",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "11455d8626ee999a483c0a7480f46d070baad979d9e52456f962640658b66a10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/15\/17-20.1792446144003.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "בבואה",
+      "gloss": "кога таа дојде"
+    },
+    {
+      "surface": "ותסיתהו",
+      "gloss": "го поттикна"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "да побара"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "од ⟨את⟩"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "татко и"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "поле"
+    },
+    {
+      "surface": "ותצנח",
+      "gloss": "и се симна"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "магарето"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לה",
+      "gloss": "и"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калев"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "לך",
+      "gloss": "со тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T21:42:24.004947212Z",
+  "model": "glm-5.3"
+}

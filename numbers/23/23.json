@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 23:23",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחש",
+      "rationale": "Истиот збор значи „змија“ и „гатање“; тука е гатање — играта со змијата се губи"
+    },
+    {
+      "kind": "crux",
+      "subject": "против\/со",
+      "rationale": "KJV „against“, JPS „with“ — хебрејскиот има само ב, без насока"
+    },
+    {
+      "kind": "secret",
+      "subject": "гатање и вражба",
+      "rationale": "Стихот тврди дека скриеното знаење не важи за Јааков — она што Ел прави е видливо"
+    }
+  ],
+  "translation": "Зашто нема гатање ⟨во⟩ Јааков ни враџбина во Јисраел; според времето ќе се рече за Јааков и за Јисраел: Што стори Ел!",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e3c246902db6be9805b22e32c164b0e32af72a110a4304c4733a8142bb0ec0b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/23\/21-24.1792445063796.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "гатање"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "во Јааков"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "вражба"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "во Јисраел"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "според времето"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ќе се рече"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "за Јааков"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "и за Јисраел"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "פעל",
+      "gloss": " стори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    }
+  ],
+  "timestamp": "2026-10-19T21:24:23.797407005Z",
+  "model": "glm-5.3"
+}

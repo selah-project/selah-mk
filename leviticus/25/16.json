@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 25:16",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רב\/תרבה · מעט\/תמעיט",
+      "rationale": "игра на корени: 'многу — умножи', 'малку — намали'; одразена со зголеми\/намали"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפי",
+      "rationale": "буквално 'според устата на' —_quantity idiom, prevedeno 'според'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "цена",
+      "rationale": "арифметика на цената според годините до јовелот"
+    }
+  ],
+  "translation": "Според множеството години ќе го зголемиш неговиот откуп, и според малкуто години ќе го намалиш неговиот откуп; зашто ⟨е⟩ број на приноси тој ти продава.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d1ce4eac899fed536371a2406c0f5896084a8e27076b10caacde885917b0dc82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/25\/13-16.1792444480200.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפי",
+      "gloss": "Според"
+    },
+    {
+      "surface": "רב",
+      "gloss": "множеството"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "ќе го зголемиш"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "неговиот откуп"
+    },
+    {
+      "surface": "ולפי",
+      "gloss": "и според"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "малкуто"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "תמעיט",
+      "gloss": "ќе го намалиш"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "неговиот откуп"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "број"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "на приноси"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨е⟩"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "продава"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-10-19T21:14:40.201480540Z",
+  "model": "glm-5.3"
+}

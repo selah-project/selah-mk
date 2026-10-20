@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יצעד",
+      "rationale": "'чекореше' — глаголот редовно да оди чекорејќи; драматички прикажува несвесно одреден однесување"
+    }
+  ],
+  "translation": "минуваше по улицата крај нејзиниот агол, и по патот кон нејзиниот дом чекореше,",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "780bd59711030f9ce5584ffd6b233f4c5414303b3e1308b81cd49f1782db05a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/7\/5-8.1792454361507.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "минуваше"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "по улицата"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "крај"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "нејзиниот агол"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "и по патот"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "кон нејзиниот дом"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "чекореше"
+    }
+  ],
+  "timestamp": "2026-10-19T23:59:21.508728401Z",
+  "model": "glm-5.3"
+}

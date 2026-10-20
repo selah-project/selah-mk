@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 23:11",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "се осквернија",
+      "rationale": "חנפו: 'осквернети\/лицемерни\/проклети' — коренот значи нечистија на сеќавањето"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם ×3",
+      "rationale": "трикратното 'дури и\/и' гради кулминација: пророк, свештеник, па дури и во домот Мој"
+    }
+  ],
+  "translation": "Зашто и пророк и свештеник се осквернија; дури и во домот Мој најдов ⟨את⟩ злото нивно, вели Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5baecef3a4577431dff609f2b59f58d1e61d01b99b0d57699f0237daaeda1d12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/23\/9-12.1792450705095.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "חנפו",
+      "gloss": "се осквернија"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дури и"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "во домот Мој"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "најдов"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "злото нивно"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T22:58:25.096871033Z",
+  "model": "glm-5.3"
+}

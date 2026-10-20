@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 1:38",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Кремеќите и Пелеѓите",
+      "rationale": "הכרתי והפלתי — или царската гарда, или им на народите Крит и Филистија; букв. како имиња оставени"
+    },
+    {
+      "kind": "substitution",
+      "subject": "до",
+      "rationale": "על со глагол на движење = до, не 'врз'"
+    }
+  ],
+  "translation": "И слезе Цадок свештеникот, и Натан пророкот, и Бенајау синот на Јехојада, и Кремеќите и Пелеѓите, и го качија ⟨את⟩ Шеломо на маскатата на царот Давид, и го одведоа ⟨את⟩ него до Гихон.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6561b2ec2175bd463c3a49a1ee05f955c81992c8af60e91b029366e1c5635614",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/1\/37-40.1792448505701.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "и слезе"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "и Натан"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкот"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "и Бенајау"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Јехојада"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "и Кремеќите"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "и Пелеѓите"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "и го качија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шеломо"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פרדת",
+      "gloss": "маскатата"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "и го одведоа"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него"
+    },
+    {
+      "surface": "על",
+      "gloss": "до"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "Гихон"
+    }
+  ],
+  "timestamp": "2026-10-19T22:21:45.703455457Z",
+  "model": "glm-5.3"
+}

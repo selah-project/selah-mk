@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 1:33",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "А оној",
+      "rationale": "хебрејскиот има само партицип 'и што слуша'; македонскиот бара подмет и сврзник"
+    },
+    {
+      "kind": "addition",
+      "subject": "ѝ",
+      "rationale": "македонскиот бара помошен глагол 'да е' кај שאנן, што е придавка\/глагол 'да е спокоен'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "до слушателот",
+      "rationale": "Премудроста го повикува читателот да слуша — завршен повик на говорот во Премудрост 1"
+    }
+  ],
+  "translation": "А оној што ме слуша ќе пребива во сигурност и ќе биде спокоен од страв од зло.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e2a1595d59f6c3fac5170605d870f2066561677b5e6099a75a631f3ace76e4db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/1\/33-33.1792454194237.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "што ме слуша"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ме"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ќе пребива"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "во сигурност"
+    },
+    {
+      "surface": "ושאנן",
+      "gloss": "ѝ ќе биде спокоен"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "од страв"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "од зло"
+    }
+  ],
+  "timestamp": "2026-10-19T23:56:34.238640766Z",
+  "model": "glm-5.3"
+}

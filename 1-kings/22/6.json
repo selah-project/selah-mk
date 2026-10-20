@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 22:6",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ќе",
+      "rationale": "македонскиот идно време бара помошен глагол, хебрејскиот нема"
+    },
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "објектната клитика е додадена, хебрејскиот ја нема пред «даде»"
+    },
+    {
+      "kind": "you",
+      "subject": "пороците",
+      "rationale": "царот им се обраќа директно на пророците со прашање"
+    }
+  ],
+  "translation": "И царот на Јисраел ги собра ⟨את⟩ пророците, околу четиристотини мажи, и им рече: Да одам ли на Рамот Гилад во битка, или да престанам? И тие рекоа: Крани, и Адонај ⟨ќе⟩ го даде во раката на царот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "371f3e4948ddd1ebaba1a10e65f7045631d0bd27df869e45a6ceaa1bef07d569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/22\/5-8.1792448998273.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "ги собра"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пороците"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "пороците"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "околу четири"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотини"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мажи"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и им рече"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "да одам ли"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Рамот"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилад"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "во битка"
+    },
+    {
+      "surface": "אם",
+      "gloss": "или"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "да престанам"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и тие рекоа"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Крани"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и ⟨ќе⟩ го даде"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "во раката"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:29:58.274722290Z",
+  "model": "glm-5.3"
+}

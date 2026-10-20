@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "македонскиот ги бара клитиките за предметот кај ⟨את⟩ заветот мој"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואתה … אתה",
+      "rationale": "двојното „ти“ на почетокот и средината — нагласување на адресатот, задржано"
+    }
+  ],
+  "translation": "И рече Елохим на Аврахам: а ти — ⟨את⟩ заветот мој ќе го пазиш, ти и семето твое по тебе, низ родовите нивни.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "830bf8de48cd4b90be25c13d566580a155d0cba7b29fc22b571c328057bde33b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/17\/9-12.1792442558359.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "заветот мој"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "заветот мој"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ќе пазиш"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "и семето твое"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "по тебе"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "низ родовите нивни"
+    }
+  ],
+  "timestamp": "2026-10-19T20:42:38.391323759Z",
+  "model": "glm-5.3"
+}

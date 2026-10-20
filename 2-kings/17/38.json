@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-kings 17:38",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "склучив завет",
+      "rationale": "„да исечеш завет“ = да склучиш завет; буквалното сечење би збунело"
+    }
+  ],
+  "translation": "и заветот што го склучив со вас ⟨את⟩ — не заборавајте го, и не плашете се од други богови.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e1f0d0896f67be67ab4c4bea895a697e8112a2b9ef3580a9efd9aba7d6f0423c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/17\/37-40.1792449390802.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והברית",
+      "gloss": "и заветот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "склучив"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "заборавајте"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "плашете се"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богови"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "други"
+    }
+  ],
+  "timestamp": "2026-10-19T22:36:30.804364529Z",
+  "model": "glm-5.3"
+}

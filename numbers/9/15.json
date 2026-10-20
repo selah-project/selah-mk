@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мишкан",
+      "rationale": "משכן стои како шатор-становиште, глосата го чува зборот а не „шатор“"
+    }
+  ],
+  "translation": "И во денот кога го подигнаа ⟨את⟩ мишканот, облакот го покри ⟨את⟩ мишканот, шаторот на сведоштвото; и во вечерните часови беше врз мишканот како изглед на оган до утрото.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "107642ca5dee90ccb1b9725a0fa3826d2c7ad0883183103c79151034008da2c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/9\/13-16.1792444720770.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "И во денот"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "го подигнаа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мишканот"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "мишканот"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "го покри"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "облакот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мишканот"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "мишканот"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "шаторот"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "на сведоштвото"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "и во вечерните часови"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "мишканот"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "како изглед"
+    },
+    {
+      "surface": "אש",
+      "gloss": "на оган"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "утрото"
+    }
+  ],
+  "timestamp": "2026-10-19T21:18:40.772494271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 49:12",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומים",
+      "rationale": "'и од море' (= запад, YLT) vs 'и од запад' — морето е западниот地标; задржано буквално."
+    },
+    {
+      "kind": "crux",
+      "subject": "סינים",
+      "rationale": "Синим: непозната далечна земја — Кина (Син) според некои, Асуан\/Етиопија според други."
+    },
+    {
+      "kind": "you",
+      "subject": "до читателот",
+      "rationale": "тројното 'ене, овие' директно го повикува гледачот да го види враќањето."
+    }
+  ],
+  "translation": "Ене, овие оддалеку ќе дојдат, и ене, овие од север и од море, и овие од земјата Синим.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7f4086d9c5a2a6125499986a54837830c95fae4f1cf39a2f3997a8c37f02a3cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/49\/9-12.1792450155480.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ене"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "оддалеку"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ќе дојдат"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ене"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "од север"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "и од море"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "и овие"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "סינים",
+      "gloss": "Синим"
+    }
+  ],
+  "timestamp": "2026-10-19T22:49:15.482342142Z",
+  "model": "glm-5.3"
+}

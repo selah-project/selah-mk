@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 24:9",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨тие⟩",
+      "rationale": "хебрејскиот нема именка — глаголот והיתа носи предметот од претходниот стих"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "суперлатив низ повторување на ист корен — светост-на-светости"
+    }
+  ],
+  "translation": "И ⟨тие⟩ ќе бидат за Ахарон и за синовите негови, и ќе ги јадат на место свето, зашто светост на светости е тоа нему — од огнените дарови на Јахве, наредба вечна.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "047fa15ed21e9e729c53e9308fb1c673d0f8cf731bc1e88d3858209807430370",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/24\/9-12.1792444476662.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "и ќе бидат"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "за Ахарон"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "и за синовите негови"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "и ќе ги јадат"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "на место"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свето"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "светост"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "на светости"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е тоа"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "од огнените дарови"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "חק",
+      "gloss": "наредба"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечна"
+    }
+  ],
+  "timestamp": "2026-10-19T21:14:36.662917794Z",
+  "model": "glm-5.3"
+}

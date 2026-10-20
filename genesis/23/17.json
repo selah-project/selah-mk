@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 23:17",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот ги нема формите на сегашното време „да е“ во релативните реченици"
+    },
+    {
+      "kind": "measurement",
+      "subject": "граница наоколу",
+      "rationale": "правно точно определување на границите на имотот што се пренесува"
+    }
+  ],
+  "translation": "И се утврди полето на Ефрон што ⟨е⟩ во Махпела, што ⟨е⟩ пред Мамре — полето и пештерата што е во него, и секое дрво што ⟨е⟩ на полето, што ⟨е⟩ во целата негова граница наоколу.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ade1faa765ae617b9c1f9c73aeec578e005fb612bedfdb608b815e83c41af3c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/23\/17-20.1792442645718.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "се утврди"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "полето"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "на Ефрон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "במכפלה",
+      "gloss": "во Махпела"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "Мамре"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "полето"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "и пештерата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בו",
+      "gloss": "во него"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и секое"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "на полето"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во целата"
+    },
+    {
+      "surface": "גבלו",
+      "gloss": "негова граница"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколу"
+    }
+  ],
+  "timestamp": "2026-10-19T20:44:05.719773181Z",
+  "model": "glm-5.3"
+}

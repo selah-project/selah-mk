@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Белијал",
+      "rationale": "בליעל како лично име (Белијал) или како придавка 'беззаконија\/ништожност' — KJV 'ungodly men' наспроти JPS 'Belial'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפפני\/יבעתני",
+      "rationale": "два глагола од ист ред завршуваат на -ני (мене), паралелизам загубен во македонскиот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "брановите",
+      "rationale": "משבר е буквално 'она што се крши' — бран што се разбива."
+    }
+  ],
+  "translation": "Зашто ме опколија брановите на смртта, потоците на Белијал ме исплашија.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b65ca0144051ef5bc38f683dc73604406e7f894bd97708628f44c79ec5eee71b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/22\/5-8.1792448397069.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "ме опколија"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "брановите"
+    },
+    {
+      "surface": "מות",
+      "gloss": "на смртта"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "потоците"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "на Белијал"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "ме исплашија"
+    }
+  ],
+  "timestamp": "2026-10-19T22:19:57.069942655Z",
+  "model": "glm-5.3"
+}

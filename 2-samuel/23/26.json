@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "список на триесетте",
+      "rationale": "Продолжение на именуваните храбри луѓе."
+    }
+  ],
+  "translation": "Хелец Палтиецот, Ира син на Икеш Текоецот,",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2b70794b0fed04434bc98ffa9f52a39473a07c89dc8847576e14e1aa8ddacdf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/23\/25-28.1792448473907.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "Хелец"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "Палтиецот"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "Ира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "Икеш"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "Текоецот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:21:13.908442514Z",
+  "model": "glm-5.3"
+}

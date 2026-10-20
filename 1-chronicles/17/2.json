@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Македонскиот бара глагол-врска во двете реченици што хебрејскиот ги остава без глагол."
+    },
+    {
+      "kind": "you",
+      "subject": "Натан до Давид",
+      "rationale": "Директен повик — заповед од пророкот кон Давид."
+    }
+  ],
+  "translation": "И рече Натан на Давид: Сè што ⟨е⟩ во срцето твое, прави, зашто Елохим ⟨е⟩ со тебе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "287722a0e1f603d0e56eb133e2a293d7a8f64ec5518a9387296a0bf4bd2643b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/17\/1-4.1792457102247.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "во срцето твое"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "прави"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨е⟩ со тебе"
+    }
+  ],
+  "timestamp": "2026-10-20T00:45:02.248981810Z",
+  "model": "glm-5.3"
+}

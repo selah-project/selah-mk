@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 34:28",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "клитика за македонскиот Clintички среден член — хебрејскиот нема таков"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אסף אל אבות",
+      "rationale": "„да биде собран кај татковците“ — хебрејски евфемизам за умирање"
+    }
+  ],
+  "translation": "Еве, Јас ќе те соберам кај татковците твои и ќе бидеш собран кај гробовите твои во мир, и очите твои нема да го видат целото зло што Јас ќе го донесам врз ова место и врз жителите негови. И ѝ вратија на царот ⟨את⟩ зборот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bfe03f4d35e4171b8b866c7b615c4d5de45299f643b0f28652a8d4636eed0009",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/34\/25-28.1792457908017.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "אספך",
+      "gloss": "Ќе те соберам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "татковците твои"
+    },
+    {
+      "surface": "ונאספת",
+      "gloss": "и ќе бидеш собран"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "קברתיך",
+      "gloss": "гробовите твои"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "во мир"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "да видат"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "очите твои"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "целото"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ќе донесам"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "местото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "ישביו",
+      "gloss": "жителите негови"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "И вратија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зборот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:58:28.019223473Z",
+  "model": "glm-5.3"
+}

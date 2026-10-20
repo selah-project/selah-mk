@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 15:2",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "јазикот",
+      "rationale": "הלשונ значи буквално „јазик“ — заливот во облик на јазик; традицијата преведува „залив“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "границата на југ",
+      "rationale": "Опис на граница — мерење на територија на Јуда."
+    }
+  ],
+  "translation": "И им беше границата на југ ⟨од⟩ крајот на морето, соленото, од јазикот ⟨што⟩ се обрнува кон југ.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a2878969131f869c05f46526fee9adabc222df6d1ae4f9610fa4f2fe4ff63540",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/15\/2-4.1792447769816.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границата"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "на југ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "крајот"
+    },
+    {
+      "surface": "ים",
+      "gloss": "морето"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "соленото"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הלשן",
+      "gloss": "јазикот"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "се обрнува"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "кон југ"
+    }
+  ],
+  "timestamp": "2026-10-19T22:09:29.818218053Z",
+  "model": "glm-5.3"
+}

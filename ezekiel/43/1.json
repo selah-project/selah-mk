@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 43:1",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "conjunction",
+      "rationale": "Хебрејскиот воведен дел е прикажан со македонски сврзник „И“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שער … שער",
+      "rationale": "Двојно повторување на „портата“ — повторување задржано буквално"
+    }
+  ],
+  "translation": "И ме доведе до портата, портата што гледа кон патот на истокот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "00968a3da83cfe230019e70617d5e6bf262d48d99cf3b3d691d71ce96820e221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/43\/1-4.1792452040310.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "ме доведе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "השער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "гледа"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "патот на"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "истокот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:20:40.311275141Z",
+  "model": "glm-5.3"
+}

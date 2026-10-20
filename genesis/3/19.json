@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 3:19",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפיך",
+      "rationale": "Буквално „носните твои“; „лицето“ е вообичаена замена за אף."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עפר...עפר \/ שובך...תשוב",
+      "rationale": "Повтор на „прашина“ и коренот шув (врати) — хијазна рамнотежа, во македонскиот делумно задржана."
+    }
+  ],
+  "translation": "Со потот на лицето свој леб ќе јадеш, додека не се вратиш во земјата, зашто од неа си земен; зашто прашина си, и во прашина ќе се вратиш.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3fdb2e879de77b297ff306e1421934778d6cc48151c070d6e5dfa39e976115e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/3\/17-20.1792442417465.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בזעת",
+      "gloss": "Со потот"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "на лицето свој"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ќе јадеш"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "не се вратиш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "од неа"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "си земен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прашина"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и во"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прашина"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ќе се вратиш"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:17.467907016Z",
+  "model": "glm-5.3"
+}

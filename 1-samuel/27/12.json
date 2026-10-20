@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 27:12",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הבאש הבאיש",
+      "rationale": "Инфинитивен апсолут — истиот глагол двапати за засилување: 'смради — осмороди', букв. 'смрди ужасно'"
+    },
+    {
+      "kind": "crux",
+      "subject": "הבאיש בעמו",
+      "rationale": "KJV 'ги натера да го мразат' (каузативно на народот); букв. 'се осмреди во\/меѓу својот народ'"
+    }
+  ],
+  "translation": "И Акиш му поверува на Давид, велејки: Совсем се осмради меѓу својот народ, меѓу Јисраел, и ќе ми биде слуга засекогаш.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "21f5b79f83a9556ddbfa59a0e44b2a849ec3f5cff225d02a2fd3e248b1076309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/27\/9-12.1792448011313.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "поверува"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Акиш"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејки"
+    },
+    {
+      "surface": "הבאש",
+      "gloss": "Совсем се осмради"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "осмороди"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "меѓу својот народ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "меѓу Јисраел"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "слуга"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "засекогаш"
+    }
+  ],
+  "timestamp": "2026-10-19T22:13:31.316345461Z",
+  "model": "glm-5.3"
+}

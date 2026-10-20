@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "להתעולל\/עללות",
+      "rationale": "Инфинитив и именка од ист корен עלל — 'да правам правења', повторување изгубено во македонскиот."
+    },
+    {
+      "kind": "crux",
+      "subject": "ובל אלחם",
+      "rationale": "'и да не јадам' (негација) наспроти читањето 'да, ќе јадам' (YLT) — контекстот бара забрана."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ништожност",
+      "rationale": "און значи 'ништожност, суета' — не само 'беззаконие'."
+    }
+  ],
+  "translation": "Не склонувај го срцето мое кон лоша работа, да правам злодела во беззаконието, ⟨את⟩ луѓе што прават ништожност; и да не јадам од задоволствата нивни.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d8d5ab5faecd126e6dd5f69cf8d88ebaaed02bba0296454339c2cfc5c4280d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/141\/1-4.1792454170997.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תט",
+      "gloss": "склонувај"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "срцето мое"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "кон работа"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лоша"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "да правам"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "злодела"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "во беззаконието"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "луѓе"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "луѓе"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "што прават"
+    },
+    {
+      "surface": "און",
+      "gloss": "ништожност"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "јадам"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "од задоволствата нивни"
+    }
+  ],
+  "timestamp": "2026-10-19T23:56:10.999581068Z",
+  "model": "glm-5.3"
+}

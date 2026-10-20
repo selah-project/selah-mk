@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 1:39",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Да живее царот Шеломо",
+      "rationale": "народот го повикува царот со повик за долг живот"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וימשח \/ משיח",
+      "rationale": "истиот корен 'помаза' — Шеломо е помазаник, ист корен како машиах"
+    }
+  ],
+  "translation": "И зеде Цадок свештеникот ⟨את⟩ рогот со маслото од шаторот, и го помаза ⟨את⟩ Шеломо, и засвирија во шофар, и рече сиот народ: Да живее царот Шеломо!",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6561b2ec2175bd463c3a49a1ee05f955c81992c8af60e91b029366e1c5635614",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/1\/37-40.1792448505701.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "и зеде"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рогот"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "рогот"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "со маслото"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "шаторот"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "и го помаза"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шеломо"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "ויתקעו",
+      "gloss": "и засвирија"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "во шофар"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и речеа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сиот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "да живее"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    }
+  ],
+  "timestamp": "2026-10-19T22:21:45.703804692Z",
+  "model": "glm-5.3"
+}

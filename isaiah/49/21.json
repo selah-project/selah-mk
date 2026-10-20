@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 49:21",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сума",
+      "rationale": "מלבדי 'сам' повторен; македонскиот бара глаголска поврзаница меѓу придавките"
+    },
+    {
+      "kind": "mystery",
+      "subject": "овие — каде се тие?",
+      "rationale": "стихот е потпрашан astonishment: Сион гледа деца чие потекло не знае"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכולה וגלמודה",
+      "rationale": "пар од придавки за празнина — 'лишена и сама' — ритмичко двојство"
+    }
+  ],
+  "translation": "И ќе речеш во срцето свое: Кој ми ги роди ⟨את⟩ овие? А јас — лишена од деца и сама, прогонета и оддалечена; а овие — кои ги одгледа? Ете, јас останав сама; овие — каде се тие?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "70de0d7e86fc71dd516889b0159ebc6c6b11a93cd4b299aa73c7a3456fa3bd09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/49\/21-24.1792450179857.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "И ќе речеш"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "во срцето свое"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "овие"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а јас"
+    },
+    {
+      "surface": "שכולה",
+      "gloss": "лишена од деца"
+    },
+    {
+      "surface": "וגלמודה",
+      "gloss": "и сама"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "прогонета"
+    },
+    {
+      "surface": "וסורה",
+      "gloss": "и оддалечена"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "а овие"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кои"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "одгледа"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ете"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "נשארתי",
+      "gloss": "останав"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "сама"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "каде"
+    },
+    {
+      "surface": "הם",
+      "gloss": "тие"
+    }
+  ],
+  "timestamp": "2026-10-19T22:49:39.860071800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "пасишта",
+      "rationale": "מגרש — отворена околина за стада"
+    },
+    {
+      "kind": "measurement",
+      "subject": "список градови",
+      "rationale": "продолжува листата на левитски градови по племиња"
+    }
+  ],
+  "translation": "И од племето Ашер: ⟨את⟩ Машал со пасиштата свои, и ⟨את⟩ Авдон со пасиштата свои.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7d183e3392cc66c0c43405ff7617cf7c49e85fc77036620e22c6f04c76a1ed05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/6\/57-60.1792456906249.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "и од племето"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Машал"
+    },
+    {
+      "surface": "משל",
+      "gloss": "Машал"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "пасиштата свои"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "со пасиштата свои"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Авдон"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Авдон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "пасиштата свои"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "со пасиштата свои"
+    }
+  ],
+  "timestamp": "2026-10-20T00:41:46.250569742Z",
+  "model": "glm-5.3"
+}

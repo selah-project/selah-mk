@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מאשרי",
+      "rationale": "корен אשר: „они што одат право\/водат“ (KJV, JPS) vs „они што го нарекуваат среќен\/благословуваат“ (букв., како YLT „eulogists“)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשר\/מתעים",
+      "rationale": "коренот „прав, напред“ спротивставен на „скршнува, лута“ — спротивството се губи во македонскиот"
+    }
+  ],
+  "translation": "И оние што го водат овој народ пуштаат ⟨го⟩ во заблуда, а оние што се водени од нив се проголтани.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "42ca7d0bca494e704e552907524bdd4fd1cd418ef68f4569c31a7e8e373fbe14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/9\/13-16.1792449650719.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "што го водат"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "пуштаат во заблуда"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "а оние што се водени од нив"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "проголтани"
+    }
+  ],
+  "timestamp": "2026-10-19T22:40:50.721564666Z",
+  "model": "glm-5.3"
+}

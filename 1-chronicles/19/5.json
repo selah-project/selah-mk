@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 19:5",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до повратените мажи",
+      "rationale": "Царот директно им се обраќа на засрамените гласници: седете, израснете, вратете се."
+    }
+  ],
+  "translation": "И отидоа и му соопштија на Давид за мажите, а тој испрати ⟨да ги⟩ пресретне, зашто мажите беа многу засрамени. И царот рече: седете во Јерихо додека ви израсте брадата, и тогаш вратете се.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f4cb67fd85b37ba5e111b527b31a655a4c2e9ba872c8605606bd8491895fcedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/19\/5-8.1792457158747.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "и отидоа"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "и соопштија"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "мажите"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и испрати"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "да ги пресретне"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "היו",
+      "gloss": "беа"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "мажите"
+    },
+    {
+      "surface": "נכלמים",
+      "gloss": "засрамени"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "седете"
+    },
+    {
+      "surface": "בירחו",
+      "gloss": "во Јерихо"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "да"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "израсте"
+    },
+    {
+      "surface": "זקנכם",
+      "gloss": "брадата ваша"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "и вратете се"
+    }
+  ],
+  "timestamp": "2026-10-20T00:45:58.748116849Z",
+  "model": "glm-5.3"
+}

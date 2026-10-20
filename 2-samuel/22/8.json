@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 22:8",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ותגעש\/ויתגעשו",
+      "rationale": "коренот געש се повторува на почетокот и крајот на стихот — инклюзија околу сликата на потрес."
+    },
+    {
+      "kind": "idiom",
+      "subject": "חרה לו",
+      "rationale": "буквално 'му загрева\/пламнува' — идиом за разгорен гнев."
+    },
+    {
+      "kind": "elision",
+      "subject": "зашто му разгоре гневот",
+      "rationale": "хебрејскиот не вели на кого му разгоре гневот — предметот е прескокнат во изворникот."
+    }
+  ],
+  "translation": "И се затресе и потрепери земјата, темелите на небото се поколебаа и се затресоа, зашто му разгоре гневот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b65ca0144051ef5bc38f683dc73604406e7f894bd97708628f44c79ec5eee71b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/22\/5-8.1792448397069.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "И се затресе"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "и потрепери"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "темелите"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "на небото"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "се поколебаа"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "и се затресоа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "му разгоре гневот"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-10-19T22:19:57.070597331Z",
+  "model": "glm-5.3"
+}

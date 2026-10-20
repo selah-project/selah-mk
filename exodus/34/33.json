@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "Хебрејскиот предлог 'со нив' (H854), задржан како ⟨את⟩ според правилото за овој збор"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מסוה",
+      "rationale": "'превез' — збор што во Танах се јавува само во овој наратив (Излез 34)"
+    }
+  ],
+  "translation": "И кога Моше заврши да зборува ⟨את⟩ нив, стави на лицето свое превез.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "4aa8508be69368953ec3ba37530f3ff8c79389f62ceabe09401fb2354c5966b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/34\/33-35.1792443868178.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "заврши"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "да зборува"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "стави"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицето свое"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "превез"
+    }
+  ],
+  "timestamp": "2026-10-19T21:04:28.180753212Z",
+  "model": "glm-5.3"
+}

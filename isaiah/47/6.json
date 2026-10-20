@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 47:6",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "своето",
+      "rationale": "Присвојна заменица додадена за јасност — јаремот е на Вавилон, што хебрејскиот го подразбира."
+    },
+    {
+      "kind": "crux",
+      "subject": "על זקן",
+      "gloss-note": "",
+      "rationale": "Буквално 'врз старец' — еднина колективна: 'на старците' (KJV 'the ancient') vs 'стариот народ' (Израел како стар народ)."
+    },
+    {
+      "kind": "elision",
+      "subject": "עלך",
+      "rationale": "Словото עֻלֵּךְ е 'јаремот твој' во смисла 'твоето владеење'; македонскиот бара префрлување на службата на зборот."
+    }
+  ],
+  "translation": "Се разгневив на народот свој, го осквернав ⟨את⟩ наследството свое и ги дадов во раката твоја; ти не им стави милост, на старец си го натежна своето јарем многу.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "907573ff3d314b66abf3ee49a641c6fed5d20e777e0aa95f7a67dea234ff0132",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/47\/5-8.1792450175713.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קצפתי",
+      "gloss": "се разгневив"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народот свој"
+    },
+    {
+      "surface": "חללתי",
+      "gloss": "осквернав"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "наследството свое"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "и ги дадов"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "во раката твоја"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "стави"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "милост"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "старец"
+    },
+    {
+      "surface": "הכבדת",
+      "gloss": "натежна"
+    },
+    {
+      "surface": "עלך",
+      "gloss": "своето јарем"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    }
+  ],
+  "timestamp": "2026-10-19T22:49:35.714543252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 8:1",
+  "book": "song-of-songs",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתנך",
+      "rationale": "буквално „Кој би те дал“ — хебрејски пожелен израз, „да можеше некој да те направи“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יונק שדי אמי",
+      "rationale": "слика на брат што суче од иста мајка — интимност без срам, темата на стихот."
+    }
+  ],
+  "translation": "Кој би те дал како брат ми, што цицаше од градите на мајка ми! Ќе те најдев надвор, ќе те бакнев, и нема да ме презрат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/song-of-songs\/8\/1-4.1792455463589.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "יתנך",
+      "gloss": "би те дал"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "како брат"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "цицаше"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "градите"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "на мајка ми"
+    },
+    {
+      "surface": "אמצאך",
+      "gloss": "ќе те најдев"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "надвор"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "ќе те бакнев"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "да презрат"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    }
+  ],
+  "timestamp": "2026-10-20T00:17:43.590007379Z",
+  "model": "glm-5.3"
+}

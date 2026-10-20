@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nahum 3:8",
+  "book": "nahum",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Но-Амон",
+      "rationale": "Но = Теба, главен град на Горен Мицраим; 'Но на Амон' — градот на богот Амон"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот номинален изрек без копула; македонскиот ја бара двапати"
+    },
+    {
+      "kind": "invitation",
+      "subject": "до Ниневе",
+      "rationale": "реторичко прашање што ја повикува Ниневе да спореди судбина со Теба"
+    }
+  ],
+  "translation": "Дали си подобра од Но-Амон, што седеше меѓу реките, води наоколу неа, чиј бедем ⟨е⟩ морето, вода ⟨е⟩ ѕидот нејзин?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6176f93705001e8f1b3bb52693a290632d059bea6e2fbfd0bf3dafa0b2f1cc35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nahum\/3\/5-8.1792452640482.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התיטבי",
+      "gloss": "Дали си подобра"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "од Но"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Амон"
+    },
+    {
+      "surface": "הישבה",
+      "gloss": "што седеше"
+    },
+    {
+      "surface": "ביארים",
+      "gloss": "меѓу реките"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколу"
+    },
+    {
+      "surface": "לה",
+      "gloss": "неа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чиј"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "бедем"
+    },
+    {
+      "surface": "ים",
+      "gloss": "морето"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "חומתה",
+      "gloss": "ѕидот нејзин"
+    }
+  ],
+  "timestamp": "2026-10-19T23:30:40.483356241Z",
+  "model": "glm-5.3"
+}

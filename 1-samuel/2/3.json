@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 2:3",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גבהה גבהה",
+      "rationale": "удвојување 'надмени и надмени' — повторување за нагласување, задржано"
+    },
+    {
+      "kind": "substitution",
+      "subject": "и Нему се мерат",
+      "rationale": "ולא נתכנו буквално 'и не се измерени' — мерачот е Јахве; македонскиот бара изричен датив"
+    },
+    {
+      "kind": "addition",
+      "subject": "всакакви",
+      "rationale": "עללות е без придавка; македонскиотplural бара тоа, задржано во заграда не е — слободно"
+    },
+    {
+      "kind": "you",
+      "subject": "до надмените",
+      "rationale": "обраќање во множина кон неименувани говорници"
+    }
+  ],
+  "translation": "Не мнодете зборови надмени и надмени, да не излезе дрскост од устата ваши, зашто Ел на знаењата е Јахве, и Нему се мерат ⟨всакакви⟩ дела.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "de876f4b77ed6ae946f0fbcb09ebde86173e2e0da637a189c61241495c1bd821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/2\/1-4.1792446665343.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרבו",
+      "gloss": "мнодете"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "зборови"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "надмени"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "и надмени"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излезе"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "дрскост"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "од устата ваши"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "דעות",
+      "gloss": "на знаењата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и Нему"
+    },
+    {
+      "surface": "נתכנו",
+      "gloss": "се мерат"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "дела"
+    }
+  ],
+  "timestamp": "2026-10-19T21:51:05.344062217Z",
+  "model": "glm-5.3"
+}

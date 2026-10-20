@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 22:4",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до околните",
+      "rationale": "Исаја им забранува да го тешат — директен повик до слушателите."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ќерката на народот мој",
+      "rationale": "בת е хебрејски идиом за припадност („ќерка на Сион“), не буквална ќерка."
+    }
+  ],
+  "translation": "Затоа реков: одвратете се од мене, горко ќе плачам; не настојувајте да ме тешите за разорувањето на ќерката на народот мој.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b3e4ea3d07311a81b849e0c79b10142bf06d4098aa7c5770fa2ba336fa6ef54b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/22\/1-4.1792449817538.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "реков"
+    },
+    {
+      "surface": "שעו",
+      "gloss": "одвратете се"
+    },
+    {
+      "surface": "מני",
+      "gloss": "од мене"
+    },
+    {
+      "surface": "אמרר",
+      "gloss": "горко"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ќе плачам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאיצו",
+      "gloss": "настојувајте"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "да ме тешите"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "שד",
+      "gloss": "разорувањето"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерката"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "на народот мој"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:37.542963881Z",
+  "model": "glm-5.3"
+}

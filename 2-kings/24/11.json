@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 24:11",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "го опседнуваа",
+      "rationale": "учесниот партицип צרים може и презентно „додека опседнуваа“ — и двете верни на имперфектниот аспект."
+    },
+    {
+      "kind": "substitution",
+      "subject": "него",
+      "rationale": "עליה е женски за העיר („градот“, женски во хебрејскиот); македонскиот „градот“ е машки."
+    }
+  ],
+  "translation": "И Невухаднецар, царот на Вавилон, дојде против градот, а слугите негови го опседнуваа.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "3ad16510bc1d15d94d1d5e5aeafc43e2bbbdb70e03cd8d2fbd51ade10da27b99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/24\/9-12.1792449462417.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и дојде"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Невухаднецар"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "а слугите негови"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "го опседнуваа"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "него"
+    }
+  ],
+  "timestamp": "2026-10-19T22:37:42.419713989Z",
+  "model": "glm-5.3"
+}

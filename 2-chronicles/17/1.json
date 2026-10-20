@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 17:1",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויתחזק על",
+      "rationale": "букв. 'се зацврсти над' — 'се укрепи спроти', воено-политички значење"
+    }
+  ],
+  "translation": "И зацари се Јехошафат, синот негов, наместо него, и се укрепи спроти Јисраел.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7b5ea309d59084b46c53454c6192c384d8fb9f88ad74e00382ed9d09a604a8db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/17\/1-4.1792457596202.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "зацари се"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Јехошафат"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот негов"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "наместо него"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "се укрепи"
+    },
+    {
+      "surface": "על",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-20T00:53:16.204145600Z",
+  "model": "glm-5.3"
+}

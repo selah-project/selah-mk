@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בנה בניתי",
+      "rationale": "инфинитивен апсолутив пред глаголот — „градејќи изградив“, потврда што македонскиот ја носи со герунд"
+    },
+    {
+      "kind": "hapax",
+      "subject": "זבול",
+      "rationale": "реткор збор за „високо жителелиште“ — зачуван дословно, не како „жилиште“"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עולמים",
+      "rationale": "множина задржана дословно („во вечностите“); вообичаеното „довека“ ја губи множината"
+    }
+  ],
+  "translation": "Градејќи изградив дом, жителелиште за Тебе, утврдено место за Твоето седење во вечностите.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/8\/13-16.1792448690811.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "градејќи"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "изградив"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "жителелиште"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за Тебе"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "утврдено место"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "за Твоето седење"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "во вечностите"
+    }
+  ],
+  "timestamp": "2026-10-19T22:24:50.812913624Z",
+  "model": "glm-5.3"
+}

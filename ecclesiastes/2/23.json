@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "хебрејскиот номинален исказ без копула"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם ... גם",
+      "rationale": "повторен „исто така“ ја нагласува двојната мака — ден и ноќ"
+    }
+  ],
+  "translation": "Зашто сите негови дни ⟨се⟩ болки и огорченост — занimaњето негово; и ноќе срцето негово не легнува; и ова е хевел.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6344e3e345b785b70ac819c376d0550f4fbadc5e4f69f5e0995771578cbed3a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/2\/21-24.1792455692946.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "негови-дни"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "болки"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "и-огорченост"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "занимањето-негово"
+    },
+    {
+      "surface": "גם",
+      "gloss": "исто-така"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ноќе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "легнува"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срцето-негово"
+    },
+    {
+      "surface": "גם",
+      "gloss": "исто-така"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хевел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е"
+    }
+  ],
+  "timestamp": "2026-10-20T00:21:32.947607836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 5:8",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до царот на Јисраел",
+      "rationale": "пораката на Елише директно му се обраќа на царот со „ги раздра облеките свои“"
+    }
+  ],
+  "translation": "И биде, кога чу Елише, човекот на Елохим, дека царот на Јисраел ги раздра ⟨את⟩ облеките свои, дека испрати до царот, велејќи: Зошто ги раздра облеките свои? Нека дојде, ве молам, кај мене, и ќе знае дека има пророк во Јисраел.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b39ec450498b7878d187663b08778aa418eb799bde7d1f8214433cc4b1c05f9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/5\/5-8.1792449194010.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "кога чу"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Елише"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "раздра"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "облеките свои"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "облеките свои"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "испрати"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Зошто"
+    },
+    {
+      "surface": "קרעת",
+      "gloss": "ги раздра"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "облеките свои"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "Нека дојде"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ве молам"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "кај мене"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "и ќе знае"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "во Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T22:33:14.012253014Z",
+  "model": "glm-5.3"
+}

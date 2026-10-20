@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "машא",
+      "rationale": "משא значи „бреме\/утовар“; традицијата го преведува како „пророштво“ или „изрека“ — ние го чуваме бремето."
+    },
+    {
+      "kind": "you",
+      "subject": "до Лемуел",
+      "rationale": "Насловот намајчиното поучение упатено директно на царот Лемуел."
+    }
+  ],
+  "translation": "Зборовите на Лемуел, царот — бременото што го поучуваше мајка му.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dde9941be6f30a67e18cc6bb786b08eee80d9b202a3e0788ab97bcc64ada7b1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/31\/1-4.1792454787372.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Зборовите"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Лемуел"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "משא",
+      "gloss": "бременото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "го поучуваше"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "мајка му"
+    }
+  ],
+  "timestamp": "2026-10-20T00:06:27.372570462Z",
+  "model": "glm-5.3"
+}

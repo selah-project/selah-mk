@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 15:8",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "סוד е затворениот совет на Елоах — тајното собирање што само доверниците го слушаат."
+    },
+    {
+      "kind": "crux",
+      "subject": "задржуваш",
+      "rationale": "ותגרע: 'одземаш\/намалуваш за себе' (KJV restrain) наспроти 'прибираш кон себе' (YLT withdrawest unto thee)."
+    }
+  ],
+  "translation": "Во советот на Елоах ли слушаш, и мудроста кон тебе ли ⟨ја⟩ задржуваш?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ff5ce7bb52185549f9a8869c1bb6a6d741a105e1176fff4db1430e744a0b876f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/15\/5-8.1792454997326.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבסוד",
+      "gloss": "во советот ли"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "на Елоах"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "слушаш"
+    },
+    {
+      "surface": "ותגרע",
+      "gloss": "и задржуваш"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "кон тебе"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:57.327090145Z",
+  "model": "glm-5.3"
+}

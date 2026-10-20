@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 5:13",
+  "book": "ezra",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "првата година",
+      "rationale": "датирање по година од владеењето на цар —(argamaic) црковно-административен штемпел."
+    },
+    {
+      "kind": "crux",
+      "subject": "наредба",
+      "rationale": "טעם буквално 'вкус\/умисла'; тука управен документ за уред\/декрет."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Елоах",
+      "rationale": "арамејски אלהא е арамејската форма на Елохим — се пишува според звукот, не како 'Бог'."
+    }
+  ],
+  "translation": "Но во првата година на Кореш, царот на Вавилон, Кореш царот постави наредба домот на Елоах овој да се гради.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a07c4da2ceeef8267fb0cd0b22fdda7c4bf63bc54d8d591390e6d80d784cf694",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezra\/5\/13-16.1792456386948.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברם",
+      "gloss": "но"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "во годината"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "првата"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "на Кореш"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царот"
+    },
+    {
+      "surface": "די",
+      "gloss": "на"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Кореш"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царот"
+    },
+    {
+      "surface": "שם",
+      "gloss": "постави"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "наредба"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "на Елоах"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "לבנא",
+      "gloss": "да се гради"
+    }
+  ],
+  "timestamp": "2026-10-20T00:33:06.949120849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 17:19",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מועד \/ אועד \/ העדות",
+      "rationale": "Корен יעד трепти низ стихот: средба, сретнувам, сведоштво — врска делумно видлива и во македонскиот."
+    },
+    {
+      "kind": "addition",
+      "subject": "таму",
+      "rationale": "שמה стои во хебрејскиот, но дуплира 'каде што' — задржано буквално."
+    }
+  ],
+  "translation": "И положи ги во шаторот на средба, пред Сведоштвото, каде што се сретнувам со вас таму.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "311995ed6b0b32fe61cdabbbf9bd2941a5e834f9f60b42746d99649d9a7c459f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/17\/17-20.1792444890614.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנחתם",
+      "gloss": "И положи ги"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "во шаторот"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на средба"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "Сведоштвото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "каде што"
+    },
+    {
+      "surface": "אועד",
+      "gloss": "се сретнувам"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "со вас"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "таму"
+    }
+  ],
+  "timestamp": "2026-10-19T21:21:30.615873023Z",
+  "model": "glm-5.3"
+}

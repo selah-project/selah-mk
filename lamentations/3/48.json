@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "lamentations 3:48",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "се лее",
+      "rationale": "תרד е буквално 'слегува надолу'; сликата е солзи што течат како потоци."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ќерката на моиот народ",
+      "rationale": "בת עמי — 'ќерка' како метафора за населението\/градот на народот."
+    }
+  ],
+  "translation": "Потоци вода се лее окото ми над рушењето на ќерката на моиот народ.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bc3272500cc2d099ec1727de19608bdb913fbeb679742c6995389a35ebef79a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/3\/45-48.1792455633532.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "потоци"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "се лее"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "окото ми"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "рушењето"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерката"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "на моиот народ"
+    }
+  ],
+  "timestamp": "2026-10-20T00:20:33.533607392Z",
+  "model": "glm-5.3"
+}

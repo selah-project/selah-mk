@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יודע ליהוה",
+      "rationale": "'познат на Јахве' или 'познат како на Јахве' (JPS) — единствен ден што само Јахве го знае."
+    },
+    {
+      "kind": "mystery",
+      "subject": "не ден и не ноќ",
+      "rationale": "Делумно затворено време — границата меѓу денот и ноќта е поништена."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨има⟩",
+      "rationale": "Македонскиот бара глагол што хебрејскиот го изостава ('јави се светлина')."
+    }
+  ],
+  "translation": "И ќе биде един ден — тој е познат на Јахве: не ден и не ноќ; и ќе биде: во време на вечер ќе ⟨има⟩ светлина.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b258840484ae823704d9b8384173f58fc8b481d88537af792898bf01c0a50d82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/14\/5-8.1792452888266.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "е познат"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноќ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "во време на"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "вечер"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе има"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светлина"
+    }
+  ],
+  "timestamp": "2026-10-19T23:34:48.267798342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 17:11",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בנפש יכפר",
+      "rationale": "„покрива преку неферта“ наспроти „за нефеш“ — ASV\/JPS: „by reason of the life“; македонскиот го чува буквалистичкиот ред"
+    },
+    {
+      "kind": "substitution",
+      "subject": "покрие",
+      "rationale": "כפר буквално „покрива“ (катран); преводите често даваат „помирува\/искупува“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "нефеш",
+      "rationale": "נפש не е „душа“ во подоцнежна смисла, туку животна сила, дишење"
+    }
+  ],
+  "translation": "Зашто нефеш на телото — во крвта е, и Јас ви ја дадов вам на олтарот, да покрие за вашите нефешоти; зашто крвта — таа во неферта покрива.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f19a24019036afff89b4c8810e97f6bf4a2359bc1cad1336dfeb65665e507cfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/17\/9-12.1792444380322.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "на телото"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "во крвта"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "и Јас"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ја дадов"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "олтарот"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "да покрие"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "вашите нефеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "крвта"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "во неферта"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "покрива"
+    }
+  ],
+  "timestamp": "2026-10-19T21:13:00.336521687Z",
+  "model": "glm-5.3"
+}

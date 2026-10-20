@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 11:23",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "מקדם",
+      "rationale": "буквално ״од предната страна״ (= исток); ״источно׳ ја губи двојноста место-исток"
+    },
+    {
+      "kind": "mystery",
+      "subject": "отстапување на славата",
+      "rationale": "славата на Јахве го напушта градот — замислено тежок, запечатен момент на видението"
+    }
+  ],
+  "translation": "И славата на Јахве се искачи од средината на градот и застана на планината што е источно од градот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2c634b922fcb9e86a00c1aa2660204833374a4630d1a8aa2f54cb9412e37acd0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/11\/21-24.1792451518067.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и се искачи"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "средината"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "на градот"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и застана"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "планината"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "источно"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "од градот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:11:58.068773541Z",
+  "model": "glm-5.3"
+}

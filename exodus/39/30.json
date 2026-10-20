@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ציץ",
+      "rationale": "„сјајна плоча“ на турбанот; KJВ „plate“, YLT „flower“ — и двете се во зборот"
+    },
+    {
+      "kind": "crux",
+      "subject": "נזר",
+      "rationale": "„незер“ — венец\/дијадема или посветување; традиционално „светиот венец“"
+    }
+  ],
+  "translation": "И направија ⟨את⟩ плочата на светиот венец, чисто злато, и напишаа врз неа напишано, гравура на печат: светост на Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "7b4f7605752a1bdedf7f0989c49a9dfc6b303d2feb54cec17642135abfe9f899",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/39\/29-32.1792444046856.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "направија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "плочата"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "плочата"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "венец\/посветување"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "светиот"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисто"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "напишаа"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "врз неа"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "напишано"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "гравура"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "печат"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "светост"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:07:26.858400624Z",
+  "model": "glm-5.3"
+}

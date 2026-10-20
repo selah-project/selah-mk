@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 20:9",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Македонскиот бара копула што хебрејскиот ја нема"
+    },
+    {
+      "kind": "crux",
+      "subject": "מאת יהוה",
+      "rationale": "מאת е предлог 'од\/кај', a не обичниот acc-маркер את; преведувачите се делат меѓу 'знак од Јахве' и 'знак кај Јахве'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "десет степени",
+      "rationale": "броење на степените на сенка — повикано во двата случаи"
+    }
+  ],
+  "translation": "И рече Јешајаху: Ова ⟨е⟩ знакот за тебе од ⟨את⟩ Јахве, дека Јахве ќе го изврши ⟨את⟩ словото што го изрече: сенката да оди напред десет степени, или да се врати назад десет степени?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "f5e808081671373cbe3491f84f3c5a9178e7c38085db217f5959b1dd1f700c80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/20\/9-12.1792449408195.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Јешајаху"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ова"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за тебе"
+    },
+    {
+      "surface": "האות",
+      "gloss": "знакот"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "од ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ќе изврши"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "словото"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "изрече"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "да оди"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "сенката"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десет"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "степени"
+    },
+    {
+      "surface": "אם",
+      "gloss": "или"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ќе се врати"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десет"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "степени"
+    }
+  ],
+  "timestamp": "2026-10-19T22:36:48.196391113Z",
+  "model": "glm-5.3"
+}

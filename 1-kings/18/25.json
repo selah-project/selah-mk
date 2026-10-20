@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 18:25",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "пороците на Баал",
+      "rationale": "Директен повик од Елијаху кон пророците на Баал."
+    },
+    {
+      "kind": "substitution",
+      "subject": "бог",
+      "rationale": "אלהיכם — вашиот бог, со мала буква: богот на народите, не Елохим."
+    }
+  ],
+  "translation": "И рече Елијаху на пророците на Баал: Изберете си го едниот јунец и пригответе прво, зашто вие сте мнозина, и повикајте во името на вашиот бог — а оган не ставајте.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e6682e760f10a58bca14e17203317927fd8fade6e22f517e67ddb7d7621bfceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/18\/25-28.1792448933789.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Елијаху"
+    },
+    {
+      "surface": "לנביאי",
+      "gloss": "на пророците"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "на Баал"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "Изберете"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "си"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "го јунецот"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "едниот"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "и пригответе"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "прво"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "сте мнозина"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "и повикајте"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "во името"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "на вашиот бог"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "а оган"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "ставајте"
+    }
+  ],
+  "timestamp": "2026-10-19T22:28:53.791453861Z",
+  "model": "glm-5.3"
+}

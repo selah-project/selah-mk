@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 10:12",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "месо",
+      "rationale": "בשר е буквално „месо\/тело“ — не „тело“ како целина, туку живото ткиво на керувимите"
+    },
+    {
+      "kind": "crux",
+      "subject": "грбови",
+      "rationale": "גב: „грб“ или „обед\/прстен“ — во Езекијел 1:18 ист збор опишува прстени полни со очи"
+    }
+  ],
+  "translation": "И целото нивно месо, и нивните грбови, и нивните раце, и нивните крила, и тркалата — полни со очи наоколу, за нивните четири — нивните тркала.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7957aaa31cac3d4c4afc24b1e81353d4b51ffc420db13e51f98ea35d44411fb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/10\/9-12.1792451448173.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "И целото"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "нивно месо"
+    },
+    {
+      "surface": "וגבהם",
+      "gloss": "и нивните грбови"
+    },
+    {
+      "surface": "וידיהם",
+      "gloss": "и нивните раце"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "и нивните крила"
+    },
+    {
+      "surface": "והאופנים",
+      "gloss": "и тркалата"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "полни"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "со очи"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколу"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "за нивните четири"
+    },
+    {
+      "surface": "אופניהם",
+      "gloss": "нивните тркала"
+    }
+  ],
+  "timestamp": "2026-10-19T23:10:48.174529603Z",
+  "model": "glm-5.3"
+}

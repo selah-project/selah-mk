@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 22:16",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אל נא תמנע",
+      "rationale": "буквално „не, те молам, биди задржан\/воzdржи се“ — за себе не сме дека нешто друго го задржува"
+    },
+    {
+      "kind": "you",
+      "subject": "порака до Билам",
+      "rationale": "гласници зборуваат директно на Билам со зборовите на Балак"
+    }
+  ],
+  "translation": "И дојдоа кај Билам и му рекоа: Вака вели Балак, синот на Ципор: Не ти одрекувај, те молам, да дојдеш кај мене.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "38dd7bd7db6dd1818278d81a65f15d8a668437b540d61656af910438379d96b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/22\/13-16.1792444985364.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "И дојдоа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билам"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоа"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Вака"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "на Ципор"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молам"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ти одрекувај"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "да дојдеш"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "кај мене"
+    }
+  ],
+  "timestamp": "2026-10-19T21:23:05.365432208Z",
+  "model": "glm-5.3"
+}

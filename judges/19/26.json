@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 19:26",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "падна",
+      "rationale": "-textot не вели дали е мртва или жива — ותפל само 'падна'; неизвесноста трае до 19:29"
+    }
+  ],
+  "translation": "И дојде жената кога се разденуваше утрото, и падна пред вратата на куќата на мажот каде што нејзиниот господар ⟨бееше⟩ таму, до ⟨настанувањето на⟩ светлината.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5effe163f039931120849820f78baff4dd2429ac1546e3e113a4978f2b0e8276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/19\/25-28.1792446575486.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "и дојде"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "кога се разденуваше"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "утрото"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "и падна"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "пред вратата"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на куќата"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "на мажот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "каде што"
+    },
+    {
+      "surface": "אדוניה",
+      "gloss": "нејзиниот господар"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "האור",
+      "gloss": "светлината"
+    }
+  ],
+  "timestamp": "2026-10-19T21:49:35.487055390Z",
+  "model": "glm-5.3"
+}

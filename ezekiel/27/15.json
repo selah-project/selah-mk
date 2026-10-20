@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 27:15",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "слонова коска",
+      "rationale": "שן е „заб“; букв. „рогови на заб“ — бивни од слонова коска"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הובנים",
+      "rationale": "אבנים (ебаново дрво) се јавува само тука во Танах"
+    }
+  ],
+  "translation": "Синовите на Дедан беа твоите трговци; многу острови — трговија на раката твоја: рогови од слонова коска и ебаново дрво ти враќаа како исплата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1602e6e1c68a13bed739779e9c9f3c4a46e7815ff65de9aedf14ecc2492dfcb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/27\/13-16.1792451715953.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовите"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "на Дедан"
+    },
+    {
+      "surface": "רכליך",
+      "gloss": "твоите трговци"
+    },
+    {
+      "surface": "איים",
+      "gloss": "острови"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многу"
+    },
+    {
+      "surface": "סחרת",
+      "gloss": "трговија"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "на раката твоја"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "рогови"
+    },
+    {
+      "surface": "שן",
+      "gloss": "од слонова коска"
+    },
+    {
+      "surface": "והובנים",
+      "gloss": "и ебаново дрво"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "ти враќаа"
+    },
+    {
+      "surface": "אשכרך",
+      "gloss": "како исплата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:15:15.954422910Z",
+  "model": "glm-5.3"
+}

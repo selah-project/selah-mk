@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בן שלשים שנה",
+      "rationale": "букв. „син на триесет години“ — „син“ не се пренесува"
+    },
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "measurement",
+      "subject": "години на возраст и владеење",
+      "rationale": "броење години"
+    }
+  ],
+  "translation": "На триесет години беше Давид кога зацарува; четириесет години царуваше.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c909a1ea56e0ce6e86ad0101cc3e8ed79f9b51450695ea3f4602cd2f79510c14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/5\/1-4.1792448123918.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "на"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "триесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "кога зацарува"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четириесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царуваше"
+    }
+  ],
+  "timestamp": "2026-10-19T22:15:23.921750063Z",
+  "model": "glm-5.3"
+}

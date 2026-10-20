@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 42:17",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "свртеа лицата свои",
+      "rationale": "שמו את פניהם — буквално 'ги ставаа лицата свои', идиом за одлучна намера"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שריד ופליט",
+      "rationale": "пар од блиски синоними, преживеан\/бегалец, за тотална забрана на бегство"
+    }
+  ],
+  "translation": "Така ќе биде со сите луѓе што ги свртеа ⟨את⟩ лицата свои да одат во Мицраим и да престојуваат таму — ќе умрат од меч, од глад и од пошест; и нема да им остане ни преживеан ни бегалец од злото што јас го носам врз нив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "38e2df4ed6d618a01eb482a9ba3f362d0ca0bfdba24f44c863bc47f512dad826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/42\/17-20.1792451079772.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Така ќе биде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "луѓето"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "свртеа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лицата свои"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "лицата свои"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "да одат"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "да престојуваат"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "ќе умрат"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "од меч"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "од глад"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "и од пошест"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "да остане"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "преживеан"
+    },
+    {
+      "surface": "ופליט",
+      "gloss": "и бегалец"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "од лицето на"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "злото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "носам"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "врз нив"
+    }
+  ],
+  "timestamp": "2026-10-19T23:04:39.773836775Z",
+  "model": "glm-5.3"
+}

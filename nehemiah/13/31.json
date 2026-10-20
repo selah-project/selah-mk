@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 13:31",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זכרה…זכרה",
+      "rationale": "истиот глагол го отвори стихот 29 („Запомни ги“) и го затвора книгата („Запомни ме“) — рамка-инклузија што македонскиот ја задржува само со повторувањето"
+    },
+    {
+      "kind": "you",
+      "subject": "до Елохим",
+      "rationale": "лична молитва на Неемија, последните зборови на книгата"
+    }
+  ],
+  "translation": "и за приносот на дрвата во определени времиња и за првите плодови. Запомни ме, Елохим мој, за добро.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "621bbbdf067bef535afee3d20a1adcc07de53cd50d67787401bdf5b00d9dab88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/13\/29-31.1792456726491.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקרבן",
+      "gloss": "и за приносот"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "на дрвата"
+    },
+    {
+      "surface": "בעתים",
+      "gloss": "во времиња"
+    },
+    {
+      "surface": "מזמנות",
+      "gloss": "определени"
+    },
+    {
+      "surface": "ולבכורים",
+      "gloss": "и за првите плодови"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "Запомни"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мој"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "за добро"
+    }
+  ],
+  "timestamp": "2026-10-20T00:38:46.493166169Z",
+  "model": "glm-5.3"
+}

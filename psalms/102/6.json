@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сум (множ. прилепија)",
+      "rationale": "хебрејскиот има еднина דבקה со множинска смисла на коски"
+    }
+  ],
+  "translation": "Од гласот на воздивот мој коските мои се прилепија на месото мое.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/102\/5-8.1792453802413.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "од гласот"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "на воздивот мој"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "се прилепија"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "коските мои"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "на месото мое"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:02.414665137Z",
+  "model": "glm-5.3"
+}

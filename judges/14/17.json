@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 14:17",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "таа",
+      "rationale": "македонскиот бара подмет кај фемининна форма од אמר\/בכה глаголот"
+    },
+    {
+      "kind": "idiom",
+      "subject": "врз него",
+      "rationale": "עליו буквално »врз него« — плакање »врз« некого, хебрејска слика на жалење пред некого"
+    }
+  ],
+  "translation": "И плачеше таа врз него седумте дни додека беше пирот нивниот, и бидењето беше на денот седми, и и́ кажа, зашто го притиснаше, и таа им ја кажа гатанката на синовите на народот нејзин.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0e82f89d49566333ebdb213ace3cd87bdf72df11909ecdd54c129ca156ad9faf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/14\/17-20.1792446514909.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבך",
+      "gloss": "плачеше таа"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "врз него"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седумте"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "додека"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "להם",
+      "gloss": "нивниот"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "пирот"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и бидењето беше"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "на денот"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седми"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "и кажа"
+    },
+    {
+      "surface": "לה",
+      "gloss": "и́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "הציקתהו",
+      "gloss": "го притиснаше"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "и кажа"
+    },
+    {
+      "surface": "החידה",
+      "gloss": "гатанката"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовите"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "на народот нејзин"
+    }
+  ],
+  "timestamp": "2026-10-19T21:48:34.910531213Z",
+  "model": "glm-5.3"
+}

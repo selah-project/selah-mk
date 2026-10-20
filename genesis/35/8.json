@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 35:8",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אלון בכות",
+      "rationale": "'Даб-на-плачење' — Алон-Бахут е име со вградена тага, задржано како име"
+    },
+    {
+      "kind": "alternative",
+      "subject": "го нарека",
+      "rationale": "ויקרא безsubjekt — можеби 'нарекоа' (неутрално 'го доби името'), но кон текстот: Јааков нарече"
+    }
+  ],
+  "translation": "И умре Двора, дадилката на Ривка, и беше погребана подолу од Беит-Ел, под дабот; и го нарека името негово Алон-Бахут.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "07b642e7fe5075446b211f6422c64af696391c1aa64af62765bbaeb5a529c2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/35\/5-8.1792443042574.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "и умре"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "Двора"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "дадилката"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "на Ривка"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "и беше погребана"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "подолу од"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Беит-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "האלון",
+      "gloss": "дабот"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и го нарека"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името негово"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "Алон"
+    },
+    {
+      "surface": "בכות",
+      "gloss": "Бахут"
+    }
+  ],
+  "timestamp": "2026-10-19T20:50:42.575838030Z",
+  "model": "glm-5.3"
+}

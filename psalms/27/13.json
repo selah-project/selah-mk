@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לולא",
+      "rationale": "Противна conditional: „Да не верував… (ќе пропаднев)“ — некои преводи додаваат „ќе пропаднев“ (KJV), други изоставуваат (JPS, YLT)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨да⟩ ⟨не⟩",
+      "rationale": "Македонскиот бара помошни зборови за да се изрази условот што хебрејскиот го носи во לולא."
+    },
+    {
+      "kind": "invitation",
+      "subject": "исповед на верата",
+      "rationale": "Стихов е лична изјава на доверба усвоена од читателот."
+    }
+  ],
+  "translation": "Да не верував, ќе гледев ⟨да⟩ — ⟨не⟩ го добротворештвото на Јахве во земјата на живите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7279dd61c31884fd87504f0892046dbd010a32df671d465ed354dd2a9719f65c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/27\/13-14.1792453116375.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "да не верував"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "верував"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "да гледам"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "во доброто"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "на живите"
+    }
+  ],
+  "timestamp": "2026-10-19T23:38:36.376107379Z",
+  "model": "glm-5.3"
+}

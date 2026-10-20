@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "од лицето на",
+      "rationale": "מפני буквално 'од лицето на' — хебрејски израз за причина\/страв"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "און",
+      "rationale": "און значи и 'ништожност' и 'беззаконије' — двојството се губи"
+    }
+  ],
+  "translation": "Од гласот на непријателот, од лицето на тескобата на злосторникот — зашто тие фрлаат беззаконија врз мене, и во гневот ме мразат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ab6c04bd53aeebb59181e135386ea4b27d8a3a55c0af490ef5368af0b2ea7bd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/55\/1-4.1792453412407.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "од гласот"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "на непријателот"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "од лицето"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "на тескобата"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "на злосторникот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "фрлаат"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "врз мене"
+    },
+    {
+      "surface": "און",
+      "gloss": "беззаконија"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "и во гневот"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "ме мразат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:43:32.408542683Z",
+  "model": "glm-5.3"
+}

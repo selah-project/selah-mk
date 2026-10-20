@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 18,
+  "translation": "И рече царот: Сврти се, застань тука. И тој се сврте и застана.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "788bebdaae4b07be151c51cf8c63fc2727efb03454dbfce47825c057536fa767",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/18\/29-32.1792448325419.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "סב",
+      "gloss": "сврти се"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "застань"
+    },
+    {
+      "surface": "כה",
+      "gloss": "тука"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "и се сврте"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и застана"
+    }
+  ],
+  "timestamp": "2026-10-19T22:18:45.421184553Z",
+  "model": "glm-5.3"
+}

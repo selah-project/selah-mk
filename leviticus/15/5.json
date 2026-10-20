@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 15:5",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кревет",
+      "rationale": "משכב е место-лежење (од שכב, да лежи) — секое место каде што лежи истиечатиот, не само постела."
+    },
+    {
+      "kind": "substitution",
+      "subject": "истиечат",
+      "rationale": "זב е 'оној што тече' — образно за течение од телото; македонскиот бара именска форма."
+    }
+  ],
+  "translation": "И човек што ќе го допре неговиот кревет — своите облеки ќе ги пере и ќе се измие во вода и нечист ќе биде до вечерта.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "78721a5269acdcf92bcd6355f88ecfd946ea7775fe5d0303ea6a9804bbcc0e75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/15\/5-8.1792444349204.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "И човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "ќе го допре"
+    },
+    {
+      "surface": "במשכבו",
+      "gloss": "неговиот кревет"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ќе пере"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "своите облеки"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "и ќе се измие"
+    },
+    {
+      "surface": "במים",
+      "gloss": "во вода"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "и нечист ќе биде"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "вечерта"
+    }
+  ],
+  "timestamp": "2026-10-19T21:12:29.205173191Z",
+  "model": "glm-5.3"
+}

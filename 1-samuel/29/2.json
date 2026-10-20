@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 29:2",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "по стотици и по илјадници",
+      "rationale": "војските минуваат преглед по единици од сто и илјада"
+    },
+    {
+      "kind": "crux",
+      "subject": "во задниот дел",
+      "rationale": "באחרנה: задниот дел\/заштитницата на колоната; традицијата дава 'во задниот ред'"
+    }
+  ],
+  "translation": "И кнезовите на Пелиштимците поминуваа по стотици и по илјадници, а Давид и неговите луѓе поминуваа во задниот дел со Акиш.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c2bc929b6b7c2e396214a29b79bc84ec6684118f9246669442d8c70ca726f997",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/29\/1-4.1792448024516.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסרני",
+      "gloss": "И кнезовите"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "на Пелиштимците"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "поминуваа"
+    },
+    {
+      "surface": "למאות",
+      "gloss": "по стотици"
+    },
+    {
+      "surface": "ולאלפים",
+      "gloss": "и по илјадници"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "а Давид"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "и неговите луѓе"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "поминуваа"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "во задниот дел"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Акиш"
+    }
+  ],
+  "timestamp": "2026-10-19T22:13:44.519076216Z",
+  "model": "glm-5.3"
+}

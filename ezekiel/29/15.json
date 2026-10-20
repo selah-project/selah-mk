@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 29:15",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בגוים",
+      "rationale": "хебрејскиот вели 'во\/меѓу народите', македонскиот бара 'над народите' за владеење"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפלה",
+      "rationale": "истиот збор 'смирена\/ниска' од 29:14 се повторува како клучна одредница за Мицраим"
+    }
+  ],
+  "translation": "Од царствата ќе биде најниска и нема повеќе да се издигнува над народите, зашто ќе ги намалам, за да не владеат над народите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d7776574e5fa9a1611955f73768600e1a5932d0f2b9abd138187164eea311b3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/29\/13-16.1792451836150.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "царствата"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "најниска"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "תתנשא",
+      "gloss": "да се издигнува"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "והמעטתים",
+      "gloss": "и ќе ги намалам"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "за да не"
+    },
+    {
+      "surface": "רדות",
+      "gloss": "владеат"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "над народите"
+    }
+  ],
+  "timestamp": "2026-10-19T23:17:16.151268699Z",
+  "model": "glm-5.3"
+}

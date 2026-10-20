@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יעצר \/ עצה (12:13)",
+      "rationale": "истиот корен עצר: оној што има совет (עצה) и оној што задржува (עצר) води — звукот поврзува стихови 13 и 15"
+    }
+  ],
+  "translation": "Еве, задржува води — и пресушуваат; и ги испраќа — и ја превртуваат земјата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1918f7a0cb6ae538439044e5127df1d65cb5d5dd8a2d0fea7d6a6edd0ed57fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/12\/13-16.1792454976888.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "еве"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "задржува"
+    },
+    {
+      "surface": "במים",
+      "gloss": "води"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "и пресушуваат"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "и ги испраќа"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "и ја превртуваат"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјата"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:36.888969908Z",
+  "model": "glm-5.3"
+}

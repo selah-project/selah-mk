@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 2:10",
+  "book": "micah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "та",
+      "rationale": "Добавен subjekt од контекст (земјата\/нечистотијата); хебрејскиот го испушта."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחבל \/ חבל",
+      "rationale": "корен חבל двапати — 'заложува\/уништува' и 'жичка\/пропаст'; повторувањето се губи во македонскиот."
+    },
+    {
+      "kind": "invitation",
+      "subject": "до народот",
+      "rationale": "Императиви 'Станете и одете' — директен повик до народот."
+    },
+    {
+      "kind": "you",
+      "subject": "до народот на Јахве",
+      "rationale": "Директна адреса со заповеди."
+    }
+  ],
+  "translation": "Станете и одете, зашто ова не е ⟨м Repeat⟩ починокот; поради нечистотија та ќе пропадне, и пропаст тешка.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "76e3e6a7c1a772534e723fff7f3d2008a275492a767aadef8244b7d850ffad57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/micah\/2\/9-12.1792452523421.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "станете"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "и одете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "починокот"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "поради"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "нечистотија"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "ќе пропадне"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "и пропаст"
+    },
+    {
+      "surface": "נמרץ",
+      "gloss": "тешка"
+    }
+  ],
+  "timestamp": "2026-10-19T23:28:43.422194916Z",
+  "model": "glm-5.3"
+}

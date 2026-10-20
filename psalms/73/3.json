@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בהוללים",
+      "rationale": "од הלל — 'лудите\/буцните' или 'гордите' (Септуагинта); избрано 'глупавите'"
+    }
+  ],
+  "translation": "Зашто завидував на глупавите, гледајќи ⟨го⟩ мирот на безбожниците.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/73\/1-4.1792453546996.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "завидував"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "на глупавите"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мирот"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "на безбожниците"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "гледајќи"
+    }
+  ],
+  "timestamp": "2026-10-19T23:45:46.997334161Z",
+  "model": "glm-5.3"
+}

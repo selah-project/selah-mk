@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 32:32",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хеседови",
+      "rationale": "חסד не се преведува сам; добротворства\/верност се делумни"
+    },
+    {
+      "kind": "secret",
+      "subject": "видението на Јешајаху",
+      "rationale": "напишано во видение — изворот е откриен само со навестување"
+    }
+  ],
+  "translation": "А останатите работи на Хизкијаху и неговите хеседови — еве, напишани се во видението на Јешајаху, синот Амоцов, пророкот, врз книгата на царевите Јехуда и Јисраел.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2d0e709395042378aa66abbe1c96a8e61277ba468384f988720ae25ac9ad6818",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/32\/29-32.1792457881114.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "А останатите"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "работи"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "на Хизкијаху"
+    },
+    {
+      "surface": "וחסדיו",
+      "gloss": "и неговите хеседови"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ево"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "напишани се"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "во видението"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "на Јешајаху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Амоцов"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкот"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книгата"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "на царевите"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "и Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-20T00:58:01.115556779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ниеден свештеник",
+      "rationale": "כל כהן буквално „секој свештеник“; со לא значи „ниеден“"
+    }
+  ],
+  "translation": "И вино нема да пијат ниеден свештеник кога влегуваат во внатрешниот двор.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7ab6c9c89820e84f6d4d11774b0556f74dd025635a126514b61ea4e8abfd18a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/44\/21-24.1792452067497.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "И вино"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "да пијат"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ниеден"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "кога влегуваат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "дворот"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "внатрешниот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:21:07.498406568Z",
+  "model": "glm-5.3"
+}

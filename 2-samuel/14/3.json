@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דבר\/דברים",
+      "rationale": "„според овој збор … ги стави зборовите“ — повторување на истиот корен, каде зборот станува нешто што се става во уста"
+    }
+  ],
+  "translation": "И влези кај царот и зборувај му според овој збор.“ И Јоав ги стави ⟨את⟩ зборовите во нејзината уста.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e5731811af501e75a1e97ffd7264f9b251ba0f5d96fce11c83d832384ce91c7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/14\/2-3.1792458004707.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "и влези"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "и зборувај"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "според зборот"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "и стави"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зборовите"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "зборовите"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "во нејзината уста"
+    }
+  ],
+  "timestamp": "2026-10-20T01:00:04.708561573Z",
+  "model": "glm-5.3"
+}

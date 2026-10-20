@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "добротворства",
+      "rationale": "גמול значи воздавање, дело — добро или зло; традиционално 'добрини', 'придобивки'"
+    },
+    {
+      "kind": "you",
+      "subject": "нефеш моја",
+      "rationale": "Повторен директен обратен кон нефеш со женски императив"
+    }
+  ],
+  "translation": "Благословувај, нефеш моја, ⟨את⟩ Јахве, и не заборавај ги сите Негови добротворства.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/103\/1-4.1792453839492.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Благословувај"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "нефеш моја"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "зaborавај ги"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "Неговите добротворства"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:39.493198443Z",
+  "model": "glm-5.3"
+}

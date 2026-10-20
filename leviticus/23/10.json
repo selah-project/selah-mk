@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 23:10",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до синовите Јисраелови",
+      "rationale": "Јахве им наредува на Израилевите синови преку Моше."
+    },
+    {
+      "kind": "measurement",
+      "subject": "омер",
+      "rationale": "עמר е и сноп и мерка; тука сноп првина од жетвата."
+    }
+  ],
+  "translation": "Кажи им на синовите Јисраелови и речи им: Кога ќе влезете во земјата што ја давам вам и ќе го пожнете ⟨את⟩ нејзиниот род, тогаш ќе донесете ⟨את⟩ омер, првина од вашиот род, кај свештеникот —",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "98e274f8b302a2af8663a4b294c6326a67d21bde5b8b724ebb90ea9a35962d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/23\/9-12.1792444429449.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "кажи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и речи"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "ќе влезете"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "давам"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "וקצרתם",
+      "gloss": "и ќе го пожнете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "неговиот род"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "нејзиниот род"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "ќе донесете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "омер"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "омер"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "првина"
+    },
+    {
+      "surface": "קצירכם",
+      "gloss": "од вашиот род"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:13:49.451879479Z",
+  "model": "glm-5.3"
+}

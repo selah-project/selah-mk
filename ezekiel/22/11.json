@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 22:11",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ја",
+      "rationale": "македонскиот бара директен објект со заменска кратка форма, хебрејскиот го има את"
+    }
+  ],
+  "translation": "И маж ⟨את⟩ жената на ближиот свој ја означи со гнасота; и маж ⟨את⟩ снаата своја ја оскверни со разврат; и маж ⟨את⟩ сестра своја, ќерка на татко му, ја понижи во тебе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "79f9d99b002c91211468242fab69a423619d8b9711a4e1a1971b42177f35253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/22\/9-12.1792451647542.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "и маж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жената"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жената"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "на ближиот свој"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "врши"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "гнасота"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и маж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "снаата своја"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "снаата своја"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "оскверни"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "со разврат"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и маж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сестра своја"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "сестра своја"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерка"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "на татко му"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "понижи"
+    },
+    {
+      "surface": "בך",
+      "gloss": "во тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T23:14:07.543814305Z",
+  "model": "glm-5.3"
+}

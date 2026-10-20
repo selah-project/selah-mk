@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "шават мешош… шават мешош",
+      "rationale": "Точено повторување на истата формула на почетокот и крајот на стихот — инклузија, задржана и во македонскиот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שבת",
+      "rationale": "Глаголот е од истиот корен како шабат — 'престана\/запре', не денот шабат."
+    }
+  ],
+  "translation": "Запре веселбата на тапаните, престана галама-та на оние што ликуваат; запре веселбата на харфата.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "1c403e2cd84d7ebd52de58084e75109544b1c2e7e18dbf3110537078f8ab4105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/24\/5-8.1792449779630.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Запре"
+    },
+    {
+      "surface": "мשוש",
+      "gloss": "веселбата на"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "тапаните"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "престана"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "галама-та на"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "они што ликуваат"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "запре"
+    },
+    {
+      "surface": "мשוש",
+      "gloss": "веселбата на"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "харфата"
+    }
+  ],
+  "timestamp": "2026-10-19T22:42:59.635092358Z",
+  "model": "glm-5.3"
+}

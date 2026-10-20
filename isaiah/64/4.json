@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פגעת",
+      "rationale": "KJV\/ASV читаат „Ти го сретна“ (благослов), JPS „Ти го отстрани“ — две спротивни читања на истиот глагол."
+    },
+    {
+      "kind": "crux",
+      "subject": "во нив одамна",
+      "rationale": "בהם עולם е тешко: „во тие (патишта) е траење“ (JPS „continuance“), „во нив одамна“ или масоретската поделба кон 64:5."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Македонскиот бара сврзник што хебрејскиот го изостава."
+    }
+  ],
+  "translation": "Го сретна ⟨את⟩ радосниот и оној што прави цедек — во патиштата Твои Te спомнуваат; ене, Ти се разгневи, и згрешивме; во нив ⟨е⟩ одамна, и ќе бидеме спасени.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/64\/1-4.1792450312068.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "сретна"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ГО — радосниот"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ГО — радосниот"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и оној што прави"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "во патиштата Твои"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "Te спомнуваат"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ене"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "се разгневи"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "и згрешивме"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "во нив"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "одамна"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "и ќе бидеме спасени"
+    }
+  ],
+  "timestamp": "2026-10-19T22:51:52.070965339Z",
+  "model": "glm-5.3"
+}

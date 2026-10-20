@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 27:7",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נתן תתן",
+      "rationale": "инфинитивен апсолутен — давање-да-дадеш, засилување изгубено во македонскиот"
+    },
+    {
+      "kind": "you",
+      "subject": "Моше",
+      "rationale": "Јахве му наредува на Моше со императиви"
+    }
+  ],
+  "translation": "Право зборуваат ќерките на Цлофхад: дај им да поседуваат наследство меѓу браќата на нивниот татко, и пренеси ја ⟨את⟩ наследството на нивниот татко на нив.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "97a3e1530783b115ea9bdae9e1baec99bf92541ba0362106bb55e6d445b98624",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/27\/5-8.1792445107909.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "право"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ќерките"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Цлофхад"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "зборуваат"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дај"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "да дадеш"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ним"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "да поседуваат"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "наследство"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "браќата"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "нивниот татко"
+    },
+    {
+      "surface": "והעברת",
+      "gloss": "и пренеси ја"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "наследството на нивниот татко"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "наследството"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "нивниот татко"
+    },
+    {
+      "surface": "להן",
+      "gloss": "на нив"
+    }
+  ],
+  "timestamp": "2026-10-19T21:25:07.910384463Z",
+  "model": "glm-5.3"
+}

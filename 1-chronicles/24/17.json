@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "свештенички редови",
+      "rationale": "Список на дваесет и првиот и дваесет и вториот ред од службата."
+    }
+  ],
+  "translation": "Дваесет и првиот за Јакин, дваесет и вториот за Гамул.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "18a041f32f6934e90414a56e62a2c4e41f1d0f3bb796c7e2f880ddf1ee232413",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/24\/17-20.1792457209929.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "Јакин"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и дваесет"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "Гамул"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и дваесет"
+    }
+  ],
+  "timestamp": "2026-10-20T00:46:49.930722219Z",
+  "model": "glm-5.3"
+}

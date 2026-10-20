@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ла натегна",
+      "rationale": "דרך е 'да гази' — лакот се натега со gazење на него, сликата е изгубена"
+    },
+    {
+      "kind": "crux",
+      "subject": "מטרא",
+      "rationale": "'затвор\/стражарница' или 'цел за стрелата' — повеќето преводи избираат 'цел'"
+    }
+  ],
+  "translation": "Ја натегна својата тетива-лак и ме постави како цел за стрелата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "00ecde460e6c6b06ebcfcf155c764a06b40c98997c028415c3d023e979bd0292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/3\/9-12.1792455611243.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ја натегна"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "својата тетива-лак"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "и ме постави"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "како цел"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "за стрелата"
+    }
+  ],
+  "timestamp": "2026-10-20T00:20:11.244797621Z",
+  "model": "glm-5.3"
+}

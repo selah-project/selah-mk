@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 5:29",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нефешта моја",
+      "rationale": "נפש е гркло\/животна сила, не 'душа' во подоцнежна смисла; задржан хебрејскиот облик"
+    },
+    {
+      "kind": "alternative",
+      "subject": "да посетам",
+      "rationale": "פקד може да значи 'казнам' — 'зар нема да ги казнам заради овие'"
+    }
+  ],
+  "translation": "Зар ⟨заради⟩ овие нема да посетам? вели Јахве; и нефешта моја нема ли да се одмазди на народ таков каков овој?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "83f772650c49bf2f3c224460344712028524b3d438998ee0bb741f060d3dab5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/5\/29-31.1792450452977.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "зар ⟨заради⟩"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "да посетам"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "нема ли"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "на народ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "таков"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "каков овој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "да се одмазди"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "нефешта моја"
+    }
+  ],
+  "timestamp": "2026-10-19T22:54:12.978308904Z",
+  "model": "glm-5.3"
+}

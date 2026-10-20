@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 3,
+  "translation": "И се помолив со милост求得 на Јахве во тоа време, велејќи:",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b5ada990de1836bf3691b784021a2406ca4d67bd89c68ef9402fd127bfad40e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/3\/21-24.1792445320390.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "и се помолив со милост"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "во време"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    }
+  ],
+  "timestamp": "2026-10-19T21:28:40.391706909Z",
+  "model": "glm-5.3"
+}

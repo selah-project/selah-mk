@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 4:37",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בפניו",
+      "rationale": "буквално 'во лицето Негово' — идиом за присуство; задржан слика 'со лицето Своето'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ותחת",
+      "gloss": "буквално 'и под' — продолжува од претходниот стих, преведено како 'И затоа што'"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јисраел",
+      "rationale": "Моше му го кажува ова на народот"
+    }
+  ],
+  "translation": "И затоа што ги сакаше ⟨את⟩ татковците твои, го избра потомството нивно после нив, и те изведе со лицето Своето, со силата Својата голема, од Мицраим.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "921731d4e01b33a850ead3726fe9ef6befec695ba8bc995260bb4daecd8d37f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/4\/37-40.1792445369442.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחת",
+      "gloss": "И затоа што"
+    },
+    {
+      "surface": "כי",
+      "gloss": "затоа што"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "сакаше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "татковците твои"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "татковците твои"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "го избра"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "потомството нивно"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "после нив"
+    },
+    {
+      "surface": "ויוצאך",
+      "gloss": "и те изведе"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "со лицето Своето"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "со силата Својата"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "голема"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "од Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-19T21:29:29.443059504Z",
+  "model": "glm-5.3"
+}

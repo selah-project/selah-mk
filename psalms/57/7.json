@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нефшата моја",
+      "rationale": "נפש како живот-дах, не „душа“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "мрежа\/јама → паднаа",
+      "rationale": " ironиja: ловците сами паѓаат во сопствената стапица"
+    }
+  ],
+  "translation": "Мрежа подготвија за чекорите мои; сведена е нефшата моја; ископаа јама пред мене — паднаа во средината нејзина. Села.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "84411a8859fb53a749c3e95403a297451a264393a89b9c982b88286514726b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/57\/5-8.1792453430913.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רֶ֤שֶׁת",
+      "gloss": "мрежа"
+    },
+    {
+      "surface": "הֵכִ֣ינוּ",
+      "gloss": "подготвија"
+    },
+    {
+      "surface": "לִפְעָמַי֮",
+      "gloss": "за чекорите мои"
+    },
+    {
+      "surface": "כָּפַ֥ף",
+      "gloss": "сведена е"
+    },
+    {
+      "surface": "נַפְשִׁ֥י",
+      "gloss": "нефшата моја"
+    },
+    {
+      "surface": "כָּר֣וּ",
+      "gloss": "ископаа"
+    },
+    {
+      "surface": "לְפָנַ֣י",
+      "gloss": "пред мене"
+    },
+    {
+      "surface": "שִׁיחָ֣ה",
+      "gloss": "јама"
+    },
+    {
+      "surface": "נָפְל֥וּ",
+      "gloss": "паднаа"
+    },
+    {
+      "surface": "בְּתוֹכָֽהּ",
+      "gloss": "во средината нејзина"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-10-19T23:43:50.914165617Z",
+  "model": "glm-5.3"
+}

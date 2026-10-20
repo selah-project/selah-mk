@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "не го знаеше Јосеф",
+      "rationale": "дали буквално не познавал или не признал\/не сакал да знае — традицијата се дели"
+    }
+  ],
+  "translation": "И се крева нов цар над Мицраим, кој не го знаеше ⟨את⟩ Јосеф.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "406f8d910e217f78ee0f790cebd8359187c427da38e49e31dbe924665a71ba69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/1\/5-8.1792443315593.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "И се крева"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нов"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "го знаеше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јосеф"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    }
+  ],
+  "timestamp": "2026-10-19T20:55:15.602971259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 18:29",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "души",
+      "rationale": "נפש е 'живо суштество, душа-како-живот'; 'души' е најблиску, но значи 'лица\/живи битии', не бесмртна душа"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעשׂה \/ העשֹת",
+      "rationale": "коренot עשה се повторува — 'што ќе направи… што прават' — и во хебрејскиот е менлива"
+    },
+    {
+      "kind": "you",
+      "subject": "до Израел",
+      "rationale": "законска одредба упатена кон народот"
+    }
+  ],
+  "translation": "Зашто секој што ќе направи нешто од сите овие гнасоти — душите што прават така ќе бидат истребени од средината на нивниот народ.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "41219a2705ee78e30991ffe8a6537282d9646fce40aaa5f1d63ce9a307877912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/18\/29-30.1792444325444.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ќе направи"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од сите"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "гнасоти"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "ќе бидат истребени"
+    },
+    {
+      "surface": "הנפשות",
+      "gloss": "душите"
+    },
+    {
+      "surface": "העשת",
+      "gloss": "што прават"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "од средината"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "на нивниот народ"
+    }
+  ],
+  "timestamp": "2026-10-19T21:12:05.445461902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "измами",
+      "rationale": "ישא: „да ве измами\/заведе“ наспроти „да ве охрабри“ (како во 2 Хроника 32:11); контекстот тука бара „заведе“"
+    },
+    {
+      "kind": "you",
+      "subject": "до жителите на Ерусалим",
+      "rationale": "порака упатена директно до слушателите"
+    }
+  ],
+  "translation": "Така вели царот: нека не ве измами Хизкијаху, зашто тој нема да може да ве избави.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a5c0a0767553c57025230e79412b86ab375c25c98a768553ed9cf08d15ccd5c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/36\/13-16.1792450048049.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нека не"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ве измами"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ве"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкијаху"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "да може"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "да избави"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ве",
+      "marks": "вас"
+    }
+  ],
+  "timestamp": "2026-10-19T22:47:28.050976422Z",
+  "model": "glm-5.3"
+}

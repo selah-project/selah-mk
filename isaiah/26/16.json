@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "шепот",
+      "rationale": "לחש значи шепот — тајна молитва, но и магиско брбење; преведувачите се делат меѓу „тиха молитва“ и буквален „шепот“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "казната",
+      "rationale": "מוסר е воспитна казна\/поука, не само страдање"
+    },
+    {
+      "kind": "you",
+      "subject": "Јахве",
+      "rationale": "обраќање кон Јахве за народот што го побарал во неволја"
+    }
+  ],
+  "translation": "Јахве, во теснотија те побараа; шепот изливаа, кога казната твоја беше врз нив.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "d80426e4f83cc4b3a4d76dcde864a4eb8786ca61ec68d98a04f1acafd04189c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/26\/13-16.1792449875852.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "во теснотија"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "те побараа"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "изливаа"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "шепот"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "казната твоја"
+    },
+    {
+      "surface": "למו",
+      "gloss": "врз нив"
+    }
+  ],
+  "timestamp": "2026-10-19T22:44:35.856135755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "горчина на руах",
+      "rationale": "буквално „горчина на дух\/духот“ — македонскиот бара градација; руах се чува според D2"
+    },
+    {
+      "kind": "addition",
+      "subject": "тие",
+      "gloss": "хебрејскиот има само женскиplural глагол",
+      "rationale": "предметот (двете снаи) е во претходниот стих"
+    }
+  ],
+  "translation": "И тие беа горчина на руах за Јицхак и за Ривка.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "87e152307804b1547e662f81c4918f982e25e5a16c97088a74a3ded420bd283e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/26\/33-35.1792442790603.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהיין",
+      "gloss": "И тие беа"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "горчина"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "за Јицхак"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "и за Ривка"
+    }
+  ],
+  "timestamp": "2026-10-19T20:46:30.613256650Z",
+  "model": "glm-5.3"
+}

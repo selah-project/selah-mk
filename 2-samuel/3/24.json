@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 3:24",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וילך הלוך",
+      "rationale": "Инфинитивен апсолут — „оди-оди“, засилување: отиде и продолжува да оди; предадено со „си отиде, одејќи“."
+    },
+    {
+      "kind": "you",
+      "subject": "до Давид (царот)",
+      "rationale": "Директно обраќање на Јоав кон царот со прашање-обвинување."
+    },
+    {
+      "kind": "substitution",
+      "subject": "зошто ова",
+      "rationale": "למה זה е хебрејско засилување „зошто-овој\/зошто така“; предадено само со „зошто“."
+    }
+  ],
+  "translation": "И Јоав влезе кај царот и рече: „Што направи? Еве, Авнер дојде кај тебе — зошто го отпушти, и тој си отиде, одејќи?“",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "740f932a3d2d44930f8b52f71ef044dd5b894085fb1f9cc63169cbb7e45f6704",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/3\/21-24.1792448107796.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "влезе"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "אבנер",
+      "gloss": "Авнер"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "кај тебе"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "שלחתו",
+      "gloss": "го отпушти"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и си отиде"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "одејќи"
+    }
+  ],
+  "timestamp": "2026-10-19T22:15:07.799381512Z",
+  "model": "glm-5.3"
+}

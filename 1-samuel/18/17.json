@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 18:17",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "си",
+      "rationale": "העברскиот не вели дали Шаул рече на глас или наум — „си“ ги носи двата"
+    },
+    {
+      "kind": "you",
+      "subject": "Шаул му го обраќа зборот на Давид со ветување кое крие намера",
+      "rationale": "директен говор до Давид"
+    },
+    {
+      "kind": "secret",
+      "subject": "внатрешната намера на Шаул",
+      "rationale": "мислата (нека биде раката на Плиштимците) е скриена од Давид"
+    }
+  ],
+  "translation": "И рече Шаул на Давид: Ете, ја мојата голема ќерка Мерав — неа ќе ти ја дадам ⟨את⟩ за жена; само ми биди син храбар и војувај ги војните на Јахве. А Шаул си рече: нека не биде раката моја врз него, туку нека биде врз него раката на Плиштимците.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c0d7ff89ece34cccc17b28f885a6ca4888c97d2209aa8cd33cafc59ec1bc66e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/18\/17-20.1792447877550.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ете"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ќерката моја"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "големата"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Мерав"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "неа"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ќе дадам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жена"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "היה",
+      "gloss": "биди"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "за син"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "храбар"
+    },
+    {
+      "surface": "והלחם",
+      "gloss": "и војувај"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "војните"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "А Шаул"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нека не"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "биде"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "раката моја"
+    },
+    {
+      "surface": "בו",
+      "gloss": "врз него"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "туку нека биде"
+    },
+    {
+      "surface": "בו",
+      "gloss": "врз него"
+    },
+    {
+      "surface": "יד",
+      "gloss": "раката"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "на Плиштимците"
+    }
+  ],
+  "timestamp": "2026-10-19T22:11:17.552608916Z",
+  "model": "glm-5.3"
+}

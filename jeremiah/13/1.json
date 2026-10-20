@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 13:1",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to Jeremiah",
+      "rationale": "Јахве му заповеда директно на пророток со императиви: оди, набави, стави."
+    },
+    {
+      "kind": "crux",
+      "subject": "и во вода не го внесувај",
+      "rationale": "Преведувачите се делат: 'не го мокри' \/ 'не го ставај во вода' — буквално е 'не го внесувај во вода'."
+    }
+  ],
+  "translation": "Така рече Јахве мене: Оди и набави си пояс од лен, и стави го на своите бедра, а во вода не го внесувај.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "44498b7b5e71b0b483896439d95876c5610ea883047a6088f0ad73965c593e5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/13\/1-4.1792450571380.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "Оди"
+    },
+    {
+      "surface": "וקנית",
+      "gloss": "и набави"
+    },
+    {
+      "surface": "לך",
+      "gloss": "си"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "пояс"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "од лен"
+    },
+    {
+      "surface": "ושמתו",
+      "gloss": "и стави го"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "своите бедра"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "а во вода"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבאהו",
+      "gloss": "го внесувај"
+    }
+  ],
+  "timestamp": "2026-10-19T22:56:11.381476052Z",
+  "model": "glm-5.3"
+}

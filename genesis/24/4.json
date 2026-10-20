@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до слугата",
+      "rationale": "императивна наредба упатена директно до слугата"
+    }
+  ],
+  "translation": "туку во земјата моја и во роднините мои ќе одиш, и ќе земеш жена за синот мој, за Јицхак.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ea961d83f769b412ae323bc6f09c0c25c1bc1d1e6182a27e37d93f92ea907400",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/24\/1-4.1792442663839.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "туку"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "земјата моја"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и во"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "роднините мои"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ќе одиш"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "и ќе земеш"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "за синот мој"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "за Јицхак"
+    }
+  ],
+  "timestamp": "2026-10-19T20:44:23.846069603Z",
+  "model": "glm-5.3"
+}

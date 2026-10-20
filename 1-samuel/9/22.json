@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 9:22",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "околу триесетмина",
+      "rationale": "Пребројување на поканетите гости."
+    },
+    {
+      "kind": "crux",
+      "subject": "לשכתה",
+      "rationale": "„Соба\/ложа“ — соба за гозба; преводите се разликуваат: соба, сала, гостинска соба."
+    }
+  ],
+  "translation": "И ги зеде Шемуел ⟨את⟩ Шаул и ⟨את⟩ слугата негова, и ги внесе во собата, и им даде место на чело на поканетите — а тие беа околу триесетмина.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "88561222bcb605aca7e0f93cd2e633a631bca7efc5704c639632b6b6296854e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/9\/21-24.1792446803963.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "и зеде"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шаул"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "слугата негова"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "слугата негова"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "и ги внесе"
+    },
+    {
+      "surface": "לשכתה",
+      "gloss": "во собата"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ним"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "на чело"
+    },
+    {
+      "surface": "הקרואים",
+      "gloss": "на поканетите"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "а тие"
+    },
+    {
+      "surface": "כשלשים",
+      "gloss": "околу триесет"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мина"
+    }
+  ],
+  "timestamp": "2026-10-19T21:53:23.964832984Z",
+  "model": "glm-5.3"
+}

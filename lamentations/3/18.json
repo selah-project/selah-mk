@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נצחי",
+      "rationale": "'издржливост\/траење' (KJV 'strength') наспроти 'конечност\/крај' (wycliffe 'ende')"
+    }
+  ],
+  "translation": "И реков: Изгина издржливоста моја и очекувањето мое од Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5434ad4564492120d9dac1ac58a516bb98fcdbbfa5c631b72b52eda56d30439e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/3\/17-20.1792455596083.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и реков"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "изгина"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "издржливоста моја"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "и очекувањето мое"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "од Јахве"
+    }
+  ],
+  "timestamp": "2026-10-20T00:19:56.083913408Z",
+  "model": "glm-5.3"
+}

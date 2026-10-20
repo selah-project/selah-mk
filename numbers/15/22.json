@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 15:22",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "залутате",
+      "rationale": "שגגה значи скитање\/заблуда; традиционално „згрешите несакајќи“, но глаголот е слика на скршнување од патот"
+    }
+  ],
+  "translation": "И ако залутате и не направите ⟨את⟩ сите овие заповеди што зборува Јахве на Моше,",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "16bb03f29a25ccc8c1d294b332977cad560a69f55b641d74153a8b0cfb18bbc6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/15\/21-24.1792444884740.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "תשגו",
+      "gloss": "залутате"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "направите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите овие заповеди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборува"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-10-19T21:21:24.741441412Z",
+  "model": "glm-5.3"
+}

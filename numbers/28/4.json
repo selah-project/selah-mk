@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "меѓу вечерите",
+      "rationale": "בין הערבים буквално „меѓу двете вечерта“ — рамките\/прецекуќење (традиционално) наспроти самрак."
+    },
+    {
+      "kind": "measurement",
+      "subject": "наутро \/ меѓу вечерите",
+      "rationale": "Двапатнен дневен распоред на приносите — точно определени часови."
+    }
+  ],
+  "translation": "⟨את⟩ едното јагне подготвувај наутро, а ⟨את⟩ второто јагне подготвувај меѓу вечерите.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c5b90edf946f889fa14d15da624c04cc5724aa28e13f03e1958766bb81328d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/28\/1-4.1792445098423.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "едното јагне"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "јагнето"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "едното"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "подготвувај"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "наутро"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "второто јагне"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "јагнето"
+    },
+    {
+      "surface": "השני",
+      "gloss": "второто"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "подготвувај"
+    },
+    {
+      "surface": "בין",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "вечерите"
+    }
+  ],
+  "timestamp": "2026-10-19T21:24:58.424524260Z",
+  "model": "glm-5.3"
+}

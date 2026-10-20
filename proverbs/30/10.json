@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨да не се најдеш⟩",
+      "rationale": "хебрејскиот вели само 'и виновен' — македонскиот бара глаголска форма"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תלשן \/ לשון",
+      "rationale": "корен לשן значи 'јазик' — букв. 'да не мрда јазик против', сликата е изгубена"
+    }
+  ],
+  "translation": "Не клевети слуга кај господарот негов, да не те проколне и ⟨да⟩ ⟨не⟩ ⟨се⟩ ⟨најдеш⟩ виновен.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/30\/9-12.1792454773501.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "клевети"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "слуга"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "господарот негов"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "те проколне"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "и виновен"
+    }
+  ],
+  "timestamp": "2026-10-20T00:06:13.501811245Z",
+  "model": "glm-5.3"
+}

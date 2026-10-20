@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מכור הברזל",
+      "rationale": "„железна печка“ — метафора за ропството во Мицраим, задржана буквално"
+    },
+    {
+      "kind": "addition",
+      "subject": "А",
+      "rationale": "хебрејскиот почнува со ве („а вас“) без сврзник; македонскиот бара „А“"
+    }
+  ],
+  "translation": "А вас ве зеде Јахве и ве изведе од печката железна, од Мицраим, за да Му бидете народ за наследство, како денес.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2ac6ebff37a0f5d99d6e6182659f48e1e45c94f6f805b2d564e0f8cd1578e6d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/4\/17-20.1792445374638.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ вас"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "зеде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "и изведе"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "од печката"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "железна"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "од Мицраим"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "за да бидете"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Му"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "за наследство"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "како денес"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    }
+  ],
+  "timestamp": "2026-10-19T21:29:34.640789839Z",
+  "model": "glm-5.3"
+}

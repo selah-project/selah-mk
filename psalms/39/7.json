@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יצבר \/ אספם",
+      "rationale": "Два различни корени за 'собира' — тој натрупува, друг собира; играта се губи ако двапати се стави ист збор."
+    },
+    {
+      "kind": "crux",
+      "subject": "привид",
+      "rationale": "צלם — 'слика\/привид\/сенка': 'како сенка' наспроти 'како привид' — двата одат."
+    },
+    {
+      "kind": "elision",
+      "subject": "богатство",
+      "rationale": "Предметот на собирањето не е напишан во хебрејскиот; KJV додава 'богатства'."
+    }
+  ],
+  "translation": "Само како привид оди човекот; само хевел е метежот; тој собира, а не знае кој ќе го собере.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d0b9d5ce4e3cd20787d2e9b12fa525c2f5e23e9d2adba20990e82c2d8a24ab38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/39\/5-8.1792453295341.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Само"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "како привид"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хевел"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "е метежот"
+    },
+    {
+      "surface": "יצבор",
+      "gloss": "собира"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "ќе го собере"
+    }
+  ],
+  "timestamp": "2026-10-19T23:41:35.342541355Z",
+  "model": "glm-5.3"
+}

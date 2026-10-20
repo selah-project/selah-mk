@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Дали … е",
+      "rationale": "Прашалното ה на העת бара македонско прашално „Дали“ и копула што хебрејскиот ги нема."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עת",
+      "rationale": "Третото „време“ во низата — прашањето на Јахве го враќа зборот на народот против нив самите."
+    },
+    {
+      "kind": "substitution",
+      "subject": "обложени",
+      "rationale": "ספונים — покриени со дрвена облога на таванот и ѕидовите, знаци на луксуз."
+    },
+    {
+      "kind": "you",
+      "subject": "до народот",
+      "rationale": "Директно обраќање со реторичко прашање — „за вас, вие“ со нагласен зачленет заменски облик."
+    }
+  ],
+  "translation": "Дали ⟨е⟩ време за вас — вие — да живеете во вашите обложени куќи, а овој дом запустен?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6065e47d61d55f1a724afda066f0142bc05d98de4125cbcfe9c6b59027cc189f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/haggai\/1\/1-4.1792452733451.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "Дали време"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "да живеете"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "во вашите куќи"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "обложени"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "а домот"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "запустен"
+    }
+  ],
+  "timestamp": "2026-10-19T23:32:13.453376413Z",
+  "model": "glm-5.3"
+}

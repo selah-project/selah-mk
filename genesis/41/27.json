@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 41:27",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הקדים",
+      "rationale": "буквално „истокот“ — во стихот значи „источен ветер“ што ги лути класјата"
+    },
+    {
+      "kind": "measurement",
+      "subject": "седум години глад",
+      "rationale": "броење — седум години глад според седумте мршави крави"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הרקות",
+      "rationale": "два различни хебрејски збора (7534 мршави, 7386 празни) — двете се „испразнети“ по смисла"
+    }
+  ],
+  "translation": "И седум крави мршави и лоши што излегоа по нив — седум години ⟨тие⟩ се; и седум класја празни, изгорени од источниот ветер — ќе бидат седум години глад.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3c62cc1bca92a98f6bbdbee56730f533e913673a24b99e1daca77152506db55b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/41\/25-28.1792443112740.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבע",
+      "gloss": "И седум"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "крави"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "мршави"
+    },
+    {
+      "surface": "והרעת",
+      "gloss": "и лоши"
+    },
+    {
+      "surface": "העלת",
+      "gloss": "што излегоа"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "по нив"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седум"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и седум"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "класја"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "празни"
+    },
+    {
+      "surface": "שדפות",
+      "gloss": "изгорени"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "од источниот ветер"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ќе бидат"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седум"
+    },
+    {
+      "surface": "שני",
+      "gloss": "години"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "глад"
+    }
+  ],
+  "timestamp": "2026-10-19T20:51:52.745288828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בעיני",
+      "rationale": "'во очите на' — хебрејски израз за 'во очите на \/ според', даден буквално."
+    },
+    {
+      "kind": "crux",
+      "subject": "וירע",
+      "rationale": "'беше зла\/тешка' — глаголот רעע значи расипување, кршење; традицијата го мекнува во 'жалост' (KJV grievous), букв. е 'работата беше многу лоша'."
+    }
+  ],
+  "translation": "И работата ⟨беше⟩ многу зла во очите на Аврахам поради синот негов.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "5f8bd426bb3068f6b10949217c2709703ea6dc4e45684c6359ac4b00cc7d72d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/21\/10-12.1792447678683.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "⟨беше⟩ зла"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "работата"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "во очите"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "на Аврахам"
+    },
+    {
+      "surface": "על",
+      "gloss": "поради"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "поради"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот негов"
+    }
+  ],
+  "timestamp": "2026-10-19T22:07:58.685963200Z",
+  "model": "glm-5.3"
+}

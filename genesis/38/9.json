@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 38:9",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ושחת ארצה",
+      "rationale": "буквално „расипуваше на земја“ — идиом за спилување на семето; зачуван буквално."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרע",
+      "rationale": "„семе\/потомство“ — хебрејскиот збор е физичко семе и потомство во ист збор."
+    },
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "gloss note": "",
+      "rationale": "предлог со наставка „нему“ — независен-token во хебрејскиот, обединува македонскиот го покрива со коска."
+    }
+  ],
+  "translation": "И знаеше Авнан дека нема да биде негово семето; и беше така: кога влегуваше ⟨את⟩ кај жената на брата си, расипуваше на земја, за да не даде семе на брата си.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "728ea4c03aec7648d7e71e56510b6ced529350819451d3582a7efaff8d84647d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/38\/9-12.1792443090605.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "И знаеше"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Авнан"
+    },
+    {
+      "surface": "כי",
+      "gloss": " дека "
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "семето"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и беше така"
+    },
+    {
+      "surface": "אם",
+      "gloss": "кога"
+    },
+    {
+      "surface": "בא",
+      "gloss": "влегуваше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жената"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "на брата си"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "расипуваше"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "на земја"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "за да не"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "семе"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "на брата си"
+    }
+  ],
+  "timestamp": "2026-10-19T20:51:30.606610637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨оној⟩",
+      "rationale": "прилогот ל + particip се претвора во македонска релативна конструкција"
+    },
+    {
+      "kind": "alternative",
+      "subject": "чуда",
+      "rationale": "נפלאות буквално 'одделеното\/исклучителното' — необични дела над природниот ред"
+    }
+  ],
+  "translation": "На ⟨оној⟩ што прави големи чудеса сам, зашто во вечност ⟨трае⟩ хеседот негов.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f6106afd89616535912ecf0c88195e9b1dc2820b774689dd7f9538148c04e53e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/136\/1-4.1792454101985.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "на ⟨оној⟩ што прави"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "чуда"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "големи"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "сам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "во вечност"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседот негов"
+    }
+  ],
+  "timestamp": "2026-10-19T23:55:01.986443057Z",
+  "model": "glm-5.3"
+}

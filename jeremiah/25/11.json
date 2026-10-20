@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 25:11",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "седумдесет години",
+      "rationale": "точен број години на ропство — клучна хронолошка одредница во книгата"
+    }
+  ],
+  "translation": "И цела оваа земја ќе биде за пустина и за запустение, и овие народи ќе му служат ⟨את⟩ на кралот на Вавилон седумдесет години.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7d6ff903a3db5cab5b332f2bf2f12e0070667246de7f6c5b1db004a66b6669e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/25\/9-12.1792450795360.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цела"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "за пустина"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "за запустение"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "и ќе служат"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кралот на Вавилон"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "кралот"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "седумдесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    }
+  ],
+  "timestamp": "2026-10-19T22:59:55.365580027Z",
+  "model": "glm-5.3"
+}

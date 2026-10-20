@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 36:37",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "дело на везач",
+      "rationale": "מעשה רקם — буквално „работа на везење“; JPS чита „ткајач во бои“, разлика меѓу везење и ткаење"
+    },
+    {
+      "kind": "substitution",
+      "subject": "црвената црв",
+      "rationale": "תולעת שני е бојата именувана по инсектот (црвена црв), задржана сликата а не само „скрлет“"
+    }
+  ],
+  "translation": "И направи завеса за влезот на шаторот — сино-виолетова, виолетова и црвена од црвената црв, и префин лен усукан — дело на везач.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1d7fd72e490e32d0493b188ad90749b97c33401068e943b50e3d875446b28766",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/36\/37-38.1792443931172.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И направи"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "завеса"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "за влезот"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "на шаторот"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "сино-виолетова"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "виолетова"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "и црвената црв"
+    },
+    {
+      "surface": "שני",
+      "gloss": "црвена"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "и префин лен"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "усукан"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "на везач"
+    }
+  ],
+  "timestamp": "2026-10-19T21:05:31.175213971Z",
+  "model": "glm-5.3"
+}

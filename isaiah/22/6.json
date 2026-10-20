@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 22:6",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ברכב אדם",
+      "rationale": "'со коли на луѓе' буквално; JPS 'со одреди луѓе' го ублажува сликата"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קיר",
+      "rationale": "Кир како име на место против קיר 'ѕид' од стих 5 — играта е дел од визијата"
+    }
+  ],
+  "translation": "И Елам ја понесе трубеловката, со коли на луѓе, коњаници; и Кир го откри штитот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "5e60c3386a33758406e16863b733503e5a9ad1d21342715a4229d3989fe49853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/22\/5-8.1792449798745.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועילם",
+      "gloss": "И Елам"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ја понесе"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "трубеловката"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "со коли"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на луѓе"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "коњаници"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "и Кир"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "го откри"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "штитот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:18.748988577Z",
+  "model": "glm-5.3"
+}

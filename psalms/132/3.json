@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Ако влезам",
+      "rationale": "אם + несвршен глагол е клетвена формула: „да не влезам…“; буквалното „ако“ го крие клетвениот склад"
+    }
+  ],
+  "translation": "Ако влезам во шаторот на мојот дом, ако се качувам на постелата на моето легло —",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "50160d280066b0494859aabfcbb8bb1f0ae07e90f934b48a4e3f5fdb316ab3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/132\/1-4.1792454081357.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "влезам"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "во шаторот"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "на мојот дом"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "се качувам"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "постелата"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "на моето легло"
+    }
+  ],
+  "timestamp": "2026-10-19T23:54:41.358764071Z",
+  "model": "glm-5.3"
+}

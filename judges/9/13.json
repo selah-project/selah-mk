@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 9:13",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "да се лулашам над дрвјата",
+      "rationale": "לנוע על העצים: 'да се лулашам над' (букв. 'да нишам над дрвјата', YLT\/ASV) vs. 'да владеам над' (KJV\/JPS) vs. 'да одам меѓу'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Елохим",
+      "rationale": "множината глагол המשמח ('ги развеселува') стои во еднина со Елохим; букв. 'што развеселува"
+    }
+  ],
+  "translation": "И рече им лозата: Да престанам ли со ⟨את⟩ моето ново вино, што ги развеселува Елохим и луѓето, и да отидам да се лулашам над дрвјата?",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d79c3c82a0cc6f13db09dbebcf6fc49eae5c4a7eec27932e351d79a3c878bde8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/9\/13-16.1792446403502.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "лозата"
+    },
+    {
+      "surface": "החדלתי",
+      "gloss": "Да престанам ли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "моето ново вино"
+    },
+    {
+      "surface": "תירושי",
+      "gloss": "моето ново вино"
+    },
+    {
+      "surface": "המשמח",
+      "gloss": "што ги развеселува"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "и луѓето"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "и да отидам"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "да се лулашам"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дрвјата"
+    }
+  ],
+  "timestamp": "2026-10-19T21:46:43.503253276Z",
+  "model": "glm-5.3"
+}

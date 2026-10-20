@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 23:16",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "копнее",
+      "rationale": "עגב — да дише по нешто, страстна желба; македонскиот има еден глагол за сликата"
+    }
+  ],
+  "translation": "И таа почна да копнее по нив на видот на очите свои, и им испрати пратеници во Калдеја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dacb64c37969304caf8c5961234958764c13c2b9ee9ee0b393d1fcb25f11c250",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/23\/13-16.1792451672498.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעגב",
+      "gloss": "И почна да копнее"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "по нив"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "на видот"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "на очите свои"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "и испрати"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "пратеници"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כשדימה",
+      "gloss": "во Калдеја"
+    }
+  ],
+  "timestamp": "2026-10-19T23:14:32.499427414Z",
+  "model": "glm-5.3"
+}

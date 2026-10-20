@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 68:29",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עוזה אלהים",
+      "rationale": "Императив 'зајакни, Елохим' или именска фраза 'силата на Елохим' — преводите се делат тука."
+    },
+    {
+      "kind": "you",
+      "subject": "до Елохим",
+      "rationale": "Директен повик кон Елохим да го зајакне она што го направил за нас."
+    }
+  ],
+  "translation": "Твојот Елохим ја заповеда силата твоја: зајакни, Елохим, ова што го изврши за нас!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2370dfcffe6a436facc24f2f75ec82f5be09e01dc89cb952d8319197ecf0aca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/68\/29-32.1792453495971.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "заповеда"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "силата твоја"
+    },
+    {
+      "surface": "עוזה",
+      "gloss": "зајакни"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ова"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "го изврши"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "за нас"
+    }
+  ],
+  "timestamp": "2026-10-19T23:44:55.972599211Z",
+  "model": "glm-5.3"
+}

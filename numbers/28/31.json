@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 28:31",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "се-гореница",
+      "rationale": "עלה буквално „она што се качува“ — целиот дар што се качува во чад."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ливации\/неења",
+      "rationale": "נסכים — она што се лее (вино\/вода), не „пиења“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "постојната се-гореница",
+      "rationale": "Стихот брои додатоци на дневниот редовен додаток — секојдневна пресметка на жртвите."
+    }
+  ],
+  "translation": "освен ⟨את⟩ постојната се-гореница и ⟨את⟩ нејзината минха — ⟨ги⟩ подготвувајте; без недостаток нека бидат за вас, и нивните леења.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "7b07036bbc99ff88a0f7622431234aa1e18af56668b8fbf6428e815ba426e972",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/28\/29-31.1792445074418.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "освен"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "се-гореница"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "постојната"
+    },
+    {
+      "surface": "ומנחתו",
+      "gloss": "и нејзината минха"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "⟨ги⟩ подготвувајте"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "без недостаток"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "нека бидат"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "и нивните леења"
+    }
+  ],
+  "timestamp": "2026-10-19T21:24:34.420482519Z",
+  "model": "glm-5.3"
+}

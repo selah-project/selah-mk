@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezekiel 23:33",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמה\/ושממה",
+      "rationale": "Коренот ш-м-м се повторува: ужас и опустошение, скоро истоветен пар."
+    },
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "Македонскиот рефлексивен честичка за среднопасивната форма на תמלאי."
+    }
+  ],
+  "translation": "Пијаност и тага ќе ⟨се⟩ наполниш, чаша на ужасина и на опустошение, чашата на сестра ти Шомрон.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "852751afbcddca23cfac2dfbf11e2e676cc248c145a3baa36d0f146b89d3d8e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/23\/33-36.1792451751301.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שכרון",
+      "gloss": "пијаност"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "и тага"
+    },
+    {
+      "surface": "תמלאי",
+      "gloss": "ќе се наполниш"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "чаша"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "на ужасина"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "и на опустошение"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "чашата"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "на сестра ти"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомрон"
+    }
+  ],
+  "timestamp": "2026-10-19T23:15:51.302312726Z",
+  "model": "glm-5.3"
+}

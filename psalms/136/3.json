@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Адонај",
+      "rationale": "אדני во status constructus за Бога — Името Адонај, не 'господар', кој останува за луѓето во множината"
+    }
+  ],
+  "translation": "Благодарете ⟨му⟩ на Адонај над господарите, зашто во вечност ⟨трае⟩ хеседот негов.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f6106afd89616535912ecf0c88195e9b1dc2820b774689dd7f9538148c04e53e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/136\/1-4.1792454101985.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Благодарете"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "на Адонај над"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "господарите"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "во вечност"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседот негов"
+    }
+  ],
+  "timestamp": "2026-10-19T23:55:01.986249511Z",
+  "model": "glm-5.3"
+}

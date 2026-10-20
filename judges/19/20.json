@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 19:20",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שלום לך",
+      "rationale": "Хебрејски поздрав „Мир тебе“ — во македонскиот би било „здраво“, но се чува букватањето."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רק … רק",
+      "rationale": "Двојното „само“ гради рамнотежа: сето твојте manque на мене — само не ноќевај надвор."
+    }
+  ],
+  "translation": "И рече човекот, старецот: Мир тебе! Само целиот твој недостаток нека биде на мене — само на плоштадот не ноќевај.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b30d979e8f64cdbd08828c34197a0482e033c31083977080738f5e6cec58c4e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/19\/17-20.1792446590961.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "старецот"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Мир"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "רק",
+      "gloss": "Само"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "מחסורך",
+      "gloss": "твој недостаток"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на мене"
+    },
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "на плоштадот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "ноќевај"
+    }
+  ],
+  "timestamp": "2026-10-19T21:49:50.962238468Z",
+  "model": "glm-5.3"
+}

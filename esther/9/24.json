@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "esther 9:24",
+  "book": "esther",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פור",
+      "rationale": "„Пур“ — акадски збор за ждреб, објаснет внатре во текстот со хебрејското „הגורל“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פור\/הגורל",
+      "rationale": "Двоен збор: странскиот израз и неговото хебрејско објаснување стојат еден до друг — оттука и името Пурим."
+    }
+  ],
+  "translation": "Зашто Аман, син на Медата, Агагејот, непријател на сите Јудеи, намислил против Јудеите да ги уништи, и фрлил Пур — тоа е ждребот — да ги сузбие и да ги уништи.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "afb35f8b97601cd5d31cf30a07ffa2c173831fda55d7190397f6c413de80bd54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/esther\/9\/21-24.1792456002724.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Аман"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "на Медата"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Агагејот"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "непријател"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на сите"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Јудеи"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "намислил"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Јудеите"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "да ги уништи"
+    },
+    {
+      "surface": "והפיל",
+      "gloss": "и фрлил"
+    },
+    {
+      "surface": "פור",
+      "gloss": "Пур"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тоа е"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ждребот"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "да ги сузбие"
+    },
+    {
+      "surface": "ולאבדם",
+      "gloss": "и да ги уништи"
+    }
+  ],
+  "timestamp": "2026-10-20T00:26:42.725955318Z",
+  "model": "glm-5.3"
+}

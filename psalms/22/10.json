@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ме изливаш",
+      "rationale": "גִּיחַ значи да избувнам како вода; 'извлекуваш' (KJV) ја губи сликата на раѓање како излив."
+    },
+    {
+      "kind": "crux",
+      "subject": "ме уверуваш",
+      "rationale": "hiphil од בטח: 'правиш да се доверувам' или ' mi даваш доверба\/сигурност'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "на градите",
+      "rationale": "שָׁדַי е 'гради' — истите согласки како Шадај; можно е доцна играта на зборови, но буквата е 'гради'."
+    }
+  ],
+  "translation": "Зашто Ти ме изливаш од утроба, ме уверуваш на градите на мајка ми.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "47a0de3be98c730c1580e429d33f1946bf0c6d0015ef3530c8c85d945dbaba10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/22\/9-12.1792453083116.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "ме изливаш"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "од утроба"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "ме уверуваш"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "градите"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "на мајка ми"
+    }
+  ],
+  "timestamp": "2026-10-19T23:38:03.117571091Z",
+  "model": "glm-5.3"
+}

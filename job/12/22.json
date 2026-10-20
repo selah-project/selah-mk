@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 12:22",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цалмавет",
+      "rationale": "букв. „сенка-на-смрт“, една хебрејска novela-двојка; задржано составено „сенката на смртта“."
+    },
+    {
+      "kind": "secret",
+      "subject": "длабочините од темнината",
+      "rationale": "Елохим го открива скриеното — стихот зборува за откривање на сокриените работи."
+    }
+  ],
+  "translation": "Ги открива длабочините од темнината и ја изнесува на светлина сенката на смртта.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6cce5daa9ee4f23dd0efc89477366f23b0eabe562369eef9efcbe8ad2d0311d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/12\/21-24.1792454981605.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגלה",
+      "gloss": "Ги открива"
+    },
+    {
+      "surface": "עמקות",
+      "gloss": "длабочините"
+    },
+    {
+      "surface": "מני",
+      "gloss": "од"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "темнината"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и ја изнесува"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "на светлина"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "сенката на смртта"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:41.605984105Z",
+  "model": "glm-5.3"
+}

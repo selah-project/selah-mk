@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Може ли",
+      "rationale": "Усогласено со 6:27 — хебрејскиот нема посебен прашален збор туку ништа, македонскиот додавa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אש \/ הגחלים",
+      "rationale": "Низа паралелни слики: оган-облека (ст. 27), жар-нозе (ст. 28) — градација што македонскиот ја задржува."
+    }
+  ],
+  "translation": "Или може ли човек да оди по жар, а нозете негови да не се изгорат?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f1072fa6d8ae8ca9428cc35dfb4990f73af330bf1ae2b370d7dbf3e81214fab3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/6\/25-28.1792454351776.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "или"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "да оди"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "жар"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "а нозете негови"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "да се изгорат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:59:11.777341890Z",
+  "model": "glm-5.3"
+}

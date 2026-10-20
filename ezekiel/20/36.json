@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezekiel 20:36",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אשפט אתכם",
+      "rationale": "שפט со עם (H854) — „да се судам со“, судски двобој меѓу две страни, не еднострока пресуда."
+    },
+    {
+      "kind": "crux",
+      "subject": "времето на נשפטתי",
+      "rationale": "Иделно\/многузначно време — „се судив“ или „сé судам“; контекстот гледа назад на судбите во Мицраим."
+    }
+  ],
+  "translation": "Како што се судив ⟨את⟩ со татковците ваши во пустината на земјата Мицраим, така ќе се судам со вас, изрека на Адонај Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e1e647a4e008bf21d9dcaff0656403b2a6b70eae36fe96cbbd69081d11b36008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/20\/33-36.1792451653999.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Како што"
+    },
+    {
+      "surface": "נשפטתי",
+      "gloss": "се судив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "со татковците ваши"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "татковците ваши"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "во пустината"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ќе се судам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ со"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:14:14.001263241Z",
+  "model": "glm-5.3"
+}

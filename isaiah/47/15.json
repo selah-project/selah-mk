@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 47:15",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "на својата сторона",
+      "rationale": "לְעֶבְרוֹ — буквално „ кон својот премин\/друга страна“; преведувачите: на својот пат, на својата страна, секој на своја страна"
+    },
+    {
+      "kind": "alternative",
+      "subject": "трговците твои",
+      "rationale": "סֹחֲרַיִך може да бидат и „напорните\/прошталците“ — оние што кружат; иронично против астролозите"
+    }
+  ],
+  "translation": "Така ти беа оние со кои се умори, трговците твои од младоста твоя; човек на својата страна скита — нема кој да те спаси.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "0da6585cd1d76a77657cfd2424be659d396f0ab0e770e85b963d5844f3c3c9f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/47\/13-15.1792450161218.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Така"
+    },
+    {
+      "surface": "היו",
+      "gloss": "беа"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кои"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "се умори"
+    },
+    {
+      "surface": "סחריך",
+      "gloss": "трговците твои"
+    },
+    {
+      "surface": "מנעוריך",
+      "gloss": "од младоста твоя"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "לעברו",
+      "gloss": "на својата страна"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "скита"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "кој да те спаси"
+    }
+  ],
+  "timestamp": "2026-10-19T22:49:21.219710739Z",
+  "model": "glm-5.3"
+}

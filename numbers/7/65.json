@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "numbers 7:65",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Македонскиот бара копула; хебрејскиот ја нема"
+    },
+    {
+      "kind": "measurement",
+      "subject": "број на жртви",
+      "rationale": "побројани жртвени животни: 2 говеда, 5 елени, 5 јарци, 5 јагиња"
+    }
+  ],
+  "translation": "И за жртва на мирните приноси: две говеда, пет елени, пет јарци, пет јагиња од една година — ова ⟨е⟩ приносот на Авидан, синот на Гидони.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9b1a79285bc1852525c3dee10e9d2cb8005bc58d087d5f7028ec8532f7d580c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/7\/65-68.1792444727724.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "и за жртва"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "на мирните приноси"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "говеда"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "две"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "елени"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "јарци"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "јагиња"
+    },
+    {
+      "surface": "בני",
+      "gloss": "од"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "една година"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "приносот"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "Авидан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "на Гидони"
+    }
+  ],
+  "timestamp": "2026-10-19T21:18:47.724973026Z",
+  "model": "glm-5.3"
+}

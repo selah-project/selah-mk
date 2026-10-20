@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 23:14",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעזכן",
+      "rationale": "„тврдина\/бастион“ (ASV, JPS) наспроти „силата\/пристаништето“ (KJV: strength)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Ридете",
+      "rationale": "ילל — завивање како жалост, македонскиот „риде“ го задржува тоа"
+    }
+  ],
+  "translation": "Ридете, бродови на Таршиш, зашто ⟨вашиот⟩ бастион е разурнат.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "55c261131dfbbb23620c228e788c4477ab817ae41d967429cd8f6bcbbe3ffe23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/23\/13-16.1792449796124.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Ридете"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "бродови"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "на Таршиш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "е разурнат"
+    },
+    {
+      "surface": "מעזכן",
+      "gloss": "вашиот бастион"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:16.126932827Z",
+  "model": "glm-5.3"
+}

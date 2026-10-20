@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Слушајте, небеса",
+      "rationale": "Процесен повик: небесата и земјата се повикуваат како сведоци."
+    }
+  ],
+  "translation": "Слушајте, небеса, и прилушај, земле, зашто Јахве зборува: синови одгледав и подигнав, а тие се побуниа против мене.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6beb105412b3d0f341ff93a7b970e93c6ed9f7caf9493d7e48af5de34a864aa0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/1\/1-4.1792449538163.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Слушајте"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "и прилушај"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборува"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "одгледав"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "и подигнав"
+    },
+    {
+      "surface": "והם",
+      "gloss": "а тие"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "се побуниа"
+    },
+    {
+      "surface": "בי",
+      "gloss": "против мене"
+    }
+  ],
+  "timestamp": "2026-10-19T22:38:58.165387273Z",
+  "model": "glm-5.3"
+}

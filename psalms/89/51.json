@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨за⟩",
+      "rationale": "македонскиот бара документ во конструкцијата што хебрејскиот ја остава сврзана"
+    },
+    {
+      "kind": "crux",
+      "subject": "שאתי",
+      "rationale": "инфинитив 'носењето мое' — се чита и како 'го носам во градите' (KJV) и како самостојна именка; јас го врзувам со חרפת"
+    },
+    {
+      "kind": "you",
+      "subject": "до Адонај",
+      "rationale": "императив 'Сети се' упатен директно до Адонај"
+    }
+  ],
+  "translation": "Сети се, Адонај, за навредата на слугите свои — ⟨за⟩ она што го носам во градите свои: навредата на сите многубројни народи.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "40dd7bfdb9a4540639b7606fc86c14d3794e3371f5284eb8acfacf9a0fca0f79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/89\/50-51.1792458400530.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Сети се"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "навредата"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "на слугите свои"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "што го носам"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "во градите свои"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многубројни"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народи"
+    }
+  ],
+  "timestamp": "2026-10-20T01:06:40.530946756Z",
+  "model": "glm-5.3"
+}

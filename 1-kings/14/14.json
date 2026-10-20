@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 14:14",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומה גם עתה",
+      "rationale": "Кратка нејасна реченица: „и што? дури и сега“ — дали значи дека удирот веќе започнал или е реторичко возвишение"
+    }
+  ],
+  "translation": "И ќе подигне Јахве ⟨за⟩ себеси цар над Јисраел, кој ќе го истреби ⟨את⟩ домот на Јаровоам — ова ⟨е⟩ денот; и што — веќе сега!",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "017631d8d90b5efb14a705075cc2a33784c11e8b7f68d1b7b27d68fcc56523bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/14\/13-16.1792448825458.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקים",
+      "gloss": "и ќе подигне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨за⟩ себеси"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кој"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "ќе истреби"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "домот на Јаровоам"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "на Јаровоам"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денот"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и што"
+    },
+    {
+      "surface": "גם",
+      "gloss": "та"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "веќе сега"
+    }
+  ],
+  "timestamp": "2026-10-19T22:27:05.460553213Z",
+  "model": "glm-5.3"
+}

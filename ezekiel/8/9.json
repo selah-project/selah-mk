@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "влези и види",
+      "rationale": "Двоен императив упатен директно на Езекиил — повик да влезе и да види."
+    },
+    {
+      "kind": "addition",
+      "subject": "ги",
+      "rationale": "Македонскиот клитички показател го дуплира обележаниот објект од ⟨את⟩."
+    }
+  ],
+  "translation": "И ми рече: Влези и види ги ⟨את⟩ злите гнусости што тие ги прават тука.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e9fa700c2bc192dca953e77f0df31971148dcd7058638099c5973a98e8af433c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/8\/9-12.1792451426226.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И ми рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "בא",
+      "gloss": "влези"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и види"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "злите гнусости"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "гнусостите"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "злите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "הם",
+      "gloss": "тие"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "прават"
+    },
+    {
+      "surface": "פה",
+      "gloss": "тука"
+    }
+  ],
+  "timestamp": "2026-10-19T23:10:26.227411949Z",
+  "model": "glm-5.3"
+}

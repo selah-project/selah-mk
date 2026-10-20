@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨порака⟩",
+      "rationale": "Хебрејскиот вели само „ми испрати“ — содржината следи во следниот стих."
+    }
+  ],
+  "translation": "И рече Билам на Елохим: Балак, синот на Ципор, царот на Моав, ми испрати ⟨порака⟩:",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "efe838158a0ccacf66bb1628b16dff59c221d95d84c0b6429d06775f2aedc408",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/22\/9-12.1792444988451.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "Ципор"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "испрати"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    }
+  ],
+  "timestamp": "2026-10-19T21:23:08.452545096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 22:21",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Jerusalem\/Judah as feminine addressee",
+      "rationale": "Целиот стих ја зборува женската доделена (тебе, твојот), ставка на国情ата на Јуда."
+    },
+    {
+      "kind": "substitution",
+      "subject": "мир",
+      "rationale": "בשלות е сигурност\/спокојство; „мир“ ги покрива двете нијанси."
+    }
+  ],
+  "translation": "Зборував кон тебе во твојот мир — а ти рече: нема да слушам. Ова е патот твој од младоста твоја, зашто не слушаш на гласот мој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f30bdfacf814a6fb61166f402ed87f0688a5868da1959a1890c7653e347e5b16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/22\/21-24.1792450688135.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברתי",
+      "gloss": "Зборував"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "кон тебе"
+    },
+    {
+      "surface": "בשלותיך",
+      "gloss": "во твојот мир"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "рече"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "да слушам"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "пътот твој"
+    },
+    {
+      "surface": "מנעוריך",
+      "gloss": "од младоста твоја"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "слушаш"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "на гласот мој"
+    }
+  ],
+  "timestamp": "2026-10-19T22:58:08.136158848Z",
+  "model": "glm-5.3"
+}

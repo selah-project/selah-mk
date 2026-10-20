@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 21:13",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула во relativната реченица"
+    },
+    {
+      "kind": "measurement",
+      "subject": "граница",
+      "rationale": "стихот дефинира гранична линија меѓу Моав и\tеморитите"
+    }
+  ],
+  "translation": "Од таму тргнаа и се логорија од другата страна на Арнон, кој ⟨е⟩ во пустињата, што излегува од границата на\temоритe; зашто Арнон е граница на Моав, меѓу Моав и меѓу\tеморитe.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "79ce5c8d28b2a5a5d43d2f0c435c8fd6f748e5ec8dfee043521c0e0fcce0e526",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/21\/13-16.1792444970750.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "од таму"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "тргнаа"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и се логорија"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "од другата страна"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Арнон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кој"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "во пустињата"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "излегува"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "од границата"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "на\tеморитe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Арнон"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "граница"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "на Моав"
+    },
+    {
+      "surface": "בין",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и меѓу"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "еморитe"
+    }
+  ],
+  "timestamp": "2026-10-19T21:22:50.751148517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 36:28",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "облацинебесни",
+      "rationale": "שחקים е 'истаткани\/прашни височини' — небесните облаци, повеќе од обичен שחק"
+    }
+  ],
+  "translation": "што ги пролеваат облацинебесни, ројат врз човекот изобилно.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9d0e647d59e2a844a09e99bb31d08222085fe8af42eb0c519d346a2c21dfc3ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/36\/25-28.1792455288116.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "пролеваат"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "облацинебесни"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "ројат"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "врз"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "רב",
+      "gloss": "изобилно"
+    }
+  ],
+  "timestamp": "2026-10-20T00:14:48.117681104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "на устата на мечот",
+      "rationale": "לפי חרב буквално 'на устата на мечот', т.е. острицата"
+    },
+    {
+      "kind": "addition",
+      "subject": "негов",
+      "rationale": "завршната наставка на עמו е преведена со придавка"
+    }
+  ],
+  "translation": "И Јехошуа го сломи ⟨את⟩ Амалек и ⟨את⟩ народот негов на устата на мечот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1954886aa6b4636e41f652343acf47fdb9f1cf61858f53f02a5207633bfe44c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/17\/13-16.1792443582947.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "го сломи"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амалек"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "народот негов"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народот негов"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "на устата"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "на мечот"
+    }
+  ],
+  "timestamp": "2026-10-19T20:59:42.949993330Z",
+  "model": "glm-5.3"
+}

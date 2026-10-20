@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Сите зборови ⟨се⟩ уморни",
+      "rationale": "כל הדברים יגעים: или 'сите нешта се уморни' (KJV) или 'сите зборови' — истиот корен דבר; следниот дел зборува за говор."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברים \/ לדבר",
+      "rationale": "игра на коренот דבר: 'зборовите' и 'да говори' во ист стих."
+    }
+  ],
+  "translation": "Сите зборови ⟨се⟩ уморни — човек не може да говори; окото не се наситува од гледање и увото не се наполни од слушање.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7ee817c5897eb9019f5f2eb1e4bead17372d0ec66a5cd051a57637b4597197cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/1\/5-8.1792455655663.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "зборовите"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "уморни ⟨се⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "може"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "да говори"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "се наситува"
+    },
+    {
+      "surface": "עין",
+      "gloss": "око"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "од гледање"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "се наполни"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "уво"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "од слушање"
+    }
+  ],
+  "timestamp": "2026-10-20T00:20:55.664339079Z",
+  "model": "glm-5.3"
+}

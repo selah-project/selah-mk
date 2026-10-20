@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "нести глава",
+      "rationale": "нашá еш рош — идном за попишување\/попис, буквално „да се подигне главата“; изгубено во „попиши“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "попис на Гершонците",
+      "rationale": "заповед за број поврзан со пописот на Лејви"
+    }
+  ],
+  "translation": "Подигни ⟨את⟩ главата на синовите Гершон — и тие — по домот на татковците нивни, по семејствата нивни.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "df482fc2298f8114b0ad23d6c458cd9c66d2a4473c8825a6426cff07f7c6c102",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/4\/21-24.1792447713619.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Подигни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "главата"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "главата"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершон"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "הם",
+      "gloss": "тие"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "по домот"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "на татковците нивни"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "по семејствата нивни"
+    }
+  ],
+  "timestamp": "2026-10-19T22:08:33.622927840Z",
+  "model": "glm-5.3"
+}

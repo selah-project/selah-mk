@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 27:31",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפש е\tгрло\/животен\tдах\/апетит,\tне\tбессмртна\tдуша;\t'душата\tтвоја'\t=\t'ти\tцелосно'."
+    },
+    {
+      "kind": "you",
+      "subject": "до\tЈицхак",
+      "rationale": "Директен\tобраќање\tна\tтаткото\tсо\tповик\t'Стани,\tтатко\tми'\t—\tповторување\tна\tзборовите\tна\tЈааков\tод\tv.25."
+    }
+  ],
+  "translation": "И направи и тој\t вкусни\tјадења\tи\tги\tdonese\tна\tтатко\tси,\tи\tму\tрече\tна\tтатко\tси:\tСтани,\ttatko\tми,\tи\tјади\tод\tловот\tна\tсинот\tси,\tза\tда\tме\tблагослови\tдушата\tтвоја.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3b32dee35b19fb090e6a3468a07e2a2a7dd3ea48e78949b0d5c1534f8a8f9e83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/27\/29-32.1792442901134.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "направи"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "вкусни\tјадења"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ги\tdonese"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "на\tтатко\tси"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "му\tрече"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "на\tтатко\tси"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "Стани"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatko\tми"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "и\tјади"
+    },
+    {
+      "surface": "מציד",
+      "gloss": "од\tловот"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "на\tсинот\tси"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "за\tда"
+    },
+    {
+      "surface": "תברכני",
+      "gloss": "ме\tблагослови"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "душата\tтвоја"
+    }
+  ],
+  "timestamp": "2026-10-19T20:48:21.136618867Z",
+  "model": "glm-5.3"
+}

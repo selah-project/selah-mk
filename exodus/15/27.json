@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 15:27",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "дванаесет извори, седумдесет палми",
+      "rationale": "бројките се точни како во хебрејскиот: 12 извори и 70 палми"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עינת",
+      "gloss-rationale": ""
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨имааше⟩",
+      "rationale": "хебрејскиот е именска реченица без глагол; македонскиот бара 'имааше'"
+    }
+  ],
+  "translation": "И дојдоа во Елим, и таму ⟨имааше⟩ дванаесет извори на вода и седумдесет палми, и се улогорија таму крај водите.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "25f3f04862d03b4188d45ffd38513932e81438dcff2da64f38dbe2b5fd5a117e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/15\/25-27.1792443516395.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "дојдоа"
+    },
+    {
+      "surface": "אילמה",
+      "gloss": "Елим"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "и таму"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "наесет"
+    },
+    {
+      "surface": "עינת",
+      "gloss": "извори"
+    },
+    {
+      "surface": "מים",
+      "gloss": "на вода"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "и седумдесет"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "палми"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "се улогорија"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "על",
+      "gloss": "крај"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водите"
+    }
+  ],
+  "timestamp": "2026-10-19T20:58:36.446858753Z",
+  "model": "glm-5.3"
+}

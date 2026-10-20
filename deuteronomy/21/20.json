@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זולל וסבא",
+      "rationale": "„лаком и пијаница“ — זולел е речиси hapax во оваа смисла (трошител\/лакомник), סובא само тука; парот е правна формула"
+    }
+  ],
+  "translation": "и ќе им рекат на старешините на градот неговиот: „Овој син наш е непокорен и бунтовен, не послушува во гласот наш — изметен и пијаница.“",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0318a50caa5066129ab87ff107c42a9ae2653e60d5306603e729f4b5da763c3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/21\/17-20.1792445623577.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "и ќе им рекат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старешините"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "на градот неговиот"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "синот наш"
+    },
+    {
+      "surface": "זה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "непокорен"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "и бунтовен"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послушува"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "во гласот наш"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "изметен"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "и пијаница"
+    }
+  ],
+  "timestamp": "2026-10-19T21:33:43.578952851Z",
+  "model": "glm-5.3"
+}

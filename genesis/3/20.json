@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Хава",
+      "rationale": "Буквалниот облик Хава (חוה), не „Ева“; името е поврзано со коренот „живо“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חוה\/חי",
+      "rationale": "Името Хава и „живо“ (хај) — игра на коренот што објаснува зошто е наречена така."
+    },
+    {
+      "kind": "measurement",
+      "subject": "име",
+      "rationale": "Давањето име — тежок чин на именување."
+    }
+  ],
+  "translation": "И човекот ѝ даде име на жената своја — Хава, зашто таа стана мајка на сето живо.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3fdb2e879de77b297ff306e1421934778d6cc48151c070d6e5dfa39e976115e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/3\/17-20.1792442417465.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И даде име"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "на жената своја"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Хава"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "אם",
+      "gloss": "мајка"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на сето"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живо"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:17.468077233Z",
+  "model": "glm-5.3"
+}

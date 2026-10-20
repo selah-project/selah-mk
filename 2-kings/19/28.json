@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 19:28",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חח ומתג",
+      "rationale": "слика на заробено животно: прстен во носот и узда — царот ќе биде воден како волов."
+    }
+  ],
+  "translation": "Затоа што се бунтуваш против мене и твојата дрскост ми се качи во ушите, ќе ставам јаже во носот твој и узда во усните твои, и ќе те вратам по патот по кој дојде ⟨во⟩ него.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "63ded7348a99fe4696a2b5655ff89ec7f7853b1224e015346bb4c080e667b82b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/19\/25-28.1792449399735.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "затоа-што"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "се-бунтуваш"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "против-мене"
+    },
+    {
+      "surface": "ושאננך",
+      "gloss": "твојата-дрскост"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "се-качи"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "во-ушите-ми"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "ќе-ставам"
+    },
+    {
+      "surface": "חחי",
+      "gloss": "јаже"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "во-носот-твој"
+    },
+    {
+      "surface": "ומתגי",
+      "gloss": "и-узда"
+    },
+    {
+      "surface": "בשפתיך",
+      "gloss": "во-усните-твои"
+    },
+    {
+      "surface": "והשבתיך",
+      "gloss": "ќе-те-вратам"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "по-патот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "по-кој"
+    },
+    {
+      "surface": "באת",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во-него"
+    }
+  ],
+  "timestamp": "2026-10-19T22:36:39.737819329Z",
+  "model": "glm-5.3"
+}

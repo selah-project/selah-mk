@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 45:26",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "замре",
+      "rationale": "ויפג: срцето 'замре\/онемошти' (KJV fainted) наспроти 'се разбуди' (wycliffe wakide) — дословно 'стана тромно, ослабна'."
+    },
+    {
+      "kind": "you",
+      "subject": "до Јааков",
+      "rationale": "браќата му извештуваат на таткото, кој не е именуван во овој стих."
+    }
+  ],
+  "translation": "И му кажаа велејќи: Јосеф е се'уште жив, и дека тој владее со цела земја Мицраим. И срцето негово замре, зашто не им поверуваше.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "625655797e8480bfc538fc859382891fa5ca5d2e4655d53efe5cd61b60e2e62e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/45\/25-28.1792443268637.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "и му кажаа"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "се'уште"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "и дека"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "משל",
+      "gloss": "владее"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "со цела"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "ויפג",
+      "gloss": "и замре"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срцето негово"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "поверуваше"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-10-19T20:54:28.643025816Z",
+  "model": "glm-5.3"
+}

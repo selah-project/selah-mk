@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 6:14",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "круната — еднина или множина",
+      "rationale": "ם מצבת העטרת е во множина во согласните (העטרת може и еднина); KJV „crowns“, BSB „the crown“ — една круна од повеќе делови или две круни."
+    },
+    {
+      "kind": "crux",
+      "subject": "Хелем",
+      "rationale": "во Захарија 6:10 истата личност се вика Хедаја; Хелем тука — варијанта на истото име."
+    },
+    {
+      "kind": "measurement",
+      "subject": "список на имиња",
+      "rationale": "четири имиња набројани за спомен — регистар на луѓе."
+    }
+  ],
+  "translation": "И круната ⟨е⟩ за Хелем, и за Товија, и за Једаја, и за Хен, синот на Цефања, за спомен во храмот на Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5231e28be5c269907db8c2b745f55ad29b824f5116eabe5dd150b96f1e33e803",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/6\/13-15.1792452751749.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעטרת",
+      "gloss": "и круната"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨е⟩"
+    },
+    {
+      "surface": "לחלם",
+      "gloss": "за Хелем"
+    },
+    {
+      "surface": "ולטוביה",
+      "gloss": "и за Товија"
+    },
+    {
+      "surface": "ולידעיה",
+      "gloss": "и за Једаја"
+    },
+    {
+      "surface": "ולחן",
+      "gloss": "и за Хен"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "на Цефања"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "за спомен"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "во храмот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:32:31.753310889Z",
+  "model": "glm-5.3"
+}

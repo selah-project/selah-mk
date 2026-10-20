@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 11:8",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Јисраел",
+      "rationale": "заповед упатена директно до народот"
+    },
+    {
+      "kind": "invitation",
+      "subject": "пазете ги заповедите",
+      "rationale": "императив што повикува на послушност ради влез во земјата"
+    },
+    {
+      "kind": "substitution",
+      "subject": "наследите",
+      "rationale": "ירש буквално „да освојуваш\/присвојуваш истиснувајќи ги претходните жители“"
+    }
+  ],
+  "translation": "И пазете ⟨ги⟩ ⟨את⟩ сите заповеди што јас ви ги заповедам денес, за да се укрепите и влезете и ја наследите ⟨את⟩ земјата низ која преминувате таму за да ја наследите;",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "354792534ee2a2461143150fd65bd7a61da97ea72e11b6624757dbcd66290e81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/11\/5-8.1792445454488.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "пазете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите заповеди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ви заповедам"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "תחזקו",
+      "gloss": "се укрепите"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "и влезете"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "и наследите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "преминувате"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "таму"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "за да ја наследите"
+    }
+  ],
+  "timestamp": "2026-10-19T21:30:54.489465664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 44:34",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот negatives איננו ги спојува глаголот 'сум' и негацијата; македонскиот треба копула"
+    },
+    {
+      "kind": "substitution",
+      "subject": "неволјата",
+      "rationale": "ברע е буквално 'злото\/лошото'; 'неволја' го задржува општиот облик на хебрејскиот"
+    }
+  ],
+  "translation": "Зашто како ќе се качам кај татко ми, а момчето не ⟨е⟩ ⟨את⟩ со мене? Да не би да ја видам неволјата што ќе го најде ⟨את⟩ татко ми.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "fa0c8d704f43963a6f42c30c7e381c6df34af9b7bd3ad0c7ec31ebd6138f9f2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/44\/33-34.1792443211598.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "איך",
+      "gloss": "како"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ќе се качам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "татко ми"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "а момчето"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "не ⟨е⟩"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ со мене"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не би"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "да ја видам"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "неволјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ќе го најде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "татко ми"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "татко ми"
+    }
+  ],
+  "timestamp": "2026-10-19T20:53:31.600292570Z",
+  "model": "glm-5.3"
+}

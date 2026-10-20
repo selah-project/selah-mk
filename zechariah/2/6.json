@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула во прашалните изрази"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ширина и должина",
+      "rationale": "директно мерење на димензиите на градот"
+    },
+    {
+      "kind": "elision",
+      "subject": "одиш ти",
+      "rationale": "личната заменка אתה е споена во македонскиот глагол"
+    }
+  ],
+  "translation": "И јас реков: Каде одиш? А тој ми рече: Да ја измерам ⟨את⟩ Јерушалаим, за да видам колку ⟨е⟩ широка и колку ⟨е⟩ долга.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1d756fff573194abb35f4ed6296a535f8fe0e6ef2448e6dbcf8f5389a840bd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/2\/5-8.1792452718324.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И реков"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Каде"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "одиш ти"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "А рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "למד",
+      "gloss": "Да измерам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јерушалаим"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "за да видам"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "колку"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "широка"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "и колку"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "долга"
+    }
+  ],
+  "timestamp": "2026-10-19T23:31:58.325719409Z",
+  "model": "glm-5.3"
+}

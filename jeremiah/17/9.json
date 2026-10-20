@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "и неизличиво",
+      "rationale": "ואנוש: 'неизличиво болно' (KJV 'desperately wicked') наспроти 'неискреност\/тага' од коренот אנש"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקב",
+      "rationale": "исти согласки како името Јаков и 'пети' — кривичење, измама"
+    },
+    {
+      "kind": "mystery",
+      "subject": "кој ќе го познае него?",
+      "rationale": "прашање за непознатливоста на срцето"
+    }
+  ],
+  "translation": "Криво е срцето повеќе од сè, и неизлечиво е ⟨тоа⟩ — кој ќе го познае него?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5643c0f7ed2ba4da54c45967df842d8d082dce3aa166e735a0ec5641f2fbb04c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/17\/9-12.1792450613436.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "Криво"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "срцето"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "повеќе од сè"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "и неизлечиво е"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨тоа⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "ידעננו",
+      "gloss": "ќе го познае него"
+    }
+  ],
+  "timestamp": "2026-10-19T22:56:53.437063423Z",
+  "model": "glm-5.3"
+}

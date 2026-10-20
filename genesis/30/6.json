@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 30:6",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דנני",
+      "rationale": "'суди ми' (KJV\/JPS) наспроти 'ме оправда' (BSB) — коренот דין значи и двете; поврзано е со името Дан."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דנני\/דן",
+      "rationale": "Рахел го именува синот по глаголот во својата реч — изреката го раѓа името."
+    },
+    {
+      "kind": "elision",
+      "subject": "על כן",
+      "rationale": "Два хебрејски збора ('на тоа така') преведени со една македонска реченица 'затоа'."
+    }
+  ],
+  "translation": "И рече Рахел: Елохим ми суди, и уште го чу гласот мој, и ми даде син. Затоа го нарече името му Дан.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "340ff508f90c96616ef7105a9f47f977a34b801ca1124d1b3b9c52ed16f5c27c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/30\/5-8.1792442900619.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "דנני",
+      "gloss": "ми суди"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и уште"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чу"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "гласот мој"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "על",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "нарече"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името му"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    }
+  ],
+  "timestamp": "2026-10-19T20:48:20.620580778Z",
+  "model": "glm-5.3"
+}

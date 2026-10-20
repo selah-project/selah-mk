@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 13:22",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד е „хесед“ — не „милост“ сама, за да се зачува едниот збор."
+    },
+    {
+      "kind": "you",
+      "subject": "до Елохим",
+      "rationale": "Директна молитба — обраќање на Нимија кон Елохим."
+    }
+  ],
+  "translation": "И им реков на левитите да бидат очистени и да дојдат како стражари на портите, за да го осветат ⟨את⟩ денот на шабатот. И ова, Елохим мој, запомни ⟨го⟩ за мене, и смилувај се на мене според изобилството на твојот хесед.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cd18fcc176b4eeeb5e4ab34152ffb3c20abc02e6e0a01008732d9b6abd9587db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/13\/21-24.1792456758246.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "И реков"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "на левитите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "да"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "бидат"
+    },
+    {
+      "surface": "מטהרים",
+      "gloss": "очистени"
+    },
+    {
+      "surface": "ובאים",
+      "gloss": "и да дојдат"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "стражари"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "портите"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "за да осветат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "денот"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "на шабат"
+    },
+    {
+      "surface": "גם",
+      "gloss": "И ова исто"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "запомни"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мене"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мој"
+    },
+    {
+      "surface": "וחוסה",
+      "gloss": "и смилувај се"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на мене"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "според изобилството"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "на твојот хесед"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:18.248016586Z",
+  "model": "glm-5.3"
+}

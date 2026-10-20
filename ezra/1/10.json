@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משנים",
+      "rationale": "משנים — „втори по вид\/помал квалитет“ или „двојни (по две)“; преведувачите се делат."
+    },
+    {
+      "kind": "measurement",
+      "subject": "бројот",
+      "rationale": "Попис на садовите: 30 + 410 + 1000, список во службен есналски стил."
+    }
+  ],
+  "translation": "Купи-кефор од злато триесет, купи-кефор од сребро втори по вид четири стотини и десет, други предмети иљада.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezra\/1\/9-11.1792456266116.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "купи-кефор"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "триесет"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "купи-кефор"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "втори по вид"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотини"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "и десет"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "предмети"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "други"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "иљада"
+    }
+  ],
+  "timestamp": "2026-10-20T00:31:06.117359071Z",
+  "model": "glm-5.3"
+}

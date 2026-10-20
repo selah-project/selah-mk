@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד е чуван како хесед, не како милост"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "директен обраќањ до Јахве во молитва"
+    }
+  ],
+  "translation": "Нека ме стигне ⟨се⟩ твојот хесед, Јахве, твоето спасение, според твоето слово.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "083b74b5421d477a7b0acb4e1a3563295e4833d22f5e9e5fbcdd8aa043e28985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/41-44.1792453980691.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "нека ме стигне"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "твојот хесед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "твоето спасение"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "според твоето слово"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:00.692122742Z",
+  "model": "glm-5.3"
+}

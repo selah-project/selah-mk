@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 4:12",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "топки",
+      "rationale": "גולות е 'топки\/сферични вдлабнати легени' на врвовите на столбовите, не 'фонтани'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "бројот",
+      "rationale": "стихот брои: два столба, две глави, две мрежи, две топки — список на делови"
+    }
+  ],
+  "translation": "столбовите двајца, и топките, и главите на врвовите на столбовите двајца, и двете мрежи за да ги покрие ⟨את⟩ двете топки на главите што се на врвовите на столбовите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6f61e0638e90538c0ef142914a2d9b4251cdb6abfc5adaea92b83287633cd3c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/4\/9-12.1792457379926.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמודים",
+      "gloss": "столбовите"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двајца"
+    },
+    {
+      "surface": "והגלות",
+      "gloss": "и топките"
+    },
+    {
+      "surface": "והכתרות",
+      "gloss": "и главите"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "врвовите"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "на столбовите"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "двајца"
+    },
+    {
+      "surface": "והשבכות",
+      "gloss": "и мрежите"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "двете"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "за да ги покрие"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "двете топки"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "двете"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "топки"
+    },
+    {
+      "surface": "הכתרות",
+      "gloss": "на главите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "врвовите"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "на столбовите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:49:39.927602485Z",
+  "model": "glm-5.3"
+}

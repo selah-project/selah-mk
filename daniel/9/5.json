@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "возвратна честичка додадена, хебрејскиот ја нема"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאנו\/מצותך",
+      "rationale": "חטא значи 'да промаши' — промашивме ја целта на заповедите"
+    }
+  ],
+  "translation": "Згрешивме и изврвијме и направивме зло, и се побунивме, и отстранивме ⟨се⟩ од заповедите твои и од судбовите твои.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "714d5f9a3cd558c7da94b4ef10349b2a86872b528f93f39d71ebb165a4d1b855",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/9\/5-8.1792456168529.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Згрешивме"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "и изврвијме"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "и направивме зло"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "и се побунивме"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "и отстранивме"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "од заповедите твои"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "и од судбовите твои"
+    }
+  ],
+  "timestamp": "2026-10-20T00:29:28.530291594Z",
+  "model": "glm-5.3"
+}

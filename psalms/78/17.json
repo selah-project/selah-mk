@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "во сувата земја",
+      "rationale": "בציה е сушина\/безводност, не обична пустина"
+    }
+  ],
+  "translation": "И додаваа уште да греат против него, бунтувајќи се против Елион во сувата земја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "45132fcddd19c03ae7c7fda930131bc10ebc10a668dd27918511bfbed25c9ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/78\/17-20.1792453584332.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "И додаваа уште"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уште"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "да греат"
+    },
+    {
+      "surface": "לו",
+      "gloss": "против него"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "бунтувајќи се"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "против Елион"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "во сувата земја"
+    }
+  ],
+  "timestamp": "2026-10-19T23:46:24.333165209Z",
+  "model": "glm-5.3"
+}

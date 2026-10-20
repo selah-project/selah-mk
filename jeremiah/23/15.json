@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 23:15",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "лицемерие",
+      "rationale": "חנפה е 'безбожност\/осквернување' — KJV 'profaneness'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "пелен и отровна вода",
+      "rationale": "казна со горка храна — пелен (глина\/горчливост) и מי ראש отров"
+    }
+  ],
+  "translation": "Затоа вака вели Јахве Цеваот за пророците: Еве, ќе ги хранам ⟨את⟩ нив со пелен и ќе ги напојам со отровна вода — зашто ⟨од את⟩ пророците на Јерушалаим излезе лицемерие на целата земја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fd481d6fa1367f928297298d82e862789eec85dccfed48f0bfabaa2798b11bc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/23\/13-16.1792450743956.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Затоа"
+    },
+    {
+      "surface": "כה",
+      "gloss": "вака"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "пророците"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "מאכיל",
+      "gloss": "ќе ги хранам"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "нив"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "со пелен"
+    },
+    {
+      "surface": "והשקתים",
+      "gloss": "ќе ги напојам"
+    },
+    {
+      "surface": "מי",
+      "gloss": "вода"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "отровна"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨од את⟩",
+      "marks": "пророците на Јерушалаим"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "пророците"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "на Јерушалаим"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "излезе"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "лицемерие"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на целата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земја"
+    }
+  ],
+  "timestamp": "2026-10-19T22:59:03.959414019Z",
+  "model": "glm-5.3"
+}

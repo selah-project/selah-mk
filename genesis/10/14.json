@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משממה излегоа Плиштимците",
+      "rationale": "дали Плиштимците излегле од Каслухим (10:14) или од Кафтор (сп. Амос 9:7, Еремија 47:4) — два спротивни хебрејски сведока"
+    }
+  ],
+  "translation": "и ⟨את⟩ Патрусимците и ⟨את⟩ Каслухимците, од каде излегоа Плиштимците, и ⟨את⟩ Кафторимците.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "75e77547bbff0e24042c6599703ac4c211014f2daa7cfcd03d16908797e2754a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/10\/13-16.1792442512039.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Патрусимците"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Патрусимците"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Каслухимците"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Каслухимците"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "од каде"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "излегоа"
+    },
+    {
+      "surface": "משם",
+      "gloss": "отаму"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштимците"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Кафторимците"
+    },
+    {
+      "surface": "כפתורים",
+      "gloss": "Кафторимците"
+    }
+  ],
+  "timestamp": "2026-10-19T20:41:52.045915969Z",
+  "model": "glm-5.3"
+}

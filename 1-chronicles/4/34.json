@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "список на имиња",
+      "rationale": "родословен список"
+    }
+  ],
+  "translation": "и Мешовав, и Јамлек, и Јоша, син на Амацjа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "701382f13ba3fd654e152d7b2e66e979eb176407587e13cf211b54bd81237362",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/4\/33-36.1792456835595.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "и Мешовав"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и Јамлек"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "и Јоша"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "на Амацjа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:40:35.596444696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "влезе во денските години",
+      "rationale": "בא בימים — буквално „влезе во дените“, идиом за длабока старост"
+    },
+    {
+      "kind": "measurement",
+      "subject": "годините",
+      "rationale": "стихот го мери животот на Аврахам со годините"
+    }
+  ],
+  "translation": "А Аврахам остари, влезе во ⟨денските⟩ години, и Јахве го благослови ⟨את⟩ Аврахам со се.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ea961d83f769b412ae323bc6f09c0c25c1bc1d1e6182a27e37d93f92ea907400",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/24\/1-4.1792442663839.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "А Аврахам"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "остари"
+    },
+    {
+      "surface": "בא",
+      "gloss": "влезе"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "во денските години"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и Јахве"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "го благослови"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврахам"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "со се"
+    }
+  ],
+  "timestamp": "2026-10-19T20:44:23.841912382Z",
+  "model": "glm-5.3"
+}

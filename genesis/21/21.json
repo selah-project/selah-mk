@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 21:21",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до читателот",
+      "rationale": "Се вели дека Агар, Египќанка, му земе жена на синот од Мицраим — каде што таа сама потекнува."
+    }
+  ],
+  "translation": "И се насели во пустињата Паран, и мајка му земе за него жена од земјата Мицраим.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9bdb4a19750bc8a0e638a503b0be8c13a3c70dc5ed549da04267a91041179b2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/21\/21-24.1792442630826.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "се насели"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "во пустињата"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Паран"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "земе"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за него"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "мајка му"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-19T20:43:50.828342600Z",
+  "model": "glm-5.3"
+}

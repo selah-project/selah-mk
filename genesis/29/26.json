@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 29:26",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Јааков",
+      "rationale": "Лаван му одговара директно на Јааков"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Не се прави така",
+      "rationale": "Буквално „не се прави така“; можеби „не е обичај“ — но текстот вели само יעשה, глагол, не именка „обичај“"
+    }
+  ],
+  "translation": "И рече Лаван: Не се прави така на нашето место — да се даде помладата пред првородената.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5f99937680c877da0d0177d693a0febc0ae76547d2520857aa172deb2fb6d335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/29\/25-28.1792442876991.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "се прави"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "במקומנו",
+      "gloss": "на нашето место"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "да се даде"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "помладата"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "првородената"
+    }
+  ],
+  "timestamp": "2026-10-19T20:47:56.995007780Z",
+  "model": "glm-5.3"
+}

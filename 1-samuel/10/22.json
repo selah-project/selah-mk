@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 10:22",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "прашале кај Јахве",
+      "rationale": "ביהוה букв. „во Јахве“ — прашање упатено кон (преко Урим) Јахве"
+    },
+    {
+      "kind": "crux",
+      "subject": "покуќнина",
+      "rationale": "הכלים: „покуќнина\/приземје“ (KJV stuff) наспроти „садови“ (YLT vessels)"
+    }
+  ],
+  "translation": "И прашаа уште кај Јахве: Дали дошол уште тука ⟨некoj⟩ човек? И рече Јахве: Еве, тој се сокри кај покуќнината.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e01243790edc6c338e0b6e463567310151bb50a70033e2b6a480b4337560a5fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/10\/22-24.1792447840221.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאלו",
+      "gloss": "И прашаа"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уште"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "кај Јахве"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "дошол"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уште"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "тука"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "נחבא",
+      "gloss": "се сокри"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "покуќнина"
+    }
+  ],
+  "timestamp": "2026-10-19T22:10:40.222603291Z",
+  "model": "glm-5.3"
+}

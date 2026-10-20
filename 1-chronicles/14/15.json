@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 14:15",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "чекорењето",
+      "rationale": "הצעדה може да биде и 'стапалка\/готечки синџир' — чие чекорење? Елохим во битка (jps 'marching of God') или самото дрво шуми."
+    },
+    {
+      "kind": "you",
+      "subject": "Давид",
+      "rationale": "Елохим му се обраќа директно на Давид со императив 'излези'."
+    }
+  ],
+  "translation": "И ќе биде: кога ќе го чуеш ⟨את⟩ гласот на чекорењето во врвовите на бакаите, тогаш излези во битка, зашто Елохим излегува пред тебе да ги порази ⟨את⟩ таборот на Плиштим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2446404b50155f46be9384f5772c50735ea8f90a28c6fcfcebf61af49f0daa71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/14\/13-16.1792457053222.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "כשמעך",
+      "gloss": "кога ќе го чуеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гласот"
+    },
+    {
+      "surface": "קול",
+      "gloss": "гласот"
+    },
+    {
+      "surface": "הצעדה",
+      "gloss": "на чекорењето"
+    },
+    {
+      "surface": "בראשי",
+      "gloss": "во врвовите"
+    },
+    {
+      "surface": "הבכאים",
+      "gloss": "на бакаите"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тогаш"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "излези"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "во битка"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излегува"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред тебе"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "да порази"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "таборот"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "таборот"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштим"
+    }
+  ],
+  "timestamp": "2026-10-20T00:44:13.223435298Z",
+  "model": "glm-5.3"
+}

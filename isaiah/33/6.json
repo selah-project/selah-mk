@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 33:6",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אוצרו — неговото\/твоето богатство",
+      "rationale": "KJV чита 'his treasure', ASV 'thy treasure'; суфиксот е 3-то лице ед. — 'неговото'"
+    },
+    {
+      "kind": "crux",
+      "subject": "низа constructs",
+      "rationale": "како се врзуваат אמונת\/חסן\/ישועת — KJV и JPS ги распоредуваат различно"
+    }
+  ],
+  "translation": "И ќе биде верноста во твоите времиња богатство на спасенија, мудрост и знаење; стравот од Јахве — тоа е неговото богатство.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "fb5901210a8f6706374bde8db17df9462fe2c2a8e5312b29cdb43041556eb3fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/33\/5-8.1792449927267.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "אמונת",
+      "gloss": "верноста"
+    },
+    {
+      "surface": "עתיך",
+      "gloss": "во твоите времиња"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "на спасенија"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "и знаење"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "стравот од"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тоа е"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "неговото богатство"
+    }
+  ],
+  "timestamp": "2026-10-19T22:45:27.269002860Z",
+  "model": "glm-5.3"
+}

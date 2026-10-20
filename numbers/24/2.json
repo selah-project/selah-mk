@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "רוח е една дума за дух\/ветер\/здив — според D1\/D2 се чува „руах“, не „дух“ сам."
+    },
+    {
+      "kind": "mystery",
+      "subject": "пророштвото",
+      "rationale": "руша Елохим паѓа врз Билам — стих воведува натприродно видение, непровидено од слушателот."
+    }
+  ],
+  "translation": "И ги крена Билам ⟨את⟩ очите свои, и го виде ⟨את⟩ Јисраел населено по племињата свои, и беше врз него руах Елохим.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "04120eb1f6c6d3694250fb6db527dbceefe5e843cb79c83d593372d267a3a348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/24\/1-4.1792445055409.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "И крена"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "очите свои"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "очите свои"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и виде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јисраел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "населено"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "по племињата свои"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "врз него"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    }
+  ],
+  "timestamp": "2026-10-19T21:24:15.410387535Z",
+  "model": "glm-5.3"
+}

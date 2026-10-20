@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "Хебрејскиот нема копула; македонскиот ја бара."
+    },
+    {
+      "kind": "substitution",
+      "subject": "кнез",
+      "rationale": "אלוף е 'пријател\/поглавар на род', не благородник по титула."
+    }
+  ],
+  "translation": "кнез Магдиел, кнез Ирам. Овие ⟨се⟩ кнезовите на Едом.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f32be554fbc0558b99d7f912b7e3a77f340146c70192d4d06670fefa1a5ce9ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/1\/53-54.1792456771756.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "Магдиел"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "Ирам"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "кнезовите на"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:31.757044664Z",
+  "model": "glm-5.3"
+}

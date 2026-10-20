@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 11:35",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "десетте племиња",
+      "rationale": "бројот на племиња е одброен точно како во хебрејскиот"
+    }
+  ],
+  "translation": "и ќе ја земам царската власт од раката на синот негов, и ќе ти ја дадам ⟨את⟩ — десетте племиња.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "498edd3b75fac95cde9b52ebe642ecb4039649acd7e4cbef99ff110ce4fa100b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/11\/33-36.1792448739155.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "и ќе ја земам"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "царската власт"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "од раката"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "на синот негов"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "и ќе ти ја дадам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "десетте племиња"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "десетте"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "племиња"
+    }
+  ],
+  "timestamp": "2026-10-19T22:25:39.157891308Z",
+  "model": "glm-5.3"
+}

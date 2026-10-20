@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועצר רחם",
+      "rationale": "„Утроба на затворање“ — неплодна утроба, или утроба што никогаш не се отвора; преведувачите се делат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא…לא",
+      "rationale": "Двојното „не“ — не се заситува, не вели — паралелизам меѓу стиховите 15 и 16"
+    }
+  ],
+  "translation": "Шеол, и утробата затворена, и земјата што не се заситува со вода — и огнот што не вели: „Доста!“",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f9cc896ce6865786110cb870fda9604836210d20694390a2de1670ed68190b5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/30\/13-16.1792454793499.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "и затворена"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "утробата"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "се заситува"
+    },
+    {
+      "surface": "מים",
+      "gloss": "со вода"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "и огнот"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "вели"
+    },
+    {
+      "surface": "הון",
+      "gloss": "Доста"
+    }
+  ],
+  "timestamp": "2026-10-20T00:06:33.500509891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 41:50",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "се родија",
+      "rationale": "хебрејскиот пасив ילד (родени му беа) со македонска возвратна конструкција"
+    }
+  ],
+  "translation": "И на Јосеф му се родија два сина пред да дојде годината на гладот, кои му ги роди Асенат, ќерката на Поти-Фера, свештеникот на Он.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "679e1d34b3f96c87934810b12fed48b5eca8b2df02bdbad91fc79e07f17dea11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/41\/49-52.1792443165188.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וליוסף",
+      "gloss": "И на Јосеф"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "се родија"
+    },
+    {
+      "surface": "שני",
+      "gloss": "два"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сина"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "пред"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "да дојде"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "годината"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "на гладот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кои"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ги роди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "Асенат"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерката"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "Поти-"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "Фера"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "און",
+      "gloss": "на Он"
+    }
+  ],
+  "timestamp": "2026-10-19T20:52:45.190553176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 33:4",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הנתצים אל הסללות",
+      "rationale": "KJV: разурнати „од насипите и мечот“; ASV\/JPS: разурнати „за да се направи одбрана спроти насипите“ — двосмислен однос на אל"
+    },
+    {
+      "kind": "elision",
+      "subject": "тишина на крајот",
+      "rationale": "стихот завршува со црта — реченицата продолжува во 33:5"
+    }
+  ],
+  "translation": "Зашто така вели Јахве, Елохим на Јисраел, за домовите на овој град и за домовите на кралевите на Јехуда, што се разурнати заради насипите и заради мечот —",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6e9424f2436b8af6f93f3e6d07be096fae60270eb6dc877ead7aedcccc63f7fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/33\/1-4.1792450949324.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "домовите"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "на градот"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овој"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и за"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "домовите"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "на кралевите"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јехуда"
+    },
+    {
+      "surface": "הנתצים",
+      "gloss": "што се разурнати"
+    },
+    {
+      "surface": "אל",
+      "gloss": "заради"
+    },
+    {
+      "surface": "הסללות",
+      "gloss": "насипите"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и заради"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "мечот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:02:29.326475464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נצר\/שמר",
+      "rationale": "два различни глагола за 'чувa' во паралелизам — истата слика, ист глагол во македонскиот"
+    },
+    {
+      "kind": "crux",
+      "subject": "пропаст",
+      "rationale": "מחתה: 'разорување\/злосрадост' — 'пропаст' или 'страшна пропаст'"
+    }
+  ],
+  "translation": "Кој ја чува устата своја, го чува ⟨нефеш⟩-от свој; кој ги разотвора усните свои — пропаст за него.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "259a96b14145fe009f7903fcfe0970fec25774a3d828f3318011ba1428967c73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/13\/1-4.1792454509102.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "кој ја чува"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "устата своја"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "го чува"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "⟨нефеш⟩-от свој"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "кој ги разотвора"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "усните свои"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "пропаст"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за него"
+    }
+  ],
+  "timestamp": "2026-10-20T00:01:49.104128139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דעת",
+      "rationale": "„поучува човек знаење“ — дали знаењето е предмет на поуката или „Тој не знае ли?“ (како KJV); хебрејскиот вели само „учител на знаење на човекот“."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩ · ⟨тој знае⟩",
+      "rationale": "македонскиот бара сврзник и имплицитниот заклучок надополнет."
+    }
+  ],
+  "translation": "Оној што ги kazнува народите — дали нема да изобличи? Оној што го поучува човекот ⟨е⟩ со знаење ⟨тој знае⟩?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e44314235dd6f7e33bfd17834b872df97f0fc478f6b1ca676f0faca882961b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/94\/9-12.1792453763368.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "што kazнува"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "дали нема"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "да изобличи"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "што поучува"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знаење"
+    }
+  ],
+  "timestamp": "2026-10-19T23:49:23.369523503Z",
+  "model": "glm-5.3"
+}

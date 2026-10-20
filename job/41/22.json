@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 41:22",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חדודי",
+      "rationale": "остри (буквално „шилци“) — зборот се јавува само тука во Танах."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרוץ",
+      "rationale": "מлетачка санка (специјален интерес за мелење) наспроти „остар плуг“ — двете се чтени во традицијата."
+    },
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "хебрејскиот нема помошен глагол за пасивната конструкција."
+    }
+  ],
+  "translation": "Под него ⟨се⟩ остри парчиња грнчарија; тој раширува млетачка санка врз калта.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dde776d5e34e27e6f2054a85643cc5b22fbef9672131d1e9586ad933518924f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/41\/21-24.1792455376910.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחתיו",
+      "gloss": "под него"
+    },
+    {
+      "surface": "חדודי",
+      "gloss": "остри парчиња"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "грнчарија"
+    },
+    {
+      "surface": "ירפד",
+      "gloss": "раширува"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "млетачка санка"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "врз"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "калта"
+    }
+  ],
+  "timestamp": "2026-10-20T00:16:16.911680573Z",
+  "model": "glm-5.3"
+}

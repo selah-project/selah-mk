@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חכמות נשים",
+      "rationale": "Двојната множина: „мудрост на жени“ буквално; традиционално „сека мудра жена“ (KJV) или еднина „мудра жена“."
+    },
+    {
+      "kind": "addition",
+      "subject": "него",
+      "rationale": "Хебрејскиот завршен наставки -נו на תהרסנו го носи објектот; македонскиот бара ⟨него⟩."
+    }
+  ],
+  "translation": "Мудрост на жени го изгради нејзиниот дом, а глупоста со своите раце го руши ⟨него⟩.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "92140400659569df3ba77072ccf0569b26db16f94ecfeaeb3693a617fe82ee6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/14\/1-4.1792454495849.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "на жени"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "го изгради"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "нејзиниот дом"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "а глупоста"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "со своите раце"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "го руши"
+    }
+  ],
+  "timestamp": "2026-10-20T00:01:35.849883610Z",
+  "model": "glm-5.3"
+}

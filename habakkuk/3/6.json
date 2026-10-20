@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 3:6",
+  "book": "habakkuk",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонската рефлексивна честичка што хебрејскиот нема"
+    },
+    {
+      "kind": "crux",
+      "subject": "וימדד",
+      "rationale": "„измери“ (KJV) наспроти „ја разтреса“ (JPS) — коренот допушта и двете"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עולם\/עד",
+      "rationale": "двојното повторување на „вечни“ (планини — ридови — патеки) гради скала од создаденото кон оној што оди"
+    }
+  ],
+  "translation": "Застана и ја измери земјата, погледна и ги разтреса народите; се распарчија вечните планини, се наведоа ридовите оддавна — патеките вечни се Негови.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a712c69cc2b1238de8ff2dd2316f0d39f63c5a08a610543012cf9f6b69a97904",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/habakkuk\/3\/5-8.1792452584292.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמד",
+      "gloss": "Застана"
+    },
+    {
+      "surface": "וימדד",
+      "gloss": "измери"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "погледна"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "разтреса"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "ויתפצצו",
+      "gloss": "се распарчија"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "планините"
+    },
+    {
+      "surface": "עד",
+      "gloss": "вечните"
+    },
+    {
+      "surface": "שחו",
+      "gloss": "се наведоа"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ридовите"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "оддавна"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "патеките"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечни"
+    },
+    {
+      "surface": "לו",
+      "gloss": "се Негови"
+    }
+  ],
+  "timestamp": "2026-10-19T23:29:44.293725397Z",
+  "model": "glm-5.3"
+}

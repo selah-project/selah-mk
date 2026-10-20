@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 46:28",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להורת",
+      "rationale": "Од ירה: „да поучува\/покаже пат“ — LXX и Таргум читаат „да подготви (населба)“; KJV „да го насочи“."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨пат⟩",
+      "rationale": "Хебрејскиот ги споменува само „да подготви пред него до Гошен“ — „пат“ е додадено за јасност."
+    },
+    {
+      "kind": "substitution",
+      "subject": "А ⟨го⟩ испрати",
+      "rationale": "Хебрејскиот става את пред Јехуда — предметниот маркер се чува како ⟨את⟩."
+    }
+  ],
+  "translation": "А ⟨את⟩ Јехуда го испрати пред себе кај Јосеф, за да подготви пред него ⟨пат⟩ до Гошен; и дојдоа во земјата Гошен.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "79ba4d2b6828991c498ab8d8de64fbbb8a088a999d066f0910b8d62d21190287",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/46\/25-28.1792443247825.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Јехуда"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "го испрати"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пред себе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "להורת",
+      "gloss": "за да подготви"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пред него"
+    },
+    {
+      "surface": "גשנה",
+      "gloss": "до Гошен"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и дојдоа"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Гошен"
+    }
+  ],
+  "timestamp": "2026-10-19T20:54:07.832311294Z",
+  "model": "glm-5.3"
+}

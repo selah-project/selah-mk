@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 39:29",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "релятивната честица се предава со „зашто”, бидејќи македонскиот нема неутрален релатив"
+    },
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "רוח се чува како „руах” — здив\/ветер\/Дух во еден збор"
+    }
+  ],
+  "translation": "И нема повеќе да го скривам лицето свое од нив, зашто го изливам ⟨את⟩ руахот мој врз домот на Јисраел — изрека на Адонај Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8e54b7304b90ede725bd7d847ffc2432ee827ff0d9bc42ef822e72f70483b173",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/39\/29-29.1792451931018.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И нема"
+    },
+    {
+      "surface": "אסתיר",
+      "gloss": "да скривам"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "од нив"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "שפכתי",
+      "gloss": "го изливам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руахот мој"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "руахот мој"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека на"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:18:51.018597952Z",
+  "model": "glm-5.3"
+}

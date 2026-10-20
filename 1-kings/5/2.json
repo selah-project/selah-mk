@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "триесет кор",
+      "rationale": "дневна количина храна мерена во кор-мерки"
+    }
+  ],
+  "translation": "И беше лебот на Шломо за еден ден: триесет кор ситно брашно и шеесет кор обично брашно.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "53a5300943b37a034dac9ae92d281bfc4ab2f8fb0dd50e11fd3579b949c184b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/5\/1-4.1792448594487.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "лебот"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "на Шломо"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "за еден ден"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "триесет"
+    },
+    {
+      "surface": "כר",
+      "gloss": "кор"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ситно брашно"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "и шеесет"
+    },
+    {
+      "surface": "כר",
+      "gloss": "кор"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "обично брашно"
+    }
+  ],
+  "timestamp": "2026-10-19T22:23:14.489401113Z",
+  "model": "glm-5.3"
+}

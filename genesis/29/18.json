@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 29:18",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "помладата",
+      "rationale": "הקטנה буквално 'малата' — според семитскиот обичај 'помладата'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "седум години",
+      "rationale": "цената на невестата е изразена во бројка години служење."
+    }
+  ],
+  "translation": "И Јааков ја засака ⟨את⟩ Рахела и рече: Ќе ти служам седум години за Рахела, твојата помлада ќерка.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "eba67a6f2cf7fef7a58134a2fe9161be3ecdc6bade92f6b6ff970b46f1da86d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/29\/17-20.1792442862297.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "и ја засака"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рахела"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахела"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אעבדך",
+      "gloss": "Ќе ти служам"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седум"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "за Рахела"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "твојата ќерка"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "помладата"
+    }
+  ],
+  "timestamp": "2026-10-19T20:47:42.300542432Z",
+  "model": "glm-5.3"
+}

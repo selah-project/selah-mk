@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 3:4",
+  "book": "ruth",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישכב \/ ושכבתי",
+      "rationale": "коренot שכב се повторува — легнувањето на Боаз и легнувањето на Рут, двојност што се губи"
+    },
+    {
+      "kind": "secret",
+      "subject": "да не се дознаеш (3:3) и знај го местото",
+      "rationale": "целата нарачка е прикриено дејство — нешто скришно ноќе"
+    }
+  ],
+  "translation": "И ќе биде, кога ќе легне, — ти знај го ⟨את⟩ местото каде што лежи таму, и влези, и откриј ги нозете негови, и лези; и тој ќе ти каже ⟨את⟩ што да правиш.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dbb9a084c7daf989b62d592c2865d0508d20dc6c9940d8b4588d0f3c0e417192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ruth\/3\/1-4.1792455576625.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И-ќе-биде"
+    },
+    {
+      "surface": "בשכבו",
+      "gloss": "кога-ќе-легне"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "знај"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "местото"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "местото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "каде-што"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "лежи"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "влези"
+    },
+    {
+      "surface": "וגלית",
+      "gloss": "откриј"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "нозете-негови"
+    },
+    {
+      "surface": "ושכבתי",
+      "gloss": "лези"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и-тој"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ќе-каже"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "што да правиш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תעשין",
+      "gloss": "да-правиш"
+    }
+  ],
+  "timestamp": "2026-10-20T00:19:36.626687340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קדרות",
+      "rationale": "„Помраченост\/црнило“ — се јавува само тука во Танах."
+    },
+    {
+      "kind": "addition",
+      "subject": "со",
+      "rationale": "Македонскиот бара предлог ⟨со⟩ кај облекување со боја\/ткаенина; хебрејскиот има директен објект."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שק",
+      "rationale": "Грубата ткаенина од козина\/влакна — преведена описно како „вреќа од влакна“, зашто нема еден македонски збор што го носи жртвениот силен акцент."
+    }
+  ],
+  "translation": "Ја облекувам ⟨со⟩ темнина небесата, и вреќа од влакна им ставам за покривка.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "0b37355b14973c201e7e77e71d471f460ce6f969bb24fd4a7f0b2f0f6b2d1678",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/50\/1-4.1792450207468.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Ја облекувам"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "темнина"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "и вреќа од влакна"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "им ставам"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "за покривка"
+    }
+  ],
+  "timestamp": "2026-10-19T22:50:07.469960906Z",
+  "model": "glm-5.3"
+}

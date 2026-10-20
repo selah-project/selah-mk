@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 41:18",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "букв. „од лицето на“ = поради, од страв од"
+    },
+    {
+      "kind": "substitution",
+      "subject": "уби",
+      "rationale": "הכה буквално е „удри\/порази“, но тука значи уби"
+    }
+  ],
+  "translation": "Од лицето на Халдејците, зашто се плашеа од нив, зашто Јишмаел, синот на Нетанја, го уби ⟨את⟩ Гедалја, синот на Ахикам, кого царот на Вавилон го постави над земјата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dc3d59b32113eb5938a97e0d2f888181af5d09091af49c40481e967a30cec3e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/41\/17-18.1792451006156.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "Од лицето на"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Халдејците"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "се плашеа"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "од нив"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "го уби"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Јишмаел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот на"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Нетанја"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гедалја"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Гедалја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот на"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ахикам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кого"
+    },
+    {
+      "surface": "הפקיד",
+      "gloss": "го постави"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "на Вавилон"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "над земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:03:26.156925369Z",
+  "model": "glm-5.3"
+}

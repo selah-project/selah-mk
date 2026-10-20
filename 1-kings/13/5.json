@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "пепелта",
+      "rationale": "הדשן е буквално 'маст\/пепел од жртвениот олтар'; 'пепел' е вообичаеното тесно читање"
+    },
+    {
+      "kind": "measurement",
+      "subject": "знакот",
+      "rationale": "מופת е знак\/чудо што се исполнува како мерливо потврдување на пророчкиот збор"
+    }
+  ],
+  "translation": "И олтарот се расцепи, и пепелта се излеа од олтарот, според знакот што го даде човекот на Елохим со зборот на Јахве.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e81e978b712aea6ec6a87baba0706afdd52c164a2876acefb9ace8402ba9e457",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/13\/5-8.1792448841247.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "и олтарот"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "се расцепи"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "и се излеа"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "пепелта"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "олтарот"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "според знакот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "со зборот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T22:27:21.248565135Z",
+  "model": "glm-5.3"
+}

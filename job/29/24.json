@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 29:24",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא יאמינו",
+      "rationale": "'Не веруваа' (дека се смеам со нив, толку високо бев) наспроти ASV 'кога немаа доверба'."
+    },
+    {
+      "kind": "crux",
+      "subject": "יפילון",
+      "rationale": "'Не ја соборуваа светлината на лицето мое' — не ти ја гаснеа радоста; BSB наместо тоа чита 'беше драга'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אור פני",
+      "rationale": "Светлината на лицето како слика на наклонетост и благослов, спроти темното лице."
+    }
+  ],
+  "translation": "Смеев им се — не веруваа, и светлината на моето лице не ја соборуваа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7b002f39b6acedbde80a406aaa2141a9f5320b89b8ee8a83198e769d419fcce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/29\/21-24.1792455144029.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשחק",
+      "gloss": "смеев им се"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "веруваа"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "и светлината"
+    },
+    {
+      "surface": "פני",
+      "gloss": "на моето лице"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יפילון",
+      "gloss": "соборуваа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:12:24.030036312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שער",
+      "rationale": "корен значи „вратар\/пресметува“: KJV „како мисли во срцето“ vs JPS „како оној што пресметал“ —.Console избира пресметување, слика на скржав домаќин што мери"
+    },
+    {
+      "kind": "substitution",
+      "subject": "дула",
+      "rationale": "נפש е здив\/животна сила, не бесмртна душа"
+    },
+    {
+      "kind": "you",
+      "subject": "на гостинот кај скржавиот",
+      "rationale": "цитатот „Јадѝ и пиј“ упатен директно"
+    }
+  ],
+  "translation": "Зашто како што пресметува во душата своја, така е тој: „Јадѝ и пиј“ — тебе ти вели, а срцето негово воопшто не е со тебе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3a19efeb16716e587f5348d891244f4e882322d6bd267df8a6fe000130f503c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/23\/5-8.1792454668099.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "како што"
+    },
+    {
+      "surface": "שער",
+      "gloss": "пресметува"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "во душата своја"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е тој"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "Јадѝ"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "и пиј"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "а срцето негово"
+    },
+    {
+      "surface": "בל",
+      "gloss": "воопшто не"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "е со тебе"
+    }
+  ],
+  "timestamp": "2026-10-20T00:04:28.100416977Z",
+  "model": "glm-5.3"
+}

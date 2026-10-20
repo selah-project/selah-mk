@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 6:18",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kehathite",
+      "rationale": "קהתי треба да биде „кехатитите“ — племенско име изведено од Кехат, оставено според звукот"
+    }
+  ],
+  "translation": "А ова се оние што стојата и нивните синови: од синовите на kehатite — Хејман пејачот, син на Јоел, син на Шемуел.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cf498264b473fea56e91a3f498af208158f2c31d5790f1f493758e9d1c0ec15b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/6\/17-20.1792456876692.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А ова"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "што стојата"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "и нивните синови"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "од синовите"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "на kehathite"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "Хејман"
+    },
+    {
+      "surface": "המשורר",
+      "gloss": "пејачот"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "на Јоел"
+    },
+    {
+      "surface": "вן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "на Шемуел"
+    }
+  ],
+  "timestamp": "2026-10-20T00:41:16.693811934Z",
+  "model": "glm-5.3"
+}

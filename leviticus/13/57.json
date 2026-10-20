@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "leviticus 13:57",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "тоа е",
+      "rationale": "хебрејскиот има само הוא (таа\/тоа) како потврда; глаголот 'рти е женски, הוא е нагласено 'таа е'"
+    },
+    {
+      "kind": "crux",
+      "subject": "'рти",
+      "rationale": "פרחת буквално 'цути, разлиста се' — преведувачите колебаат меѓу 'шири се', ' бујно расте' и 'изедува' (KJV 'fretting')"
+    }
+  ],
+  "translation": "И ако уште се појави на облеката, или на основата, или на потката, или на некој предмет од кожа — ⟨тоа е⟩ нешто што 'рти: во оган ќе го изгориш ⟨את⟩ она што е на него, нагата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "bbad8c3a36eb475c0e5c575df21ec0720309a8839c92b754f30bda53f218e7b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/13\/57-59.1792444238652.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "се појави"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уште"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "на облеката"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "на основата"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "на потката"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "на секој"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "предмет"
+    },
+    {
+      "surface": "עור",
+      "gloss": "од кожа"
+    },
+    {
+      "surface": "פרחת",
+      "gloss": "'рти"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тоа е"
+    },
+    {
+      "surface": "באש",
+      "gloss": "во оган"
+    },
+    {
+      "surface": "תשרפנו",
+      "gloss": "ќе го изгориш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "она што е на него"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "нагата"
+    }
+  ],
+  "timestamp": "2026-10-19T21:10:38.653686876Z",
+  "model": "glm-5.3"
+}

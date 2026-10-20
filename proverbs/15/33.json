@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 15:33",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е · оди",
+      "rationale": "Хебрејскиот нема глагол; македонскиот бара копула и глагол за движење во втората половина"
+    },
+    {
+      "kind": "substitution",
+      "subject": "смиреност",
+      "rationale": "ענוה е понизност\/скромност; „смиреност“ е најблискиот македонски збор"
+    }
+  ],
+  "translation": "Стравот од Јахве е поука на хоксма — мудрост, а пред славата оди смиреност.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cb107a19c85a2399931faf5f74ac1ac97b8f43ef700369adc427945960f9fcf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/15\/33-33.1792454520161.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "стравот од"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "поука"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "а пред"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славата"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "смиреност"
+    }
+  ],
+  "timestamp": "2026-10-20T00:02:00.162214967Z",
+  "model": "glm-5.3"
+}

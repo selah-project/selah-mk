@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "напував",
+      "rationale": "נפתי од נופ (ниска на улој\/тресе) — фрлав\/напував со мирисни материи"
+    }
+  ],
+  "translation": "Го напував креветот мој со мирта, алоја и канела.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d3d23095c5c9abfb9fb97bc2f768a64465fa3c1f03dfa46a4615d3a0d992bf93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/7\/17-20.1792454364025.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "напував"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "креветот мој"
+    },
+    {
+      "surface": "מר",
+      "gloss": "мирта"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "алоја"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "и канела"
+    }
+  ],
+  "timestamp": "2026-10-19T23:59:24.026040903Z",
+  "model": "glm-5.3"
+}

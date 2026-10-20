@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 38:26",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "познае",
+      "rationale": "ידע „знае“ е евфемизм за телесна близина; македонскиот „познае“ го чува истниот двосмислен облик"
+    },
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема глагол-сврзка во צדקה ממני"
+    }
+  ],
+  "translation": "И Јехуда ги препозна и рече: Таа е поцедек од мене, зашто затоа — не ја дадов на Шела, синот мој. И не додаде повеќе да ја познае.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9f8855b193fdbbab680198e55c770e2862880b339aa9207e467660fedd14adcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/38\/25-28.1792443078137.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "и препозна"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "поцедек е"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "од мене"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "על",
+      "gloss": "затоа што"
+    },
+    {
+      "surface": "כן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נתתיה",
+      "gloss": "ја дадов"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "на Шела"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синот мој"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "додаде"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "לדעתה",
+      "gloss": "да ја познае"
+    }
+  ],
+  "timestamp": "2026-10-19T20:51:18.138920894Z",
+  "model": "glm-5.3"
+}

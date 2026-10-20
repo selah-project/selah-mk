@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "leviticus 13:58",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ќе биде",
+      "rationale": "хебрејскиот וטהר е глагол 'и чиста е\/станува', без копула — македонскиот бара помошен глагол"
+    },
+    {
+      "kind": "substitution",
+      "subject": "пере",
+      "rationale": "כבס буквално 'гази со нозе' — стар начин на перење"
+    }
+  ],
+  "translation": "А облеката, или основата, или потката, или секој предмет од кожа, што ќе го изпереш, и нагата отстапи од нив — ќе се пере вторпат, и ⟨ќе биде⟩ чиста.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "bbad8c3a36eb475c0e5c575df21ec0720309a8839c92b754f30bda53f218e7b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/13\/57-59.1792444238652.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "а облеката"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "основата"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "потката"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "предмет"
+    },
+    {
+      "surface": "העור",
+      "gloss": "од кожа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תכבס",
+      "gloss": "ќе изпереш"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "и отстапи"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "од нив"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "нагата"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "ќе се пере"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "вторпат"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "и чиста"
+    }
+  ],
+  "timestamp": "2026-10-19T21:10:38.654301459Z",
+  "model": "glm-5.3"
+}

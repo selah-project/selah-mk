@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 11:27",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "хебрејскиот нема копула — македонскиот ја бара"
+    },
+    {
+      "kind": "substitution",
+      "subject": "веќе",
+      "rationale": "רע е истиот глагол како во 11:25 — големата иронија: што за Давид не беше зло („не нека ти е зло“), за Јахве беше зло"
+    }
+  ],
+  "translation": "И помина жалоста, и Давид испрати и ја зеде во својата куќа, и таа му биде жена, и му роди син. Но работата што ја направи Давид беше зло во очите на Јахве.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "8be2a52238233720a76a6354d4c9ba04545a14a788a7e77e6916ef0c6f1f79c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/11\/25-27.1792448166132.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "И помина"
+    },
+    {
+      "surface": "האבל",
+      "gloss": "жалоста"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и испрати"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויאספה",
+      "gloss": "и ја зеде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "својата куќа"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "беше зло"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "работата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ја направи"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "во очите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T22:16:06.134763734Z",
+  "model": "glm-5.3"
+}

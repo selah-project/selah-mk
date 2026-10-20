@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 15:5",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אף כי",
+      "rationale": "буквално „дури\/така и“ — реторичко „колку повеќе\/камо ли“, негативен заклучок од помалото кон поголемото"
+    },
+    {
+      "kind": "addition",
+      "subject": "ли",
+      "rationale": "хебрејскиот прашалник е имплицитен во афористичката реченица"
+    }
+  ],
+  "translation": "Еве, кога беше цел, не се правеше за ништо дело — колку повеќе, кога оган го изеде и изгори, ќе се направи ли уште за дело?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "396a7e06042617fabdb20be131a463ccf1daa57beaf3a16d48e250191381f8aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/15\/5-8.1792451502466.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "кога беше"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "цел"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "се правеше"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "за дело"
+    },
+    {
+      "surface": "אף",
+      "gloss": "колку повеќе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оган"
+    },
+    {
+      "surface": "אכלתהו",
+      "gloss": "го изеде"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "и изгори"
+    },
+    {
+      "surface": "ונעשה",
+      "gloss": "ќе се направи ли"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уште"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "за дело"
+    }
+  ],
+  "timestamp": "2026-10-19T23:11:42.466726161Z",
+  "model": "glm-5.3"
+}

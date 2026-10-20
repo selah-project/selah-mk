@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 4:13",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "четиристотини гранати",
+      "rationale": "Пребројување на украсите — два реда по мрежа."
+    },
+    {
+      "kind": "substitution",
+      "subject": "гранати",
+      "rationale": "רמונים — наречани по овошката што личи на топка; украсен облик на капителот."
+    }
+  ],
+  "translation": "и ⟨את⟩ гранатите четиристотини за двете мрежи — два реда гранати за едната мрежа, да ⟨ги⟩ покријат двете топки на капителите што ⟨се⟩ на лицето на столбовите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2723865abed1ce2cc8f9d3c4705274dfdcb6f38f134fd8a0e66c9ae8b7dfd864",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/4\/13-16.1792457392413.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "гранатите"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "гранатите"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотини"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "за двете"
+    },
+    {
+      "surface": "השבכות",
+      "gloss": "мрежи"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "реда"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "гранати"
+    },
+    {
+      "surface": "לשבכה",
+      "gloss": "за мрежата"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "едната"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "да покријат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "двете"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "двете"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "топки"
+    },
+    {
+      "surface": "הכתרות",
+      "gloss": "капители"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "столбовите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:49:52.413835014Z",
+  "model": "glm-5.3"
+}

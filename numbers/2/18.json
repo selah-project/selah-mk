@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 2:18",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "на запад",
+      "rationale": "ימה буквално 'кон морето', т.е. западната страна — објаснето во заглава"
+    }
+  ],
+  "translation": "Знамето на логорот на Ефраим, според нивните војски, кон морето ⟨на запад⟩; и началник на синовите Ефраимови — Елишама, син на Амихуд.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a28691f239bb4cbd9aca30297254d5f490871aa5c5c7c992b2b0e4e75f6c0eae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/2\/17-20.1792444599681.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דגל",
+      "gloss": "знамето"
+    },
+    {
+      "surface": "мחנה",
+      "gloss": "на логорот"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраим"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "според нивните војски"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "кон морето"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "и началник"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовите"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраимови"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Елишама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "на Амихуд"
+    }
+  ],
+  "timestamp": "2026-10-19T21:16:39.685266921Z",
+  "model": "glm-5.3"
+}

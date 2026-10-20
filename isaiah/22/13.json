@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 22:13",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "да јадеме и да пиеме, зашто утре ќе умреме",
+      "rationale": "озгласни сегашни глаголи се охвативни (да јадеме), буквално 'јадете и пијте'"
+    },
+    {
+      "kind": "you",
+      "subject": "до Ерусалим во опсада",
+      "rationale": "стихот е наведен говор на луѓето што слават додека градот е под закана"
+    }
+  ],
+  "translation": "И еве радост и веселие: колење говеда и заколување овци и кози, јадење месо и пиење вино — да јадеме и да пиеме, зашто утре ќе умреме!",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "546e581ac548c78ee451dedc325c19c6b84885b2bb39ad1fa496dc7969f184f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/22\/13-16.1792449820423.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "И еве"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "радост"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "и веселие"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "колење"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "говеда"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "и заколување"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "овци и кози"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "јадење"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "месо"
+    },
+    {
+      "surface": "ושתות",
+      "gloss": "и пиење"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вино"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "да јадеме"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "и да пиеме"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "мחר",
+      "gloss": "утре"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "ќе умреме"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:40.424936226Z",
+  "model": "glm-5.3"
+}

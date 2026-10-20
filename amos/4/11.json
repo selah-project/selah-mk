@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 4:11",
+  "book": "amos",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמהפכת אלהים",
+      "rationale": "„како превртувањето од Елохим“ — Елохим тука можеби суперлатив („разорно превртување“) наместо личност"
+    },
+    {
+      "kind": "substitution",
+      "subject": "главина",
+      "rationale": "אוד е удр за жар — главина, дрво што гори"
+    }
+  ],
+  "translation": "Превртав меѓу вас како превртувањето од Елохим на ⟨את⟩ Содом и ⟨את⟩ Гомора, и бевте како главина иштипкана од оган — а не се врати кај мене, вели Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3c1fb91850ce2d78f25e72d0585cceaf22a9390578a5abb5c4c90293c79c7dd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/amos\/4\/9-12.1792452357198.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפכתי",
+      "gloss": "Превртав"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "меѓу вас"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "како превртувањето"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Содом"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Содом"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Гомора"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Гомора"
+    },
+    {
+      "surface": "ותהיו",
+      "gloss": "и бевте"
+    },
+    {
+      "surface": "כאוד",
+      "gloss": "како главина"
+    },
+    {
+      "surface": "מצל",
+      "gloss": "иштипкана"
+    },
+    {
+      "surface": "משרפה",
+      "gloss": "од оган"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "се врати"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "кај мене"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:25:57.199629951Z",
+  "model": "glm-5.3"
+}

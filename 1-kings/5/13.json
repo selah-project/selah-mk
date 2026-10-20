@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 5:13",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Хебрејскиот ја нема копулата пред בלבנון"
+    },
+    {
+      "kind": "substitution",
+      "subject": "изоп",
+      "rationale": "האזוב е растение; македонската традиција пишува изоп"
+    },
+    {
+      "kind": "measurement",
+      "subject": "дрвата",
+      "rationale": "Списокот на дрвата и живите суштества го опфаќа целиот создаден свет, од најголемото до најмалото"
+    }
+  ],
+  "translation": "И зборуваше за дрвата, од кедарот што ⟨е⟩ во Ливан па до изопот што излегува на ѕидот; и зборуваше за добитокот и за птиците и за влекачите и за рибите.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "091eae413b81795a8880bd1629e238b4cd8255c27c67c079ab4685478a08b2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/5\/13-16.1792448577898.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И зборуваше"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дрвата"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "кедарот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "во Ливан"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "па до"
+    },
+    {
+      "surface": "האזוב",
+      "gloss": "изопот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излегува"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "на ѕидот"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и зборуваше"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "добитокот"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и за"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "птиците"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и за"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "влекачите"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и за"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "рибите"
+    }
+  ],
+  "timestamp": "2026-10-19T22:22:57.900739913Z",
+  "model": "glm-5.3"
+}

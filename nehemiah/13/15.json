@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 13:15",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ציד",
+      "rationale": "букв. „лов“\/дивеч — тука значи храна за продажба (KJV „victuals“, JPS „provisions“)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הערמות",
+      "rationale": "букв. „kupишта“ — JPS „heaps of corn“; тука снопови"
+    }
+  ],
+  "translation": "Во тие дни видов во Јехуда како газат lonцири во шабат и како носат снопови, и како товарат на магариња, па и вино, грозје и смокви и секаков товар, и носат ⟨се⟩ во Јерушалаим во денот на шабатот, и јас ги предупредив во денот кога продаваа прилог.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0ab7823c728c5fd118a8c466f18998579ff087bd60c4f5eba5c7274e0cc4bc60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/13\/13-16.1792456756908.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "во тие дни"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видов"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "во Јехуда"
+    },
+    {
+      "surface": "דרкים",
+      "gloss": "газат"
+    },
+    {
+      "surface": "גתות",
+      "gloss": "лонцири"
+    },
+    {
+      "surface": "בשבת",
+      "gloss": "во шабат"
+    },
+    {
+      "surface": "ומביאים",
+      "gloss": "и носат"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "снопови"
+    },
+    {
+      "surface": "ועמסים",
+      "gloss": "и товарат"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "החמרים",
+      "gloss": "магарињата"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "па и"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вино"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "грозје"
+    },
+    {
+      "surface": "ותאנים",
+      "gloss": "и смокви"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и секаков"
+    },
+    {
+      "surface": "משא",
+      "gloss": "товар"
+    },
+    {
+      "surface": "ומביאים",
+      "gloss": "и носат"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "во Јерушалаим"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "на шабатот"
+    },
+    {
+      "surface": "ואעיד",
+      "gloss": "и ги предупредив"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "מכרם",
+      "gloss": "кого продаваа"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "прилог"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:16.911388671Z",
+  "model": "glm-5.3"
+}

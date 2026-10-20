@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חבורתי",
+      "rationale": "буквално 'модринки од удари', исцртани белези; 'рани' е поопшто."
+    }
+  ],
+  "translation": "Смрадат и гнијат раните мои поради лудоста моја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6e0e4481c66985f76af9c5f6a00308d3b84c548b2b59255c12da3f9d044e2080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/38\/5-8.1792453231726.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "смрадат"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "гнијат"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "раните мои"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "поради"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "лудоста моја"
+    }
+  ],
+  "timestamp": "2026-10-19T23:40:31.726842994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 19:13",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא תחוס עינך עליו",
+      "rationale": "Хебрејскиот literally 'окото твое нема да го жали' — идиом за немилост, задржан буквално."
+    },
+    {
+      "kind": "crux",
+      "subject": "דם הנקי",
+      "rationale": "KJV\/BSB 'вина за невина крв' наспроти JPS\/YLT 'крв на невиниот' — хебрејскиот вели само 'крв невина'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ќе",
+      "rationale": "Македонскиот идно време бара помошен глагол што хебрејскиот перфект го нема."
+    }
+  ],
+  "translation": "Не жалееј го со окото твое него, и ќе ја отстраниш ⟨את⟩ крвта на невиниот од Јисраел, и добро ќе ти биде.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "8f6a0ea4794208b51a38e742b8475ace9b0b0704848a0c5043ad29ea8642b1f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/19\/13-16.1792445596284.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "жалееј"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "со окото твое"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "него"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "и ќе ја отстраниш"
+    },
+    {
+      "surface": "דם",
+      "gloss": "крвта"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "на невиниот"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "од Јисраел"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "и добро"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ќе ти биде"
+    }
+  ],
+  "timestamp": "2026-10-19T21:33:16.284643154Z",
+  "model": "glm-5.3"
+}

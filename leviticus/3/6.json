@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 3:6",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "шеламим",
+      "rationale": "שלמים често се преведува 'мирни жртви', но коренот е שלם — целина, наплата; задржано како име"
+    }
+  ],
+  "translation": "И ако неговиот дар е од стадото, за жртва на шеламим за Јахве — машко или женско, без недостаток ќе го принесе.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "778b7f6bd094a60ecd3cb2b8c81155e72e136b52acb22e75e91a05af3ebba350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/3\/5-8.1792444018532.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "стадото"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "неговиот дар"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "за жртва"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "на шеламим"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Јахве"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "машко"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "женско"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "без недостаток"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "ќе го принесе"
+    }
+  ],
+  "timestamp": "2026-10-19T21:06:58.536696661Z",
+  "model": "glm-5.3"
+}

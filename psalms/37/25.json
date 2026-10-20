@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "נתу",
+      "rationale": "хебрејскиот не го повторува негацијата пред вториот член; македонскиот бара 'ниту'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נער \/ זקנתי",
+      "rationale": "контраст младост–старост во рамнотежни кратки клаузули, мерено сведочење од цел живот"
+    }
+  ],
+  "translation": "Млад бев, и стар станав, а не видов праведник напуштен, ⟨ниту⟩ потомството негово да проси леб.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0646819da900c31f897e9257d1f4229724e61c294b40ec81b63ffdc2722e6abb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/37\/25-28.1792453211949.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "млад"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "бев"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "стар станав"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видов"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведник"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "напуштен"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "потомството негово"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "да проси"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    }
+  ],
+  "timestamp": "2026-10-19T23:40:11.950025234Z",
+  "model": "glm-5.3"
+}

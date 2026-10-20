@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "новиот месец",
+      "rationale": "ходеш — почетокот на месецот, празнична трпеза; мерка на времето што носи дејство."
+    }
+  ],
+  "translation": "И Давид се сокри во полето. И ⟨настана⟩ новиот месец, и царот седна на јадењето да јаде.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "44d0a9cf46c5b979c5dcc320239300c1e95cbd01ab1508d507f756f48339033c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/20\/21-24.1792446934605.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "и се сокри"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "во полето"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "новиот месец"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и седна"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "лебот"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "да јаде"
+    }
+  ],
+  "timestamp": "2026-10-19T21:55:34.607461856Z",
+  "model": "glm-5.3"
+}

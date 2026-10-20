@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ги \/ Го",
+      "rationale": "македонскиот бара директен објект со клитики што хебрејскиот не означува со את туку со наставката"
+    }
+  ],
+  "translation": "О блажените што ги чуваат Неговите сведоштва, со сето срце Го бараат!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/1-4.1792454007057.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "О блажените"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "што ги чуваат"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "Неговите сведоштва"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "со сето"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "Го бараат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:27.058446922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "пред",
+      "rationale": "אל е 'кон\/кај'; 'пред старешините' ја носи судската сцената на портата."
+    },
+    {
+      "kind": "measurement",
+      "subject": "доказите за девственоста",
+      "rationale": "станува збор за физички доказ — платно што се простира пред старешините (стих 17)."
+    }
+  ],
+  "translation": "И таткото на девојката и мајка ѝ ќе земат и ќе изнесат ⟨את⟩ доказите за девственоста на девојката пред старешините на градот, на портата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0ebf874e02f770a54ec02abe03b2b8af099a467e4496750736318a7a2465d181",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/22\/13-16.1792445676950.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "и ќе земат"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "таткото на"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "девојката"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "и мајка ѝ"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "и ќе изнесат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "доказите за девственоста на девојката"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "доказите за девственоста"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "на девојката"
+    },
+    {
+      "surface": "אל",
+      "gloss": "пред"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старешините на"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "на портата"
+    }
+  ],
+  "timestamp": "2026-10-19T21:34:36.951423926Z",
+  "model": "glm-5.3"
+}

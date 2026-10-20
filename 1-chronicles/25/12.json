@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "дванаесет",
+      "rationale": "Повторениот број дванаесет ја бележи целосноста на двеесет и четирите чети."
+    }
+  ],
+  "translation": "петтиот — Нетанјаху; синовите негови и браќата негови — дванаесет.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "638f4277866b762a40d70ad2fbbd0220f4f31a3e3814114ce2361f59026f5a60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/25\/9-12.1792457221965.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "петтиот"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "Нетанјаху"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синовите негови"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и браќата негови"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дванаесет"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "дванаесет"
+    }
+  ],
+  "timestamp": "2026-10-20T00:47:01.966583287Z",
+  "model": "glm-5.3"
+}

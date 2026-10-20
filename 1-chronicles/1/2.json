@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 1:2",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 1,
+  "translation": "Каинан, Маалалел, Јаред,",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "be374bdf59b8c5529bd42140c46ddfcc22757ba1293b4df6720bb995f3988545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/1\/1-4.1792456764984.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קינן",
+      "gloss": "Каинан"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Маалалел"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Јаред"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:24.984980457Z",
+  "model": "glm-5.3"
+}

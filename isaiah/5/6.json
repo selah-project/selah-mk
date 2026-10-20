@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 5:6",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שמיר и שית",
+      "rationale": "две ретки хебрејски збора за трње — задржани само како 'трње и капини', разликата меѓу нив е изгубена"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "шамир ва-шаит",
+      "rationale": "алитерација на двете трње во хебрејскиот"
+    }
+  ],
+  "translation": "И ќе го оставам ⟨се⟩ да биде пустина: нема да се кастром ниту да се копа; и ќатрат трње и капини, и на облacите ќе заповедам да не паѓа дожд на него.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "61e2c11e0f8f5058643d2801dc4a7a76a076a82490f6108d8012de1a973b5479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/5\/5-8.1792449594787.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשיתהו",
+      "gloss": "и ќе го ставам"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "пустина"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יזמר",
+      "gloss": "ќе се кастром"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יעדר",
+      "gloss": "ќе се копа"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "и ќатрат"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "трње"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "капини"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "облаците"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "ќе заповедам"
+    },
+    {
+      "surface": "מהמטיר",
+      "gloss": "да не паѓа дожд"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "дожд"
+    }
+  ],
+  "timestamp": "2026-10-19T22:39:54.789629428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "краишта на земјата",
+      "rationale": "אפסי ארץ буквално 'краевите\/границите на земјата' — идиом за целиот свет"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יברכנו",
+      "rationale": "истиот глагол повторен од стих 7 — верига на благослов, изгубена во македонскиот ред на зборовите"
+    }
+  ],
+  "translation": "Ќе нè благослови Елохим, и сите краишта на земјата ќе Го ⁠⟨се⟩⁠ бојат ⟨את⟩ Него.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6737b1a022538e2485acd326143b059d2d1ab78b20b1ba544ee0db1fa876d90c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/67\/5-8.1792453474168.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "Ќе нè благослови"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "и ќе се бојат"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "сите краишта на земјата Него"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "краишта"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:44:34.169963312Z",
+  "model": "glm-5.3"
+}

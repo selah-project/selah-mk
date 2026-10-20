@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 6:4",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את (H854)",
+      "rationale": "ова е предлог 'со\/кон', не обележувачот на предмет H853 — и покрај идентичните согласки"
+    }
+  ],
+  "translation": "И рече: Благословен е Јахве, Елохим на Јисраел, Кој зборувал со Својата уста ← кон ⟨את⟩ Давида, татко ми, и со Своите раце исполни, велејќи:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "de24a3eb168abc4c2c7cc023515f4de6a617e6c80ee31dcd9fa8d242fa5559c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/6\/1-4.1792457424529.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Благословен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборувал"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "со Својата уста"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨со⟩",
+      "marks": "Давида"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "татко ми"
+    },
+    {
+      "surface": "ובידיו",
+      "gloss": "и со Своите раце"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "исполни"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    }
+  ],
+  "timestamp": "2026-10-20T00:50:24.531021559Z",
+  "model": "glm-5.3"
+}

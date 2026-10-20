@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשאתי",
+      "rationale": "буквално „кренав\/понесов“ — KJV „понесов казна“ наспроти Genevа „простив“ (го кренав гревот); дали говорникот вели дека примил казна или дека простил."
+    },
+    {
+      "kind": "addition",
+      "subject": "казна",
+      "rationale": "објектот на נשאתי не е наведен во хебрејскиот; македонскиот бара дополнување на смисла."
+    }
+  ],
+  "translation": "Зашто на Ел е кажано: Понесов ⟨е⟩, нема повеќе да престапам?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "32bf92ad5ff7e21a86bd4268cefa935960753f5a9cd2fc268e18e423684f0666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/34\/29-32.1792455322252.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "е кажано"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "понесов"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אחבол",
+      "gloss": "ќе престапам"
+    }
+  ],
+  "timestamp": "2026-10-20T00:15:22.253629738Z",
+  "model": "glm-5.3"
+}

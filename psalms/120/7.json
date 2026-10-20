@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨сум⟩ и ⟨се⟩",
+      "rationale": "Хебрејскиот е без глагол — 'Јас мир… тие за војна'; македонскиот бара копула."
+    },
+    {
+      "kind": "idiom",
+      "subject": "למלחמה",
+      "rationale": "Предлог ל со значење намена: 'наменети за војна', 'склони кон војна'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום \/ למלחמה",
+      "rationale": "Остра антитеза мир–војна ја затвора песната; безимен substitution би го убил контрастот."
+    }
+  ],
+  "translation": "Јас сум мир, а кога зборувам, тие ⟨се⟩ за војна.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d43459e9860c7aab20df4312462f58b3e28a6f029a059b37119b1f207290744d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/120\/5-7.1792454045966.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "а кога"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "зборувам"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "за војна"
+    }
+  ],
+  "timestamp": "2026-10-19T23:54:05.968864875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 29:4",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до прогонетите во Вавилон",
+      "rationale": "Јахве директно им се обраќа на сите прогонети — почеток на писмото"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגולה \/ הגליתי",
+      "rationale": "корен גלה се повторува: 'прогонети — ги прогонив' — Јахве лично го презема прогонството"
+    }
+  ],
+  "translation": "Така вели Јахве Цеваот, Елохим на Јисраел, на сите прогонети што ги прогонив од Јерушалаим во Вавилон:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "115a3e2b36d45861246e9f054a55b6f11098ace0662fe8c4d0c8c70cd26ad144",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/29\/1-4.1792450822018.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на сите"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "прогонети"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "הגליתי",
+      "gloss": "ги прогонив"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "од Јерушалаим"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "во Вавилон"
+    }
+  ],
+  "timestamp": "2026-10-19T23:00:22.020928384Z",
+  "model": "glm-5.3"
+}

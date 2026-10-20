@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קצף … קצף",
+      "rationale": "Глаголот и именката од ист корен на почетокот и крајот на стихот — инфинитивен акцент, задржан со повторување."
+    }
+  ],
+  "translation": "Се разлути Јахве на татковците ваши — разлутување.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2a5c8d6ebcb24ff24d03da470e0d9c14676fdf9325c862b8c5d0c4708b2706c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/1\/1-4.1792452711278.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "се разлути"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "татковците ваши"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "разлутување"
+    }
+  ],
+  "timestamp": "2026-10-19T23:31:51.279487213Z",
+  "model": "glm-5.3"
+}

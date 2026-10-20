@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 10:22",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бееше⟩",
+      "rationale": "Македонскиот бара копула; хебрејскиот ја нема"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפרים \/ אלישמע",
+      "rationale": "И на Елишама ('Ел чу') — теофорни имиња, звукот е задржан"
+    }
+  ],
+  "translation": "И тргна знамето на логорот на синовите Ефраимови според војските нивни, а над војската негова ⟨бееше⟩ Елишама, синот на Амиуд.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0c15f53df13ebd7d8f03ea84d6bbf3d60e76f44d38c6ba23e9920d2f5dd19ab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/10\/21-24.1792444726771.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסע",
+      "gloss": "И тргна"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "знамето"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "на логорот"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на синовите"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраимови"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "според војските нивни"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "а над"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "војската негова"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Елишама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "на Амиуд"
+    }
+  ],
+  "timestamp": "2026-10-19T21:18:46.772757515Z",
+  "model": "glm-5.3"
+}

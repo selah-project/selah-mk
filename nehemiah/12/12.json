@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 12:12",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨домови⟩",
+      "rationale": "האבות е дословно „татковите“ (заветни домови); „домови“ е додадено за јасност."
+    },
+    {
+      "kind": "measurement",
+      "subject": "список на свештенички старешини",
+      "rationale": "Список на старешини по таткови домови — броенење на родови."
+    }
+  ],
+  "translation": "И во деновите на Јојаким беа свештеници, старешини на татковите ⟨домови⟩: за Сераја — Мераја, за Јирмеја — Хананија.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "11c870efc327358f421b2820a853415dc096647e9361edacfef9d48d6a83eb78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/12\/9-12.1792456738118.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובימי",
+      "gloss": "И во деновите на"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Јојаким"
+    },
+    {
+      "surface": "היו",
+      "gloss": "беа"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "свештеници"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "старешини"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "на татковите ⟨домови⟩"
+    },
+    {
+      "surface": "לשריה",
+      "gloss": "за Сераја"
+    },
+    {
+      "surface": "מריה",
+      "gloss": "Мераја"
+    },
+    {
+      "surface": "לירמיה",
+      "gloss": "за Јирмеја"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Хананија"
+    }
+  ],
+  "timestamp": "2026-10-20T00:38:58.119734870Z",
+  "model": "glm-5.3"
+}

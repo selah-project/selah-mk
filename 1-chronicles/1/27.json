@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Хебрејскиот има само акцентското הוא („тоа е“), без глагол; македонскиот бара копула."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אברם\/אברהם",
+      "rationale": "Проширувањето на името (Аврам → Аврахам) е само во согласност на буквите; врската со промената на сојузот се губи."
+    }
+  ],
+  "translation": "Аврам — тоа е Аврахам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4e58a1bda2607e14002134a3f69d6fec0657ad3b1c29ac7e1b51f93a1751b71a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/1\/25-28.1792456771884.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тоа е"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:31.885480067Z",
+  "model": "glm-5.3"
+}

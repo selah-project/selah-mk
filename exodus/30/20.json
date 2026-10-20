@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 30:20",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "огнена жртва",
+      "rationale": "אשה е „жртва што се кади“ — именувана по огнот\/кадењето, не по начинот на принесување."
+    }
+  ],
+  "translation": "кога ќе влезат во шаторот на состанокот — ќе се мијат со вода, за да не умрат; или кога ќе пристапат кон жртвеникот за да служат, за да накадат огнена жртва на Јахве;",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c2a1a6f17bc6b39a011243e57844f42c9a959608cdec24de1bdf7f64c7fbbd8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/30\/17-20.1792443808222.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "кога ќе влезат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шаторот"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на состанокот"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "ќе се мијат"
+    },
+    {
+      "surface": "מים",
+      "gloss": "со вода"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "за да не"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "умрат"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בגשתם",
+      "gloss": "кога ќе пристапат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жртвеникот"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "да служат"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "да накадат"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "огнена жртва"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:03:28.227997047Z",
+  "model": "glm-5.3"
+}

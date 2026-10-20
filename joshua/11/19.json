@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 11:19",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השלימה",
+      "rationale": "од корен שלם — 'направи мир\/предаде се'; тукашната приказна за Гиваон (Исус 9) стои зад зборот."
+    }
+  ],
+  "translation": "Немаше град што склучил мир со синовите Јисраелови — освен Хивејците, жителите на Гиваон; ⟨את⟩ сите ги зедоа со војна.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a0304fa8d4edd730bc5cbece05d2517bb7f9a4c4a7586d0ad076c9cb402b7565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/11\/17-20.1792446066217.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "немаше"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "склучил мир"
+    },
+    {
+      "surface": "אל",
+      "gloss": "со"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелови"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "освен"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Хивејците"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жителите на"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гиваон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ги зедоа"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "со војна"
+    }
+  ],
+  "timestamp": "2026-10-19T21:41:06.218960972Z",
+  "model": "glm-5.3"
+}

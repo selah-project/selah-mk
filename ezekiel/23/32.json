@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 23:32",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להכיל",
+      "rationale": "„Многу та содржи“ (KJV\/Генева) наспроти чтението „многу за да те содржи“ — глаголот значи „да држи\/да мери“; подметот е скриен."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לצחק\/ללעג",
+      "rationale": "Двоен синонимен пар за потсмев — потсмев и rugаницa — ритмичко натрупување."
+    }
+  ],
+  "translation": "Така вели Адонај Јахве: Чашата на сестра си ќе ја пиеш — длабоката и широката; за потсмев и за rugаницa ќе бидеш, мнозина та ⟨содржи⟩.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "51c848ac14b594d592b382e39cee28ad24db1531b7dca7ef0b8151c72b6354c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/23\/29-32.1792451724815.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "Чашата"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "на сестра си"
+    },
+    {
+      "surface": "תשתי",
+      "gloss": "ќе ја пиеш"
+    },
+    {
+      "surface": "העמקה",
+      "gloss": "длабоката"
+    },
+    {
+      "surface": "והרחבה",
+      "gloss": "и широката"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ќе бидеш"
+    },
+    {
+      "surface": "лצחק",
+      "gloss": "за потсмев"
+    },
+    {
+      "surface": "וללעג",
+      "gloss": "и за rugаницa"
+    },
+    {
+      "surface": "מרבה",
+      "gloss": "мнозина"
+    },
+    {
+      "surface": "להכיל",
+      "gloss": "да содржи"
+    }
+  ],
+  "timestamp": "2026-10-19T23:15:24.816875194Z",
+  "model": "glm-5.3"
+}

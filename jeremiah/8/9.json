@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 8:9",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨има⟩",
+      "rationale": "хебрејскиот нема глагол — македонскиот бара „има“"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Постидени беа",
+      "rationale": "хебрејскиот може да биде и повик („да се постидат“), но сумативен опис одговара на контекстот"
+    }
+  ],
+  "translation": "Постидени беа мудреците, сломени се и фатени; ете, словото на Јахве го отфрлија — а мудрост, каква ⟨има⟩ во нив?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e3707db63a101073d60ee5b71878724098842e1b65345fa399c7d50c846fae53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/8\/9-12.1792450483852.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבישו",
+      "gloss": "Постидени беа"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудреците"
+    },
+    {
+      "surface": "חתו",
+      "gloss": "сломени се"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "и фатени"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ете"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "го отфрлија"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "а мудрост"
+    },
+    {
+      "surface": "מה",
+      "gloss": "каква"
+    },
+    {
+      "surface": "להם",
+      "gloss": "во нив"
+    }
+  ],
+  "timestamp": "2026-10-19T22:54:43.853614148Z",
+  "model": "glm-5.3"
+}

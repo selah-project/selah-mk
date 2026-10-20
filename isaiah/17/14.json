@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 17:14",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ги⟩",
+      "rationale": "איננו е негатива без експлицитен заменки — заменката е додадена за јасност"
+    },
+    {
+      "kind": "measurement",
+      "subject": "дел и жреб",
+      "rationale": "חלק и גורал — одделување преку поделба и фрлање камче, слика на судбина на пљачкосувачите"
+    }
+  ],
+  "translation": "Во време на вечер — и ето паника; пред утрината ⟨ги⟩ нема. Ова е делот на оние што нѐ пустошат и жребот на оние што нѐ ограбуваат.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "1eba63a3497c77aeb6ec83b0f83c491964bb75dfef2bee0e19b1ccf39713e5d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/17\/13-14.1792449767053.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעת",
+      "gloss": "во време"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "на вечер"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "паника"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "пред"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "утрината"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "⟨ги⟩ нема"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ова"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "делот"
+    },
+    {
+      "surface": "שוסינו",
+      "gloss": "на оние што нѐ пустошат"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "и жребот"
+    },
+    {
+      "surface": "לבזזינו",
+      "gloss": "на оние што нѐ ограбуваат"
+    }
+  ],
+  "timestamp": "2026-10-19T22:42:47.055279191Z",
+  "model": "glm-5.3"
+}

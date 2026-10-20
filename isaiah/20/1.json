@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תרתן",
+      "rationale": "Тартан — асирска титула за врховен заповедник, во Танахот само тука и во 2 Цареви 18:17."
+    },
+    {
+      "kind": "hapax",
+      "subject": "סרגון",
+      "ratrement": "",
+      "rationale": "Саргон — единствен спомен на овој асирски цар во Танахот."
+    }
+  ],
+  "translation": "Во годината кога дојде Тартан во Ашдод — кога Саргон, царот на Ашур, го прати ⟨него⟩ — и војува против Ашдод и ја зеде;",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "dee70f1b0a5d118d2e4945ec1812b963b48feee69148f82443a9aeb3d94a3d20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/20\/1-4.1792449824821.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Во годината"
+    },
+    {
+      "surface": "בא",
+      "gloss": "кога дојде"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Тартан"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "во Ашдод"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "кога прати"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него (Тартан)"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Саргон"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "на Ашур"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "и војува"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "против Ашдод"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "и ја зеде"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:44.823384866Z",
+  "model": "glm-5.3"
+}

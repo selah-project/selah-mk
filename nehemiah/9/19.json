@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 9:19",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עמוד...עמוד",
+      "rationale": "повторување столб облак \/ столб оган — паралелизам дење\/ноќе"
+    }
+  ],
+  "translation": "И Ти, во милостите свои многубројни, не ги остави во пустина: ⟨את⟩ столбот облак не се отстрани од нив дење, за да ги води по патот, и ⟨את⟩ столбот оган ноќе, за да им свети, и ⟨את⟩ патот по кој ќе одат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "93c963f8fdd730b314ed295f944e07954c2c829dbaa28eed499b71163a50371a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/9\/17-20.1792456694854.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "И Ти"
+    },
+    {
+      "surface": "ברחמיך",
+      "gloss": "во милостите свои"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "многубројни"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "ги остави"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "во пустина"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "столбот облак"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "столбот"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "облак"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "סר",
+      "gloss": "се отстрани"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "од нив"
+    },
+    {
+      "surface": "ביומם",
+      "gloss": "дење"
+    },
+    {
+      "surface": "להנחתם",
+      "gloss": "да ги води"
+    },
+    {
+      "surface": "בהדרך",
+      "gloss": "по патот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "столбот оган"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "столбот"
+    },
+    {
+      "surface": "האש",
+      "gloss": "оган"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ноќе"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "да свети"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "патот"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "патот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "по кој"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ќе одат"
+    },
+    {
+      "surface": "בה",
+      "gloss": "по него"
+    }
+  ],
+  "timestamp": "2026-10-20T00:38:14.856176122Z",
+  "model": "glm-5.3"
+}

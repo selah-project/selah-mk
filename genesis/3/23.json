@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "האדם\/האדמה",
+      "rationale": "човек (адам) и земја (адама) — ист корен, врската се губи во македонскиот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "беше земен",
+      "rationale": "хебрејскиот има пасив 'беше земен', македонскиот пасив се гради со 'беше + придавка'"
+    }
+  ],
+  "translation": "И Јахве Елохим го испрати ⟨את⟩ него од градината Еден, за да ја обработува ⟨את⟩ земјата од која беше земен.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "da06d7792dc076c6549ca260fa703dc8aa22a14b91cb4b95cc6de1dccc3b1e7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/3\/22-24.1792447663887.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "го испрати него"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "од градината"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Еден"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "за да ја обработува"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "беше земен"
+    },
+    {
+      "surface": "משם",
+      "gloss": "од неа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:07:43.891717786Z",
+  "model": "glm-5.3"
+}

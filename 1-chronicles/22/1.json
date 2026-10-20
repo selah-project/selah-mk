@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Хебрејскиот нема копула; ху-хе е деминстратив со значење 'овој\/тоа'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זה הוא … וזה",
+      "rationale": "Двојното 'ова… и ова' — демонстративна рамка на обете свети места"
+    }
+  ],
+  "translation": "И рече Давид: Ова ⟨е⟩ домот на Јахве, Елохим, и ова ⟨е⟩ жртвеникот за сепаленица за Јисраел.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "180f9f809dde6603bfc8483960c2561f945190e3307a797ad80ddafa320f6270",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/22\/1-4.1792457150416.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ова"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨е⟩ тоа"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "и ова"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жртвеникот"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "за сепаленица"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "за Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-20T00:45:50.417142515Z",
+  "model": "glm-5.3"
+}

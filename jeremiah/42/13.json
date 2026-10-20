@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 42:13",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "остатокот од Јуда",
+      "rationale": "Јахве им го обраќа зборот директно на водачите на преостанатиот Јуда."
+    },
+    {
+      "kind": "addition",
+      "subject": "да",
+      "rationale": "Македонскиот побарува помошен глагол во идниот негација, хебрејскиот има само לא."
+    },
+    {
+      "kind": "idiom",
+      "subject": "да слушаме глас",
+      "rationale": "בקול שמוע е идиом за послушание, не само слушање со уво."
+    }
+  ],
+  "translation": "А ако вие велите: „Нема да останеме во оваа земја“, за да не го слушаме гласот на Јахве, вашиот Елохим —",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6b48d386b3a2b0ac68b71bb112f63e4d0b781d00ba368a2fe5014a5227d48fa6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/42\/13-16.1792451045465.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": " велите"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "נשב",
+      "gloss": "да останеме"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "за да не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слушаме"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "гласот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "вашиот Елохим"
+    }
+  ],
+  "timestamp": "2026-10-19T23:04:05.465675900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 13:13",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא ימנעני ממך",
+      "rationale": "двојно читање: 'нема да ми забрани тебе' (LXX: нема да ти дозволи да ме земеш) наспроти 'нема да ме задржи од тебе'."
+    },
+    {
+      "kind": "you",
+      "subject": "Тамар му го говори ова на Амнон",
+      "rationale": "директен говор до одреден адресат."
+    }
+  ],
+  "translation": "А јас — каде ќе го однесам ⟨את⟩ срамотата своја? А ти ќе бидеш како еден од безумните во Јисраел. А сега, те молам, зборувај на царот, зашто тој нема да ме задржи од тебе.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2496d8f639a5dc886c2bcfbe91c6ec9c8e5c1283ac95f9f8883eda7ab9970723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/13\/13-16.1792448226187.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а јас"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "каде"
+    },
+    {
+      "surface": "אוליך",
+      "gloss": "ќе го однесам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срамотата своја"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "срамотата своја"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ќе бидеш"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "како еден"
+    },
+    {
+      "surface": "הנבלים",
+      "gloss": "од безумните"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "во Јисраел"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборувај"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימנעני",
+      "gloss": "ќе ме задржи"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "од тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:06.188563709Z",
+  "model": "glm-5.3"
+}

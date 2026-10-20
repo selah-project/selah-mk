@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 32:3",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חרה אפו",
+      "rationale": "'носот му се разгоре' = разгори се гневот"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "релятивното אשר се претопи во македонската 'зашто' конструкција"
+    }
+  ],
+  "translation": "И против неговите тројца пријатели се разгори неговиот гнев, зашто не најдоа одговор, а ⟨сепак⟩ го осудија ⟨את⟩ Ијов.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "248a0e1a6fd045eb593ee89aabfc8b866c8706840283e7d6315c8921448ac9b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/32\/1-4.1792455253170.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשלשת",
+      "gloss": "И против неговите тројца"
+    },
+    {
+      "surface": "רעיו",
+      "gloss": "пријатели"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "се разгори"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "неговиот гнев"
+    },
+    {
+      "surface": "על",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "најдоа"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "одговор"
+    },
+    {
+      "surface": "וירשיעו",
+      "gloss": "го осудија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ијов"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ијов"
+    }
+  ],
+  "timestamp": "2026-10-20T00:14:13.171796136Z",
+  "model": "glm-5.3"
+}

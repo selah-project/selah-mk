@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 35:23",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תחשים",
+      "rationale": "Неидентификувано животно — морж, делфин, антилопа; задржано како „тахаш“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תולעת שני",
+      "rationale": "Буквално „црв“ — инсектот од кој се добива црвената боја."
+    }
+  ],
+  "translation": "И секој човек кај кого се најде сина волна, и пурпур, и црвеница, и тенечно платно, и козина, и кожи од овни обоени црвено, и кожи од тахаш — ги донесоа.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "95d5f8fb97a84904f75390e03bc4393dd7af1492fd7993859ee875751534d2ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/35\/21-24.1792443927467.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и секој"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "се најде"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "кај него"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "сина волна"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "и пурпур"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "и црвеница"
+    },
+    {
+      "surface": "שני",
+      "gloss": "црвена"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "и тенечно платно"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "и козина"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "и кожи"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "од овни"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "обоени црвено"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "и кожи"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "од тахаш"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ги донесоа"
+    }
+  ],
+  "timestamp": "2026-10-19T21:05:27.474935228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 11:11",
+  "book": "hosea",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צפור",
+      "rationale": "буквално 'малечка птица што прска' — општо 'птица'"
+    }
+  ],
+  "translation": "Ќе затреперат како птица од Мицраим и како гулабица од земјата Ашур, и ќе ги населам во домовите нивни — изрека на Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9bae756fadcab15ae3185187d41e0eb0d4afcde43d5a70e9bfe5eef4be34d884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/hosea\/11\/9-11.1792452265994.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחרדו",
+      "gloss": "ќе затреперат"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "како птица"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "од Мицраим"
+    },
+    {
+      "surface": "וכיונה",
+      "gloss": "и како гулабица"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "והושבתים",
+      "gloss": "и ќе ги населам"
+    },
+    {
+      "surface": "על",
+      "gloss": "во"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "домовите нивни"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:24:25.995857395Z",
+  "model": "glm-5.3"
+}

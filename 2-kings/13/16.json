@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 13:16",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרכב \/ וירכב",
+      "rationale": "глаголот „стави рака“ е од коренот „јава“ (רכב) — слика на рака како јавач на лукот, во македонскиот изгубено"
+    },
+    {
+      "kind": "symbolism",
+      "subject": "рацете на Елиша врз рацете на царот",
+      "rationale": "гестот значи дека победата ќе дојде преку пророкот, Божјата рака врз царската"
+    }
+  ],
+  "translation": "И рече на царот на Јисраел: Стави ја раката твоја на лукот. И ја стави раката своја, и Елиша ги стави рацете свои врз рацете на царот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "dd23b39b3bc22ac995aef71d255cb3e351f038262cd6c8eadb88d8522cc9f3b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/13\/13-16.1792449353077.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "Стави"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "раката твоја"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "лукот"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "И ја стави"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "раката своја"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "и ги стави"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Елиша"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "рацете свои"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "рацете на"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:35:53.079413081Z",
+  "model": "glm-5.3"
+}

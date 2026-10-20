@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 37:17",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "македонскиот бара помошен глагол што хебрејскиот го нема"
+    },
+    {
+      "kind": "crux",
+      "subject": "מדרום",
+      "rationale": "југот како страна или како јужен ветер; КЈВ\/АСВ ги.goрат двата"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јов",
+      "rationale": "Елиху го прашува Јов директно со прашања"
+    }
+  ],
+  "translation": "Како се топлат облеките твои, кога ⟨се⟩ смирува ⟨את⟩ земјата од јужниот?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cbb4c362c235142bd4b31535de6b1ff06c6cc4906da45564f1d9aab8759b0e5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/37\/17-20.1792455299820.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "како"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "облеките твои"
+    },
+    {
+      "surface": "חמים",
+      "gloss": "топли"
+    },
+    {
+      "surface": "בהשקט",
+      "gloss": "кога смирува"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "מדרום",
+      "gloss": "од југ"
+    }
+  ],
+  "timestamp": "2026-10-20T00:14:59.820632710Z",
+  "model": "glm-5.3"
+}

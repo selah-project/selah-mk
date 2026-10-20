@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 2:13",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלום\/שלום",
+      "rationale": "Прашањето и одговорот стојат на ист збор — хебрејскиот размменува еден единечен збор, шалом."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Дали е со мир",
+      "rationale": "Хебрејскиот нема глагол во прашањето — букв. „мир ли е доаѓањето твое“."
+    }
+  ],
+  "translation": "И дојде Адонија, син на Хагит, кај Бат-Шева, мајката на Шломо; та рече: Дали е со мир доаѓањето твое? А тој рече: Мир.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "821f81cb60b100be09e801f68e96ef2d54e7a9d5349f971f72540a75bf0b53c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/2\/13-16.1792448557852.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И дојде"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Адонија"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Хагит"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Бат"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "אם",
+      "gloss": "мајката"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "на Шломо"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "та рече"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Дали е со мир"
+    },
+    {
+      "surface": "באך",
+      "gloss": "доаѓањето твое"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "а тој рече"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Мир"
+    }
+  ],
+  "timestamp": "2026-10-19T22:22:37.853256725Z",
+  "model": "glm-5.3"
+}

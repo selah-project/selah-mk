@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 5:11",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "своето подножје",
+      "rationale": "מכנתה буквално 'место\/постолје' — основа на која стои ефата"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Шинар",
+      "rationale": "земјата Шинар е Вавилонија — злобата се враќа во својата татковина, но текстот вели само Шинар"
+    }
+  ],
+  "translation": "И ми рече: да ѝ се изгради дом во земјата Шинар, и кога ќе биде подготвена, ќе биде поставена таму на своето подножје.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fa2c8ec70bd8f8165d479177909061ae65aece51093613bd53825b23a3a7ca85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/5\/9-11.1792452748913.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и ми рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "да се изгради"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ѝ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Шинар"
+    },
+    {
+      "surface": "והוכן",
+      "gloss": "и кога ќе биде подготвена"
+    },
+    {
+      "surface": "והניחה",
+      "gloss": "ќе биде поставена"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מכנתה",
+      "gloss": "своето подножје"
+    }
+  ],
+  "timestamp": "2026-10-19T23:32:28.915289811Z",
+  "model": "glm-5.3"
+}

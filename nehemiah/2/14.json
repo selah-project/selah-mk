@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 2:14",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "под мене",
+      "rationale": "תחתי буквално 'под мене' — задржано, не додадено"
+    }
+  ],
+  "translation": "И преминав кон портата на изворот и кон базенот на царот, а немаше место добитокот под мене да помине.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cf09baa59eaf15d0120caa1010e11ea29777a3634ec00f9fc629626700026d80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/2\/13-16.1792456502909.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעבר",
+      "gloss": "и преминав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "העין",
+      "gloss": "на изворот"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и кон"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "базенот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "а немаше"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "добитокот"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "да помине"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "под мене"
+    }
+  ],
+  "timestamp": "2026-10-20T00:35:02.910629474Z",
+  "model": "glm-5.3"
+}

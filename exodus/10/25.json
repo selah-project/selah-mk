@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 10:25",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сепаленици",
+      "rationale": "עלה буквално значи „она што се качува“ — жртва што целиот се качува во чад"
+    }
+  ],
+  "translation": "И рече Моше: И ти ќе ни дадеш во рака жртви и сепаленици, и ќе ⟨се⟩ принесеме на Јахве, нашиот Елохим.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3828ba6473d71bf9ac0c8cc22ab06f62acc9441c5334459deca90b3086d79058",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/10\/25-28.1792443429668.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "גם",
+      "gloss": "И"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ќе дадеш"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "во рака наша"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "жртви"
+    },
+    {
+      "surface": "ועלות",
+      "gloss": "и сепаленици"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "и ќе направиме"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Јахве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "нашиот Елохим"
+    }
+  ],
+  "timestamp": "2026-10-19T20:57:09.674042504Z",
+  "model": "glm-5.3"
+}

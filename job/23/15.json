@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 23:15",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפניו",
+      "rationale": "буквално 'од Неговото лице' — хебрејски израз за 'пред Него\/поради Него', задржан буквално"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "македонскиот бара рефлексивна честичка кај אבהל"
+    }
+  ],
+  "translation": "Поради тоа од Неговото лице ⟨се⟩ вознемирувам, размислувам и се плашам од Него.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fb4e44f48d8a1c38a76e7ea64ac851ffe16ffc4c5f9289da14f18530d661717b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/23\/13-16.1792455098950.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Поради"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "мפניו",
+      "gloss": "од Неговото лице"
+    },
+    {
+      "surface": "אבהל",
+      "gloss": "вознемирувам"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "размислувам"
+    },
+    {
+      "surface": "ואפחד",
+      "gloss": "и се плашам"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од Него"
+    }
+  ],
+  "timestamp": "2026-10-20T00:11:38.950862903Z",
+  "model": "glm-5.3"
+}

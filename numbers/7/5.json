@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כפי",
+      "rationale": "буквално 'според устата', идиом за 'според мерката на'; македонскиот го губи образот на устата"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאתם",
+      "rationale": "предлог со вграден את — ознаком ⟨את⟩ минува во глосата"
+    },
+    {
+      "kind": "you",
+      "subject": "Моше",
+      "rationale": "заповед директно упатена до Моше"
+    }
+  ],
+  "translation": "Прими ⟨את⟩ од нив, и нека бидат за вршење на ⟨את⟩ службата на шаторот на состанокот, и ќе им ⟨את⟩ ги дадеш на левитите, секој според својата служба.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0f020e2e348987bdef70a7abbb8253a45b96f56840c3b1b57f7cce81ec9c9314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/7\/5-8.1792444640231.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Прими"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "од нив ⟨את⟩"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "и нека бидат"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "за вршење"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "службата"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "службата"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "на шаторот"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на состанокот"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "и ќе дадеш"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "ги ⟨את⟩",
+      "marks": "на левитите"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитите"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "според"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "својата служба"
+    }
+  ],
+  "timestamp": "2026-10-19T21:17:20.234133659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 23:12",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויצילה",
+      "rationale": "завршната -ה е женски наставка што се враќа на החלקה (делот од полето) — го избавил полето, не само луѓето; во македонскиот родот се губи"
+    }
+  ],
+  "translation": "И застана сред делот, и го одбрани, и ги удри ⟨את⟩ Плиштимите; и Јахве направи големо спасение.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "97216f84ccf8b96dca44beebc9892ae3b5f24136f3a4535b2bbe1ab52fdb96a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/23\/9-12.1792448503815.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתיצב",
+      "gloss": "и застана"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "сред"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "делот"
+    },
+    {
+      "surface": "ויצילה",
+      "gloss": "и го одбрани"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "и ги удри"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Плиштимите"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштимите"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и направи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "спасение"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "големо"
+    }
+  ],
+  "timestamp": "2026-10-19T22:21:43.817664801Z",
+  "model": "glm-5.3"
+}

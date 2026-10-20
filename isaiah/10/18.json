@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 10:18",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нефеш",
+      "rationale": "נפש е душа како здив\/животна сила, не бесмртна душа"
+    },
+    {
+      "kind": "crux",
+      "subject": "נסס",
+      "rationale": "КЈВ чита како נס־נֹסֵס 'носач на знаме што се́ лути'; ЈПС и Таргум: болен што тае"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כמסס נסס",
+      "rationale": "коренската игра מסס\/נסס — топење\/таење — се губи во македонскиот"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נסס",
+      "rationale": "глаголот נ׸סַס се јавува само тука во Танах"
+    }
+  ],
+  "translation": "И славата на шумата негова и на кармилот негов, од нефеш до тело, ќе ги потроши; и ќе биде како топењето на оној што тае.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "463a114896c726a1f0321a9c1319b9fc364e2ace3a3db4b5129531de5e865f21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/10\/18-19.1792458200859.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "и славата"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "на шумата негова"
+    },
+    {
+      "surface": "וכרמלו",
+      "gloss": "и на кармилот негов"
+    },
+    {
+      "surface": "מנפש",
+      "gloss": "од нефеш"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тело"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "ќе ги потроши"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "כמסס",
+      "gloss": "како топењето"
+    },
+    {
+      "surface": "נסס",
+      "gloss": "на оној што тае"
+    }
+  ],
+  "timestamp": "2026-10-20T01:03:20.859874888Z",
+  "model": "glm-5.3"
+}

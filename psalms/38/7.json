@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קדר",
+      "rationale": "буквално 'да бидеш пепелав\/темен', од каде и жалост во вреќа; македонскиот чува слика 'црн од жалост'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "נעויתי",
+      "gloss": "'се искривив' од עוה 'искривува'; некои преведуваат 'се мачам'."
+    }
+  ],
+  "translation": "Превиткав се и наведнав се до крај, целиот ден одам црн од жалост.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6e0e4481c66985f76af9c5f6a00308d3b84c548b2b59255c12da3f9d044e2080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/38\/5-8.1792453231726.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "превиткав се"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "наведнав се"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "крај"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целосно"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денов"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "црн од жалост"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "одам"
+    }
+  ],
+  "timestamp": "2026-10-19T23:40:31.727005389Z",
+  "model": "glm-5.3"
+}

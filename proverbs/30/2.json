@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "глупав",
+      "rationale": "בער е од коренот „да тропа\/да пасе“ — бесмислен како добиток; „глупав“ е најблиско, сликата на добитокот се губи."
+    }
+  ],
+  "translation": "Зашто сум поглупав од маж, и разум човечки немам за мене.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c1f519550c5932c037aff7281dde419de295c41d45ca261f3051263f39fa2982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/30\/1-4.1792454811611.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בער",
+      "gloss": "глупав"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "сум јас"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "од маж"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "разум"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечки"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мене"
+    }
+  ],
+  "timestamp": "2026-10-20T00:06:51.612064682Z",
+  "model": "glm-5.3"
+}

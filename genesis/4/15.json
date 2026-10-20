@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 4:15",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "седумпати",
+      "rationale": "שבעתים — бројчена одмазда, седумкратна."
+    },
+    {
+      "kind": "crux",
+      "subject": "знак",
+      "rationale": "אות — знак\/белег: дали е заштитна обележка на Каин или потврда на ветувањето; текстот не го определува."
+    },
+    {
+      "kind": "you",
+      "subject": "на Каин",
+      "rationale": "Јахве му одговара директно на Каин."
+    }
+  ],
+  "translation": "И му рече Јахве: Затоа — секој што убие Каин, седумпати ќе биде одмаздено. И стави Јахве знак на Каин, за да не убие никој ⟨את⟩ него, секој што ќе го најде.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "614a325e7ab193bba258d3f466e4c3590238162024961e7204c4ea38bbad684d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/4\/13-16.1792442393912.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Затоа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "што убие"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каин"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "седумпати"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "ќе биде одмаздено"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "И стави"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "на Каин"
+    },
+    {
+      "surface": "אות",
+      "gloss": "знак"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "за да не"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "убие"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "што ќе го најде"
+    }
+  ],
+  "timestamp": "2026-10-19T20:39:53.914152270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 23:25",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нефеш",
+      "rationale": "נפש е душа-како-животен дах, гркло\/живот; задржано како нефеш, не 'душа' сама."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "македонскиот бара помошен глагол во вториот дел."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שב…לא שב",
+      "rationale": "стих 25 'се врати' и стих 26 'не се врати' — истиот корен во спротивни насоки."
+    }
+  ],
+  "translation": "И како него немало пред него цар што се вратил кон Јахве со сето свое срце и со сета своја нефеш и со сета своја сила, според сета Тора на Моше; и по него не стана <се> како него.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7aa2e3b5ae2d05b4eab2df96481f671392b5fed3e75e3885f13c557fa87c2082",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/23\/25-28.1792449495909.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכמהו",
+      "gloss": "И како него"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "имало"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пред него"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "שב",
+      "gloss": "се вратил"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "со сето"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "своето срце"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "и со сета"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "својата нефеш"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "и со сета"
+    },
+    {
+      "surface": "מאדו",
+      "gloss": "својата сила"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "според сета"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "משה",
+      "gloss": "на Моше"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "и по него"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "קם",
+      "gloss": "стана"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "како него"
+    }
+  ],
+  "timestamp": "2026-10-19T22:38:15.910161447Z",
+  "model": "glm-5.3"
+}

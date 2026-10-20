@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 7:14",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מאת ישראל",
+      "rationale": "מאת со ⟨את⟩ — „од близу на Јисраел“, букв. „од со“"
+    },
+    {
+      "kind": "crux",
+      "subject": "границите нивни",
+      "rationale": "גבולן — граница на Јисраел или на градовите; предадено како множина"
+    }
+  ],
+  "translation": "И се вратија градовите што ги зедоа Плиштим од ⟨את⟩ Јисраел на Јисраел, од Екрон до Гат; и ⟨את⟩ границите нивни ги избави Јисраел од раката на Плиштим; и беше мир меѓу Јисраел и меѓу Еморејците.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "cc126d82ab0bdd07b982bdc9d029e63a177d4ac923e938d784b748baead6cb1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/7\/13-16.1792446704083.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשבנה",
+      "gloss": "се вратија"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "градовите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ги зедоа"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштим"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ од",
+      "marks": "Јисраел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "מעקרון",
+      "gloss": "од Екрон"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гат"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "границите нивни"
+    },
+    {
+      "surface": "גבולן",
+      "gloss": "границите нивни"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ги избави"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "од раката"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштим"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "בין",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и меѓу"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Еморејците"
+    }
+  ],
+  "timestamp": "2026-10-19T21:51:44.084255315Z",
+  "model": "glm-5.3"
+}

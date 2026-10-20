@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 17:5",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨молам⟩",
+      "rationale": "נא е честичка на молба, без македонски еквивалент"
+    },
+    {
+      "kind": "you",
+      "subject": "Авшалом",
+      "rationale": "Заповед упатена кон слугите — повик на Хушај"
+    }
+  ],
+  "translation": "И рече Авшалом: Повикајте ⟨молам⟩ и на Хушај Архиецот, и ⟨да⟩ чуеме што е во устата негова — и тој.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7562bbb4611d39fecddb8d8d2605f2e40edf7bef9b0a16b42966aec4b40f11e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/17\/5-8.1792448313478.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Повикајте"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨молам⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "לחושי",
+      "gloss": "на Хушај"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "Архиецот"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "и ⟨да⟩ чуеме"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "е во устата негова"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    }
+  ],
+  "timestamp": "2026-10-19T22:18:33.479725812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תתן לבך",
+      "rationale": "дословно 'дај срцето свое' = обрни внимание; задржано срце, додадено објаснување"
+    },
+    {
+      "kind": "addition",
+      "subject": "како",
+      "rationale": "хебрејскиот PARTICIPTIV מקללך е само 'те проколнува', македонскиот бара врска"
+    }
+  ],
+  "translation": "Исто, на сите зборови што ги зборуваат не им го давај срцето свое, за да не го слушнеш ⟨את⟩ слугата свој како те проколнува.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "385c9c9fdc314d77e75f5b26db6d111d282e8b4cd842916d92321956b6bc9450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/7\/21-24.1792455743555.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Исто"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на сите"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "зборови"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ги зборуваат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "давај"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "срцето свое"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "за да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "слушнеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слугата свој"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слугата свој"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "како те проколнува"
+    }
+  ],
+  "timestamp": "2026-10-20T00:22:23.556042291Z",
+  "model": "glm-5.3"
+}

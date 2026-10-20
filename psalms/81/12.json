@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמע",
+      "rationale": "Истиот корен „слуша“ од 81:9 сега во негативен одговор — повикот и одбивањето ја споделуваат буквата."
+    },
+    {
+      "kind": "crux",
+      "subject": "אבה",
+      "rationale": "„Да дише по“, односно да приста\/посака: преведувачите се колебаат меѓу „не сакаше“, „не приста“ и „не ми се покори“."
+    }
+  ],
+  "translation": "Но народот мој не слушна кон гласот мој, и Јисраел не посака мене.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/81\/9-12.1792453640282.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Но не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слушна"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народот мој"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "кон гласот мој"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "и Јисраел"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "посака"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:20.283861156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 11:8",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "измиј ги нозете",
+      "rationale": "רחץ רגלים — гостински обичај одмор по пат; Септуагинта тука додува „и си легни со жената твоја“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויצא \/ ותצא",
+      "rationale": "истиот глагол „излезе“ за Урија и за дарот — дарот оди како втор придружник"
+    }
+  ],
+  "translation": "И Давид му рече на Урија: „Слези во својата куќа и измиј ги нозете свои.“ И Урија излезе од домот на царот, и излезе по него дар од царот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a2c575487de200cd410a976549c0616e89e0d2e633f2c25212900018da4f0dd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/11\/5-8.1792448164747.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לאוריה",
+      "gloss": "на Урија"
+    },
+    {
+      "surface": "רד",
+      "gloss": "слези"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "во својата куќа"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "и измиј"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "нозете свои"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и излезе"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урија"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "од домот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "и излезе"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "по него"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "дар"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "од царот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:16:04.750254271Z",
+  "model": "glm-5.3"
+}

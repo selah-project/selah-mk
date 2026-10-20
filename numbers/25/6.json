@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 25:6",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויקרב",
+      "rationale": "„доведе\/приближи“ — јавното доведување на жената пред целиот народ"
+    }
+  ],
+  "translation": "И еве, човек од синовите на Јисраел дојде и доведе кај браќата свои ⟨את⟩ Мадијанката, пред очите на Моше и пред очите на целата заедница на синовите на Јисраел, а тие плачеа на влезот од шаторот на состанокот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "fb5b53e647d1ffe17add2b18d7dc76efbdfd0ea2f3321f7dbe2190a96a96d3db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/25\/5-8.1792445054386.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "И еве"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "од синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "и доведе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "браќата свои"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мадијанката"
+    },
+    {
+      "surface": "המדינית",
+      "gloss": "Мадијанката"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "пред очите"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ולעיני",
+      "gloss": "и пред очите"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целата"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "заедница"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "а тие"
+    },
+    {
+      "surface": "בכים",
+      "gloss": "плачеа"
+    },
+    {
+      "surface": "пתח",
+      "gloss": "на влезот"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шаторот"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "состанокот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:24:14.387326962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 28:8",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "ноќе, преоблечен",
+      "rationale": "Прикриениот ноќен одид кај бавачката — потполно скривање на идентитетот на царот."
+    },
+    {
+      "kind": "crux",
+      "subject": "את אשר אמר אליך",
+      "rationale": "„оној што ќе ти го кажам“ — Шаул уште не го изговара името; верзиите делат меѓу „што и да ти кажам“ и „што ќе ти го кажам“."
+    }
+  ],
+  "translation": "И Шаул се преоблече, и облече други облеки, и отиде — тој и двајца мажи со него — и дојдоа кај жената ноќе; и рече и: Гатај ми, те молам, со ов, и изведи ми го ⟨את⟩ оној што ќе ти го кажам.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "93e13a5bc7758e50f368d55c5fe0ecf8fa3d9ee9af084a736af4b4234a53a784",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/28\/5-8.1792448035123.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתחפש",
+      "gloss": "и се преоблече"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "и облече"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "облеки"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "други"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "и двајца"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "мажи"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "со него"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и дојдоа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноќе"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "קסומי",
+      "gloss": "гатај"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молам"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "באוב",
+      "gloss": "со ов"
+    },
+    {
+      "surface": "והעלי",
+      "gloss": "и изведи"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оној што ќе ти го кажам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ќе ти го кажам"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T22:13:55.130129685Z",
+  "model": "glm-5.3"
+}

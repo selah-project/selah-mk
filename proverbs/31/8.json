@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 31:8",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני חלוף",
+      "rationale": "буквално 'синови на поминување\/смена' — преводи се движат од 'осудени на пропаст' (KJV) до 'раселени' (BSB), 'напуштени' (ASV)."
+    },
+    {
+      "kind": "invitation",
+      "subject": "забелешка до Лемуел",
+      "rationale": "императив 'отвори ја устата' — директен повик за правда."
+    },
+    {
+      "kind": "you",
+      "subject": "до Лемуел",
+      "rationale": "директен обращт кон царот Лемуел."
+    }
+  ],
+  "translation": "Отвори ја твојата уста за немиот, за судот на сите синови на исчезнатите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1bc39d6e3b1165464627322ae7705ffb4bb3c55c93f714709737976f13e7d83b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/31\/5-8.1792454755231.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "отвори"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "твојата уста"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "за немиот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "за"
+    },
+    {
+      "surface": "דין",
+      "gloss": "судот"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на сите"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "חלוף",
+      "gloss": "на исчезнатите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:05:55.232343993Z",
+  "model": "glm-5.3"
+}

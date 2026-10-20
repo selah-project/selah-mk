@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 22:32",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על מה",
+      "rationale": "Два збора 'на што' преведени со едно 'зошто'."
+    },
+    {
+      "kind": "crux",
+      "subject": "לשטן",
+      "gloss_note": "",
+      "rationale": "'како שטן\/противник' — тука општа именка 'противник', не личноста Сатана."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ירט",
+      "rationale": "Реткиот глагол ירט се јавува само тука во Танах; значење 'скршнува настрана'."
+    }
+  ],
+  "translation": "И му рече ангелот на Јахве: Зошто ја удри ⟨את⟩ магарицата своја овие три пати? Еве, јас излегов како противник, зашто патот ти е извиткан пред мене.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "bce836cf692ace5da97acc02a3533a472ce87e23867afd01549cefb36a5ec027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/22\/29-32.1792445059335.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ангелот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "על",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "מה",
+      "gloss": ""
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ја удри"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "магарицата своја"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "магарицата своја"
+    },
+    {
+      "surface": "זה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "три"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "пати"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "излегов"
+    },
+    {
+      "surface": "לשטן",
+      "gloss": "како противник"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ירט",
+      "gloss": "е извиткан"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "патот"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "пред мене"
+    }
+  ],
+  "timestamp": "2026-10-19T21:24:19.336918293Z",
+  "model": "glm-5.3"
+}

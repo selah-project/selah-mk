@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 24:5",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "𝑡аа",
+      "rationale": "македонскиот ја бара одредницата пред земја"
+    },
+    {
+      "kind": "crux",
+      "subject": "да вратам ли",
+      "rationale": "ההשב אשיב — инфинитививен апсолутивен акцент: букв. „враќајќи ќе вратам“; прашање или тврдење"
+    }
+  ],
+  "translation": "И слугата му рече: Можеби жената нема да сака да поиде по мене во ⟨𝑡аа⟩ земја — дали да го вратам ⟨את⟩ синот твој во земјата од која излезе ти?",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2e9ff319661a6b8b3c958ed1f80acb36a7d8f0be943c6775cdc72c885ea6e95e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/24\/5-8.1792442679086.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "слугата"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "Можеби"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "ќе сака"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "да поиде"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "ההשב",
+      "gloss": "да вратам ли"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ќе го вратам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синот твој"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "синот твој"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "од која"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "излезе"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-10-19T20:44:39.167438501Z",
+  "model": "glm-5.3"
+}

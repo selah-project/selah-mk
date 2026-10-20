@@ -1,0 +1,147 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 7:10",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "Хебрејскиот ја нема копулата кај „шаторите како што ⟨се⟩“"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Хебрејската формула „само-туку“ е преведена со „туку… само“"
+    },
+    {
+      "kind": "crux",
+      "subject": "портарот \/ портарите",
+      "rationale": "שער е еднина во 7:10, а множина השערים во 7:11 — еден портар или повеќе"
+    }
+  ],
+  "translation": "И дојдоа и се јавија на портарот на градот, и им соопштија, велејќи: Додо́вме во логорот на Арам, и еве — нема таму човек ни глас на човек, туку коњот врзан и магарето врзано, и шаторите ⟨се⟩ како што се.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dfafccee2b56bebd306b7b87488d2d3d8fef53844cada931b2a61f6b13b7745e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/7\/10-11.1792458137198.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "и дојдоа"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "се јавија"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портарот"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "на градот"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "и им соопштија"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "додо́вме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "логорот"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и еве"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ни глас"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на човек"
+    },
+    {
+      "surface": "כי",
+      "gloss": "туку"
+    },
+    {
+      "surface": "אם",
+      "gloss": "само"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "коњот"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "врзан"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "и магарето"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "врзано"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "и шаторите"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "המה",
+      "gloss": "се"
+    }
+  ],
+  "timestamp": "2026-10-20T01:02:17.199159029Z",
+  "model": "glm-5.3"
+}

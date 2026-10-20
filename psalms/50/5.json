@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Соберете",
+      "rationale": "Императив упатен кон небесата и земјата да ги соберат светите"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלי זבח",
+      "rationale": "„над\/врз кланик“ — со кланик или врз жртвата; преводите се делат меѓу „со жртва“ и „над жртва“"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כרתי בריתי",
+      "rationale": "буквално „го исекоа заветот мој“ — сечење на завет, македонски „го скошија“"
+    }
+  ],
+  "translation": "Соберете ми ги ⟨את⟩ побожните ми, оние што го скошија заветот мој над кланикот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bf13bd3ed971bfd0f5d86715090ab94a5dcb4a7732bec2946798fcb190971bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/50\/5-8.1792453321242.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Соберете"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "побожните мои"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "што го скошија"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "заветот мој"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "над"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "кланик"
+    }
+  ],
+  "timestamp": "2026-10-19T23:42:01.242980596Z",
+  "model": "glm-5.3"
+}

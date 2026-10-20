@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 29:30",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "времињата што минаа над него",
+      "rationale": "буквален хебрејски израз העתים אשר עברו עליו — времиња што поминаа врз него, задржан буквално"
+    },
+    {
+      "kind": "substitution",
+      "subject": "храброст",
+      "rationale": "גבורה е сила\/јунаштво\/моќ; еден македонски збор за една хебрејска слика"
+    }
+  ],
+  "translation": "со целото негово царство и неговата храброст, и времињата што минаа над него, и над Јисраел, и над сите царства на земјите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5592f389db6bfa8865b62136cafdf3a80b9650326fe5fe00985c61ef424eca58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/29\/29-30.1792457299345.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целото"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "негово царство"
+    },
+    {
+      "surface": "וגבורתו",
+      "gloss": "и неговата храброст"
+    },
+    {
+      "surface": "והעתים",
+      "gloss": "и времињата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "минаа"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "над него"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "царства"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "на земјите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:48:19.346731745Z",
+  "model": "glm-5.3"
+}

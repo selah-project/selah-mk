@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "дае во рака",
+      "rationale": "נתן ביד е воен израз 'предаде во власт', слика задржана буквално."
+    },
+    {
+      "kind": "measurement",
+      "subject": "десет илјади луѓе",
+      "rationale": "Бројката на поразените во Безек е наведена точно."
+    }
+  ],
+  "translation": "И се качи Јехуда, и Јахве им даде ⟨את⟩ Хананејците и ⟨את⟩ Перизејците во раката нивна; и ги поразија во Безек — десет илјади луѓе.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d1129f2329c1b72422b143523df811443aee86531bca11335d3273254ceee50d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/1\/1-4.1792446294141.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "И се качи"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хананејците"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Хананејците"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "и Перизејците"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "во раката нивна"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "и ги поразија"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "во Безек"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "десет"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "איש",
+      "gloss": "луѓе"
+    }
+  ],
+  "timestamp": "2026-10-19T21:44:54.142783035Z",
+  "model": "glm-5.3"
+}

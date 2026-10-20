@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נעלם \/ הגיד",
+      "rationale": "сокриено-објавено како спротиставени стебла; двојниот негации 'немаше… што не' го чува хебрејскиот митос"
+    },
+    {
+      "kind": "substitution",
+      "subject": "збор",
+      "rationale": "דבар е и збор и работа; 'прашања' (традицијата) е улога, не зборот"
+    }
+  ],
+  "translation": "И Шеломо ѝ објави ⟨את⟩ сите нејзини зборови; немаше збор сокриен од кралот што не ѝ објави.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "50364eeec703b16db8f65781edc4e874adaca30b68e74428bb634791d189bdea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/10\/1-4.1792448739973.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "и објави"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ѝ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "нејзини зборови"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "имаше"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "збор"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "сокриен"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "кралот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "објави"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ѝ"
+    }
+  ],
+  "timestamp": "2026-10-19T22:25:39.976175567Z",
+  "model": "glm-5.3"
+}

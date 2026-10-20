@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душа",
+      "rationale": "נפש е здив \/ животна сила, не бесмртна душа"
+    },
+    {
+      "kind": "invitation",
+      "subject": "на душата своја",
+      "rationale": "Самиот говорник ја повикува својата душа да благословува — повик што ги вовлекува читателите"
+    }
+  ],
+  "translation": "Благословувај, душо моја, ⟨את⟩ Јахве! Јахве, Елохим мој, многу си се возвеличил, со величественост и сплендор си облечен.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/104\/1-4.1792453825826.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Благословувај"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душо моја"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мој"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "си се возвеличил"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "величественост"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "и сплендор"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "си облечен"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:25.826983437Z",
+  "model": "glm-5.3"
+}

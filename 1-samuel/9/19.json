@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 9:19",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Шмуел до Шаул",
+      "rationale": "Одговор во второ лице — повик и ветување упатени директно на Шаул."
+    },
+    {
+      "kind": "mystery",
+      "subject": "сè што е во срцето твое",
+      "rationale": "Шмуел тврди дека ќе му го открие скриеното во срцето на Шаул — знаење надвор од видливото."
+    }
+  ],
+  "translation": "И Шмуел му одговори ⟨את⟩ на Шаул и рече: Јас сум гледачот. Качи се пред мене на височината, и ќе јадете со мене денес, и утрово ќе те пуштам, и сè што ⟨е⟩ во срцето твое ќе ти го кажам.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b2fb7a248a450927b9646e01aa7e7008efb3526cd33fde017db47532b6fdd218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/9\/17-20.1792446788959.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И одговори"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шаул"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "гледачот"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Качи се"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "на височината"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "и ќе јадете"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "со мене"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "ושלחתיך",
+      "gloss": "и ќе те пуштам"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "утрово"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "во срцето твое"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ќе кажам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-10-19T21:53:08.960946871Z",
+  "model": "glm-5.3"
+}

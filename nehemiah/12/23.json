@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 12:23",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ספר דברי הימים",
+      "rationale": "буквално „книга на делата на дните“ — македонската традиција вели „Хроника\""
+    },
+    {
+      "kind": "measurement",
+      "subject": "запишување во книгата",
+      "rationale": "писмен регистар на родовите"
+    }
+  ],
+  "translation": "Синовите Левиеви, глави на татковинските домови, беа запишани во книгата Дела на дните, и до дните на Јоханан, синот на Елијашив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2cc3f354f7477ca4fc8f704413aef9a6216d9219312c52c39dbdc42dfc03a820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/12\/21-24.1792456757466.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левиеви"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "глави"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "на татковинските домови"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "беа запишани"
+    },
+    {
+      "surface": "על",
+      "gloss": "во"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книгата"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Дела"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "на дните"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "денот"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Јоханан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Елијашив"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:17.469382682Z",
+  "model": "glm-5.3"
+}

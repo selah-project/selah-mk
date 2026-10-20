@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 32:5",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחר אפו",
+      "rationale": "буквално 'и неговиот нос\/ноздра зајдогреа' — хебрејски израз за гнев; буквата на телесната слика се губи."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וירא ... ויחר",
+      "rationale": "с blacks 'виде — зајдогреа', два кратки дејства во низа го градат напливот на Елиху."
+    }
+  ],
+  "translation": "И Елиху виде дека нема одговор во устата на тројцата мажи, и неговиот гнев се разгоре.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1d1705853fb0f863e2d13261d331502655f8bcb5af8089895cb8c245216a5636",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/32\/5-8.1792455243905.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и виде"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Елиху"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "одговор"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "во устата"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "на тројцата"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "мажи"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "и се разгоре"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "неговиот гнев"
+    }
+  ],
+  "timestamp": "2026-10-20T00:14:03.906065154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 48:8",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 48,
+  "notes": [
+    {
+      "surface_note": true,
+      "kind": "wordplay",
+      "subject": "בגוד תבגוד",
+      "rationale": "инфинитививен апсолутивен пред конечниот глагол — „предавник ќе предаваш“ — повторување на истиот корен"
+    },
+    {
+      "kind": "crux",
+      "subject": "קרא לך",
+      "rationale": "„наречен ти е“ (име) наспроти „некој ти вика“ — двата превода постојат"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јаков\/Јисраел",
+      "rationale": "второ лице едочна обраќање низ целиот стих"
+    }
+  ],
+  "translation": "Не си чул ниту, ниту си знаел, ниту од тогаш ти беше отворено увото — зашто знаев дека ќе предаваш, дека си бунтовник од утроба наречен.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "8b6113ccaf0aac0671ffce9bd14cd038c81859b948a1c859f31ab10162d7ce65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/48\/5-8.1792450170488.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ниту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "си чул"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ниту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "си знаел"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ниту"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "од тогаш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "пתחה",
+      "gloss": "беше отворено"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "увото"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знаев"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "ќе предаваш"
+    },
+    {
+      "surface": "תבגוד",
+      "gloss": "предаваш"
+    },
+    {
+      "surface": "ופשע",
+      "gloss": "и бунтовник"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "од утроба"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "наречен"
+    },
+    {
+      "surface": "לך",
+      "gloss": "си"
+    }
+  ],
+  "timestamp": "2026-10-19T22:49:30.490555792Z",
+  "model": "glm-5.3"
+}

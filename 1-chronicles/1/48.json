@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "на реката",
+      "rationale": "הנהר со член — најчесто Евфрат, но текстот не го именува; „на реката“ останува отворено."
+    },
+    {
+      "kind": "measurement",
+      "subject": "список на царевите",
+      "rationale": "Продолжение на списокот на едомските цареви."
+    }
+  ],
+  "translation": "И умре Самла, и зацари наместо него Шаул од Реховот на реката.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "742549d6c0bd682ab1d4fc47b97c0c2b432ca09cc421c500ccc5e811972928df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/1\/45-48.1792456781737.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умре"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самла"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "зацари"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "наместо него"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "од Реховот"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "на реката"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:41.738087285Z",
+  "model": "glm-5.3"
+}

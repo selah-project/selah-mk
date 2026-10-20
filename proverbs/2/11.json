@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תשמר\/תנצרכה",
+      "rationale": "два глагола за чување во паралелизам; македонскиот разликува 'чували\/пазеше' дел од нијансата"
+    },
+    {
+      "kind": "crux",
+      "subject": "מזמה",
+      "rationale": "во Танах често лошо ковање планови, тука добра остроумност — 'промисленост' наспроти 'льукавост'"
+    }
+  ],
+  "translation": "Промисленоста ќе те чува, разумноста ќе те пази —",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c1ad0c5531a682a64dee5fa30ca5d40a87b36ecfd10576bbd17c8f81ae25b3be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/2\/9-12.1792454207880.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "Промисленоста"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ќе те чува"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "над тебе"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "разумноста"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "ќе те пази"
+    }
+  ],
+  "timestamp": "2026-10-19T23:56:47.881287271Z",
+  "model": "glm-5.3"
+}

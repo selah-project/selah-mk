@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 52:17",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "морето",
+      "rationale": "ים е „море“ — големиот бронзен сад во храмот наречен „Море“ задржан како име"
+    },
+    {
+      "kind": "substitution",
+      "subject": "бронза",
+      "rationale": "נחשת е бакар\/бронза; една форма низ целиот стих"
+    }
+  ],
+  "translation": "И ⟨את⟩ столбовите од бронза што беа за домот на Јахве, и ⟨את⟩ подлошките, и ⟨את⟩ морето од бронза што беше во домот на Јахве — ги скршија Кашдите, и ја однесоа ⟨את⟩ сета нивна бронза во Вавилон.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "21e97f00e7c53d77c58f5a00b2bed06857d22a50fc6de1308cf465def5501b9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/52\/17-20.1792451380125.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "столбовите"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "столбовите"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "од бронза"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "за домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "подлошките"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "подлошките"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "морето"
+    },
+    {
+      "surface": "ים",
+      "gloss": "морето"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "од бронза"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ги скршија"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Кашдите"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "и ја однесоа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сета"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сета"
+    },
+    {
+      "surface": "נחשתם",
+      "gloss": "нивната бронза"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "во Вавилон"
+    }
+  ],
+  "timestamp": "2026-10-19T23:09:40.126225644Z",
+  "model": "glm-5.3"
+}

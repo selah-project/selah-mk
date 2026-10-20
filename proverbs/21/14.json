@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 21:14",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חק",
+      "rationale": "Буквално „нара\/пазуви“ — местото каде што се сокрива митото."
+    },
+    {
+      "kind": "crux",
+      "subject": "שחד",
+      "rationale": "„мито“ (продажно) наспроти „откуп“ — текстот не пресудува."
+    }
+  ],
+  "translation": "Дар во скришност го покорува гневот, и мито во пазувите — силна лутост.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "595f9d1f5eb61752745a8e1002f1ca541d2571cd0cf7d31fe1fa5c4c53caa88b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/21\/13-16.1792454624924.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "Дар"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "во скришност"
+    },
+    {
+      "surface": "יכפה",
+      "gloss": "го покорува"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гневот"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "и мито"
+    },
+    {
+      "surface": "בחק",
+      "gloss": "во пазувите"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "лутост"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "силна"
+    }
+  ],
+  "timestamp": "2026-10-20T00:03:44.924757617Z",
+  "model": "glm-5.3"
+}

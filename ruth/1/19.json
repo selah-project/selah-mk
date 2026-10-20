@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 1:19",
+  "book": "ruth",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Дали е",
+      "rationale": "Хебрејскиот е само הזאת נעמי — „ова (е) Ноеми?“, прашалната интонација е во контекстот."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כל העיר עליהן",
+      "rationale": "Повторот „до доаѓањето во Беит-Лехем \/ кога дојдоа во Беит-Лехем“ — двоен припев на пристигнувањето."
+    }
+  ],
+  "translation": "И двете тргнаа, додека да дојдат во Беит-Лехем; и биде, кога дојдоа во Беит-Лехем, се раздвижи целиот град поради нив, и велееа: Дали е ова Ноеми?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ruth\/1\/17-20.1792455573325.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלכנה",
+      "gloss": "тргнаа"
+    },
+    {
+      "surface": "שתיהם",
+      "gloss": "двете"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "באנה",
+      "gloss": "да дојдат"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Беит-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехем"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "כבאנה",
+      "gloss": "кога дојдоа"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Беит-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехем"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "се раздвижи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "поради нив"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "велееа"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Ноеми"
+    }
+  ],
+  "timestamp": "2026-10-20T00:19:33.325925189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се \/ е",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Наредбите",
+      "rationale": "пикудим — назначени mandate од Бога; 'наредби' е најблиску, не 'закон'"
+    }
+  ],
+  "translation": "Наредбите на Јахве се прави, ги радуваат срцето; заповедта на Јахве е чиста, ги осветлува очите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e3d8b64492fb67098dda35d7fd6715c9c7d301a740cbcebad64c390821f8f3e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/19\/9-12.1792453069023.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "Наредбите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "се прави"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "ги радуваат"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срцето"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "заповедта"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "е чиста"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "ги осветлува"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "очите"
+    }
+  ],
+  "timestamp": "2026-10-19T23:37:49.024048798Z",
+  "model": "glm-5.3"
+}

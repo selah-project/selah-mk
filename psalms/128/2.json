@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "си · е",
+      "rationale": "Копулата што македонскиот ја бара во ашреј-восклицанијата, хебрејскиот ја нема"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Овде כי ја воведува реченицата како потврда („да“, „зашто“) и не е дадено одделно во преводот"
+    },
+    {
+      "kind": "you",
+      "subject": "до оној што се бои од Јахве",
+      "rationale": "Директна адреса во второ лице машки едочин"
+    }
+  ],
+  "translation": "Трудот на рацете свои ќе го јадеш — среќен ⟨си⟩, и добро ⟨е⟩ за тебе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d7566107d30fc2a0d4cee36675931758fde9a219fd50cc777995d4bd37a500fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/128\/1-4.1792454085058.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "трудот"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "на рацете свои"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ќе го јадеш"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "среќен си"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "и добро"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T23:54:45.059240189Z",
+  "model": "glm-5.3"
+}

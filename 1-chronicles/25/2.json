@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 25:2",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "буквално „на рака“ — „под рака\/под водство“; ја чувам сликата на раката, а не „според наредба“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "список на имиња",
+      "rationale": "имено̀к на служители"
+    }
+  ],
+  "translation": "Од синовите на Асаф: Закур и Јосеф и Нетанја и Ашарела, синовите на Асаф, под рака на Асаф, оној што пророкува под рацете на царот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1f06775c2162aff65c443a52ecad10c4a759076dacfcab0a781ec72f685a4550",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/25\/1-4.1792457264444.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Од синовите"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асаф"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Закур"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "и Јосеф"
+    },
+    {
+      "surface": "ונתניה",
+      "gloss": "и Нетанја"
+    },
+    {
+      "surface": "ואשראלה",
+      "gloss": "и Ашарела"
+    },
+    {
+      "surface": "вני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асаф"
+    },
+    {
+      "surface": "על",
+      "gloss": "под"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рака"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асаф"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "оној што пророкува"
+    },
+    {
+      "surface": "על",
+      "gloss": "под"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "рацете"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:47:44.445576179Z",
+  "model": "glm-5.3"
+}

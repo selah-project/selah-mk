@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 2:26",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי ימצא",
+      "rationale": "букв. „кога ќе се најде“ = кога ќе биде фатен"
+    },
+    {
+      "kind": "addition",
+      "subject": "ние",
+      "rationale": "македонската конструкција „домот на Јисраел“ го бара членот и претпозицијата"
+    }
+  ],
+  "translation": "Како срамот на крадецот кога ќе биде фатен, така се посрами домот на Јисраел — тие, царевите нивни, старешините нивни и свештениците нивни, и пророците нивни.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a46dbd09477120d0c5a3dd09e42365c69585f78053b9469bb06eba927d6000cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/2\/25-28.1792450397608.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבשת",
+      "gloss": "како срамот"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "на крадецот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ќе биде фатен"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "הבישו",
+      "gloss": "се посрами"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "царевите нивни"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "старешините нивни"
+    },
+    {
+      "surface": "וכהניהם",
+      "gloss": "и свештениците нивни"
+    },
+    {
+      "surface": "ונביאיהם",
+      "gloss": "и пророците нивни"
+    }
+  ],
+  "timestamp": "2026-10-19T22:53:17.609110552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "позна",
+      "rationale": "וידע 'и позна' — библиски евфемизм за телесна близина."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חנוך \/ עיר",
+      "rationale": "Градот го носи името на синот Ханох — именување по потомок, типично за родовите списоци."
+    }
+  ],
+  "translation": "И Каин ја позна ⟨את⟩ својата жена, и таа зачна и роди ⟨את⟩ Ханох; и беше градител на град, и го нарека името на градот според името на својот син Ханох.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "782a7716f27a0c395aa746f8f7a02bb0107a78dd8bdaa4b578bedf95b0b1635a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/4\/17-20.1792442411403.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "и позна"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "својата жена"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "својата жена"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "и зачна"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ханох"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханох"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "градител"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и го нарека"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "на градот"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "според името"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "на својот син"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханох"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:11.405350153Z",
+  "model": "glm-5.3"
+}

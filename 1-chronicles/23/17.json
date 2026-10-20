@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 23:17",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "למעלה",
+      "rationale": "Буквално «нагоре\/над»; како бројчена идиома значи «најмногу, према»."
+    },
+    {
+      "kind": "alternative",
+      "subject": "הראש",
+      "rationale": "Буквално «главниот»; традицијата чита и «првиот»."
+    },
+    {
+      "kind": "measurement",
+      "subject": "родослов",
+      "rationale": "Список на синови по домаќинства — родословно броене."
+    }
+  ],
+  "translation": "Синовите на Елиезер беа Рехавја, главниот; а Елиезер немаше други синови, но синовите на Рехавја се намножија најмногу.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fb39018e92c27cb135a1338d3c8b341084648e816d6e9fecb05f41527cba897a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/23\/17-20.1792457116811.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "беа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Синовите"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "на Елиезер"
+    },
+    {
+      "surface": "רחביה",
+      "gloss": "Рехавја"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "главниот"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а немаше"
+    },
+    {
+      "surface": "היה",
+      "gloss": "немаше"
+    },
+    {
+      "surface": "לאליעזר",
+      "gloss": "Елиезер"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "други"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "но синовите"
+    },
+    {
+      "surface": "רחביה",
+      "gloss": "на Рехавја"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "се намножија"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "најмногу"
+    }
+  ],
+  "timestamp": "2026-10-20T00:45:16.812497147Z",
+  "model": "glm-5.3"
+}

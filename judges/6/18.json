@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 6:18",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "минха",
+      "rationale": "מנחתי е принос, не секојдневен подарок — се чува минха според D2"
+    },
+    {
+      "kind": "addition",
+      "subject": "тука",
+      "rationale": "אנכי אשב — „Јас ќе седнам\/останам“; македонскиот бара место"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "והצאתי \/ והנחתי",
+      "rationale": "корените יצא (изнесе) и נוח (положи) парадно следат еден по друг, изгубено во македонските форми"
+    }
+  ],
+  "translation": "Не одега од тука, те молам, додека не дојдам кај Тебе, па ќе ја изнесам ⟨את⟩ минхата моја и ќе ја положам пред Тебе. А Тој рече: Јас ќе останам ⟨тука⟩ до твоето враќање.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "eeb1eb7c7e240d774b70231b341bd0845962b2ae9d4f7b58ee439c75f9133f22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/6\/17-20.1792446383879.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молам"
+    },
+    {
+      "surface": "תמש",
+      "gloss": "одега"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "од тука"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "באי",
+      "gloss": "дојдам"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "кај Тебе"
+    },
+    {
+      "surface": "והצאתי",
+      "gloss": "и ќе изнесам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "минхата моја"
+    },
+    {
+      "surface": "מנחתי",
+      "gloss": "минхата моја"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "и ќе положам"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред Тебе"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ќе останам"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "твоето враќање"
+    }
+  ],
+  "timestamp": "2026-10-19T21:46:23.880710243Z",
+  "model": "glm-5.3"
+}

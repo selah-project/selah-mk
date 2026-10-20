@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ништо",
+      "rationale": "македонскиот бара именка со נעלם, хебрејскиот вели само 'не беше сокриено слово'"
+    }
+  ],
+  "translation": "И Шеломо ѝ кажа ⟨את⟩ сите нејзини зборови, и не остана сокриено ништо од Шеломо што не ѝ кажал.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2b6658eb8b144776200fa24f9b6f3cc3b46e9e81b80fe172c543c4e3f4385aa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/9\/1-4.1792457508777.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "И кажа"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ѝ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите нејзини зборови"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "нејзини зборови"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "остана сокриено"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ништо"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "од Шеломо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "кажал"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ѝ"
+    }
+  ],
+  "timestamp": "2026-10-20T00:51:48.778004424Z",
+  "model": "glm-5.3"
+}

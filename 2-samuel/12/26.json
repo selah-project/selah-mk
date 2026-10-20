@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ја⟩",
+      "rationale": "Македонскиот бара клитички предметен заменски објект; хебрејскиот има само את."
+    },
+    {
+      "kind": "crux",
+      "subject": "עיר המלוכה",
+      "rationale": "„градот на кралството“ (construct) — традицијата „кралскиот град“ или „кралската тврдина“."
+    }
+  ],
+  "translation": "И војуваше Јоав против Рава на синовите Амоновци, и ⟨ја⟩ зеде ⟨את⟩ кралскиот град.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e4df2acf68517df4f446a3fd0efaafab4d58812b1106f94969726030bcae43c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/12\/25-28.1792448223667.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "И војуваше"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "против Рава"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на синовите"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амоновци"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "и ⟨ја⟩ зеде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кралскиот град"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "кралскиот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:03.668794027Z",
+  "model": "glm-5.3"
+}

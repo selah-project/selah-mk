@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 29:11",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מחשבות \/ חשב",
+      "rationale": "Коренот חשב (плете, замислува) се повторува: намисла — плетење — пак намисла, повторувањето е изгубено во македонскиот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "шалом",
+      "gloss_note": null,
+      "rationale": "שלום е повеќе од „мир“ — целост, благосостојба; затоа оставаме шалом."
+    },
+    {
+      "kind": "crux",
+      "subject": "אחרית ותקוה",
+      "rationale": "„иднина и надеж“ (JPS) наспроти „очекуван крај“ (KJV) — אחרית може да значи и „крај“ и „иднина“."
+    }
+  ],
+  "translation": "Зашто јас ги знам ⟨את⟩ намерите што ги замислувам за вас — изрече Јахве: намери за шалом, а не за зло, да ви дадам иднина и надеж.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "70c4a9a201890c3269109a2e9ea1c11cfe26ca9cbf69b90fda2072ffa419c458",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/29\/9-12.1792450804772.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ги знам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "намерите"
+    },
+    {
+      "surface": "המחשבת",
+      "gloss": "намерите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ги замислувам"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "за вас"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "намери"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "за зло"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "да даде"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "иднина"
+    },
+    {
+      "surface": "ותקוה",
+      "gloss": "и надеж"
+    }
+  ],
+  "timestamp": "2026-10-19T23:00:04.775799096Z",
+  "model": "glm-5.3"
+}

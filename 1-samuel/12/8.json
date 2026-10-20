@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ги населија",
+      "rationale": "וישבום е причинска хифил од „седеше“ — букв. „ги наполочи\/насели“, не просто „ги смести“"
+    }
+  ],
+  "translation": "Кога дојде Јааков во Мицраим и татковците ваши извикаа кон Јахве, тогаш Јахве ги испрати ⟨את⟩ Моше и ⟨את⟩ Ахарон, и тие ги изведоа ⟨את⟩ татковците ваши од Мицраим и ги населија на ова место.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "ae5a6273aa88dc06720e31d00de57f6e449c243a088c53bd17b45b22adb3b622",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/12\/5-8.1792446849051.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Кога"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "во Мицраим"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "и извикаа"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "татковците ваши"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и ги испрати"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Ахарон"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "и ги изведоа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "татковците ваши"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "татковците ваши"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "од Мицраим"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "и ги населија"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "на местото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    }
+  ],
+  "timestamp": "2026-10-19T21:54:09.053728791Z",
+  "model": "glm-5.3"
+}

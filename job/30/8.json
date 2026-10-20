@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נכאו מן הארץ",
+      "rationale": "KJV чита 'поподли од земјата' (споредено со), наспроти 'избркани од земјата' (YLT\/JPS) — јасдов од второто."
+    },
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "возвратна честичка за македонскиот пасив."
+    }
+  ],
+  "translation": "синови на безумници, дури синови без име — избркани ⟨се⟩ од земјата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3e283dcd27359b971c36abb8df37e3fb458a49dc7496d52452750b9d6dad5f3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/30\/5-8.1792455186963.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "на безумници"
+    },
+    {
+      "surface": "гם",
+      "gloss": "дури"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "избркани"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    }
+  ],
+  "timestamp": "2026-10-20T00:13:06.963962544Z",
+  "model": "glm-5.3"
+}

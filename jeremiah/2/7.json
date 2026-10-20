@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "каrmел",
+      "rationale": "הכרמел е „плодородна градина\/нива“ (кармел), не само име на гората Кармел"
+    },
+    {
+      "kind": "substitution",
+      "subject": "осквернавивте",
+      "rationale": "טמא носи церемонијално-морална нечистост, не само физичка валканост"
+    }
+  ],
+  "translation": "И ⟨את⟩ ве воведов во земја на кармел, да го јадете нејзиниот плод и нејзиното добро; но вие влеговте и ја осквернавивте ⟨את⟩ земјата моја, и наследството мое го ставивте за гнаусотија.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a04595fcdd32c7fcdaa0f21c0771d3e08e3f15cd167eb6a9f39497d10e0b0e24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/2\/5-8.1792450436337.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "И ве воведов"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "на кармел"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "да јадете"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "нејзиниот плод"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "и нејзиното добро"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "но вие влеговте"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "и ја осквернавивте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата моја"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "земјата моја"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "и наследството мое"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "го ставивте"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "за гнаусотија"
+    }
+  ],
+  "timestamp": "2026-10-19T22:53:56.338362858Z",
+  "model": "glm-5.3"
+}

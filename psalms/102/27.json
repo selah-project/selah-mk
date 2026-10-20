@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תחליפם \/ ויחלפו",
+      "rationale": "коренот חלפ се повторува — смената и поминувањето се ист збор, македонскиот мора два"
+    }
+  ],
+  "translation": "Тие ќе пропаднат, а Ти ќе стоиш; и сите тие како облека ќе се истрошат, како наметка ќе ги смениш, и тие ќе поминат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "813f0a78dff17f327da6e578f53b87e7c76a21a7b123ebcc3bd852a02d2b2f9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/102\/25-28.1792453841514.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Тие"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ќе пропаднат"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а Ти"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ќе стоиш"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "и сите тие"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "како облека"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "ќе се истрошат"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "како наметка"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "ќе ги смениш"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "и ќе поминат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:41.515551903Z",
+  "model": "glm-5.3"
+}

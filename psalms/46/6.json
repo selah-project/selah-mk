@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "crux",
+      "subject": "לפנות בקר",
+      "rationale": "„при свитувањето на утрината“ — буквално „кога утрото ќе се сврти“; традицијата: „многу рано“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמוט\/מטו",
+      "rationale": "истиот корен מוט поврзан со ст. 7 — градот не се лули, царствата се лулаат"
+    }
+  ],
+  "translation": "Елохим е во нејзината средина — нема да се помести; Елохим ќе ја помогне на преминот на утрото.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/46\/5-8.1792453334032.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "во нејзината средина"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ќе се помести"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "ќе ја помогне"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "на преминот"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "на утрото"
+    }
+  ],
+  "timestamp": "2026-10-19T23:42:14.033622023Z",
+  "model": "glm-5.3"
+}

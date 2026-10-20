@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 4,
+  "translation": "И Моше му објави на Ахарон ⟨את⟩ сите зборови на Јахве со кои ⟨го⟩ испраќаше, и ⟨את⟩ сите знаци што му ги заповеда.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e014031325bbd993abce2beab89b9b4c59c4f0826779b63709dcc772c94b23b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/4\/25-28.1792443356696.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "и објави"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "на Ахарон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите зборови"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "зборови"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кои"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "испраќаше"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сите знаци"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "знаци"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "заповеда"
+    }
+  ],
+  "timestamp": "2026-10-19T20:55:56.704859164Z",
+  "model": "glm-5.3"
+}

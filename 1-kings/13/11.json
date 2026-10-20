@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 13:11",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "בנו",
+      "rationale": "множина во приповедта (дојдоа синовите), хебрејскиот облик може да биде и еднина „синот негов“ — LXX и ASI читаат еднина"
+    },
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот повратен глагол баран од глаголот „дојдоа“"
+    }
+  ],
+  "translation": "А еден стар пророк живееше во Бет Ел, и дојдоа ⟨се⟩ синовите негови и му раскажаа ⟨את⟩ сето дело што го направи човекот на Елохим оној ден во Бет Ел — ⟨את⟩ зборовите што му ги рече на царот — и му ги раскажаа на татко им.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "38d5421fcb8046a6c84306eadc6c3688130497235b0557ec72485765958b1f13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/13\/9-12.1792448801179.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונביא",
+      "gloss": "а пророк"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "стар"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "живееше"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "и дојдоа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синовите негови"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "и раскажа"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сето дело"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "היום",
+      "gloss": "оној ден"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зборовите"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "зборовите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ויספרום",
+      "gloss": "и им ги раскажаа"
+    },
+    {
+      "surface": "לאביהם",
+      "gloss": "на татко им"
+    }
+  ],
+  "timestamp": "2026-10-19T22:26:41.182010717Z",
+  "model": "glm-5.3"
+}

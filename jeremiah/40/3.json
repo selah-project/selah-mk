@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 40:3",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "македонскиот бара помошен глагол каде што хебрејскиот вели само והיה לכם — 'и стана вам ова'"
+    }
+  ],
+  "translation": "и Јахве го доведе и го изврши како што зборуваше, зашто згрешивте кон Јахве и не го послушавте гласот негов — и ви се случи ⟨е⟩ ова слово.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2993e0ab51f61cb0dc3a3f88bfd67816dab5bfc361ebb50e5595bb73f801e975",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/40\/1-4.1792451067657.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и го доведе"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и го изврши"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборуваше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "згрешивте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "кон Јахве"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "послушавте"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "гласот негов"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и се случи"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "овој збор"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    }
+  ],
+  "timestamp": "2026-10-19T23:04:27.659329387Z",
+  "model": "glm-5.3"
+}

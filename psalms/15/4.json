@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נבזה \/ נמא׸",
+      "rationale": "два синонимни пасиви 'презрен\/отфрлен' во паралела, асонацијата делумно се чува"
+    },
+    {
+      "kind": "crux",
+      "subject": "להרע",
+      "rationale": "'да прави зло' или 'да му се случи зло' — заклетва на штета, или своја или туѓа"
+    }
+  ],
+  "translation": "Презрен е во очите негови одвратниот, а ⟨את⟩ оние што се бојат од Јахве ги почитува; се заколнал да претрпи зло и не менува.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/15\/1-4.1792453043333.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "презрен е"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "во очите негови"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "одвратниот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "оние што се бојат од Јахве"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "што се бојат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "од Јахве"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "ги почитува"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "се заколнал"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "да претрпи зло"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "менува"
+    }
+  ],
+  "timestamp": "2026-10-19T23:37:23.334667032Z",
+  "model": "glm-5.3"
+}

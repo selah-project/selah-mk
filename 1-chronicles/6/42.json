@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 6:42",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "пасишта",
+      "rationale": "מגרש е 'отворена околина\/тревнати простори околу левитските градови', не само пасиште"
+    },
+    {
+      "kind": "measurement",
+      "subject": "список на градови",
+      "rationale": "преглед на градови дадени на синовите на Ахарон"
+    }
+  ],
+  "translation": "А на синовите на Ахарон им ги дадоа ⟨את⟩ градовите засолништа: ⟨את⟩ Хеврон и ⟨את⟩ Ливна и ⟨את⟩ пасиштата нејзини, и ⟨את⟩ Јатир и ⟨את⟩ Ештемоа и ⟨את⟩ пасиштата нејзини.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "64856c99f64cbd4f76b22ebd58503854a0979f8096c54f982adec649990b3571",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/6\/41-44.1792456859482.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "а на синовите"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "на Ахарон"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "им ги дадоа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "градовите засолништа"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "градовите"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "засолништа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хеврон"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хеврон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ливна"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Ливна"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "пасиштата"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "пасиштата нејзини"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Јатир"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Јатир"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ештемоа"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Ештемоа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "пасиштата"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "пасиштата нејзини"
+    }
+  ],
+  "timestamp": "2026-10-20T00:40:59.482938941Z",
+  "model": "glm-5.3"
+}

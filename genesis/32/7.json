@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 32:7",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "четиристотини мажи",
+      "rationale": "бројката на војската на Есав — ⟨ет⟩ е пиеха двата клучни елементи на заканата"
+    },
+    {
+      "kind": "substitution",
+      "subject": "пратеници",
+      "rationale": "מלאכים тука се човечки гласници, не ангели — истиот збор како за ангели"
+    }
+  ],
+  "translation": "И се вратија пратениците кај Јааков, велејќи: Дојдовме кај брат ти, кај Есав — и тој, ете, оди во пресрет на тебе, и четиристотини мажи со него.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c4c0a5b0579f53871177b59df2a4ada8565328883faace975237e3321f6fbe2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/32\/5-8.1792442962107.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "И се вратија"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "пратениците"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "Дојдовме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брат ти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и тоа"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "во пресрет на тебе"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "и четири"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотини"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мажи"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "со него"
+    }
+  ],
+  "timestamp": "2026-10-19T20:49:22.114504482Z",
+  "model": "glm-5.3"
+}

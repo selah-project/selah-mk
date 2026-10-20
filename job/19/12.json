@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 19:12",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "насипаа",
+      "rationale": "סלל е насипување на воен насип (рампа) против опседнат град — слика на опсада"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב … לאהלי",
+      "rationale": "двојно „наоколу\/околу“ — опкружување е затворено со повторување"
+    }
+  ],
+  "translation": "Заедно дојдоа дружините негови, и ја насипаа против мене ⟨את⟩ патеката своја, и се разположија наоколу околу шаторот мој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "73763410bb0c133fdc2ba7067d798af746f239bb18033f58ce5030dfa3bc7c86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/19\/9-12.1792455047425.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Заедно"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "дојдоа"
+    },
+    {
+      "surface": "גדודיו",
+      "gloss": "дружините негови"
+    },
+    {
+      "surface": "ויסלו",
+      "gloss": "и ја насипаа"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "против мене",
+      "marks": "⟨את⟩ патеката своја"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "патеката своја"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и се разположија"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколу"
+    },
+    {
+      "surface": "לאהלי",
+      "gloss": "околу шаторот мој"
+    }
+  ],
+  "timestamp": "2026-10-20T00:10:47.426299743Z",
+  "model": "glm-5.3"
+}

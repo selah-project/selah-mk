@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 6:21",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ли",
+      "rationale": "прашањето на арамејски е да-реченица; македонскиот бара прашална честичка"
+    },
+    {
+      "kind": "you",
+      "subject": "до Даниел",
+      "rationale": "царот Дариј се обраќа директно на Даниел кај јамата"
+    }
+  ],
+  "translation": "И кога се приближи до јамата, кон Даниел, со тажен глас извика. Царот одговори и му рече на Даниел: Даниеле, слуго на живиот Елохим, твојот Елохим, кому ти служиш постојано, може ли да те избави од лавовите?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b1c5fb1204debef426a6525cd8edb43eb4e66f7f84a401a8b8be395cdf389f37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/6\/21-24.1792456104638.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכמקרבה",
+      "gloss": "и кога се приближи"
+    },
+    {
+      "surface": "לגבא",
+      "gloss": "до јамата"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "кон Даниел"
+    },
+    {
+      "surface": "בקל",
+      "gloss": "со глас"
+    },
+    {
+      "surface": "עציב",
+      "gloss": "тажен"
+    },
+    {
+      "surface": "זעק",
+      "gloss": "извика"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "одговори"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "на Даниел"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниеле"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "слуго"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "חיא",
+      "gloss": "живиот"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "די",
+      "gloss": "кому"
+    },
+    {
+      "surface": "אנתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "служиш"
+    },
+    {
+      "surface": "לה",
+      "gloss": "му"
+    },
+    {
+      "surface": "בתדירא",
+      "gloss": "постојано"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "може ли"
+    },
+    {
+      "surface": "לשיזבותך",
+      "gloss": "да те избави"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "אריותא",
+      "gloss": "лавовите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:28:24.639585964Z",
+  "model": "glm-5.3"
+}

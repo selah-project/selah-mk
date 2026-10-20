@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 14:8",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הישר בעיני",
+      "rationale": "Дословно „правото во моите очи“ = она што е право пред Јахве."
+    },
+    {
+      "kind": "addition",
+      "subject": "ги",
+      "rationale": "Македонски клитички показателен за множинскиот предмет на „пазел“."
+    }
+  ],
+  "translation": "и ја искинав ⟨את⟩ царството од домот на Давид и ти ја дадов тебе, а ти не беше како моиот слуга Давид, што ги пазел моите заповеди и што одел по мене со сето свое срце, да прави само она што е право во моите очи.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a9f675a4df74d6852a5c69f02461ccc235ec46797f0394d24065f75a6c334a25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/14\/5-8.1792448854674.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקרע",
+      "gloss": "и ја искинав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "царството"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "царството"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "од домот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "и ти ја дадов"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "היית",
+      "gloss": "беше"
+    },
+    {
+      "surface": "כעבדי",
+      "gloss": "како моиот слуга"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ги пазел"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "моите заповеди"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и што"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "одел"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по мене"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "со сето"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "своето срце"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да прави"
+    },
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "правото"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "во моите очи"
+    }
+  ],
+  "timestamp": "2026-10-19T22:27:34.677886880Z",
+  "model": "glm-5.3"
+}

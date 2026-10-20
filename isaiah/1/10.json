@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Слушнете \/ надслушајте",
+      "rationale": "Двоен повик со императиви упатен кон слушателите — класичен повик за внимание."
+    },
+    {
+      "kind": "you",
+      "subject": "началници содомски · народе аморски",
+      "rationale": "Директен обраќањ до владетелите и народот, наречени со имињата на Содома и Амора."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Тората",
+      "rationale": "תורת се чува како Тора според D2, не како 'закон'."
+    }
+  ],
+  "translation": "Слушнете ја речта на Јахве, началници содомски, надслушајте ја Тората на нашиот Елохим, народе аморски!",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "fcfdbc9c76af9b83e210a0543159b4583687a5a8484808fc6d8bb80296f62090",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/1\/9-12.1792449556108.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Слушнете"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "речта"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "началници"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "содомски"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "надслушајте"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тората"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "нашиот Елохим"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народе"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "аморски"
+    }
+  ],
+  "timestamp": "2026-10-19T22:39:16.110455916Z",
+  "model": "glm-5.3"
+}

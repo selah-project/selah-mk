@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "на небото",
+      "rationale": "השמים е дуал (две небеса); македонскиот нема дуал, па останува „небо“"
+    }
+  ],
+  "translation": "тогаш ти ќе слушнеш на небото ⟨את⟩ нивната молитва и ⟨את⟩ нивната молба, и ќе го направиш нивното право.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "d6160e1ef828706a10b06127e43a290a55bfe81c2f2ce9f5db7bb2c0ca8b0b11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/8\/45-48.1792448775585.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "и ќе слушнеш"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "на небото"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нивната молитва"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "нивната молитва"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "нивната молба"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "нивната молба"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "и ќе направиш"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "нивното право"
+    }
+  ],
+  "timestamp": "2026-10-19T22:26:15.586624204Z",
+  "model": "glm-5.3"
+}

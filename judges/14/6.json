@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 14:6",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "רוח е руах — дух, дув, здив во еден збор; оставено како руах според правилото D2"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שסע\/ישסעהו",
+      "rationale": "истиот корен повторен — „раскина како раскинување на јаре“ — глагол и именка од истиот корен"
+    }
+  ],
+  "translation": "И го обзеде руах на Јахве, и тој го раскина како што се раскинува јаре, и ништо немаше во раката негова; а не им каза на татко си ни на мајка си ⟨את⟩ она што го направи.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3c3f566f6d465af95058caa773db372af5e54866667bb188ef16017c3f956e77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/14\/5-8.1792446480691.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "го обзеде"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "него"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "וישסעהו",
+      "gloss": "и го раскина"
+    },
+    {
+      "surface": "כשסע",
+      "gloss": "како што се раскинува"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "јаре"
+    },
+    {
+      "surface": "ומאומה",
+      "gloss": "и ништо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немаше"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "во раката негова"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "каза"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "на татко си"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ни на мајка си"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "она што го направи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    }
+  ],
+  "timestamp": "2026-10-19T21:48:00.692381184Z",
+  "model": "glm-5.3"
+}

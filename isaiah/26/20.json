@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "народу мој",
+      "rationale": "директен повик — криј се додека помине гневот, како Пасха во Излез 12"
+    },
+    {
+      "kind": "you",
+      "subject": "до народот",
+      "rationale": "обраќање „оди, народу мој“ — Јахве го повикува Својот народ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "гневот",
+      "rationale": "זעם букв. „пена на устата“ — избув на гневот; оставено како „гневот“"
+    }
+  ],
+  "translation": "Оди, народу мој, влези во собите свои и затвори ги вратите зад себе; скриј се само малку миг, додека помине гневот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "606c279460d2fc9aba5e4280947b919581a273c7ad90da5c5454085569511dc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/26\/17-20.1792449886827.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народу мој"
+    },
+    {
+      "surface": "בא",
+      "gloss": "влези"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "во собите свои"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "и затвори"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "вратите свои"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "зад себе"
+    },
+    {
+      "surface": "חבי",
+      "gloss": "скриј се"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "само малку"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "миг"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "помине"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "гневот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:44:46.832364084Z",
+  "model": "glm-5.3"
+}

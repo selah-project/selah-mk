@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 5:23",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ישגה",
+      "rationale": "YLT чита „се велича” (каузативно), но основното значење „залута\/скита” одговара на KJV\/JPS."
+    },
+    {
+      "kind": "substitution",
+      "subject": "поука",
+      "rationale": "מוסר значи и казна и поука; изабрана „поука” за контекст на отсуство на воспитување."
+    }
+  ],
+  "translation": "Тој ќе умре без поука, и во изобилството на својата глупост ќе залута.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b802cf376f5e998710d0f74f02db44d05d94574c1cb2773fb7516b6370b71688",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/5\/21-23.1792454320857.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Тој"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ќе умре"
+    },
+    {
+      "surface": "באין",
+      "gloss": "без"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "поука"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "и во изобилството на"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "својата глупост"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "ќе залута"
+    }
+  ],
+  "timestamp": "2026-10-19T23:58:40.857899091Z",
+  "model": "glm-5.3"
+}

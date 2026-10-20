@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 8:26",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ќерка на Омри",
+      "rationale": "2 Хр 22:2 вели 42 години и „ќерка на Омри“ — Атаљаху всушност внука на Омри (ќерка на Ахав); буквата на текстот стои"
+    },
+    {
+      "kind": "measurement",
+      "subject": "дваесет и две години · една година",
+      "rationale": "возраст и траење на владеењето"
+    }
+  ],
+  "translation": "Дваесет и две години беше Ахазјаху кога стана цар, и една година царуваше во Јерушалаим; а името на мајка му беше Атаљаху, ќерка на Омри, царот на Јисраел.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "4a1b0acfc57e7eb19ee695e459ef2abb98518bbae58973c573515848da0cab8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/8\/25-28.1792449181247.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "⟨на⟩ возраст од (син)"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "дваесет"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "и две"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ахазјаху"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "кога стана цар"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "и една година"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царуваше"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "во Јерушалаим"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а името"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "на мајка му"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Атаљаху"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерка"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Омри"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T22:33:01.249092605Z",
+  "model": "glm-5.3"
+}

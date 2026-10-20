@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 33:13",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Хебрејскиот нема глагол-сврзка во оваа именска реченица"
+    },
+    {
+      "kind": "substitution",
+      "subject": "најдоброто",
+      "rationale": "ממגד е 'издвоено\/вредно нешто' — одбрано изобилство, не само 'дарови'"
+    }
+  ],
+  "translation": "И за Јосеф рече: Благословена од Јахве ⟨е⟩ земјата негова, со најдоброто на небесата, со роса, и со бездната што лежи долу.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "8dcf3828bacdceece413e862ac87a1fb0fd0c346a6eb533ae5240373f693a37a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/33\/13-16.1792445808538.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וליוסף",
+      "gloss": "И за Јосеф"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "מברכת",
+      "gloss": "Благословена"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "од Јахве"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "земјата негова"
+    },
+    {
+      "surface": "ממגד",
+      "gloss": "со најдоброто"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "на небесата"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "со роса"
+    },
+    {
+      "surface": "ומתהום",
+      "gloss": "и со бездната"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "што лежи"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "долу"
+    }
+  ],
+  "timestamp": "2026-10-19T21:36:48.539285883Z",
+  "model": "glm-5.3"
+}

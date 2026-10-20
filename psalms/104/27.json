@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "се надеваат",
+      "rationale": "ישברון буквално „гледаат напнато\/набљудуваат со трепет“ — чекање со цело суштество"
+    },
+    {
+      "kind": "addition",
+      "subject": "нејзино",
+      "rationale": "מакедонскиот бара притворка; хебрејскиот вели само בעתו — „во времето-му“"
+    }
+  ],
+  "translation": "Сите тие кон тебе се надеваат — да им дадеш храна во времето ⟨нејзино⟩.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a10f68254273223205028554c75dfe0516cce489273eb2984a69399cb2f79be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/104\/25-28.1792453828762.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "сите тие"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "кон тебе"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "се надеваат"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "да дадеш"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "нивната храна"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "во времето"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:28.763567163Z",
+  "model": "glm-5.3"
+}

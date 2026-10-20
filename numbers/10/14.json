@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 10:14",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "список на војсководци",
+      "rationale": "стиховите 14–16 набројуваат поглавари на племиња според редот на движење"
+    }
+  ],
+  "translation": "И тргна знамето на логорот на синовите Јехуда првпат, според војските нивни; а над војската негова — Нахшон, син на Аминадав.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b98a625e121261270c9b90ff8d78a19bf62e4eb00fc94fbafe264a21515a8c97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/10\/13-16.1792444715891.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "тргна"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "знамето"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "на логорот"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на синовите"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "првпат"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "според војските нивни"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "а над"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "војската неговата"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Нахшон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Аминадав"
+    }
+  ],
+  "timestamp": "2026-10-19T21:18:35.893321024Z",
+  "model": "glm-5.3"
+}

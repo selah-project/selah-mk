@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרוניך\/בעותיך",
+      "rationale": "пар на зборови за гнев и страв како двоен удар, ритмичката рамномерност се губи во македонскиот"
+    }
+  ],
+  "translation": "Над мене поминаа гневовите Твои; страховите Твои ме истребија.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "eda71151d2410ae7e9ab6e9c08f5e534f649778bee36cadc75d74ff1f725fda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/88\/17-19.1792453686616.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "над мене"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "поминаа"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "гневовите Твои"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "страховите Твои"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "ме истребија"
+    }
+  ],
+  "timestamp": "2026-10-19T23:48:06.616658665Z",
+  "model": "glm-5.3"
+}

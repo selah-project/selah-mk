@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ако ви биде уште",
+      "rationale": "клетвена конструкција со אם — заклетвата носи негација: 'никако повеќе'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משל המשל",
+      "rationale": "инфинитивен апсOLUTE 'говорејќи поговорка' врз именката — двојниот корен משל"
+    }
+  ],
+  "translation": "Жив сум Јас, изрека на Адонај Јахве: ако ви биде уште еднаш да говорите оваа поговорка во Јисраел!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "37c954b77d810f2558a0a7017a85a33c382d44539968be6d59854323a5d712d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/18\/1-4.1792451572126.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Жив"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биде"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уште еднаш"
+    },
+    {
+      "surface": "משל",
+      "gloss": "да говорите"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "поговорка"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "во Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T23:12:52.127340652Z",
+  "model": "glm-5.3"
+}

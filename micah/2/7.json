@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 2:7",
+  "book": "micah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "רוח е еден збор — руах: здив, ветер, Дух; не се избира едно значење"
+    },
+    {
+      "kind": "crux",
+      "subject": "чии се зборовите во стихот",
+      "rationale": "наркодните гласови — прашањето на народот или одговорот на Јахве — се сменкаат; преведувачите се делат"
+    }
+  ],
+  "translation": "Речено ли е, доме Јааков: кратка ли е руах на Јахве? Дали овие се делата Негови? Не прават ли добро зборовите Мои на оној што оди право?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "647b80723728cdd5af2dbf66ff73331d07ceffe88b1393f0179c442382098790",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/micah\/2\/5-8.1792452549567.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמור",
+      "gloss": "Речено ли е"
+    },
+    {
+      "surface": "בית",
+      "gloss": "доме"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "הקצר",
+      "gloss": "кратка ли е"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Дали"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "מעלליו",
+      "gloss": "делата Негови"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Не ли"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "зборовите Мои"
+    },
+    {
+      "surface": "ייטיבו",
+      "gloss": "прават добро"
+    },
+    {
+      "surface": "עם",
+      "gloss": "на"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "право"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "што оди"
+    }
+  ],
+  "timestamp": "2026-10-19T23:29:09.568082606Z",
+  "model": "glm-5.3"
+}

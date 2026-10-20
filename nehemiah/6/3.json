@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 6:3",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מלאכים\/מלאכה",
+      "rationale": "Играта «пратеници — дело\/порака» од ист корен е незадржлива во македонскиот."
+    },
+    {
+      "kind": "you",
+      "subject": "кај вас",
+      "rationale": "Одговорот директно им се обраќа на Санвалат и Гешем."
+    }
+  ],
+  "translation": "И им пратив пратеници: Големо дело вршам и не можам да слезам; зошто би престанала работата кога ја оставам и слезам кај вас?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "427da38ace9d10f0a00ec35036e2d7748a9cfb82c3cbd834ea4213686dc582f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/6\/1-4.1792456613757.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלחה",
+      "gloss": "И им пратив"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "пратеници"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ""
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "Големо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "вршам"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "можам"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "да слезам"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "би престанала"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "работата"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кога"
+    },
+    {
+      "surface": "ארפה",
+      "gloss": "ја оставам"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "и слезам"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "кај вас"
+    }
+  ],
+  "timestamp": "2026-10-20T00:36:53.758934523Z",
+  "model": "glm-5.3"
+}

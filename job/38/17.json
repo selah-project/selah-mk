@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 38:17",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сенката-на-смртта",
+      "rationale": "цалмавет е буквално „сенка на смртта“, една споена слика, не едноставно „темнина“"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јов",
+      "rationale": "Јахве ги постава прашањата директно на Јов"
+    }
+  ],
+  "translation": "Дали ти се отворија ⟨את⟩ портите на смртта, и портите на сенката-на-смртта, дали ги видиш?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9e643179b9135a159247403e5a36e60695eb707c42ff6bc14b55482612dc3ab1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/38\/17-20.1792455269007.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנגלו",
+      "gloss": "дали се отворија"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "портите"
+    },
+    {
+      "surface": "מות",
+      "gloss": "на смртта"
+    },
+    {
+      "surface": "ושערי",
+      "gloss": "и портите"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "на сенката-на-смртта"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "дали видиш"
+    }
+  ],
+  "timestamp": "2026-10-20T00:14:29.007675861Z",
+  "model": "glm-5.3"
+}

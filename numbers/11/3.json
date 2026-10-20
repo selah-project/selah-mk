@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תבערה\/בערה",
+      "rationale": "името на местото е изведено од глаголот 'пламна' — етимологијата е видлива и во македонскиот само преку сличноста на формите"
+    }
+  ],
+  "translation": "И го нарече името на тоа место Тавеера, зашто оганот на Јахве пламна меѓу нив.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "fd51f1e820ee315e840b1cf588ecb9b784e380197e5fd93f63b3716054f7fef0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/11\/1-4.1792444767918.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И го нарече"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "местото"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Тавеера"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "пламна"
+    },
+    {
+      "surface": "בם",
+      "gloss": "меѓу нив"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оганот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:19:27.920637108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 12:2",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ќе посее",
+      "rationale": "תזריע е буквално 'ќе посее' (од сеење); преведувачите често мекаат со 'зачне'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דותה",
+      "rationale": "דווה (недостат\/болест) се јавува само тука во Танах"
+    },
+    {
+      "kind": "you",
+      "subject": "Моше",
+      "rationale": "заповед упатена преку Моше кон синовите Јисраелови"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨нејзината⟩",
+      "rationale": "превземен македонски посвојна заменка за читливост"
+    }
+  ],
+  "translation": "Говори на синовите Јисраелови, велејќи: Жена, кога ќе посеи и роди машко, ќе биде нечиста седум дена; како во деновите на одделувањето на болката ⟨нејзината⟩ ќе биде нечиста.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "31d2ae8262accf9607d7f9426d2efad5fd1cf63a7ae9416d00a61694daa2426d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/12\/1-4.1792444209757.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелови"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "Жена"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "ќе посее"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "машко"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "ќе биде нечиста"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седум"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дена"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "како во деновите"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "на одделувањето"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "на болката ⟨нејзината⟩"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "ќе биде нечиста"
+    }
+  ],
+  "timestamp": "2026-10-19T21:10:09.760225429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 17:5",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וזרעו",
+      "rationale": "корен זרע е „рака“ (предрака), не „семе“ — раката на жетварот е сликата"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רפאים",
+      "rationale": "место на џинови — топоним Долината Рефаим крај Ерусалим"
+    }
+  ],
+  "translation": "И ќе биде како собирање жетва на стебленца, и раката негова класје ќе жнее, и ќе биде како беричење класје во долината Рефаим.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "52e6cb3380af1ec67efd3a81b772f2034218a9db2763a00a4c5fac9cef6694d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/17\/5-8.1792449740664.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "כאסף",
+      "gloss": "како собирање"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "жетва"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "стебленца"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "и раката негова"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "класје"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "ќе жнее"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "כמלקט",
+      "gloss": "како беричење"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "класје"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "во долината"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаим"
+    }
+  ],
+  "timestamp": "2026-10-19T22:42:20.665759838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 18:28",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "на (царот на Јуда)",
+      "rationale": "македонски предлог во конструкцијата за титула"
+    }
+  ],
+  "translation": "И се качи царот на Јисраел и Јехошафат, царот на Јуда, кон Рамот Гилад.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bec203580591608400fb71907a4b07676a3da3b203fd8cb5494f71e3763efcf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/18\/25-28.1792457579170.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "И се качи"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "и Јехошафат"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јуда"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Рамот"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилад"
+    }
+  ],
+  "timestamp": "2026-10-20T00:52:59.173156830Z",
+  "model": "glm-5.3"
+}

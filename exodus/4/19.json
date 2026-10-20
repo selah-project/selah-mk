@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "животот твој",
+      "rationale": "נפש е душата како животна сила, не бесмртна душа"
+    },
+    {
+      "kind": "you",
+      "subject": "Моше",
+      "rationale": "Јахве му зборува директно на Моше во Мидијан"
+    }
+  ],
+  "translation": "И рече Јахве на Моше во Мидијан: Оди, врати се во Мицраим, зашто умреа сите луѓе што бараа ⟨את⟩ животот твој.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "412f827a2915ba09078374531f3aad0ce3aaaad22972ddd006680bcf16569728",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/4\/17-20.1792443373450.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "во Мидијан"
+    },
+    {
+      "surface": "לך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "שב",
+      "gloss": "врати се"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "во Мицраим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "умреа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "луѓето"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "што бараа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "животот твој"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "животот твој"
+    }
+  ],
+  "timestamp": "2026-10-19T20:56:13.455489955Z",
+  "model": "glm-5.3"
+}

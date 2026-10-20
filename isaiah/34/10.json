@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 34:10",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לנצח נצחים",
+      "rationale": "Двојното „довека, довека“ — повторување за бесконечност, задржано во македонскиот"
+    }
+  ],
+  "translation": "Ноќ и ден нема да се изгаси, засекогаш ќе се крева нејзиниот чад; од поколение на поколение ќе запустее; довека, довека — нема кој да мине низ неа.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "31e1321b6205f10e684ddf76cf386a26c834645a4bb0a7dfd78470d0518dfcfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/34\/9-12.1792449933972.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "ноќ"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "и ден"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "да се изгаси"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "засекогаш"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ќе се крева"
+    },
+    {
+      "surface": "עשנה",
+      "gloss": "нејзиниот чад"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "од поколение"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "на поколение"
+    },
+    {
+      "surface": "תחרב",
+      "gloss": "ќе запустее"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "довека"
+    },
+    {
+      "surface": "נצחים",
+      "gloss": "довека"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "кој да мине"
+    },
+    {
+      "surface": "בה",
+      "gloss": "низ неа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:45:33.975716232Z",
+  "model": "glm-5.3"
+}

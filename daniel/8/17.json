@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 8:17",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула; именскиот predicat ја бара на македонски"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сине човечки",
+      "rationale": "בן אדם е „син на човек“, божествен разговорски обраќач — без подоцнежното пренесено значење"
+    },
+    {
+      "kind": "you",
+      "subject": "до Даниел",
+      "rationale": "Гавриел му се обраќа директно: „Разбирај, сине човечки“"
+    },
+    {
+      "kind": "mystery",
+      "subject": "видението",
+      "rationale": "видението е запечатено до времето на крајот — текстот свесно одложува"
+    }
+  ],
+  "translation": "И дојде крај местото каде што стоев, и кога дојде, се уплашив и паднав на своето лице; и ми рече: Разбирај, сине човечки, зашто видението ⟨е⟩ за времето на крајот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b79ab87780cf7b9f740bd9afe9a8f5a3b37948d8fddfb1eaf173642ba8edb2b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/8\/17-20.1792456148840.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и дојде"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "крај"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "местото каде што стоев"
+    },
+    {
+      "surface": "ובבאו",
+      "gloss": "при неговото доаѓање"
+    },
+    {
+      "surface": "נבעתי",
+      "gloss": "се уплашив"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "и паднав"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "разбирај"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечки"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "за времето"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "на крајот"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "видението"
+    }
+  ],
+  "timestamp": "2026-10-20T00:29:08.840609164Z",
+  "model": "glm-5.3"
+}

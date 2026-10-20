@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "2-kings 4:41",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ништо лошо",
+      "rationale": "буквално 'зло нешто' — дабар ра"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨го⟩",
+      "rationale": "македонскиот го бара директниот предмет"
+    }
+  ],
+  "translation": "И тој рече: Земете брашно. И фрли ⟨го⟩ во тенџерето, и рече: Насипете им на луѓето и нека јадат. И немаше ништо лошо во тенџерето.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "16b0c5072114224bff22c13dbdd384c7f3b488ac72cd1e5646f87dea477b7c4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/4\/41-44.1792449127954.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "וקחו",
+      "gloss": "земете"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "брашно"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "фрли"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "тенџерето"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "צק",
+      "gloss": "насипете"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "им на луѓето"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "нека јадат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "имаше"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ништо"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лошо"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "во тенџерето"
+    }
+  ],
+  "timestamp": "2026-10-19T22:32:07.955297786Z",
+  "model": "glm-5.3"
+}

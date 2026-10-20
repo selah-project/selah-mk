@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש איש",
+      "rationale": "двојно повторување „човек човек“ за поединечна одговорност, секој поединец"
+    },
+    {
+      "kind": "idiom",
+      "subject": "да откриеш голотина",
+      "rationale": "„לגלות ערוה“ — евфемизам за сексуален однос, преведено буквално"
+    },
+    {
+      "kind": "substitution",
+      "subject": "близок роднина",
+      "rationale": "שאר בשר буквално „месо од телото“, крвен роднина"
+    },
+    {
+      "kind": "you",
+      "subject": "до Израел",
+      "rationale": "забрана упатена директно ко заедницата"
+    }
+  ],
+  "translation": "Човек човек кон никаков близок роднина по тело не приближевајте се за да откриеш голотина; јас сум Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a7fa3d19689258b4b6bc7d2bdc453037a605d0e8d68faa23090dc3c532fca4a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/18\/5-8.1792444328365.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Човек"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "כל",
+      "gloss": "никаков"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "близок роднина"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "по тело"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "приближевајте се"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "за да откриеш"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "голотина"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:12:08.537939037Z",
+  "model": "glm-5.3"
+}

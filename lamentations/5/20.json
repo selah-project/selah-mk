@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "до Јахве",
+      "rationale": "директно обраќање прашање кон Бога — врв на плачот во петото поглавје"
+    }
+  ],
+  "translation": "Зошто довека ќе нѐ заборавиш, ќе нѐ оставиш за долги дни?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ce1e2780465f0675caff8161e62ac3f4953f6e76840915a6601ec7b23b9a77a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/5\/17-20.1792455629882.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Зошто"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "довека"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "ќе нѐ заборавиш"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "ќе нѐ оставиш"
+    },
+    {
+      "surface": "лארך",
+      "gloss": "за долги"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    }
+  ],
+  "timestamp": "2026-10-20T00:20:29.883864085Z",
+  "model": "glm-5.3"
+}

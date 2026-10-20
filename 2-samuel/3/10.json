@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "од Дан до Вир-Шева",
+      "rationale": "Географска мерка на целата земја од север до југ."
+    },
+    {
+      "kind": "idiom",
+      "subject": "од Дан до Вир-Шева",
+      "rationale": "Идиом за целата територија на земјата."
+    }
+  ],
+  "translation": "да ја премине царството од домот на Шаул и да го подигне ⟨את⟩ престолот на Давид над Јисраел и над Јехуда, од Дан и до Вир-Шева.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "310cc5d93efec93e8936256316913592c0c8d1b3acd996b53030dfca13a57ab5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/3\/9-12.1792448073606.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "да премине"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "царството"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "од домот"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "на Шаул"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "и да подигне"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "престолот"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "престолот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "од Дан"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Вир"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    }
+  ],
+  "timestamp": "2026-10-19T22:14:33.607568651Z",
+  "model": "glm-5.3"
+}

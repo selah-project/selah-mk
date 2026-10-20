@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 20:9",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כלכל",
+      "rationale": "'да воздржи\/сноси' — преведувачите се делат: 'weary of forbearing' (KJV) наспроти 'I cannot contain' (ASV); јас видов двойно значење во една глоса."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצר\/עצמתי",
+      "rationale": "корен עצר и коски עצמום — звукот се повторува, огнот е 'затворен' во 'коските', игра изгубена на македонски."
+    },
+    {
+      "kind": "elision",
+      "subject": "והיה",
+      "rationale": "хебрејскиот 'и стана' е споен со 'беше' за да тече текстот."
+    }
+  ],
+  "translation": "И реков: Нема да го споменав и нема да зборувам повеќе во неговото име. Но беше во срцето мое како оган што гори, затворен во коските мои, и изнемоштив од воздржување и не можев.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1cd73a94dab467f59f582ca81fa9d1ff04ed6bbe6d9d07a97bc24bff29c6892b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/20\/9-12.1792450696609.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "И реков"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Нема"
+    },
+    {
+      "surface": "אזכרנו",
+      "gloss": "да го споменав"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "да зборувам"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "во неговото име"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "Но беше"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "во срцето мое"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "како оган"
+    },
+    {
+      "surface": "בערת",
+      "gloss": "што гори"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "затворен"
+    },
+    {
+      "surface": "בעצמתי",
+      "gloss": "во коските мои"
+    },
+    {
+      "surface": "ונלאיתי",
+      "gloss": "и изнемоштив од воздржување"
+    },
+    {
+      "surface": "כלכל",
+      "gloss": "од воздржување"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "можев"
+    }
+  ],
+  "timestamp": "2026-10-19T22:58:16.610914991Z",
+  "model": "glm-5.3"
+}

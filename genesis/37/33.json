@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 37:33",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ѕвер",
+      "rationale": "חיה е 'живо суштество', тука 'ѕвер' — жива NDEBUG не; буквално 'живо зло'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טרף טרף",
+      "rationale": "инфинитивен апсолут — удвоен глагол 'растепан-растепан', драматско повторување"
+    }
+  ],
+  "translation": "И ја позна и рече: Клетната на синот мој! Зло ѕвер го изеде; растепан-растепан е Јосеф!",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0a69462e695018c9e73e085b15e3e5a5dbd4a04d267b1569e9530cdc3ddaf9ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/37\/33-36.1792443082916.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכירה",
+      "gloss": "ја позна"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "клетната"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на синот мој"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ѕвер"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "אכלתהו",
+      "gloss": "го изеде"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "растепан"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "растепан"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    }
+  ],
+  "timestamp": "2026-10-19T20:51:22.917261964Z",
+  "model": "glm-5.3"
+}

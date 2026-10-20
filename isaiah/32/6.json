@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 32:6",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפש е повеќе „животна сила\/густ“ отколку „душа“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבל\/נבלה",
+      "rationale": "ист корен именка-глагол, повторувањето се губи во преводот."
+    }
+  ],
+  "translation": "Зашто безбожникот зборува безбожништво, и срцето негово прави беззакоње, да врши нечестивост и да зборува спроти Јахве измама, за да ја испразни душата на гладниот и на жедниот да му го одземе пијалакот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "53d23cbd994253d13f78c38678c077e527f1ab8c0ae2b2241a0adedc88dff514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/32\/5-8.1792449949760.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "безбожникот"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "безбожништво"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "зборува"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "и срцето негово"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "прави"
+    },
+    {
+      "surface": "און",
+      "gloss": "беззакоње"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да врши"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "нечестивост"
+    },
+    {
+      "surface": "ולדבר",
+      "gloss": "и да зборува"
+    },
+    {
+      "surface": "אל",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "измама"
+    },
+    {
+      "surface": "להריק",
+      "gloss": "да ја испразни"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душата"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "на гладниот"
+    },
+    {
+      "surface": "ומשקה",
+      "gloss": "и пијалакот"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "на жедниот"
+    },
+    {
+      "surface": "יחסיר",
+      "gloss": "ќе го одземе"
+    }
+  ],
+  "timestamp": "2026-10-19T22:45:49.764418509Z",
+  "model": "glm-5.3"
+}

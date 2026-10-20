@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Побарај",
+      "rationale": "отворен повик со давање избор — Елохим го повикува Шеломо да побара"
+    },
+    {
+      "kind": "you",
+      "subject": "Побарај",
+      "rationale": "директно обраќање до Шеломо"
+    }
+  ],
+  "translation": "Во таа ноќ Елохим му се јави на Шеломо и му рече: Побарај — што да ти дадам?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cf03eae87b8b4aed02b64bdd04f0cebe2d6230099efec1d4e327d7cbf9dc7d5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/1\/5-8.1792457346345.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "Во ноќта"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "му се јави"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "на Шеломо"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Побарај"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "да дадам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-10-20T00:49:06.346860681Z",
+  "model": "glm-5.3"
+}

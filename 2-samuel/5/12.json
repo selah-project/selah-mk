@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 5:12",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשא",
+      "rationale": "буквално „подигна“ (кревање); македонскиот „издигнал“ ги држи обете слики."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "инверсија на мотивот",
+      "rationale": "Давид на други места ги носи луѓето; тука текстот ја дава причината — царството е подигнато заради народот, не обратно."
+    }
+  ],
+  "translation": "И Давид сфати дека Јахве го утврдил за цар над Јисраел, и дека го издигнал царството негово, заради народот негов Јисраел.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "549176226441194a42801fe28ea342aed0748070d7b875a313077a9fe0e36192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/5\/9-12.1792448073800.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "сфати"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "утврдил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "за цар"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "и дека"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "издигнал"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "царството негово"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "заради"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народот негов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T22:14:33.801583219Z",
+  "model": "glm-5.3"
+}

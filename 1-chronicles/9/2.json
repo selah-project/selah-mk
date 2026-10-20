@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 9:2",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беа ⟨од⟩",
+      "rationale": "Хебрејскиот е именска низа без глагол; македонскиот бара копула и предложен однос."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הנתינים",
+      "rationale": "Нетинимите — храмски служители „дадени“ за таа должност; технички поим што се губи во општиот превод „храмски слуги“."
+    }
+  ],
+  "translation": "А првите жители што живееле во своите имоти во своите градови беа ⟨од⟩ Јисраел: свештениците, левитите и нетинимите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2df7aaf7c48fc87de764cdb4d2a3aa6747580e35f083c11a658e0dbd29fcb53b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/9\/1-4.1792456962523.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיושבים",
+      "gloss": "жителите"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "првите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "באחזתם",
+      "gloss": "во своите имоти"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "во своите градови"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свештениците"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитите"
+    },
+    {
+      "surface": "והנתינим",
+      "gloss": "и нетинимите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:42:42.524768466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 15:12",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מציב לו יד",
+      "rationale": "буквално 'си постави рака\/споменик' — споменик за себе (YLТ\/JPS) наспроти 'место' (Geneva\/KJV 'место')."
+    },
+    {
+      "kind": "idiom",
+      "subject": "וישכם",
+      "rationale": "буквално 'се натовари утрото' — идиом за 'стана рано'."
+    }
+  ],
+  "translation": "И стана рано Шмуел да го состре Шаул наутро, и беше кажано на Шмуел, велејќи: Дојде Шаул на Кармел, и еве — си подигна споменик, па се сврати, и помина, и слезе во Гилгал.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "ba43f99a3c7cdd72ae973bb7ae84440742d3dadf7ce155d8a1c59e1d7240c6b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/15\/9-12.1792446869917.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "стана рано"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуел"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "да го состре"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "наутро"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "и беше кажано"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "на Шмуел"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Дојде"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "הכרמלה",
+      "gloss": "на Кармел"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и еве"
+    },
+    {
+      "surface": "מציב",
+      "gloss": "си подигна"
+    },
+    {
+      "surface": "לו",
+      "gloss": "си"
+    },
+    {
+      "surface": "יד",
+      "gloss": "споменик"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "се сврати"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "и помина"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "и слезе"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "во Гилгал"
+    }
+  ],
+  "timestamp": "2026-10-19T21:54:29.919419620Z",
+  "model": "glm-5.3"
+}

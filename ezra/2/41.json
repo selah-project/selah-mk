@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "список",
+      "rationale": "Список на зброење на враќаниците од Вавилон, со број на души."
+    }
+  ],
+  "translation": "Пејачите: синовите на Асаф — сто и дваесет и осум.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0948a072555a7428d7eb97acdc77b42d9d4ef9a4866e60bd57107809498de122",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezra\/2\/41-44.1792456263881.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "Пејачите"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асаф"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "и дваесет"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и осум"
+    }
+  ],
+  "timestamp": "2026-10-20T00:31:03.881806785Z",
+  "model": "glm-5.3"
+}

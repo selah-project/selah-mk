@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 4:2",
+  "book": "song-of-songs",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "копула додадена на македонски"
+    },
+    {
+      "kind": "crux",
+      "subject": "הקצובות",
+      "rationale": "„стрижени“ — дали е стадо острижени овци, или 'подредени во редови'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ושכלה",
+      "rationale": "буквално 'осиромашена (од деца)' — слика за заб што недостасува"
+    }
+  ],
+  "translation": "Забите твои ⟨се⟩ како стадострижени овци што излегуваат од бањата; сите ⟨се⟩ пар-близнаци, и нема ⟨една⟩ одбивана меѓу нив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "29bdaf664ff43abfe8fbf7d40e1971d8822100bad805c807db164d611627041f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/song-of-songs\/4\/1-4.1792455459087.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שניך",
+      "gloss": "Забите твои"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "како стадо"
+    },
+    {
+      "surface": "הקצובות",
+      "gloss": "стрижени"
+    },
+    {
+      "surface": "שעלו",
+      "gloss": "што излегуваат"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הרחצה",
+      "gloss": "бањата"
+    },
+    {
+      "surface": "שכלם",
+      "gloss": "сите"
+    },
+    {
+      "surface": "מתאימות",
+      "gloss": "пар-близнаци"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "и одбивана"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "меѓу нив"
+    }
+  ],
+  "timestamp": "2026-10-20T00:17:39.088114934Z",
+  "model": "glm-5.3"
+}

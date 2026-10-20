@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ענה תענה · צעק יצעק · שמע אשמע",
+      "rationale": "инфинитивен апсолут три пати по ред — 'угнетување ќе угнетуваш, викање ќе вика, слушање ќе слушам'; удвојувањето е заклетвена сигурност"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "'зашто ако' vs 'само ако' — JPS чита 'for if they cry at all', KJV 'and they cry at all'"
+    }
+  ],
+  "translation": "Ако угнетување го угнетуваш ⟨את⟩ него — дека ако викање извика кон мене, слушање ќе го слушам викот негов.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9d0cc3bbf40d6230cab9c525993394b79a1b331df03b195daefc77b66308228a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/22\/21-24.1792443710143.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "угнетување"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "го угнетуваш"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него (вдовицата или сирачето)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "викање"
+    },
+    {
+      "surface": "יצעעק",
+      "gloss": "извика"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "кон мене"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слушање"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ќе го слушам"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "викот негов"
+    }
+  ],
+  "timestamp": "2026-10-19T21:01:50.146485273Z",
+  "model": "glm-5.3"
+}

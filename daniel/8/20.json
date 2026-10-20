@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨тие⟩",
+      "rationale": "хебрејскиот бара само спуштање: „овенот … кралевите“ — македонскиот бара демонстратив за да се врзе"
+    },
+    {
+      "kind": "substitution",
+      "subject": "поседувачот на роговите",
+      "rationale": "בעל הקרנים е буквално „господар на роговите“ — зачуван сликата, не „оној со два рога“"
+    }
+  ],
+  "translation": "Овенот што го виде, поседувачот на роговите — ⟨тие⟩ се кралевите на Мадај и Перис.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b79ab87780cf7b9f740bd9afe9a8f5a3b37948d8fddfb1eaf173642ba8edb2b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/8\/17-20.1792456148840.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "овенот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "го виде"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "поседувачот"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "на роговите"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "кралевите"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Мадај"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "и Перис"
+    }
+  ],
+  "timestamp": "2026-10-20T00:29:08.841163818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "меѓу добро и меѓу зло",
+      "rationale": "повторениот בין…ובין е хебрејска конструкција за 'дали е добро или зло'"
+    }
+  ],
+  "translation": "И ако некој човек го посвети ⟨את⟩ домот свој како свето за Јахве, свештеникот нека го процени ⟨את⟩ него — меѓу добро и меѓу зло; како што ќе го процени свештеникот, така нека остане.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "68deb97bb83a2aab8f0112506c8993e336c062baee5712271b279b61e973340e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/27\/13-16.1792444565935.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "и ако некој човек"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "посвети"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "домот свој"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "домот свој"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "како свето"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Јахве"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "нека го процени"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "בין",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и меѓу"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "ќе го процени"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него (свештеникот)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "нека остане"
+    }
+  ],
+  "timestamp": "2026-10-19T21:16:05.938457990Z",
+  "model": "glm-5.3"
+}

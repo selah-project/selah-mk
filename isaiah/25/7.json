@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 25:7",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פני הלוט הלוט",
+      "rationale": "Исти согласни הלוט — именка „покривка“ и партисип „наметната“ — буквален игри што преводите мора да го раздвојат."
+    },
+    {
+      "kind": "elision",
+      "subject": "פני",
+      "rationale": "„лицето на покривката“ е хебрејска конструкција; македонскиот се заглавува, па „лицето“ се спојува со покривката."
+    }
+  ],
+  "translation": "И ќе проголта на оваа планина покривката — покривката наметната на сите народи — и превезот распрострен на сите племиња.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "37da0810a92eda810ba0118502593c87eb368b9bc2b2975b94b8f4c1321f3e5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/25\/5-8.1792449866971.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "и ќе проголта"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на планината"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето на"
+    },
+    {
+      "surface": "הלוט",
+      "gloss": "покривката"
+    },
+    {
+      "surface": "הלוט",
+      "gloss": "наметната"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "והמסכה",
+      "gloss": "и превезот"
+    },
+    {
+      "surface": "הנסוכה",
+      "gloss": "распрострен"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "племиња"
+    }
+  ],
+  "timestamp": "2026-10-19T22:44:26.974204522Z",
+  "model": "glm-5.3"
+}

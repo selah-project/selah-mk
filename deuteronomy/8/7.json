@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 8:7",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עינת",
+      "rationale": "Изворите се буквално 'очи' (עין) — окото на земјата; сликата се губи во 'извори'."
+    },
+    {
+      "kind": "you",
+      "subject": "те воведува",
+      "rationale": "Обраќање кон Јисраел за земјата во која се воведува."
+    }
+  ],
+  "translation": "Зашто Јахве, твојот Елохим, те воведува во добра земја — земја на потоци од вода, извори и бездни што извираат во долината и во планината.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c27dabee088dc1fb09f9df2aadcbfbf6da9496268d9d172abb055ed4a69efd83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/8\/5-8.1792445450359.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "מביאך",
+      "gloss": "те воведува"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "потоци"
+    },
+    {
+      "surface": "מים",
+      "gloss": "од вода"
+    },
+    {
+      "surface": "עינת",
+      "gloss": "извори"
+    },
+    {
+      "surface": "ותהמת",
+      "gloss": "и бездни"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "што извираат"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "во долината"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "и во планината"
+    }
+  ],
+  "timestamp": "2026-10-19T21:30:50.360987784Z",
+  "model": "glm-5.3"
+}

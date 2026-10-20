@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירא",
+      "rationale": "игра на зборови во приказната: Јосеф се бои од Елохим, браќата не се бојале кога го продале"
+    }
+  ],
+  "translation": "И во третиот ден Јосеф им рече: Ова направете и ќе живеете — ⟨את⟩ Елохим се јас бојам.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "26283d9d22ee65d9a67f40b8071a2bd516941e8f316b2d724e8f5401fc29bd9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/42\/18-20.1792447638815.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третиот"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направете"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "и ќе живеете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елохим"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "се бојам"
+    }
+  ],
+  "timestamp": "2026-10-19T22:07:18.816470378Z",
+  "model": "glm-5.3"
+}

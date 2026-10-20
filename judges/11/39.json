@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "judges 11:39",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויעש לה את נדרו",
+      "rationale": "Текстот само вели „ѝ го изврши заветот“ — дали Јифтах ја заколал или ја посветил на безбрачна служба, повекето преведувачи се поделени."
+    },
+    {
+      "kind": "measurement",
+      "subject": "два месеца",
+      "rationale": "Рокот од два месеца го носи целиот наратив."
+    }
+  ],
+  "translation": "И биде на крајот од два месеца, та се врати кај татко и, и тој ѝ го изврши ⟨את⟩ заветот свој што го заветил; и таа не позна маж. И стана обичај во Јисраел:",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2626af3e011c4bd3b510093a844cea3e024ae75a459f9767e4f141370832ff63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/11\/37-40.1792446501919.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "на крајот"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "месеца"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "та се врати"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "татко и"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и изврши"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ѝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "заветот свој"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "заветот свој"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "го заветил"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "и таа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "позна"
+    },
+    {
+      "surface": "איש",
+      "gloss": "маж"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "חק",
+      "gloss": "обичај"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "во Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T21:48:21.920675921Z",
+  "model": "glm-5.3"
+}

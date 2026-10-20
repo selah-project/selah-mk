@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 3:20",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "Акцентското הם е покажано со македонскиот сврзник „се“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "список на семејства",
+      "rationale": "Завршно броене на левитските семејства по домовите на татковците."
+    }
+  ],
+  "translation": "А синовите на Мерари по нивните семејства: Махли и Муши. Овие се семејствата на Леви според домовите на нивните татковци.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f89feb74718452824a5abb5ced7a04b5707ec384c9b809b9654b4b6051610fe0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/3\/17-20.1792444616179.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синовите"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "на Мерари"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "по нивните семејства"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "и Муши"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Овие"
+    },
+    {
+      "surface": "הם",
+      "gloss": "се"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "семејствата"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "на Леви"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "според домовите"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "на нивните татковци"
+    }
+  ],
+  "timestamp": "2026-10-19T21:16:56.180349058Z",
+  "model": "glm-5.3"
+}

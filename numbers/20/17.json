@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 20:17",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דרך המלך",
+      "rationale": "„царски пат“ — јавен главен пат, не пат во сопственост на еден цар"
+    },
+    {
+      "kind": "you",
+      "subject": "до Едом",
+      "rationale": "директно обраќање на пратениците до едомскиот цар"
+    }
+  ],
+  "translation": "Нека минеме, те молиме, низ твојата земја — нема да минеме низ нива ни низ лозје, и нема да пиеме вода од бунар; по царскиот пат ќе одиме, нема да свиеме ниту десно ниту лево, додека не ја минеме твојата граница.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9af9ff2cff5177029db8802adaee8441a2456d1e70babf33fc0d3f59f464e148",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/20\/17-20.1792444955002.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נעברה",
+      "gloss": "нека минеме"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молиме"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "низ твојата земја"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "נעבר",
+      "gloss": "да минеме"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "низ нива"
+    },
+    {
+      "surface": "ובכרם",
+      "gloss": "ни низ лозје"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "да пиеме"
+    },
+    {
+      "surface": "מי",
+      "gloss": "вода"
+    },
+    {
+      "surface": "באר",
+      "gloss": "од бунар"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пат"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царскиот"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ќе одиме"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "да свиеме"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "десно"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ни лево"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨што⟩"
+    },
+    {
+      "surface": "נעבר",
+      "gloss": "не ја минеме"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "твојата граница"
+    }
+  ],
+  "timestamp": "2026-10-19T21:22:35.003089628Z",
+  "model": "glm-5.3"
+}

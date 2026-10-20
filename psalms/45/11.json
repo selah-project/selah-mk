@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Слушни, ѕерко",
+      "rationale": "Низ императиви текстот ја повикува невестата — гласот на дворот ѝ се обраќа директно."
+    },
+    {
+      "kind": "you",
+      "subject": "до невестата",
+      "rationale": "Целиот стих е директен говор до ќерката-невеста."
+    }
+  ],
+  "translation": "Слушни, ќерко, и види, и приклони го твоето уво; и заборави го твојот народ и домот на твојот татко —",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/45\/9-12.1792453252683.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Слушни"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерко"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "и види"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "и приклони"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "твоето уво"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "и заборави"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "твојот народ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и домот"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "на твојот татко"
+    }
+  ],
+  "timestamp": "2026-10-19T23:40:52.684046551Z",
+  "model": "glm-5.3"
+}

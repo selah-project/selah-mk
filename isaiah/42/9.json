@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ги",
+      "rationale": "македонскиот бара директен објект каузитивниот глагол אשמיע"
+    },
+    {
+      "kind": "substitution",
+      "subject": "да никнат",
+      "rationale": "תצמחנה е ботаничка слика 'да израстат\/проклевнат', задржана со 'никнат'"
+    }
+  ],
+  "translation": "Еве, првите нешта дошле, а нови ја објавувам: пред да никнат, ќе ви ⟨ги⟩ соопштам.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "283b51a72dc1ace145851846f3e4ecab8c5d3280644b94ba304ac661891ebf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/42\/9-12.1792450084674.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "првите нешта"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дошле"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "а нови"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "објавувам"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "пред"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "да никнат"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "ќе соопштам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ви — објектот на соопштувањето"
+    }
+  ],
+  "timestamp": "2026-10-19T22:48:04.674886027Z",
+  "model": "glm-5.3"
+}

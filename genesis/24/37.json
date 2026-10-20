@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 24:37",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до слугата",
+      "rationale": "Забраната е директна заповед упатена на слугата."
+    },
+    {
+      "kind": "substitution",
+      "subject": "господарот мој",
+      "rationale": "אדני за човек е 'господар', не Адонај — овде е Аврахам."
+    }
+  ],
+  "translation": "И господарот мој ме заколна, велејќи: Не земај жена за синот ми од ќерките на Кенаанецот, во чияшто земја јас живеам.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9fab278f579303705eaf6a7e942b8750abc3759fa8f436964af1f5be934eb3a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/24\/37-40.1792442834429.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבעני",
+      "gloss": "ме заколна"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господарот мој"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "земај"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "за синот ми"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "од ќерките"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "на Кенаанецот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "во чияшто"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "живеам"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "во земјата негова"
+    }
+  ],
+  "timestamp": "2026-10-19T20:47:14.430783072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула во нишаловата изјава"
+    },
+    {
+      "kind": "substitution",
+      "subject": "рака",
+      "rationale": "זרוע е мишка\/подигната рака како слика на сила, не обична длан"
+    }
+  ],
+  "translation": "Тебе ⟨е⟩ рака со моќ; силна ⟨е⟩ раката Твоја, високо подигната ⟨е⟩ десницата Твоја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/89\/13-16.1792453724313.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Тебе"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "рака"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "моќ"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "силна"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "раката Твоја"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "високо подигната"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "десницата Твоја"
+    }
+  ],
+  "timestamp": "2026-10-19T23:48:44.314416226Z",
+  "model": "glm-5.3"
+}

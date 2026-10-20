@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 11:1",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "хебрејскиот ויהי е прикажан со имперфектен глагол, македонскиот бара помошен глагол"
+    },
+    {
+      "kind": "substitution",
+      "subject": "гнев",
+      "rationale": "אפו буквално е 'неговиот нос\/носница' — слика на гнев што дише"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ги изеде",
+      "rationale": "ותאכל בקצה може да значи и 'изеде во крајниот дел' без explicitен објект"
+    }
+  ],
+  "translation": "И ⟨се⟩ случи народот да биде како оние што се жалат за зло во ушите на Јахве; и Јахве слушна, и неговиот гнев се разгори, и оган од Јахве пламна меѓу нив и ги изеде ⟨את⟩ крајните делови на логорот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "fd51f1e820ee315e840b1cf588ecb9b784e380197e5fd93f63b3716054f7fef0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/11\/1-4.1792444767918.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И ⟨се⟩ случи"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "כמתאננים",
+      "gloss": "како оние што се жалат"
+    },
+    {
+      "surface": "רע",
+      "gloss": "за зло"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "во ушите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "и слушна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "и се разгори"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "неговиот гнев"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "и пламна"
+    },
+    {
+      "surface": "בם",
+      "gloss": "меѓу нив"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оган"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "од Јахве"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "и ги изеде"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "крајните делови на"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логорот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:19:27.920188343Z",
+  "model": "glm-5.3"
+}

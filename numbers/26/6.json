@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "попис на родови",
+      "rationale": "Продолжение на пописната листа на рубеновите родови."
+    }
+  ],
+  "translation": "на Хецрон — родот на Хецронијците; на Карми — родот на Кармијците.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "7a7213429dfc96e8641364df9b12e3e08dd04eed11d7435782d0ff449643779c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/26\/5-8.1792445029113.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "на Хецрон"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "родот"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "на Хецронијците"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "на Карми"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "родот"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "на Кармијците"
+    }
+  ],
+  "timestamp": "2026-10-19T21:23:49.115721611Z",
+  "model": "glm-5.3"
+}

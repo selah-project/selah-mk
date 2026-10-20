@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נסיתם\/מסה",
+      "rationale": "истиот корен נסה 'искушуваш' и местото Маса ('искушување') — играта е видлива и на македонски"
+    }
+  ],
+  "translation": "Не Го искушувајте ⟨את⟩ Јахве, вашиот Елохим, како што Го искушавте во Маса.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/6\/13-16.1792445344968.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "искушувајте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "вашиот Елохим"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "искушавте"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "во Маса"
+    }
+  ],
+  "timestamp": "2026-10-19T21:29:04.970057050Z",
+  "model": "glm-5.3"
+}

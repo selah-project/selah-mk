@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "од",
+      "rationale": "хебрејскиот вели само „во небесата“; македонскиот бара „од“ за слушањето од горе"
+    }
+  ],
+  "translation": "и да слушнеш од небесата, местото на твоето живеалиште, ⟨את⟩ нивната молитва и ⟨את⟩ нивното молење, и да го правиш нивниот суд,",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c317954c206d9fdfc9eedfab4adf3151c61469722d4752a1a835766769f89269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/8\/49-52.1792448726066.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "и да слушнеш"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "од небесата"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "местото"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "на твоето живеалиште"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нивната молитва"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "нивната молитва"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "нивното молење"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "нивното молење"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "и да го правиш"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "нивниот суд"
+    }
+  ],
+  "timestamp": "2026-10-19T22:25:26.067060352Z",
+  "model": "glm-5.3"
+}

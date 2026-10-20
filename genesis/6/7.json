@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "избришам",
+      "rationale": "מחה е буквално „да избрише (како со пишување во восок)“ — не „уништи“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדם \/ האדמה",
+      "rationale": "човек (адам) и земја (адама) — создаден од истата црвена почва, звукот се повторува во стихот"
+    }
+  ],
+  "translation": "И рече Јахве: Ќе ⟨ги⟩ избришам ⟨את⟩ луѓето што создадов од лицето на земјата — од човек до добиток, до влекачи и до птици од небесата — зашто се кајам што ги направив.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "96d5464a5c116d29fecee872abbecee17a49bd8390ddbbee3285e46954280c0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/6\/5-8.1792442451194.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "Ќе ⟨ги⟩ избришам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "луѓето"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "луѓето"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "создадов"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "од човек"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "добиток"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "влекачи"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "птици"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "од небесата"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "се кајам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ги направив"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:51.214145070Z",
+  "model": "glm-5.3"
+}

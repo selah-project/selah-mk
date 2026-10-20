@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "гневот",
+      "rationale": "אף буквално е нос\/носник, пренесено гневен излив"
+    },
+    {
+      "kind": "crux",
+      "subject": "משלחת",
+      "rationale": "'испраќање\/мисија' vs 'чета' (како дел од מלאכי): испратена чета ангели на зло"
+    },
+    {
+      "kind": "hapax",
+      "subject": "משלחת",
+      "rationale": "огласен облик од корен שלח што стои само тука во оваа смисла во Танах"
+    }
+  ],
+  "translation": "Испрати врз нив жарта на гневот свој — јарост и бес и неволја, испраќање на ангели на зло.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/78\/49-52.1792453572164.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Испрати"
+    },
+    {
+      "surface": "בם",
+      "gloss": "врз нив"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "жарта"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "на гневот свој"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "јарост"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "и бес"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "и неволја"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "испраќање"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ангели"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "на зло"
+    }
+  ],
+  "timestamp": "2026-10-19T23:46:12.164713227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 146,
+  "ref": "psalms 119:146",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "Молитвен обраќање: повик за спасение."
+    }
+  ],
+  "translation": "Повеќав кон тебе — спаси ме, и ќе ги пазам твоите сведоштва.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "318ede7d3cbe732d905715070abea530c78d6062f0166a563b3870d56c119192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/145-148.1792454023160.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קראתיך",
+      "gloss": "Повеќав кон тебе"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "спаси ме"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "и ќе ги пазам"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "твоите сведоштва"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:43.162582791Z",
+  "model": "glm-5.3"
+}

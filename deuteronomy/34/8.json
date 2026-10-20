@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "триесет дена",
+      "rationale": "одредено време на жалост по Моше"
+    }
+  ],
+  "translation": "И плачеа синовите Јисраелови ⟨את⟩ Моше во Аравот Моавски триесет дена; и се исполнија деновите на плачот и жалоста за Моше.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "03f4fddf3f8c4eb367c85ded4bf2314bddad1e38aa2eb2110b57cdca35216597",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/34\/5-8.1792445861439.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "и плачеа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелови"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "во Аравот"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моавски"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "триесет"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дена"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "и се исполнија"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "деновите"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "на плачот"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "и жалоста"
+    },
+    {
+      "surface": "משה",
+      "gloss": "за Моше"
+    }
+  ],
+  "timestamp": "2026-10-19T21:37:41.440788826Z",
+  "model": "glm-5.3"
+}

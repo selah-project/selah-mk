@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 9:3",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "мека честичка 'те молам\/сега', мелodija што македонскиот ја губи"
+    },
+    {
+      "kind": "invitation",
+      "subject": "командите на Кише",
+      "rationale": "четири императиви еден по друг: земи, стани, оди, барај"
+    }
+  ],
+  "translation": "И се изгубија магариците на Кише, таткото на Шаул. И рече Кише на Шаул, синот му: Земи сега ⟨את⟩ со тебе ⟨את⟩ еден од момчињата, и стани, оди, барај ги ⟨את⟩ магариците.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "06b6e753e2393e863a91a5c6cc68639c70db572f354210b6cadfd11bf7fd0069",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/9\/1-4.1792446720599.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאבדנה",
+      "gloss": "И се изгубија"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "магариците"
+    },
+    {
+      "surface": "לקיש",
+      "gloss": "на Кише"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "таткото"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "на Шаул"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Кише"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот му"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Земи"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сега"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ со тебе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "еден од момчињата"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "од момчињата"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "и стани"
+    },
+    {
+      "surface": "לך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "барај"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "магариците"
+    },
+    {
+      "surface": "האתנת",
+      "gloss": "магариците"
+    }
+  ],
+  "timestamp": "2026-10-19T21:52:00.601074474Z",
+  "model": "glm-5.3"
+}

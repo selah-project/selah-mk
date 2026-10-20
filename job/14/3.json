@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "кон Елохим",
+      "rationale": "Јов директно му се обраќа на Бога со прашање за суд"
+    },
+    {
+      "kind": "substitution",
+      "subject": "очи Твои",
+      "rationale": "עינך е конструкт со член — „твоето око“ еднина; македонскиот користи множина за очи"
+    }
+  ],
+  "translation": "Дури и на таков Ги отвораш очите, и ⟨את⟩ мене ме доведуваш на суд кај Тебе?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/14\/1-4.1792454965795.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Дури и"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "זה",
+      "gloss": "таков"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "отвораш"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "очите Твои"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "и ⟨את⟩",
+      "marks": "мене"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "доведуваш"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "на суд"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "кај Тебе"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:25.796382234Z",
+  "model": "glm-5.3"
+}

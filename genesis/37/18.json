@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "се заговорничаа",
+      "rationale": "נכל е дејство на превара и предавство, не само говорење"
+    },
+    {
+      "kind": "you",
+      "subject": "браќата",
+      "rationale": "исказ меѓу браќата за Јосеф, директен заговор"
+    }
+  ],
+  "translation": "И го видоа ⟨את⟩ оддалеку, и уште додека не се приближеше кон нив, се заговорничаа против него ⟨את⟩ да го убијат.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a7d6508456d11b21511b4b0bad432b90749fb503a67eb1ab5c90b90c9b6f9314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/37\/18-20.1792447633839.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "и го видоа"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "оддалеку"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "и уште додека не"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "се приближеше"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "кон нив"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "се заговорничаа"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "да го убијат"
+    }
+  ],
+  "timestamp": "2026-10-19T22:07:13.841523246Z",
+  "model": "glm-5.3"
+}

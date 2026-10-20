@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 13:12",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וירשם",
+      "rationale": "од корен ירש: 'ги наследи\/зазеде' — 'истера наследувајќи' или само 'ги разоружа'; избрав двојна слика"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Рефаими",
+      "rationale": "הרפאיד — древни великани, задржано како име на народ, не 'великани'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "територија",
+      "rationale": "попис на царството на Ог како дел од граничниот опис"
+    }
+  ],
+  "translation": "целото царство на Ог во Башан, што царуваше во Аштарот и во Едреи — тој остана од остатокот од Рефаимите — и Моше ги порази и ги истера ⟨ги⟩ наследувајќи ⟨ги⟩:",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "59ef515b45b2be58a97755116e9fcd36a5ebb3feec3bbcc1091d8cfd672b384a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/13\/9-12.1792446077547.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "целото"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "царство"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "на Ог"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "во Башан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царуваше"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "во Аштарот"
+    },
+    {
+      "surface": "ובאדרעי",
+      "gloss": "и во Едреи"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "остана"
+    },
+    {
+      "surface": "מיתר",
+      "gloss": "од остатокот"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "од Рефаимите"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "и ги порази"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וירשם",
+      "gloss": "и ги истера наследувајќи ги"
+    }
+  ],
+  "timestamp": "2026-10-19T21:41:17.549011574Z",
+  "model": "glm-5.3"
+}

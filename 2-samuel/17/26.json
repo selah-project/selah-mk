@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 17:26",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот возвратен глагол; хебрејскиот глагол е едечен и со два субъекта."
+    },
+    {
+      "kind": "measurement",
+      "subject": "логорување",
+      "rationale": "военото логорување ја бележи географијата на походот преку Јордан."
+    }
+  ],
+  "translation": "И Јисраел и Авшалом се логорија во земјата Гилад.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "9342efdd948b0524c34945d52739feee20d4ed996c5472f6aae5ca98303c976e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/17\/25-28.1792448336730.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "се логорија"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "и Авшалом"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гилад"
+    }
+  ],
+  "timestamp": "2026-10-19T22:18:56.732494304Z",
+  "model": "glm-5.3"
+}

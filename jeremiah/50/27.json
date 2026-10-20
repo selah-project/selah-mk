@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 50:27",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "волови",
+      "rationale": "פריה — млади волови; метафора за воините\/жителите на Вавилон како стадо за колење"
+    },
+    {
+      "kind": "substitution",
+      "subject": "посетена",
+      "rationale": "פקדה е „посета“ — официјалноMnожење\/казна од Јахве, не само „казна“"
+    }
+  ],
+  "translation": "Уништете ги сите волови нејзини; нека слегаат на колење. Тешко ним, зашто дојде денот нивни, времето на посетената нивна.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6752a40ad8c78f2c78c92364635ca72c789f6225c89e505b0e3fd44753ff8e33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/50\/25-28.1792451250912.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרבו",
+      "gloss": "Уништете ги"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "волови нејзини"
+    },
+    {
+      "surface": "יירדו",
+      "gloss": "нека слегаат"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "на колење"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Тешко"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ним"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "денот нивни"
+    },
+    {
+      "surface": "עת",
+      "gloss": "времето"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "на посетената нивна"
+    }
+  ],
+  "timestamp": "2026-10-19T23:07:30.913888666Z",
+  "model": "glm-5.3"
+}

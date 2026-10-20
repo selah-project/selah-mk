@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 23:24",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גול\/יגול\/יולד",
+      "rationale": "тројна игра на корените г-л и ילד: радост\/да радува\/да роди — звучната врска е изгубена во македонскиот"
+    },
+    {
+      "kind": "hapax",
+      "subject": "גול",
+      "rationale": "именката 'радост' од корен גיל се јавува само тука во Танахот"
+    }
+  ],
+  "translation": "Со радост нека се весели таткото на праведниот; оној што роди мудар ќе се зарадува во него.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e92b0a7b96c6ca27ad0ed2e7d7f28bd931ca0350ca145a23445f7edfddcbb74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/23\/21-24.1792454627202.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "Со радост"
+    },
+    {
+      "surface": "יגול",
+      "gloss": "нека се весели"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "таткото"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "на праведниот"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "оној што роди"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудар"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "ќе се зарадува"
+    },
+    {
+      "surface": "בו",
+      "gloss": "во него"
+    }
+  ],
+  "timestamp": "2026-10-20T00:03:47.203270045Z",
+  "model": "glm-5.3"
+}

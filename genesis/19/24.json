@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גפרית",
+      "rationale": "зборот за 'сулфур\/смола' е редок; буквално 'чемпрес-смола', запалив како сулфур"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Јахве...од Јахве",
+      "rationale": "Името Јахве стои двапати — Оној што пушта дожд и Оној од небесата — повторување со тежина што преведувачите често го скратуваат"
+    }
+  ],
+  "translation": "И Јахве направи да врне врз Седом и врз Амора сулфур и оган, ⟨од⟩ ⟨את⟩ Јахве, од небесата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1b9c393f0642792d16d44d3439edc797b2e9bf6c9bea95040bc345850880ab16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/19\/21-24.1792442576229.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "И Јахве"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "направи да врне"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Седом"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Амора"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "сулфур"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "и оган"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "од Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесата"
+    }
+  ],
+  "timestamp": "2026-10-19T20:42:56.254230569Z",
+  "model": "glm-5.3"
+}

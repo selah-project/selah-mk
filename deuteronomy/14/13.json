@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והראה",
+      "rationale": "Птица позната само по традиција: лешинар, глувар или милва — точниот вид е непознат."
+    },
+    {
+      "kind": "hapax",
+      "subject": "דיה",
+      "rationale": "Ретки називи на грабливки — видовите се неодредливи и во македонскиот."
+    }
+  ],
+  "translation": "и глуварот, и ⟨את⟩ соколот, и соколот-лешинар според видот свој",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f5d836106688e4b60f37766d428d2e754de45d182a38bd9c71a090c89893bada",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/14\/13-16.1792445484605.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "глуварот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "соколот"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "соколот"
+    },
+    {
+      "surface": "והדיחה",
+      "gloss": "соколот-лешинар"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "според видот свој"
+    }
+  ],
+  "timestamp": "2026-10-19T21:31:24.605618121Z",
+  "model": "glm-5.3"
+}

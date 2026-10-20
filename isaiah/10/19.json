@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 10:19",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "на број",
+      "rationale": "останатите дрвја стануваат изброиви — број што дете може да го запише"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מספר יהיו",
+      "rationale": "букв. 'на број ќе бидат' — толку малку што се бројат"
+    }
+  ],
+  "translation": "И остатокот од дрвјата на шумата негова на број ⟨ќе бидат⟩, и дете ќе ги напише.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "463a114896c726a1f0321a9c1319b9fc364e2ace3a3db4b5129531de5e865f21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/10\/18-19.1792458200859.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "и остатокот"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрвјата"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "на шумата негова"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "на број"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ќе бидат"
+    },
+    {
+      "surface": "ו�ער",
+      "gloss": "и дете"
+    },
+    {
+      "surface": "יכתבם",
+      "gloss": "ќе ги напише"
+    }
+  ],
+  "timestamp": "2026-10-20T01:03:20.860700481Z",
+  "model": "glm-5.3"
+}

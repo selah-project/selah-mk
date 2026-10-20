@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "боговите",
+      "rationale": "אלהי со мала буква — богови на народите и идолите, не Елохим"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "списокот на материјали",
+      "rationale": "шест материјали во паѓачка вредност (злато→камен) — стилска фрла на апсурдността на идолопоклонството"
+    }
+  ],
+  "translation": "Пија вино и фалеа богови од злато и од сребро, од бакар, од железо, од дрво и од камен.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0748b5f09da5ef67d67c82e650623ccc2f45c5c85e609034e46535625deb7528",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/5\/1-4.1792456083892.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "пија"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "вино"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "и фалеа"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "боговите"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "од злато"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "и од сребро"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "од бакар"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "од железо"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "од дрво"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "и од камен"
+    }
+  ],
+  "timestamp": "2026-10-20T00:28:03.894955112Z",
+  "model": "glm-5.3"
+}

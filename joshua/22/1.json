@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 22:1",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "племе",
+      "rationale": "מטה е буквално „прачка\/стап“, пренесено „племе“ — сликата на стапот е изгубена."
+    }
+  ],
+  "translation": "Тогаш Јехошуа ги повика ⟨את⟩ Рубенците и Гадците и половината од племето Манаше.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ca54f9ab1978407f5adefa5fe4c96feb1e825526a2f5c1b2fcc8ccef35879936",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/22\/1-4.1792446228265.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогаш"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "повика"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Рубенците"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "Гадците"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "половината од"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "племето"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Манаше"
+    }
+  ],
+  "timestamp": "2026-10-19T21:43:48.266382523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "лепило",
+      "rationale": "צפיחת — рамна тенка пита; нема точен македонски збор, дадена е сликата."
+    },
+    {
+      "kind": "hapax",
+      "subject": "צפיחת",
+      "rationale": "Зборот се јавува ретко во Танахот, само во врска со манот."
+    }
+  ],
+  "translation": "И домот Јисраелов го нарече ⟨את⟩ името негово ман; а тоа беше како семе од коријандер, бело, и вкусот негов како лепило ⟨е⟩ со мед.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "dc64eb92fd66c561715791ee4c52d4ee26b946a0cf6c7b958822b20cca9f2675",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/16\/29-32.1792443636111.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "го нарече"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "името негово"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името негово"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ман"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а тоа"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "како семе"
+    },
+    {
+      "surface": "גד",
+      "gloss": "од коријандер"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "бело"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "и вкусот негов"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "како лепило"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "со мед"
+    }
+  ],
+  "timestamp": "2026-10-19T21:00:36.123822802Z",
+  "model": "glm-5.3"
+}

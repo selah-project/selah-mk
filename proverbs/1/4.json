@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערמה",
+      "rationale": "истиот збор значи лукавост (лошо) и расудливост (добро) — тука добро; споени два збора за еден хебрејски"
+    },
+    {
+      "kind": "crux",
+      "subject": "מזמה",
+      "rationale": "план — обично лош (злоглобност), тука добро: раздумност"
+    }
+  ],
+  "translation": "за да им се даде на наивните лукавост-расудливост, а на момчето знаење и промисленост:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2cca88d6c846f7141918ca5763a5e9df5eccf4f1fb0f0a227eb2c343c45abd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/1\/1-4.1792454236231.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "за да им се даде"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "на наивните"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "лукавост-расудливост"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "а на момчето"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знаење"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "и промисленост"
+    }
+  ],
+  "timestamp": "2026-10-19T23:57:16.232901610Z",
+  "model": "glm-5.3"
+}

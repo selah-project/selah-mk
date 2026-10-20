@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 30:30",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ноздри",
+      "rationale": "אף е нос\/ноздри — сликата на гневот како здив низ носот, обично се преведува само „гневен“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זעף אף",
+      "rationale": "два збора за гнев споени во една слика — бесни ноздри — соединето во еден израз."
+    }
+  ],
+  "translation": "И Јахве ќе го даде да се чуе ⟨את⟩ величеството на гласот свој, и слегувањето на раката своја ќе покаже — со разгневени ноздри и со пламен на оган што голта, кршење-бура и поплава и камен град.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "02b6dac126d9458103a01bf15ad7ce06707042cdf54f09cc78baea1e1808a9b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/30\/29-32.1792449952291.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשמיע",
+      "gloss": "ќе го даде да се чуе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "величеството"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "величеството"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "на гласот свој"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "и слегувањето"
+    },
+    {
+      "surface": "זרועו",
+      "gloss": "на раката своја"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ќе покаже"
+    },
+    {
+      "surface": "בזעף",
+      "gloss": "со разгневени"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ноздри"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "и со пламен"
+    },
+    {
+      "surface": "אש",
+      "gloss": "на оган"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "што голта"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "кршење-бура"
+    },
+    {
+      "surface": "וזרם",
+      "gloss": "и поплава"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "и камен"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "град"
+    }
+  ],
+  "timestamp": "2026-10-19T22:45:52.295972415Z",
+  "model": "glm-5.3"
+}

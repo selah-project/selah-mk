@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 4:20",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבר על שבר \/ שדדה–שדדו",
+      "rationale": "двојното 'крш на крш' и повторениот корен שדד 'опустошува' — ритамот на катастрофата"
+    },
+    {
+      "kind": "addition",
+      "subject": "е повикано",
+      "rationale": "пасивниот глагол бара помошен глагол во македонскиот"
+    }
+  ],
+  "translation": "Крш на крш е повикано, зашто опусте сета земја; одненадеж опустеа шаторите мои, во миг — завесите мои.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f64b7c5124f0690d9c8a82eacb65ded98a52430a990f76cc3edbb572894588cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/4\/17-20.1792450415323.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "крш"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "крш"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "е повикано"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "опусте"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сета"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "одненадеж"
+    },
+    {
+      "surface": "שדדו",
+      "gloss": "опустеа"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "шаторите мои"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "во миг"
+    },
+    {
+      "surface": "יריעתי",
+      "gloss": "завесите мои"
+    }
+  ],
+  "timestamp": "2026-10-19T22:53:35.324533222Z",
+  "model": "glm-5.3"
+}

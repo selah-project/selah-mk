@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 22:6",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Израел",
+      "rationale": "заповед упатена директно на слушателот ('пред тебе', 'да не земеш')"
+    }
+  ],
+  "translation": "Ако ти се случи пред тебе гнездо на птица по патот, на некое дрво или на земјата, пилишта или јајца, а мајката лежи врз пилиштата или врз јајцата — да не ја земеш мајката врз децата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "794ddb89b076f14dcfc10eeb491ad0a07e7a04fda1f028af580c0d94c566f42e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/22\/5-8.1792445632840.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ти се случи"
+    },
+    {
+      "surface": "קן",
+      "gloss": "гнездо"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "на птица"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред тебе"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "по патот"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "на некое"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "אפרחים",
+      "gloss": "пилишта"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "ביצים",
+      "gloss": "јајца"
+    },
+    {
+      "surface": "והאם",
+      "gloss": "а мајката"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "лежи"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "האפרחים",
+      "gloss": "пилиштата"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "הביצים",
+      "gloss": "јајцата"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "да земеш"
+    },
+    {
+      "surface": "האם",
+      "gloss": "мајката"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "децата"
+    }
+  ],
+  "timestamp": "2026-10-19T21:33:52.841929092Z",
+  "model": "glm-5.3"
+}

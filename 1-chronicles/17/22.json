@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עמך ... לעם",
+      "rationale": "коренот עם се повторува: „народот твој за народ“ — повторување задржано во преводот"
+    },
+    {
+      "kind": "you",
+      "subject": "молитва до Јахве",
+      "rationale": "директно обраќање: „и ти, Јахве“"
+    }
+  ],
+  "translation": "И го даде ⟨את⟩ народот твој Јисраел на себе за народ довека, и ти, Јахве, им биде за Елохим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "795360cd02e06e560c7e7eb85f5784f0f9d670ae1bcb2b3e58a932560db1337b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/17\/21-24.1792457100676.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "И го даде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народот твој Јисраел"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "народот твој"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "לך",
+      "gloss": "на себе"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "за народ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "век"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "и ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "היית",
+      "gloss": "биде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "за Елохим"
+    }
+  ],
+  "timestamp": "2026-10-20T00:45:00.679208765Z",
+  "model": "glm-5.3"
+}

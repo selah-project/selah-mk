@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קרית ספר",
+      "rationale": "буквално «град-на-книгата»; значењето на старото име е изгубено во транслитерацијата"
+    },
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "хебрејскиот ја нема копулата во оваа именска реченица"
+    }
+  ],
+  "translation": "И се искачи оттаму против жителите на Двир — а името на Двир порано беше Кирјат-Сефер.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0deff7f1ffbe6908a79d4b1594176b47a058f85ff604b3b4af62562b8375d31c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/15\/13-16.1792446149722.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и се искачи"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оттаму"
+    },
+    {
+      "surface": "אל",
+      "gloss": "против"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жителите"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "на Двир"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а името"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "на Двир"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "порано"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кирјат"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Сефер"
+    }
+  ],
+  "timestamp": "2026-10-19T21:42:29.723360374Z",
+  "model": "glm-5.3"
+}

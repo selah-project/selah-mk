@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "три илјади изреки, илјада и пет песни",
+      "rationale": "бројот го мери опусот на Шеломо"
+    }
+  ],
+  "translation": "И зборува три илјади изреки, и песните негови беа илјада и пет.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "fb731ebbbcb892f54cbdc3864d7bf9195565a1dc0c83ffa97c9c18284d178352",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/5\/9-12.1792448552163.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И зборува"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "משל",
+      "gloss": "изреки"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и беа"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "песните негови"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "и илјада"
+    }
+  ],
+  "timestamp": "2026-10-19T22:22:32.166467809Z",
+  "model": "glm-5.3"
+}

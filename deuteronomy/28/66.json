@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "deuteronomy 28:66",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "обесен",
+      "rationale": "תלואים: „виснат\/обесен“ или „несигурен, во недоумица“ — слика на живот на нишка"
+    },
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара"
+    }
+  ],
+  "translation": "И животот твој ќе биде обесен пред тебе, и ќе се плашиш ноќе и дење, и нема да веруваш во животот свој.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2dbf3d38fe4d3302548c486d3fb19d4227a82637b77044601e15319d29dca030",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/28\/65-68.1792445764999.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "животот твој"
+    },
+    {
+      "surface": "תלאים",
+      "gloss": "обесен"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "пред"
+    },
+    {
+      "surface": "ופחדת",
+      "gloss": "и ќе се плашиш"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноќе"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "и дење"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תאמין",
+      "gloss": "ќе веруваш"
+    },
+    {
+      "surface": "בחייך",
+      "gloss": "во животот свој"
+    }
+  ],
+  "timestamp": "2026-10-19T21:36:05.000675554Z",
+  "model": "glm-5.3"
+}

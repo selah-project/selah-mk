@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 16:17",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "морето",
+      "rationale": "הים е 'море' — große бронзена бања во храмот, буквално 'Морето'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מסגרות",
+      "rationale": "од 'огради\/рабни панели' на подножјата; значењето е несигурно"
+    }
+  ],
+  "translation": "И царот Ахаз ги одсече ⟨את⟩ оградите на носилките, и го тргна од нив ⟨את⟩ жарилникот, а ⟨את⟩ морето го симна од бронзените волови што беа под него, и го стави на камен под.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a5cc649ff12461568591e7b1c8d6e1868461dac114d3a43ed9d460bf9604a7bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/16\/17-20.1792449358637.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקצץ",
+      "gloss": "ги одсече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оградите"
+    },
+    {
+      "surface": "המסגרות",
+      "gloss": "оградите"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "на носилките"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "го тргна"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "од нив"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "жарилникот"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "жарилникот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "морето"
+    },
+    {
+      "surface": "הים",
+      "gloss": "морето"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "го симна"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "воловите"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "бронзените"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "беа под него"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "го стави"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מרצפת",
+      "gloss": "под"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "камен"
+    }
+  ],
+  "timestamp": "2026-10-19T22:35:58.638429289Z",
+  "model": "glm-5.3"
+}

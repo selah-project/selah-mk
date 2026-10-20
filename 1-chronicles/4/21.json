@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 4:21",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "платното",
+      "rationale": "הבץ е веројатно 'памучно платно'; еден хебрејски збор, македонскиот бара два"
+    },
+    {
+      "kind": "alternative",
+      "subject": "בית עבדת הבץ",
+      "rationale": "може и 'домувачи на Beit-Ovedat-haButz како место'; YLT чита 'house of the service of fine linen'"
+    }
+  ],
+  "translation": "Синовите на Шела, синот на Јехуда, беа Ер, таткото на Леха, и Лаада, таткото на Мареша, и родовите на домот на работата на ⟨платното⟩, за домот на Ашбеа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3fe14bae32754213ee857013d6908b161dca7898272ba1bbff395ec2629b0fab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/4\/21-24.1792456840133.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовите"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Шела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ер"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "таткото"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Леха"
+    },
+    {
+      "surface": "ולעדה",
+      "gloss": "Лаада"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "таткото"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Мареша"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "родовите"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "работата"
+    },
+    {
+      "surface": "הבץ",
+      "gloss": "платното"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "Ашбеа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:40:40.133997444Z",
+  "model": "glm-5.3"
+}

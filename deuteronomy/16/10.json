@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 16:10",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מסת",
+      "rationale": "מסה значи „изобилно\/според мерата“: KJВ „tribute“, JPS „after the measure“ — избор меѓу дар во изобилство и дар според благословот"
+    }
+  ],
+  "translation": "И ќе направиш празник на седмиците за Јахве, твојот Елохим, според мерата на доброволниот дар од раката твоја, што ќе дадеш, како што те благословува Јахве, твојот Елохим.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "bb34b9172bdacd966f11e5e688dcc25d9234e57f14d6bf7b7b94714e77b58086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/16\/9-12.1792445485268.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ѝ ќе направиш"
+    },
+    {
+      "surface": "חג",
+      "gloss": "празник"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "на седмиците"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "מסת",
+      "gloss": "според мерата"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "на доброволниот дар"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "од раката твоја"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ќе дадеш"
+    },
+    {
+      "surface": "кאשер",
+      "gloss": "како што"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "те благословува"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    }
+  ],
+  "timestamp": "2026-10-19T21:31:25.269205861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "величие",
+      "rationale": "גאון значи и „гордост“ и „величие\/величественост“ — изборот на една страна ја губи другата"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כה … ככה",
+      "rationale": "„така… така“ — повторување што ја врзува сликата на расипаниот појас со судбината на народот"
+    }
+  ],
+  "translation": "Така вели Јахве: На истиот начин ќе го расипам ⟨את⟩ величито на Јуда и ⟨את⟩ големото величие на Јерушалаим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bd6aec26ccd12a368d1825379c6cab6cc631dd4c561700d185da260aefaf1b43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/13\/9-12.1792450594984.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "на истиот начин"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ќе расипам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "величито"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "величие"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуда"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "големото величие"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "величие"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "големото"
+    }
+  ],
+  "timestamp": "2026-10-19T22:56:34.985305283Z",
+  "model": "glm-5.3"
+}

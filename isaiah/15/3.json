@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 15:3",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שק",
+      "rationale": "'Вреќа' (груба мрежеста ткаенина) — обележје на жалост, не преведувано како 'влакно'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ירד בבכי",
+      "rationale": "Буквално 'се симнува со плач' — слика за собирање на жалоста, предадено 'слегуваат во плач'."
+    }
+  ],
+  "translation": "На неговите улици се препашаа со вреќа; на неговите покриви и на неговите плоштади сите ридат, слегуваат во плач.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7178f378870183e04534ee0542956bff203520619acd3145a26c0e7c26b5289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/15\/1-4.1792449714945.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחוצתיו",
+      "gloss": "На неговите улици"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "се препашаа"
+    },
+    {
+      "surface": "שק",
+      "gloss": "со вреќа"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "גגותיה",
+      "gloss": "неговите покриви"
+    },
+    {
+      "surface": "וברחבתיה",
+      "gloss": "и на неговите плоштади"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "ридат"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "слегуваат"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "во плач"
+    }
+  ],
+  "timestamp": "2026-10-19T22:41:54.963974151Z",
+  "model": "glm-5.3"
+}

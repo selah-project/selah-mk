@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "раката своја",
+      "rationale": "להציב ידו е букв. 'да ја постави раката' — да воспостави власт\/господство, задржана буквата слика"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Перат",
+      "rationale": "פרת е Евфрат; се пишува звукот на хебрејскиот според правилото за имиња"
+    }
+  ],
+  "translation": "И Давид го порази ⟨את⟩ Хададезер, царот на Цова, кај Хамат, кога тој одеше да ја постави раката своја кај реката Перат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b66dd8990192fa8811abf5a0dc0f96ffa02afd2855977afc9212a9a28ec156fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/18\/1-4.1792457161890.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "го порази"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хададезер"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Хададезер"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "на Цова"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "кај Хамат"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "кога одеше"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "да ја постави"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "раката своја"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "кај реката"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Перат"
+    }
+  ],
+  "timestamp": "2026-10-20T00:46:01.893191009Z",
+  "model": "glm-5.3"
+}

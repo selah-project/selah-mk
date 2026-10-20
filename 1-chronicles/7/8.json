@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 7:8",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот бара копула во резумативната реченица"
+    },
+    {
+      "kind": "crux",
+      "subject": "Анатот и Алемат",
+      "rationale": "Овде тие се имена на луѓе; подоцна и места со исто име — не се преведуваат"
+    }
+  ],
+  "translation": "И синовите на Вехер: Земира, и Јоаш, и Елиезер, и Елијоенај, и Омри, и Јеремот, и Авија, и Анатот, и Алемат — сите овие се синови на Вехер.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "16a83c5671b50257faeb8a4104133a0e7c802c08886cdec2cdfb1842521e4cff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/7\/5-8.1792456942537.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синовите"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "на Вехер"
+    },
+    {
+      "surface": "זמירה",
+      "gloss": "Земира"
+    },
+    {
+      "surface": "ויועש",
+      "gloss": "и Јоаш"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "и Елиезер"
+    },
+    {
+      "surface": "ואליועיני",
+      "gloss": "и Елијоенај"
+    },
+    {
+      "surface": "ועמרי",
+      "gloss": "и Омри"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "и Јеремот"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "и Авија"
+    },
+    {
+      "surface": "וענתות",
+      "gloss": "и Анатот"
+    },
+    {
+      "surface": "ועלמת",
+      "gloss": "и Алемат"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "на Вехер"
+    }
+  ],
+  "timestamp": "2026-10-20T00:42:22.538741375Z",
+  "model": "glm-5.3"
+}

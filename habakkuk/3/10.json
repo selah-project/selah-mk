@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 3:10",
+  "book": "habakkuk",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бездната",
+      "rationale": "תהום е бранливата првобитна длабочина, не само „длабоко место“"
+    },
+    {
+      "kind": "addition",
+      "subject": "и",
+      "rationale": "македонскиот сврзник меѓу „Те видоа“ и „се затресоа“ — хебрејскиот го нема"
+    }
+  ],
+  "translation": "Те видоа и се затресоа горите, поток од води помина; бездната го даде гласот свој, високо ги крена рацете свои.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7673cd59b19b061289e226810539faed037cb851a321864aae4bac0adbcc1d30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/habakkuk\/3\/9-12.1792452595877.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "Те видоа"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "се затресоа"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "горите"
+    },
+    {
+      "surface": "זרם",
+      "gloss": "поток"
+    },
+    {
+      "surface": "מים",
+      "gloss": "од води"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "помина"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "бездната"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "гласот свој"
+    },
+    {
+      "surface": "רום",
+      "gloss": "високо"
+    },
+    {
+      "surface": "ידיהו",
+      "gloss": "рацете свои"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "крена"
+    }
+  ],
+  "timestamp": "2026-10-19T23:29:55.878812043Z",
+  "model": "glm-5.3"
+}

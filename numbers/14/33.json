@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 14:33",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "пастири",
+      "rationale": "רעים: „пастири“ (BSB) наспроти „скитници“ (KJV\/ASV\/JPS) — коренот значи „да пасат стадо“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "четириесет години",
+      "rationale": "казната е броена: една година за секој ден разгледување."
+    },
+    {
+      "kind": "substitution",
+      "subject": "блудствата",
+      "rationale": "זנות е фигуративно за неверство кон Елохим, буквално „блудство“."
+    }
+  ],
+  "translation": "И синовите ваши ќе бидат пастири во пустина четириесет години, и ќе ги носат ⟨את⟩ блудствата ваши, додека не се истрошат телата ваши во пустина.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3a3b33d9034a9d91091743cf25cd433f1e894fea3b9acb70fc01da0b50f130de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/14\/33-36.1792444856279.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניכם",
+      "gloss": "и синовите ваши"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ќе бидат"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "пастири"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "во пустина"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четириесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "и ќе ги носат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "блудствата ваши"
+    },
+    {
+      "surface": "זנותיכם",
+      "gloss": "блудствата ваши"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "תם",
+      "gloss": "не се истрошат"
+    },
+    {
+      "surface": "פגריכם",
+      "gloss": "телата ваши"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "во пустина"
+    }
+  ],
+  "timestamp": "2026-10-19T21:20:56.279669113Z",
+  "model": "glm-5.3"
+}

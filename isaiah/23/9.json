@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 23:9",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צבאות\/צבי",
+      "rationale": "звукова игра меѓу Цеваот (војските) и цеви (сјајот), изгубена во македонскиот"
+    },
+    {
+      "kind": "predicate-noop",
+      "subject": "speech-act",
+      "rationale": "0"
+    }
+  ],
+  "translation": "Јахве Цеваот го замисли ⟨тоа⟩ — да го посрамоти горделивиот сјај на секоја убавина, да ги омаловажи сите угледни на земјата.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "cd39e4fb876fa6f88b0e785e88ec953e36789bd929c2dac8413aeb8eb10b10f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/23\/9-12.1792449796260.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "יעצה",
+      "gloss": "го замисли"
+    },
+    {
+      "surface": "לחלל",
+      "gloss": "да го посрамоти"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "горделивиот сјај"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секое"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "убавина-величественост"
+    },
+    {
+      "surface": "להקל",
+      "gloss": "да ги омаловажи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "угледни"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:16.262231368Z",
+  "model": "glm-5.3"
+}

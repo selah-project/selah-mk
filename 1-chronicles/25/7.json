@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 25:7",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "двесте осумдесет и осум",
+      "rationale": "Точен број на пејачи, 288"
+    }
+  ],
+  "translation": "И беше бројот им, заедно со браќата нивни, изучени во песна за Јахве, сите што разбираат, двесте осумдесет и осум.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a86308fc40aa8628645eda1de031fae1ac2ab8ecc7876c9fbd5117bb1ae0d20b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/25\/5-8.1792457225157.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "бројот им"
+    },
+    {
+      "surface": "עם",
+      "gloss": "заедно со"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "браќата нивни"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "изучени"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "во песна"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Јахве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "што разбираат"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двесте"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "осумдесет"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "и осум"
+    }
+  ],
+  "timestamp": "2026-10-20T00:47:05.158147731Z",
+  "model": "glm-5.3"
+}

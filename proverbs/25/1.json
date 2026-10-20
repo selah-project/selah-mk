@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот бара сврзник; хебрејскиот го нема"
+    },
+    {
+      "kind": "measurement",
+      "subject": "колофон",
+      "rationale": "насловен стих што брои и припишува збирка изреки"
+    }
+  ],
+  "translation": "И овие ⟨се⟩ изреки на Шеломо, што ги препишаа луѓето на Хизкија, цар на Јехуда.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f992d1e4ab323a6140d847215fa2fe87e2a2def12c7eba812f094039f80e8ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/25\/1-4.1792454732730.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "И"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "изреки"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "ги препишаа"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "луѓето на"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Хизкија"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    }
+  ],
+  "timestamp": "2026-10-20T00:05:32.731273066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 17:1",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "дванаесет илјади мажи",
+      "rationale": "Ахитофел определува бројка на војници за потера."
+    }
+  ],
+  "translation": "И рече Ахитофел на Авшалом: Да изберам сега дванаесет илјади мажи, и ќе станам и ќе го гонам Давид оваа ноќ.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c5265f5c8454ac1fd503e1efb1042473f5112752bd36afd919893792c0b5e837",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/17\/1-4.1792448332089.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ахитофел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "אבחרה",
+      "gloss": "да изберам"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сега"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дванаесет"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "дванаесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мажи"
+    },
+    {
+      "surface": "ואקומה",
+      "gloss": "и ќе станам"
+    },
+    {
+      "surface": "וארדפה",
+      "gloss": "и ќе го гонам"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "оваа ноќ"
+    }
+  ],
+  "timestamp": "2026-10-19T22:18:52.090684788Z",
+  "model": "glm-5.3"
+}

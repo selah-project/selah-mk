@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 19:10",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот нема возвратна честичка кај ואלך"
+    },
+    {
+      "kind": "substitution",
+      "subject": "надеж",
+      "rationale": "תקוה е буквално јаже\/коноп — очекување како нешто врзано"
+    },
+    {
+      "kind": "crux",
+      "subject": "коренот на сликата",
+      "rationale": "ויסע значи „кинати колци и тргна“ — слика на шатор, не дрво; сепак כעץ ја носи сликата на искоренето дрво"
+    }
+  ],
+  "translation": "Ме разурна од сите страни, и ⟨се⟩ изгубив; и ја искорени како ⟨את⟩ дрвото надежта моја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "73763410bb0c133fdc2ba7067d798af746f239bb18033f58ce5030dfa3bc7c86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/19\/9-12.1792455047425.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתצני",
+      "gloss": "Ме разурна"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "од сите страни"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "и изгубив"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "и ја искорени"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "како дрвото"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "надеждата моја"
+    }
+  ],
+  "timestamp": "2026-10-20T00:10:47.426001988Z",
+  "model": "glm-5.3"
+}

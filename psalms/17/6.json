@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "приклони го твоето уво",
+      "rationale": "הט אזנך — букв. 'наклони го увото', хебрејски идиом за внимавање."
+    },
+    {
+      "kind": "you",
+      "subject": "молитва до Ел",
+      "rationale": "Директно обраќање до Бога со императиви."
+    }
+  ],
+  "translation": "Јас те повикав, зашто ти ќе ми одговориш, Ел; приклони го твоето уво кон мене, чуј го мојот збор.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ed42e6203a2b00f92f88a775beee1b6eda610259e05f67698391a94bdb390549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/17\/5-8.1792453030733.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "те повикав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ќе ми одговориш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "הט",
+      "gloss": "приклони"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "твоето уво"
+    },
+    {
+      "surface": "לי",
+      "gloss": "кон мене"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чуј"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "мојот збор"
+    }
+  ],
+  "timestamp": "2026-10-19T23:37:10.734004353Z",
+  "model": "glm-5.3"
+}

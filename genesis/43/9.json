@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 43:9",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אערבנו",
+      "rationale": "ערב — да застанеш како јемство\/жир; буквално „да се вплетам“ за него, дадено како „да го заложам“."
+    },
+    {
+      "kind": "you",
+      "subject": "Јуда му го кажува ова на татко си Јааков\/Јисраел",
+      "rationale": "директен говор кон конкретен слушател."
+    }
+  ],
+  "translation": "Јас ќе го заложам; од мојата рака ќе го побараш; ако не го доведам кај тебе и не го ставам пред тебе, тогаш јас сум згрешил кон тебе сите дни.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9a796b3950205bbb30a1eb477fa235c07c0a35b40e685a0a64b8863d039aeecf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/43\/9-12.1792443192976.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "אערבנו",
+      "gloss": "ќе го заложам"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "од мојата рака"
+    },
+    {
+      "surface": "תבקשנו",
+      "gloss": "ќе го побараш"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הביאתיו",
+      "gloss": "не го доведам"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "кај тебе"
+    },
+    {
+      "surface": "והצגתיו",
+      "gloss": "и не го ставам"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред тебе"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "тогаш јас сум згрешил"
+    },
+    {
+      "surface": "לך",
+      "gloss": "кон тебе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дни"
+    }
+  ],
+  "timestamp": "2026-10-19T20:53:12.977379283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 27:4",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אציתנה יחד",
+      "rationale": "צות значи 'пламти' — 'ќе ги запалам сите наеднаш'; ЈПС чита 'со еден чекор ќе го изгорам'."
+    },
+    {
+      "kind": "crux",
+      "subject": "שמיר",
+      "rationale": "Двојно значење: трње и тврд камен (дијамант) — обликот ги држи двете."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמה … חמד",
+      "rationale": "'лутина' (חמה) од ст. 4 против 'желба' (חמד) од ст. 2 — звук-контраст меѓу двајата стихови."
+    }
+  ],
+  "translation": "Лутина нема во мене. Кој би Ми дал трње, купина во битка? Ќе навалам врз него, ќе ги запалам сите заедно.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a7cdd0246d1e6b9bfb3c11d9b40f8cbf0c89014599360b6cbbf0b8731ea8ddaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/27\/1-4.1792449861511.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמה",
+      "gloss": "Лутина"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "לי",
+      "gloss": "во мене"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "би Ми дал"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "трње"
+    },
+    {
+      "surface": "שית",
+      "gloss": "купина"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "во битка"
+    },
+    {
+      "surface": "אפשעה",
+      "gloss": "ќе навалам"
+    },
+    {
+      "surface": "בה",
+      "gloss": "врз него"
+    },
+    {
+      "surface": "אציתנה",
+      "gloss": "ќе ги запалам"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "заедно"
+    }
+  ],
+  "timestamp": "2026-10-19T22:44:21.516353755Z",
+  "model": "glm-5.3"
+}

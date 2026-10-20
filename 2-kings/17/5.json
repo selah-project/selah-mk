@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 17:5",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויעל ... ויעל",
+      "rationale": "Повторен истиот глагол „се качи“ за движењето низ земјата и за пристапот кон Шомрон — повторувањето се губи во варирачки преводи."
+    },
+    {
+      "kind": "measurement",
+      "subject": "три години",
+      "rationale": "Точното траење на опсадата е бројено."
+    },
+    {
+      "kind": "idiom",
+      "subject": "עליה",
+      "rationale": "„Над неа“ — хебрејски сказ за опсада; буквилно задржано."
+    }
+  ],
+  "translation": "И се качи царот на Ашур низ целата земја, и се качи на Шомрон, и ја опсади три години.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "852fdb5e274ddf0ff9bd6a76950809d0986685b149ff09802316f767e645441d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/17\/5-8.1792449378533.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и се качи"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "на Ашур"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "низ целата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "и се качи"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "на Шомрон"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "и ја опсади"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "над неа"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    }
+  ],
+  "timestamp": "2026-10-19T22:36:18.534764623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 22:22",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "печка",
+      "rationale": "כור е печка за топење метал, ископана сад — „огниште\/кривна“ се алтернативи"
+    }
+  ],
+  "translation": "Како што се топи среброто среде печка, така ќе се стопите во средината нејзина, и ќе знаете дека јас, Јахве, го пролав гневот свој врз вас.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7ef7112bc9e6d73491a69c1b4d6b9534167ac3322b82fcc68e13c01fd681c640",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/22\/21-24.1792451638231.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כהתוך",
+      "gloss": "како што се топи"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "среброто"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "среде"
+    },
+    {
+      "surface": "כור",
+      "gloss": "печка"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "תתכו",
+      "gloss": "ќе се стопите"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "во средината нејзина"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "и ќе знаете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "שפכתי",
+      "gloss": "го пролав"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "гневот свој"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "врз вас"
+    }
+  ],
+  "timestamp": "2026-10-19T23:13:58.232468035Z",
+  "model": "glm-5.3"
+}

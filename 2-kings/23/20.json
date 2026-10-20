@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "горе",
+      "rationale": "ויזבח е глагол за жртвување — 'ги закла на жртвен начин'; драматична иронија: свештениците се заклани на самите олтари."
+    },
+    {
+      "kind": "measurement",
+      "subject": "сите свештеници",
+      "rationale": "тоталниот број 'сите' — целосно истребување на свештениците на височините."
+    }
+  ],
+  "translation": "И ги закла ⟨את⟩ сите свештеници на височините што беа таму, на олтарите, и изгоре ⟨את⟩ коски од луѓе врз нив, и се врати во Јерушалаим.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "4c489e54d15ff4a44c095d12622bd58399740b1fc0473f1b470a90b701710476",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/23\/17-20.1792449525370.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "и ги закла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите свештеници"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "свештениците"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "на височините"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "олтарите"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "и изгоре"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "коски"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "коски"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "од луѓе"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "врз нив"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и се врати"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "во Јерушалаим"
+    }
+  ],
+  "timestamp": "2026-10-19T22:38:45.374551007Z",
+  "model": "glm-5.3"
+}

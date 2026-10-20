@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 48:39",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איך … איך",
+      "rationale": "Двојно 'како!' — повторен восклиц на ужас, ритамот на ридањето"
+    }
+  ],
+  "translation": "Како ⟨е⟩ скршен! Ридаат! Како Моав го сврти тилот засрамен! И Моав стана за потсмев и за ужас на сите околу него.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "61e0f854671242ef005bd12ea553c13173121af00348f255f09ca200e2f3b2e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/48\/37-40.1792451098600.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "како"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "скршен"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "ридаат"
+    },
+    {
+      "surface": "איך",
+      "gloss": "како"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "сврти"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "тилот"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "בוש",
+      "gloss": "засрамен"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "за потсмев"
+    },
+    {
+      "surface": "ולמחתה",
+      "gloss": "и за ужас"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на сите"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "околу него"
+    }
+  ],
+  "timestamp": "2026-10-19T23:04:58.601278562Z",
+  "model": "glm-5.3"
+}

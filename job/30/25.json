@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 30:25",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לקשה יום",
+      "rationale": "„тежок ден“ (за оној чиј ден е тежок) наспроти „оној во неволја“ — хебрејскиот буквално вели „тешкото на денот“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפש е душа како живејќи-дишење, не бесмртен дел."
+    }
+  ],
+  "translation": "Зар не плакав за оној чиј ден е тежок? Тагуваше душата моја за сиромасот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "03d2b1aec17e7cdb0335e4d0c4fbe586ff2633e3fae4e266daa8cb50815396de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/30\/25-28.1792455191628.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "зар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בכיתי",
+      "gloss": "плакав"
+    },
+    {
+      "surface": "לקשה",
+      "gloss": "тежок"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "עגמה",
+      "gloss": "тагуваше"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата моја"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "за сиромасот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:13:11.628779599Z",
+  "model": "glm-5.3"
+}

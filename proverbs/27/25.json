@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גלה",
+      "rationale": "'разголува\/се отстранува' — преводите се делат меѓу 'сеното се коси' (JPS) и 'се покажува' (KJV); коренот значи разголува, отстранува."
+    },
+    {
+      "kind": "alternative",
+      "subject": "חציר",
+      "rationale": "Може да значи и 'праз' (колективно), но тука е трева\/сено."
+    }
+  ],
+  "translation": "Тревата се разголува и се покажува младата трева, и тревите од планините се собираат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "77379553d099267a1d02374608fba4f2bd4e4b1a765d852a36f439702c95b42f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/27\/25-27.1792454695660.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "се разголува"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "тревата"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "и се покажува"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "младата трева"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "и се собираат"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "тревите"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "планините"
+    }
+  ],
+  "timestamp": "2026-10-20T00:04:55.661369412Z",
+  "model": "glm-5.3"
+}

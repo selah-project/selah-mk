@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 27:30",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יתפלשו באפר",
+      "rationale": "буквално 'ќе се валкаат\/тркалаат во пепел' — обредна жалост, задржано дословно."
+    }
+  ],
+  "translation": "и ќе го издигнат својот глас над тебе и горко ќе извијат, и прашина ќе фрлат на своите глави, во пепел ќе се тркалаат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "26e011cb0655ff1672a89858f7fee264ddd2b1056094426da4ca37da19bd0182",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/27\/29-32.1792451813765.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשמיעו",
+      "gloss": "и ќе го издигнат (гласот)"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "над тебе"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "со својот глас"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "и ќе извијат"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "горко"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "и ќе кренат"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прашина"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "своите глави"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "во пепел"
+    },
+    {
+      "surface": "יתפלשו",
+      "gloss": "ќе се тркалаат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:16:53.766658778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 8:6",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "хамат",
+      "rationale": "בחמת е 'жар\/гнев' — 'во гневот на силата своја' против 'во жарот на силата своја'; двата читања се живи."
+    },
+    {
+      "kind": "alternative",
+      "subject": "увал",
+      "rationale": "האובל — 'канал\/водотек'; Виклиф ('пред портата') од латинското ostium, но хебрејскиот е поток."
+    }
+  ],
+  "translation": "И дојде до овенот што имаше двете рога, кого го видов да стои пред каналот, и истрча кон него во жарот на силата своја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "491aa1c5cc94242790b105f345e06a1817693a5aba901e1e83e28999032798c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/8\/5-8.1792456188232.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и дојде"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "овенот"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "господарот на"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "двете рога"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кого"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "го видов"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "да стои"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "האבל",
+      "gloss": "каналот"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "и истрча"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "кон него"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "во жарот"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "на силата своја"
+    }
+  ],
+  "timestamp": "2026-10-20T00:29:48.233277790Z",
+  "model": "glm-5.3"
+}

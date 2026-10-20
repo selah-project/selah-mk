@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара"
+    }
+  ],
+  "translation": "Племето Зевулун, и кнезот на синовите Зевулунови е Елиав, син на Хелон.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5c8ef20b7aab85768818fdc0f9de7f879c082f23492656f5c0291ed5ac0eb6d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/2\/5-8.1792444586650.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "Племето"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулун"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "и кнезот"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовите"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулунови"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Елиав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "на Хелон"
+    }
+  ],
+  "timestamp": "2026-10-19T21:16:26.651485763Z",
+  "model": "glm-5.3"
+}

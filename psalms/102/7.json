@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כוס",
+      "rationale": "неидентификувана ноќна птица — був, страшилка или гавран; букв. од сушење\/самотија"
+    },
+    {
+      "kind": "crux",
+      "subject": "לקאת",
+      "gloss": "пеликан",
+      "rationale": "може и 'кр intervening' — нечиста птица што повраќа; сигурност нема"
+    }
+  ],
+  "translation": "Личам на пеликан од пустина, бев како був на урнатини.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/102\/5-8.1792453802413.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "личам"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "на пеликан"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "од пустина"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "бев"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "како був"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "на урнатини"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:02.414840802Z",
+  "model": "glm-5.3"
+}

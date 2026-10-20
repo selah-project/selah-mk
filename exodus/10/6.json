@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 10:6",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "тој",
+      "rationale": "субјектот Моше не е именуван во хебрејскиот на ова место"
+    }
+  ],
+  "translation": "и ⟨ќе⟩ ги наполнат ⟨את⟩ твоите куќи и куќите на сите твои слуги и куќите на сите Мицраимци, што не го виделе ни твоите татковци, ни татковците на твоите татковци, од денот кога биле на земјата до овој ден. И тој се сврте и излезе од кај Фараон.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0aafd8b0a088a4caccfe9fd46fedbdcbe70f92ecb1744fef52422b51d821dba4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/10\/5-8.1792443464282.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלאו",
+      "gloss": "и ќе наполнат"
+    },
+    {
+      "surface": "בתיך",
+      "gloss": "твоите куќи"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "и куќите"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на сите"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "твои слуги"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "и куќите"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на сите"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраимци"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "виделе"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "твоите татковци"
+    },
+    {
+      "surface": "ואבות",
+      "gloss": "и татковците"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "на твоите татковци"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "од денот"
+    },
+    {
+      "surface": "היותם",
+      "gloss": "кога биле"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денот"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "ויפן",
+      "gloss": "се сврте"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "излезе"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "од кај"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    }
+  ],
+  "timestamp": "2026-10-19T20:57:44.289792240Z",
+  "model": "glm-5.3"
+}

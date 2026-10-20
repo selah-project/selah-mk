@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 2:3",
+  "book": "ruth",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקר מקרה",
+      "rationale": "игра на зборови: истиот корен קרה „случи се — случај“; двојната игра е од суштинско значење за ironicata на приказната"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩ · ⟨таа⟩",
+      "rationale": "македонскиот бара повратна заменка и подмет — хебрејскиот нема"
+    },
+    {
+      "kind": "secret",
+      "subject": " providencija",
+      "rationale": "„случајноста“ носи скриена рака — читателот на 2:1 веќе знае кој е Боаз, Рут не"
+    }
+  ],
+  "translation": "И таа отиде, и дојде, и береше на нивата зад жнеачите; а ⟨се⟩ случи случајно ⟨таа⟩ да дојде на делот од нивата што беше на Боаз, кој беше од родот на Елимелек.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a1f6306a6e6387309ed5a6c5360eb97ad0fffa19addd862c82aaa82c2f86e5d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ruth\/2\/2-3.1792458471026.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "И таа отиде"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "и дојде"
+    },
+    {
+      "surface": "ותלקט",
+      "gloss": "и береше"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "на нивата"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "зад"
+    },
+    {
+      "surface": "הקצרים",
+      "gloss": "жнеачите"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "и се случи"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "случајно"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "делот"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "од нивата"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "на Боаз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кој"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "од родот на"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Елимелек"
+    }
+  ],
+  "timestamp": "2026-10-20T01:07:51.027369429Z",
+  "model": "glm-5.3"
+}

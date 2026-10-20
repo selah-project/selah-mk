@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 15:27",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душа",
+      "rationale": "נפש е 'дишечко суштество, животна сила'; 'душа' е традиционална, но не е точна"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ќерка на една година",
+      "rationale": "בת שנתה — букв. 'ќерка на нејзината година', старозаветната мерка за возраст на жртвата"
+    }
+  ],
+  "translation": "А ако една душа згреши во заблуда, ќе принесе коза, ќерка на една година, за жртва за грев.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d7f13fd2dae7badb8bd15470c73f4b8e1db64defb5deffbe26ddeded145269b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/15\/25-28.1792444914313.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "згреши"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "во заблуда"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "ќе принесе"
+    },
+    {
+      "surface": "עז",
+      "gloss": "коза"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерка"
+    },
+    {
+      "surface": "שנתה",
+      "gloss": "на една година"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за жртва за грев"
+    }
+  ],
+  "timestamp": "2026-10-19T21:21:54.314328595Z",
+  "model": "glm-5.3"
+}

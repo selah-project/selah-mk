@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "zechariah 8:21",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הלוך",
+      "rationale": "Инфинитив апсолутен од истиот корен: KJV 'speedily', YLT 'diligently'; буквално 'одејќи одејќи' — интензитет на движење."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לחלות את פני יהוה",
+      "rationale": "Буквално 'да умилостивам\/излаѓам од слабост ⟨את⟩ лицето на Јахве' — хебрејски идиом за молитвено заложништво."
+    },
+    {
+      "kind": "invitation",
+      "subject": "נלכה",
+      "rationale": "Кохоратив 'да одиме' — повик што го повлекува и говорителот ('и јас ќе одам')."
+    }
+  ],
+  "translation": "И ќе одат жителите на еден град кај друг, велејќи: Да одиме, одејќи постојано, да ја умилостивиме ⟨את⟩ лицето на Јахве и да го побараме ⟨את⟩ Јахве Цеваот — и јас ќе одам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4e35478e8b27d2b86e84d849df86f3efec8d738b93e77eead38e446bd4c86d83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/8\/21-23.1792452773615.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "и ќе одат"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жителите"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "на еден"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "друг"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "да одиме"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "одејќи постојано"
+    },
+    {
+      "surface": "לחלות",
+      "gloss": "да ја умилостивиме"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лицето"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "и да го побараме"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве Цеваот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "ќе одам"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    }
+  ],
+  "timestamp": "2026-10-19T23:32:53.616196453Z",
+  "model": "glm-5.3"
+}

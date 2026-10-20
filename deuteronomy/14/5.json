@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דישן",
+      "rationale": "слово „скокач“ — антилопа — се јавува само тука во Танах; внесено по хебрејскиот звук."
+    },
+    {
+      "kind": "hapax",
+      "subject": "זמר",
+      "rationale": "ретка збор за газела од планините, само во овој список."
+    },
+    {
+      "kind": "crux",
+      "subject": "тео",
+      "rationale": "תאו: антилопа со бела линија на образот; KJV\/LXX велат „бизон“ или „див вол“."
+    }
+  ],
+  "translation": "елен и газела и срна и дивокоза и дисон и тео и замер.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "97825781facfb1fcb05fbe0c2a2ebb9533495643192486c6f4346725f79557e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/14\/5-8.1792445506925.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "елен"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "и газела"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "и срна"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "и дивокоза"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "и дисон"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "и тео"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "и замер"
+    }
+  ],
+  "timestamp": "2026-10-19T21:31:46.926373924Z",
+  "model": "glm-5.3"
+}

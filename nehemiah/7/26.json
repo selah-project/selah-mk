@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census list",
+      "rationale": "Census count of the men of Bet Lehem and Netofa."
+    }
+  ],
+  "translation": "Мажите на Бет Лехем и Нетофа: сто осумдесет и осум.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8da17fd172c983ef82d4ae537f23eb5a67fe69d2b7affc34b3349df2abe0a1a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/7\/25-28.1792456555873.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Мажите"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехем"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "и Нетофа"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "осумдесет"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и осум"
+    }
+  ],
+  "timestamp": "2026-10-20T00:35:55.874354537Z",
+  "model": "glm-5.3"
+}

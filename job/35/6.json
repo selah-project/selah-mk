@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 35:6",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Јов",
+      "rationale": "Директно обраќање во второ лице еднина — Елију му говори на Јов."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תפעל\/תעשה",
+      "rationale": "Два различни хебрејски глаголи за „прави“ во паралелни колона, разликата се губи ако двапати се стави ист збор."
+    }
+  ],
+  "translation": "Ако согреши — што ќе Му сториш ⟨ти⟩? А ако се умножат престапите твои — што ќе Му направиш?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e66d573fdf9712bdf484cba9d20923a21f339765e5bd167bd637c76beed12547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/35\/5-8.1792455335715.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "согреши"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "ќе сториш"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Му"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "и ако се умножат"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "престапите твои"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ќе направиш"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Му"
+    }
+  ],
+  "timestamp": "2026-10-20T00:15:35.715811394Z",
+  "model": "glm-5.3"
+}

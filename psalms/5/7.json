@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דמים ומרמה",
+      "rationale": "парономазија: дамим\/мирма — созвучје изгубено во македонски"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש דמים",
+      "rationale": "'човек на крви' — множинска форма за的多 крв, буквално 'крви'"
+    }
+  ],
+  "translation": "Ќе ги погубиш што зборуваат лага; човек крвав и измамен Јахве го гади.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c051fc4b02dfeab5281d256f13d2732f51be7285321fe6f50be3567b9473ab6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/5\/5-8.1792452950896.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "Ќе погубиш"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "што зборуваат"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "лага"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "дמים",
+      "gloss": "крвав"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "и измамен"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "го гади"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:35:50.897481964Z",
+  "model": "glm-5.3"
+}

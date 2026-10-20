@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "лебот на лицето",
+      "rationale": "לחם הפנים — букв. „леб на лицето“, вообичаено „покажан леб“"
+    }
+  ],
+  "translation": "⟨את⟩ масата, ⟨את⟩ сите нејзини садови, и ⟨את⟩ лебот на лицето.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0278095b3dfb63217d3cfd3074611131d349ca6a25e4ebb3151501e75b46320d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/39\/33-36.1792444047840.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "масата"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "масата"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите нејзини садови"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "нејзини садови"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "лебот на лицето"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "лебот"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "на лицето"
+    }
+  ],
+  "timestamp": "2026-10-19T21:07:27.844621238Z",
+  "model": "glm-5.3"
+}

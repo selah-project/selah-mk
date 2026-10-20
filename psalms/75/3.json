@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אקח מועד",
+      "rationale": "„да го зерам назначеното време“ наспроти „да примам собрание“ (KJV); מועד е и време и собириво место"
+    },
+    {
+      "kind": "you",
+      "subject": "Јахве зборува",
+      "rationale": "Гласот од стих 3 е Божји — директна изјава за судот"
+    }
+  ],
+  "translation": "Кога ќе го зерам назначеното време, Јас ќе судам право.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b03b27197604dfb3d511b421df87fa378d82451e20f94e732280864af02e7751",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/75\/1-4.1792453608485.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ќе го зерам"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "назначеното време"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "право"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ќе судам"
+    }
+  ],
+  "timestamp": "2026-10-19T23:46:48.486601359Z",
+  "model": "glm-5.3"
+}

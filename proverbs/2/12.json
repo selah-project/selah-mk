@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תהפכות",
+      "rationale": "буквално 'обратности\/превртки' — од корен הפך (обратити); 'извртени работи' ја чува сликата"
+    }
+  ],
+  "translation": "за да те избави од патот на зло, од човек што зборува извртени работи —",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c1ad0c5531a682a64dee5fa30ca5d40a87b36ecfd10576bbd17c8f81ae25b3be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/2\/9-12.1792454207880.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "за да те избави"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "од патот"
+    },
+    {
+      "surface": "רע",
+      "gloss": "на зло"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "од човек"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "што зборува"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "извртени работи"
+    }
+  ],
+  "timestamp": "2026-10-19T23:56:47.881463216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 8:27",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ни еден",
+      "rationale": "'не остана ни еден' — дали значи ни еден мушичка или ни еден Израелец (сп. Излез 10:19); двата читања постојат."
+    }
+  ],
+  "translation": "И Јахве направи според зборот на Моше, и се отстрани ројот од Фараон, од слугите негови и од народот негов; не остана ни еден.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2b41ae9ffbb0c193e8273adccdd43d57e6474eaff4c86ce90d9580d3a5876035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/8\/25-28.1792443449243.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И направи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "според зборот"
+    },
+    {
+      "surface": "משה",
+      "gloss": "на Моше"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "и се отстрани"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ројот"
+    },
+    {
+      "surface": "מפרעה",
+      "gloss": "од Фараон"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "од слугите негови"
+    },
+    {
+      "surface": "ומעמו",
+      "gloss": "и од народот негов"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "остана"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ни еден"
+    }
+  ],
+  "timestamp": "2026-10-19T20:57:29.250965177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Хебрејскиот нема копула — придавките стојат директно пред Името."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ארך אפים",
+      "rationale": "Буквално 'долги ноздрви' (гневот избива преку носот) — 'долготрпелив'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסед останува како звучен збор по D2 — не 'милост' сама."
+    }
+  ],
+  "translation": "Милостив и сожаленлив е Јахве, долготрпелив и голем во хесед.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4e6a216089b2dccb24e04e3faf03ddae0a90834c58010e66ec559eb1a503a58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/145\/5-8.1792454137290.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Милостив"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "и сожаленлив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "долг"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "на гневот (букв. ноздрвите)"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "и голем"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "во хесед"
+    }
+  ],
+  "timestamp": "2026-10-19T23:55:37.292171627Z",
+  "model": "glm-5.3"
+}

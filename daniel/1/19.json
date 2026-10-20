@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 1:19",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויעמדו לפני המלך",
+      "rationale": "„станаа пред лицето на царот“ — стоење во служба на царот, не само физички став"
+    },
+    {
+      "kind": "substitution",
+      "subject": "разговараше",
+      "rationale": "וידבר е „зборуваше со“, проширено во разговарање поради долготрајниот аспект"
+    }
+  ],
+  "translation": "И царот разговараше со ⟨את⟩ нив, и не се најде меѓу сите нив ниеден како Даниел, Хананја, Мишаел и Азарја, и застанаа пред царот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bdaace9e2589059ef1666de1ee9052edbe7982aa769c35613c24c16bc04d1358",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/1\/17-20.1792455941803.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и разговараше"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "нив"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "се најде"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "меѓу сите нив"
+    },
+    {
+      "surface": "כדניאל",
+      "gloss": "како Даниел"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Хананја"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Мишаел"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "и Азарја"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "и застанаа"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:25:41.804784494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ecclesiastes 7:28",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אדם אחד מאלף",
+      "rationale": "буквално 'еден човек од илјада најдов' — не вели 'праведен'; контекстот (7:29) покажува што барал, а преведувачите тука вбројуваат 'праведен' (BSB) што хебрејскиот не го вели."
+    },
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפש е грло, здив, животна сила — македонското 'душа' носи друга тежина."
+    }
+  ],
+  "translation": "Што уште бараше душата моя, а не го најдов — еден човек од илјада најдов, а жена меѓу сите овие не најдов.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d10cf694c491d26d7496a3266004acd3fea6c11b8eab06b1f90af8188bb92511",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/7\/25-28.1792455753789.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Што"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уште"
+    },
+    {
+      "surface": "בקשה",
+      "gloss": "бараше"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата моя"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "го најдов"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "од илјада"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "најдов"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "а жена"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "меѓу сите"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "најдов"
+    }
+  ],
+  "timestamp": "2026-10-20T00:22:33.790850332Z",
+  "model": "glm-5.3"
+}

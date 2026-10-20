@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "zechariah 8:19",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "four fasts",
+      "rationale": "numbered fasts of the fourth, fifth, seventh and tenth months."
+    },
+    {
+      "kind": "crux",
+      "subject": "והאמת והשלום אהבו",
+      "rationale": "imperative 'love truth and peace' (KJV\/JPS) vs. past 'they have loved' (YLT); accentuation and context favor imperative."
+    },
+    {
+      "kind": "alternative",
+      "subject": "months",
+      "rationale": "Hebrew says only 'the fourth\/fifth\/seventh\/tenth'; 'months' is supplied from context, left implicit here."
+    }
+  ],
+  "translation": "Така вели Јахве Цеваот: постот на четвртиот, и постот на петтиот, и постот на седмиот, и постот на десеттиот ⟨ќе⟩ биде на домот Јудин за радост и за веселба и за добри празници; а вистината и мирот сакајте ги.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6008d542dbb234553308463f5ce6c412b014a422f93681c93fed88a8135da93c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/8\/17-20.1792452795853.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "צום",
+      "gloss": "постот"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "на четвртиот"
+    },
+    {
+      "surface": "וצום",
+      "gloss": "и постот"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "на петтиот"
+    },
+    {
+      "surface": "וצום",
+      "gloss": "и постот"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "на седмиот"
+    },
+    {
+      "surface": "וצום",
+      "gloss": "и постот"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "на десеттиот"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ќе⟩ биде"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудин"
+    },
+    {
+      "surface": "לששון",
+      "gloss": "за радост"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "и за веселба"
+    },
+    {
+      "surface": "ולמעדים",
+      "gloss": "и за празници"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "добри"
+    },
+    {
+      "surface": "והאמת",
+      "gloss": "а вистината"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "и мирот"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "сакајте ги"
+    }
+  ],
+  "timestamp": "2026-10-19T23:33:15.854444677Z",
+  "model": "glm-5.3"
+}

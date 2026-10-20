@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 2:15",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ואשוב ... ואשוב",
+      "rationale": "двојно 'и се вратив' на крајот — ритмичко повторување што го дава заморот на обиколката"
+    }
+  ],
+  "translation": "И се качував по коритото ноќе, и разгледував по ѕидот, и се вратив, и влегов низ портата на долината, и се вратив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cf09baa59eaf15d0120caa1010e11ea29777a3634ec00f9fc629626700026d80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/2\/13-16.1792456502909.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "и бев"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "се качувајќи"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "по коритото"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноќе"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "и бев"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "разгледувајќи"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "по ѕидот"
+    },
+    {
+      "surface": "ואשוב",
+      "gloss": "и се вратив"
+    },
+    {
+      "surface": "ואבוא",
+      "gloss": "и влегов"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "низ портата"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "на долината"
+    },
+    {
+      "surface": "ואשוב",
+      "gloss": "и се вратив"
+    }
+  ],
+  "timestamp": "2026-10-20T00:35:02.910760228Z",
+  "model": "glm-5.3"
+}

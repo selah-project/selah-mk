@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 25:13",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Мореto",
+      "rationale": "ים е „море“ — големиот бакарен сад во храмот е наречен Море, обликот се чува"
+    },
+    {
+      "kind": "addition",
+      "subject": "беа",
+      "rationale": "хебрејскиот ја испушта копулата пред „во домот на Јахве“"
+    },
+    {
+      "kind": "crux",
+      "subject": "Кашдим",
+      "rationale": "традиционално „Халдејци“; ние го пишуваме хебрејскиот звук"
+    }
+  ],
+  "translation": "А ⟨את⟩ столбовите од бакар што ⟨беа⟩ во домот на Јахве, и ⟨את⟩ подножјата, и ⟨את⟩ Мореto од бакар што во домот на Јахве — ги искршија Кашдим, и го подигнаа ⟨את⟩ бакарот од нив за Бавел.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c7cb550643f972caf7279dd9b8a8f82b3fc0403313a7b5a596b557930b8d142d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/25\/13-16.1792449583261.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "столбовите од бакар"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "столбовите"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "од бакар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "подножјата"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "подножјата"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Мореto од бакар"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Мореto"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "од бакар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ги искршија"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Кашдим"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "и го подигнаа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бакарот од нив"
+    },
+    {
+      "surface": "נחשתם",
+      "gloss": "бакарот од нив"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "за Бавел"
+    }
+  ],
+  "timestamp": "2026-10-19T22:39:43.263992767Z",
+  "model": "glm-5.3"
+}

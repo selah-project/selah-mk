@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 7:2",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до испратените луѓе",
+      "rationale": "Јехошуа им се обраќа директно со императиви „идете горе и извидете“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "извидете",
+      "rationale": "רגל — букв. „одете како патник\/стапало“, од коренот нога; значи извидување што се губи во преводот"
+    }
+  ],
+  "translation": "И Јехошуа испрати луѓе од Јерихо во Ај, што е кај Бет Авен, источно од Бет Ел, и им рече: Идете горе и извидете ја ⟨את⟩ земјата. И луѓето отидоа горе и го извидија ⟨את⟩ Ај.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d927b7dab1296aed27ade9ef5cf7695caa0781078117703057863a3cc0944d25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/7\/1-4.1792445987095.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "и испрати"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "луѓе"
+    },
+    {
+      "surface": "מיריחו",
+      "gloss": "од Јерихо"
+    },
+    {
+      "surface": "העי",
+      "gloss": "во Ај"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עם",
+      "gloss": "е кај"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "און",
+      "gloss": "Авен"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "источно"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "од Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "идете горе"
+    },
+    {
+      "surface": "ורגלו",
+      "gloss": "и извидете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "и отидоа горе"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "луѓето"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "и го извидија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ај"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ај"
+    }
+  ],
+  "timestamp": "2026-10-19T21:39:47.095962119Z",
+  "model": "glm-5.3"
+}

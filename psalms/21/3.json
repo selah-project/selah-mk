@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תאות\/ארשת",
+      "rationale": "два синоними за желба — паралелизам: срце\/усни, даде\/не одбие"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Села",
+      "rationale": "музичка назнака за пауза, задржана како звучен збор"
+    }
+  ],
+  "translation": "Желбата на срцето негово ти ѝ даде нему, и молбата на усните негови не му одбиде. Села.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6ee1fd41d4ce2ee00416719f0b5f4f425827e67a2f68b0305fa27a52e60697bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/21\/1-4.1792453105922.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "желбата"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "на срцето негово"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ти даде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "и молбата"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "на усните негови"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "одбиде"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-10-19T23:38:25.923460612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 12:29",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "дваесет и два старешини",
+      "rationale": "број на старешини од домот на таткото на Цадок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "на сила",
+      "rationale": "חיל е сила\/војска\/имот — еден збор за повеќе нешта"
+    }
+  ],
+  "translation": "И Цадок, млад момак, јунак на сила, и од домот на татко му дваесет и два старешини.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "721468fea0e62d791f5415c9137fe995e84cddddca962d41856c50249c760be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/12\/29-32.1792457017429.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "И Цадок"
+    },
+    {
+      "surface": "נער",
+      "gloss": "млад момак"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "јунак"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "на сила"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и од домот"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "на татко му"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "старешини"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "дваесет"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    }
+  ],
+  "timestamp": "2026-10-20T00:43:37.430259177Z",
+  "model": "glm-5.3"
+}

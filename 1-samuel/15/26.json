@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 15:26",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מאסתה \/ וימאסך",
+      "rationale": "истиот глагол מאס 'отфрли' во два правци — ти го отфрли словото, Јахве те отфрли тебе; македонскиот го чува повторувањето"
+    },
+    {
+      "kind": "you",
+      "subject": "Шемуел до Шаул",
+      "rationale": "директен одговор со одбивање"
+    }
+  ],
+  "translation": "И рече Шемуел на Шаул: нема да се вратам со тебе, зашто ти го отфрли ⟨את⟩ словото на Јахве, и Јахве те отфрли да не бидеш цар над Јисраел.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "73b0da0a52185a0dbc56080644a165955a2842b281fbe3342d099fe0d263981e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/15\/25-28.1792446858094.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ќе се вратам"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "со тебе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מאסתה",
+      "gloss": "ти отфрли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "словото"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "и те отфрли"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "да бидеш"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T21:54:18.095786054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨сум⟩",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עולם ועד",
+      "rationale": "пар рад: „засекогаш и довеки“ — двата синонимни збора за вечност стојат еден до друг."
+    }
+  ],
+  "translation": "А јас ⟨сум⟩ како зелена маслина во домот на Елохим; јас се надевам на хеседа на Елохим засекогаш и довеки.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c09ec736921c238f40da3b1cd0c46de03be1f944cbc0f1d5433f946cefca0fae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/52\/9-11.1792453312051.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А јас"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "како маслина"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "зелена"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "се надевам"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "на хеседа"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "засекогаш"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и довеки"
+    }
+  ],
+  "timestamp": "2026-10-19T23:41:52.052648584Z",
+  "model": "glm-5.3"
+}

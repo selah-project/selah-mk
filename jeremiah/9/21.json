@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 9:21",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ѓубре",
+      "rationale": "כדמן е буквално 'ѓубре\/тлор' — остатоци што никој не ги собира"
+    },
+    {
+      "kind": "addition",
+      "subject": "никој не",
+      "rationale": "ואין מאסף е буквално 'нема собирач'; македонскиот бара глаголска реченица"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבלת האדם",
+      "rationale": "мртовечината на човекот паѓа како ѓубре — слика на срамот непогребан труп"
+    }
+  ],
+  "translation": "Кажи: така вели Јахве — и ќе падне мртовечина на човекот како ѓубре на лицето на полето, и како сноп зад жетварот, а никој не собира.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b3e2015ff7cacddbec6b2f7acd94d8e202b66beb95e684303266be1dbae96c58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/9\/21-24.1792450556750.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Кажи"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "и ќе падне"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "мртовечина"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "на човекот"
+    },
+    {
+      "surface": "כדמן",
+      "gloss": "како ѓубре"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "полето"
+    },
+    {
+      "surface": "וכעמיר",
+      "gloss": "и како сноп"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "зад"
+    },
+    {
+      "surface": "הקצר",
+      "gloss": "жетварот"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "а нема"
+    },
+    {
+      "surface": "מאסף",
+      "gloss": "собирач"
+    }
+  ],
+  "timestamp": "2026-10-19T22:55:56.750775797Z",
+  "model": "glm-5.3"
+}

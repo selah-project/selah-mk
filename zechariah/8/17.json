@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 8:17",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the returned community",
+      "rationale": "imperatives of vv.16–17 addressed to the community in Jerusalem."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעת רעהו",
+      "rationale": "evil (רע) of his associate (רע) — sound pair, lost in Macedonian."
+    }
+  ],
+  "translation": "И ⟨את⟩ злото на ближниот свој не смислувајте во срцето свое, и лажна заклетва не сакајте, зашто ⟨את⟩ сето ова што го мразам, вели Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6008d542dbb234553308463f5ce6c412b014a422f93681c93fed88a8135da93c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/8\/17-20.1792452795853.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "и секој"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "злото"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "злото"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "на ближниот свој"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחשבו",
+      "gloss": "смислувајте"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "во срцето свое"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "и заклетвата"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лажна"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאהבו",
+      "gloss": "сакајте"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сето ова"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "го мразам"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:33:15.853998841Z",
+  "model": "glm-5.3"
+}

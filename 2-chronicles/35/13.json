@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 35:13",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "светите ⟨предмети⟩",
+      "rationale": "הקדשים се 'светите [жртви]' — именката е додадена за читливост"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויריצו",
+      "rationale": "буквално 'и истрчаа' — KJV 'ги разделија' наспроти ASV\/JPS 'ги носеа брзо'"
+    }
+  ],
+  "translation": "И го зготвија пасхата на оган според судот, а светите ⟨предмети⟩ ги зготвија во лонци, во котли и во тави, и им носеа брзо на сите синови на народот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d5007b1e9c4799e437850f4b1c94b052fc51bc488ff37a0354e9e878492c834a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/35\/13-16.1792457954405.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבשלו",
+      "gloss": "ги зготвија"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "пасхата"
+    },
+    {
+      "surface": "באש",
+      "gloss": "на оган"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "според судот"
+    },
+    {
+      "surface": "והקדשים",
+      "gloss": "а светите"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "ги зготвија"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "во лонци"
+    },
+    {
+      "surface": "ובדודים",
+      "gloss": "во котли"
+    },
+    {
+      "surface": "ובצלחות",
+      "gloss": "во тави"
+    },
+    {
+      "surface": "ויריצו",
+      "gloss": "и носеа брзо"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на сите"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "העם",
+      "gloss": "на народот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:59:14.405835509Z",
+  "model": "glm-5.3"
+}

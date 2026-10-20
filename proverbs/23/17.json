@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Хебрејскиот пар „ки им“ е засилувачко „туку\/само“, пренесено со едно „туку“ и надополнето."
+    },
+    {
+      "kind": "invitation",
+      "subject": "нека не завидува",
+      "rationale": "Стихот е заповед упатена на синот\/читателот."
+    },
+    {
+      "kind": "you",
+      "subject": "до синот",
+      "rationale": "Директен совет во второ лице, дел од父ската инструкција."
+    }
+  ],
+  "translation": "Нека не завидува срцето твое на грешниците, туку во стравот од Јахве целиот ден.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fed1001da8e9e5cb021f68ee88ec0019e4515ee69cb8fa2ad3fa5657dd334ac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/23\/17-20.1792454647065.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "нека не"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "завидува"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "срцето твое"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "на грешниците"
+    },
+    {
+      "surface": "כי",
+      "gloss": "туку"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨туку⟩"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "во стравот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    }
+  ],
+  "timestamp": "2026-10-20T00:04:07.065974455Z",
+  "model": "glm-5.3"
+}

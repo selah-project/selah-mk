@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 1:23",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩ · ⟨го⟩",
+      "rationale": "македонскиот бара возвратна заменка и клитика"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שחד\/שלמנים",
+      "rationale": "двојна слика за поткуп — „мито“ и „награда“ од корен שלם, изгубено во еден збирен збор"
+    }
+  ],
+  "translation": "Кнезовите твои се бунтовни и другари на крадци; сите сакаат мито и гонат подароци; сираче не го судат, а парницата на вдовицата не стига до нив.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "68ff086ef7d29672bce62a38d974b7b0bb789a3e5bdcac2de4c320c88002fade",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/1\/21-24.1792449553813.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שריך",
+      "gloss": "Кнезовите твои"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "бунтовни"
+    },
+    {
+      "surface": "וחברי",
+      "gloss": "и другари"
+    },
+    {
+      "surface": "גנבים",
+      "gloss": "на крадци"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "сите"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "сакаат"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "мито"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "и гонат"
+    },
+    {
+      "surface": "שלמנים",
+      "gloss": "подароци"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "сираче"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "судат"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "а парницата"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "на вдовицата"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "стига"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "до нив"
+    }
+  ],
+  "timestamp": "2026-10-19T22:39:13.815735829Z",
+  "model": "glm-5.3"
+}

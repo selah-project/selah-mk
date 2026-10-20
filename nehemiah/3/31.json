@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 3:31",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הצרפי",
+      "rationale": "'син на златарот' (KJV) vs 'еден од златарите' (ASV\/JPS) — хебрејскиот вели 'син на הצרפי'."
+    },
+    {
+      "kind": "crux",
+      "subject": "עלית",
+      "rationale": "'горна соба' (JPS) vs 'пристап\/столб' (KJV 'going up') — עליה може и двете."
+    }
+  ],
+  "translation": "По него се зацврсти Малкија, синот на златарот, до домот на нетиним и на трговците, спроти портата Мифкад и до горната соба на аголот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4a82d96a8557aa475b45c2004ed338dc8a550f0415079df31be4c8470eb52c00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/3\/29-32.1792456578002.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "се зацврсти"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "Малкија"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "הצרפי",
+      "gloss": "златарот"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "нетиним"
+    },
+    {
+      "surface": "והרכלים",
+      "gloss": "и трговците"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "המפקד",
+      "gloss": "Мифкад"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "горната соба"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "на аголот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:36:18.004383739Z",
+  "model": "glm-5.3"
+}

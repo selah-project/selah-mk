@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "jeremiah 51:48",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "небесата",
+      "gloss_note": "",
+      "rationale": "שמים е двоина (дуал) — 'двете небеса' задржано во обичниот множински облик"
+    },
+    {
+      "kind": "crux",
+      "subject": "השודדים",
+      "rationale": "множински придавски облик со еднинско значење 'пљачкосувањето\/разурнувањето' — 'разурнувачите' како лична алтернатива"
+    }
+  ],
+  "translation": "И ќе воскликнат над Вавилон небесата и земјата и сè што е во нив, зашто од север ќе ѝ дојдат пљачкосувањето — вели Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "41683d93fd285dc3c3c82ccec9514e66dd74b9de66325b1b0e2692b7cdfe438e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/51\/45-48.1792451300906.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורננו",
+      "gloss": "И ќе воскликнат"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "и земјата"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "е во нив"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "од север"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ќе дојде"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ѝ"
+    },
+    {
+      "surface": "השודדים",
+      "gloss": "пљачкосувањето"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:08:20.907531234Z",
+  "model": "glm-5.3"
+}

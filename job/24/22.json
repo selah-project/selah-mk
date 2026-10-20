@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 24:22",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומשך",
+      "rationale": "'Ги повлекува\/догнува' (KJV, JPS) vs ASV 'ги зачувува' — истиот корен, спротивни гледишта кој е субъектот."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבירים בכחו",
+      "rationale": "могûни\/сила — 'силните со силата' повторување задржано во преводот."
+    }
+  ],
+  "translation": "И ги повлекува силните со силата своја; се издига, и не верува ⟨сè⟩ уште во животот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cfa8f97f930a03ac9ffbb4aed381d4f8c19a201058ef5beb76f78e75b096347a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/24\/21-24.1792455078522.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשך",
+      "gloss": "и ги повлекува"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "силните"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "со силата своја"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "се издига"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "верува"
+    },
+    {
+      "surface": "בחיין",
+      "gloss": "во животот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:11:18.523467157Z",
+  "model": "glm-5.3"
+}

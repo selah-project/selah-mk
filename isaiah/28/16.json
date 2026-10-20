@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 28:16",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא יחיש",
+      "rationale": "'Нема да побрза' (буквално) vs. 'нема да се поколеба\/исплаши' — позната расправија меѓу преводите"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מוסד מוסד",
+      "rationale": "Двојно повторување 'темел темел' — нагласува цврстина; македонски 'темел цврсто положен'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "каменот во Цион",
+      "rationale": "Сликата е дадена без објаснување — затворена метафора на испробан основен камен"
+    }
+  ],
+  "translation": "Затоа вака вели Адонај Јахве: Еве, јас полагам во Цион камен — камен испробан, аголен камен скапоцен, темел цврсто положен; оној што верува нема да побрза.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a3d843adeac8e2ed79abcfc8b3baafd026a84d4ee51fd1f5bc18dfaa019fcaed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/28\/13-16.1792449902317.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "כה",
+      "gloss": "вака"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "еве, јас"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "полагам"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "во Цион"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камен"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камен"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "испробан"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "аголен камен"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "скапоцен"
+    },
+    {
+      "surface": "מוסד",
+      "gloss": "темел"
+    },
+    {
+      "surface": "מוסד",
+      "gloss": "положен"
+    },
+    {
+      "surface": "המאמין",
+      "gloss": "оној што верува"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יחיש",
+      "gloss": "да побрза"
+    }
+  ],
+  "timestamp": "2026-10-19T22:45:02.322473951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 32:3",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחנה\/מחנים",
+      "rationale": "името Маханаим е двојна форма од 'логор' — 'два логора', игра изгубена на македонски"
+    }
+  ],
+  "translation": "И рече Јааков кога ги виде: Логор на Елохим ⟨е⟩ ова. И го нарека името на местото тоа Маханаим.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "593863dba75e144f05b7cff6f0d2862998a89cf2ca64430d0587032be7b8f1c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/32\/1-4.1792442952080.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кога"
+    },
+    {
+      "surface": "ראם",
+      "gloss": "ги виде"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "логор"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и го нарека"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "местото"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Маханаим"
+    }
+  ],
+  "timestamp": "2026-10-19T20:49:12.083085796Z",
+  "model": "glm-5.3"
+}

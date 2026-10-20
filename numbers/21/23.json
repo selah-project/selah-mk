@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 21:23",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לקראת",
+      "rationale": "буквално „на сретнување“, во воен контекст — „против“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "границата",
+      "rationale": "границата на Сихон како просторна одредница на дејството"
+    }
+  ],
+  "translation": "Но Сихон не даде на ⟨את⟩ Јисраел да помине низ границата негова; тука Сихон го собра ⟨את⟩ сиот народ свој и излезе против Јисраел во пустината, и дојде во Јац, и се бореше против Јисраел.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2ee1175c596ddabff3f83e0b8d24723f19c74277b92cc2ae400aeaa4b813e47a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/21\/21-24.1792444999176.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Сихон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јисраел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "да помине"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "низ границата негова"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "го собра"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Сихон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сиот народ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сиот"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народ свој"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "излезе"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "против"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "во пустината"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "во Јац"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "се бореше"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "против Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T21:23:19.177814227Z",
+  "model": "glm-5.3"
+}

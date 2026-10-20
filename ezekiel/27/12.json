@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 27:12",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "пазарот",
+      "rationale": "עזבוניך може да значи и „пазар“ и „приход од трговија“"
+    }
+  ],
+  "translation": "Таршиш тргуваше со тебе од изобилството на сето богатство — со сребро, железо, калај и олово дадоа за пазарот твој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "782a1083cfb2cad0700e585f85bc114bf6ee0966c874707f16c07b961e921f5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/27\/9-12.1792451725963.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרשיש",
+      "gloss": "Таршиш"
+    },
+    {
+      "surface": "סחרתך",
+      "gloss": "тргуваше со тебе"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "од изобилството"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "הון",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "со сребро"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "железо"
+    },
+    {
+      "surface": "בדיל",
+      "gloss": "калај"
+    },
+    {
+      "surface": "ועופרת",
+      "gloss": "и олово"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "дадоа"
+    },
+    {
+      "surface": "עזבוניך",
+      "gloss": "за пазарот твој"
+    }
+  ],
+  "timestamp": "2026-10-19T23:15:25.964711193Z",
+  "model": "glm-5.3"
+}

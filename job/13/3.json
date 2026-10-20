@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 13:3",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אל שדי \/ אל אל",
+      "rationale": "игра на Ел (предлог «кон») и Ел (Бог) во ист стих"
+    }
+  ],
+  "translation": "Меѓутоа јас ќе говорам кон Шадај, и да расправам со Ел — тоа го копнеев.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c4025e18102107d319aa6a635a8cadd9d253b19a47e4aefed93f8141a88a5537",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/13\/1-4.1792454967235.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "Меѓутоа"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шадај"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ќе говорам"
+    },
+    {
+      "surface": "והוכח",
+      "gloss": "и да расправам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "со"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "го копнеев \/ сакам"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:27.236164539Z",
+  "model": "glm-5.3"
+}

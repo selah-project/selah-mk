@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "тој",
+      "rationale": "подметот на „умре“ (волот) не е изричен во хебрејскиот"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וחצו\/יחצון",
+      "rationale": "коренот חצה (подели на половина) двапати — живиот вол се продава и парите се делат, па и мртвиот се дели"
+    }
+  ],
+  "translation": "И ако вол на некој човек го прободе ⟨את⟩ волот на ближниот негов и ⟨тој⟩ умре, па го продадат ⟨את⟩ живиот вол и го поделат ⟨את⟩ среброто негово; и ⟨את⟩ мртвиот исто така ќе го поделат.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a13dccdae5a4d0edd2f35319f0c825280d35d180de65cd68496d5983fcd67602",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/21\/33-36.1792443661162.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "го прободе"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вол"
+    },
+    {
+      "surface": "איש",
+      "gloss": "на човек"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "волот"
+    },
+    {
+      "surface": "שור",
+      "gloss": "волот"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "на ближниот негов"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "и умре"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "па продадат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "живиот вол"
+    },
+    {
+      "surface": "השור",
+      "gloss": "волот"
+    },
+    {
+      "surface": "החי",
+      "gloss": "живиот"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "и поделат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "среброто негово"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "среброто негово"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и исто така"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мртвиот"
+    },
+    {
+      "surface": "המת",
+      "gloss": "мртвиот"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "ќе го поделат"
+    }
+  ],
+  "timestamp": "2026-10-19T21:01:01.170149883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Помни, Јахве",
+      "rationale": "стихот е повик упатен директно до Јахве — директен обраќањ"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "апелот е упатен лично до Јахве"
+    }
+  ],
+  "translation": "Помни, Јахве, што ни се случи; погледни и види ја ⟨את⟩ нашата срамота.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e29e6d0fa4219d79e0b7e7a8123e85c32b15763f1b200b118a7ca81a55a30274",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/5\/1-4.1792455629567.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Помни"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "היה",
+      "gloss": "се случи"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "погледни"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и види"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нашата срамота"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "нашата срамота"
+    }
+  ],
+  "timestamp": "2026-10-20T00:20:29.568258333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "кон Сеир",
+      "rationale": "насочената наставка ה- значи движење 'кон\/до Сеир'; според 32:4 Исав веќе живеел во земјата Сеир"
+    }
+  ],
+  "translation": "И се врати во тој ден Исав на патот свој, кон Сеир.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c9534a97ba0a2923ac09c7d6f25eb325ed9c41c9d0397fe342d531ecd3b4e0a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/33\/14-16.1792447641625.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и се врати"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во ден"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "на патот свој"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "кон Сеир"
+    }
+  ],
+  "timestamp": "2026-10-19T22:07:21.631149224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 22:11",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מרחוק",
+      "rationale": "„одамна“ (време) vs „од далеку“ (место); повеќето преводи: одамна"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מקוה",
+      "rationale": "истиот збор што значи и „надеж“ — тука буквално собиралиште на вода"
+    }
+  ],
+  "translation": "и резервоар направивте меѓу двата ѕида за водите на стариот базен; но не го погледнавте Оној што ⟨го⟩ направил, ниту Оној што ⟨ја>> создал одамна го видовте.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a8df3a0bd92b14c5d595ea3309762a66406f5ac26837093517551adb04537708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/22\/9-12.1792449805127.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומקוה",
+      "gloss": "и резервоар"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "направивте"
+    },
+    {
+      "surface": "בין",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "החמתים",
+      "gloss": "двата ѕида"
+    },
+    {
+      "surface": "למי",
+      "gloss": "за водите"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "на базенот"
+    },
+    {
+      "surface": "הישנה",
+      "gloss": "стариот"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "הבטתם",
+      "gloss": "го погледнавте"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Оној што го направил"
+    },
+    {
+      "surface": "ויצרה",
+      "gloss": "и Оној што ја создал"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "одамна"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "говидовте"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:25.130476485Z",
+  "model": "glm-5.3"
+}

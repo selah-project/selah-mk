@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "постапката по племиња",
+      "rationale": "почеток на постепеното стеснување племе → семејство → дом → човек"
+    }
+  ],
+  "translation": "И Јехошуа стана рано наутро и ги приближи ⟨את⟩ Јисраел по племињата негови, и беше фатено племето Јехуда.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "381ba58528775682fcc339618a9f35a388b6a4c48508671cf9ad1ba49e7df5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/7\/13-16.1792446008733.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "стана рано"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "наутро"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "ги приближи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јисраел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "по племињата негови"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "беше фатено"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "племето"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    }
+  ],
+  "timestamp": "2026-10-19T21:40:08.734710109Z",
+  "model": "glm-5.3"
+}

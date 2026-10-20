@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сум",
+      "rationale": "хебрејскиот нема копула во «јас Јахве»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "почитувајте со страхопочит",
+      "rationale": "תיראо буквално «страшете се»; еден хебрејски збор разгранет на два македонски"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јисраел",
+      "rationale": "заповеди директно упатени кон народот"
+    }
+  ],
+  "translation": "⟨את⟩ шабатите Мои пазете и светилиштето Мое почитувајте со страхопочит; јас ⟨сум⟩ Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ce0c45f0c2da62b649add674e8b76121971360a3abfbce6f4b48e0c0f9ef0db6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/26\/1-4.1792444525998.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шабатите Мои"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "шабатите Мои"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "пазете"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "и светилиштето Мое"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "почитувајте со страхопочит"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:15:26.000224814Z",
+  "model": "glm-5.3"
+}

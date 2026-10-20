@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקד",
+      "rationale": "'Посетил' (KJV) наспроти 'се сетил' (JPS) или 'се погрижил за' — глаголот носи и посетување и запишување\/менување, двосмислен е."
+    },
+    {
+      "kind": "addition",
+      "subject": "нивната",
+      "rationale": "Хебрејскиот има само 'неволја' — посесивната придавка е додадена за јасност."
+    }
+  ],
+  "translation": "И народот поверува, и чуа дека Јахве ги посетил ⟨את⟩ синовите на Јисраел и дека ја видел ⟨את⟩ нивната неволја; и се поклонија и паднаа ничкум.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "85f7d06f59d3feb765454cbdf374aabcfc3d4baccdffebe5d677e9a9488625e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/4\/29-31.1792443336477.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "И поверува"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "и чуа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "посетил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синовите на Јисраел"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "и дека"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нивната неволја"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "неволја"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "и се поклонија"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "и паднаа ничкум"
+    }
+  ],
+  "timestamp": "2026-10-19T20:55:36.484582934Z",
+  "model": "glm-5.3"
+}

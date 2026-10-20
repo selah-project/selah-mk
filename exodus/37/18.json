@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 37:18",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "шест гранки",
+      "rationale": "бројот и распоредот на гранките — три од секоја страна"
+    }
+  ],
+  "translation": "И шест гранки излегуваа од нејзините страни: три гранки на менорот од нејзината една страна и три гранки на менорот од нејзината втора страна.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1be6a48f030e1765a42aa3f6ca55e68eba7fb9b4d199ca69f1ef9db5da16775b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/37\/17-20.1792443956162.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וששה",
+      "gloss": "и шест"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "granки"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "излегуваа"
+    },
+    {
+      "surface": "מצדיה",
+      "gloss": "од нејзините страни"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "קני",
+      "gloss": "гранки"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "менорот"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "од нејзината страна"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "едната"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "и три"
+    },
+    {
+      "surface": "קני",
+      "gloss": "гранки"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "менорот"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "од нејзината страна"
+    },
+    {
+      "surface": "השני",
+      "gloss": "втората"
+    }
+  ],
+  "timestamp": "2026-10-19T21:05:56.167508845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 2:18",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Реката (נהר)",
+      "rationale": "со член — Евфрат; традицијата дели: Нил во првиот дел (Шихор), Евфрат во вториот"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "паралелизам Египет\/Ашур — Шихор\/Река",
+      "rationale": "симетрични паралелни прашања, повторување на структурата"
+    }
+  ],
+  "translation": "И сега, што ти е тебе по патот кон Мицраим, да пиеш вода од Шихор? И што ти е тебе по патот кон Ашур, да пиеш вода од Реката?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "82885541c6f21ed67d46aec70e3efca3f7618696944013cd0cfcb3e6fd9363cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/2\/17-20.1792450440084.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И сега"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти е"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "по патот кон"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "да пиеш"
+    },
+    {
+      "surface": "מי",
+      "gloss": "вода"
+    },
+    {
+      "surface": "שחור",
+      "gloss": "од Шихор"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и што"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти е"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "по патот кон"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "да пиеш"
+    },
+    {
+      "surface": "מי",
+      "gloss": "вода"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "од Реката"
+    }
+  ],
+  "timestamp": "2026-10-19T22:54:00.085223721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 7:2",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "седум, седум",
+      "rationale": "שבעה שבעה — „седум и седум“: седум пара (ЈЛТ) или седум единки (КЈВ); текстот не вели „пари“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "бројот на животните",
+      "rationale": "Пребројување: седум чисти, два нечисти."
+    }
+  ],
+  "translation": "Од секој добиток чист земи си по седум, седум, мажјак и неговата женка; а од добитокот што не е чист, по два, мажјак и неговата женка.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "7ed5a7f1b58598d87b2812527f8481b796bc652fa16983a9606156afd03a3b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/7\/1-4.1792442469334.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Од секој"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "добиток"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "чист"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "земи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "си"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седум"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седум"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мажјак"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "и неговата женка"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "а од"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "добитокот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "чист"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨е⟩"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мажјак"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "и неговата женка"
+    }
+  ],
+  "timestamp": "2026-10-19T20:41:09.336985942Z",
+  "model": "glm-5.3"
+}

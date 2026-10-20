@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 11:6",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "четиристотини шеесет и осум",
+      "rationale": "Попис на потомците на Перец во Јерушалаим."
+    },
+    {
+      "kind": "substitution",
+      "subject": "мажи на јунаштво",
+      "rationale": "אנשי חיל буквално „мажи на сила\/добро“ — воинска и имотна сила заедно."
+    }
+  ],
+  "translation": "Сите синови на Перец што живееа во Јерушалаим беа четиристотини шеесет и осум мажи на јунаштво.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ae152060207bce69c2edc1599dc73b689f2cdcdf4c1ea875bd658b1ba08bfd11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/11\/5-8.1792456680045.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "што живееа"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "во Јерушалаим"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотини"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "шеесет"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и осум"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мажи"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "на јунаштво"
+    }
+  ],
+  "timestamp": "2026-10-20T00:38:00.046964002Z",
+  "model": "glm-5.3"
+}

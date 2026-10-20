@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 6:4",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше поставен",
+      "rationale": "арамејскиот хафал מתנצח е стативен — состојба, не дејство; македонскиот бара глагол"
+    },
+    {
+      "kind": "crux",
+      "subject": "מתנצח",
+      "rationale": "„да стане главен\/истакнат“ (JPS distinguished) наспроти „да биде поставен за надзорник“ (YLТ overseer); корен נצח значи да бидеш прв"
+    },
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "רוח е „дух\/дув“, задржано како руах според D2"
+    }
+  ],
+  "translation": "Тогаш овој Даниел беше поставен за глава над сатрапите и намесниците, зашто во него имаше надредна руах, и царот намисли да го постави над целото царство.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bc6b9cef9af15953082ec940f1ca27d681310e8cbfbc07a3d4950ecb5fc61a49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/6\/4-4.1792458480080.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Тогаш"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "беше"
+    },
+    {
+      "surface": "מתנצח",
+      "gloss": "за глава"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "סרכיא",
+      "gloss": "сатрапите"
+    },
+    {
+      "surface": "ואחשדרפניא",
+      "gloss": "и намесниците"
+    },
+    {
+      "surface": "כל",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "поради"
+    },
+    {
+      "surface": "די",
+      "gloss": "што"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "יתירא",
+      "gloss": "надредна"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во него"
+    },
+    {
+      "surface": "ומלכא",
+      "gloss": "и царот"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "намисли"
+    },
+    {
+      "surface": "להקמותה",
+      "gloss": "да го постави"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целото"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "царство"
+    }
+  ],
+  "timestamp": "2026-10-20T01:08:00.080985481Z",
+  "model": "glm-5.3"
+}

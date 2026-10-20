@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨го⟩",
+      "rationale": "македонскиот бара клитички предметен заменски директен објект кој хебрејскиот не го има"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Чуј, Елохим",
+      "rationale": "директен повик-молба упатен кон Елохим"
+    }
+  ],
+  "translation": "Чуј, Елохим, гласот мој во размислувањето мое; од стравот од непријател ⟨го⟩ чувај животот мој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f1ca18f044131ba021af68da3551d15de2fde9f46c864ce6e3a910ae8788107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/64\/1-4.1792453473249.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "чуј"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "гласот мој"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "во размислувањето мое"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "од стравот"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "непријател"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "чувај"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "животот мој"
+    }
+  ],
+  "timestamp": "2026-10-19T23:44:33.249878952Z",
+  "model": "glm-5.3"
+}

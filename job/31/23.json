@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 31:23",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨да издржам⟩",
+      "rationale": "אוכל е сам 'можам'; македонскиот бара глаголска дополнување."
+    },
+    {
+      "kind": "crux",
+      "subject": "ומשאתו",
+      "rationale": "'неговата возвишеност\/величина' (KJV 'highness') наспроти 'неговиот товар\/бреместо' од коренот נשא."
+    }
+  ],
+  "translation": "Зашто несреќата од Ел е страв за мене, и поради возвишеноста негова не можам ⟨да издржам⟩.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e62f837fbc4509f27d6f303164333111b49ce26198068a34fb6172b3f91ae074",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/31\/21-24.1792455219444.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "страв"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "за мене"
+    },
+    {
+      "surface": "איד",
+      "gloss": "несреќата"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ומשאתו",
+      "gloss": "и поради возвишеноста негова"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "можам"
+    }
+  ],
+  "timestamp": "2026-10-20T00:13:39.445413356Z",
+  "model": "glm-5.3"
+}

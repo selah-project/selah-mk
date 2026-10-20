@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "daniel 6:28",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משיזב \/ שיזיב",
+      "rationale": "коренот שזב се повторува („избавува — го избави“), рамката на стихот, делумно видлива во македонскиот."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מן יד",
+      "rationale": "буквално „од раката“ — слика за моќ, задржана буквално бидејќи македонскиот ја разбира."
+    }
+  ],
+  "translation": "Тој избавува и спасува, и прави знаци и чудеса на небото и на земјата — тој што го избави Даниел од раката на лавовите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6099bf22f30c54ccaacd3a817ac72037687bf545e03194fd0bf91fb911b0062a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/6\/25-28.1792456138432.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משיזב",
+      "gloss": "Тој избавува"
+    },
+    {
+      "surface": "ומצל",
+      "gloss": "и спасува"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "и прави"
+    },
+    {
+      "surface": "אתין",
+      "gloss": "знаци"
+    },
+    {
+      "surface": "ותמהין",
+      "gloss": "и чудеса"
+    },
+    {
+      "surface": "בשמיא",
+      "gloss": "на небото"
+    },
+    {
+      "surface": "ובארעא",
+      "gloss": "и на земјата"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "שיזיב",
+      "gloss": "тој што го избави"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "יד",
+      "gloss": "раката"
+    },
+    {
+      "surface": "אריותא",
+      "gloss": "на лавовите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:28:58.435078382Z",
+  "model": "glm-5.3"
+}

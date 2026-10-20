@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 7:3",
+  "book": "esther",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "животот мој",
+      "rationale": "נפש е здив\/жизнена сила, не одвоена „душа“"
+    },
+    {
+      "kind": "you",
+      "subject": "до царот",
+      "rationale": "Естер директно му се обраќа на царот Ахашверош"
+    }
+  ],
+  "translation": "И одговори Естер царицата и рече: Ако најдов благонаклонетост пред очите твои, царю, и ако е добро за царот, нека ми ⟨се⟩ даде животот мој како мојата молба, и народот мој како моето барање.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9d62e02e402c6aecc4a05352fde1994e2656409ce4d0951d1ad1b8b26bd12b43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/esther\/7\/1-4.1792455841196.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "одговори"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "царицата"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "најдов"
+    },
+    {
+      "surface": "חן",
+      "gloss": "благонаклонетост"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "пред очите твои"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цара"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "е добро"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "нека се даде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "животот мој"
+    },
+    {
+      "surface": "בשאלתי",
+      "gloss": "како мојата молба"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "и народот мој"
+    },
+    {
+      "surface": "בבקשתי",
+      "gloss": "како моето барање"
+    }
+  ],
+  "timestamp": "2026-10-20T00:24:01.197735040Z",
+  "model": "glm-5.3"
+}

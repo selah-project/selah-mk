@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 6:29",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "својот \/ својата",
+      "rationale": "присвојните заменки се подразбираат од хебрејските наставки, но македонскиот бара експлицитна форма"
+    }
+  ],
+  "translation": "Секоја молитва, секоја молба што ќе биде за било кој човек и за целиот твој народ Јисраел, кога секој ќе го препознае својот удар и својата болка, и ги рашири дланките свои кон овој дом —",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "47e94f33a4a3f7a56d011f5e661c9c3e96814274e44fe23a257a568b1abdaf70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/6\/29-32.1792457462434.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "секоја"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "молитва"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секоја"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "молба"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "за било кој"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "и за целиот"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "твој народ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кога"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ќе препознаат"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "својот удар"
+    },
+    {
+      "surface": "ומכאבו",
+      "gloss": "и својата болка"
+    },
+    {
+      "surface": "ופרש",
+      "gloss": "и ќе рашири"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "дланките свои"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    }
+  ],
+  "timestamp": "2026-10-20T00:51:02.434990916Z",
+  "model": "glm-5.3"
+}

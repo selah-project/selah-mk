@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 25:16",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ושתו\/והתגעשו\/והתהללו",
+      "rationale": "три глагола во низа — пијат, се тресат, лудуваат — хебрејската какофонија на опијанење и паника"
+    }
+  ],
+  "translation": "И ќе пијат, и ќе се тресат насекаде, и ќе лудуваат од лицето на мечот што јас го праќам меѓу нив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c726361a5935bbc1e27a89aee5524d16153b7ee59fcdb784d8772a09beb0d65c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/25\/13-16.1792450788883.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושתו",
+      "gloss": "и ќе пијат"
+    },
+    {
+      "surface": "והתגעשו",
+      "gloss": "и ќе се тресат насекаде"
+    },
+    {
+      "surface": "והתהללו",
+      "gloss": "и ќе лудуваат"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "од лицето на"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "мечот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "праќам"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "меѓу нив"
+    }
+  ],
+  "timestamp": "2026-10-19T22:59:48.885791803Z",
+  "model": "glm-5.3"
+}

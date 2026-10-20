@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 21:19",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Нахалиел",
+      "rationale": "„поток-на-Ел“ — името ја продолжува темата на вода по бунарот."
+    },
+    {
+      "kind": "measurement",
+      "subject": "маршрута",
+      "rationale": "Итинерар: станица по станица, без глагол — хебрејскиот е дека-список."
+    }
+  ],
+  "translation": "И од Матана — Нахалиел, и од Нахалиел — Бамот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "86c9edf33d2313b1e9115bd74dafbbfc5fb673ce6f9f081163730bee94b7bc9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/21\/17-20.1792444973014.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וממתנה",
+      "gloss": "И од Матана"
+    },
+    {
+      "surface": "נחליאל",
+      "gloss": "Нахалиел"
+    },
+    {
+      "surface": "ומנחליאל",
+      "gloss": "и од Нахалиел"
+    },
+    {
+      "surface": "במות",
+      "gloss": "Бамот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:22:53.015801082Z",
+  "model": "glm-5.3"
+}

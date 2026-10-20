@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רגל \/ לשון",
+      "rationale": "глаголот רגל е од 'нога' — 'одеше со јазикот', сликата на клеветење како одење се губи"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעהו \/ רעה",
+      "rationale": "блискиот (רעהו) и злото (רעה) — ист корен, звукот не може да се пренесе"
+    }
+  ],
+  "translation": "Не клевети со јазикот свој, не прави зло на ближниот свој, и навреда не подига против близок свој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/15\/1-4.1792453043333.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "клевети"
+    },
+    {
+      "surface": "על",
+      "gloss": "со"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "јазикот свој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "прави"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "на ближниот свој"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "и навреда"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "подига"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "близок свој"
+    }
+  ],
+  "timestamp": "2026-10-19T23:37:23.334473764Z",
+  "model": "glm-5.3"
+}

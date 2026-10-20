@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "им",
+      "rationale": "македонскиот бара дативен клитички заменски објект"
+    },
+    {
+      "kind": "invitation",
+      "subject": "раскажете",
+      "rationale": "заповед упатена кон народот — пренос низ поколенијата"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בניכם\/בניהם",
+      "rationale": "четириkratno повторување на „синовите“ — верига од поколенија"
+    }
+  ],
+  "translation": "За неа раскажете им на вашите синови, а вашите синови нека им раскажат на своите синови, а нивните синови на друго поколение.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "45ec4144656b393b5be42ca51f70630482d559c7d6c577947af9d11450d8110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joel\/1\/1-4.1792452323284.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "За неа"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "на вашите синови"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "раскажете"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "а вашите синови"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "на своите синови"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "а нивните синови"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "на поколение"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "друго"
+    }
+  ],
+  "timestamp": "2026-10-19T23:25:23.285464411Z",
+  "model": "glm-5.3"
+}

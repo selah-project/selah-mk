@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 47:5",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שָׂחוּ",
+      "rationale": "една од двете појави во целиот Танах — локва за пливање"
+    },
+    {
+      "kind": "measurement",
+      "subject": "илјада",
+      "rationale": "четврто мерење од илјада, со сè подлабока вода"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨а тоа⟩",
+      "rationale": "хебрејскиот стои без глагол-сврска: „илјада — поток“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעבר\/יעבר",
+      "rationale": "истиот корен „поминува“ во прва и трета лица — ефективна рамка во хебрејскиот"
+    }
+  ],
+  "translation": "И измери илјада — ⟨а тоа⟩ поток што не можев да го поминам, зашто се издигнаа водите: води за пливање, поток што не се поминува.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "53277dd60d0f85ca606a1330d185ca700db31d862b8c943ccd88a3f905fd82cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/47\/5-8.1792452157211.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "и измери"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјада"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "поток"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "можев"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "да го поминам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "גאו",
+      "gloss": "се издигнаа"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водите"
+    },
+    {
+      "surface": "מי",
+      "gloss": "води"
+    },
+    {
+      "surface": "שחו",
+      "gloss": "за пливање"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "поток"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "се поминува"
+    }
+  ],
+  "timestamp": "2026-10-19T23:22:37.211658317Z",
+  "model": "glm-5.3"
+}

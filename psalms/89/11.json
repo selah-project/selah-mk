@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רהב",
+      "rationale": "Рахав — морско чудовиште од митот за создавањето, или прекар за Мицраим (Египет); задржано како име"
+    }
+  ],
+  "translation": "Ти го разби како прободен мртовец Рахав; со мошната рака на силата Своја ги расфрла непријателите Свои.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/89\/9-12.1792453713878.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "разби"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "како прободен мртовец"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Рахав"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "со мошната рака"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "на силата Своја"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "расфрла"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "непријателите Свои"
+    }
+  ],
+  "timestamp": "2026-10-19T23:48:33.879840330Z",
+  "model": "glm-5.3"
+}

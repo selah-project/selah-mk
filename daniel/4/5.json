@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 4:5",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "елохим",
+      "rationale": "אלהין קדישין е множина — 'светите елохим' — и останува множина, според устата на Навухаднецар"
+    },
+    {
+      "kind": "crux",
+      "subject": "според името на моиот бог",
+      "rationale": "אלהי е еднина — угаритскиот\/вавилонски бог на царот, не Елохим на Јисраел; традицијата дели тука"
+    }
+  ],
+  "translation": "И до последно пред мене влезе Даниел, чиe ⟨е⟩ името Белтешацар, според името на моиот бог, и во кого ⟨е⟩ руах на светите елохим; и сонот пред него го изреков, велејќи:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5b6b82d0d76c587f7d1aafae76f1ec3e8b512a028d7709b12ec51facfd46efc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/4\/5-8.1792456052194.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "אחרין",
+      "gloss": "последно"
+    },
+    {
+      "surface": "על",
+      "gloss": "пред"
+    },
+    {
+      "surface": "קדמי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "די",
+      "gloss": "што"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "името"
+    },
+    {
+      "surface": "בלטשאצר",
+      "gloss": "Белтешацар"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "според името"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "на моиот бог"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "и дека"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "אלהין",
+      "gloss": "елохим"
+    },
+    {
+      "surface": "קדישין",
+      "gloss": "светите"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во него"
+    },
+    {
+      "surface": "וחלמא",
+      "gloss": "и сонот"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "пред него"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "го изреков"
+    }
+  ],
+  "timestamp": "2026-10-20T00:27:32.195362248Z",
+  "model": "glm-5.3"
+}

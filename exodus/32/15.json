@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 32:15",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "двете плочи",
+      "rationale": "бројот и дводалноста на плочите е точно изброен"
+    },
+    {
+      "kind": "addition",
+      "subject": "беа",
+      "gloss": "",
+      "rationale": "хебрејскиот партицип без глагол 'да е' — македонскиот додаваше помошен глагол"
+    }
+  ],
+  "translation": "И Моше се сврте и слезе од планината, а двете плочи на сведоштвото — во раката негова; плочи напишани од двете страни, од едната и од другата тие беа напишани.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a9e72f0f8702db4b5f69b22f7e437d1b7aaf050dd69e8da32a32b7e4b11a2666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/32\/13-16.1792443904497.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "се сврте"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "слезе"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "планината"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "двете"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "плочи"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "на сведоштвото"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "во раката негова"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "плочи"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "напишани"
+    },
+    {
+      "surface": "משני",
+      "gloss": "од двете"
+    },
+    {
+      "surface": "עבריהם",
+      "gloss": "страни"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "од едната"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "и од другата"
+    },
+    {
+      "surface": "הם",
+      "gloss": "тие"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "беа напишани"
+    }
+  ],
+  "timestamp": "2026-10-19T21:05:04.502565495Z",
+  "model": "glm-5.3"
+}

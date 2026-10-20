@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Стани, оди",
+      "rationale": "императиви упатени директно до Јона"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јона",
+      "rationale": "Јахве му се обраќа лично на Јона со заповед"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וקרא \/ הקריאה",
+      "rationale": "истиот корен קרא — „повикај… викот“ — глаголот и именката одекнуваат"
+    }
+  ],
+  "translation": "Стани, оди во Ниневе, градот голем, и повикај кон него ⟨את⟩ викот што јас ти го говорам:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1598c608c54b2c3303f31bc4961b6b3ff43b1815d2272faab2a9adeb44f79505",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jonah\/3\/1-4.1792452450496.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Стани"
+    },
+    {
+      "surface": "לך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ниневе"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "голем"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "и повикај"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "кон него"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "викот"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "викот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорам"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-10-19T23:27:30.497650011Z",
+  "model": "glm-5.3"
+}

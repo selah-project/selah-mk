@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 15:3",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Македонскиот бара членувана именка; хебрејскиот למלאכה е неопределен."
+    },
+    {
+      "kind": "invitation",
+      "subject": "двоструко прашање",
+      "rationale": "Двете прашања очекуваат одговор „не“ и го воведуваат заклучокот на параболата."
+    }
+  ],
+  "translation": "Дали се зема од него дрво за да се направи ⟨е⟩ дело? Дали земаат од него клин за да закачат на него секаков сад?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "431404168a6fc5531a8264f614ad17ac92735cce91bbe9433ee30c0c7329c797",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/15\/1-4.1792451496912.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "Дали се зема"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од него"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "за да се направи"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Дали"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "земаат"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од него"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "клин"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "за да закачат"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секаков"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "сад"
+    }
+  ],
+  "timestamp": "2026-10-19T23:11:36.913527115Z",
+  "model": "glm-5.3"
+}

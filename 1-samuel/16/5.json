@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ест",
+      "rationale": "Хебрејскиот нема копула во одговорот „шалом“"
+    }
+  ],
+  "translation": "И рече: Мирно; да принесам жртва на Јахве дојдов; посветете се и дојдете со ⟨את⟩ мене на жртвата. И го посвети ⟨את⟩ Јишај и ⟨את⟩ синовите негови, и ги повика на жртвата.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b46d09a3ea86f123186b54409d2df8b17b8e1d715d92b21b5c30dd82e2a3e667",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/16\/5-8.1792446858789.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Мирно"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "да принесам жртва"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "дојдов"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "посветете се"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "и дојдете"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ мене"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "на жртвата"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "И го посвети"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јишај"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Јишај"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "синовите негови"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синовите негови"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и ги повика"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ги"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "на жртвата"
+    }
+  ],
+  "timestamp": "2026-10-19T21:54:18.790786063Z",
+  "model": "glm-5.3"
+}

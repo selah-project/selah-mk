@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 4:19",
+  "book": "ezra",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": " се правени",
+      "rationale": "арамејскиот пасив מתעבד носи само еден глаголски облик; македонските помошни глаголи се додадени"
+    }
+  ],
+  "translation": "И од мене беше дадена наредба, и побараа, и најдоа дека градот овај од древни дни против цареви се крева, и бунт и метеж се правени во него.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9ff77f7f146e8ed6e47554aa6333caa5c1fc691c34f4368044c610fecbbabfc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezra\/4\/17-20.1792456404402.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומני",
+      "gloss": "и од мене"
+    },
+    {
+      "surface": "שים",
+      "gloss": "дадена"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "наредба"
+    },
+    {
+      "surface": "ובקרו",
+      "gloss": "и побараа"
+    },
+    {
+      "surface": "והשכחו",
+      "gloss": "и најдоа"
+    },
+    {
+      "surface": "די",
+      "gloss": "дека"
+    },
+    {
+      "surface": "קריתא",
+      "gloss": "градот"
+    },
+    {
+      "surface": "דך",
+      "gloss": "овај"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "деновите"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "древни"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "цареви"
+    },
+    {
+      "surface": "מתנשאה",
+      "gloss": "се крева"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "и бунт"
+    },
+    {
+      "surface": "ואשתדור",
+      "gloss": "и метеж"
+    },
+    {
+      "surface": "מתעבד",
+      "gloss": "се правени"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во него"
+    }
+  ],
+  "timestamp": "2026-10-20T00:33:24.403839644Z",
+  "model": "glm-5.3"
+}

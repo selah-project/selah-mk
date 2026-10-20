@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "до слушателите",
+      "rationale": "двоен повик со четири императиви — увод во земјоделската парабола"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושמעו ... ושמעו",
+      "rationale": "истиот императив 'слушнете' двапати во паралелизам, рамка околу гласот и зборот"
+    }
+  ],
+  "translation": "Приложете ухо и слушнете го гласот мој, наслушкајте и чувајте го зборот мој.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "cb1236964bc9fd516c405ec7fff61e3db233001b37be84bc3aea2068ba296ee0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/28\/21-24.1792449876414.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Приложете ухо"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "и слушнете"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "гласот мој"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "наслушкајте"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "и чувајте"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "зборот мој"
+    }
+  ],
+  "timestamp": "2026-10-19T22:44:36.417808505Z",
+  "model": "glm-5.3"
+}

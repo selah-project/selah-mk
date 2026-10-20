@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Maacha daughter of Absalom",
+      "rationale": "Авшалом имал една ќерка (Тамар, 2 Сам 14:27) — Мааха е веројатно внука на Авшалом или ќерка на Авшаломовиот син; преводот го чува буквалното „ќерка“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "four children",
+      "rationale": "Список на родени деца — бројење на потомство."
+    }
+  ],
+  "translation": "А по неа ја зеде ⟨את⟩ Мааха, ќерка Авшаломова, и таа му роди ⟨את⟩ Авија, ⟨את⟩ Атај, ⟨את⟩ Зиза и ⟨את⟩ Шломит.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "293fd448a1b97272762ab4de7add2a4cdb92583b830b26e71ac996d5f49202bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/11\/17-20.1792457484659.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "по неа"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ја зеде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мааха"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерка"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшаломова"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авија"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авија"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Атај"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Атај"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Зиза"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Зиза"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Шломит"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Шломит"
+    }
+  ],
+  "timestamp": "2026-10-20T00:51:24.660895075Z",
+  "model": "glm-5.3"
+}

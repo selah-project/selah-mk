@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "издишува",
+      "rationale": "יפיח е буквално 'дува, издишува' — лагите се прикажани како здив, не како говор"
+    },
+    {
+      "kind": "elision",
+      "subject": "неговата лага",
+      "rationale": "хебрејскиот нема заменка — 'не ќе биде поштеден' е без македонски комплемент"
+    }
+  ],
+  "translation": "Лажен сведок нема да биде поштеден, и оној што издишува лаги ќе пропадне.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f4871258a5b0102f27d87b773629a10dcf76954aa9f09c7dfe29be92cd68d5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/19\/9-12.1792454542057.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "сведок"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "лажен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "нема да биде поштеден"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "и оној што издишува"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "лаги"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ќе пропадне"
+    }
+  ],
+  "timestamp": "2026-10-20T00:02:22.058428675Z",
+  "model": "glm-5.3"
+}

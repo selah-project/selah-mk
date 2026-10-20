@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот бара сврзан ред; хебрејскиот има кратки приказни"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרח",
+      "rationale": "истиот глагол никнува (како пупка) од стих 9 — повторена слика на чиреви што 'цутат'"
+    }
+  ],
+  "translation": "И зедоа ⟨את⟩ саѓите од печката, и застанаа пред Фараон, и Моше ⟨את⟩ го посипа нив кон небото — и настапија рани, меури што никнуваат, врз човекот и врз добитокот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "581fcbeb5f6bef89bc7959ac6d6eac1c54558aaffbdc0330ee3aa4bd3abe3829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/9\/9-12.1792443434952.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "и зедоа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "саѓите"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "саѓите"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "од печката"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "и застанаа"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "и посипа"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ го"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "кон небото"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и настапија"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "рани"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "меури"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "што никнуваат"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "врз човекот"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "и врз добитокот"
+    }
+  ],
+  "timestamp": "2026-10-19T20:57:14.954805815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨градот⟩",
+      "rationale": "хебрејскиот има само Feminine suffix −הָ; македонскиот бара именска основа"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот нема копула во 'авен ва-амал бекирба'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "измор",
+      "rationale": "עמל е 'труд\/измор' — може и 'несреќа' (КЈВ 'sorrow'); задржав физичката слика на напор"
+    }
+  ],
+  "translation": "Дење и ноќе ја обиколуваат ⟨градот⟩ по нејзините ѕидини, и беззаконие и измор ⟨се⟩ во нејзината средина.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ac333cb8fe8857c295668f5ef1a8d7060fe07603a3495b294a1e96f891a7827b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/55\/9-12.1792453394907.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Дење"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "и ноќе"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "ја обиколуваат"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "нејзините ѕидини"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "и беззаконие"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "и измор"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "во нејзината средина"
+    }
+  ],
+  "timestamp": "2026-10-19T23:43:14.908634145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 30:21",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Ezekiel",
+      "rationale": "‘Синце човечки’ — директен од Јахве кон пророкот."
+    }
+  ],
+  "translation": "Синце човечки, ⟨את⟩ раката на Фараон, царот на Мицраим, ја скршив — и ете, не е преврзана, за да се даде лекување, за да се стави завој да ја преврзе, да ја зацврсти, да фати меч.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "31b3e1482e918f00fc874357b540115985ed29e47bacfcd3acc6d32c690f0581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/30\/21-24.1792451809036.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "синче"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечки"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "раката на Фараон"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "раката"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "ја скршив"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ете"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חבשה",
+      "gloss": "е преврзана"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "да се даде"
+    },
+    {
+      "surface": "רפאות",
+      "gloss": "лекување"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "да се стави"
+    },
+    {
+      "surface": "חתול",
+      "gloss": "завој"
+    },
+    {
+      "surface": "לחבשה",
+      "gloss": "да ја преврзе"
+    },
+    {
+      "surface": "לחזקה",
+      "gloss": "да ја зацврсти"
+    },
+    {
+      "surface": "לתפש",
+      "gloss": "да фати"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "меч"
+    }
+  ],
+  "timestamp": "2026-10-19T23:16:49.036629191Z",
+  "model": "glm-5.3"
+}

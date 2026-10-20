@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "daniel 10:18",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "уште",
+      "rationale": "ויסף е само „додаде\/пак“; ⟨уште⟩ го разјаснува повторниот допир"
+    }
+  ],
+  "translation": "И додаде ⟨уште⟩ и ме допре како изглед на човек, и ме зацврсти.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "756b9d3d53ac24777d3795e6757e0e6ede6eabf08352b741546269ffc68f220e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/10\/17-20.1792456159494.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "и додаде"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "и ме допре"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "како изглед"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на човек"
+    },
+    {
+      "surface": "ויחזקני",
+      "gloss": "и ме зацврсти"
+    }
+  ],
+  "timestamp": "2026-10-20T00:29:19.494875950Z",
+  "model": "glm-5.3"
+}

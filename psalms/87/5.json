@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ја⟩",
+      "rationale": "хебрејскиот има општ предмет во формата на глаголот, македонскиот бара заменка"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Елион",
+      "rationale": "עליון може да е титула (Највисокиот) или лично име; го пишувам звукот"
+    }
+  ],
+  "translation": "И за Цион ќе се рече: еден и друг е роден во неа, а тој — Елион — ќе ⟨ја⟩ утврди.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "db8918deef8cc9863fb10534a7683a7ed9bffce3d6117e01ab82f51826a57c37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/87\/5-7.1792453694637.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "И за Цион"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ќе се рече"
+    },
+    {
+      "surface": "איש",
+      "gloss": "еден"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и друг"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "е роден"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во неа"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а тој"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ќе ⟨ја⟩ утврди"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Елион"
+    }
+  ],
+  "timestamp": "2026-10-19T23:48:14.637865920Z",
+  "model": "glm-5.3"
+}

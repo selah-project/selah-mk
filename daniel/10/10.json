@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 10:10",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותניעני",
+      "rationale": "KJV 'set me up' наспроти YLT\/JPS 'shaketh\/tottering' — нувах може да значи и да постави и да затресе; избрано е раздвижи како неутрално"
+    },
+    {
+      "kind": "alternative",
+      "subject": "и ме раздвижи",
+      "rationale": "Буквално: ме направи да се люламе — слика на тело кое трепери додека се крева"
+    }
+  ],
+  "translation": "И еве, рака ме допре и ме раздвижи на колената мои и на дланките на рацете мои.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e4731c5c027263017bdf9768e0fdafa5984c0eb09bb5a1fed756b9c6d5f0b794",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/10\/10-11.1792458493522.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "И еве"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рака"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "допре"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ме"
+    },
+    {
+      "surface": "ותניעני",
+      "gloss": "и ме раздвижи"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "колената мои"
+    },
+    {
+      "surface": "וכפות",
+      "gloss": "и на дланките"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "на рацете мои"
+    }
+  ],
+  "timestamp": "2026-10-20T01:08:13.522859234Z",
+  "model": "glm-5.3"
+}

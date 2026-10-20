@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 14:22",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וידבקו ... אחריהם",
+      "rationale": "буквално 'се прилепија зад нив' — идиом за истрајно гонење; 'нив по петките' го чува сликата на лепење"
+    }
+  ],
+  "translation": "И сите мажи Јисраелови што се скриваа во гората Ефраимова чуја дека побегнаа Плиштимците, и се прилепија и тие нив по петките во битката.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b49fd63885df2a96d2978ccc58b59bb395ab14190ca45e1e92b4e9c219a09d93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/14\/21-24.1792446876873.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "И сите"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мажи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелови"
+    },
+    {
+      "surface": "המתחבאים",
+      "gloss": "што се скриваа"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "во гората"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраимова"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чуја"
+    },
+    {
+      "surface": "כי",
+      "gloss": " дека"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "побегнаа"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштимците"
+    },
+    {
+      "surface": "וידבקו",
+      "gloss": "и се прилепија"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "нив по петките"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "во битката"
+    }
+  ],
+  "timestamp": "2026-10-19T21:54:36.874318231Z",
+  "model": "glm-5.3"
+}

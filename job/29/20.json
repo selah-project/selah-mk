@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 29:20",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩ · ⟨се⟩",
+      "rationale": "хебрејскиот номинален став нема копула ни возвратен глагол"
+    }
+  ],
+  "translation": "Славата моя е нова со мене, и лаковите мои во раката моја се обновуваат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "67b55e43b46e5aea6489b3731ee9f09bc547a38e369050b8a5a71d68d6c0bfd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/29\/17-20.1792455142979.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבודי",
+      "gloss": "Славата моя"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нова"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "со мене"
+    },
+    {
+      "surface": "וקשתי",
+      "gloss": "и лаковите мои"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "во раката моја"
+    },
+    {
+      "surface": "תחליף",
+      "gloss": "се обновуваат"
+    }
+  ],
+  "timestamp": "2026-10-20T00:12:22.980020752Z",
+  "model": "glm-5.3"
+}

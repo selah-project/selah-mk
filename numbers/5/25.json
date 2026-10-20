@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 5:25",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "минха",
+      "rationale": "מנחה е жртвена принос — оставено како минха, не како 'дар'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ќе ја довие",
+      "rationale": "והניף е ритуално мавтање (тнуфа), македонски нема еден збор за тоа"
+    }
+  ],
+  "translation": "И свештеникот ќе земе од раката на жената ⟨את⟩ минхата на ревноста, и ќе ја довие ⟨את⟩ минхата пред Јахве, и ќе ја принесе ⟨את⟩ неа до жртвеникот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "83033af375bba910e8a53af0d550fb36b8038156f26dd2ca53379b86c492ca56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/5\/25-28.1792444684213.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ќе земе"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "од раката"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "на жената"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "минхата"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "минхата"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "на ревноста"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ќе ја довие"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "минхата"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "минхата"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ќе ја принесе"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "неја"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жртвеникот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:18:04.215293360Z",
+  "model": "glm-5.3"
+}

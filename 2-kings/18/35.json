@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 18:35",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "Преведувачите се делат: `за да` (цел), `зар` (заклучок-прашалец) или `дека` — избрано целно"
+    },
+    {
+      "kind": "you",
+      "subject": "до народот на Јерушалаим",
+      "rationale": "Директен реторички прозив"
+    }
+  ],
+  "translation": "Кој меѓу сите богови на земјите ги спаси ⟨את⟩ земјите свои од раката моја, за да ⟨се⟩ спаси Јахве ⟨את⟩ Јерушалаим од раката моја?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "3d23a64626d02cac9213193d2c15c2bb7f1ca4715926b0e58930860abc9bc619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/18\/33-36.1792449402900.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "меѓу сите"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "богови"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "на земјите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кои"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "спасија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјите свои"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "земјите свои"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "од раката моја"
+    },
+    {
+      "surface": "כי",
+      "gloss": "за да"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "спаси"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јерушалаим"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "од раката моја"
+    }
+  ],
+  "timestamp": "2026-10-19T22:36:42.902588361Z",
+  "model": "glm-5.3"
+}

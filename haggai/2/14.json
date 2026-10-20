@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "haggai 2:14",
+  "book": "haggai",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כן...וכן...וכן",
+      "rationale": "трикратно повторување 'така' — рамнотежа на реченицата, во македонскиот е чувано со 'така...и така...и така'"
+    },
+    {
+      "kind": "addition",
+      "subject": "לפני → пред мене",
+      "rationale": "хебрејскиот 'лице' е без заменка; 'пред мене' ја носи содржината на 'пред лицето мое'"
+    }
+  ],
+  "translation": "И одговори Хагај и рече: Така е овој народ, и така е оваа нација пред мене, вели Јахве, и така е секое дело на рацете нивни; и она што принесуваат таму — нечисто е тоа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "addf6d7ee631b4feb59258db5bd4dc591f40ea246b2e981010e180340e418b0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/haggai\/2\/13-16.1792452718710.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И одговори"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Хагај"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Така"
+    },
+    {
+      "surface": "העם",
+      "gloss": "овој народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "и така"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "оваа нација"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред мене"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "и така"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секое"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "на рацете нивни"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и она што"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "принесуваат"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечисто"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е тоа"
+    }
+  ],
+  "timestamp": "2026-10-19T23:31:58.711255204Z",
+  "model": "glm-5.3"
+}

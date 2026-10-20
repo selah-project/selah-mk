@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Хебрејскиот нема копула; стихот е номинална реченица"
+    },
+    {
+      "kind": "substitution",
+      "subject": "немир",
+      "rationale": "רגז е внатрешно тресење, немир, бурно раздвижување — не „нештита“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושבע רגז",
+      "rationale": "буквално „сит со рогез“ — ситост обично е за добро, тука е со зло; иронијата се губи во превод"
+    }
+  ],
+  "translation": "Човек, роден од жена, ⟨е⟩ краток со денови и сит со немир.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/14\/1-4.1792454965795.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Човек"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "роден"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "краток"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "денови"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "сит"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "немир"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:25.795708356Z",
+  "model": "glm-5.3"
+}

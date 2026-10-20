@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "водачот",
+      "rationale": "למנצח е техничен музички термин, можно и „на диригентот“"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "нема во овој стих"
+    }
+  ],
+  "translation": "За водачот. Мизмор на Давид.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "32e3063b81051368d8f9b67f6dc106f4a46ecb935a48160577bf6111a226253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/140\/1-4.1792454156864.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "за водачот"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-10-19T23:55:56.865375039Z",
+  "model": "glm-5.3"
+}

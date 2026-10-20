@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 21:11",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "идоли",
+      "rationale": "גלולים буквално 'облуци\/трупци' — понижувачки збор за идоли"
+    },
+    {
+      "kind": "substitution",
+      "subject": "гнаси",
+      "rationale": "תועבות 'одвратности', господски термин за идолопоклонство"
+    }
+  ],
+  "translation": "Затоа што Менаше, царот Јудин, направи овие гнаси и правеше зло повеќе од сè што направи Аморејецот што беше пред него, и накара и ⟨את⟩ Јуда да згреши со идолите свои.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6cbcaf80d8244eda35f07c546019a278e3585002b36c5a5f6982f42647cf12ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/21\/9-12.1792449465532.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "затоа што"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨што⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуда"
+    },
+    {
+      "surface": "התעבות",
+      "gloss": "гнаси"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "правеше зло"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "повеќе од сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направи"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Аморејецот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "бееше пред него"
+    },
+    {
+      "surface": "ויחטא",
+      "gloss": "и накара да згреши"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јуда"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуда"
+    },
+    {
+      "surface": "בגלוליו",
+      "gloss": "со идолите свои"
+    }
+  ],
+  "timestamp": "2026-10-19T22:37:45.534416184Z",
+  "model": "glm-5.3"
+}

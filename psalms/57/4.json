@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרף שאפי",
+      "rationale": "двата глагола без предмет: 'го прекори оној што фрча по мене' наспроти 'спаси ме од укор на проголтувачот'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישלח...ישלח",
+      "rationale": "повтор на 'прати' на почеток и крај — рамка на стихот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хеседот",
+      "rationale": "חסед — хесед е задржан, не 'милост'"
+    }
+  ],
+  "translation": "Ќе прати од небото и ќе ме спаси; упрек ⟨е⟩ оној што задива ⟨да ме проголта⟩. Села. Елохим ќе го прати хеседот свој и верноста своја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/57\/1-4.1792453431189.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ќе прати"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "од небото"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "и ќе ме спаси"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "упрек"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "оној што задива"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ќе го прати"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседот свој"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "и верноста своја"
+    }
+  ],
+  "timestamp": "2026-10-19T23:43:51.190437754Z",
+  "model": "glm-5.3"
+}

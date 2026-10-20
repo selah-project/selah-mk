@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "души",
+      "rationale": "נפש е повеќе 'живот, душа-како-дих', не бесмртна душа"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אביון\/אביונים",
+      "rationale": "повторување на 'сиромашен' во ист стих, задржано"
+    }
+  ],
+  "translation": "Ќе се смилува над слабиот и сиромашниот, и душите на сиромашните ќе ги спаси.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "af32cd9fb2b8939ad65613025edd74cfd05d123041b1a254e9037257e399f37e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/72\/13-16.1792453546302.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "ќе се смилува"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "דל",
+      "gloss": "слабиот"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "и сиромашниот"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "и душите"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "на сиромашните"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ќе ги спаси"
+    }
+  ],
+  "timestamp": "2026-10-19T23:45:46.303108513Z",
+  "model": "glm-5.3"
+}

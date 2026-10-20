@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чуда",
+      "rationale": "מופת — неверојатен знак, чудо; македонскиот нема еден збор што го носи 'знак-чудо', па парот знаци\/чуда го дели двојниот хебрејски пар אות\/מופת"
+    },
+    {
+      "kind": "you",
+      "subject": "до Мицраим",
+      "rationale": "בתוככי (со наставката од 2 л. ж.) — Мицраим е директно обраќање, 'во средината твоја'"
+    }
+  ],
+  "translation": "Прати знаци и чуда во средината на Мицраим, врз фараонот и врз сите негови слуги.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6cca197ce9087e5bd4a9b5f425d10670a999cd0a54bb6d107f399bca57f677a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/135\/9-12.1792454081333.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Прати"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "знаци"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "и чуда"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "во средината на"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "врз фараонот"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "и врз сите"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "негови слуги"
+    }
+  ],
+  "timestamp": "2026-10-19T23:54:41.334036308Z",
+  "model": "glm-5.3"
+}

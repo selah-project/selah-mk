@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 45:9",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the princes of Israel",
+      "rationale": "Директна наредба до кнезовите на Јисраел."
+    },
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדקה\/צדק останува цедек, не 'праведност' сама."
+    },
+    {
+      "kind": "crux",
+      "subject": "грершотейхем",
+      "rationale": "גרשתיכם: 'ваши протерувања\/налоги' — LXX чита 'начетките ваши'; букв. 'вашите прогонства'."
+    }
+  ],
+  "translation": "Така вели Адонај Јахве: Доста ви е, кнезовите на Јисраел; насилство и грабеж отстранете, и право и цедек правете; кревајте ги прогонствата ваши од народот мој — изрека на Адонај Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "03ac006ed8195ed750984cd3e44b61199d42dc8a1a88cc70cc8d021dc40f9dc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/45\/9-12.1792452124801.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Доста"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви е"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "кнезовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насилство"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "и грабеж"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "отстранете"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "и право"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "и цедек"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "правете"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "кревајте"
+    },
+    {
+      "surface": "גרשתיכם",
+      "gloss": "прогонствата ваши"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народот мој"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "на Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:22:04.802267426Z",
+  "model": "glm-5.3"
+}

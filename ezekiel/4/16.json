@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 4:16",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жезлото леб",
+      "rationale": "מטה לחם — „жезло на леб“ = потпората на животот; буквално задржано како слика."
+    },
+    {
+      "kind": "measurement",
+      "subject": "тежина и мерка",
+      "rationale": "Стихот брои и мери: леб според тежина, вода според мерка."
+    },
+    {
+      "kind": "you",
+      "subject": "to Ezekiel (син човечки)",
+      "rationale": "Директен говор до пророкот со неговиот наслов „син човечки“."
+    }
+  ],
+  "translation": "И ми рече: Син човечки, еве Ме кршам жезлото леб во Јерушалаим, и ќе јадат леб според тежина и во тревога, и вода според мерка и во запустение ќе пијат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ea54460842e6e0eb6a7edec7acf975384637a19f37076a35a537c805ea067fdc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/4\/13-16.1792451408072.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И ми рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Син"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечки"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ево Ме"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "кршам"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "жезлото"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "во Јерушалаим"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "и ќе јадат"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "според тежина"
+    },
+    {
+      "surface": "ובדאגה",
+      "gloss": "и во тревога"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "и вода"
+    },
+    {
+      "surface": "במשורה",
+      "gloss": "според мерка"
+    },
+    {
+      "surface": "ובשממון",
+      "gloss": "и во запустение"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ќе пијат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:10:08.073695583Z",
+  "model": "glm-5.3"
+}

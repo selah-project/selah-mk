@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 16:16",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е \/ од",
+      "rationale": "македонскиот бара копула и предлог 'од' за споредбата; хебрејскиот го има само мин-конструкцијата"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חרוץ",
+      "rationale": "מחרוץ — реткоречен збор за чисто (рафинирано) злато, unsicher етимологија"
+    },
+    {
+      "kind": "measurement",
+      "subject": "споредба на вредност",
+      "rationale": "стихот мерење: мудност спроти злато, разум спроти сребро"
+    }
+  ],
+  "translation": "Да стекнеш мудрост — колку ⟨е⟩ подобро ⟨од⟩ чисто злато, и да стекнеш разум — повибрано ⟨е⟩ ⟨од⟩ сребро.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "125b1f1f144b270f7f11e95b28a44126e7b8d218855788ba6d6d8dec13f7a84e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/16\/13-16.1792454548318.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "да стекнеш"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "מה",
+      "gloss": "колку"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "подобро"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "⟨од⟩ чисто злато"
+    },
+    {
+      "surface": "וקנות",
+      "gloss": "и да стекнеш"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разум"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "повибрано"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "⟨од⟩ сребро"
+    }
+  ],
+  "timestamp": "2026-10-20T00:02:28.319290988Z",
+  "model": "glm-5.3"
+}

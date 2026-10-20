@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 2:3",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המורדים\/מרדו",
+      "rationale": "корен מרד се повторува — бунтовници што се побунија — повторувањето го нагласува бунтот"
+    },
+    {
+      "kind": "you",
+      "subject": "човечки сину",
+      "rationale": "директно обраќање на Езекил со задача за испраќање"
+    }
+  ],
+  "translation": "И ми рече: човечки сину, јас те праќам ⟨את⟩ тебе кај синовите на Јисраел, кај бунтовни народи што се побунија против мене — тие и татковците нивни прегрешија против мене, до самиот овој ден.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2fa70f0dc9bac73f5fd46b045468bb0a495b2f46e4d916cb021c47c406292974",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/2\/1-4.1792451343187.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и ми рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сину"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "שולח",
+      "gloss": "праќам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "тебе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "המורדים",
+      "gloss": "бунтовни"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "се побунија"
+    },
+    {
+      "surface": "בי",
+      "gloss": "против мене"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "ואבותם",
+      "gloss": "и татковците нивни"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "прегрешија"
+    },
+    {
+      "surface": "בי",
+      "gloss": "против мене"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "самиот"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    }
+  ],
+  "timestamp": "2026-10-19T23:09:03.188617955Z",
+  "model": "glm-5.3"
+}

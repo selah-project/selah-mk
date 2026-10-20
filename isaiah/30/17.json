@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 30:17",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כתרן",
+      "rationale": "„јарбол\/ѕид“ (ѕид на брод) наспроти „знаме“ — некои преводи тука ставаат „столб“."
+    },
+    {
+      "kind": "addition",
+      "subject": "не",
+      "rationale": "עד אם буквально „сè додека\/ако“, македонското „додека не“ бара „не“."
+    }
+  ],
+  "translation": "Илјада еден ќе побегне од лицето на еден прекор; од лицето на пет прекори ќе побегнете, додека не останете како јарбол на врвот од планината и како знаме на ридот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "ce0d117dd7d1a210b0d0787adc9b6ed73292ece1350c86805544117343893056",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/30\/17-20.1792449979515.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "илјада"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "од лицето на"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "прекор"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "од лицето на"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "прекори"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "ќе побегнете"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "נותרתם",
+      "gloss": "останете"
+    },
+    {
+      "surface": "כתרן",
+      "gloss": "јарбол"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "врвот"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "од планината"
+    },
+    {
+      "surface": "וכנס",
+      "gloss": "и како знаме"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "ридот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:46:19.516607498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 18:5",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨му⟩",
+      "rationale": "хебрејскиот не вели објектот на давањето; дадено е од контекст (Рамот Гилад)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "четиристотини мажи",
+      "rationale": "број на пророците е наброен"
+    },
+    {
+      "kind": "you",
+      "subject": "до пророците",
+      "rationale": "царот на Јисраел ги прашува пророците директно"
+    }
+  ],
+  "translation": "И царот на Јисраел ги собра ⟨את⟩ пророците — четиристотини мажи — и им рече: Дали да одиме во Рамот Гилад на војна, или да се воздржам? А тие рекоа: Крени се, и Елохим ќе даде ⟨му⟩ во раката на царот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0e31a89b7cd91413293d6c17f6809bf35ddc5b185f21755572f58e9541682a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/18\/5-8.1792457615363.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "ги собра"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пороците"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "пороците"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотини"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мажи"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "הנלך",
+      "gloss": "дали да одиме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Рамот"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилад"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "на војна"
+    },
+    {
+      "surface": "אם",
+      "gloss": "или"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "да се воздржам"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "а рекоа"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Крени се"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ќе даде"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "во раката"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:53:35.363929193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 23:19",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "земја",
+      "rationale": "אדמה е почва\/орна земја (од црвенило), не држава"
+    },
+    {
+      "kind": "crux",
+      "subject": "јаре во млекото на мајка му",
+      "rationale": "славениот стих — буквално правило за готвење наспроти доцни херменевтики за мешање месо и млеко"
+    }
+  ],
+  "translation": "Првина од првите плодови на твојата земја ќе донесеш во домот на Јахве, твојот Елохим. Да не вариш јаре во млекото на мајка му.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "62b24199962a811747ff5d2728526c7f5b115435ef9b37156accf5b4ede11b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/23\/17-20.1792443689641.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Првина"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "од првите плодови"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "на твојата земја"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "ќе донесеш"
+    },
+    {
+      "surface": "בית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Да не"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "вариш"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "јаре"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "во млекото"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "на мајка му"
+    }
+  ],
+  "timestamp": "2026-10-19T21:01:29.645436603Z",
+  "model": "glm-5.3"
+}

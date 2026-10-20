@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וילך לו",
+      "rationale": "Буквално „и отиде за него“ — хебрејски израз за заминување по своја патека; „си“ го бележи тоа."
+    },
+    {
+      "kind": "substitution",
+      "subject": "закрвник",
+      "rationale": "חתן буквално значи сват\/зет — сродник по брак; традиционално „татко на жената“."
+    }
+  ],
+  "translation": "И Моше го испрати ⟨את⟩ својот закрвник, и тој си замина ⟨за себе⟩ во својата земја.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "bba99d2e4c5d04cad30ece01ac68fa339deeb7f04e6a5ff30b550c0440431446",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/18\/25-27.1792443570337.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "и испрати"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "својот закрвник"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "својот закрвник"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и си замина"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨за себе⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "својата земја"
+    }
+  ],
+  "timestamp": "2026-10-19T20:59:30.345031257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאר ישוב",
+      "rationale": "„остатокот ќе се врати“ — истите зборови се името на синот на Исаја, Шеар-Јашув (Иса 7:3); игра на име и пророштво."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩ во „ќе се врати“",
+      "rationale": "хебрејскиот возвратен глагол носи „се“ во формата; македонскиот го бара одделно."
+    }
+  ],
+  "translation": "Остатокот ќе се врати — остатокот на Јааков — кон моќниот Ел.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "0edb7d33f5b0366564d447ac0e6df73b27e7c076fd9885fbde12317685757563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/10\/21-24.1792449673343.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שְׁאָ֥ר",
+      "gloss": "остатокот"
+    },
+    {
+      "surface": "יָשׁ֖וּב",
+      "gloss": "ќе се врати"
+    },
+    {
+      "surface": "שְׁאָ֣ר",
+      "gloss": "остатокот"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "на Јааков"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "אֵ֖ל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "גִּבּֽוֹר",
+      "gloss": "моќниот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:41:13.344474324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 10:11",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ја · ќе",
+      "rationale": "македонскиот бара член и идно-намерна честичка што хебрејскиот инфинитив не ги носи"
+    }
+  ],
+  "translation": "И рече Јахве мене: Стани, тргни на пат пред народот, та да влезат и да ⟨ја⟩ наследат ⟨את⟩ земјата за која им се заколав на татковците нивни дека ⟨ќе⟩ им ја дадам.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e62f3ec3ade9c0906c2907e177f0bcacb97ab4a2e46019503257bab719fd5d42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/10\/9-12.1792445460374.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "קום",
+      "gloss": "стани"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тргни"
+    },
+    {
+      "surface": "למסע",
+      "gloss": "на пат"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "да влезат"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "да наследат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "за која"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "им се заколав"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "на татковците нивни"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "да дадам"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ним"
+    }
+  ],
+  "timestamp": "2026-10-19T21:31:00.376161686Z",
+  "model": "glm-5.3"
+}

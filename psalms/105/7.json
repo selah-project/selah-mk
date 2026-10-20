@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩ · ⟨се⟩",
+      "rationale": "Македонскиот бара копула и помошен глагол што хебрејскиот не ги има"
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "Истакнато 'Тоа' — покажувачка рамка пред Името"
+    }
+  ],
+  "translation": "Тоа ⟨е⟩ Јахве, Елохим наши; по целата земја ⟨се⟩ судовите негови.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f9375e1b687a7059db0197c0fb73fffc6371e415f950beb4ed1390fbe2cc10b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/105\/5-8.1792453843615.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Тоа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохим наши"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по целата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "судовите негови"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:43.616160405Z",
+  "model": "glm-5.3"
+}

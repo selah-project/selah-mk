@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 6:24",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "својот",
+      "rationale": "посесивната наставка на אלהה е вградена; македонскиот ја носи во придавката"
+    }
+  ],
+  "translation": "Тогаш царот се зарадува многу заради него и нареди да го извадат Даниел од јамата; и Даниел беше изваден од јамата, и никаква повреда не се најде на него, зашто веруваше во својот Елохим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b1c5fb1204debef426a6525cd8edb43eb4e66f7f84a401a8b8be395cdf389f37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/6\/21-24.1792456104638.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "тогаш"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царот"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "многу"
+    },
+    {
+      "surface": "טאב",
+      "gloss": "се зарадува"
+    },
+    {
+      "surface": "עלוהי",
+      "gloss": "заради него"
+    },
+    {
+      "surface": "ולדניאל",
+      "gloss": "и Даниел"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "нареди"
+    },
+    {
+      "surface": "להנסקה",
+      "gloss": "да го извадат"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "גבא",
+      "gloss": "јамата"
+    },
+    {
+      "surface": "והסק",
+      "gloss": "и беше изваден"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "גבא",
+      "gloss": "јамата"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и никаква"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "повреда"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "השתכח",
+      "gloss": "се најде"
+    },
+    {
+      "surface": "בה",
+      "gloss": "на него"
+    },
+    {
+      "surface": "די",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "веруваше"
+    },
+    {
+      "surface": "באלהה",
+      "gloss": "во својот Елохим"
+    }
+  ],
+  "timestamp": "2026-10-20T00:28:24.640818133Z",
+  "model": "glm-5.3"
+}

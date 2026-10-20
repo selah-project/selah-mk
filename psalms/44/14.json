@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרפה לעג וקלס",
+      "rationale": "Троен склад на срамни зборови — ритмичката густина се губи во македонскиот."
+    },
+    {
+      "kind": "addition",
+      "subject": "Нè",
+      "rationale": "Суфиксот -נו е предмет на глаголот; македонскиот го бара одделниот краток заменски форма."
+    }
+  ],
+  "translation": "Нè правиш ⟨את⟩ срамота за соседите наши, потера и подсмев за околу-нас-живеачите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ae5db8211991fba40a7be49d8a8fef6e18c73abf8fefdfb9a9b7cf74c6b387de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/44\/13-16.1792453256962.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Нè правиш"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "срамота"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "за соседите наши"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "потера"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "и подсмев"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "за околу-нас-живеачите"
+    }
+  ],
+  "timestamp": "2026-10-19T23:40:56.962680648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 35:2",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to his household",
+      "rationale": "Јааков им наредува на луѓето од својот дом — директен говор."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "Македонскиот рефлексивен сврзник не постои во хебрејскиот."
+    }
+  ],
+  "translation": "Тогаш Јааков рече на својот дом и на сите што беа со него: Отстранете ги ⟨את⟩ боговите на туѓите што ⟨се⟩ меѓу вас, очистете се и смените ги своите облеки.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0d720eeb72df5e2c260021b2b216009b992f9b660701d4dd36f475fa2a70a6f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/35\/1-4.1792443043832.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Тогаш рече"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "својот дом"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "беа со него"
+    },
+    {
+      "surface": "הסרו",
+      "gloss": "Отстранете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "боговите на туѓите"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "боговите"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "на туѓите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "меѓу вас"
+    },
+    {
+      "surface": "והטהרו",
+      "gloss": "очистете се"
+    },
+    {
+      "surface": "והחליפו",
+      "gloss": "и смените"
+    },
+    {
+      "surface": "שמלתיכם",
+      "gloss": "своите облеки"
+    }
+  ],
+  "timestamp": "2026-10-19T20:50:43.833781329Z",
+  "model": "glm-5.3"
+}

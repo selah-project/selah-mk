@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "изгрее ли сонцето",
+      "rationale": "תזרח е несвршен глагол — „кога изгрева сонцето“; временско-условно, не свршено"
+    }
+  ],
+  "translation": "Изгрее ли сонцето, тие ⟨се⟩ прибираат и во леговите свои легнуваат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9e7b141356948e4cd92bb06f6f5e2f705ad6ad6ab93b8c20b8b5a2a07d0ec7ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/104\/21-24.1792453817686.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "изгрее"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцето"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "прибираат се"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и во"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "леговите свои"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "легнуваат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:17.687515996Z",
+  "model": "glm-5.3"
+}

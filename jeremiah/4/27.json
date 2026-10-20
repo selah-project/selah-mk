@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 4:27",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "а крај — нема да направам",
+      "rationale": "וכלה е именка „завршеток\/уништување“ употребена адвербијално: „целосно нема да ја довршам“"
+    }
+  ],
+  "translation": "Зашто така вели Јахве: опустошение ќе биде целата земја, а крај — нема да направам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7b0977cf8996c91a22f42e9f0aee1c3f74584886385ef77c369525eb3da27565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/4\/25-28.1792450458016.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "опустошение"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цела"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "а крај"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "да направам"
+    }
+  ],
+  "timestamp": "2026-10-19T22:54:18.017672711Z",
+  "model": "glm-5.3"
+}

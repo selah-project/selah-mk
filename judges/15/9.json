@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 15:9",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וינטשו",
+      "rationale": "Корен נטש значи буквално 'да се разштркаат\/растураат'; KJV 'spread themselves', JPS 'spread against' — во Лехи или против неа."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לחי",
+      "rationale": "Лехи значи 'вилица' — го поврзува местото со вилицата на магарето во 15:16."
+    }
+  ],
+  "translation": "И Плиштим се качиха и се логоруваа во Јехуда, и се разлејаа во Лехи.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "21737c2a557531c6b37406fb41509edb4e3d9d40f4f81421829aca761a9bffd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/15\/9-12.1792446490701.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "се качиха"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштим"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "се логоруваа"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "во Јехуда"
+    },
+    {
+      "surface": "וינטשו",
+      "gloss": "се разлејаа"
+    },
+    {
+      "surface": "בלחי",
+      "gloss": "во Лехи"
+    }
+  ],
+  "timestamp": "2026-10-19T21:48:10.702185439Z",
+  "model": "glm-5.3"
+}

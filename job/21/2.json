@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 21:2",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמעו שמוע",
+      "rationale": "Инфинитивен апсолутив пред глаголот — спој „чујте-слушајќи“ — за поинаков наглас не може да се пренесе."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Македонскиот бара помошен глагол во оваа конструкција."
+    },
+    {
+      "kind": "invitation",
+      "subject": "до пријателите",
+      "rationale": "Јоб ги повикува слушателите да внимаваат."
+    }
+  ],
+  "translation": "Чујте, слушајќи го зборот мој, и нека биде ова ⟨е⟩ утеха вашата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "00383db06d87a353184e16c3989535e4efefd019966bf275390595b339761e57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/21\/1-4.1792455120836.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Чујте"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "слушајќи"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "зборот мој"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "и нека биде"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "תנחומתיכם",
+      "gloss": "утешение ваше"
+    }
+  ],
+  "timestamp": "2026-10-20T00:12:00.836943476Z",
+  "model": "glm-5.3"
+}

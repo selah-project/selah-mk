@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 16:20",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יותר\/ויותרו",
+      "rationale": "Истиот корен „да остане вишок“ од 16:19 како заповед и тука како прекршување — игра на повторување."
+    }
+  ],
+  "translation": "Но не го послушаа ⟨את⟩ Моше, па некои луѓе оставија од него до утрото — и се подигнаа црви и се расипа, и Моше се разгневи на нив.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "70a8f21e66c30240b694021e481e72c58fe1929837a3782844a3f9f788fd4b03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/16\/17-20.1792443573107.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "го послушаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויותרו",
+      "gloss": "оставија"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "некои луѓе"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од него"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "утрото"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "се подигнаа"
+    },
+    {
+      "surface": "תולעים",
+      "gloss": "црви"
+    },
+    {
+      "surface": "ויבאש",
+      "gloss": "се расипа"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "се разгневи"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "на нив"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-10-19T20:59:33.115723653Z",
+  "model": "glm-5.3"
+}

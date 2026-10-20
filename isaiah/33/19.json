@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "неразбирлив",
+      "rationale": "משמוע е инфинитив 'да се слуша\/разбере'; македонскиот бара придавка"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמקי שפה",
+      "rationale": "букв. 'длабоки усни' — јазик премногу длабок за разбор, не 'таинствен говор'"
+    }
+  ],
+  "translation": "Народ дрзак нема да го видиш ⟨את⟩ — народ длабока усна, неразбирлив, подиграван јазик без разбирање.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "8bb06e3c35301721a72105cef0a6dfdb48dbe788141459d470f9337cb3579348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/33\/17-20.1792449953641.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дрзкиот народ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "дрзак"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "да видиш"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "длабока"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "усна"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "неразбирлив"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "подиграван"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "јазик"
+    },
+    {
+      "surface": "אין",
+      "gloss": "без"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разбирање"
+    }
+  ],
+  "timestamp": "2026-10-19T22:45:53.646128110Z",
+  "model": "glm-5.3"
+}

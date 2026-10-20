@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 42:9",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се наоѓа",
+      "rationale": "хебрејскиот нема глагол за постоење; македонскиот бара сврзник"
+    },
+    {
+      "kind": "measurement",
+      "subject": "влезот од исток",
+      "rationale": "стихот е дел од прецизниот опис на храмската градба — положба и приоди"
+    }
+  ],
+  "translation": "А под овие соби ⟨се наоѓа⟩ влез од исток, кога се влегува во нив од надворешниот двор.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5777e8551d22f600cc5b2629594a64f84dbbd8935ee4c52bcf01828cf0b1d571",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/42\/9-12.1792452074106.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומתחתה",
+      "gloss": "а под"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "соби"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "המבוא",
+      "gloss": "влезот"
+    },
+    {
+      "surface": "מהקדים",
+      "gloss": "од исток"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "при влегувањето"
+    },
+    {
+      "surface": "להנה",
+      "gloss": "во нив"
+    },
+    {
+      "surface": "מהחצר",
+      "gloss": "од дворот"
+    },
+    {
+      "surface": "החצנה",
+      "gloss": "надворешниот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:21:14.107110007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 2:23",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до синовите на Или",
+      "rationale": "Директно обраќање на Или кон неговите синови"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "споен предлог מן + את; ⟨את⟩ задржано во глосата, 'од' е дел од составот"
+    }
+  ],
+  "translation": "И им рече: Зошто правете такви работи? Јас слушам ⟨את⟩ лошите зборови ваши од ⟨את⟩ сите овие луѓе.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "db67b48edf7b2cadffeb84492376b0055ecaff90a0424ad8bde9f7cae53c8f04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/2\/21-24.1792446694730.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И им рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Зошто"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "правете"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "такви работи"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слушам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лошите зборови ваши"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "зборовите ваши"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "лоши"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "од ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "העם",
+      "gloss": "луѓето"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    }
+  ],
+  "timestamp": "2026-10-19T21:51:34.731223579Z",
+  "model": "glm-5.3"
+}

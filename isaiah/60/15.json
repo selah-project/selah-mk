@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 60:15",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "да бидеш",
+      "rationale": "хебрејскиот инфинитивен конструкт היותך бара македонски глаголски израз."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דור ודור",
+      "rationale": "повторот „род и род“ — хебрејската меризамска формула, задржана буквално."
+    }
+  ],
+  "translation": "Наместо да бидеш напуштена и омразена, без никој што минува, ќе те поставам за вечна гордост, радост на род и род.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e27ae2e4541e16ee2ebfdbc67bd9b52d3a592179879c5d5f895798f87b184420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/60\/13-16.1792450353215.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "наместо"
+    },
+    {
+      "surface": "היותך",
+      "gloss": "да бидеш"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "напуштена"
+    },
+    {
+      "surface": "ושנואה",
+      "gloss": "и омразена"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и без"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "што минува"
+    },
+    {
+      "surface": "ושמתיך",
+      "gloss": "ќе те поставам"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "за гордост"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечна"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "радост"
+    },
+    {
+      "surface": "דור",
+      "gloss": "на род"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "и род"
+    }
+  ],
+  "timestamp": "2026-10-19T22:52:33.216622580Z",
+  "model": "glm-5.3"
+}

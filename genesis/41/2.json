@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 41:2",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "во трските",
+      "rationale": "אחו е мочурлива трска\/трева покрај Нил"
+    }
+  ],
+  "translation": "И еве, од Нил излегуваат седум крави, убави на изглед и дебели на месо, и пасат во трските.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "6d938f74896f3c86dd9c00b3cdf63a9a2fe050a179641f018aa71f219d311d6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/41\/1-4.1792443111153.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "И еве"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Нил"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "излегуваат"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седум"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "крави"
+    },
+    {
+      "surface": "יפות",
+      "gloss": "убави"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "на изглед"
+    },
+    {
+      "surface": "ובריאת",
+      "gloss": "и дебели"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "на месо"
+    },
+    {
+      "surface": "ותרעינה",
+      "gloss": "и пасат"
+    },
+    {
+      "surface": "באחו",
+      "gloss": "во трските"
+    }
+  ],
+  "timestamp": "2026-10-19T20:51:51.156988410Z",
+  "model": "glm-5.3"
+}

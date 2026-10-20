@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 9:35",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "богата",
+      "rationale": "השמנה дословно „масна“ — за земја: плодородна"
+    }
+  ],
+  "translation": "И тие, во своето царство и во Твојата голема добрина што им ја даде, и во земјата пространа и богата што ја постави пред нив — не Ти служеа и не се свртеа од своите зли дела.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "312c281a512d87c77cca641c60289677f61b5d9d584a10fe5e581e18eb3ed82a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/9\/33-36.1792456657303.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "И тие"
+    },
+    {
+      "surface": "במלכותם",
+      "gloss": "во своето царство"
+    },
+    {
+      "surface": "ובטובך",
+      "gloss": "и во Твојата добрина"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "голема"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "им ја даде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "и во земјата"
+    },
+    {
+      "surface": "הרחבה",
+      "gloss": "пространа"
+    },
+    {
+      "surface": "והשמנה",
+      "gloss": "и богата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "ја постави"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "пред нив"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עבדוך",
+      "gloss": "Ти служеа"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "се свртеа"
+    },
+    {
+      "surface": "ממעלליהם",
+      "gloss": "од своите дела"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "злите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:37:37.304267050Z",
+  "model": "glm-5.3"
+}

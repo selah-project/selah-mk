@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 6:11",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "венци",
+      "rationale": "עטרות е множина: еден венец повеќекратно украсен, или повеќе венци; некои читаат и како „круни“ за повеќе лица (види 6:14)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "сребро и злато",
+      "rationale": "Тежината на дарот од прогонството се мери и од неа се прават венците."
+    }
+  ],
+  "translation": "и ќе земеш сребро и злато, и ќе направиш венци, и ќе ставиш на главата на Јехошуа, синот на Јехоцадок, големиот свештеник.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "75921cc987418a45b528ec493433fafbd0282b52fdc2858f1910bf0277a8d988",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/6\/9-12.1792452763375.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "и ќе земеш"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "и злато"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "и ќе направиш"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "венци"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "и ќе ставиш"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "на главата"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "на Јехошуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "на Јехоцадок"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "големиот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:32:43.376471020Z",
+  "model": "glm-5.3"
+}

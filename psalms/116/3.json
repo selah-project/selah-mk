@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מצרי\/מצאוני\/אמצא",
+      "rationale": "Коренот מצא и מצר се повторуваат, звучна игра изгубена во преводот"
+    }
+  ],
+  "translation": "Окружија ме јажињата на смртта и теснините на шеолот ме најдоа, неволја и жалост најдов.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5897e4c1e51bf2c50d80e75a595ba47d56c93cfae3d2e2a5233a0143986693db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/116\/1-4.1792453953353.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "Окружија ме"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "јажињата на"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смртта"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "и теснините на"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "шеолот"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "ме најдоа"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "неволја"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "и жалост"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "најдов"
+    }
+  ],
+  "timestamp": "2026-10-19T23:52:33.354325321Z",
+  "model": "glm-5.3"
+}

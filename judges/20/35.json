@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "judges 20:35",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "дваесет и пет илјади и сто мажи",
+      "rationale": "бројката на паднатите Венијаминовци, напишана со зборови како во хебрејскиот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "шолеф харев",
+      "rationale": "буквално 'сите тие влечејќи меч' — опис на вооружените борци, не улога; зачувана сликата."
+    }
+  ],
+  "translation": "И Јахве го порази ⟨את⟩ Венијамин пред Јисраел, и синовите на Јисраел уништија од Венијамин во тој ден дваесет и пет илјади и сто мажи — сите тие меѓу оние што извлекуваат меч.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "d7661a91493b079d8e4f2c0eb48296b02b5dfbb83c908ad7a54931dfbbd124ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/20\/33-36.1792446637432.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "и го порази"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Венијамин"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Венијамин"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "וישחיתו",
+      "gloss": "и уништија"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "בבנימן",
+      "gloss": "од Венијамин"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оној"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "дваесет"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "и пет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "и сто"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ажи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "извлекуваат"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    }
+  ],
+  "timestamp": "2026-10-19T21:50:37.433591017Z",
+  "model": "glm-5.3"
+}

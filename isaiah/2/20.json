@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לחפר פרות",
+      "rationale": "„на кртовите [што копаат] во дупките“ — букв. „на копачот на дупките“, најчесто „крт“ или „глувчесто животно“"
+    }
+  ],
+  "translation": "Во оној ден човекот ќе ги фрли ⟨את⟩ идолите од своето сребро и ⟨את⟩ идолите од своето злато, што му биле направени да им се поклонува, на кртовите и на лилјаците.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "cebda9a6d076349863ad4898fc80ffda88c7d6f3e759fdfc17eb90b549e3951b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/2\/17-20.1792449553190.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Во оној ден"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оный"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "ќе фрли"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "идолите од своето сребро"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "идолите"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "од своето сребро"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "идолите од своето злато"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "идолите"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "од своето злато"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "биле направени"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "да им се поклонува"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "на кртовите"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "дупки"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "и на лилјаците"
+    }
+  ],
+  "timestamp": "2026-10-19T22:39:13.193006582Z",
+  "model": "glm-5.3"
+}

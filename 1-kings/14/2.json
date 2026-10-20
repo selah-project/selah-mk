@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 14:2",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "преоблечи се",
+      "rationale": "השתנית буквално „себе си измени\/дублира“ — промена на изгледот, не само на облеката"
+    },
+    {
+      "kind": "addition",
+      "subject": "си",
+      "rationale": "присвојната честичка што македонскиот ја бара, хебрејскиот ја изразува со наставката"
+    },
+    {
+      "kind": "you",
+      "subject": "до жената на Јаровам",
+      "rationale": "директна наредба и упатство до жена му"
+    }
+  ],
+  "translation": "И рече Јаровам на жена си: Стани, молам, и преоблечи се, за да не позната дека си жена на Јаровам, и оди во Шило — еве, таму е пророкот Ахија; тој зборуваше за мене дека ќе бидам цар над овој народ.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "203c8ed12b716bc9afbfaa64931c5eb677928f8cb450ed4aa54af993b6bd4daf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/14\/1-4.1792448839096.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Јаровам"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "на жена си"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "стани"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молам"
+    },
+    {
+      "surface": "והשתנית",
+      "gloss": "и преоблечи се"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "за да не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "познат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ти си"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жена"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "на Јаровам"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "и оди"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "во Шило"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "еве"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ахија"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкот"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборуваше"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "за мене"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "да бидам цар"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    }
+  ],
+  "timestamp": "2026-10-19T22:27:19.098777736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כליו",
+      "rationale": "'алатки\/опрема' — KJV 'артилерија', традицијата 'оружје'; хебрејскиот е општ 'неговите предмети'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "македонскиот бара предмет кај 'однеси'; хебрејскиот императив стои сам"
+    }
+  ],
+  "translation": "И Јонатан му ги даде ⟨את⟩ алатките свои на момчето што го имаше, и му рече: Оди, однеси ⟨се⟩ во градот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "807c0bad338d19899fca959482ee043cd0256365a608cb1be576551c4fc60236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/20\/37-40.1792447824447.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Јонатан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алатките свои"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "алатките свои"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "момчето"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לו",
+      "gloss": "го имаше"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Оди"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "однеси"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "во градот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:10:24.449568109Z",
+  "model": "glm-5.3"
+}

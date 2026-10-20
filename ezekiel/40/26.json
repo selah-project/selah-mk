@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 40:26",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "седум скаилила",
+      "rationale": "број на скалила за искачување"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מפו ואחד מפו",
+      "rationale": "истото „од тука“ двапати — симетрија на двете страни, задржана буквално"
+    }
+  ],
+  "translation": "И седум скалила неговото искачување, и тремот негов пред нив; и палмови столбови на него — еден од тука и еден од тука, до неговиот столб.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1ce135a48876d6e43241e71c6675dd72d1db4a92e12c6ac3696ed14e84e1e6be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/40\/25-28.1792452005055.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומעלות",
+      "gloss": "и скаилила"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седум"
+    },
+    {
+      "surface": "עלותו",
+      "gloss": "неговото искачување"
+    },
+    {
+      "surface": "ואלמו",
+      "gloss": "и тремот негов"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "пред нив"
+    },
+    {
+      "surface": "ותמרים",
+      "gloss": "и палмови столбови"
+    },
+    {
+      "surface": "לו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "од тука"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "и еден"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "од тука"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אילו",
+      "gloss": "неговиот столб"
+    }
+  ],
+  "timestamp": "2026-10-19T23:20:05.056091690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יחדו",
+      "rationale": "'заедно' се повторува низ 11:6–7 како рефрен на видението за мирот"
+    }
+  ],
+  "translation": "И крава и мечка заедно ќе пасат, младенците нивни ќе легнат заедно; и лав како говедо ќе јаде плева.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "8799e02c347ffacd8918c42986c81e0d95e63a6dfe9bb5f62e20b8e4b9614a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/11\/5-8.1792449699536.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "И крава"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "и мечка"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "ќе пасат"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заедно"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "ќе легнат"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "младенците нивни"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "и лав"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "како говедо"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ќе јаде"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "плева"
+    }
+  ],
+  "timestamp": "2026-10-19T22:41:39.544665810Z",
+  "model": "glm-5.3"
+}

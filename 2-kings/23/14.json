@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המצבות",
+      "rationale": "„столбови“ — поставени камени спомени-столбови, не „слики“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האשרים",
+      "rationale": "задржано како „Ашерите“ — култни стебла\/слики на божицата Ашера"
+    }
+  ],
+  "translation": "И ги скрши ⟨את⟩ столбовите, и ги посече ⟨את⟩ Ашерите, и го исполни ⟨את⟩ местото нивно со коски човечки.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c7181d931840394dcd83a87bd06ca5d981d933ea47b0b9bb94f7c1ccd29bf53f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/23\/13-16.1792449527907.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "и скрши"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "столбовите"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "столбовите"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "и посече"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ашерите"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Ашерите"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "и исполни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "местото нивно"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "местото нивно"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "со коски"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечки"
+    }
+  ],
+  "timestamp": "2026-10-19T22:38:47.910476982Z",
+  "model": "glm-5.3"
+}

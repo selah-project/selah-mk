@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 10:15",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот номинален изрек без копула; македонскиот бара „е“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "животното",
+      "rationale": "החיה е женска — „таа“ — но во македонскиот „животно“ е среден род; формата היא ја чуваме како „тоа“."
+    }
+  ],
+  "translation": "И се подигнаа керувимите — тоа ⟨е⟩ животното што го видов кај реката Квар.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9d5a95aa44924ed2a73a8f2b338efadde862562fb74c695264c5ea09d7999828",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/10\/13-16.1792451461041.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירמו",
+      "gloss": "и се подигнаа"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "керувимите"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "животното"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "го видов"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "кај реката"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "Квар"
+    }
+  ],
+  "timestamp": "2026-10-19T23:11:01.041953007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 19:8",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "четириесет дена и четириесет ноќи",
+      "rationale": "бројот е даден двојно, како кај Моше на Синај — одраз што треба да го носи читателот"
+    }
+  ],
+  "translation": "И стана, и изеде и напи, и одеше во силата на таа храна четириесет дена и четириесет ноќи до планината на Елохим, Хорев.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b8fba91d676990940bbc099e07c58177af79a363ad9e903c2589e58c68108b44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/19\/5-8.1792448957009.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "и изеде"
+    },
+    {
+      "surface": "וישתה",
+      "gloss": "и напи"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и одеше"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "во силата"
+    },
+    {
+      "surface": "האכילה",
+      "gloss": "на таа храна"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четириесет"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дена"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "и четириесет"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноќи"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הר",
+      "gloss": "планината"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "Хорев"
+    }
+  ],
+  "timestamp": "2026-10-19T22:29:17.011418854Z",
+  "model": "glm-5.3"
+}

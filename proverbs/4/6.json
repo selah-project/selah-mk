@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "неа\/таа",
+      "rationale": "Хебрејскиот има само наставката הָ (женски род на мудроста); македонскиот додава заменка."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשמרך\/ותצרך",
+      "rationale": "Два синонимни глаголи за чување во споен ритам — паралелизам."
+    }
+  ],
+  "translation": "Не оставај ја, и таа ќе те чува; сакај ја, и таа ќе те пази.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cd9419f502958688fd0ea0b697c6bad33ee7ca2b6d4e0b770f35d3df457c15c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/4\/5-8.1792454334577.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "оставај ја"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "и таа ќе те чува"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "сакај ја"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "и таа ќе те пази"
+    }
+  ],
+  "timestamp": "2026-10-19T23:58:54.578175643Z",
+  "model": "glm-5.3"
+}

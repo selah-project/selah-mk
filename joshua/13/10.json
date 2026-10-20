@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 13:10",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מלך\/מלך",
+      "rationale": "игра на зборови: 'царот' (именка) и 'царуваше' (глагол) од ист корен"
+    },
+    {
+      "kind": "measurement",
+      "subject": "граници",
+      "rationale": "продолжение на пописот на територијата со места и граници"
+    }
+  ],
+  "translation": "и сите градови на Сихон, царот на Еморејците, што царуваше во Хешбон, до границата на синовите Амонови;",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "59ef515b45b2be58a97755116e9fcd36a5ebb3feec3bbcc1091d8cfd672b384a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/13\/9-12.1792446077547.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и сите"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "градови"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Сихон"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "на Еморејците"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царуваше"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "во Хешбон"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границата"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на синовите"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амонови"
+    }
+  ],
+  "timestamp": "2026-10-19T21:41:17.548713956Z",
+  "model": "glm-5.3"
+}

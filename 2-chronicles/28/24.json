@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 28:24",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "повторување",
+      "rationale": "двојното 'садовите на домот на Елохим' — собра и исече — хебрејскиот буквален повтор е задржан"
+    },
+    {
+      "kind": "alternative",
+      "subject": "агол",
+      "rationale": "פנה може да значи и 'уличен ќош\/агол на град'; BSB 'street corner'"
+    }
+  ],
+  "translation": "И Ахаз ги собра ⟨את⟩ садовите на домот на Елохим, и ги исече ⟨את⟩ садовите на домот на Елохим, и ги затвори ⟨את⟩ вратите на домот на Јахве, и си направи жртвеници во секој агол во Јерушалаим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "031377ad0499ba6ff6041194d59a2a85601f74ce06e035188c44fcec9cc68d0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/28\/21-24.1792457766361.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "и ги собра"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "садовите на домот на Елохим"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "садовите"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "ויקצץ",
+      "gloss": "и ги исече"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "садовите на домот на Елохим"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "садовите"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "и ги затвори"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "вратите на домот на Јахве"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "вратите"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и направи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "си"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "жртвеници"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во секој"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "агол"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "во Јерушалаим"
+    }
+  ],
+  "timestamp": "2026-10-20T00:56:06.362513706Z",
+  "model": "glm-5.3"
+}

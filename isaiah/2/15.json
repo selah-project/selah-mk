@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ѕид⟩",
+      "rationale": "חומה значи заштитен ѕид; македонскиот бара појаснување со „ѕид“ покрај „бедем“"
+    },
+    {
+      "kind": "crux",
+      "subject": "בצורה",
+      "rationale": "корен בצר значи букв. „набрана\/непристапна“ — традиционално „утврдена“"
+    }
+  ],
+  "translation": "и врз секоја висока кула, и врз секој утврдена бедем ⟨ѕид⟩;",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "13bb5e7dd5f6cb11d1d2df0886f8ced0277d3961499d5f13d6d3bfac28274311",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/2\/13-16.1792449543451.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секоја"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "кула"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "висока"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "бедем ⟨ѕид⟩"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "утврдена"
+    }
+  ],
+  "timestamp": "2026-10-19T22:39:03.453960490Z",
+  "model": "glm-5.3"
+}

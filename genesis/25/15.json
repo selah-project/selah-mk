@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חדד \/ הדר",
+      "rationale": "KJV чита Хадар, но консонанталниот текст и верзиите читаат Хадад."
+    }
+  ],
+  "translation": "Хадад, и Тејма, Јетур, Нафиш и Кедема.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0b9b1cc5dc6d1465cb8be9cfc3e52427254c6a149068b50f706c01cec1530052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/25\/13-16.1792442792024.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "Хадад"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "и Тејма"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "Јетур"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Нафиш"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "и Кедема"
+    }
+  ],
+  "timestamp": "2026-10-19T20:46:32.030588145Z",
+  "model": "glm-5.3"
+}

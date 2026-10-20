@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 2:11",
+  "book": "esther",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "како е",
+      "rationale": "שלום е 'мир\/добробит' — буквално 'мирот на Естер'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יום ויום",
+      "rationale": "повторување 'ден и ден' — идиом за секојдневна верност"
+    }
+  ],
+  "translation": "И секој ден, ден по ден, Мардохеј одеше пред тремот на домот на жените, да дознае ⟨את⟩ како е Естер и што ќе биде со неа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3ba0d12876889e7fe4db48e0d99c20e6963b68f4e35c17da12fde8df7fc478d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/esther\/2\/9-12.1792455856125.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "и секој"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ден по ден"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мардохеј"
+    },
+    {
+      "surface": "мתהלך",
+      "gloss": "„одеше“"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "тремот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "на жените"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "да дознае"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "како е Естер"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "како е"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и што"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "בה",
+      "gloss": "со неа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:24:16.126860040Z",
+  "model": "glm-5.3"
+}

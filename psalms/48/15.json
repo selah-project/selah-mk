@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула — македонскиот ја бара"
+    },
+    {
+      "kind": "crux",
+      "subject": "сè до смртта",
+      "rationale": "על מות: традицијата „сè до смртта“ наспроти буквалното על „над\/преку смртта“ (како LXX „над смрт“) — задржав традиционалното"
+    },
+    {
+      "kind": "you",
+      "subject": "Зашто ова",
+      "rationale": "заклучокот на псалмот се обраќа на заедницата што го обиколила Цион"
+    }
+  ],
+  "translation": "Зашто ова ⟨е⟩ Елохим, Елохим на нас ⟨е⟩ во век и повеке; тој ќе нè води сè до смртта.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0eb93a496eaf672950affe49ab3d00a44a0851e938cd49fa5ed6359a22c5ef46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/48\/13-15.1792453324916.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохим на нас"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "во век"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и повеке"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "ќе нè води"
+    },
+    {
+      "surface": "על",
+      "gloss": "сè до"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смртта"
+    }
+  ],
+  "timestamp": "2026-10-19T23:42:04.917854375Z",
+  "model": "glm-5.3"
+}

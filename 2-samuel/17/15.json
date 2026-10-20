@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 17:15",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כזאת וכזאת",
+      "rationale": "хебрејскиот двоен 'вака и вака' — формула за пренесување порака без сите детали."
+    },
+    {
+      "kind": "you",
+      "subject": "Хушај до Цадок и Евјатар",
+      "rationale": "директно соопштение до двата свештеника."
+    }
+  ],
+  "translation": "И Хушај им рече на Цадок и на Евјатар свештениците: вака и вака посоветувал Ахитофел ⟨את⟩ Авшалом и ⟨את⟩ старешините на Јисраел; а јас така и така посоветував.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "608551b73c75d213cca981c7ba1a6ff3541865be5c2bd96ff6d9cb065484eda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/17\/13-16.1792448348570.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Хушај"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Евјатар"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свештениците"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "вака"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "и вака"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "посоветувал"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ахитофел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авшалом"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "старешините на Јисраел"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старешините"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "а така"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "и така"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "посоветував"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    }
+  ],
+  "timestamp": "2026-10-19T22:19:08.573450714Z",
+  "model": "glm-5.3"
+}

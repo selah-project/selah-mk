@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 14:1",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот бара сврзан глагол во пасивна конструкција"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ѕидари и дрводелци",
+      "rationale": "חרשי קיר\/עצים е буквално 'мајстори на ѕид \/ на дрво'"
+    }
+  ],
+  "translation": "И Хирам, царот на Цор, испрати пратеници кај Давид, и кедрови дрвја, и ѕидари и дрводелци, за да му ⟨се⟩ изгради дом.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5a05b24d66802b8ea78d25fc4ed7186f6b3c885f9032bb61b508351b615b9246",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/14\/1-4.1792457068632.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "испрати"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Хирам"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "צר",
+      "gloss": "на Цор"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "пратеници"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "и дрвја"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "кедрови"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "и мајстори-ѕидари"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ѕид"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "и мајстори"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "на дрво"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "за да се изгради"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    }
+  ],
+  "timestamp": "2026-10-20T00:44:28.633314843Z",
+  "model": "glm-5.3"
+}

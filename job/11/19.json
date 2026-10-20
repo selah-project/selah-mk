@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 11:19",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פניך",
+      "rationale": "'твоето лице' е буквално; идиомски 'пред тебе' — задржувam буквалната слика"
+    },
+    {
+      "kind": "idiom",
+      "subject": "וחלו פניך",
+      "rationale": "'да го умилостиват лицето' = да молат за милост, македонскиот го чува идiomот"
+    }
+  ],
+  "translation": "И ќе се протегнеш, и нема кој да те плаши; и многумина ќе го умилостиват твоето лице.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bc62d85a8cddea47d71ca00ffc477c64651bc787b67151bcd7378b1207abcd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/11\/17-20.1792454986859.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורבצת",
+      "gloss": "и ќе се протегнеш"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "кој плаши"
+    },
+    {
+      "surface": "וחלו",
+      "gloss": "и ќе умилостиват"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "твоето лице"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многумина"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:46.860117860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 1:5",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩ · ⟨сè⟩",
+      "rationale": "македонскиот бара сврзник и глагол каде лехаемת е именски строеж"
+    },
+    {
+      "kind": "mystery",
+      "subject": "облик на четири живи суштества",
+      "rationale": "видението е намерно непроодно — облик, не самите нешта"
+    }
+  ],
+  "translation": "И од средината на неа — облик на четири живи суштества; и ова им беше ⟨е⟩ видот: облик на човек имаше ⟨сè⟩ тие.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "03130aa741c68ffc2e6149173fd1f01e6b8e8ae2201c05e8aeb66029c2b602cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/1\/5-8.1792451342418.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומתוכה",
+      "gloss": "и од средината на неа"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "облик"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "живи суштества"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "и ова"
+    },
+    {
+      "surface": "מראיהן",
+      "gloss": "им беше видот"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "облик"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "להנה",
+      "gloss": "имаше ⟨сè⟩ тие"
+    }
+  ],
+  "timestamp": "2026-10-19T23:09:02.419560617Z",
+  "model": "glm-5.3"
+}

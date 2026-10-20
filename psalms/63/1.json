@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "македонскиот сврзник бара помошен глагол што хебрејскиот בהיותו го носи сам"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "במדבר",
+      "rationale": "מדבר значи и пасиште и пустина — двата нианса стојат зад хебрејскиот збор"
+    }
+  ],
+  "translation": "Мизмор на Давид, кога беше ⟨се⟩ во пустина на Јехуда.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/63\/1-4.1792453459783.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "кога беше"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "во пустина"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    }
+  ],
+  "timestamp": "2026-10-19T23:44:19.783914526Z",
+  "model": "glm-5.3"
+}

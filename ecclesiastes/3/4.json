@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "оплакување",
+      "rationale": "ספוד буквално е кинење на косата и удирање во гради — обредна жалост, не само тага"
+    },
+    {
+      "kind": "substitution",
+      "subject": "играње",
+      "rationale": "רקוד е скокање и игра од радост — весело скокање, не само танц"
+    }
+  ],
+  "translation": "час за плачење и час за смеење; час за оплакување и час за играње;",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/3\/1-4.1792455690568.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "час"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "за плачење"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и час"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "за смеење"
+    },
+    {
+      "surface": "עת",
+      "gloss": "час"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "за оплакување"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и час"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "за играње"
+    }
+  ],
+  "timestamp": "2026-10-20T00:21:30.569916817Z",
+  "model": "glm-5.3"
+}

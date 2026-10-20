@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מזח",
+      "rationale": "hapax: 'појас\/ремен' според буквата; традицијата дели — 'пристаниште' (BSB), 'сила' (KJV), 'ограничување' (ASV)"
+    },
+    {
+      "kind": "crux",
+      "subject": "עברי",
+      "rationale": "'премини\/преплави ја земјата' — KJV 'помини', JPS 'преплави како Нил'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מזח",
+      "rationale": "зборот се јавува само тука во Танах"
+    }
+  ],
+  "translation": "Прелија ја земјата своја како ⟨реката⟩ Нил, ќерко Таршишка — нема веќе појас.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "cd39e4fb876fa6f88b0e785e88ec953e36789bd929c2dac8413aeb8eb10b10f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/23\/9-12.1792449796260.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Прелија"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "земјата своја"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "како Нил"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерко"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Таршишка"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "појас"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "веќе"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:16.263005901Z",
+  "model": "glm-5.3"
+}

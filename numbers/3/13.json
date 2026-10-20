@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 3:13",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сум",
+      "rationale": "хебрејскиот нема копула во אני יהוה"
+    },
+    {
+      "kind": "you",
+      "subject": "до Моше",
+      "rationale": "Јахве му зборува на Моше во Синајскиот месност"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בכור ×4",
+      "rationale": "четирикратно повторување на 'првороден' — ритам што го врзува стихот"
+    }
+  ],
+  "translation": "Зашто мој е секој првороден; во денот кога ги поразив сите првородени во земјата Мицраим, ги осветив за Себе сите првородени во Јисраел, од човек до добиток — мои ќе бидат: Јас ⟨сум⟩ Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "85dd3c746009793a061aa1c43851e077650f1735c992a698cb687c767e121685",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/3\/13-16.1792444620165.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мој е"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "првороден"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "הכתי",
+      "gloss": "кога ги поразив"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "првородени"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "ги осветив"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за Себе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "првородени"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "во Јисраел"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "од човек"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "добиток"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мои"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ќе бидат"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:17:00.166058323Z",
+  "model": "glm-5.3"
+}

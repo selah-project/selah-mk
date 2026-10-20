@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "гробот со злотворите",
+      "rationale": "ולא: дали гробот е даден со злотворите (KJV) или злотворите добиваат гроб наместо него (LXX 'даде злотворите за погреб')"
+    },
+    {
+      "kind": "crux",
+      "subject": "במתיו",
+      "rationale": "множина 'во смртите негови' — необична множина; еднина во преводот"
+    }
+  ],
+  "translation": "И го даде ⟨את⟩ гробот негов со злотворите, и ⟨את⟩ богатиот во смртта негова — зашто насилство не направи, ни измама во устата негова.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a6ed37f8da4e1edbb8956eb75f873939ae3d65161d00e15fbed220d0ac0818ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/53\/9-12.1792450230234.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И го даде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "злотворите"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злотворите"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "гробот негов"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "богатиот"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "богатиот"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "во смртта негова"
+    },
+    {
+      "surface": "על",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насилство"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "измама"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "во устата негова"
+    }
+  ],
+  "timestamp": "2026-10-19T22:50:30.235343708Z",
+  "model": "glm-5.3"
+}

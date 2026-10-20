@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "слана",
+      "rationale": "כפור е 'мраз\/слана' (леdeц што покрива), од коренот 'покрива'"
+    }
+  ],
+  "translation": "Тој дава снег како волна, слана како пепел растура.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "aefde5ace56cc26ce7c9fa31fcee9847094d4270bb48c85742065604024d4606",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/147\/13-16.1792454216745.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Тој дава"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "снег"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "како волна"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "слана"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "како пепел"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "растура"
+    }
+  ],
+  "timestamp": "2026-10-19T23:56:56.747658282Z",
+  "model": "glm-5.3"
+}

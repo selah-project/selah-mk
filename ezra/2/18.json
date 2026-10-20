@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "тирета",
+      "rationale": "лист без глагол; македонскиот бара сврзник"
+    },
+    {
+      "kind": "measurement",
+      "subject": "попис",
+      "rationale": "број на врататениците од домот на Јора"
+    }
+  ],
+  "translation": "Синовите на Јора — сто и дванаесет.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4f9eebb1df562aaf8d78e0ab2f35b632563e2d9c0b55678669e182bff105ec8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezra\/2\/17-20.1792456284456.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовите"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "на Јора"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наесет"
+    }
+  ],
+  "timestamp": "2026-10-20T00:31:24.457552054Z",
+  "model": "glm-5.3"
+}

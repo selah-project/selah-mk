@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 4:35",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויזורר",
+      "rationale": "кивна — речиси сигурно „кивне“ (единствената употреба), но коренот е нејасен; некои читаат „издиша“"
+    },
+    {
+      "kind": "hapax",
+      "subject": "זורר",
+      "rationale": " appearances на коренот זרר само тука во Танахот"
+    },
+    {
+      "kind": "measurement",
+      "subject": "седум пати",
+      "rationale": "бројот седум како полн број"
+    }
+  ],
+  "translation": "И се врати и прошета низ куќата еднаш овде и еднаш онаму, и се качи и се простре врз него, и кивна момчето седум пати, и момчето ги отвори ⟨את⟩ очите свои.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "58b2edced5804a88780a958ea83a70be3a19b9e85fb287b193fcd109beb67634",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/4\/33-36.1792449127784.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и се врати"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и прошета"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "низ куќата"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "еднаш"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "овде"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "и еднаш"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "онаму"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "и се качи"
+    },
+    {
+      "surface": "ויגהר",
+      "gloss": "и се простре"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "врз него"
+    },
+    {
+      "surface": "ויזורר",
+      "gloss": "и кивна"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "момчето"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седум"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "пати"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "и ги отвори"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "момчето"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "очите свои"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "очите свои"
+    }
+  ],
+  "timestamp": "2026-10-19T22:32:07.786478031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "(и десет)",
+      "rationale": "Хебрејското שמונה עשרה е сложен број \"осум-на-десет\"; македонскиот користи еден збор осумнаесет"
+    }
+  ],
+  "translation": "Во осумнаесеттата година на царот Јаровоам, Авија зацари над Јудеја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "eeeb1b2fefe34926aa45177c1e335a888b6469bf0165011d83b1940c1310a09d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/13\/1-4.1792457502643.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Во годината"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "осумнаесеттата"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(и десет)"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Јаровоам"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и зацари"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авија"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудеја"
+    }
+  ],
+  "timestamp": "2026-10-20T00:51:42.643808382Z",
+  "model": "glm-5.3"
+}

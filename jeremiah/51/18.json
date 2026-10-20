@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 51:18",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "хебрејскиот нема копула; македонскиот бара 'се'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "оневелени",
+      "rationale": "הבל — здив\/пареа, нешто минливо и празно."
+    },
+    {
+      "kind": "elision",
+      "subject": "פקדתם",
+      "rationale": "посета = официјална ревизија\/казна; 'посета' чува двосмисленоста на פקד."
+    }
+  ],
+  "translation": "Оневелени се тие, дело на измами; во времето на нивната посета ќе загинат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cf9a1d39d2238a4a95e95340c9bf70b477e3612427efcd7035651205cc338f14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/51\/17-20.1792451295061.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "оневелени"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "на измами"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "во времето"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "на нивната посета"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ќе загинат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:08:15.062285695Z",
+  "model": "glm-5.3"
+}

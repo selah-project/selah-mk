@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 1:16",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "וקוה ינטה על ירושלם",
+      "rationale": "мерното јаже што се опнува над градот — слика на премерување за повторна изградба"
+    },
+    {
+      "kind": "crux",
+      "subject": "וקוה",
+      "rationale": "נאם „мерно јаже“ — гласај K\/Qre: ктив וקוה, кере וקו; ист корен, иста слика"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨мерно⟩",
+      "rationale": "додадено за да се види дека станува збор за мерно јаже, не обично врвка"
+    }
+  ],
+  "translation": "Затоа така вели Јахве: Вратив се кон Јерушалаим со милости — домот мој ќе се изгради во него, изрече Јахве Цеваот, и јаже ⟨мерно⟩ ќе се опне над Јерушалаим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "32cc0405ad97c6ba5174b41c527738d84b0e81657eb18a26080b5262c3059c20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/1\/13-16.1792452699803.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Затоа"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "Вратив се"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "кон Јерушалаим"
+    },
+    {
+      "surface": "ברחמים",
+      "gloss": "со милости"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "домот мој"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ќе се изгради"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во него"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "и јаже"
+    },
+    {
+      "surface": "ינטה",
+      "gloss": "ќе се опне"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    }
+  ],
+  "timestamp": "2026-10-19T23:31:39.805088599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 22:3",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלך בדרכי",
+      "rationale": "„одеше по патиштата“ — хебрејски израз за живот според примерот на некој; задржано буквално."
+    }
+  ],
+  "translation": "И тој одеше по патиштата на домот на Ахав, зашто мајка му му беше советничка за зло.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bbd22f21c97c920e672bc73dad2cf3061b99f803b2d36df352e0561f6d792e9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/22\/1-4.1792457704644.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "одеше"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "по патиштата"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "на Ахав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "мајка му"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "יועצתו",
+      "gloss": "негова советничка"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "да прави зло"
+    }
+  ],
+  "timestamp": "2026-10-20T00:55:04.645857786Z",
+  "model": "glm-5.3"
+}

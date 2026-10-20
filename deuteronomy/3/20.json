@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 3:20",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "првото אשר („додека [тоа што]…“) нема свој македонски збор — вметнато е „не… даде“ со негација."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ירשה",
+      "rationale": "„наследување\/поседување со истерување“ — „удел“ го губи глаголскиот однос со וירשו во истиот стих."
+    }
+  ],
+  "translation": "Додека Јахве не им даде одмор на вашите браќа, како и вам, и тие да ја наследат ⟨את⟩ земјата што Јахве, вашиот Елохим, им ја дава онаму преку Јарден; тогаш ќе се вратите секој во својот удел што ви го дадов.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "78946dd3edb6ddbd0df0bf7ca1280f0f974279ff42daa50818f010bfaa51207b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/3\/17-20.1792445334209.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "не даде одмор"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "на вашите браќа"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "како и вас"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "и да ја наследат"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "הם",
+      "gloss": "тие"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "вашиот Елохим"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дава"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "онаму преку"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Јарден"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "ќе се вратите"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој"
+    },
+    {
+      "surface": "לירשתו",
+      "gloss": "во својот удел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дадов"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    }
+  ],
+  "timestamp": "2026-10-19T21:28:54.210976531Z",
+  "model": "glm-5.3"
+}

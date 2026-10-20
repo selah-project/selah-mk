@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 40:11",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "гневот",
+      "rationale": "אף е буквално нос\/ноздрви — слика на гневен здив."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גאון · גבה · גאה",
+      "rationale": "Повторување на коренот גאה\/גבה — сè иста слика на височост, изгубена во македонскиот."
+    }
+  ],
+  "translation": "Расфрлај го бранот на гневот свој, и погледни го секој гордел и понижи го.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ddc96f5b4a9968a83a0c7b5889c591dfe192340bc037b4a7a916fa2eec58d31f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/40\/9-12.1792455355029.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפץ",
+      "gloss": "Расфрлај"
+    },
+    {
+      "surface": "עברות",
+      "gloss": "бранот на"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "гневот свој"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и погледни"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "гордел"
+    },
+    {
+      "surface": "והשפילהו",
+      "gloss": "и понижи го"
+    }
+  ],
+  "timestamp": "2026-10-20T00:15:55.029932070Z",
+  "model": "glm-5.3"
+}

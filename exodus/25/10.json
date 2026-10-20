@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "димензии на ковчегот",
+      "rationale": "две и половина лакти должина, лакт и половина ширина и височина"
+    },
+    {
+      "kind": "substitution",
+      "subject": "шитим-дрво",
+      "rationale": "שטים е акација, напишано според хебрејскиот звук со спојка"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שטים",
+      "rationale": "акацијата како дрво за светилиштето — името го носи својот звук"
+    }
+  ],
+  "translation": "И нека направат ковчег од шитим-дрво: две лакти и половина неговата должина, и лакт и половина неговата ширина, и лакт и половина неговата височина.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "ee373294631b19d6f72f876a528b328eb08cf3d35438145d3cf68c8988146930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/25\/9-12.1792447744064.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "и нека направат"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шитим"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "две лакти"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "и половина"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "неговата должина"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "и лакт"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "и половина"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "неговата ширина"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "и лакт"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "и половина"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "неговата височина"
+    }
+  ],
+  "timestamp": "2026-10-19T22:09:04.068249407Z",
+  "model": "glm-5.3"
+}

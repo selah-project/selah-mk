@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 15:22",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "пасивна конструкција што македонскиот ја бара"
+    },
+    {
+      "kind": "crux",
+      "subject": "וצפו הוא אלי חרב",
+      "rationale": "KJV „него го чека мечот“ (пасив) наспроти букв. „тој гледа кон мечот“ (актив); форми́ката е двосмислена"
+    }
+  ],
+  "translation": "Не верува дека може да се врати од темнината; и набљудуван ⟨е⟩ тој за меч.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "94b187575137ce243e55ab4ac0ed5d27c0f2005ba5f00940da84c0415fafbcac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/15\/21-24.1792455001366.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "верува"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "да се врати"
+    },
+    {
+      "surface": "מני",
+      "gloss": "од"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "темнината"
+    },
+    {
+      "surface": "וצפו",
+      "gloss": "и набљудуван"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "за"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    }
+  ],
+  "timestamp": "2026-10-20T00:10:01.367309119Z",
+  "model": "glm-5.3"
+}

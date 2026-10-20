@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "како „затоа“ (KJV) или како „кога\/додека“ (JPS: доверував и додека зборував)"
+    },
+    {
+      "kind": "crux",
+      "subject": "עניתי",
+      "gloss": "букв. „одговорив\/бев понизен“ — традицијата: „бев во голема неволја“"
+    }
+  ],
+  "translation": "Поверував, ⟨затоа⟩ зборував — јас многу пострадав.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9f58a11b1cc15e365db798881c68fda07224e8dec0b6059f3be84b87af347ac0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/116\/9-12.1792453920180.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "Поверував"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨затоа⟩"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "зборував"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "пострадав"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    }
+  ],
+  "timestamp": "2026-10-19T23:52:00.180863980Z",
+  "model": "glm-5.3"
+}

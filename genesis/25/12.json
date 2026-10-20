@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 25:12",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот е именска реченица без копула"
+    },
+    {
+      "kind": "measurement",
+      "subject": "תלדת",
+      "rationale": "толдот — родословна листа, почеток на списокот на потомците на Ишмаел"
+    }
+  ],
+  "translation": "И ова ⟨се⟩ потомството на Ишмаел, син Аврахамов, кого му роди на Аврахам Агарта Мицраимка, слугината на Сара.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "de05087e2ce424be23747e2d43c6088eb990d1b5c91fc9e32be64c963da95786",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/25\/9-12.1792442795980.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "и ова"
+    },
+    {
+      "surface": "תלדת",
+      "gloss": "потомството"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "на Ишмаел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахамов"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кого"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "му роди"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Агарта"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Мицраимка"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "слугината"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "на Сара"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "на Аврахам"
+    }
+  ],
+  "timestamp": "2026-10-19T20:46:36.010061429Z",
+  "model": "glm-5.3"
+}

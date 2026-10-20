@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אך",
+      "rationale": "„но\/само“ — JPS чита „оние што само жвакаат или само делат копито“; KJV\/BSB читаат ограничување „но овие не јадете“"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула во „таа нечиста“"
+    }
+  ],
+  "translation": "Но ⟨את⟩ ова да не го јадете од оние што прекажуваат жвакање и што имаат поделено копито: ⟨את⟩ камилата, зашто таа прекажува жвакање, но копито не дели целосно — таа ⟨е⟩ нечиста за вас.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f325a37d19a2507b9a81746b40d2b4bc2c77ccac2efe7b2611dcda5a2983ec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/11\/1-4.1792444186657.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Но"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ова"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "да го јадете"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "од оние што прекажуваат"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "жвакање"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "и од оние што делат"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "копито"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "камилата"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "камилата"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "прекажува"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "жвакање"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "но копито"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "не"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "дели целосно"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечиста"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-10-19T21:09:46.661914684Z",
+  "model": "glm-5.3"
+}

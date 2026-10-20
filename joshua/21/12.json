@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "посед",
+      "rationale": "Распределба на земја како сопственост — מגרש наспроти אחזה, град наспроти поле."
+    }
+  ],
+  "translation": "А ⟨את⟩ полето на градот и ⟨את⟩ селцата негови ги дадоа на Калев, синот на Јефуне, за негов посед.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f7218e2316651d3ed1c66a2d6c55baaeaaee77111433bcca1cbf8db535a6b44c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/21\/9-12.1792446206733.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "полето на градот"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "полето"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "на градот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "селцата негови"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "селцата негови"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ги дадоа"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "на Калев"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "на Јефуне"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "за негов посед"
+    }
+  ],
+  "timestamp": "2026-10-19T21:43:26.735166143Z",
+  "model": "glm-5.3"
+}

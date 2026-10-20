@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 43:10",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Езекиил",
+      "rationale": "Директен говор до човечкиот син"
+    },
+    {
+      "kind": "measurement",
+      "subject": "мерење",
+      "rationale": "Заповед да се измери планот на домот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "мерна скица",
+      "rationale": "תכנית е мера\/план — целосен одмерен дизајн"
+    }
+  ],
+  "translation": "Ти, човечки сину, покажи им ⟨את⟩ на домот Јисраел ⟨את⟩ домот, и нека се засрамат од своите беззаконија, и нека ја измерат ⟨את⟩ неговата мерна скица.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "269d28a48addbe680ee8da00a3018da41435581ffe5761aa7ab1efed45e71e7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/43\/9-12.1792452052234.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сину"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечки"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "покажи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "домот Јисраелов"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "домот"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨се⟩ домот"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "и нека се засрамат"
+    },
+    {
+      "surface": "מעונותיהם",
+      "gloss": "од своите беззаконија"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "и нека измерат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мерната скица"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "неговата мерна скица"
+    }
+  ],
+  "timestamp": "2026-10-19T23:20:52.235157290Z",
+  "model": "glm-5.3"
+}

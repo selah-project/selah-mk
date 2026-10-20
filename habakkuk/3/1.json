@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שגינות",
+      "rationale": "Ретката музичко-поетска назнака (ср. Псалм 7:1 שיגיון) — преведувачите се делат: „на скитнички напев“ (KJV „upon Shigionoth“) vs „за заблудените“; задржав звукот."
+    },
+    {
+      "kind": "crux",
+      "subject": "шигајот",
+      "rationale": "Можни читања: музички знак (JPS), „поради заблудени“ (Wycliffe\/YLT) или занесен\/лавирачки стих; букв. „отстапување“."
+    }
+  ],
+  "translation": "Молитва на пророкот Авакум на шигајот⟨е⟩.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3ace61044838b1df432595ac423b3503c7557acbde4d3fd4dd10e2c4c84f31bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/habakkuk\/3\/1-4.1792452589139.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Молитва"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "на Авакум"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкот"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "шигајот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:29:49.139618573Z",
+  "model": "glm-5.3"
+}

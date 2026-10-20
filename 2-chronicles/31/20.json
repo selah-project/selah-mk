@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 31:20",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יחזקיהו \/ חזק",
+      "rationale": "името значи „Јахве зајакнува“ — истата согласка מקרади во наративот за обновување"
+    }
+  ],
+  "translation": "И направи таква работа Јехизкија во цела Јехуда, и правеше доброто и правото и вистината пред Јахве, Елохим неговиот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "abaf1e32ed97e641b859f4a69f1019bb79d2451268292dd488242392dffde3b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/31\/17-20.1792457848921.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и направи"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "таква работа"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Јехизкија"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во цела"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и правеше"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "доброто"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "и правото"
+    },
+    {
+      "surface": "והאמת",
+      "gloss": "и вистината"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Елохим неговиот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:57:28.922738306Z",
+  "model": "glm-5.3"
+}

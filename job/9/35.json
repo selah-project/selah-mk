@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 9:35",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי לא כן אנכי עמדי",
+      "rationale": "'зашто не така сум со себе' (KJV\/JPS) vs YLT 'не сум прав со себе' vs BSB 'останувам сам' — עמדי 'со мене' е отворено"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩ · ⟨од него⟩",
+      "rationale": "македонските возвратни и предложни форми што хебрејскиот ги собира во איראנו"
+    },
+    {
+      "kind": "you",
+      "subject": "до Елохим",
+      "rationale": "желба-обраќање кон Еlohим: Јов бара суд без страв"
+    }
+  ],
+  "translation": "Тогаш ќе зборувам и нема да го плашам ⟨се⟩ ⟨од него⟩, зашто не така ⟨е⟩ со мене самиот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "933871900b4a241ea5300255c5268a3a0eecc49e69c48b81563f3ae23709be21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/9\/33-35.1792454943348.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "ќе зборувам"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "איראנו",
+      "gloss": "да го плашам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "со мене"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:03.349726593Z",
+  "model": "glm-5.3"
+}

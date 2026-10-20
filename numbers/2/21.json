@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 2:21",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "број",
+      "rationale": "бројот на војската на племето Манасија: 32.200"
+    }
+  ],
+  "translation": "и неговото војско и преброените од нив: дваесет и два илјади и двеста.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3f48c49184e2cb27940c6b84cd70606be13abf31a4b4b90629eb0f7566227eb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/2\/21-24.1792444586955.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "и неговото војско"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "и преброените од нив"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дваесет"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "и два"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "и двеста"
+    }
+  ],
+  "timestamp": "2026-10-19T21:16:26.955824409Z",
+  "model": "glm-5.3"
+}

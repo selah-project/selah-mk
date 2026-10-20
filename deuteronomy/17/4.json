@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 17:4",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот испушта копула во „вистина, потврдена е работата“"
+    },
+    {
+      "kind": "you",
+      "subject": "до судиите\/народот",
+      "rationale": "стихот се обраќа директно на „ти“ — заедницата што треба да испита и да постапи"
+    }
+  ],
+  "translation": "и ти биде кажано, и ти чуеш, и испиташ добро — а еве, вистина е, работата е потврдена: оваа одвратност е направена во Јисраел —",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e9b94d43cecdca996ba506d597951075fcd2c4829a758a2008a479aa130d0044",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/17\/1-4.1792445619277.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "и биде кажано"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "и чуеш"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "и испиташ"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "а еве"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "вистина ⟨е⟩"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "потврдена"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "работата"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "е направена"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "одвратноста"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "во Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T21:33:39.279129488Z",
+  "model": "glm-5.3"
+}

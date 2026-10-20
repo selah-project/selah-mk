@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 46:23",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "טירות",
+      "rationale": "Реткоречен збор (од טיר, кула\/ѕид): „ѕидови-тири“ — оставен полулитерален бидејќи значењето е несигурно."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב ×3",
+      "rationale": "„Околу“ се повторува три пати во еден стих — кружно движење задржано со буквален ред."
+    },
+    {
+      "kind": "crux",
+      "subject": "טור",
+      "rationale": "„Ред\/ѕидарски ред“ (KJV row, ASV wall) — слика на ред ѕидарија околу четирите дворови."
+    }
+  ],
+  "translation": "И ред <ѕидарија> околу нив, околу, за сите четири; и огништа за варење направени под тирите-ѕидови околу.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3c05d866d68a7616f12f768130d70f7076bde95d79ad9f174ab87847de777d98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/46\/21-24.1792452135763.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטור",
+      "gloss": "И ред"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "околу"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "них"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "околу"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "за сите четири"
+    },
+    {
+      "surface": "ומבשלות",
+      "gloss": "и огништа за варење"
+    },
+    {
+      "surface": "עשוי",
+      "gloss": "направени"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "הטירות",
+      "gloss": "тирите-ѕидови"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "околу"
+    }
+  ],
+  "timestamp": "2026-10-19T23:22:15.764330694Z",
+  "model": "glm-5.3"
+}

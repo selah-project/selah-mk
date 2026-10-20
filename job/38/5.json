@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Јов",
+      "rationale": "Прашањата се директно упатени кон Јов од Јахве."
+    },
+    {
+      "kind": "measurement",
+      "subject": "мерките · конец",
+      "rationale": "Стихот е за мерење на земјата — мерки и мерен конец."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי תדע",
+      "rationale": "Буквално „зашто да знаеш“ — прашањето е предизвик, не причина."
+    }
+  ],
+  "translation": "Кој ги постави мерките нејзини — ако знаеш? Или кој протегна врз неа конец?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "35623f0b1f61aaee2571be6a4edbafacd83698cf0771b2e2e12f37b8aa57a482",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/38\/5-8.1792455295141.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "שם",
+      "gloss": "постави"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "мерките нејзини"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "знаеш"
+    },
+    {
+      "surface": "או",
+      "gloss": "Или"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "протегна"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "врз неа"
+    },
+    {
+      "surface": "קו",
+      "gloss": "конец"
+    }
+  ],
+  "timestamp": "2026-10-20T00:14:55.141549146Z",
+  "model": "glm-5.3"
+}

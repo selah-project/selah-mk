@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 21:27",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до пријателите на Јов",
+      "rationale": "Јов им се обраќа директно на Елифаз и другарите"
+    },
+    {
+      "kind": "substitution",
+      "subject": "насилно постапувате",
+      "rationale": "חמס е насилство\/малтретирање, не само 'измислувате' како во KJV"
+    }
+  ],
+  "translation": "Ене, јас ги знам вашите намери и плановите со кои насилно постапувате спроти мене.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "286d68257cc6d09c800b35b1906d137cc01f2b131505ae6ece66a117b4bcef70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/21\/25-28.1792455118987.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ене"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "јас ги знам"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "вашите намери"
+    },
+    {
+      "surface": "ומזמות",
+      "gloss": "и плановите"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "спроти мене"
+    },
+    {
+      "surface": "תחמסו",
+      "gloss": "насилно постапувате"
+    }
+  ],
+  "timestamp": "2026-10-20T00:11:58.988245051Z",
+  "model": "glm-5.3"
+}

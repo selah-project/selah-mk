@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 17:4",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 17,
+  "translation": "И Елазар свештеникот ги зеде ⟨את⟩ бакарните кадилници што ги принесоа изгорените, и ги искукаа како обвивка за жртвеникот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b5da26360a945fd7992151829cae0f5a7680ee15e79b9f555b642e45e3529033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/17\/1-4.1792444866009.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И зеде"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Елазар"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кадилниците"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "кадилниците"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "бакарните"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "ги принесоа"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "изгорените"
+    },
+    {
+      "surface": "וירקעום",
+      "gloss": "и ги искукаа"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "обвивка"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "за жртвеникот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:21:06.011807310Z",
+  "model": "glm-5.3"
+}

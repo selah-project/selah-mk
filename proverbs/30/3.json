@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קדשים",
+      "rationale": "Множина „на светите\/Светиот“ — еднина („на Светиот“) или множина како апстракт („светост“); обликот останува множина."
+    }
+  ],
+  "translation": "И не се научив на мудрост, а знаење на светите — дали да знам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c1f519550c5932c037aff7281dde419de295c41d45ca261f3051263f39fa2982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/30\/1-4.1792454811611.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "се научив"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "на мудрост"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "а знаење"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "на светите"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "дали да знам"
+    }
+  ],
+  "timestamp": "2026-10-20T00:06:51.612241882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ги отворија устата",
+      "rationale": "פצה פה — идиом за широко отворање на устата во закана и глумење."
+    }
+  ],
+  "translation": "Ги отворија против нас својата уста сите наши непријатели.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bc3272500cc2d099ec1727de19608bdb913fbeb679742c6995389a35ebef79a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/3\/45-48.1792455633532.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "ги отворија"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "против нас"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "својата уста"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "нашите непријатели"
+    }
+  ],
+  "timestamp": "2026-10-20T00:20:33.533347911Z",
+  "model": "glm-5.3"
+}

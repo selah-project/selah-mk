@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 44:21",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ќе го ставам окото мое врз него",
+      "rationale": "„стави окото на“ — хебрејски израз за внимателно надгледување"
+    }
+  ],
+  "translation": "И ти рече на слугите свои: Сведете го долу кај мене, и ќе го ставам окото мое врз него.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5c3d7b915734945335198bfb967da9e29d2b152041fa9243dd5f30456f19980c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/44\/21-24.1792443186302.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И ти рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "слугите свои"
+    },
+    {
+      "surface": "הורדהו",
+      "gloss": "сведете го долу"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "кај мене"
+    },
+    {
+      "surface": "ואשימה",
+      "gloss": "и ќе го ставам"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "окото мое"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "врз него"
+    }
+  ],
+  "timestamp": "2026-10-19T20:53:06.304305475Z",
+  "model": "glm-5.3"
+}

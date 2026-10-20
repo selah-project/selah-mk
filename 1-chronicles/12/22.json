@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 12:22",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הגדוד",
+      "rationale": "„дружината“ — разбојничка чета што го напаѓала Циклаг наспроти „војска“; или пак редовна единица."
+    },
+    {
+      "kind": "substitution",
+      "subject": "станаа",
+      "rationale": "ויהיו е само „беа\/станаа“ — имперфективен свијаг, не чиста копула."
+    }
+  ],
+  "translation": "И тие помагаа со Давид против дружината, зашто сите беа јунаци на сила, и станаа старешини во војската.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0294cb332435402e729a92ffedc7af984a1e6c6df84dd3d12deb3885ff3331f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/12\/21-24.1792457000441.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "и тие"
+    },
+    {
+      "surface": "עזרו",
+      "gloss": "помагаа"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "дружината"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "јунаци"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "на сила"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "станаа"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "старешини"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "во војската"
+    }
+  ],
+  "timestamp": "2026-10-20T00:43:20.442461085Z",
+  "model": "glm-5.3"
+}

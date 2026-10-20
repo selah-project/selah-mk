@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 11:22",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "посетам",
+      "rationale": "פקד значи и 'посетам' и 'казнувам'; зачуван е дословниот глагол, казната е во заграда"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פקד \/ פקדתם",
+      "rationale": "глаголот פקד (в. 22) и именката פקדתם (в. 23) од ист корен — годината на посетата е исполнетото 'посетување'"
+    }
+  ],
+  "translation": "Затоа така вели Јахве Цеваот: Еве, Јас ќе ги посетам ⟨со казна⟩ — младињите ќе умрат од меч, а нивните синови и нивните ќерки ќе умрат од глад.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a8b86246158902ae3e34001c00a2dc90e2752c58f6bf812ff68fd36f7be9a038",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/11\/21-23.1792450545570.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Затоа"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Еве, Јас"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ќе ги посетам"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "⟨со казна⟩ врз нив"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "младињите"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ќе умрат"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "од меч"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "нивните синови"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "и нивните ќерки"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ќе умрат"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "од глад"
+    }
+  ],
+  "timestamp": "2026-10-19T22:55:45.571990405Z",
+  "model": "glm-5.3"
+}

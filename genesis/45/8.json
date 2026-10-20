@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לאב לפרעה",
+      "rationale": "„татко на фараонот“ — египетска титула за премиер\/доверлив советник, не буквален татко."
+    },
+    {
+      "kind": "substitution",
+      "subject": "туку",
+      "rationale": "כי тука е контрастен („туку“), не причински („зашто“)."
+    },
+    {
+      "kind": "you",
+      "subject": "браќата на Јосеф",
+      "rationale": "директен говор до браќата продолжува."
+    }
+  ],
+  "translation": "И сега — не вие ме испративте ⟨את⟩ дотука, туку Елохим; и ме постави за татко на фараонот, и за господар на целиот негов дом, и за владетел на цела земја Мицраим.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "dea7e4ff419f0823b042d7d48b058c5fdfcfcfff3ad6b3fe05709c1876e82a91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/45\/5-8.1792443256501.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "и сега"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "ме испративте"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мене"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "дотука"
+    },
+    {
+      "surface": "כי",
+      "gloss": "туку"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "и ме постави"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "за татко"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "на фараонот"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "и за господар"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на целиот"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "негов дом"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "и за владетел"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "на цела"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-19T20:54:16.503236895Z",
+  "model": "glm-5.3"
+}

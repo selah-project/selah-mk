@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "десет шекели",
+      "rationale": "тежина на садот"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨шекели⟩",
+      "rationale": "хебрејскиот вели само 'десет' — единицата е подразбирана"
+    },
+    {
+      "kind": "substitution",
+      "subject": "дланка",
+      "rationale": "כף значи шуплива дланка\/лапа; обичните преводи 'ложица' или 'пан' ја губат сликата"
+    }
+  ],
+  "translation": "една златна дланка од десет ⟨шекели⟩, полна со тамјан.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "4fb79177a61402d9499a925fc6a5692f617c1deba21060b214d7321cb4f30ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/7\/77-80.1792444739631.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "дланка"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златна"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "полна"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "тамјан"
+    }
+  ],
+  "timestamp": "2026-10-19T21:18:59.632600134Z",
+  "model": "glm-5.3"
+}

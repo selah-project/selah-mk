@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 14:15",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ако усмртиш",
+      "rationale": "хебрејскиот е сврзан придовор (вау-консекутив) „и усмртиш“, но контекстот е условна хипотеза на Моше"
+    }
+  ],
+  "translation": "ако го усмртиш ⟨את⟩ овој народ како еден човек, тогаш народите што го чуле ⟨את⟩ гласот за тебе ќе речат, велејќи:",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "d02751a36d7bc6885552b713948480b52c0683c6ef70eab456290ebce8367ea7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/14\/14-16.1792447784186.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמתה",
+      "gloss": "ако усмртиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "овој народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "како еден човек"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "и ќе речат"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чуле"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гласот за тебе"
+    },
+    {
+      "surface": "שמעך",
+      "gloss": "гласот за тебе"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    }
+  ],
+  "timestamp": "2026-10-19T22:09:44.188067441Z",
+  "model": "glm-5.3"
+}

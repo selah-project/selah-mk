@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "пасивен глагол барем на македонски; хебрејскиот ויגד е безлична пасивна форма"
+    },
+    {
+      "kind": "measurement",
+      "subject": "третиот ден",
+      "rationale": "броење денови — Јааков имаше три днина предност"
+    }
+  ],
+  "translation": "И ⟨беше⟩ соопштено на Лаван на третиот ден дека побегнал Јааков.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2563c0468bcb8f61be021f965948fba2d004a6d214c6cab9a4baae5471a5edf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/31\/21-24.1792442934245.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "и ⟨беше⟩ соопштено"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "на Лаван"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "на ден"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третиот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "побегнал"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    }
+  ],
+  "timestamp": "2026-10-19T20:48:54.247498930Z",
+  "model": "glm-5.3"
+}

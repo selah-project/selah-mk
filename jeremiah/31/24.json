@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 31:24",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "יחדו",
+      "rationale": "ЈЛТ чита 'по ред, во карван' (од סדר), но обичното чтение е 'заедно' од יחד."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אכרים",
+      "gloss": "Буквално 'орачи\/земјоделци' — слика на мирен живот по враќањето, не војници."
+    }
+  ],
+  "translation": "И ќе живеат во неа Јехуда и сите градови нејзини заедно — орачи и оние што се движат со стадото.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4f99e194fa803aea8a324e3a572416cafcc4dd6dc14a2a4d0fdae9638130a214",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/31\/21-24.1792450873636.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "И ќе живеат"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во неа"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сите"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "градови нејзини"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заедно"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "орачи"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "и оние што се движат"
+    },
+    {
+      "surface": "בעדר",
+      "gloss": "со стадото"
+    }
+  ],
+  "timestamp": "2026-10-19T23:01:13.637741727Z",
+  "model": "glm-5.3"
+}

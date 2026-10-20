@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 5:16",
+  "book": "ezra",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "македонскиот среден глагол бара 'се'; арамејскиот מתבנא е имперfect-пасив без показател."
+    },
+    {
+      "kind": "measurement",
+      "subject": "одтогаш па досега",
+      "rationale": "временска возраст на градењето — пресметка без бројка, до 'сега' на писмото."
+    }
+  ],
+  "translation": "Тогаш Шешбацар тој дојде и ги постави темелите на домот на Елоах што е во Јерушалаим, и одтогаш па досега ⟨се⟩ гради, а не е завршен.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a07c4da2ceeef8267fb0cd0b22fdda7c4bf63bc54d8d591390e6d80d784cf694",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezra\/5\/13-16.1792456386948.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "тогаш"
+    },
+    {
+      "surface": "ששבצר",
+      "gloss": "Шешбацар"
+    },
+    {
+      "surface": "דך",
+      "gloss": "тој"
+    },
+    {
+      "surface": "אתא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "ги постави"
+    },
+    {
+      "surface": "אשיא",
+      "gloss": "темелите"
+    },
+    {
+      "surface": "די",
+      "gloss": "на"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "на Елоах"
+    },
+    {
+      "surface": "די",
+      "gloss": "што"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "е во Јерушалаим"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "אדין",
+      "gloss": "тогаш"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "па до"
+    },
+    {
+      "surface": "כען",
+      "gloss": "сега"
+    },
+    {
+      "surface": "מתבנא",
+      "gloss": "⟨се⟩ гради"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "е завршен"
+    }
+  ],
+  "timestamp": "2026-10-20T00:33:06.949750030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 16:17",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ראו נא לי",
+      "rationale": "буквално 'видете ми' — хебрејски израз за барање, '&quot;видете за мене'&quot;'"
+    },
+    {
+      "kind": "you",
+      "subject": "до слугите на Шаул",
+      "rationale": "директна заповед упатена кон слугите"
+    }
+  ],
+  "translation": "И Шаул им рече на своите слуги: Побарајте ми сега човек што умее добро да свири, и доведете ми го кај мене.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2deb5f0605a2be5a59ac1ecad8774917a9104b4e82509b18668e822de2f95417",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/16\/17-20.1792446904696.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "своите слуги"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Побарајте"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сега"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "מיטיב",
+      "gloss": "умее добро"
+    },
+    {
+      "surface": "לנגן",
+      "gloss": "да свири"
+    },
+    {
+      "surface": "והביאותם",
+      "gloss": "и доведете го"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "кај мене"
+    }
+  ],
+  "timestamp": "2026-10-19T21:55:04.698248856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 27:13",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "души",
+      "rationale": "נפש е грло\/дах\/живот — „души на човек“ е трговија со луѓе, букв. „со нефеш на човек“"
+    },
+    {
+      "kind": "alternative",
+      "subject": "за стоката твоја",
+      "rationale": "מערבך може и „како пазарот твој“ — разменета стока наместо место на тргување"
+    }
+  ],
+  "translation": "Јаван, Тувал и Мешех — тие беа твоите трговци: души на човек и садови од бакар даваа за стоката твоја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1602e6e1c68a13bed739779e9c9f3c4a46e7815ff65de9aedf14ecc2492dfcb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/27\/13-16.1792451715953.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יון",
+      "gloss": "Јаван"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "Тувал"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "и Мешех"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "רכליך",
+      "gloss": "твоите трговци"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "души"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на човек"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "и садови"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "од бакар"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "даваа"
+    },
+    {
+      "surface": "מערבך",
+      "gloss": "за стоката твоја"
+    }
+  ],
+  "timestamp": "2026-10-19T23:15:15.954072139Z",
+  "model": "glm-5.3"
+}

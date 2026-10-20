@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "две колици, четири говеда",
+      "rationale": "точна распределба по број"
+    }
+  ],
+  "translation": "⟨את⟩ Двете колици и ⟨את⟩ четирите говеда им ги даде на синовите Гершон, според нивната служба.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0f020e2e348987bdef70a7abbb8253a45b96f56840c3b1b57f7cce81ec9c9314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/7\/5-8.1792444640231.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "двете колици"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "двете"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "колици"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "четирите говеда"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "четирите"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "говеда"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовите"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершон"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "според"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "нивната служба"
+    }
+  ],
+  "timestamp": "2026-10-19T21:17:20.236420223Z",
+  "model": "glm-5.3"
+}

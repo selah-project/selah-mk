@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 7:14",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וחתתני · תבעתני",
+      "rationale": "два синонимни глаголи за страв во паралелизам — соништа\/виденија, уплашуваш\/плотиш"
+    }
+  ],
+  "translation": "и ме уплашуваш со соништа, и ме плотиш со виденија.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cd39044740d7c572944c9015716ef9bbfe7dc89afba146913a7981b150cd6e07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/7\/13-16.1792454891862.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחתתני",
+      "gloss": "и ме уплашуваш"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "со соништа"
+    },
+    {
+      "surface": "ומחזינות",
+      "gloss": "и со виденија"
+    },
+    {
+      "surface": "תבעתני",
+      "gloss": "ме плотиш"
+    }
+  ],
+  "timestamp": "2026-10-20T00:08:11.863595275Z",
+  "model": "glm-5.3"
+}

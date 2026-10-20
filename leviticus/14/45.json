@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "прашина",
+      "rationale": "עפר е прав\/прашина; традиционалните преводи ставаат 'малтер', а зборот е истиот како за прав по земјата."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "троен את",
+      "rationale": "три aleph-tav едноподруго (את הבית, את אבניו, ואת עציו) ја набројуваат целата материја на домот како еден спискок."
+    }
+  ],
+  "translation": "И нека го сини ⟨את⟩ домот — ⟨את⟩ камењата негови, и ⟨את⟩ дрвата негови, и ⟨את⟩ сета прашина на домот — и нека ги изнесе надвор од градот, на нечисто место.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "226193c91355b95727e1298c6773228d58e7c30fcd8c1c43e6fcb895f3372090",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/14\/45-48.1792444293351.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "и нека го сини"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "домот"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "камењата негови"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "камењата негови"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "дрвата негови"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "дрвата негови"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сета прашина"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сета"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прашина"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "и нека ги изнесе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "надвор"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "од градот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечисто"
+    }
+  ],
+  "timestamp": "2026-10-19T21:11:33.352690414Z",
+  "model": "glm-5.3"
+}

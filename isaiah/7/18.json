@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 7:18",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "свирка",
+      "rationale": "שרק — свирење како повик за рој; сликата е задржана буквално."
+    }
+  ],
+  "translation": "И во тој ден Јахве ќе свиркне на мувата што е на крајот од реките на Мицраим, и на пчелата што е во земјата Ашур.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "079c2e14bb824b8fe56427ec2eaf70b8aba376ea67bd2e9da0c84bbfed3e2295",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/7\/17-20.1792449655347.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "ישרק",
+      "gloss": "ќе свиркне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לזבוב",
+      "gloss": "на мувата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "на крајот"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "од реките"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "на Мицраим"
+    },
+    {
+      "surface": "ולדבורה",
+      "gloss": "и на пчелата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    }
+  ],
+  "timestamp": "2026-10-19T22:40:55.348727979Z",
+  "model": "glm-5.3"
+}

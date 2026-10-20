@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-chronicles 29:36",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нагло",
+      "rationale": "בפתאם значи „во миг, ненадејно“ — слики на фалата, не на брзина сама"
+    },
+    {
+      "kind": "addition",
+      "subject": "им ⟨го⟩",
+      "rationale": "македонскиот бара датив и клитики кај ההכין לעם — хебрејскиот има само לעם"
+    }
+  ],
+  "translation": "И се зарадуваа Хизкијаху и сиот народ ⟨се⟩ заради ⟨тоа што⟩ Елохим им ⟨го⟩ подготви ⟨את⟩ народот, зашто работата се случи нагло.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f7037f92ded33c652bf5d6d2bd1c365b2c99d32fcffc8ed5de954bc165d5127f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/29\/36-36.1792458585884.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "и се зарадува"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хизкијаху"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сиот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "על",
+      "gloss": "заради"
+    },
+    {
+      "surface": "ההכין",
+      "gloss": "подготви"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "им ⟨го⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בפתאם",
+      "gloss": "нагло"
+    },
+    {
+      "surface": "היה",
+      "gloss": "се случи"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "работата"
+    }
+  ],
+  "timestamp": "2026-10-20T01:09:45.885112205Z",
+  "model": "glm-5.3"
+}

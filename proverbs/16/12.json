@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 16:12",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема глагол-сврзка"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יון\/כון",
+      "rationale": "стих 12 завршува со יכון (утврдува), а стихот 9 користи истиот корен יכין — повтор низ поглавјето"
+    }
+  ],
+  "translation": "Одвратност за цареви ⟨е⟩ правењето зло, зашто во цедек θронот се утврдува.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "664f084f18761986a56461539626a6999bee459edca9fec0b4c559562beebcd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/16\/9-12.1792454529264.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "одвратност"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "за цареви"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "правењето"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "во цедек"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "се утврдува"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "θронот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:02:09.265750237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 9:1",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "crux",
+      "subject": "ועבדיהם",
+      "rationale": "несогласувачка: 'и службите нивни' (слуги) наспроти читано 'и делата нивни' — преводите ги делат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לבור",
+      "rationale": "буквално 'да пробуши\/испита', преведено како 'да испитам'"
+    }
+  ],
+  "translation": "Зашто сето ова го дадов на срцето мое, и да го испитам сето ова: дека праведните и мудрите и делата нивни ⟨се⟩ во рака на Елохим — и љубов и омраза не знае човекот; сето е пред нив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4cd7115eadb43106d51f68cd3f6c5b4c96fe8f0204e1b497ec13331bc7484705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/9\/1-4.1792455785486.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сето ова"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "го дадов"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "срцето мое"
+    },
+    {
+      "surface": "ולבור",
+      "gloss": "и да го испитам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сето ова"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "дека"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "праведните"
+    },
+    {
+      "surface": "והחכמים",
+      "gloss": "и мудрите"
+    },
+    {
+      "surface": "ועבדיהם",
+      "gloss": "и делата нивни"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "во рака"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "љубов"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "омраза"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "пред нив"
+    }
+  ],
+  "timestamp": "2026-10-20T00:23:05.487538399Z",
+  "model": "glm-5.3"
+}

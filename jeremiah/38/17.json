@@ -1,0 +1,146 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 38:17",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפש е 'дишење\/живот-сила', не душа во подоцнежна смисла"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצא תצא",
+      "rationale": "инфинитивен апсолут пред глаголот — 'излегувајќи излезеш', нагласена сигурност"
+    }
+  ],
+  "translation": "И рече Јирмијаху на Цидкијаху: Вака вели Јахве Цеваот, Елохим на Јисраел: Ако излегувајќи излезеш кај старешините на царот на Бавел, ќе живее душата твоја, и градот овој нема да биде запален во оган, и ќе живееш ти и домот твој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ad864c5a764678757aef7ff12ca985729c524e187c501bc1b1ebbdbbc7b4d9b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/38\/17-20.1792451056778.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јирмијаху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкијаху"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Вака"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излегувајќи"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "излезеш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "старешините на"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот на"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бавел"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "ќе живее"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "душата твоја"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "и градот"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "да биде запален"
+    },
+    {
+      "surface": "באש",
+      "gloss": "во оган"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "и ќе живееш"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "и домот твој"
+    }
+  ],
+  "timestamp": "2026-10-19T23:04:16.778708704Z",
+  "model": "glm-5.3"
+}

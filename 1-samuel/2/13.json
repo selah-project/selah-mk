@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 2:13",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "правото",
+      "rationale": "משפט значи и суд и обичај — тука обичајното право на свештениците"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨бееше⟩",
+      "rationale": "хебрејскиот нема копула; номиналната реченица бара глагол во македонскиот"
+    }
+  ],
+  "translation": "И правото на свештениците спрема ⟨את⟩ народот ⟨бееше⟩ вака: секој човек што колеше жртва — доаѓаше момчето на свештеникот додека се вареше месото, а вилицата со три заба во раката негова.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a66a902cbb32e94b06154aa409551a1a4108a20f827696d55518340d7eabdf4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/2\/13-16.1792446703635.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "И правото"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "на свештениците"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "колеше"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жртва"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "доаѓаше"
+    },
+    {
+      "surface": "נער",
+      "gloss": "момчето"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "на свештеникот"
+    },
+    {
+      "surface": "כבשל",
+      "gloss": "се вареше"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "месото"
+    },
+    {
+      "surface": "והמזלג",
+      "gloss": "а вилицата"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "заба"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "во раката негова"
+    }
+  ],
+  "timestamp": "2026-10-19T21:51:43.635766867Z",
+  "model": "glm-5.3"
+}

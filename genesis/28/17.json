@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 28:17",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אין זה כי אם",
+      "rationale": "двојна негација — буквално 'нема ова освен', дадено како 'не е ништо друго туку'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот ја нема копулата во 'овој е портата'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "портата на небесата",
+      "rationale": "сликата на местото како врата меѓу земјата и небото останува отворена и неизвесна"
+    }
+  ],
+  "translation": "И се уплаши и рече: Колку е страшно ова место! Ова не е ништо друго туку дом на Елохим, и ова ⟨е⟩ портата на небесата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "95d3350d114a51b409032a466a12d11f402b27bb4d9b32d0024f38c42bd145fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/28\/17-20.1792442900040.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "се уплаши"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "מה",
+      "gloss": "колку"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "страшно"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не е ништо друго"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "כי",
+      "gloss": "туку"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(ако)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "и ова"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "на небесата"
+    }
+  ],
+  "timestamp": "2026-10-19T20:48:20.042540370Z",
+  "model": "glm-5.3"
+}

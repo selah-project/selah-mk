@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ירחק",
+      "rationale": "Нифал 'да се оддалечи\/продолжи' наспроти KJV 'да се разврзе' (јажето на животот)"
+    },
+    {
+      "kind": "crux",
+      "subject": "גלת הזהב",
+      "rationale": "'златната топка\/чаша' — светилник со златна чаша, слика за животот"
+    },
+    {
+      "kind": "mystery",
+      "subject": "цел стих",
+      "rationale": "четири скршени слики за распадот на телото — мозокот, 'златната чаша', стомната и тркалото — свиено говорење"
+    }
+  ],
+  "translation": "Пред да се оддалечи сребреното јаже, и да пукне златната топка, и да се скрши стомната на изворот, и да се скрши тркалото кон бунарот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "99bb107c3ddb5ec46020dbb91c063417abc421a294aea445d0421aa115bf71cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/12\/5-8.1792455783163.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "пред"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "се оддалечи"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "јажето"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "сребреното"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "и да пукне"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "топката"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "златната"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "и да се скрши"
+    },
+    {
+      "surface": "כד",
+      "gloss": "стомната"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "изворот"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "и да се скрши"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "тркалото"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "бунарот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:23:03.164358571Z",
+  "model": "glm-5.3"
+}

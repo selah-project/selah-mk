@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ја прскаше",
+      "rationale": "ויזרקהו: JPS „исплати фрли кон“ (dashed), KJV „sprinkled“ — фркање на крвта наоколу, не капка по капка"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Му",
+      "rationale": "אליו е „кај него“; македонскиот датив е слободна заменска форма"
+    }
+  ],
+  "translation": "И ја закла ⟨את⟩ жртвата сепаленица, и синовите на Ахарон Му ја донесоа ⟨את⟩ крвта; и ја прскаше на жртвеникот, наоколу.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "aaad847a22f39bff0395895f94587c598660adf1c3798e31d9160b4edb928c4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/9\/9-12.1792444165246.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "И ја закла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жртвата сепаленица"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "жртвата сепаленица"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "и донесоа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "на Ахарон"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "кај него"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "крвта"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "крвта"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "и ја прскаше"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жртвеникот"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколу"
+    }
+  ],
+  "timestamp": "2026-10-19T21:09:25.250403767Z",
+  "model": "glm-5.3"
+}

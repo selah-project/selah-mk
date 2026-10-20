@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨беа⟩",
+      "rationale": "היו е истакнат глагол „стана\/беше“, а македонскиот склад го бара како помошен."
+    },
+    {
+      "kind": "you",
+      "subject": "до Јерушалаим",
+      "rationale": "стихот директно му се обраќа на градот."
+    }
+  ],
+  "translation": "Стоеја нашите нозе во портите твои, Јерушалаим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fada0221024951a7a1377830d44fecf2faf73c73fd36e54566392241ebf71cce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/122\/1-4.1792454060601.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "Стоеја"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨беа⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "нашите нозе"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "во портите твои"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    }
+  ],
+  "timestamp": "2026-10-19T23:54:20.603686481Z",
+  "model": "glm-5.3"
+}

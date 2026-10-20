@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 16:2",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "неволја",
+      "rationale": "עמל е 'тешкиот труд, измачување' — дословно 'утешители на измачување'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנחמי עמל",
+      "rationale": "ironично спојување: тие што утешуваат се самите измачување"
+    }
+  ],
+  "translation": "Чував многу такви работи — утешители на неволја сте сите вие.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a0a5b43e606e965d068c8f7ecd50ce9aaa9f6fb46181863078110d3c0155eed0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/16\/1-4.1792455037557.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "чував"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "такви"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "многу"
+    },
+    {
+      "surface": "מנחמי",
+      "gloss": "утешители"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "на неволја"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "сите вие"
+    }
+  ],
+  "timestamp": "2026-10-20T00:10:37.558617842Z",
+  "model": "glm-5.3"
+}

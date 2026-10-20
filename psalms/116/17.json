@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ќе",
+      "rationale": "Македонскиот го бара сегашниот\/идниот помошен глагол што хебрејскиот несогласувачки го нема."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אזבח \/ זבח",
+      "rationale": "Глаголот и именката од ист корен — жртвувам жртва — повторување изгубено во македонскиот."
+    },
+    {
+      "kind": "you",
+      "subject": "на тебе",
+      "rationale": "Директно обраќање до Јахве."
+    }
+  ],
+  "translation": "На тебе ⟨ќе⟩ принесам жртва на благодарност и во името на Јахве ќе повикам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7a3a4f1a8d8db24521d7447c46690e18552aedf57499aac071f3d047980d5eda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/116\/17-19.1792453926519.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "⟨ќе⟩ принесам жртва"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жртва"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "на благодарност"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "и во името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ќе повикам"
+    }
+  ],
+  "timestamp": "2026-10-19T23:52:06.519596756Z",
+  "model": "glm-5.3"
+}

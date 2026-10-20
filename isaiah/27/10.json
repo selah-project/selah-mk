@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 27:10",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула меѓу 'град' и 'осамен'"
+    },
+    {
+      "kind": "crux",
+      "subject": "населба испратена",
+      "rationale": "נוה משלח: 'населба испратена\/изоставена' — нејасна слика; некои читаат 'пасиште испуштено'"
+    }
+  ],
+  "translation": "Зашто утврдениот град ⟨е⟩ осамен, населба испратена и напуштена како пустина; таму ќе пасе теле, и таму ќе легне, и ќе ги истроши гранките нејзини.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "64a6912029f9f3bbd43f331a711847a88a1c457bb78c1ae24883f44ca3edb592",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/27\/9-12.1792449876983.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "утврдениот"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "осамен"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "населба"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "испратена"
+    },
+    {
+      "surface": "ונעזב",
+      "gloss": "и напуштена"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "како пустина"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "ќе пасе"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "теле"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "и таму"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "ќе легне"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "и ќе ги истроши"
+    },
+    {
+      "surface": "סעפיה",
+      "gloss": "гранките нејзини"
+    }
+  ],
+  "timestamp": "2026-10-19T22:44:36.987179789Z",
+  "model": "glm-5.3"
+}

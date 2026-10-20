@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 10:12",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "вселена",
+      "rationale": "תבל е „земјата како населена“ — посебен збор од ארץ во истиот стих."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "тризначен паралелизам",
+      "rationale": "כח · חכמה · תבונה — сила, мудрост, разум — во строго скалест паралелизам."
+    }
+  ],
+  "translation": "Кој ја создаде земјата со силата своја, ја утврди вселената со мудроста своја, и со разумот свој ги рашири небесата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "764c31709649590ada48c640b7c42e5c0cc6c51285aa42609195bc4467a13381",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/10\/9-12.1792450570779.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "создаде"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "со силата своја"
+    },
+    {
+      "surface": "מכין",
+      "gloss": "утврди"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "вселената"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "со мудроста своја"
+    },
+    {
+      "surface": "ובתבונתו",
+      "gloss": "и со разумот своја"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "рашири"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небесата"
+    }
+  ],
+  "timestamp": "2026-10-19T22:56:10.781269907Z",
+  "model": "glm-5.3"
+}

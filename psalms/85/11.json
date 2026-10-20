@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסед е верност во сојуз, милост — оставено како хесед"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפגשו \/ נשקו",
+      "rationale": "два глагола за средба и бакнеж — персонификација во паралелен двостих"
+    }
+  ],
+  "translation": "Хесед и вистина се сретнаа, цедек и мир се бакнаа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bd39adacc65c7d6b27486656fea877b7bd173b12d6d16f0b484d21cbecb5ee2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/85\/9-12.1792453636107.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Хесед"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "и вистина"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "се сретнаа"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "и мир"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "се бакнаа"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:16.108288952Z",
+  "model": "glm-5.3"
+}

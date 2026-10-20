@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 29:23",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "список на жртви",
+      "rationale": "Бројот на животните е прецизно наброен: 10+2+14."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בני שנה",
+      "gloss": "Буквално 'синови на една година' — возраст на јагнињата."
+    }
+  ],
+  "translation": "И на четвртиот ден десет волови, два елена, четиринаесет јагниња на една година, непорочни:",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ea4ed03d2b9c9739f35157d833789c7c636644bf8db277c3f8b5f43d0b47dfad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/29\/21-24.1792445095955.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "и на ден"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "четвртиот"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "волови"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "елени"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "јагниња"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "една година"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четиринаесет"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(на)есет"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "непорочни"
+    }
+  ],
+  "timestamp": "2026-10-19T21:24:55.956145559Z",
+  "model": "glm-5.3"
+}

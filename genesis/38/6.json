@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "Хебрејскиот нема копула — именската реченица ја бара на македонски"
+    }
+  ],
+  "translation": "И Јехуда земи жена за Ер, својот првенец, а нејзиното име беше Тамар.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "3377a78f598c54647f3129f1c91feb7989a5d79effd4a0dd3c09865a6b96ac66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/38\/6-8.1792447654494.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "земи"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "לער",
+      "gloss": "за Ер"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "својот првенец"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "а нејзиното име"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Тамар"
+    }
+  ],
+  "timestamp": "2026-10-19T22:07:34.496487912Z",
+  "model": "glm-5.3"
+}

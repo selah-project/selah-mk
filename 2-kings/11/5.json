@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 11:5",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула во זה הדבר"
+    }
+  ],
+  "translation": "И им заповеда, велејќи: Ова ⟨е⟩ работата што ќе ја извршите: третина од вас, доаѓачите на шабатот, и чуварите на стражата на домот на кралот —",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "098ecdd1aeadeb978df1622597a1639f8b85f034d8dfc876a958172ab2cf4a62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/11\/5-8.1792449242497.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצום",
+      "gloss": "и им заповеда"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "работата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ќе извршите"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "третина"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "од вас"
+    },
+    {
+      "surface": "באי",
+      "gloss": "доаѓачите"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "на шабатот"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "и чуварите"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "на стражата"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на кралот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:34:02.498908820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 18:1",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "третата година",
+      "rationale": "Датирање на владеењето според годината на друг цар."
+    }
+  ],
+  "translation": "И беше во третата година од Хошеа, синот на Ела, царот на Јисраел — стана цар Хизкија, синот на Ахаз, царот на Јуда.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b9a9be179069d20ac4b5e00cf707e4171bd1ea5b311859722fc2703ef06e0e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/18\/1-4.1792449424145.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "во годината"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "третата"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "од Хошеа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "на Ела"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "стана цар"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Хизкија"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "на Ахаз"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јуда"
+    }
+  ],
+  "timestamp": "2026-10-19T22:37:04.147348429Z",
+  "model": "glm-5.3"
+}

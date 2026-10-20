@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 31:27",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "делба на пленот",
+      "rationale": "Пленот се мери и дели на два еднакви дела — меречка постапка."
+    }
+  ],
+  "translation": "и раздели ⟨את⟩ пленот на половина — меѓу оние што ја фатиле војната, што излегле во војска, и меѓу целата заедница.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d429b15ad0f108977781ae15b43b91547ef781aa2deca7dc10fa78e2818b21c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/31\/25-28.1792445177119.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחצית",
+      "gloss": "и раздели на половина"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пленот"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "пленот"
+    },
+    {
+      "surface": "בין",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "תפשי",
+      "gloss": "оние што ја фатиле"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "војната"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "што излегле"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "во војска"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и меѓу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целата"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "заедница"
+    }
+  ],
+  "timestamp": "2026-10-19T21:26:17.121504041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 5:19",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "шест\/седум",
+      "rationale": "бројчена формула шест+седум, семитски образец за целосност"
+    },
+    {
+      "kind": "substitution",
+      "subject": "тесноти",
+      "rationale": "צרה е буквално 'теснота', стиснатост — не општа 'неволја'"
+    }
+  ],
+  "translation": "Во шест тесноти ќе те избави, и во седма зло нема да те допре.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "427affed229b5bac39a9b491848528afae2021d0c6c465fa74b26aefc45bdc9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/5\/17-20.1792454868766.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשש",
+      "gloss": "Во шест"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "тесноти"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "ќе те избави"
+    },
+    {
+      "surface": "ובשבע",
+      "gloss": "и во седма"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "да допре"
+    },
+    {
+      "surface": "בך",
+      "gloss": "те"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-10-20T00:07:48.767657014Z",
+  "model": "glm-5.3"
+}

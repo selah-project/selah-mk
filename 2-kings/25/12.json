@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сиромашни",
+      "rationale": "מדלה буквално 'она што виси\/тршка се' — најсиромашните, оние што ништо немаат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "началник на касапите",
+      "rationale": "רב טבחים, титула на НевузарАдан."
+    }
+  ],
+  "translation": "А од сиромашните на земјата остави началникот на касапите — за лозари и за орачи.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/25\/9-12.1792449479084.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "од сиромашните"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "остави"
+    },
+    {
+      "surface": "רב",
+      "gloss": "началникот"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "на касапите"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "за лозари"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "за орачи"
+    }
+  ],
+  "timestamp": "2026-10-19T22:37:59.086089375Z",
+  "model": "glm-5.3"
+}

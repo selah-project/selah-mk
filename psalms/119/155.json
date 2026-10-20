@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "македонскиот бара сврзник што хебрејскиот го нема"
+    }
+  ],
+  "translation": "Далеку од грешните е спасението, зашто твоите наредби не ги бараа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d9cd2a4448b346bfe8c458de5e12ce2d95eeea0365c61bc1ac437241aafe7d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/153-156.1792454017875.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Далеку"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "од грешните"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "е спасението"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "твоите наредби"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ги бараа"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:37.876503331Z",
+  "model": "glm-5.3"
+}

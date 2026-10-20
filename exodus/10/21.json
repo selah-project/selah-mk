@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 10:21",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וימש חשך",
+      "rationale": "Дословно „и темнината се-тапнува\/се-опипува“ — глагол за пипање во темнина; традиционално „може да се допре“."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מוש",
+      "rationale": "Глаголот מוש се јавува тука во хифил само уште еднаш во Танахот (Делта на редост) — редок корен за 'опипува'."
+    }
+  ],
+  "translation": "И Јахве рече на Моше: Протегни ја раката своја кон небото, и нека биде темнина врз земјата Мицраим, и темнината да се-тапка.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "4afe2dc940b2d1c652d6ac864512f759a948c80af82daf006aaff879d85716ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/10\/21-24.1792443462753.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Протегни"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "раката своја"
+    },
+    {
+      "surface": "על",
+      "gloss": "кон"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небото"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и нека биде"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "темнина"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "וימש",
+      "gloss": "и да се-тапка"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "темнината"
+    }
+  ],
+  "timestamp": "2026-10-19T20:57:42.757884706Z",
+  "model": "glm-5.3"
+}

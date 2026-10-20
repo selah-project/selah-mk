@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "родослов",
+      "rationale": "Крај на ланецот: Боаз — Овед — Ишај, таткото на Давид."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Ишај",
+      "rationale": "Традицијата вели „Јесај“; тука стои звукот на хебрејскиот ישי."
+    }
+  ],
+  "translation": "И Боаз роди ⟨את⟩ Овед, и Овед роди ⟨את⟩ Ишај.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "01d11bfd31e4082d34566e18918f3bdd765a5de5f63c42a85b856346cc97b460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/2\/9-12.1792456798995.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "И Боаз"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Овед"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Овед"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "и Овед"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ишај"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ишај"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:58.996626676Z",
+  "model": "glm-5.3"
+}

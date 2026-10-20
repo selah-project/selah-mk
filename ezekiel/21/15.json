@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 21:15",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "או נשיש",
+      "rationale": "„или да се радуваме?“ (JPS) наспроти „да, подготвен е да блесне како молња“ (ASV\/KJV) — второто го чита נשיש поврзано со блесокот на мечот"
+    },
+    {
+      "kind": "crux",
+      "subject": "שבט בני",
+      "rationale": "„жезлoт на синот мој“ (JPS, Јуда) наспроти „скептaрот што го презира“ (KJV\/BSB, читање со моес — презир)"
+    },
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "копула што хебрејскиот ја изостава"
+    }
+  ],
+  "translation": "За да коле заколување — изострен е; за да биде ѝ блесок — исполирана е; или да се радуваме? — жезлoт на синот мој мрази секое дрво.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f266c1441b9214d38266bec65d8b5f0f602a4cdcd60f5e349152295a4d8c73ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/21\/13-16.1792451668412.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "коле"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "заколување"
+    },
+    {
+      "surface": "הוחדה",
+      "gloss": "изострен е"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "היה",
+      "gloss": "биде"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ѝ"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "блесок"
+    },
+    {
+      "surface": "מרטה",
+      "gloss": "исполирана"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "נשיש",
+      "gloss": "да се радуваме"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "жезлoт"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на синот мој"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "мрази"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секое"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    }
+  ],
+  "timestamp": "2026-10-19T23:14:28.413791648Z",
+  "model": "glm-5.3"
+}

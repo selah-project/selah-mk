@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "пет леба",
+      "rationale": "бројката стои во текстот и се пишува целиот, како хебрејскиот"
+    },
+    {
+      "kind": "alternative",
+      "subject": "בידי",
+      "gloss": "буквално 'во раката моја'; 'дај ми' го спојува со македонскиот глагол",
+      "rationale": ""
+    }
+  ],
+  "translation": "И сега, што имаш под рака? Пет леба дај ми во раката, или она што ќе се најде.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "78c27489ce3859d973829d14b18ba46e3e24a2884ca06a6878ce61664d6f39c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/21\/1-4.1792447839958.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "и сега"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "раката твоја"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леба"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "дај"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "во раката моја"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "она што ќе се најде"
+    }
+  ],
+  "timestamp": "2026-10-19T22:10:39.961408479Z",
+  "model": "glm-5.3"
+}

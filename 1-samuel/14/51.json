@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бееше⟩",
+      "rationale": "Хебрејскиот именски фрази без глагол; македонскиот бара копула."
+    },
+    {
+      "kind": "measurement",
+      "subject": "генеалогија Киш–Шаул, Нер–Авнер–Авиел",
+      "rationale": "Родословен список што ги поврзува двете семејства."
+    }
+  ],
+  "translation": "И Киш ⟨бееше⟩ татко на Шаул, а Нер, таткото на Авнер, ⟨бееше⟩ син на Авиел.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "3ffed4de3ae8155c73a30ae9b480fd86c68f84ddcd75ad2196c88586413aff8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/14\/49-52.1792446877248.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "И Киш"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "татко"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "на Шаул"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "а Нер"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "таткото"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "на Авнер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "на Авиел"
+    }
+  ],
+  "timestamp": "2026-10-19T21:54:37.249901091Z",
+  "model": "glm-5.3"
+}

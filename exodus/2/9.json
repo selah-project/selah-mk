@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ќе",
+      "rationale": "македонскиот бара идикативно-идно време, хебрејскиот има сегашно"
+    },
+    {
+      "kind": "alternative",
+      "subject": "и доени го",
+      "rationale": "хебрејското היניקהו значи 'дај му да цица' — 'доени' е најблиску"
+    }
+  ],
+  "translation": "И ѝ рече ќерката на Паро: Однеси го ⟨את⟩ ова дете и доени ⟨ го за мене, а јас ⟨ќе⟩ ти го дадам ⟨את⟩ платата твоја. И ги зеде жената детето и го доени.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5e9cb4295501a8af3766081dbb02b26e3a1b0e7edf8b284da679def5c9bc3663",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/2\/9-12.1792443304094.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ѝ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерката"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "на Паро"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "однеси"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ова дете"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "детето"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "и доени го"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мене"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а јас"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "давам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "платата твоја"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "платата твоја"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "и зеде"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "детето"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "и го доени"
+    }
+  ],
+  "timestamp": "2026-10-19T20:55:04.099747813Z",
+  "model": "glm-5.3"
+}

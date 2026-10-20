@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "не попуштај",
+      "rationale": "תבא од אבה е „не сакај\/не биди волен“; KJV „consent“, YLT „be not willing“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "те заведат",
+      "rationale": "פתה буквално „да отвори простор“, фигуративно да придобие со ласкави зборови"
+    },
+    {
+      "kind": "you",
+      "subject": "до синот",
+      "rationale": "директен обрат — таткото го повикува синот да слуша"
+    }
+  ],
+  "translation": "Синко мој, ако те заведат грешници, не попуштај.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9af6714ea55aa2485d349f22dda7c26a72b486da40a0a9b437c2a392860c255b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/1\/9-12.1792454225174.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синко мој"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "те заведат"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "грешници"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "попуштај"
+    }
+  ],
+  "timestamp": "2026-10-19T23:57:05.174842746Z",
+  "model": "glm-5.3"
+}

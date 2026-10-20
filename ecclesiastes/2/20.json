@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ליאש את לבי",
+      "rationale": "Дословно „да го обесхрабрам срцето свое“ — македонски: срцето да очајува."
+    }
+  ],
+  "translation": "И се свртев јас да го оставам ⟨את⟩ срцето мое да очајува поради целиот напор со кој се трудев под сонцето.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c1c669dab5203901d782a63b4894168e24168b4354b61b7ce2442b2bb17daf6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/2\/17-20.1792455710238.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "И се свртев"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "да очајува"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срцето мое"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "срцето мое"
+    },
+    {
+      "surface": "על",
+      "gloss": "поради"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "напор"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "со кој се трудев"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцето"
+    }
+  ],
+  "timestamp": "2026-10-20T00:21:50.239266777Z",
+  "model": "glm-5.3"
+}

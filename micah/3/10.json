@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "беззакоње",
+      "rationale": "עולה — морално зло\/искривеност; „беззакоње“ го задржува правниот призвук."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משפט\/ישרה → עולה",
+      "rationale": "Спротивност меѓу „право“ од ст. 9 и „искривеност“ (עוה) во ст. 10 — истата слика на искривување."
+    }
+  ],
+  "translation": "градејќи ја Цион со крв, а Јерушалаим со беззакоње.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8054e25b9379e10f4e79d295d88785af63e5dc9fa92df8248ac3686478ef1f17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/micah\/3\/9-12.1792452507315.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "градејќи"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ја Цион"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "со крв"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "а Јерушалаим"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "со беззакоње"
+    }
+  ],
+  "timestamp": "2026-10-19T23:28:27.316523443Z",
+  "model": "glm-5.3"
+}

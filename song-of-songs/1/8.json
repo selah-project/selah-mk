@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 1:8",
+  "book": "song-of-songs",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם לא תדעי",
+      "rationale": "rhetorичко прашање 'ако не знаеш...' — вообичаено како одговор на прашувањето од ст. 7; некои читаат 'не знаеш ли'"
+    },
+    {
+      "kind": "you",
+      "subject": "најубавата меѓу жените",
+      "rationale": "директен обращт кон саканата"
+    }
+  ],
+  "translation": "Ако не знаеш — ти, најубавата меѓу жените — излези ти по траговите на стадото и напасај ги ⟨את⟩ козичките твои крај шаторите на овчарите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ff01a4dd9d7ec2d7f1048913ac57122e870c2f44c8a5605eb99689e6cac96806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/song-of-songs\/1\/5-8.1792455409913.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדעי",
+      "gloss": "знаеш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "היפה",
+      "gloss": "најубавата"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "меѓу жените"
+    },
+    {
+      "surface": "צאי",
+      "gloss": "излези"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בעקבי",
+      "gloss": "по траговите"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "на стадото"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "напасај ги"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "козичките твои"
+    },
+    {
+      "surface": "גדיתיך",
+      "gloss": "козичките твои"
+    },
+    {
+      "surface": "על",
+      "gloss": "крај"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "шаторите"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "на овчарите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:16:49.914739922Z",
+  "model": "glm-5.3"
+}

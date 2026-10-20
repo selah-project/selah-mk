@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 9:1",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "собрание на предавници",
+      "rationale": "עצרת може да значи и „затворена група\/собир“ — JPS: an assembly of treacherous men"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנאפים \/ בגדים",
+      "rationale": "физичката прељубба и духовната изневера стојат рамо до рамо — фигуративно отпадништво"
+    }
+  ],
+  "translation": "Кој ќе ме даде во пустината, преноќувалиште на патници, па да го оставам ⟨את⟩ народот мој и да си одам ⟨את⟩ од нив? Зошто сите се прељубници, собрание на предавници.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5135c34095ebc6d5b4692f2f10a15aa294dc1553b64f2ce9acfa24415b3281c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/9\/1-4.1792450582804.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "ќе ме даде"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "во пустината"
+    },
+    {
+      "surface": "мלון",
+      "gloss": "преноќувалиште"
+    },
+    {
+      "surface": "ארחים",
+      "gloss": "на патници"
+    },
+    {
+      "surface": "ואעזבה",
+      "gloss": "па да го оставам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народот мој"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народот мој"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "и да си одам"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ од нив"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "сите"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "прељубници"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "собрание"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "предавници"
+    }
+  ],
+  "timestamp": "2026-10-19T22:56:22.805733727Z",
+  "model": "glm-5.3"
+}

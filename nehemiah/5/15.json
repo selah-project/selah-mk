@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 5:15",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "четириесет шекели",
+      "rationale": "Дневна такса наведена со мерка и број"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הכבידו",
+      "rationale": "Дословно „го отежнаа“ врз народот — сликата на тежина, македонски „го навалија теретот“"
+    }
+  ],
+  "translation": "А пехите претходни, што беа пред мене, им го навалија теретот на народот и земаа од нив леб и вино, покрај сребро — четириесет шекели; и слугите нивни владееја над народот; а јас не постапив така, поради стравот од Елохим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f0b0dfe51a0e0fdce2d18ef0472a338adddf7ca71da2103971c593fa546fe4c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/5\/13-16.1792456613219.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והפחות",
+      "gloss": "А пехите"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "претходните"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "הכבידו",
+      "gloss": "го навалија теретот"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "и земаа"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "од нив"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "покрај"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "шекели"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четириесет"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "נעריהם",
+      "gloss": "слугите нивни"
+    },
+    {
+      "surface": "שלטו",
+      "gloss": "владееја"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а јас"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "постапив"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "поради"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "стравот"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    }
+  ],
+  "timestamp": "2026-10-20T00:36:53.220609438Z",
+  "model": "glm-5.3"
+}

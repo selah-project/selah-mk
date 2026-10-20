@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "חמש",
+      "rationale": "„Пет“ — бројот ги затвора петте синови на Зерубавел."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יושב חסד",
+      "rationale": "Името значи „вратен е хесед“ — игра меѓу личното име и хебрејскиот збор хесед."
+    }
+  ],
+  "translation": "и Хашува, и Охел, и Берехја, и Хасадја, Јушав-Хесед — петторо.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d441a7b1d2903a43143979383fa29da12645cdc39cbcf82fde7ac14156c42565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/3\/17-20.1792456807699.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "и Хашува"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "и Охел"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "и Берехја"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "и Хасадја"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Јушав-"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Хесед"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "петторо"
+    }
+  ],
+  "timestamp": "2026-10-20T00:40:07.699957905Z",
+  "model": "glm-5.3"
+}

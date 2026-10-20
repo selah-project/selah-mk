@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 12:9",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויעל ... על",
+      "rationale": "'Појде нагAgainst' — literally 'оди горе врз\/спроти', воено нападнување."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויקח ... לקח ... ויקח",
+      "rationale": "Тројно повторување на 'земи' — повторувањето на грабежот е реторски нагласено."
+    }
+  ],
+  "translation": "И Шишак, царот на Мицраим, го нападна Јерушалаим и ги зеде ⟨את⟩ ризниците на домот на Јахве и ⟨את⟩ ризниците на домот на царот — ⟨את⟩ сето го зеде — и ги зеде ⟨את⟩ златните штитови што ги направи Шеломо.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a9d4fb2ea5cdaf44d1fe89be0df598b3c6255adf5571f1fddd371f0d36ab7e49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/12\/9-12.1792457502503.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "го нападна"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Шишак"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "на Мицраим"
+    },
+    {
+      "surface": "על",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и ги зеде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ризниците"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "ризниците"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "ризниците"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "ризниците"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сето"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "го зеде"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и ги зеде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "штитовите"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "штитовите"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "златните"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ги направи"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    }
+  ],
+  "timestamp": "2026-10-20T00:51:42.504179771Z",
+  "model": "glm-5.3"
+}

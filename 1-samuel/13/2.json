@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 13:2",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "три илјади",
+      "rationale": "Пребројување на војската: три илјади, две илјади и илјада."
+    }
+  ],
+  "translation": "И Шаул си избра три илјади од Јисраел, и беа со Шаул две илјади во Микмаш и на гората Бет-Ел, а илјада беа со Јонатан во Гивата на Венијамин; а останатиот народ го распушти секој човек кон шаторот свој.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2f7e84a9cb99cec7e36f8004026ee01a6382e940552f68786aba854d03395cc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/13\/1-4.1792446831360.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "и избра"
+    },
+    {
+      "surface": "לו",
+      "gloss": "си"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "од Јисраел"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "и беа"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "две илјади"
+    },
+    {
+      "surface": "במכמש",
+      "gloss": "во Микмаш"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "и на гората"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "а илјада"
+    },
+    {
+      "surface": "היו",
+      "gloss": "беа"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Јонатан"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "во Гивата"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "на Венијамин"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "а останатиот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "го распушти"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој човек"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "кон шаторот свој"
+    }
+  ],
+  "timestamp": "2026-10-19T21:53:51.361231015Z",
+  "model": "glm-5.3"
+}

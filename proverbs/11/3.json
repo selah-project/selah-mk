@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושדם",
+      "rationale": "שד од корен „да биде моќен\/буран“; традицијата го чита како „ќе ги разори“, буквално „насилно ќе ги собори“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "невните",
+      "rationale": "בוגדים буквално „те што покриваат“ — прикриено постапуваат, не просто неверни."
+    }
+  ],
+  "translation": "Невиноста на правите ќе ги води, а изопаченоста на неверните ќе ги разори.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "22e130f5ddfe2b33353b14608148ec64c8b5f9921b8c05b10a37593e3c17a44d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/11\/2-3.1792458406535.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "невиноста"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "на правите"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "ќе ги води"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "а изопаченоста"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "на неверните"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "ќе ги разори"
+    }
+  ],
+  "timestamp": "2026-10-20T01:06:46.536267783Z",
+  "model": "glm-5.3"
+}

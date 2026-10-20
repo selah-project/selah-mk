@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Zerubbabel",
+      "rationale": "Наредба упатена директно на Зерубавел, управникот на Јудеја."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ги тресам",
+      "rationale": "Многутвеното учество со сегашно време може да биде и прогнозско идно: „ќе ги тресам“."
+    }
+  ],
+  "translation": "Кажи на Зерубавел, управникот на Јудеја, велејќи: Јас ги тресам ⟨את⟩ небесата и ⟨את⟩ земјата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7fd44ed36bb2c6169f99a8a547f2574a263a757160a6b83a554e301403437171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/haggai\/2\/21-23.1792452693916.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Кажи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Зерубавел"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "управникот"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јудеја"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ги тресам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "небесата"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "земјата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:31:33.917374438Z",
+  "model": "glm-5.3"
+}

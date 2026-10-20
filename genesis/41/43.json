@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "genesis 41:43",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אברך",
+      "rationale": "Хапакс: 'клекни!' (KJV) против транслитерираното 'Аврех' (JPS), можеби египетски придавка"
+    },
+    {
+      "kind": "addition",
+      "subject": "така што",
+      "rationale": "Инфинитивниот конструкт ונתון е поврзан со претходното, македонскиот бара сврзник"
+    },
+    {
+      "kind": "addition",
+      "subject": "била",
+      "rationale": "Копулата недостасува во хебрејскиот"
+    }
+  ],
+  "translation": "И го качи ⟨את⟩ него на колата втората што била негова, и викаа пред него: Аврех! — така што го постави ⟨את⟩ него над целата земја Мицраим.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "7f2d25a22a4a16c096db20bb15aa8f88dca21e5e26073dc87360a18dc3844d3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/41\/41-44.1792443160384.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "И го качи"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "במרכבת",
+      "gloss": "на колата"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "втората"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לו",
+      "gloss": "негова"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "и викаа"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пред него"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "Аврех!"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "и го постави"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целата"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-19T20:52:40.389173468Z",
+  "model": "glm-5.3"
+}

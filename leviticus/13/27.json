@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 13:27",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פשה תפשה",
+      "rationale": "инфинитивен апсолутивен — двоен корен за интензивитет, на македонски само пара глаголи"
+    },
+    {
+      "kind": "measurement",
+      "subject": "седмиот ден",
+      "rationale": "проверката е закачена на броен ден"
+    }
+  ],
+  "translation": "И ќе го види свештеникот на седмиот ден: ако се прошири, проширувајќи во кожата, и свештеникот ќе го објави нечист ⟨את⟩ него — удар на проказа е тоа.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "cd63a8ca935c7da5b1eaa4bb278bc3dddf288d17b0b43f95ca180a35e8d8403c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/13\/25-28.1792444296260.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "и ќе го види"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "на ден"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седмиот"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "се прошири"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "проширувајќи"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "во кожата"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "и ќе објави нечист"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "удар"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "проказа"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е"
+    }
+  ],
+  "timestamp": "2026-10-19T21:11:36.264242248Z",
+  "model": "glm-5.3"
+}

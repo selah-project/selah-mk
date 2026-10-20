@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ואף כי",
+      "rationale": "хебрејскиот израз „а камо ли уште“ — логичко засилување од помало кон поголемо стравување"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "gloss": "ки го носи засилувањето заедно со ואף и не се преведува посебно"
+    },
+    {
+      "kind": "you",
+      "subject": "до Давид",
+      "rationale": "луѓето на Давид директно му се обраќаат"
+    }
+  ],
+  "translation": "И луѓето на Давид му рекоа: Еве, ние тука во Јудеја сме во страв — а камо ли ако одиме во Кеила, против воените редови на Плиштим.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "0ff76f86f965a3bb19e8739d2615bbd7d71d83f7dc8c2ba8d4958cef6bda0e04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/23\/1-4.1792447947677.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоа"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "луѓето на"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ние"
+    },
+    {
+      "surface": "פה",
+      "gloss": "тука"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "во Јудеја"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "во страв"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "а камо ли"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "נלך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "во Кеила"
+    },
+    {
+      "surface": "אל",
+      "gloss": "против"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "воените редови"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштим"
+    }
+  ],
+  "timestamp": "2026-10-19T22:12:27.681847242Z",
+  "model": "glm-5.3"
+}

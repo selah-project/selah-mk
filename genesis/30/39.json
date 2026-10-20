@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 30:39",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "пругести, пегави, шарени",
+      "rationale": "акуд\/накуд\/талуим — три вида шара: пруги, пеги, дамки; границата меѓу нив не е остро определена низ преводите."
+    },
+    {
+      "kind": "substitution",
+      "subject": "се зачна",
+      "rationale": "ויחמו буквално 'се загреа' — евфемизам за парење."
+    }
+  ],
+  "translation": "И стадото се зачна спроти прачките, и стадото роди пругести, пегави и шарени.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "17b9664bc62c38afae1fabd55259e451a99c3a09b47cf7943a2a1807b72d8817",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/30\/37-40.1792442979956.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחמו",
+      "gloss": "И се зачна"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "стадото"
+    },
+    {
+      "surface": "אל",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "המקלות",
+      "gloss": "прачките"
+    },
+    {
+      "surface": "ותלדן",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "стадото"
+    },
+    {
+      "surface": "עקדים",
+      "gloss": "пругести"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "пегави"
+    },
+    {
+      "surface": "וטלאים",
+      "gloss": "и шарени"
+    }
+  ],
+  "timestamp": "2026-10-19T20:49:39.961122438Z",
+  "model": "glm-5.3"
+}

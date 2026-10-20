@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 15:22",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אין נקי",
+      "rationale": "буквално „нема невин“ — односно никој не е ослободен од задолжението"
+    },
+    {
+      "kind": "substitution",
+      "subject": "исклучен",
+      "rationale": "נקי значи „невин“; македонскиот бара „исклучен\/ослободен“"
+    }
+  ],
+  "translation": "Тогаш царот Аса го објави на ⟨את⟩ целиот Јудеја — нема ⟨исклучен⟩ — и ги кренаа ⟨את⟩ камењата од Рама и ⟨את⟩ нејзиното дрво што го беше градил Бааса, и со нив царот Аса го изгради ⟨את⟩ Гева Венијаминов и ⟨את⟩ Мицпа.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "d1a641ef8e65ea0471c6e9c89ecf8404cd71cf19e9ca7a80dc338217715fead2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/15\/21-24.1792448926940.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Тогаш царот"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "השמיע",
+      "gloss": "го објави"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "целиот Јудеја"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудеја"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "исклучен"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "и ги кренаа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "камењата од Рама"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "камењата"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "од Рама"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "нејзиното дрво"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "нејзиното дрво"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "го беше градил"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Бааса"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "и го изгради"
+    },
+    {
+      "surface": "בם",
+      "gloss": "со нив"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гева"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Гева"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Венијаминов"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Мицпа"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Мицпа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:28:46.942934636Z",
+  "model": "glm-5.3"
+}

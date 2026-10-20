@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "молитва за царот",
+      "rationale": "Цел стих е непосреден обраќање 'ти' — благослов изговорен врз некого, не обраќање кон Јахве"
+    },
+    {
+      "kind": "substitution",
+      "subject": "теснотија",
+      "rationale": "צרה е буквално 'теснота', стеснетост од секои страни"
+    },
+    {
+      "kind": "alternative",
+      "subject": "да те вознесе",
+      "rationale": "ישגב буквално 'да те направи висок, недостапен', т.е. да те утврди на високо место"
+    }
+  ],
+  "translation": "Да ти одговори Јахве во ден на теснотија, името на Елохим на Јааков да те вознесе;",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5153850697641f8e48b56e9f75a49ab15fc1715ffec9bae78abfebf663d00e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/20\/1-4.1792453093593.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "Да ти одговори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во ден"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "на теснотија"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "да те вознесе"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "на Јааков"
+    }
+  ],
+  "timestamp": "2026-10-19T23:38:13.628468576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "job 15:34",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Хебрејскиот нема копула; македонскиот ја бара."
+    },
+    {
+      "kind": "crux",
+      "subject": "חנף",
+      "rationale": "„Лицемер“ (KJV) наспроти „нечестив\/богопротивен“ — коренот значи „нечист со грев“, не точно лицемерие."
+    },
+    {
+      "kind": "crux",
+      "subject": "גלמוד",
+      "rationale": "„Неплодна\/пуста“ — и дватаNuansa се во зборот (како безплодна жена и како запустена земја)."
+    }
+  ],
+  "translation": "Зашто дружината на нечестивиот ⟨е⟩ опустена, и оган ги изеде шаторите на мито.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cdbe648ee94c2758a19024237dbbad5029033d1bb051eea61bd43b548e25b830",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/15\/33-35.1792455016094.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "дружината"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "на нечестивиот"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "опустена"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "и оган"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ги изеде"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "шаторите"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "на мито"
+    }
+  ],
+  "timestamp": "2026-10-20T00:10:16.095399973Z",
+  "model": "glm-5.3"
+}

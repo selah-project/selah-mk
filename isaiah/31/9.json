@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 31:9",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "неговата карпа ќе помине",
+      "rationale": "KJv 'he shall pass over to his strong hold' vs ASV\/JPS 'his rock shall pass away': дали карпата (цврстина на Асирија) поминува\/паѓа, или асирскиот цар бега кон својата тврдина."
+    },
+    {
+      "kind": "substitution",
+      "subject": "оган",
+      "rationale": "אור е пламен\/светлина; 'оган' е најблискиот еден збор на македонски."
+    },
+    {
+      "kind": "crux",
+      "subject": "чиј оган — на кого",
+      "rationale": "אשר אור לו: чиј — Јахвевиот оган во Цион (казна за Асирија) или оган за неговиот (Божјиот) народ; преводите се делат."
+    }
+  ],
+  "translation": "И од страв неговата карпа ќе помине ⟨се⟩ наспроти заплашувањето, и неговите старешини ќе се скршат од знамето, вели Јахве, чиј оган е во Цион и чија рерна е во Јерушалаим.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "cbabc08e2aad7e74e0ba3d32b7e9fecc2130778bd6527655d781a279576904f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/31\/9-9.1792449902368.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסלעו",
+      "gloss": "и неговата карпа"
+    },
+    {
+      "surface": "ממגור",
+      "gloss": "од заплашувањето"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "ќе помине"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "и ќе се скршат"
+    },
+    {
+      "surface": "מנס",
+      "gloss": "од знамето"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "неговите старешини"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чиј"
+    },
+    {
+      "surface": "אור",
+      "gloss": "оган"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "во Цион"
+    },
+    {
+      "surface": "ותנור",
+      "gloss": "и рерна"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "во Јерушалаим"
+    }
+  ],
+  "timestamp": "2026-10-19T22:45:02.369394563Z",
+  "model": "glm-5.3"
+}

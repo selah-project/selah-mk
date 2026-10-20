@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "прстенот-печат",
+      "rationale": "טבעת е печатен прстен — печaten знак на кралскиот авторитет, не накит"
+    }
+  ],
+  "translation": "И царот го симна ⟨את⟩ прстенот-печат од раката своја и му го даде на Аман, синот на Медата, Агагеецот, непријателот на Јудеите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "556a2ace82385f8675a87f6441b19e25695293e0594e0789163921a9440f1072",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/esther\/3\/9-12.1792455853379.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "и го симна"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "прстенот-печат"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "прстенот-печат неговиот"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "раката своја"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "и го даде"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "на Аман"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "на Медата"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Агагеецот"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "непријателот"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "на Јудеите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:24:13.380110955Z",
+  "model": "glm-5.3"
+}

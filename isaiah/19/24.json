@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 19:24",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "трет",
+      "rationale": "שלישיה е женска форма од שלישי — Јисраел е третиот во тројката, не „третокласен“; букв. „трета (страна)“"
+    }
+  ],
+  "translation": "Во оној ден Јисраел ќе биде трет со Мицраим и со Ашур — благослов во средината на земјата.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "89ade09efda90363b11acf681971accbce1a78d189b5abde9b8f2a6ee10b983e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/19\/21-24.1792449775564.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оној"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "שלישיה",
+      "gloss": "трет"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "со Мицраим"
+    },
+    {
+      "surface": "ולאשור",
+      "gloss": "и со Ашур"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "благослов"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "во средината"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T22:42:55.567661018Z",
+  "model": "glm-5.3"
+}

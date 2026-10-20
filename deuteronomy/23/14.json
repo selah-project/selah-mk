@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 23:14",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אזנך",
+      "rationale": "Буквално 'увото' (на алатката): 'на алатката' (KJV 'weapon') vs 'на ременот' (LXX 'ζώνη') — хомоглифа на ז\/י."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חוץ \/ אזנך",
+      "rationale": "חוץ стои во 13 и 14 — повторување што ги поврзува двата стиха."
+    }
+  ],
+  "translation": "И колец нека ⟨има⟩ за тебе на алатката твоја, и ќе биде кога ќе седнеш надвор, ќе прокопаш со неа, и ќе се вратиш, и ќе го покриеш ⟨את⟩ изметот свој.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2bb8bb5a35e90ff0eb67e0ca4f6134c61e4dac0df80d08fd7f5a3fa74a27ca18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/23\/13-16.1792445673239.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתד",
+      "gloss": "И колец"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "нека ⟨има⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за тебе"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "алатката твоја"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "кога ќе седнеш"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "надвор"
+    },
+    {
+      "surface": "וחפרתה",
+      "gloss": "ќе прокопаш"
+    },
+    {
+      "surface": "בה",
+      "gloss": "со неа"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "и ќе се вратиш"
+    },
+    {
+      "surface": "וכסית",
+      "gloss": "и ќе покриеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "изметот свој"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "изметот свој"
+    }
+  ],
+  "timestamp": "2026-10-19T21:34:33.240729143Z",
+  "model": "glm-5.3"
+}

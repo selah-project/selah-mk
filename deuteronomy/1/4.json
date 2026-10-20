@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "порази",
+      "rationale": "הכה буквално „удри“ — овде во воена смисла „порази“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "седеше",
+      "rationale": "יושב е „седеше\/живееше“ — задржана буквата слика на седење како престој."
+    }
+  ],
+  "translation": "откако го порази ⟨את⟩ Сихон, царот на Еморејците, што седеше во Хешбон, и ⟨את⟩ Ог, царот на Башан, што седеше во Аштарот, во Едреј —",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a8c2bae1956fabfe82fb80128922c19d592e677d1ef73d14a1a50877c7fea901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/1\/1-4.1792445311548.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "откако"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "го порази"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сихон"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Сихон"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "на Еморејците"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "седеше"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "во Хешбон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ог"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ог"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "на Башан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "седеше"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "во Аштарот"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "во Едреј"
+    }
+  ],
+  "timestamp": "2026-10-19T21:28:31.550008195Z",
+  "model": "glm-5.3"
+}

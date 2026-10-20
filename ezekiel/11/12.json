@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 11:12",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сум",
+      "rationale": "хебрејскиот нема копула — 'јас Јахве'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משפטי ... משפטי",
+      "rationale": "повторување: 'моите судови' наспроти 'судовите на народите' — истиот збор во спротивност"
+    }
+  ],
+  "translation": "И ќе знаете дека јас сум Јахве — зашто во моите наредби не ходевте, и моите судови не извршивте, туку според судовите на народите што се наоколу вас, вие правевте.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/11\/9-12.1792451491516.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "и ќе знаете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בחקי",
+      "gloss": "во моите наредби"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "ходевте"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "и моите судови"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "извршивте"
+    },
+    {
+      "surface": "וכמשפטי",
+      "gloss": "туку според судовите"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "на народите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "наоколу вас"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "правевте"
+    }
+  ],
+  "timestamp": "2026-10-19T23:11:31.517462410Z",
+  "model": "glm-5.3"
+}

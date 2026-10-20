@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "угнетувате",
+      "rationale": "ינה носи насилство\/притисок врз vulnerабилен; 'угнетува' е најблиску до сликата"
+    },
+    {
+      "kind": "you",
+      "subject": "Израел",
+      "rationale": "Заповед упатена директно на заедницата"
+    }
+  ],
+  "translation": "И ако гостин се насели ⟨את⟩ кај тебе во земјата ваша, немојте да го угнетувате ⟨את⟩ него.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c1e30096f888f3c498b18cc43848958914de0e4fa12873ffd47901f172fba920",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/19\/33-36.1792444417847.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "се насели"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ кај тебе"
+    },
+    {
+      "surface": "גר",
+      "gloss": "гостин"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "во земјата ваша"
+    },
+    {
+      "surface": "לא",
+      "gloss": "немојте"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "да го угнетувате"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    }
+  ],
+  "timestamp": "2026-10-19T21:13:37.851134377Z",
+  "model": "glm-5.3"
+}

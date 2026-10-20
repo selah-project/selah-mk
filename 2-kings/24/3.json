@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 24:3",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פי יהוה",
+      "rationale": "дословно „по устата на Јахве“ — израз за заповед, според Јахве."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מעל פניו",
+      "rationale": "„од своето лице“ — лицето како присуство; да ги отстрани од свое присуство."
+    },
+    {
+      "kind": "crux",
+      "subject": "אך",
+      "rationale": "„само\/навистина“ — KJF „surely“, YLT „only“; честичка ограничување или потврда."
+    }
+  ],
+  "translation": "Само по устата на Јахве се случи тоа во Јудеја, за да ги отстрани од своето лице, за гревовите на Менаше, според сè што направи.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "567e3f789d38c95868f25ae4f9cfc7b22c9d5f37bb7b79e92a7853089d7a5164",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/24\/1-4.1792449520915.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Само"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "се случи"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "во Јудеја"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "да отстрани"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "своето лице"
+    },
+    {
+      "surface": "בחטאת",
+      "gloss": "за гревовите"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "на Менаше"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "според сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    }
+  ],
+  "timestamp": "2026-10-19T22:38:40.917790399Z",
+  "model": "glm-5.3"
+}

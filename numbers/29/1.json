@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 29:1",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תרועה",
+      "rationale": "хебрејски збор значи и боен вик и радосна акламација и трубеење; 'трубеење' е само една од сликите"
+    },
+    {
+      "kind": "substitution",
+      "subject": "никаква",
+      "rationale": "כל дословно 'сета\/целата', во негација 'никаква'"
+    }
+  ],
+  "translation": "И во седмиот месец, на првиот од месецот, свет собор ќе ви биде: никаква работа на служба нема да правите — ден на трубеење тој ќе ви биде.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e2a0ac0c965b4ab17b6fc3d9522e7e78b478be4ca129304fd115ef881480ba41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/29\/1-4.1792445106406.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "и во месецот"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седмиот"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "на првиот"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "од месецот"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "собор"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свет"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "כל",
+      "gloss": "никаква"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "работа"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "на служба"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "да правите"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "на трубеење"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    }
+  ],
+  "timestamp": "2026-10-19T21:25:06.407374205Z",
+  "model": "glm-5.3"
+}

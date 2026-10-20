@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула пред הוא"
+    },
+    {
+      "kind": "substitution",
+      "subject": "почина",
+      "rationale": "שבת е глагол од истиот корен како шабат — буквално 'престана\/шабатна', не само 'почина'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "се освежи",
+      "rationale": "וינפש е од коренот на нефеш (грло\/дув\/животна сила) — буквално 'и здивна\/се предиви'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "шест дена",
+      "rationale": "броење на дните на создавањето"
+    }
+  ],
+  "translation": "Помеѓу Мене и помеѓу синовите на Јисраел знак ⟨е⟩ тоа за навек, зашто шест дена Јахве ги создаде ⟨את⟩ небото и ⟨את⟩ земјата, а во седмиот ден почина и се освежи.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0f8ad6a11f7c2f987950f19a3404b0a212673d186b2dd5fde73572986c11d585",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/31\/17-18.1792443868155.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "помеѓу Мене"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и помеѓу"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "אות",
+      "gloss": "знак"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "за навек"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "шест"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дена"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ги создаде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "небото"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небото"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "земјата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "а во денот"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седмиот"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "почина"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "и се освежи"
+    }
+  ],
+  "timestamp": "2026-10-19T21:04:28.158842978Z",
+  "model": "glm-5.3"
+}

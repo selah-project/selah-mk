@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 44:11",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "го поставувам лицето мое против вас",
+      "rationale": "שים פנים — хебрејски идiom за решително противење, задржан буквално"
+    },
+    {
+      "kind": "you",
+      "subject": "до народот во Мицраим",
+      "rationale": "објава на суд упатета директно до Јудејците во Египет"
+    }
+  ],
+  "translation": "Затоа вака вели Јахве Цеваот, Елохим на Јисраел: Еве, Јас го поставувам лицето мое против вас за зло, и за да го истребам ⟨את⟩ целиот Јуда.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f3bceb0f7579622897715ec4aa3f2ef0878c50f010b645d1992e67ab190f028a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/44\/9-12.1792451135677.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Затоа"
+    },
+    {
+      "surface": "כה",
+      "gloss": "вака"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Еве, Јас"
+    },
+    {
+      "surface": "שם",
+      "gloss": "го поставувам"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето мое"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "против вас"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "за зло"
+    },
+    {
+      "surface": "ולהכרית",
+      "gloss": "и за да го истребам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "целиот Јуда"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуда"
+    }
+  ],
+  "timestamp": "2026-10-19T23:05:35.679142060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "obadiah 1:19",
+  "book": "obadiah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨тие⟩",
+      "rationale": "хебрејскиот изоставува подмет — הנגב и השפלה се самите луѓе, регион за жител"
+    },
+    {
+      "kind": "measurement",
+      "subject": "список на земји",
+      "rationale": "стихот брои пет територии што се распределуваат по племиња — карта во список"
+    }
+  ],
+  "translation": "И ⟨тие⟩ од југот ќе наследат ⟨את⟩ планината на Есав, и ⟨тие⟩ од низината ⟨את⟩ Плиштим; и ќе наследат ⟨את⟩ полето на Ефраим и ⟨את⟩ полето на Шомрон; а Бињамин ⟨את⟩ Гилад.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "61d36e7f790cc162024a69dcc04dcf0cb725ce46b19f090b9ccef5089137ec4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/obadiah\/1\/18-19.1792458294001.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירשו",
+      "gloss": "и ќе наследат"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "југот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "планината на Есав"
+    },
+    {
+      "surface": "הר",
+      "gloss": "планината"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "на Есав"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "и низината"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Плиштим"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштим"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "и ќе наследат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "полето на Ефраим"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "полето"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "на Ефраим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "полето на Шомрон"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "полето"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "на Шомрон"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "а Бињамин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гилад"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гилад"
+    }
+  ],
+  "timestamp": "2026-10-20T01:04:54.002382961Z",
+  "model": "glm-5.3"
+}

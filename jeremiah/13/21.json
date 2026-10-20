@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 13:21",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפקד",
+      "rationale": "пакад: 'ќе те посети' (пријателски или непријателски) наспроти 'ќе те накаже' (KJV) или 'ќе постави' (ASV\/JPS, читајќи со следниот стих)"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלפים",
+      "rationale": "алуфим: 'пријатели\/сојузници' (ASV\/JPS) наспроти 'capitains\/старешини' (KJV\/Geneva) — од истиот корен што значи питом, близок"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨тој⟩",
+      "rationale": "хебрејскиот ги нема подметот при машките глаголи"
+    },
+    {
+      "kind": "you",
+      "subject": "Ерусалим\/Јудеја",
+      "rationale": "женски завршетоци (תאמרי, עליך) се обраќаат на Јудеја како жена"
+    }
+  ],
+  "translation": "Што ќе речеш кога ⟨тој⟩ ќе дојде над тебе? Зашто ти ги научи ⟨את⟩ нив против тебе — пријатели за глава. Зар не ќе те фатат болки како жена што раѓа?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4cdf6e28a5b63e5b5a7b2c77d1f569e6a6f5f878b1bdf09799c1812e5a1e3433",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/13\/21-24.1792450549624.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "ќе речеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ќе дојде"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "над тебе"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "למדת",
+      "gloss": "научи"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "нив"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "против тебе"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "пријатели"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "за глава"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "зар не"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "болки"
+    },
+    {
+      "surface": "יאחזוך",
+      "gloss": "ќе те фатат"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "како"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жена"
+    },
+    {
+      "surface": "לדה",
+      "gloss": "што раѓа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:55:49.625045318Z",
+  "model": "glm-5.3"
+}

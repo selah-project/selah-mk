@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Израел\/свештеничките семејства",
+      "rationale": "Заповед во второ лице множина — народот треба свештеникот да го смета за свет."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדשתו ... קדש ... קדוש ... מקדשכם",
+      "rationale": "Коренот קדש се повторува четири пати во еден стих: осветувај — свет — свет — Осветувачот."
+    }
+  ],
+  "translation": "И свети го сметај, зашто ⟨את⟩ лебот на Елохим твој тој го принесува; свет нека ти биде, зашто свет сум Јас — Јахве, што ве осветува.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a9ee5dd7fa6d74c7286ad7dbe748750f81e934f2212575385f796b590cd777bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/21\/5-8.1792444441226.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "и свети го сметај"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лебот на Елохим твој"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "лебот"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "на Елохим твој"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "го принесува"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свет"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "нека биде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "свет"
+    },
+    {
+      "surface": "אני",
+      "gloss": "сум Јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "што ве осветува"
+    }
+  ],
+  "timestamp": "2026-10-19T21:14:01.228773507Z",
+  "model": "glm-5.3"
+}

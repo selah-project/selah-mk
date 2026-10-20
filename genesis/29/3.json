@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 29:3",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "обичај vs минато дејство",
+      "rationale": "многу преведи го читаат како опис на обичај ('таму имаа обичај да се собираат'); буквалниот свршен вид 'се собраа' е задржан"
+    }
+  ],
+  "translation": "И таму се собираа сите стада, и ја отркалаа ⟨את⟩ каменот од устата на кладенецот, и ги напоија ⟨את⟩ стадото, и го вратија ⟨את⟩ каменот на устата на кладенецот, на местото свое.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "88cdc77a943aa860db681d237a37805e37f2daf1409a330cff71fac38c087f2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/29\/1-4.1792442872773.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונאספו",
+      "gloss": "и се собираа"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "таму"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "стада"
+    },
+    {
+      "surface": "וגללו",
+      "gloss": "и ја отркалаа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "каменот"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "каменот"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устата"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "на кладенецот"
+    },
+    {
+      "surface": "והשקו",
+      "gloss": "и ги напоија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стадото"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "стадото"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "и го вратија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "каменот"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "каменот"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устата"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "на кладенецот"
+    },
+    {
+      "surface": "למקמה",
+      "gloss": "на местото свое"
+    }
+  ],
+  "timestamp": "2026-10-19T20:47:52.780841725Z",
+  "model": "glm-5.3"
+}

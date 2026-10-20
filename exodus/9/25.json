@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויך \/ הכה",
+      "rationale": "коренot נכה се повторува на почетокот и во средината на стихот — повторен удар, изгубено во македонскиот."
+    },
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "македонскиот минат имперфект бара помошен глагол што хебрејскиот го нема."
+    }
+  ],
+  "translation": "И градот удри во целата земја Мицраим ⟨את⟩ сè што беше на полето, од човек до добиток; и ⟨את⟩ целиот џивџик на полето го удри градот, а ⟨את⟩ секое дрво на полето го искрши.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "981bf1191d93a45a86dd276518515ef6f8a065498da4d962aaef2955eab9bb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/9\/25-28.1792443421904.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "и удри"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "градот"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во целата"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сè што беше на полето"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "на полето"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "од човек"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "добиток"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "целиот џивџик на полето"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "џивџик"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "на полето"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "го удри"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "градот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "секое дрво на полето"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секое"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "на полето"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "го искрши"
+    }
+  ],
+  "timestamp": "2026-10-19T20:57:01.909551140Z",
+  "model": "glm-5.3"
+}

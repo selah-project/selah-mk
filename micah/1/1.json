@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 1:1",
+  "book": "micah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨дадено⟩",
+      "rationale": "хебрејскиот има само 'беше кон' — македонскиот бара глагол"
+    },
+    {
+      "kind": "measurement",
+      "subject": "денове на царевете",
+      "rationale": "датирање на книгата преку списокот на цареви на Јехуда"
+    }
+  ],
+  "translation": "Слово на Јахве што беше ⟨дадено⟩ на Мика ⟨од⟩ Морешет во деновите на Јотам, Ахаз ⟨и⟩ Јехизкија, цареви на Јехуда, коешто виде за Шомрон и Јерушалаим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2c86da674d05221f186297f6ae3872d53a92febacdb3c23f3fa2fa0ea1694e23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/micah\/1\/1-4.1792452525057.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨дадено⟩ на"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Мика"
+    },
+    {
+      "surface": "המרשתי",
+      "gloss": "⟨од⟩ Морешет"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "во деновите на"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Јотам"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "יחזקיה",
+      "gloss": "Јехизкија"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "цареви"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јехуда"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коешто"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "виде"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомрон"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "и Јерушалаим"
+    }
+  ],
+  "timestamp": "2026-10-19T23:28:45.057952197Z",
+  "model": "glm-5.3"
+}

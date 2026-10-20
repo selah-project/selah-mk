@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата моја",
+      "rationale": "נפש е дишечко суштество, жизнска сила, не бесмртна душа"
+    },
+    {
+      "kind": "idiom",
+      "subject": "Жив е Јахве",
+      "rationale": "хебрејска клетвена формула, букв. «жив е Јахве»"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ме⟩",
+      "rationale": "македонскиот бара дативен заменски краток приговорник"
+    }
+  ],
+  "translation": "И царот се заколна и рече: Жив е Јахве, кој ⟨ме⟩ откупи ⟨את⟩ душата моја од секоја теснотија.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b585ae4433d9ea7473aa7b783bf37342077aca4b20b52b5dd5cf55826aa497a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/1\/29-32.1792448532891.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "се заколна"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Жив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кој"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "откупи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "душата моја"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата моја"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од секоја"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "теснотија"
+    }
+  ],
+  "timestamp": "2026-10-19T22:22:12.892274315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 9:9",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара"
+    },
+    {
+      "kind": "substitution",
+      "subject": "спроти него",
+      "rationale": "בו е буквално „во него“; македонскиот бара предлог за насоченост"
+    }
+  ],
+  "translation": "На Адонај, Елохим наши, ⟨се⟩ милостите и прошките, зашто се побунивме спроти него.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6b443f5a49fe37155dc6e6a96d8c95ddd24d8154eefda9a11c70e58627ee0d31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/9\/9-12.1792456164872.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאדני",
+      "gloss": "на Адонај"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохим наши"
+    },
+    {
+      "surface": "הרחמים",
+      "gloss": "милостите"
+    },
+    {
+      "surface": "והסלחות",
+      "gloss": "и прошките"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מרדנו",
+      "gloss": "се побунивме"
+    },
+    {
+      "surface": "בו",
+      "gloss": "спроти него"
+    }
+  ],
+  "timestamp": "2026-10-20T00:29:24.873277100Z",
+  "model": "glm-5.3"
+}

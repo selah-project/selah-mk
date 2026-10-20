@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ненадејно",
+      "rationale": "פתאם може да значи и 'изненада' како начин на доаѓање; некои преводи го врзуваат со целата фраза 'ги нападна изненада'."
+    }
+  ],
+  "translation": "И Јехошуа дојде ненадејно кај нив — цела ноќ се качуваше од Гилгал.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c741e3fc4a09238b1d666fe19129aa6ca4422efa9a885629d9a0c5800d9f4c85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/10\/9-12.1792445980388.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и дојде"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "кај нив"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ненадејно"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цела"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ноќ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "се качуваше"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Гилгал"
+    }
+  ],
+  "timestamp": "2026-10-19T21:39:40.389367370Z",
+  "model": "glm-5.3"
+}

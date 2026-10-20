@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מלאתי אחרי",
+      "rationale": "Дословно „наполнив зад“ — хебрејски израз за целосно следење; дадено „наполно одев по“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "растопија",
+      "rationale": "המס буквално значи „растворив\/растопив“ — сликата на срце што се топи од страв."
+    }
+  ],
+  "translation": "А браќата мои што се качиле со мене го растопија ⟨את⟩ срцето на народот, а јас наполно одев по Јахве, Елохим мојот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3228cea5e9ee0d13a6e61600ceb225fd217f8feaabfe4a73ff4c017facdb59bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/14\/5-8.1792446067215.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "а браќата мои"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "се качиле"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "со мене"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "го растопија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срцето"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срцето"
+    },
+    {
+      "surface": "העם",
+      "gloss": "на народот"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "а јас"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "наполно одев"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мојот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:41:07.217269116Z",
+  "model": "glm-5.3"
+}

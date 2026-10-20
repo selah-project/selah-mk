@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 21:13",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בערב ... בערב",
+      "rationale": "истиот збор двапати: „во Арабија … во Арабија“, а коренот игра и со „вечер\/суша“ — повторувањето се губи во македонскиот."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ноќеваат",
+      "rationale": "תלינו може и како наредба („ноќевајте!“) — мнозина преведувачи избираат повелителна форма."
+    }
+  ],
+  "translation": "Носење за Арабија. Во шумата во Арабија ноќеваат, каравани на Деданци.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7034096a3a50d196a17900691383f539e0c4b375babff40a04c993096788bec4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/21\/13-16.1792449801638.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Носење"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "за Арабија"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "во шумата"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "во Арабија"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "ноќеваат"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "каравани"
+    },
+    {
+      "surface": "דדנים",
+      "gloss": "Деданци"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:21.639988062Z",
+  "model": "glm-5.3"
+}

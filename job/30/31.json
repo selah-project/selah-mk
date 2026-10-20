@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 30:31",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "стана",
+      "rationale": "глаголот се повторува за вториот член, хебрејскиот го има само еднаш"
+    }
+  ],
+  "translation": "И лирата ми стана жалост, и свирелката ми — ⟨стана⟩ глас на оние што плачат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "eb2982aabea12cbe79d25fa5408aa2a2805943f9bfd7cba084631303bf137639",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/30\/29-31.1792455198474.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "жалост"
+    },
+    {
+      "surface": "כנרי",
+      "gloss": "лирата ми"
+    },
+    {
+      "surface": "ועגבי",
+      "gloss": "и свирелката ми"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "בכים",
+      "gloss": "на оние што плачат"
+    }
+  ],
+  "timestamp": "2026-10-20T00:13:18.475190252Z",
+  "model": "glm-5.3"
+}

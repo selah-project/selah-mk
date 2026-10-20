@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 6:20",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "дваесет×дваесет×дваесет лакти",
+      "rationale": "куб за девирот — должина, ширина, висина"
+    },
+    {
+      "kind": "substitution",
+      "subject": "чисто",
+      "rationale": "סגור 'затворено, без мешавина' — 'чисто' е традиционален превод"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויצף מזבח ארז",
+      "rationale": "KJV: жртвеникот од кедар; JPS: постави жртвеник и го покри со кедар"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨од⟩",
+      "rationale": "хебрејскиот е придавска положба без предлог"
+    }
+  ],
+  "translation": "И пред девирот: дваесет лакти должина, дваесет лакти ширина и дваесет лакти неговата висина; и го обложи со чисто злато, и го обложи жртвеникот ⟨од⟩ кедар.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7a3262eff569e0b8a13346a08a229aa2c0cb523a307bcba4ff70c2c08f75b7ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/6\/17-20.1792448635604.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "и пред"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "девирот"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "дваесет"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "лакти"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "должина"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и дваесет"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "лакти"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ширина"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и дваесет"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "лакти"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "неговата висина"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "и го обложи"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "чисто"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "и обложи"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жртвеникот"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "кедар"
+    }
+  ],
+  "timestamp": "2026-10-19T22:23:55.606461681Z",
+  "model": "glm-5.3"
+}

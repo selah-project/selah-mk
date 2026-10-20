@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ותחס עיני",
+      "rationale": "буквално „и поштеде моето око“ — хебрејскиот израз за милост, македонскиот бара подмет „ги“"
+    },
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "rationale": "акузативски маркер со присвојна наставка, стопен со ⟨את⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "поколението во пустињата",
+      "rationale": "Јахве зборува за нив во трето лице, но стихот е дел од обраќање кон старешините"
+    }
+  ],
+  "translation": "Но моето око ги поштеде од нивното уништување, и не направив крај од нив во пустињата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2ee623699d856c959f223517ba9e7077197e6049745f78c026764d2b5f98bf88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/20\/17-20.1792451611391.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "поштеде"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "моето око"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ги"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "од нивното уништување"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "направив"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "крај"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "крај"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "во пустињата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:13:31.392547520Z",
+  "model": "glm-5.3"
+}

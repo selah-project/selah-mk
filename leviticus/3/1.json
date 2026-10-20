@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 3:1",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "crux",
+      "subject": "шаломим",
+      "rationale": "שלמים: множина од 'шалом' — 'мирни\/целини приноси' наспроти задржаниот звучен облик"
+    }
+  ],
+  "translation": "И ако жртва-шаломим ⟨е⟩ приносот негов: ако од говедата принесува — ако машко, ако женско — без недостаток нека го принесе пред Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3bba28306a52eec2db1ebbbd3645931648e80204eacb9d8f139da4f597db29b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/3\/1-4.1792444029934.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жртва"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "шаломим"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "приносот негов"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "говедата"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "приносува"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "машко"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "женско"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "без недостаток"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "нека го принесе"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:07:09.936723199Z",
+  "model": "glm-5.3"
+}

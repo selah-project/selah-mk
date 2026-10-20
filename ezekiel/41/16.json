@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 41:16",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האטמות",
+      "rationale": "„затворени“ или „со засечени јамби“ (усно тесни прозорци); KJV „narrow“, ASV „closed\""
+    },
+    {
+      "kind": "hapax",
+      "subject": "שחיף",
+      "rationale": "шахиф — тенка даска, облога; се јавува само тука во Танахот"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב סביב",
+      "rationale": "двојно „наоколу наоколу“ — повторувањето е задржано"
+    }
+  ],
+  "translation": "праговите, и прозорците затворени, и аттиците наоколку во трите катови, спроти прагот — обложување со дрво наоколку наоколку; и ⟨се⟩ до прозорците ⟨од⟩ земјата, и прозорците покриени.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e20a09c63aa45f132c38cd9c079756d4d65c4cf64208f626f96d1a0750ba6def",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/41\/13-16.1792452079446.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הספים",
+      "gloss": "праговите"
+    },
+    {
+      "surface": "והחלונים",
+      "gloss": "и прозорците"
+    },
+    {
+      "surface": "האטמות",
+      "gloss": "затворени"
+    },
+    {
+      "surface": "והאתיקים",
+      "gloss": "и аттиците"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколку"
+    },
+    {
+      "surface": "לשלשתם",
+      "gloss": "во трите катови"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "прагот"
+    },
+    {
+      "surface": "שחיף",
+      "gloss": "обложување"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "со дрво"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколу"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколу"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "и ⟨од⟩ земјата"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "החלנות",
+      "gloss": "прозорците"
+    },
+    {
+      "surface": "והחלנות",
+      "gloss": "и прозорците"
+    },
+    {
+      "surface": "מכסות",
+      "gloss": "покриени"
+    }
+  ],
+  "timestamp": "2026-10-19T23:21:19.448041720Z",
+  "model": "glm-5.3"
+}

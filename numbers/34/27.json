@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "Асир",
+      "rationale": "Хебрејскиот אָשֵׁר значи и „среќен\/благословен“ — букв. „оној што носи среќа“"
+    }
+  ],
+  "translation": "И за племето на синовите на Асир — кнез Ахиуд, син на Шломи.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ce83cd082a0352be0f2dd605f6cb7b43961c6889462e62774fcba888c745624b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/34\/25-28.1792445212180.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "и за племето"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на синовите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "на Асир"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "Ахиуд"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "на Шломи"
+    }
+  ],
+  "timestamp": "2026-10-19T21:26:52.182177576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 59:14",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ги",
+      "rationale": "објектот на 'доврши' не е именуван во хебрејскиот; даден со ⟨ги⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלה … כלה",
+      "rationale": "двојно повторување на истиот императив — повторувачка сила, делумно пренесена."
+    }
+  ],
+  "translation": "Доврши ⟨ги⟩ во гневот, доврши ⟨ги⟩ — па да ги нема; и нека знаат дека Елохим владее во Јааков, до краиштата на земјата. Села.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e03e5fa4b70d4e07c8c3106023c1b168d6f78f5a300c5a8f807041aaf89399e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/59\/13-16.1792453380496.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "Доврши"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "во гневот"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "доврши"
+    },
+    {
+      "surface": "ואינמו",
+      "gloss": "па да ги нема"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "и нека знаат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "משל",
+      "gloss": "владееше",
+      "marks": "владее"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "во Јааков"
+    },
+    {
+      "surface": "לאפסי",
+      "gloss": "до краиштата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-10-19T23:43:00.497159777Z",
+  "model": "glm-5.3"
+}

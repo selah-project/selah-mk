@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 41:24",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מוסבות",
+      "rationale": "„што се вртат\/преклопуваат“ — двојно-крилни двери; KJV „turning leaves“, JPS „turning leaves“."
+    },
+    {
+      "kind": "elision",
+      "subject": "дלתות (првата)",
+      "rationale": "Првото דלתות е во конструкција со לדלתות — вброено во „на дверите“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "две…две…две",
+      "rationale": "Број на крилата на секоа дверь — мерење на делови."
+    }
+  ],
+  "translation": "И две крила на дверите — две крила што се вртат, две крила за една дверь, и две крила за другата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c6ed478132331c092c04604d5792501d689fb38bbe89b2054b12d782da6bba15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/41\/21-24.1792452069403.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "И две"
+    },
+    {
+      "surface": "дלתות",
+      "gloss": ""
+    },
+    {
+      "surface": "לדלתות",
+      "gloss": "на дверите"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "две"
+    },
+    {
+      "surface": "מוסבות",
+      "gloss": "што се вртат"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "крила"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "две"
+    },
+    {
+      "surface": "לדלת",
+      "gloss": "за дверь"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "и две"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "крила"
+    },
+    {
+      "surface": "לאחרת",
+      "gloss": "за другата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:21:09.404393447Z",
+  "model": "glm-5.3"
+}

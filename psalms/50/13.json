@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אבירים",
+      "rationale": "'моќни\/бикови' — истиот корен значи и ангел- моќник и бик; повеќето преводи избираат 'бикови' по контекст на жртва"
+    },
+    {
+      "kind": "you",
+      "subject": "до праведниот\/народот",
+      "rationale": "реторичко прашање упатено кон обредниот праведник во говорот на Елохим"
+    }
+  ],
+  "translation": "Дали месо од бикови јадам, и крв од јарци пијам?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "07170112ac1be4080b316c333880768f590d350f62b387073679a076d49cd4c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/50\/13-16.1792453343101.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "дали јадам"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "месо"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "од бикови"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "и крв"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "од јарци"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "пијам"
+    }
+  ],
+  "timestamp": "2026-10-19T23:42:23.101685564Z",
+  "model": "glm-5.3"
+}

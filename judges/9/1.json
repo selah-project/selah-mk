@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 9:1",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 9,
+  "translation": "И отиде Авимелех, синот на Јерубаал, во Шхем кај браќата на мајка му, и им зборуваше, и на целото семејство на домот на таткото на мајка му, велејќи:",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "67371bf00ebf146ca0eff54b8b8278a29739bb9f04e066e50fd7bd1131edf929",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/9\/1-4.1792446429569.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И отиде"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Јерубаал"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "во Шхем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "браќата"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "на мајка му"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и зборуваше"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целото"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "семејство"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "на таткото"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "на мајка му"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    }
+  ],
+  "timestamp": "2026-10-19T21:47:09.570425157Z",
+  "model": "glm-5.3"
+}

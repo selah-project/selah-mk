@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 10:14",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "четириесет и двајца мажи",
+      "rationale": "точен број на закланите"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש ... איש",
+      "rationale": "маж за бројката и маж за „ниеден“ — повторот е нагласен во хебрејскиот"
+    }
+  ],
+  "translation": "И рече: Фатете ги живи! И ги фатија живи, и ги заклаа кај јамата на Бет-Екед — четириесет и двајца мажи; и не остави ниеден од нив.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "cb0993fa46ab74349bd70a6958a8e262ac5f7b40d4123f3fa7db8bf9af49e82a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/10\/13-16.1792449261472.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "Фатете ги"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живи"
+    },
+    {
+      "surface": "ויתפשום",
+      "gloss": "и ги фатија"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живи"
+    },
+    {
+      "surface": "וישחטום",
+      "gloss": "и ги заклаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "בור",
+      "gloss": "јамата"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "-Екед"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четириесет"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мажи"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "остави"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ниеден"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "од нив"
+    }
+  ],
+  "timestamp": "2026-10-19T22:34:21.474204353Z",
+  "model": "glm-5.3"
+}

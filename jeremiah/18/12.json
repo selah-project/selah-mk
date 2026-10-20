@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 18:12",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נואש",
+      "rationale": "„Нема надеж\/безнадежно е“ (KJV) наспроти „не сакаме“ — јусив на יאש, одговорот е одбивање на повикот"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחשבותינו",
+      "rationale": "„намерите наши“ — истата именка מחשבה што Јахве ја смислувал во стих 11; народот ја зема намерата во свои раце"
+    }
+  ],
+  "translation": "И тие ќе рекат: Нема надеж, зашто по намерите свои ќе одиме, и секој според тврдоглавоста на срцето свое лошото ќе го прави.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cb81abf17754ffca6a0538ed112c745fa2257be1153f34b19028f34897ea6f1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/18\/9-12.1792450633875.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "и тие ќе рекат"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "Нема надеж"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "מחשבותינו",
+      "gloss": "намерите свои"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ќе одиме"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и секој"
+    },
+    {
+      "surface": "שררות",
+      "gloss": "според тврдоглавоста"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "на срцето свое"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "лошото"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ќе прави"
+    }
+  ],
+  "timestamp": "2026-10-19T22:57:13.876720118Z",
+  "model": "glm-5.3"
+}

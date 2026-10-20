@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 36:31",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "למכביר",
+      "rationale": "хапакс-форма од корен כבר (многу); 'во изобилство' ја губи реткоста на зборот"
+    },
+    {
+      "kind": "hapax",
+      "subject": "למכביר",
+      "rationale": "зборот се јавува само тука во Танах"
+    }
+  ],
+  "translation": "Зашто со нив суди народи, дава храна во изобилство.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a416a156a1bade8ccc93aadc04ba34778396e301de89262bf9ce330b6f06ea57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/36\/29-32.1792455313722.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בם",
+      "gloss": "со нив"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "суди"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дава"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "храна"
+    },
+    {
+      "surface": "למכביר",
+      "gloss": "во изобилство"
+    }
+  ],
+  "timestamp": "2026-10-20T00:15:13.723578634Z",
+  "model": "glm-5.3"
+}

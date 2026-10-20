@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула во оваа именска реченица."
+    },
+    {
+      "kind": "measurement",
+      "subject": "две години \/ пет години",
+      "rationale": "прецизно броење на годините на гладот."
+    },
+    {
+      "kind": "you",
+      "subject": "браќата на Јосеф",
+      "rationale": "говорот кон браќата продолжува."
+    }
+  ],
+  "translation": "Зашто ова две години гладот ⟨е⟩ во средината на земјата, и уште пет години во кои нема ни орање ни жетва.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "dea7e4ff419f0823b042d7d48b058c5fdfcfcfff3ad6b3fe05709c1876e82a91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/45\/5-8.1792443256501.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "две години"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "гладот"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "во средината"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "и уште"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "во кои"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "орање"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "ни жетва"
+    }
+  ],
+  "timestamp": "2026-10-19T20:54:16.502534305Z",
+  "model": "glm-5.3"
+}

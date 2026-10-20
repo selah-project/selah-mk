@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "лутината",
+      "rationale": "אף е дословно 'нос\/носница', слика на гневното тешко дишење; 'лутината' го губи телесниот образ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "протегаш",
+      "rationale": "משך буквално 'влече\/ prolong拖延 — дословно 'да ја влечеш' лутината како конец"
+    },
+    {
+      "kind": "invitation",
+      "subject": "молитва до Елохим",
+      "rationale": "реторичко прашање упатено директно на Бога — очаен повик"
+    }
+  ],
+  "translation": "Зарем довека ќе се гневиш на нас, ќе ја протегаш лутината своја од род на род?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/85\/5-8.1792453651001.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Зарем довека"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ќе се гневиш"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "ќе ја протегаш"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "лутината своја"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "од род"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "на род"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:31.002584496Z",
+  "model": "glm-5.3"
+}

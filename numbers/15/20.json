@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תרימו\/תרומה",
+      "rationale": "игра на коренот רום — глаголот „подигнете“ и именката „трума“ се повторуваат трипати во еден стих"
+    }
+  ],
+  "translation": "како првото од вашиот брашно, колач подигнете како трума; како трумата на гумното, така подигнете ја ⟨את⟩ неа.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "54afb633c34b273555b0df7fba7fdc900f3154b8c8136d9315c627e9b3017a8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/15\/17-20.1792444883107.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "како првото"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "од вашиот брашно"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "колач"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "подигнете"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "како трума"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "како трумата"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "на гумното"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "подигнете"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "неа (колачот-трума)"
+    }
+  ],
+  "timestamp": "2026-10-19T21:21:23.108972968Z",
+  "model": "glm-5.3"
+}

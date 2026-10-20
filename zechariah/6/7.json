@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 6:7",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "силните",
+      "rationale": "האמצים: или „црвеникави\/кафеави“ (boven боја) или „силните\/брзите“ — преводите се делат."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "התהלך",
+      "rationale": "Коренот הלך се повторува четири пати во еден стих — шетање низ земјата како рефрен."
+    }
+  ],
+  "translation": "А силните излегоа и бараа да одат, да прошетаат низ земјата; и рече: Одете, прошетајте низ земјата — и тие прошетаа низ земјата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7df23a8c6f971657e148a061574fec0d51f6c80c97112701353658eaabe3b0df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/6\/5-8.1792452800841.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאמצים",
+      "gloss": "а силните"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "излегоа"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "и бараа"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "да одат"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "да прошетаат"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "низ земјата"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "одете"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "прошетајте"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "низ земјата"
+    },
+    {
+      "surface": "ותתהלכנה",
+      "gloss": "и тие прошетаа"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "низ земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:33:20.842735005Z",
+  "model": "glm-5.3"
+}

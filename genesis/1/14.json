@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 1:14",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "определени време",
+      "rationale": "מועדים е назначени време\/празници; општото 'сезони' го губи значењето'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "дни и години",
+      "rationale": "светилниците ги мерат времето, деновите и годините"
+    }
+  ],
+  "translation": "И рече Елохим: Да бидат светилници во сводот на небото, да одвојуваат меѓу денот и меѓу ноќта; и да бидат за знаци, и за определени време, и за дни и години.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a6c8848f1ec5934cf37513f2c9cd4ebec9aad6c165f2a0036feef99f8b86fca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/1\/13-16.1792442387329.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Да бидат"
+    },
+    {
+      "surface": "מארת",
+      "gloss": "светилници"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "во сводот"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "на небото"
+    },
+    {
+      "surface": "להבדיל",
+      "gloss": "да одвојуваат"
+    },
+    {
+      "surface": "בין",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денот"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и меѓу"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ноќта"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "и да бидат"
+    },
+    {
+      "surface": "לאתת",
+      "gloss": "за знаци"
+    },
+    {
+      "surface": "ולמועדים",
+      "gloss": "и за определени време"
+    },
+    {
+      "surface": "ולימים",
+      "gloss": "и за дни"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и години"
+    }
+  ],
+  "timestamp": "2026-10-19T20:39:47.330913542Z",
+  "model": "glm-5.3"
+}

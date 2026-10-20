@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "список на градови",
+      "rationale": "Список на градови во наследството на Јуда."
+    }
+  ],
+  "translation": "и Јаним, и Бет-Тапуах, и Афека.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2b60750306b4bede6e1fa9150f1ef4659cc96100e3859225742f5b9917725ecc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/15\/53-56.1792446139599.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "и Јаним"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и Бет-"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "Тапуах"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "и Афека"
+    }
+  ],
+  "timestamp": "2026-10-19T21:42:19.599702480Z",
+  "model": "glm-5.3"
+}

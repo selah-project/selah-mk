@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 17:18",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משנה התורה",
+      "rationale": "'Примерок\/двојник на Тората' (машне) нас. 'втори закон' (LXX deuteronomion); сп. Wycliffe 'deuteronomy'."
+    },
+    {
+      "kind": "addition",
+      "subject": "примерок",
+      "rationale": "משנе буквално значи 'повторување, двојник' — дадено како 'примерок' со заграден члан за природност."
+    }
+  ],
+  "translation": "И ќебиде, кога ќеседнена престолот на царството негово, ќеси напише за себепримерокна оваа Тора во книга, од лицето на свештениците Левити.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "35dc072d2d079730c7735dd49d575a21294a94605877250856203b16e8196da9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/17\/17-20.1792445634079.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "кога ќе седне"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "престолот"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "на царството негово"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "ќе напише"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за себе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "примерок"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "примерок"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "на оваа Тора"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "על",
+      "gloss": "во"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книга"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "од лицето на"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свештениците"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левити"
+    }
+  ],
+  "timestamp": "2026-10-19T21:33:54.080621381Z",
+  "model": "glm-5.3"
+}

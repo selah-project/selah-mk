@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 19:24",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קדש הלולים",
+      "rationale": "Хебрејскиот е без сврзник: 'свет[ност] — прослави' — KJV 'за да Му се фали', JPS 'за давање фалба'; задржана е апозитивната градација."
+    },
+    {
+      "kind": "measurement",
+      "subject": "четвртата година",
+      "rationale": "Продолжение на бројот на годините од 19:23."
+    }
+  ],
+  "translation": "А во четвртата година целиот негов плод ќе биде свет — прослава за Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d5c3c03c5064853e2b978b3920e40615abbba0f2e52103a27c58f8a642cd3002",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/19\/21-24.1792444431328.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "А во годината"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "четвртата"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "плод негов"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свет"
+    },
+    {
+      "surface": "הלולים",
+      "gloss": "прославa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:13:51.330730802Z",
+  "model": "glm-5.3"
+}

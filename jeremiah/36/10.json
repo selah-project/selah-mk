@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 36:10",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "писар",
+      "rationale": "הספר — пишувач\/документалист, не современ 'секретар'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "во ушите на сиот народ",
+      "rationale": "באזני — буквално 'во ушите', хебрејски израз за 'на слух на'; задржано буквално."
+    }
+  ],
+  "translation": "И Баруч читаше во свитокот ⟨את⟩ зборовите на Јирмејаху во домот на Јахве, во одајата на Гемарјаху, син на Шафан, писарот, во горниот двор, на влезот од новата порта на домот на Јахве, во ушите на сиот народ.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "37ceb5fcc7b1e41e5a52b841bdf3e146dfa8ccab3761c47b9abe54a007962ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/36\/9-12.1792450928563.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И читаше"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Баруч"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "во свитокот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зборовите на Јирмејаху"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "зборовите"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "на Јирмејаху"
+    },
+    {
+      "surface": "בית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "בלשכת",
+      "gloss": "во одајата"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "на Гемарјаху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "на Шафан"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "писарот"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "во дворот"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "горниот"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "на влезот"
+    },
+    {
+      "surface": "שער",
+      "gloss": "од портата"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "новата"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "во ушите"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на сиот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-10-19T23:02:08.564638356Z",
+  "model": "glm-5.3"
+}

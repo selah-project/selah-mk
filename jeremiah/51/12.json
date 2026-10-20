@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 51:12",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גם...גם",
+      "rationale": "удвоено 'и...и': 'и намисли и изврши' — хебрејската рамнотежа на план и дело задржана"
+    },
+    {
+      "kind": "invitation",
+      "subject": "повелни форми",
+      "rationale": "четири императиви едно по друго — воена наредба упатена кон напаѓачите на Вавилон"
+    }
+  ],
+  "translation": "Кон ѕидовите на Вавилон подигнете знаме, зацврстете ја стражата, поставете чувари, подгответе заседи; зашто Јахве и намисли и изврши ⟨את⟩ она што го зборуваше против жителите на Вавилон.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "161af04d7c4e7512a7f0f68f48499a1d9ae3f8edf2c7460ef20f5bdf9e8a7f9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/51\/9-12.1792451286957.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ѕидовите"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "на Вавилон"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "подигнете"
+    },
+    {
+      "surface": "נס",
+      "gloss": "знаме"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "зацврстете"
+    },
+    {
+      "surface": "המשמר",
+      "gloss": "стражата"
+    },
+    {
+      "surface": "הקימו",
+      "gloss": "поставете"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "чувари"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "подгответе"
+    },
+    {
+      "surface": "הארבים",
+      "gloss": "заседи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "זמם",
+      "gloss": "намисли"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "изврши"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "она што го зборуваше"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборуваше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "против"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жителите"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "на Вавилон"
+    }
+  ],
+  "timestamp": "2026-10-19T23:08:06.958599758Z",
+  "model": "glm-5.3"
+}

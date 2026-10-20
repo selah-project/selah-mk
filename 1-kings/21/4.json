@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 21:4",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 21,
+  "translation": "И влегол Ахав во домот свој, мрачен и разљутен поради зборот што му го рекол Навот Јизреелецот, велејќи: Нема да ти ја дадам ⟨את⟩ наследството на татковците мои. И легнал на постелата своја, и го свртел ⟨את⟩ лицето свое, и не јадел леб.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "43996b67bab36963950fd87267c1b0858f6b5de5696a1e2760850a9c1fe623a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/21\/1-4.1792448994901.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И влегол"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "домот свој"
+    },
+    {
+      "surface": "סר",
+      "gloss": "мрачен"
+    },
+    {
+      "surface": "וזעף",
+      "gloss": "и разљутен"
+    },
+    {
+      "surface": "על",
+      "gloss": "поради"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "зборот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "рекол"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Навот"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "Јизреелецот"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Нема"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "да дадам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "наследството на татковците мои"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "наследството на"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "татковците мои"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "И легнал"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "постелата својата"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "и свртел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лицето свое"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицето свое"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "јадел"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    }
+  ],
+  "timestamp": "2026-10-19T22:29:54.905159793Z",
+  "model": "glm-5.3"
+}

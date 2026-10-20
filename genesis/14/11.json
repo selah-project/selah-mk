@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ги",
+      "rationale": "македонскиот бара директен објект како кратка заменка"
+    }
+  ],
+  "translation": "И ги зедоа ⟨את⟩ целиот имот на Седом и Амора и ⟨את⟩ сета нивна храна, и си отидоа",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "46eaf16df8c06243da3585b6efcddb54b8dcd7aca318ed15172cf2e933360d79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/14\/9-12.1792442510298.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "И ги зедоа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "целиот имот"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "имот"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "на Седом"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "и Амора"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сетата храна"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сета"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "нивна храна"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "и си отидоа"
+    }
+  ],
+  "timestamp": "2026-10-19T20:41:50.312622966Z",
+  "model": "glm-5.3"
+}

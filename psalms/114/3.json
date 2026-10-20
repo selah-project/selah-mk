@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "виде",
+      "rationale": "ראה без изричен објект: „виде“ (што? — не е кажано; традицијата додава „го“) или „се покажа“."
+    }
+  ],
+  "translation": "Морето виде и побегна, Јарден се сврте наназад.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9e8c1e1190f1f892769b99bb0256d222b1c2238d7b3acb74f40eaab74e7382fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/114\/1-4.1792453939120.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "Морето"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "виде"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "и побегна"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Јарден"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "се сврте"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "наназад"
+    }
+  ],
+  "timestamp": "2026-10-19T23:52:19.121798527Z",
+  "model": "glm-5.3"
+}

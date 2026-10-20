@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וירא \/ וייראו",
+      "rationale": "„виде“ (ירא) и „се уплашија“ (יראו) — исти букви, спротивни глаголи; македонскиот ја губи играта."
+    }
+  ],
+  "translation": "И виде Ахарон и сите синови на Јисраел ⟨את⟩ Моше, и еве, кожата на лицето негово испушташе рогови-зраци, и се уплашија да се приближат кон него.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e670e27f6b3857e01f1b3dc17e041907012b287426691f8f344500e829fd02d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/34\/29-32.1792443924735.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И виде"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сите"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и еве"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "испушташе рогови-зраци"
+    },
+    {
+      "surface": "עור",
+      "gloss": "кожата"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "на лицето негово"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "и се уплашија"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "да се приближат"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "кон него"
+    }
+  ],
+  "timestamp": "2026-10-19T21:05:24.742959731Z",
+  "model": "glm-5.3"
+}

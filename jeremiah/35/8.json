@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 35:8",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יונדב \/ יהונדב",
+      "rationale": "Исто име со и без теофорното יהו — во 35:6 само Јонадав, тука Јехонадав; разликата е задржана."
+    }
+  ],
+  "translation": "И го послушавме гласот на Јехонадав, синот на Рехав, нашиот татко, во сè што ни заповеда — да не пиеме вино сите наши денови — ние, жените наши, синовите наши и ќерките наши.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "23bca32786efef74d211dc61c35753e8ab599351d85a632364831d3fdd9cffb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/35\/5-8.1792450990875.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשמע",
+      "gloss": "И го послушавме"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "гласот на"
+    },
+    {
+      "surface": "יהונדב",
+      "gloss": "Јехонадав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "Рехав"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "нашиот татко"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "во сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "ни заповеда"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "да не"
+    },
+    {
+      "surface": "שתות",
+      "gloss": "пиеме"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вино"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "наши дни"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ние"
+    },
+    {
+      "surface": "נשינו",
+      "gloss": "жените наши"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "синовите наши"
+    },
+    {
+      "surface": "ובנתינו",
+      "gloss": "и ќерките наши"
+    }
+  ],
+  "timestamp": "2026-10-19T23:03:10.876877520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 6:14",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "во",
+      "rationale": "хебрејскиот користи директен објект со את за логорот, македонскиот бара предложен пат 'во логорот'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "шест дена",
+      "rationale": "броење на денови и обиколки — ритуалното мерење на времето."
+    }
+  ],
+  "translation": "И заокружија ⟨את⟩ градот вториот ден еднаш, и се вратија ⟨во⟩ логорот; така правеа шест дена.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ad63453eddf4dee9e5e86993fcec8f547551c835924d492d5e6df0613d7ce130",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/6\/13-16.1792445943062.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "И заокружија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "градот"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "השני",
+      "gloss": "вториот"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "еднаш"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "(една)"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "и се вратија"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "⟨во⟩ логорот"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "правеа"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "шест"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дена"
+    }
+  ],
+  "timestamp": "2026-10-19T21:39:03.063750146Z",
+  "model": "glm-5.3"
+}

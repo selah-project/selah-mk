@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "за",
+      "rationale": "על поентира „врз\/поради“; македонскиот бара „за“ наместо буквалното „на\/врз“."
+    },
+    {
+      "kind": "you",
+      "subject": "до Јисраел",
+      "rationale": "Стихот е директна нара кај единечно „ти“ — Моше му говори на народот."
+    }
+  ],
+  "translation": "И ќе јадеш и ќе се наситиш, и ќе Го благословиш ⟨את⟩ Јахве, твојот Елохим, за добрата земја што ти ја даде.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "81c8c2dfd8856795cd331c2af1ca27e223e19b83ede43042cf8d33aaf20f5a66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/8\/9-12.1792445417758.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "и ќе јадеш"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "и ќе се наситиш"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "и ќе благословиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "добрата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-10-19T21:30:17.759188336Z",
+  "model": "glm-5.3"
+}

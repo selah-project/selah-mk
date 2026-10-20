@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 39:25",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שבית",
+      "rationale": "буквално „враќање на ропството\/заробеништвото“ — идиом за обновување на поранешната состојба."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ревнувам",
+      "rationale": "קנא — ревност\/љубомора, слика на сопствен брак, не правен поим."
+    }
+  ],
+  "translation": "Затоа така вели Адонај Јахве: Сега ќе го вратам ⟨את⟩ ропството на Јааков и ќе се смилувам на целиот дом Јисраел, и ќе ревнувам за името на мојата светост.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "34c312d3577b7cbe99fe48860bc40f72989526e8effc829baf4cc307cec2f5b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/39\/25-28.1792451943270.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сега"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ќе го вратам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ропството на Јааков"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ропството"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "и ќе се смилувам"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "וקנאתי",
+      "gloss": "и ќе ревнувам"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "за името"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "на мојата светост"
+    }
+  ],
+  "timestamp": "2026-10-19T23:19:03.271450238Z",
+  "model": "glm-5.3"
+}

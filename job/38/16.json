@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 38:16",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נבכי",
+      "rationale": "извори — реченце што во Танах стои само тука"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јов",
+      "rationale": "директни прашања на Јахве до Јов за длабочините што човек не ги достигнал"
+    },
+    {
+      "kind": "mystery",
+      "subject": "бездната",
+      "rationale": "тахом, прапостигот — скриеното место без човечко око"
+    }
+  ],
+  "translation": "Дали влезе до изворите на морето, и во испитувањето на бездната дали прошета?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "188401379a24f745f8a0040a8865aea79e7c2bbff75178dc39924c3ae48ab16c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/38\/13-16.1792455276627.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבאת",
+      "gloss": "Дали влезе"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "נבכי",
+      "gloss": "изворите"
+    },
+    {
+      "surface": "ים",
+      "gloss": "на морето"
+    },
+    {
+      "surface": "ובחקר",
+      "gloss": "и во испитувањето"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "на бездната"
+    },
+    {
+      "surface": "התהלכת",
+      "gloss": "прошета"
+    }
+  ],
+  "timestamp": "2026-10-20T00:14:36.628645009Z",
+  "model": "glm-5.3"
+}

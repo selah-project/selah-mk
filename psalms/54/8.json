@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 54:8",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נדבה",
+      "rationale": "доброволен дар — истиот корен како Надав\/надареност, слободно даден жртвеник дар"
+    }
+  ],
+  "translation": "Со доброволен дар ќе Ти жртвувам; ќе Го фалам Името Твоето, Јахве, зашто е добро.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c9916c3c9d03ce48d8b67c3e61a67a4962c82a16f37458eb3315ee12d2574cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/54\/5-8.1792453382897.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנדבה",
+      "gloss": "Со доброволен дар"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "ќе жртвувам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ќе Го фалам"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Името Твоето"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "е добро"
+    }
+  ],
+  "timestamp": "2026-10-19T23:43:02.898942345Z",
+  "model": "glm-5.3"
+}

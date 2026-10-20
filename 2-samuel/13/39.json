@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 13:39",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותכל",
+      "rationale": "'Престана' (KJV\/ASV чита душа што копнее) наспроти 'заврши\/престана' — корен כלה, без נפש во текстот"
+    }
+  ],
+  "translation": "И престана Давид, кралот, да излегува кон Авшалом, зашто беше утешен за Амнон, бидејќи умре.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7dd3ae543bb73036c7238b50354f8a8565df4db1fe51614c2d09091155da0dfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/13\/37-39.1792448206218.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "И престана"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "кралот"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "да излегува"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "бееше утешен"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Амнон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бидејќи"
+    },
+    {
+      "surface": "מת",
+      "gloss": "умре"
+    }
+  ],
+  "timestamp": "2026-10-19T22:16:46.220011672Z",
+  "model": "glm-5.3"
+}

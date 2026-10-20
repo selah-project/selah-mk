@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-samuel 25:37",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "виното излезе од Навал",
+      "rationale": "буквално 'во излегувањето на виното од Навал' — хебрејски начин да се каже 'кога изтрезне'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וימת לבו",
+      "rationale": "дословно 'умре неговото срце' — зачуван буквализмот наместо идiomско 'се смути'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨како⟩",
+      "rationale": "македонскиот бара споредба; хебрејскиот вели само 'стана за камен'"
+    }
+  ],
+  "translation": "И наутро, кога виното излезе од Навал, жената му ги извести ⟨את⟩ овие работи, и срцето му умре во него, и тој стана ⟨како⟩ камен.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a6fea93560bc84aa5a3671cff17ac336f52fcbc290904f6648846503a75f2b7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/25\/37-40.1792447921488.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "наутро"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "кога излезе"
+    },
+    {
+      "surface": "היין",
+      "gloss": "виното"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "од Навал"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "извести"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жената"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "овие работи"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "овие работи"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ги"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "умре"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срцето"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "во него"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и тој"
+    },
+    {
+      "surface": "היה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "לאבן",
+      "gloss": "камен"
+    }
+  ],
+  "timestamp": "2026-10-19T22:12:01.489437156Z",
+  "model": "glm-5.3"
+}

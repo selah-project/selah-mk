@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 5:13",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אבי",
+      "rationale": "буквално 'мој татко' — почесен обраќа кон надреден, не биолошки татко"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר גדול ... דבר",
+      "rationale": "игра на истите корени דבר\/דבר — 'голем збор зборуваше', повторот се губи во преведувачката традиција"
+    },
+    {
+      "kind": "you",
+      "subject": "до Нааман",
+      "rationale": "слугите директно му се обраќаат на господарот"
+    }
+  ],
+  "translation": "И се приближичија слугите негови и му зборуваа и рекоа: Татко мои, голем збор ти зборуваше пророкот — дали нема да го направиш? уште повеќе што ти рече: Измиј се и очисти се.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "d68f7b120adcb60107dd17bd4de0339554e4ce5d7a7c8e8e889dd7101faff6a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/5\/13-16.1792449164827.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגשו",
+      "gloss": "и се приближичија"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "слугите негови"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "и зборуваа"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоа"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Татко мои"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "збор"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голем"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкот"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборуваше"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "дали нема"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "да го направиш"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "уште повеќе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "што"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "Измиј се"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "и очисти се"
+    }
+  ],
+  "timestamp": "2026-10-19T22:32:44.829418502Z",
+  "model": "glm-5.3"
+}

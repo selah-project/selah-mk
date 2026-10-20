@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "стадо",
+      "rationale": "צאר е колективно 'овци и кози', еден збирен збир"
+    },
+    {
+      "kind": "crux",
+      "subject": "одеше и се враќаше",
+      "rationale": "дали Давид постојано одел напред-назад (ASV\/JPS) или отишол и се вратил еднократно (KJV)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "да пасе",
+      "rationale": "לרעות е инфинитив 'за пасење' — наменска konstrukција"
+    }
+  ],
+  "translation": "И Давид одеше и се враќаше од Шаул, да ја пасе ⟨את⟩ τстадото на татко си во Бет-Лехем.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "23aa79b4a96161e2fdadfdecfcc3ea83e6a7faa6eb8a60af0439364dbbfbb56a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/17\/13-16.1792446915419.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "и Давид"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "одеше"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "и се враќаше"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "да пасе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стадото"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "стадото"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "на татко си"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехем"
+    }
+  ],
+  "timestamp": "2026-10-19T21:55:15.421426994Z",
+  "model": "glm-5.3"
+}

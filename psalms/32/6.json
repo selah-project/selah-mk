@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 32:6",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לעת מצא רק",
+      "rationale": "'време на наоѓање — само' — нејасна синтакса: 'додека може да Те најде' (Јахве е најдениот) vs. 'во време кога е најден' (хасидот)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חסיד",
+      "rationale": "збор од коренот хесед — 'хасид', оној што живее во хесед, не само 'побожен'"
+    }
+  ],
+  "translation": "Затоа секој хасид ќе се моли Тебе, во време на наоѓање; само во поплава од многу води до него нема да допрат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "929057b53e058c483a4deb1586a4e22673d6879e0027ed784a7b0d1bb6aaec36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/32\/5-8.1792453134917.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "ќе се моли"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "хасид"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Тебе"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "во време"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "наоѓање"
+    },
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "לשטף",
+      "gloss": "во поплава"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многу"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "до него"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "нема да допрат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:38:54.918499741Z",
+  "model": "glm-5.3"
+}

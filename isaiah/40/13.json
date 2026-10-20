@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "רוח е 'руах' — ветар\/дух\/здив, не само 'дух'"
+    },
+    {
+      "kind": "crux",
+      "subject": "го измери",
+      "rationale": "תכן значи 'измести\/измери со мерка' — 'го насочи' (KJV) е послаба"
+    },
+    {
+      "kind": "mystery",
+      "subject": "реторичко прашање",
+      "rationale": "никој не го измерил руах на Јахве — прашањето ја нагласува непознатливоста"
+    }
+  ],
+  "translation": "Кој го измери ⟨את⟩ руах на Јахве, и кој човек од неговиот совет Му објасни?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "3fc8a823deaa516ab678914f33ce538d2f1607201e1a99423619026b04dad2a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/40\/13-16.1792450031846.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "измери"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руах"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и човек"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "неговиот совет"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "Му објасни"
+    }
+  ],
+  "timestamp": "2026-10-19T22:47:11.846874554Z",
+  "model": "glm-5.3"
+}

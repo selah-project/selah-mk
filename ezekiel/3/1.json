@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אכול אכול",
+      "rationale": "Двоен императив „јади, јади“ — инсистирање што се губи со еден глагол."
+    },
+    {
+      "kind": "you",
+      "subject": "сину човечки",
+      "rationale": "Директен обрати од Елохим кон Езекиил."
+    },
+    {
+      "kind": "invitation",
+      "subject": "јади · оди · говори",
+      "rationale": "Низа императиви што повикуваат на дејство."
+    }
+  ],
+  "translation": "И ми рече: сину човечки, ⟨את⟩ она што ќе го најдеш — јади; изјади ја ⟨את⟩ оваа свитка и оди, говори на домот на Јисраел.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "441a10aeac71e664c0f8b87082e1e091dda593eea6bd9db38bfaa21af70de85e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/3\/1-4.1792451332792.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сину"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечки"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "она што ќе го најдеш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ќе најдеш"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "јади"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "изјади"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оваа свитка"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "свитката"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "и оди"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T23:08:52.792896328Z",
+  "model": "glm-5.3"
+}

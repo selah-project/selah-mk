@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויברח וימלט",
+      "rationale": "три кратки глаголи еден по друг — брзото темпо на бегството, зачувано во кратките македонски глаголи"
+    }
+  ],
+  "translation": "И Михал го спушти ⟨את⟩ Давида низ прозорецот, и тој си отиде, избега и се спаси.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "bb33ca57b978b04d0522ec25012d7b95ac8604b30feeecd4ce17b0c63aa797ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/19\/9-12.1792447837725.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "И го спушти"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Михал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давида"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "низ"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "прозорецот"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и си отиде"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "избега"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "и се спаси"
+    }
+  ],
+  "timestamp": "2026-10-19T22:10:37.731026401Z",
+  "model": "glm-5.3"
+}

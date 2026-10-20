@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כלה",
+      "rationale": "כָּלָה носи и „завршување“ и „уништување“ — двојството останува во „целосен крај“."
+    }
+  ],
+  "translation": "Но дури и во тие дни, вели Јахве, нема да направам со вас ⟨את⟩ целосен крај.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "09047a980c5e0ef1a4dce9a51a4367c9ef280b558364842e09168b513c100499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/5\/17-20.1792450520039.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Но дури и"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "во деновите"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ќе направам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ со вас",
+      "marks": "со вас"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "целосен крај"
+    }
+  ],
+  "timestamp": "2026-10-19T22:55:20.040704576Z",
+  "model": "glm-5.3"
+}

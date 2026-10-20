@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 32:13",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "היטב איטיב",
+      "rationale": "Инфинитивен апсолутен — „добро ќе сторам“ — удвоенаречена сигурност, во македонскиот се губи."
+    },
+    {
+      "kind": "you",
+      "subject": "Јааков",
+      "rationale": "Јааков се обраќа директно на Јахве, наведувајќи го ветувањето од Битие 28."
+    }
+  ],
+  "translation": "А Ти рече: Добро ќе сторам со тебе и ќе го ставам ⟨את⟩ потомството твое како песокот на морето, што не може да се изброи од мнозина.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0510c9471e08f565c2ef9784eaaf82992bc4227044b9bd0283a69b7ca8849c05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/32\/13-16.1792442923168.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А Ти"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "рече"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "איטיב",
+      "gloss": "ќе сторам"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "со тебе"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "и ќе го ставам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "потомството твое"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "потомството твое"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "како песокот"
+    },
+    {
+      "surface": "הים",
+      "gloss": "на морето"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "може да се изброи"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "од мнозина"
+    }
+  ],
+  "timestamp": "2026-10-19T20:48:43.169223555Z",
+  "model": "glm-5.3"
+}

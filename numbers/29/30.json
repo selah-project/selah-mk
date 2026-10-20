@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 29:30",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "леви",
+      "rationale": "נסכים се жртвени леи (винарско\/водно), задржано како 'леви'"
+    }
+  ],
+  "translation": "и нивната минха и нивните лева за воловите, за елените и за јагнињата, според нивниот број, според правилото.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "21497654e5542d7a6447446d8b9eb8bba94230e7d5c019cd06be247291811304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/29\/29-32.1792445103132.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "и нивната минха"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "и нивните лева"
+    },
+    {
+      "surface": "לפרים",
+      "gloss": "за воловите"
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "за елените"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "и за јагнињата"
+    },
+    {
+      "surface": "במספרם",
+      "gloss": "според нивниот број"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "според правилото"
+    }
+  ],
+  "timestamp": "2026-10-19T21:25:03.133445943Z",
+  "model": "glm-5.3"
+}

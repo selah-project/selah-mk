@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "избавување",
+      "rationale": "ישע е скоро технички збор за ослободување\/победа, не само 'спасение' во апстрактна смисла"
+    }
+  ],
+  "translation": "Врати нè, Елохим на нашето избавување, и поништи го гневот свој спроти нас!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/85\/5-8.1792453651001.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Врати нè"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "нашето избавување"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "и поништи"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "гневот свој"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "спроти нас"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:31.002409250Z",
+  "model": "glm-5.3"
+}

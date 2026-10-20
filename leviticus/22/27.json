@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 22:27",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "седум дена · осмиот ден",
+      "rationale": "бројни услови за прифатливост на жртвата"
+    },
+    {
+      "kind": "substitution",
+      "subject": "огнен принос",
+      "rationale": "אִשֶּׁה буквално 'негово огнување' — принос што гори на огнот"
+    }
+  ],
+  "translation": "Говедо или јагне или коза — кога ќе се роди, нека биде седум дена под својата мајка; а од осмиот ден натаму ќе биде прифатено за дар, огнен принос за Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2e7d5e5d8f97a10237ced78f12a4d38cfe4bbd61fb3f714a33e82bf935f3fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/22\/25-28.1792444402281.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שור",
+      "gloss": "говедо"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "јагне"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "עז",
+      "gloss": "коза"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "ќе се роди"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "нека биде"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седум"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дена"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "својата мајка"
+    },
+    {
+      "surface": "ומיום",
+      "gloss": "а од денот"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "осмиот"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "натаму"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ќе биде прифатено"
+    },
+    {
+      "surface": "לקרבן",
+      "gloss": "за дар"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "огнен принос"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:13:22.283836370Z",
+  "model": "glm-5.3"
+}

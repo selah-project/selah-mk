@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "daniel 3:18",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "והן לא",
+      "rationale": "'А ако не' — свесно недовршена условна реченица: без да кажат дали Елохим ќе ги избави."
+    },
+    {
+      "kind": "you",
+      "subject": "до Невухаднецар",
+      "rationale": "Директен одговор кон царот — исповед пред престолот."
+    },
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "Македонскиот среден глагол бара 'се' за поклонување; арамејскиот нема."
+    }
+  ],
+  "translation": "А ако не — нека ти биде познато, царю, дека на твојот бог не му служиме и на златната слика што ја подигна нема да ⟨се⟩ поклониме.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "35752b22c1a43c49c228904ca7322616322065a85b3a22892e72bab554e6d16a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/3\/17-20.1792456049260.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והן",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידיע",
+      "gloss": "да биде познато"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "нека ти"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царю"
+    },
+    {
+      "surface": "די",
+      "gloss": "дека"
+    },
+    {
+      "surface": "לאלהיך",
+      "gloss": "на твојот бог"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "איתינא",
+      "gloss": "ние"
+    },
+    {
+      "surface": "פלחין",
+      "gloss": "служиме"
+    },
+    {
+      "surface": "ולצלם",
+      "gloss": "и на сликата"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "златната"
+    },
+    {
+      "surface": "די",
+      "gloss": "што"
+    },
+    {
+      "surface": "הקימת",
+      "gloss": "ја подигна"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נסגד",
+      "gloss": "ќе поклониме"
+    }
+  ],
+  "timestamp": "2026-10-20T00:27:29.261217337Z",
+  "model": "glm-5.3"
+}

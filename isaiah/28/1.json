@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 28:1",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הלומי יין",
+      "rationale": "'поразени од вино' наспроти 'совладани\/удрени од вино' — метафора за физички удар од пијанството"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עטרת\/ציץ",
+      "rationale": "венец и цвет — двата образа стојат паралелно како украс на главата, повторени во ст. 3–4"
+    }
+  ],
+  "translation": "Ој на венецот на гордоста на пијаниците Ефраимови, и на избледнатиот цвет на сјајот на неговата убавина, што е на главата на долината на маснотии — поразени од вино!",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7bc698e7ae6683da4a0af4e86aa053d6a9fcc8ccbebb8d815fca88b64546b0b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/28\/1-4.1792449909876.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ој"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "венецот"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "на гордоста"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "на пијаниците"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраим"
+    },
+    {
+      "surface": "וציץ",
+      "gloss": "и на цветот"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "избледнат"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "сјајот"
+    },
+    {
+      "surface": "תפארתו",
+      "gloss": "на неговата убавина"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "главата"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "долината"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "на маснотии"
+    },
+    {
+      "surface": "הלומי",
+      "gloss": "поразени"
+    },
+    {
+      "surface": "יין",
+      "gloss": "од вино"
+    }
+  ],
+  "timestamp": "2026-10-19T22:45:09.878201045Z",
+  "model": "glm-5.3"
+}

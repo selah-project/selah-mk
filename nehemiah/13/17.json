@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 13:17",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "благородниците на Јехуда",
+      "rationale": "Нехемија директно им се обраќа на благородниците на Јехуда со прашање."
+    },
+    {
+      "kind": "substitution",
+      "subject": "благородниците",
+      "rationale": "חרי буквално 'белите\/истакнатите' — слободнитеfirst"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרי",
+      "rationale": "'благородници\/прваци' против 'слободни луѓе' (ylt: freemen)."
+    }
+  ],
+  "translation": "И се расправав со ⟨את⟩ благородниците на Јехуда и им реков: Што е ова зло дело што го правите вие, осорувајќи го ⟨את⟩ денот на шабатот?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0d74f7b147efad4514d1f7603a4661392cb5ad8859876ebcf1930c393f87b19b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/13\/17-20.1792456757595.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "се расправав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "благородниците"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "благородниците"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јехуда"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "и реков"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "дело"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "правите"
+    },
+    {
+      "surface": "ומחללים",
+      "gloss": "осорувајќи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "денот на шабатот"
+    },
+    {
+      "surface": "יום",
+      "gloss": "денот"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "на шабатот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:17.597470142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "поминаа",
+      "rationale": "עברו може да значи и „напредуваа\/минеа покрај“ — царевите поминуваат крај градот"
+    }
+  ],
+  "translation": "Зашто, еве, царевите се собираа, заедно поминаа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a4e1c56114c25a58f84cc450bce8e67711fda75057353e915ac55ff6b1c199a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/48\/5-8.1792453344146.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "царевите"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "се собираа"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "поминаа"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заедно"
+    }
+  ],
+  "timestamp": "2026-10-19T23:42:24.147281545Z",
+  "model": "glm-5.3"
+}

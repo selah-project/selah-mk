@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 5:24",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "список на имиња",
+      "rationale": "родословен список на седум глави на родови"
+    },
+    {
+      "kind": "addition",
+      "subject": "беа",
+      "rationale": "хебрејскиот нема копула: 'овие глави на домот…'"
+    }
+  ],
+  "translation": "И овие беа главите на домот на татковците нивни: Ефер и Јиши и Елиел и Азриел и Јирмеја и Ходавја и Јахдиел — мажи јунаци на силата, мажи на имиња, глави на домот на татковците нивни.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "153127b8ff45f95e73c80d5df9adbb58966b202cd6be7941775f337f112c5dd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/5\/21-24.1792456883534.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И овие"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главите на"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот на"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "татковците нивни"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "Ефер"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "Јиши"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "Елиел"
+    },
+    {
+      "surface": "ועזריאל",
+      "gloss": "Азриел"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "Јирмеја"
+    },
+    {
+      "surface": "והודויה",
+      "gloss": "Ходавја"
+    },
+    {
+      "surface": "ויחדיאל",
+      "gloss": "Јахдиел"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "мажи"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "јунаци"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "на силата"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мажи на"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "имиња"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "глави"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "на домот на"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "татковците нивни"
+    }
+  ],
+  "timestamp": "2026-10-20T00:41:23.535543993Z",
+  "model": "glm-5.3"
+}

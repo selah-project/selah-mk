@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 9:14",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тебе",
+      "rationale": "буквално „кон срцето твое“ — врз личноста на Фараон"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "првото כי: „зошто\/инаку“ — ако не пуштиш — или едноставно „зашто“"
+    }
+  ],
+  "translation": "Зошто овој пат јас ќе ги пратам ⟨את⟩ сите мои удари врз тебе и врз слугите твои и врз народот твој, за да знаеш дека нема никој како мене во целата земја.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c415027e0b7c37f18d6118a581063d4f1209b3383bd695b38e4ccf74204f6cd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/9\/13-16.1792443469860.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зошто"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "во... пат"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овој"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ќе ги пратам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите мои удари"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "מגפתי",
+      "gloss": "моите удари"
+    },
+    {
+      "surface": "אל",
+      "gloss": "врз"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "и врз слугите твои"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "и врз народот твој"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "за да"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "знаеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "никој како мене"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во целата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земја"
+    }
+  ],
+  "timestamp": "2026-10-19T20:57:49.869392647Z",
+  "model": "glm-5.3"
+}

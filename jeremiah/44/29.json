@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 44:29",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Македонскиот бара копула; хебрејскиот ја нема"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קום יקומו",
+      "rationale": "Инфинитивен апсолут — повторен корен за потврда: „станат, навистина ќе станат“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "посетувам",
+      "rationale": "פקד носи двојност — посетува и казнува; одбран е буквалниот „посетувам“, не улогата „казнувам“"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јудејците во Мицраим",
+      "rationale": "Директна закана до бегалците во Египет кои го горат кадилото"
+    }
+  ],
+  "translation": "И ова ви ⟨е⟩ знакот, вели Јахве — дека јас ве посетувам на ова место, за да знаете дека зборовите мои сигурно ќе станат спроти вас за зло.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f0b2aa462e248921ff4e19f72fbd0a1a99fcac9b9d7040144ba314b1dcfe02f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/44\/29-30.1792451103106.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "И ова"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "האות",
+      "gloss": "знакот"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "посетувам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ве"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "на местото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "знаете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "קום",
+      "gloss": "сигурно"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ќе станат"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "зборовите мои"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "спроти вас"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "за зло"
+    }
+  ],
+  "timestamp": "2026-10-19T23:05:03.107154037Z",
+  "model": "glm-5.3"
+}

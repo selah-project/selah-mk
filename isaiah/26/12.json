@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פעלת לנו",
+      "rationale": "'ги изврши за нас' наспроти 'ги изврши во нас' (KJV 'in us')"
+    },
+    {
+      "kind": "alternative",
+      "subject": "תשפת",
+      "rationale": "може и футур 'ќе ни поставиш мир', совршен како пророчки уверување"
+    }
+  ],
+  "translation": "Јахве, мир ни поставуваш, зашто и сите наши дела Ти ги изврши за нас.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a14b06877433460a4320fc95698fa73184884731067ef8a94427cd9b85c1d7ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/26\/9-12.1792449876821.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "поставуваш"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "גם",
+      "gloss": "исто"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "наши дела"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ги изврши"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "за нас"
+    }
+  ],
+  "timestamp": "2026-10-19T22:44:36.824617946Z",
+  "model": "glm-5.3"
+}

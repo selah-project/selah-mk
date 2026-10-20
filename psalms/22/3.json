@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "нема тишина за мене",
+      "rationale": "ולא דומיה לי: или „нема одговор\/престанок за мене“ (немам мир) или „нема тишина“ — македонскиот ги држи отворени."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יומם \/ ולילה",
+      "rationale": "Ден и ноќ како рамномерен спротивставен пар — целосноста на повикот."
+    }
+  ],
+  "translation": "Елохим мој, јавувам дење, а не одговараш, и ноќе — а нема тишина за мене.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/22\/1-4.1792453106713.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мој"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "јавувам"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "дење"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "одговараш"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "и ноќе"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а нема"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "тишина"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мене"
+    }
+  ],
+  "timestamp": "2026-10-19T23:38:26.714517457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "не излегуваат ли",
+      "rationale": "негацијата со прашална намена: „не излегуваат ли и лошото и доброто?“ (KJV\/JPS) vs. искажување дека не излегуваат (некои читаат како заповед-одрекување)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "лошите нешта",
+      "rationale": "הרעות е множина од „лошо\/зло“ — оставено општо, без теолошко доработување"
+    }
+  ],
+  "translation": "Од устата на Елион не излегуваат ли лошите нешта и доброто?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a3d34480766170bf45fa38dc6a8b2628dd79137f0f017b588ec135423f0b1bab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/3\/37-40.1792455596783.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "Од устата"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Елион"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "излегуваат"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "лошите нешта"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "и доброто"
+    }
+  ],
+  "timestamp": "2026-10-20T00:19:56.784020712Z",
+  "model": "glm-5.3"
+}

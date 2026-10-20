@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "тука אתם е лична заменка „нив“, не објектен маркер, па не се во ⟨…⟩"
+    }
+  ],
+  "translation": "А оној што ги запали ⟨את⟩ нив да ги пере облеките свои и да го измие ⟨את⟩ телото свое во вода, и потоа да влезе во логорот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0f6d8bf77077f86897720c9059ce3f4c68f1b45c8d074a519075b5c784d8bfd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/16\/25-28.1792444383663.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "оној што ги запали"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ нив"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "да ги пере"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "облеките свои"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "и да го измие"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "телото свое"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "телото свое"
+    },
+    {
+      "surface": "במים",
+      "gloss": "во вода"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "и потоа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "потоа"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "да влезе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логорот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:13:03.671289671Z",
+  "model": "glm-5.3"
+}

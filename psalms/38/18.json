@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לצלע נכון",
+      "rationale": "«куцање подготвено» — צלע како куцање (KJV\/JPS «halт») наспроти ASV\/BSB «паѓање»; букв. сликата е на повредена нога"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот ја нема копулата пред «секогаш пред мене»"
+    }
+  ],
+  "translation": "Зашто јас сум готов да куцам, и болката моја ⟨е⟩ секогаш пред мене.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2abcd069df0fabfec58f6a32452f4b0ac8e78f0cafe15f365b91de2dc3f20c16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/38\/17-20.1792453243879.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "готов да куцам"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "готов"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "и болката моја"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "пред мене"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "секогаш"
+    }
+  ],
+  "timestamp": "2026-10-19T23:40:43.880365441Z",
+  "model": "glm-5.3"
+}

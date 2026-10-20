@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "genesis 24:67",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "најде утеха",
+      "rationale": "וַיִּנָּחֵם — Niphal од נחם: „бе утешен\/се утеши“; слободен превод „најде утеха“"
+    },
+    {
+      "kind": "alternative",
+      "subject": "по смртта на мајка му",
+      "rationale": "אחרי אמו буквално „по мајка му“ — повеќето преводи додават „смртта“; ние ги немаме додадено"
+    },
+    {
+      "kind": "addition",
+      "subject": "неа",
+      "rationale": "מורфема на ויבאה (3fs суфикс) — македонскиот бара „ја“\/„неа“"
+    }
+  ],
+  "translation": "И Јицхак ја внесе ⟨неа⟩ во шаторот на Сара, мајка му, и ја зеде ⟨את⟩ Ривка, и таа му стана жена; и ја засака, и Јицхак најде утеха по мајка му.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "02914551848bb75f012b1da09e9e6b4f05407675589426b2f0053eb78b00f16c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/24\/65-67.1792442826070.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאה",
+      "gloss": "И ја внесе"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Јицхак"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "во шаторот"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "на Сара"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "мајка му"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и ја зеде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ривка"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ривка"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "ויאהבה",
+      "gloss": "и ја засака"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "и најде утеха"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Јицхак"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "мајка му"
+    }
+  ],
+  "timestamp": "2026-10-19T20:47:06.074861519Z",
+  "model": "glm-5.3"
+}

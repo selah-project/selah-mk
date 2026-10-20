@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 3:5",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот става заменка הוא на местото на копулата; македонскиот бара „е“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "света земја",
+      "rationale": "אדמת קדש е статусна конструкција: „земја на светост“ — еден корен קדש"
+    },
+    {
+      "kind": "you",
+      "subject": "до Моше",
+      "rationale": "Елохим му се обраќа директно на Моше со забрана и заповед"
+    }
+  ],
+  "translation": "И рече: Не приближувај се тука; изуј ги сандалите свои од нозете свои, зашто местото на кое стоиш на него света земја ⟨е⟩.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "12eb4d220d88825ec44d1648ef2d789940bdc971d62ccc8c4be888690469b1bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/3\/5-8.1792443350578.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "приближувај се"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "тука"
+    },
+    {
+      "surface": "של",
+      "gloss": "изуј"
+    },
+    {
+      "surface": "נעליך",
+      "gloss": "сандалите свои"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "нозете свои"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "местото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "на кое"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "стоиш"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "земја"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "света"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨е⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T20:55:50.583316288Z",
+  "model": "glm-5.3"
+}

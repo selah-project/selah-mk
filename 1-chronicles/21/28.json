@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 21:28",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "и принесуваше жртви",
+      "rationale": "ויזבח може да биде и свршено „п принесе жртва“ — изборот на несвршен вид ја дава повторливата пракса на местото"
+    }
+  ],
+  "translation": "Во тоа време, кога Давид виде дека му одговори Јахве на гумното на Орнан Јевусејецот, тогаш принесуваше жртви таму.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "928737a46f07a8631d033b9545ebf962c6950f27276e7969288724f1fba6fb13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/21\/25-28.1792457133068.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "во време"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "בראות",
+      "gloss": "кога виде"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "му одговори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "на гумното"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "на Орнан"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Јевусејецот"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "и принесуваше жртви"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    }
+  ],
+  "timestamp": "2026-10-20T00:45:33.069693576Z",
+  "model": "glm-5.3"
+}

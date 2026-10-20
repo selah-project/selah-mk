@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 2:19",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Дали",
+      "rationale": "Хебрејскиот прашалник е само הַעַל ('дали против'); македонскиот бара прашална конструкција"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וילעגו … ויבזו",
+      "rationale": "Два глаголи на потсмев еден до друг — исмејување и презир како паралелен пар"
+    }
+  ],
+  "translation": "И чу Санвалат Хоронецот, и Товија слугата Амонецот, и Гешем Арабецот, и се потсмеваа на нас, и нè презреа, и рекоа: Што е оваа работа што ја правите? Дали против царот се бунтувате?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9e33d046a47d82ea6f36e9c7c3feda24e8101225ff898250dfcfc3785a1a93cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/2\/17-20.1792456495783.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И чу"
+    },
+    {
+      "surface": "סנבלט",
+      "gloss": "Санвалат"
+    },
+    {
+      "surface": "החרני",
+      "gloss": "Хоронецот"
+    },
+    {
+      "surface": "וטביה",
+      "gloss": "и Товија"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "слугата"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "Амонецот"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "и Гешем"
+    },
+    {
+      "surface": "הערבי",
+      "gloss": "Арабецот"
+    },
+    {
+      "surface": "וילעגו",
+      "gloss": "и се потсмеваа"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "и презреа"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "нè"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоа"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Што"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "работата"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "правите"
+    },
+    {
+      "surface": "העל",
+      "gloss": "Дали против"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "се"
+    },
+    {
+      "surface": "מרדים",
+      "gloss": "бунтувате"
+    }
+  ],
+  "timestamp": "2026-10-20T00:34:55.784531118Z",
+  "model": "glm-5.3"
+}

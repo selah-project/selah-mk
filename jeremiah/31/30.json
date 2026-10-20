@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 31:30",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "gloss": "",
+      "rationale": "כי אם овде функционира како силно „туку“, па כי не се преведува посебно"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "лична одговорност",
+      "rationale": "Стихот ја превртува пословичната структура од 29: одcollective вина кон индивидуална"
+    }
+  ],
+  "translation": "туку секој човек за своето беззаконие ќе умре; на секој човек што ќе го изеде киселото грозје, неговите заби ќе му се вкочанат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f8347211550c452b111ef1858de2d53240464265c492fd2d1f7523dcf423cc64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/31\/29-32.1792450903095.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "туку"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "за своето беззаконие"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ќе умре"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "што ќе го изеде"
+    },
+    {
+      "surface": "הבסר",
+      "gloss": "киселото грозје"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "ќе му се вкочанат"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "неговите заби"
+    }
+  ],
+  "timestamp": "2026-10-19T23:01:43.096239099Z",
+  "model": "glm-5.3"
+}

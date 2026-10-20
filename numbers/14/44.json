@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 14:44",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "се надуја",
+      "rationale": "ויעפלו од עפל „набабрува\/отекува“ — фиг. „се надуја (со дрскост)“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משו\/משה",
+      "rationale": "глаголот משו (се поместиле) одѕвонува со името משה во истиот стих"
+    }
+  ],
+  "translation": "И се надуја да се качат кон врвот на гората, а ковчегот на заветот на Јахве и Моше не се поместиле од средиштето на логорот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "71d9b5da3b8e720be56c866662c4864815b1bc49fd03e58193f7546baa540f6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/14\/41-44.1792444796659.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעפלו",
+      "gloss": "се надуја"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "да се качат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "врвот"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "на гората"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "а ковчегот"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "на заветот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "и Моше"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "משו",
+      "gloss": "се поместиле"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "од средиштето"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "на логорот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:19:56.660926684Z",
+  "model": "glm-5.3"
+}

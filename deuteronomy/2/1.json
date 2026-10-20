@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 2:1",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Трското море",
+      "rationale": "ים סוף е буквално 'море на трски'; традиционално 'Црвено море'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨за⟩",
+      "rationale": "אלי е 'кон мене'; македонскиот бара во случај 'говореше за мене'-структура, обележана"
+    }
+  ],
+  "translation": "И се свртевме и тргнавме кон пустињата, по патот кон Трското море, како што говореше Јахве ⟨за⟩ мене; и одење околу ⟨את⟩ планината Сеир — многу денови.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "42f8353fa702b891626b3395906b30779fa9bb32b9392bd0b91f3acd7b2ca392",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/2\/1-4.1792445285020.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפן",
+      "gloss": "сè свртевме"
+    },
+    {
+      "surface": "ונסע",
+      "gloss": "тргнавме"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "кон пустињата"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "по патот"
+    },
+    {
+      "surface": "ים",
+      "gloss": "морето"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "трски"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говореше"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨за⟩ мене"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "одење околу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "планината Сеир"
+    },
+    {
+      "surface": "הר",
+      "gloss": "планината"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "денови"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многу"
+    }
+  ],
+  "timestamp": "2026-10-19T21:28:05.021251086Z",
+  "model": "glm-5.3"
+}

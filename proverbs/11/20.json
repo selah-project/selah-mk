@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תועבת\/רצונו",
+      "rationale": "спротивност мразота–желба во спротставени колона, паралелизам"
+    }
+  ],
+  "translation": "Мразота за Јахве се искривените по срце, а желба ⟨негова⟩ се совршените по пат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e7f1dabe9583a0dd9bff57175df541ac91dc0defd0875cd49ed04434823b423a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/11\/17-20.1792454419383.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "мразота"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "искривените"
+    },
+    {
+      "surface": "לב",
+      "gloss": "по срце"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "а желба негова"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "совршените"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "по пат"
+    }
+  ],
+  "timestamp": "2026-10-20T00:00:19.387938761Z",
+  "model": "glm-5.3"
+}

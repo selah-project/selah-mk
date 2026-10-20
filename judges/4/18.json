@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 4:18",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "господару мој",
+      "rationale": "אדני за човек — според табелата D1, не Адонај"
+    },
+    {
+      "kind": "you",
+      "subject": "до Сисера",
+      "rationale": "Јаел му се директно обраќа на Сисера со повторен повик"
+    },
+    {
+      "kind": "invitation",
+      "subject": "влези, влези кај мене",
+      "rationale": "повторен императив со примамлив тон — драматска иронија"
+    }
+  ],
+  "translation": "И Јаел излезе во пресрет на Сисера и му рече: Влези, господару мој, влези кај мене, не плаши се. И тој сврна кај неа во шаторот, и таа го покри со покривка.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ac169d761d7d3b3bd32a8d4f581b68bc4c6ea131643b136ea6c6ac7bff409397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/4\/17-20.1792446339848.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "излезе"
+    },
+    {
+      "surface": "יעל",
+      "gloss": "Јаел"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "во пресрет на"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Сисера"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "סורה",
+      "gloss": "Влези"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господару мој"
+    },
+    {
+      "surface": "סורה",
+      "gloss": "влези"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "кај мене"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "плаши се"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "И тој сврна"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "кај неа"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "во шаторот"
+    },
+    {
+      "surface": "ותכסהו",
+      "gloss": "го покри"
+    },
+    {
+      "surface": "בשמיכה",
+      "gloss": "со покривка"
+    }
+  ],
+  "timestamp": "2026-10-19T21:45:39.849173467Z",
+  "model": "glm-5.3"
+}

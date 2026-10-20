@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 36:24",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הימם",
+      "rationale": "YLT: 'Emim' (народ, слично на Битие 14:5 'Емим'); LXX 'нирибен јемин' традиционално 'топли извори' — избрав 'топли извори'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הימם",
+      "rationale": "зборот се јавува само тука во Танах"
+    },
+    {
+      "kind": "measurement",
+      "subject": "родослов",
+      "rationale": "список на Цивоновите синови со анегдота"
+    }
+  ],
+  "translation": "А овие се синовите на Цивон: Аја и Анa — тоа е оној Анa што ги најде ⟨את⟩ топлите извори во пустињата, кога ги пасеше ⟨את⟩ магарињата на Цивон, татко му.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "adc7b1adb15d27fa2bab279e2ca86a2146f94ceab12a72d383a8173a585ad331",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/36\/21-24.1792443008094.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "а овие"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "на Цивон"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "Аја"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "и Анa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тоа е"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Анa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ги најде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "топлите извори"
+    },
+    {
+      "surface": "הימם",
+      "gloss": "топлите извори"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "во пустињата"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "кога ги пасеше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "магарињата"
+    },
+    {
+      "surface": "החמרים",
+      "gloss": "магарињата"
+    },
+    {
+      "surface": "לצבעון",
+      "gloss": "на Цивон"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "татко му"
+    }
+  ],
+  "timestamp": "2026-10-19T20:50:08.099331199Z",
+  "model": "glm-5.3"
+}

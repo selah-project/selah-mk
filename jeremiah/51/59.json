@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "jeremiah 51:59",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שר מנוחה",
+      "rationale": "„кнез на одмориште“ — KJВ „тих кнез“, ASV „главен chamberlain“, JPS „intendant за преноќување“; ретко зборовоподредување."
+    },
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "Македонскиот бара копула што хебрејскиот ја испушта."
+    },
+    {
+      "kind": "measurement",
+      "subject": "четвртата година",
+      "rationale": "Точна датација на настанот — четвртата година од владеењето на Цидкија."
+    }
+  ],
+  "translation": "Словото што го заповеда Јермија пророкот ⟨את⟩ Сераја, синот на Нерија, синот на Махсија, кога одеше со ⟨את⟩ Цидкија, царот на Јуда, во Вавилон, во четвртата година од неговото владеење; а Сераја беше кнез на одмориште.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "eea8ee844a05b94ffa89ee7d5b917b6de9bf40a974f84664db2d441b91c82ee1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/51\/57-60.1792451359221.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Словото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "го заповеда"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јермија"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сераја"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Сераја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "на Нерија"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "מחסיה",
+      "gloss": "на Махсија"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "кога одеше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цидкија"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкија"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јуда"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "во Вавилон"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "во годината"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "четвртата"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "од неговото владеење"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "а Сераја"
+    },
+    {
+      "surface": "שר",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "на одмориште"
+    }
+  ],
+  "timestamp": "2026-10-19T23:09:19.222325381Z",
+  "model": "glm-5.3"
+}

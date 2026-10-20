@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 15:19",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "извори",
+      "rationale": "גלת (гула) — дословно „затворени базени\/извори со тркалест облик“; „извори“ го губи обликот"
+    },
+    {
+      "kind": "measurement",
+      "subject": "наследството",
+      "rationale": "Стиховите 17–20 се дел од списнакот на наследството на Јуда"
+    }
+  ],
+  "translation": "И таа рече: Дај ми благослов, зашто земја на Негев ми даде; дај ми и извори на вода. И тој и даде ⟨את⟩ горните извори и ⟨את⟩ долните извори.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "11455d8626ee999a483c0a7480f46d070baad979d9e52456f962640658b66a10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/15\/17-20.1792446144003.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и таа рече"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "дај"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "благослов"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "на Негев"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "ми даде"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "и дај"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "извори"
+    },
+    {
+      "surface": "מים",
+      "gloss": "на вода"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "לה",
+      "gloss": "и"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "горните извори"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "извори"
+    },
+    {
+      "surface": "עליות",
+      "gloss": "горните"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "долните извори"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "извори"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "долните"
+    }
+  ],
+  "timestamp": "2026-10-19T21:42:24.005168836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בא … ויבא",
+      "rationale": "Повторување на истиот глагол дојде\/доаѓа — гордиот што доаѓа носи срам што доаѓа по него."
+    },
+    {
+      "kind": "addition",
+      "subject": "ли",
+      "rationale": "Хебрејскиот е исказ, не прашалник; „ли“ ја дава условната нијанса на изреката."
+    },
+    {
+      "kind": "elision",
+      "subject": "копула",
+      "rationale": "„а со смирените — мудрост“: хебрејскиот ја нема глаголската сврзка."
+    }
+  ],
+  "translation": "Дојде ли надменоста, доаѓа ⟨את⟩ срамот; а со смирените — мудрост.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "22e130f5ddfe2b33353b14608148ec64c8b5f9921b8c05b10a37593e3c17a44d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/11\/2-3.1792458406535.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "дојде ли"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "надменоста"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "доаѓа"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "срамот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "срамот"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "смирените"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    }
+  ],
+  "timestamp": "2026-10-20T01:06:46.536048463Z",
+  "model": "glm-5.3"
+}

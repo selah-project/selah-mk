@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 15:4",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "за трепет",
+      "rationale": "זועה е трепет\/зgraza; KJV „removed“ од француското remuer — грешка на традицијата"
+    }
+  ],
+  "translation": "И ќе ги дадам за трепет на сите царства на земјата, заради Менаше, синот на Хизкијаху, царот на Јуда, за она што го направи во Јерушалаим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4b3380b36b229c867b2d60496cc30e6b308f79aee06cfce123685f4009cc665e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/15\/1-4.1792450664001.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתים",
+      "gloss": "И ќе ги дадам"
+    },
+    {
+      "surface": "לזועה",
+      "gloss": "за трепет"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на сите"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "царства"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "заради"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "на Хизкијаху"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јуда"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "она што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "го направи"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "во Јерушалаим"
+    }
+  ],
+  "timestamp": "2026-10-19T22:57:44.003753053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "македонскиот бара помошен глагол кај היה во пасивна смисла"
+    }
+  ],
+  "translation": "Опустошение и страшило ⟨се⟩ случи во земјата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "83f772650c49bf2f3c224460344712028524b3d438998ee0bb741f060d3dab5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/5\/29-31.1792450452977.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "опустошение"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "и страшило"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "⟨се⟩ случи"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T22:54:12.978562728Z",
+  "model": "glm-5.3"
+}

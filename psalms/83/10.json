@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "до Елохим",
+      "rationale": "Молитва-повик: императив 'Направи им' упатен директно кон Бога"
+    }
+  ],
+  "translation": "Направи им како на Мидијан, како на Сисера, како на Јавин, кај потокот Кишон.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4d68588690c2e339ec328024aca5ab55546f99503f443c98eeacd1737939e6bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/83\/9-12.1792453642467.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Направи"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "како на Мидијан"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "како на Сисера"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "како на Јавин"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "кај потокот"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Кишон"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:22.467788327Z",
+  "model": "glm-5.3"
+}

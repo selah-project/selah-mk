@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 47:17",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хранеше",
+      "rationale": "וינהלם од nahal — буквално 'ги водеше\/пасеше како пастир'; слика на пастира изгубена во 'хранеше'"
+    }
+  ],
+  "translation": "И ги доведоа ⟨את⟩ стадата свои кај Јосеф, и Јосеф им даде леб за коњите, и за стадата овци и кози, и за говедата, и за магарињата; и тој ги хранеше со леб за сите нивни стада таа година.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d2f0369eec0a43f8ef07cd9ee72529d221192d5be24e97d0ec790aa4f43f5d56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/47\/17-20.1792443266149.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "ги доведоа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стадата свои"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "стадата свои"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "за коњите"
+    },
+    {
+      "surface": "ובמקנה",
+      "gloss": "и за стадата"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "овци и кози"
+    },
+    {
+      "surface": "ובמקנה",
+      "gloss": "и за говедата"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "говеда"
+    },
+    {
+      "surface": "ובחמרים",
+      "gloss": "и за магарињата"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "ги хранеше"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "со леб"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "за сите"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "нивни стада"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "таа година"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "таа"
+    }
+  ],
+  "timestamp": "2026-10-19T20:54:26.152897018Z",
+  "model": "glm-5.3"
+}

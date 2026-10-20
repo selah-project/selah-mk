@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 6:10",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "необрезани уши",
+      "rationale": "ערלה е дословно задржано — слика на нечисто, недоверливо уво; современите преводи го менуваат во „затворени“."
+    },
+    {
+      "kind": "you",
+      "subject": "до народот преку пророштвото",
+      "rationale": "Прашањето е директен повик — нема кому да се зборува."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨со кого⟩",
+      "rationale": "македонскиот бара повторување на предлогот кај вториот член на прашањето."
+    }
+  ],
+  "translation": "Со кого да зборувам и ⟨со кого⟩ да предупредувам за да слушнат? Еве, необрезани им се ушите и не можат да внимаваат; еве, словото на Јахве им стана за срам, не сакаат во него.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fec691d8bfd9cec6ef8ca9dc2dd2d0be446e9c84e38b023590cb6cc2e1fd20a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/6\/9-12.1792450461642.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Со"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "да зборувам"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "и да предупредувам"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "за да слушнат"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "ערלה",
+      "gloss": "необрезани"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "ушите им"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "можат"
+    },
+    {
+      "surface": "להקשיב",
+      "gloss": "да внимаваат"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "היה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "за срам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "сакаат"
+    },
+    {
+      "surface": "בו",
+      "gloss": "во него"
+    }
+  ],
+  "timestamp": "2026-10-19T22:54:21.644022467Z",
+  "model": "glm-5.3"
+}

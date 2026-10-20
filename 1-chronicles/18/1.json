@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "нејзините ќерки-села",
+      "rationale": "בנתיה е буквално 'нејзините ќерки', во смисла на зависните села на Гат"
+    },
+    {
+      "kind": "you",
+      "subject": "narativna ramka",
+      "rationale": "Измерувачкиот тон на воената хроника — се бројат освоените градови"
+    }
+  ],
+  "translation": "И биде по ова, и Давид ги порази ⟨את⟩ Плиштимците и ги покори, и ја зеде ⟨את⟩ Гат и нејзините ќерки-села од раката на Плиштимците.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b66dd8990192fa8811abf5a0dc0f96ffa02afd2855977afc9212a9a28ec156fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/18\/1-4.1792457161890.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ова"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ги порази"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Плиштимците"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштимците"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "ги покори"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ја зеде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гат"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гат"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "и нејзините ќерки-села"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "од раката"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "на Плиштимците"
+    }
+  ],
+  "timestamp": "2026-10-20T00:46:01.892252190Z",
+  "model": "glm-5.3"
+}

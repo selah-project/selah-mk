@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 2:25",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "арамејскиот нема неопределен член; македонскиот бара „еден“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "пошар",
+      "rationale": "арамејскиот פשרא е технички збор за толкување на сон — оставен како „толкување“, а не како преведена титула"
+    }
+  ],
+  "translation": "Тогаш Аријох во брзина го воведе Даниел пред царот и вака му рече: Најдов ⟨е⟩ човек од синовите на прогонството на Јехуда, кој ќе му ја објави на царот толкувањето.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d119cf6ce1316d0eb8337f2b5f6cc3fbea8743594596ab4d956e0aa4bc5a413b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/2\/25-28.1792455971077.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Тогаш"
+    },
+    {
+      "surface": "אריוך",
+      "gloss": "Аријох"
+    },
+    {
+      "surface": "בהתבהלה",
+      "gloss": "во брзина"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "го воведе"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "пред"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царот"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "и вака"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "му рече"
+    },
+    {
+      "surface": "לה",
+      "gloss": "му"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨дека⟩"
+    },
+    {
+      "surface": "השכחת",
+      "gloss": "Најдов"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "човек"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "גלותא",
+      "gloss": "на прогонството"
+    },
+    {
+      "surface": "די",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהוד",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "די",
+      "gloss": "кој"
+    },
+    {
+      "surface": "פשרא",
+      "gloss": "толкувањето"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "יהודע",
+      "gloss": "ќе објави"
+    }
+  ],
+  "timestamp": "2026-10-20T00:26:11.078288882Z",
+  "model": "glm-5.3"
+}

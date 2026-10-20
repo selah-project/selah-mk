@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 18:14",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדקה е ист корен צדק — 'праведност', задржано како цедек наместо да се раствора во 'правда'."
+    }
+  ],
+  "translation": "И царуваше Давид над цел Јисраел, и правеше суд и цедек на сиот свој народ.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "80245ada4bb3aec48de7134b3e642bff17d9d4f60b32fc7a9037ac4ce0ad0f26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/18\/13-16.1792457111936.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "царуваше"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "правеше"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на сиот"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "свој народ"
+    }
+  ],
+  "timestamp": "2026-10-20T00:45:11.937219757Z",
+  "model": "glm-5.3"
+}

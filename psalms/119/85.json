@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Хебрејскиот нема копула во споредбената реченица"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרו...שיחות",
+      "rationale": "двојна слика: копаат јами (стапици) — буквалната слика е задржана"
+    }
+  ],
+  "translation": "Дрските ми ископаа јами, што не ⟨е⟩ според Тораата твоја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/85-88.1792453990749.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "ископаа"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "дрските"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "јами"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "според Тораата твоја"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:10.749935169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 32:23",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "копула што хебрејскиот ја испушта"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "„и биде“ остана само „и“ — македонскиот не го трпи празниот сврзник"
+    }
+  ],
+  "translation": "чиишто гробови се дадени во најдолните краишта на јамата, и нејзиниот собор ⟨е⟩ околу гробот нејзин — сите тие прободени, паднати од мечот, кои дадоа страв во земјата на живите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "371b18a9c5bc0978f1150d1f8630165c74c1f0072ece071cd9852c9065b8f3f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/32\/21-24.1792451885847.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "чиишто"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "се дадени"
+    },
+    {
+      "surface": "קברתיה",
+      "gloss": "гробови"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "во најдолните краишта"
+    },
+    {
+      "surface": "בור",
+      "gloss": "на јамата"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и"
+    },
+    {
+      "surface": "קהלה",
+      "gloss": "собор"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "околу"
+    },
+    {
+      "surface": "קברתה",
+      "gloss": "гробот нејзин"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "сите тие"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "прободени"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "паднати"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "од мечот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кои"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "дадоа"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "страв"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "на живите"
+    }
+  ],
+  "timestamp": "2026-10-19T23:18:05.848661674Z",
+  "model": "glm-5.3"
+}

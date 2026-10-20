@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "алеф-тав со наставка за објект, македонскиот датив „ми“ го покрива, ⟨את⟩ не стои самостојно во согласните текст"
+    }
+  ],
+  "translation": "Зашто така ⟨את⟩ ми нареди со зборот на Јахве, велејќи: Немој да јадеш леб ни да пиеш вода, и немој да се вратиш по патот по кој си дошол.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "38d5421fcb8046a6c84306eadc6c3688130497235b0557ec72485765958b1f13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/13\/9-12.1792448801179.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "нареди"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ми"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "со зборот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "немој"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "да јадеш"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "да пиеш"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и немој"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "да се вратиш"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "по патот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "по кој"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "си дошол"
+    }
+  ],
+  "timestamp": "2026-10-19T22:26:41.180971256Z",
+  "model": "glm-5.3"
+}

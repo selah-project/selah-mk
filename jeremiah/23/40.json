@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 23:40",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עולם",
+      "rationale": "Двојното 'олам олам' (вечна срамота и вечен срам) — паралелизам што ги огледува двата синонима за срам."
+    }
+  ],
+  "translation": "и ќе ставам врз вас вечна срамота и вечен срам што нема да се заборави.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b1953ae5e5b461c25149f3fb84f090c833c3186fc98f33f5586d2bb99316c304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/23\/37-40.1792450739373.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ќе ставам"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "врз вас"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "срамота"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечна"
+    },
+    {
+      "surface": "וכלמות",
+      "gloss": "и вечен срам"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечна"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "да се заборави"
+    }
+  ],
+  "timestamp": "2026-10-19T22:58:59.376502634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפני",
+      "rationale": "букв. „на лицето\/пред лицето на непријателите ваши“"
+    },
+    {
+      "kind": "alternative",
+      "subject": "и нема да бидете поразени",
+      "rationale": "ולא תנגפу повеќе е целен исход: „за да не бидете поразени“"
+    }
+  ],
+  "translation": "Не излегувајте нагоре, зашто Јахве не е ⟨во⟩ вас и нема да бидете поразени пред непријателите ваши.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "71d9b5da3b8e720be56c866662c4864815b1bc49fd03e58193f7546baa540f6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/14\/41-44.1792444796659.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "излегувајте нагоре"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не е"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "во вас"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "да бидете поразени"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "непријателите ваши"
+    }
+  ],
+  "timestamp": "2026-10-19T21:19:56.660341160Z",
+  "model": "glm-5.3"
+}

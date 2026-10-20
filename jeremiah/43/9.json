@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 43:9",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מלבן",
+      "rationale": "печка за тули наспроти „кирпична платформа“ (JPS framework) — букв. место за правење тули"
+    },
+    {
+      "kind": "you",
+      "subject": "Моше→Јеремија",
+      "rationale": "Императив упатен директно на Јеремија"
+    }
+  ],
+  "translation": "Земи во раката своја големи камења и закопај ги во малтерот, во печката за тули што е при влезот на домот на фараонот во Тахпанхес, пред очите на мажите јудејски.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a2b7ec600564be6afff3d97d9455bca6314df696f77db8a3fed9be12beaa3e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/43\/9-12.1792451026242.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Земи"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "во раката своја"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "камења"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "големи"
+    },
+    {
+      "surface": "וטמנתם",
+      "gloss": "и закопај ги"
+    },
+    {
+      "surface": "במלט",
+      "gloss": "во малтерот"
+    },
+    {
+      "surface": "במלבן",
+      "gloss": "во печката за тули"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "при влезот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "на фараонот"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "во Тахпанхес"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "пред очите"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "на мажите"
+    },
+    {
+      "surface": "יהודים",
+      "gloss": "јудејски"
+    }
+  ],
+  "timestamp": "2026-10-19T23:03:46.243260773Z",
+  "model": "glm-5.3"
+}

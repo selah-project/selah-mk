@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 18:17",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השיב ידו",
+      "rationale": "буквално „ја вратил раката своја” — идиом за воздржување од штета, задржан буквално"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חיה יחיה",
+      "rationale": "инфинитивен апсолутив: „жив ќе живее” — удвојување задржано"
+    }
+  ],
+  "translation": "Од сиромавиот ја вратил раката своја, лихва и умножување не зел, Моите судови извршил, во Моите наредби одел — тој нема да умре за беззаконието на татко си, жив ќе живее.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "232cbe3ceef49ca29e8b504d890b04cfa52afe3e4c527724e67900d6ca7ab412",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/18\/17-20.1792451592889.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעני",
+      "gloss": "од сиромавиот"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "ја вратил"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "раката своја"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "лихва"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "и умножување"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "зел"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "Моите судови"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "извршил"
+    },
+    {
+      "surface": "בחקותי",
+      "gloss": "во Моите наредби"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "одел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "да умре"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "за беззаконието"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "на татко си"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "жив"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ќе живее"
+    }
+  ],
+  "timestamp": "2026-10-19T23:13:12.890528156Z",
+  "model": "glm-5.3"
+}

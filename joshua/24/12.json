@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "осата (הצרעה)",
+      "rationale": "буквално «осата\/стружнет» — метафора за паничка страв праќана од Бога наспроти буквален инсект"
+    },
+    {
+      "kind": "crux",
+      "subject": "твојот меч, твојот лак (еднина)",
+      "rationale": "хебрејскиот преоѓа од множина «вас» на еднина «твојот» — колективен единствен народ"
+    }
+  ],
+  "translation": "И праќав пред вас ⟨את⟩ осата, и таа ги прогони ⟨את⟩ нив од пред вас — двата цара на Еморејците; не со твојот меч и не со твојот лак.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "30f94f1314f824cfcb009c2b3c162da3cdf9baa668e0c621cbc524d409a5dda0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/24\/9-12.1792446250036.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "праќав"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "пред вас"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "осата"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "осата"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "прогони"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "нив"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "од пред вас"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двата"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "цара"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Еморејците"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "со твојот меч"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "со твојот лак"
+    }
+  ],
+  "timestamp": "2026-10-19T21:44:10.037739087Z",
+  "model": "glm-5.3"
+}

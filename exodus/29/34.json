@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 29:34",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула во „свет е тоа“"
+    },
+    {
+      "kind": "crux",
+      "subject": "המלאים",
+      "rationale": "„исполнувања“ — множина од מלוא, обредот на наполнување на рацете; преведувачите даваат „посветување\/ordinate“"
+    }
+  ],
+  "translation": "И ако остане нешто од месото на исполнувањата и од лебот до утрото, ќе го изгориш ⟨את⟩ остнатото во оган — да не се јаде, зашто свет ⟨е⟩ тоа.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "7ee97fc3ff2fede9f3c2a254554e5bc1718f405486bdb5e6264fc284fc2df85c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/29\/33-36.1792443843008.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "остане"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "нешто од месото"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "на исполнувањата"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "лебот"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "утрото"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "ќе го изгориш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "остнатото"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "остнатото"
+    },
+    {
+      "surface": "באש",
+      "gloss": "во оган"
+    },
+    {
+      "surface": "לא",
+      "gloss": "да не"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "се јаде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свет"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тоа"
+    }
+  ],
+  "timestamp": "2026-10-19T21:04:03.013498816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כל אישׁ … כְּאִישׁ אֶחָד",
+      "rationale": "игра на אישׁ (секој муж — еден муж); на македонски се губи"
+    },
+    {
+      "kind": "elision",
+      "subject": " λέќто ‚говорејќи‘",
+      "rationale": "хебрејскиот не вели „рекоа“, пораката стои директно"
+    }
+  ],
+  "translation": "И го наклони ⟨את⟩ срцето на сите мужи Јудини како еден муж, и испратија до царот: Врати се ти и сите твои слуги.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e5b8ed1afdc95732665fdb2e7b2180debf2b559016d4fc85d84a7071c324b87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/19\/13-16.1792448350051.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "И наклони"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срцето"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "срцето"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на сите"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужи"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудини"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "како еден"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "муж"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "и испратија"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Врати се"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сите"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "твоите слуги"
+    }
+  ],
+  "timestamp": "2026-10-19T22:19:10.054049985Z",
+  "model": "glm-5.3"
+}

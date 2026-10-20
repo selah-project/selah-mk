@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עקב",
+      "rationale": "буквално „пета“ — adverbial „до крај\/до последен здив“ (KJV) или „на секој чекор“ (JPS)"
+    },
+    {
+      "kind": "invitation",
+      "subject": "молитба до Јахве",
+      "rationale": "императивна молба упатена директно на Јахве"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "директен обраќај со Името"
+    }
+  ],
+  "translation": "Научи ме, Јахве, на патот на Твоите уредби, и ќе го пазам до крај.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "eab5b816828de101e86cb7aa463f2d876246dcec84e3ba96a850a676d4b21947",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/33-36.1792453993739.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "научи ме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "на патот"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "на Твоите уредби"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "и ќе го пазам"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "до крај"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:13.740478983Z",
+  "model": "glm-5.3"
+}

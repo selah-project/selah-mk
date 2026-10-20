@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 47:10",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שובבתך",
+      "rationale": "корен שוב: „те одвратија\/те вратија наназад“ наспроти „те расипа“ (KJV) или „те бунтовна направи“ (Geneva)."
+    },
+    {
+      "kind": "you",
+      "subject": "Вавилон",
+      "rationale": "директен говор кон Вавилон."
+    }
+  ],
+  "translation": "И ти се доверуваше во злото свое, рече: нема кој ме гледа. Твојата мудрост и твоето знаење — тие те одвратија; и рече во срцето свое: јас сум, и нема друг покрај мене.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b1ec40faf0ffb332a7dd5325d3e1ef3b753f61e2646a997a7edc354c9c140ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/47\/9-12.1792450164700.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבטחי",
+      "gloss": "ти се доверуваше"
+    },
+    {
+      "surface": "ברעתך",
+      "gloss": "во злото свое"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "ראני",
+      "gloss": "кој ме гледа"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "мудроста твоја"
+    },
+    {
+      "surface": "ודעתך",
+      "gloss": "и знаењето твое"
+    },
+    {
+      "surface": "היא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "שובבתך",
+      "gloss": "те одвратија"
+    },
+    {
+      "surface": "ותאמרי",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "во срцето свое"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас сум"
+    },
+    {
+      "surface": "ואפסי",
+      "gloss": "и нема друг"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "покрај мене"
+    }
+  ],
+  "timestamp": "2026-10-19T22:49:24.702090210Z",
+  "model": "glm-5.3"
+}

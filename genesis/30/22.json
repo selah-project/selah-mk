@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויזכר…וישמע…ויפתח",
+      "rationale": "три кратки WAYYIQTOL чина во низа — ритамот на брзи настани, во преводот се губи темпото"
+    },
+    {
+      "kind": "substitution",
+      "subject": "се сети",
+      "rationale": "זכר е повеќе „да го обележи за памтење“ отколку ментален чин; македонскиот нема пократко решение"
+    }
+  ],
+  "translation": "И Елохим се сети на ⟨את⟩ Рахел, и Елохим ја послуша, и ѝ го отвори ⟨את⟩ нејзината утроба.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "fde1c94bcb49b1a4499c2da29cfb885d381ad0a35d7d29a0a589ae220f764943",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/30\/21-24.1792442884226.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "се сети"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рахел"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "послуша"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ја"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "отвори"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нејзината утроба"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "нејзината утроба"
+    }
+  ],
+  "timestamp": "2026-10-19T20:48:04.227933673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 17:6",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "Зборовната формула „како да рече“ нема чист македонски еквивалент и се спои со говорот"
+    },
+    {
+      "kind": "you",
+      "subject": "Хушај",
+      "rationale": "Директно обраќање на Авшалом до Хушај: „ти зборувај“"
+    }
+  ],
+  "translation": "И дојде Хушај кај Авшалом, и му рече Авшалом: Според овој збор зборува Ахитофел — дали да го извршиме ⟨את⟩ зборот негов? Ако не — ти зборувај.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7562bbb4611d39fecddb8d8d2605f2e40edf7bef9b0a16b42966aec4b40f11e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/17\/5-8.1792448313478.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И дојде"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Хушај"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "според зборот"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "според овој збор"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборува"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ахитофел"
+    },
+    {
+      "surface": "הנעשה",
+      "gloss": "дали да извршиме"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зборот негов"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "зборот негов"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборувај"
+    }
+  ],
+  "timestamp": "2026-10-19T22:18:33.480137421Z",
+  "model": "glm-5.3"
+}

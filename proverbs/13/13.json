@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 13:13",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחבל",
+      "rationale": "корен חבל значи „врзува како јаже \/ става во залог“; традицијата дели меѓу „ќе биде уништен“ (KJV) и „ќе страда“ (JPS); буквално е слика за врзаност за долг."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישלם",
+      "rationale": "шалом-коренот: „ќе биде цел\/безбеден“ или „ќе му биде воздадено“; изравнат со резултат, не само награда."
+    }
+  ],
+  "translation": "Кој го презира словото — тој ќе биде врзан ⟨за него⟩; а кој се бои од заповедта — нему ќе му биде воздадено.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bb6c3147f9e08a85b9bcee30626f8eea74e1c97f856cb57d264f358145ecd904",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/13\/13-16.1792454494257.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "презира"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "ќе биде врзан"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "а кој се бои"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "од заповедта"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ќе му биде воздадено"
+    }
+  ],
+  "timestamp": "2026-10-20T00:01:34.258275997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 3:17",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Ezekiel",
+      "rationale": "Бене-адам — директно обраќање на Езекиил како 'сине човечки'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "стражар",
+      "rationale": "цофе — оној што гледа напред\/набљудува; сликата на набљудувач од високо."
+    }
+  ],
+  "translation": "Сине човечки, стражар те поставив за домот на Јисраел, и ти ќе слушнеш збор од Моите уста и ќе ги предупредиш ⟨את⟩ нив ⟨од⟩ Мене.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8b5d17580228be84adb43dfad763b009cb81ebf9b85462328582707980652917",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/3\/17-20.1792451322283.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечки"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "стражар"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "те поставив"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "за домот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "и ќе слушнеш"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "од Моите уста"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "збор"
+    },
+    {
+      "surface": "והזהרת",
+      "gloss": "и ќе ги предупредиш"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ нив",
+      "marks": "нив"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "од Мене"
+    }
+  ],
+  "timestamp": "2026-10-19T23:08:42.284033765Z",
+  "model": "glm-5.3"
+}

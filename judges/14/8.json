@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 14:8",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מפלת",
+      "rationale": "мрша — од корен „паѓа“, она што паднало; букв. „паднатото од лавот“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עדת דבורים",
+      "rationale": "„собрание\/заедница пчели“ — истиот збор עדה што значи заедница на луѓе"
+    }
+  ],
+  "translation": "И се врати по некои дни да ја земе, и сврте настрана да го види ⟨את⟩ мршата од лавот; и еве — рој пчели во телото на лавот, и мед.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3c3f566f6d465af95058caa773db372af5e54866667bb188ef16017c3f956e77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/14\/5-8.1792446480691.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И се врати"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "по некои дни"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "да ја земе"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "и сврте настрана"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "да види"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мршата од лавот"
+    },
+    {
+      "surface": "מפלת",
+      "gloss": "мршата"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "од лавот"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и еве"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "рој"
+    },
+    {
+      "surface": "דבורים",
+      "gloss": "пчели"
+    },
+    {
+      "surface": "בגוית",
+      "gloss": "во телото"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "на лавот"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "и мед"
+    }
+  ],
+  "timestamp": "2026-10-19T21:48:00.692865921Z",
+  "model": "glm-5.3"
+}

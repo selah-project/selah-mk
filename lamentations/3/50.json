@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "се наднесе",
+      "rationale": "שׁקף буквално 'да се наведе од прозорец' — слика на прозорец е задржана"
+    },
+    {
+      "kind": "mystery",
+      "subject": "плачот",
+      "rationale": " солзите ќе течат додека Јахве самиот не погледне одозгора — услов без рок"
+    }
+  ],
+  "translation": " додека не се наднесе и не види Јахве од небесата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b27ac5f8c92b894d6f00ba7c9cd999629b9ae2e8299a36f7f65c4c7b8ed72f11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/3\/49-52.1792455619914.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "не се наднесе"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и не види"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "од небесата"
+    }
+  ],
+  "timestamp": "2026-10-20T00:20:19.914754679Z",
+  "model": "glm-5.3"
+}

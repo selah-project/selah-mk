@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "мечот твој",
+      "rationale": "חרבך: 'со мечот твој' (инструмент) наспроти KJV 'кој е мечот твој' (злобниот како меч на Бога)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "нефешта моја",
+      "rationale": "נפש е грклан\/животна сила, не бесмртна душа"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "директен повик кон Јахве да дејствува"
+    }
+  ],
+  "translation": "Стани, Јахве, прочекај го пред лицето негово, собори го; избави ја нефешта моја од злобниот — со мечот твој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "16a4bad9a59e51584fd3aecb9b76a34c45d370cd0cc2e263983226aafc0d1ea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/17\/13-15.1792453008124.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Стани"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "прочекај"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "пред лицето негово"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "собори го"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "избави"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "нефешта моја"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "од злобниот"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "со мечот твој"
+    }
+  ],
+  "timestamp": "2026-10-19T23:36:48.124940475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 14:3",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "дечиња",
+      "rationale": "טף е колектив — „ситниот добиток“ на семејството, мали деца; букв. „нашето ситно“"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "риторичко прашање упатено кон Јахве преку Моше и Ахарон"
+    },
+    {
+      "kind": "crux",
+      "subject": "יהיו לבז",
+      "rationale": "букв. „ќе бидат за плач“ — стануваат плен"
+    }
+  ],
+  "translation": "И зошто Јахве нè води ⟨את⟩ нас во оваа земја — да паднеме под меч? Нашите жени и нашите дечиња ќе бидат ⟨за⟩ plunder — зарем не ни е подобро да се вратиме во Мицраим?",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "dedcc3676921b5bc0bcf2a59f83cbbebef32b168255c34a6199336aeeb9d4dfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/14\/1-4.1792444832492.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "и зошто"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "води"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ нас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "да паднеме"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "под меч"
+    },
+    {
+      "surface": "נשינו",
+      "gloss": "нашите жени"
+    },
+    {
+      "surface": "וטפנו",
+      "gloss": "и нашите дечиња"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ќе бидат"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "плач"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "зарем не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "е подобро"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "да се вратиме"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "во Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-19T21:20:32.493825084Z",
+  "model": "glm-5.3"
+}

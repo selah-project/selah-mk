@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 47:14",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ја кренав раката своја",
+      "rationale": "клетва — кревање рака како заклетва, не буквален гест"
+    },
+    {
+      "kind": "addition",
+      "subject": "како",
+      "rationale": "בנחלה е само прилог „за наследство“ — македонскиот бара сврзник"
+    }
+  ],
+  "translation": "И ќе ја наследите ⟨את⟩ неа — секој човек како братот свој, зашто ја кренав ⟨את⟩ раката своја да ⟨ја⟩ дадам на татковците ваши; и оваа земја ќе ви падне ⟨како⟩ наследство.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "48439d84446e1c13881ce01df2068fd4c7f2fc3d6191dab9016553683ff626ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/47\/13-16.1792452133924.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונחלתם",
+      "gloss": "И ќе наследите"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "неа"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој човек"
+    },
+    {
+      "surface": "кאחיו",
+      "gloss": "како братот свој"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ја кренав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "раката своја"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "раката своја"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "да дадам неа"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "на татковците ваши"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "и ќе падне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "наследство"
+    }
+  ],
+  "timestamp": "2026-10-19T23:22:13.924985661Z",
+  "model": "glm-5.3"
+}

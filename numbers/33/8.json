@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 33:8",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מפני",
+      "rationale": "буквално „од лицето на“ — идиом за „спроти\/пред“; делумно задржан во загради"
+    },
+    {
+      "kind": "measurement",
+      "subject": "три дни",
+      "rationale": "мерење на патот — три дена патување"
+    }
+  ],
+  "translation": "И тргнаа од ⟨лицето на⟩ Хирот и поминаа низ средината на морето кон пустињата, и одоа пат од три дни пустињата Етам, и се разбија со шатори во Мара.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "49da895dff103b1bd0acc3b21d913a12c1653b4a085751e167812718f31cb6f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/33\/5-8.1792445237590.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И тргнаа"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "од ⟨лицето на⟩"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "Хирот"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "и поминаа"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "низ средината"
+    },
+    {
+      "surface": "הים",
+      "gloss": "на морето"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "кон пустињата"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "и одоа"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пат"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "од три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "пустињата"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Етам"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и се разбија со шатори"
+    },
+    {
+      "surface": "במרה",
+      "gloss": "во Мара"
+    }
+  ],
+  "timestamp": "2026-10-19T21:27:17.592185690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 28:2",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "македонскиот бара сврзник пред прилогот 'кај Адонај'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חזק ואמץ",
+      "rationale": "безимен 'силник' кај Адонај — воено средство (Асирија?) или самиот Адонај; традицијата дели"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כזרם…כזרם",
+      "rationale": "двоен рефрен 'како порој' — хиазматична структура на казната"
+    }
+  ],
+  "translation": "Ете, силниот и јакиот ⟨е⟩ кај Адонај: како порој од град, страховита бура на пропаст, како порој на огромни води што надоилуваат — ќе ја собори ⟨на⟩ земјата со рака.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7bc698e7ae6683da4a0af4e86aa053d6a9fcc8ccbebb8d815fca88b64546b0b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/28\/1-4.1792449909876.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ете"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "силниот"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "и јакиот"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "кај Адонај"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "како порој"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "од град"
+    },
+    {
+      "surface": "שער",
+      "gloss": "страховита"
+    },
+    {
+      "surface": "קטב",
+      "gloss": "бура на пропаст"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "како порој"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "огромни"
+    },
+    {
+      "surface": "שטפים",
+      "gloss": "што надоилуваат"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "ќе ја собори"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "⟨на⟩ земјата"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "со рака"
+    }
+  ],
+  "timestamp": "2026-10-19T22:45:09.879194618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 4:8",
+  "book": "amos",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "скитаа",
+      "rationale": "ונעו може да значи и 'лутија\/ Kollektiv луѓето скитаа' — градовите како метафора за нивните жители"
+    }
+  ],
+  "translation": "И скитаа две-три градови кон еден град за да пијат вода, и не се наситија — а вие не се вративте кај Мене, вели Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "01788a73c3911aba3f095390bfb732025a645c717b7074fc86890dd3e1b34069",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/amos\/4\/5-8.1792452381492.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "и скитаа"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "две"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "градови"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "еден"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "да пијат"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "се наситија"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "се вративте"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "кај Мене"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:26:21.493829656Z",
+  "model": "glm-5.3"
+}

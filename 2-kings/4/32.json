@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩\/сврзник",
+      "rationale": "Македонскиот бара сврзник меѓу „детето“ и „мртво“; хебрејскиот е номинален исказ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מות",
+      "rationale": "מת е свршен глагол „умре“ употребен стативно — „мртво“."
+    }
+  ],
+  "translation": "И влезе Елиша во куќата, и еве, детето мртво, положено на постелата негова.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "9e0985edefff9edffb4a7e8361c2fdbfead6d1a1306d7c74515005a1fca730e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/4\/29-32.1792449134044.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И влезе"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Елиша"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "во куќата"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и еве"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "детето"
+    },
+    {
+      "surface": "מת",
+      "gloss": "мртво"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "положено"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "постелата негова"
+    }
+  ],
+  "timestamp": "2026-10-19T22:32:14.047142639Z",
+  "model": "glm-5.3"
+}

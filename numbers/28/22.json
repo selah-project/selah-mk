@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 28:22",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "покриеш",
+      "rationale": "לכפר буквално „да покрие“ — обично се преведува „помири\/искупи“, но сликата е покривање"
+    },
+    {
+      "kind": "you",
+      "subject": "за вас",
+      "rationale": "директно упатување до Израел"
+    }
+  ],
+  "translation": "и еден јарец за жртва за грев, за да ⟨се⟩ покриеш ⟨את⟩ над вас",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "77265568bed59cc19cfaf7d395f544448a295edd6d84bc1c11c2d893476da041",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/28\/21-24.1792445114132.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "и еден ѕирест јарец"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "жртва за грев"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "за да покриеш"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "над вас"
+    }
+  ],
+  "timestamp": "2026-10-19T21:25:14.133176628Z",
+  "model": "glm-5.3"
+}

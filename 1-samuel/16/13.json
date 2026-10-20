@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 16:13",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותצלח",
+      "rationale": "'навали\/врзлети' (како во Судии 14:6, 19) наспроти помекото 'сеettingsи врз' — истиот глагол како кај Самсон."
+    },
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "руах останува руах — ветер\/дух\/здив во еден збор, не се преведува."
+    }
+  ],
+  "translation": "И Шемуел зеде ⟨את⟩ рогот со маслото и го помаза ⟨את⟩ него среди браќата негови; и руах на Јахве навали врз Давид од тој ден натаму; и Шемуел стана и отиде во Рама.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "d09a6ba2d51d6c2f2dca20b4de87dbb9e2bce136a5480532478c4df89a4add23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/16\/13-16.1792446918043.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И зеде"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рогот со маслото"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "рогот"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "со маслото"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "и го помаза"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него (Давид)"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "среди"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "браќата негови"
+    },
+    {
+      "surface": "ותצלח",
+      "gloss": "и навали"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "врз"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "од тој ден"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оној"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "натаму"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "во Рама"
+    }
+  ],
+  "timestamp": "2026-10-19T21:55:18.044679138Z",
+  "model": "glm-5.3"
+}

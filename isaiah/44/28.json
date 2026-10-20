@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 44:28",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לכורש",
+      "rationale": "„за Кир“ (за од) или „на Кир“ (директно) — преводите се делат"
+    },
+    {
+      "kind": "mystery",
+      "subject": "Кир",
+      "rationale": "именуван егзархански цар пред да се случи — именување на иднината како доказ"
+    }
+  ],
+  "translation": "што вели за Кир: „пастирот мој е, и сета моя волја ќе ја исполни“, и што вели за Јерушалаим: „ќе биде изграден“, и за храмот: „темелот ќе му се положи“.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "006ac0daa57af6a0823b38da88c03a5109e91d0f6e8e8c4ec7b1c0bb6e2b73a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/44\/25-28.1792450117151.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "што вели"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "за Кир"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "пастирот мој"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сета"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "мојата волја"
+    },
+    {
+      "surface": "ישלים",
+      "gloss": "ќе ја исполни"
+    },
+    {
+      "surface": "ולאמר",
+      "gloss": "и што вели"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "за Јерушалаим"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ќе биде изграден"
+    },
+    {
+      "surface": "והיכל",
+      "gloss": "и за храмот"
+    },
+    {
+      "surface": "תוסד",
+      "gloss": "темелот ќе му се положи"
+    }
+  ],
+  "timestamp": "2026-10-19T22:48:37.154005089Z",
+  "model": "glm-5.3"
+}

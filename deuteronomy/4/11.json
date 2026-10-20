@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "до срцето на небесата",
+      "rationale": "хебрејски ‘лев хашамаим’ = средината на небото"
+    },
+    {
+      "kind": "mystery",
+      "subject": "темнина, облак и мрак",
+      "rationale": "теофанијата е скриена во непрогледен мрак — гледа се само оган"
+    }
+  ],
+  "translation": "И приближивте и застанавте под гората, а гората гореше во оган до срцето на небесата — темнина, облак и мрак.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e7594eb7a7ab4aa5745c8cb6a7a44ab2b85fb01332cbc5f8576cbb2f3167bab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/4\/9-12.1792445375928.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "И приближивте"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "и застанавте"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гората"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "а гората"
+    },
+    {
+      "surface": "בער",
+      "gloss": "гореше"
+    },
+    {
+      "surface": "באש",
+      "gloss": "во оган"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срцето"
+    },
+    {
+      "surface": "השמим",
+      "gloss": "на небесата"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "темнина"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "облак"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "и мрак"
+    }
+  ],
+  "timestamp": "2026-10-19T21:29:35.929911668Z",
+  "model": "glm-5.3"
+}

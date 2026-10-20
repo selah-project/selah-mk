@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 1:3",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "неволја",
+      "rationale": "ברעה буквално 'во зло\/лошо'; 'неволја' е прифатен македонски одѕив."
+    },
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Македонскиот бара копула; хебрејскиот именски изрек не ја има."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנשארים \/ נשארו",
+      "rationale": "Корен שׁאר се повторува во ист стих — 'останатите што останале'."
+    }
+  ],
+  "translation": "И ми рекоа: Оние што останале од заробеништвото се таму во покраината, во голема неволја и во срам; и ѕидот на Јерушалаим е пробиен, а портите негови се запалени со оган.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4d487a4e1c62f57474de3b334f9eae225fa2412ea2f0c6ce0e4812639bc0e52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/1\/1-4.1792456505982.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И ми рекоа"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "Оние што останале"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נשארו",
+      "gloss": "останале"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "השבי",
+      "gloss": "заробеништвото"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "במדינה",
+      "gloss": "во покраината"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "во неволја"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "голема"
+    },
+    {
+      "surface": "ובחרפה",
+      "gloss": "и во срам"
+    },
+    {
+      "surface": "וחומת",
+      "gloss": "и ѕидот на"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    },
+    {
+      "surface": "מפרצת",
+      "gloss": "е пробиен"
+    },
+    {
+      "surface": "ושעריה",
+      "gloss": "а портите негови"
+    },
+    {
+      "surface": "נצתו",
+      "gloss": "се запалени"
+    },
+    {
+      "surface": "באש",
+      "gloss": "со оган"
+    }
+  ],
+  "timestamp": "2026-10-20T00:35:05.983639429Z",
+  "model": "glm-5.3"
+}

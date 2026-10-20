@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עמים\/גוים",
+      "rationale": "Паралелизам: народите — племињата, побегнаа — се разјурија, во два спротивставени двојки."
+    }
+  ],
+  "translation": "Од гласот на тутнежот народите побегнаа; од твоето издигнување племињата се разјурија.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "57114b137b94ebafd6d4ba61d319adfbfcf4b9348d054fd36d09daf484ef0c9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/33\/1-4.1792449969585.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Од гласот"
+    },
+    {
+      "surface": "המון",
+      "gloss": "на тутнежот"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "побегнаа"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "од твоето издигнување"
+    },
+    {
+      "surface": "нפצו",
+      "gloss": "се разјурија"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "племињата"
+    }
+  ],
+  "timestamp": "2026-10-19T22:46:09.587868550Z",
+  "model": "glm-5.3"
+}

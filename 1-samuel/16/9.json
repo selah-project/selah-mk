@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Самуил",
+      "rationale": "Изјавата „ни во овој не избра Јахве” е говор упратен кон Јишај при минувањето на синовите."
+    }
+  ],
+  "translation": "И Јишај го помина Шама напред, и рече: исто така ни во овој не избра Јахве.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b12b922a1ddc2b33cf2df1d2ce74fda16d0660d647af55a6c1387dbdb4a497f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/16\/9-12.1792446886756.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "го помина"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Јишај"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Шама"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "גם",
+      "gloss": "исто така"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "во овој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "избра"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:54:46.756551170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 18:32",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אך הפעם",
+      "rationale": "'само овој пат' — последниот чекор во скалата 50–45–40–30–20–10, ритамот на симнување се губи"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨неа⟩",
+      "rationale": "објектот на שחית не е наведен во хебрејскиот"
+    },
+    {
+      "kind": "measurement",
+      "subject": "десет",
+      "rationale": "финалното бројење — дното на преговорите"
+    }
+  ],
+  "translation": "И рече: Нека не се разгневи Адонај, и ќе говорам — само овој пат: можеби ќе се најдат таму десет. И Тој рече: Не ќе ја уништам ⟨неа⟩ поради десетте.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "77abfc915cdb90c89f865550c3c7bd51e0490c3bed0733122f0543b846ddfd91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/18\/30-32.1792447678784.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нека не"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молам"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "се разгневи"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "и ќе говорам"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "овој пат"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "можеби"
+    },
+    {
+      "surface": "ימצאון",
+      "gloss": "ќе се најдат"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ќе ја уништам"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "поради"
+    },
+    {
+      "surface": "העשרה",
+      "gloss": "десетте"
+    }
+  ],
+  "timestamp": "2026-10-19T22:07:58.787617762Z",
+  "model": "glm-5.3"
+}

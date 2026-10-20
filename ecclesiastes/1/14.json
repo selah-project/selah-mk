@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "хевел",
+      "rationale": "הבל: „дампка\/тлеење“ — „ничност“ (KJV) vs „тливо“ („vanity“) vs „непостојаност“; се чува звукот"
+    },
+    {
+      "kind": "crux",
+      "subject": "гонитба по руах",
+      "rationale": "ורעות רוח: „пасење на ветер“ (морнете-gonitba по ветерот) vs „мачење на духот“; руах останува руах"
+    },
+    {
+      "kind": "mystery",
+      "subject": "сè е хевел",
+      "rationale": "заклучокот е намерно затворен, горчлив и непроценет"
+    }
+  ],
+  "translation": "Ги видов ⟨את⟩ сите дела што се направени под сонцето — и ете, сè е хевел и гонитба по руах.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "88885696a6c6f925e4a32cec718a1f9f8999b0bd8c499054ba50f2264dc505d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/1\/13-16.1792455663969.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ги видов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите дела"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "дела"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "што се направени"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцето"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ете"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "сè"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хевел"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "и гонитба"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "по руах"
+    }
+  ],
+  "timestamp": "2026-10-20T00:21:03.970814650Z",
+  "model": "glm-5.3"
+}

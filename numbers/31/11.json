@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שלל\/מלקוח",
+      "rationale": "два синонимни збора за плен: שלל е ограбен имот, מלקוח е она што е зедено како лов — некои преводи ги разликуваат ('плен'\/'лов'), други ги спојуваат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ловиште",
+      "rationale": "מלקוח од корен 'земам во устата\/фати' — букв. 'зфатено'; 'ловиште' е најблиску за еден збор"
+    }
+  ],
+  "translation": "И зедоа ⟨את⟩ сето ⟨се⟩ плен и ⟨את⟩ сито ⟨се⟩ ловиште — ⟨се⟩ во луѓе и ⟨се⟩ во добиток.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "97413b1bef2d5e25dc63fa516d842ecfae3472f959ba2a3d114a0451a96afb93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/31\/9-12.1792445182073.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "И зедоа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сето плен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "плен"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сито ловиште"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сито"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "ловиште"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "во луѓе"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "и во добиток"
+    }
+  ],
+  "timestamp": "2026-10-19T21:26:22.076485296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 8:27",
+  "book": "ezra",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "даричи",
+      "rationale": "אדרכן е персиската монета дарик; звукот е пренесен"
+    },
+    {
+      "kind": "measurement",
+      "subject": "броење",
+      "rationale": "дваесет пехари, илјада даричи, два сада"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מוצהב",
+      "rationale": "participle од צהב „да блеска златено“ — ретка форма, слика наместо придавка"
+    }
+  ],
+  "translation": "И пехари златни дваесет — за илјада даричи; и два сада од бронза блескава, добра, желени како злато.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0a91022af72fea19c8b6f85dd43a09b7596809dc2e5f8fa6f040b4cdee2cba31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezra\/8\/25-28.1792456470998.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפרי",
+      "gloss": "пехари"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златни"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "дваесет"
+    },
+    {
+      "surface": "לאדרכנים",
+      "gloss": "даричи"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјада"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "сада"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "од бронза"
+    },
+    {
+      "surface": "מוצהב",
+      "gloss": "блескава"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "חמודת",
+      "gloss": "желени"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "како злато"
+    }
+  ],
+  "timestamp": "2026-10-20T00:34:31.000235481Z",
+  "model": "glm-5.3"
+}

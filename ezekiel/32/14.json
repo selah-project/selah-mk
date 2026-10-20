@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 32:14",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "како масло",
+      "rationale": "Реките течат 'како масло' — слика на бавно, глатко, непоместено течение по заматените води; буквалната слика се чува."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשקיע",
+      "gloss_note": "",
+      "rationale": "KJВ 'ќе ги направам длабоки' наспроти ASV\/JPS 'ќе ги оставам да се смираат' — коренот שקע значи 'да потоне, да стивне'; задржано 'смирам'."
+    }
+  ],
+  "translation": "Тогаш ќе ги смирам водите нивни, и реките нивни како масло ќе ги водам — изрека на Адонај Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ea43647c18cfa8272363a7be921856d06ffb4585a8ec045dde12c071902d76fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/32\/13-16.1792451860323.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогаш"
+    },
+    {
+      "surface": "אשקיע",
+      "gloss": "ќе ги смирам"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "водите нивни"
+    },
+    {
+      "surface": "ונהרותם",
+      "gloss": "и реките нивни"
+    },
+    {
+      "surface": "כשמן",
+      "gloss": "како масло"
+    },
+    {
+      "surface": "אוליך",
+      "gloss": "ќе ги водам"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "на Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:17:40.323934526Z",
+  "model": "glm-5.3"
+}

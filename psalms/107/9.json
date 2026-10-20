@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душа",
+      "rationale": "נפש е душа-како-живот, жед и животна сила, не бесмртна душа"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השביע ... מלא",
+      "rationale": "паралелизам: наситување и полнење, дваполи синтетички паралелизам"
+    }
+  ],
+  "translation": "Зашто ја насити до ситост душата што жеднее, и душата гладна ја наполни со добро.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/107\/9-12.1792453868035.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "насити до ситост"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "што жеднее"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "и душата"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "гладна"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "наполни"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "со добро"
+    }
+  ],
+  "timestamp": "2026-10-19T23:51:08.036497683Z",
+  "model": "glm-5.3"
+}

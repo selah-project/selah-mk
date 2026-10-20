@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 15:28",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קרע",
+      "rationale": "истиот глагол 'раздра' од ст. 27 — раздраната наметка е слика на раздраното царство"
+    },
+    {
+      "kind": "you",
+      "subject": "Шемуел до Шаул",
+      "rationale": "директна изрека-пресуда упатена на Шаул"
+    }
+  ],
+  "translation": "И му рече Шемуел: Јахве ја раздра ⟨את⟩ царството на Јисраел од тебе денес, и ќе му го даде на другарот твој, што е подобар од тебе.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "73b0da0a52185a0dbc56080644a165955a2842b281fbe3342d099fe0d263981e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/15\/25-28.1792446858094.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "раздра"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "царството"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "царството"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "од тебе"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "и ќе го даде"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "на другарот твој"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "што е подобар"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "од тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T21:54:18.096158830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 20:23",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема глагол — 'Јахве меѓу мене и тебе'; македонскиот бара копула."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר\/דברנו",
+      "rationale": "корен д-б-р двапати: 'словото што го зборувавме'."
+    }
+  ],
+  "translation": "А за словото што го зборувавме јас и ти — еве, Јахве ⟨е⟩ меѓу мене и тебе засекогаш.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "44d0a9cf46c5b979c5dcc320239300c1e95cbd01ab1508d507f756f48339033c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/20\/21-24.1792446934605.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדבר",
+      "gloss": "а за словото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "зборувавме"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "и ти"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "меѓу мене"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "и тебе"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "векот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:55:34.607234293Z",
+  "model": "glm-5.3"
+}

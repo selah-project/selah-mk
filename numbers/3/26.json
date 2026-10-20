@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула во относната реченица"
+    },
+    {
+      "kind": "substitution",
+      "subject": "мишкан",
+      "rationale": "משכן се чува како мишкан, не 'шатор'"
+    }
+  ],
+  "translation": "и завесите на дворот, и ⟨את⟩ завесата на влезот на дворот, што ⟨е⟩ крај мишканот и крај жртвеникот наоколо, и ⟨את⟩ јажињата негови за сета негова служба.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "84f2e07f0bccd0e832e8cf4e66e20502cca1ce5c5aa32a0421718c10f881ed15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/3\/26-28.1792447724917.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "и завесите"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "на дворот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "завесата"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "завесата"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "на влезот"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "на дворот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "על",
+      "gloss": "крај"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "мишканот"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и крај"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жртвеникот"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "јажињата"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "јажињата негови"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "за сета"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "неговата служба"
+    }
+  ],
+  "timestamp": "2026-10-19T22:08:44.918714364Z",
+  "model": "glm-5.3"
+}

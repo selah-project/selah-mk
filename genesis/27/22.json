@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩ · ⟨се⟩",
+      "rationale": "хебрејскиот номинален исказ нема копула; македонскиот бара 'е' и 'се'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הקל קול \/ והידים ידי",
+      "rationale": "удвоен паралелизам 'глас — глас \/ раце — раце', изрека со баланс што македонскиот го чува само со повторување"
+    }
+  ],
+  "translation": "И се приближи Јааков кај Јицхак, татко му, и го допре, и рече: Гласот ⟨е⟩ глас на Јааков, а рацете ⟨се⟩ раце на Есав.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "eb0279a7e082447f48e5f5d6db8f98c25efd0ff7074f3714f7d24221ff715212",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/27\/21-24.1792442865043.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "И се приближи"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Јицхак"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "татко му"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "и го допре"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "Гласот"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "на Јааков"
+    },
+    {
+      "surface": "והידים",
+      "gloss": "а рацете"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "раце"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "на Есав"
+    }
+  ],
+  "timestamp": "2026-10-19T20:47:45.044727630Z",
+  "model": "glm-5.3"
+}

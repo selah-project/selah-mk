@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 12:12",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "measurement",
+      "subject": "должината на деновите",
+      "rationale": "долг живот изразен како мерење на денови"
+    }
+  ],
+  "translation": "Кај старите ⟨е⟩ мудроста, и во должината на деновите — разумот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ff3b4df072ff2e545b0f9cf9949b11f9eb09ee997cd08f68424c37cda5ca1a7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/12\/9-12.1792454987286.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בישישים",
+      "gloss": "кај старите"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудроста"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "и должината"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "на деновите"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "разумот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:47.287283682Z",
+  "model": "glm-5.3"
+}

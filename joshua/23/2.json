@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 23:2",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "влегов во дните",
+      "rationale": "באתי בימים — истиот идиом за старост како во 23:1"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јисраел",
+      "rationale": "Јехошуа се обраќа на старешините, поглаварите, судиите и началниците"
+    }
+  ],
+  "translation": "И повика Јехошуа целиот Јисраел, неговите старешини, неговите поглавари, неговите судии и неговите началници, и им рече: јас остарев, влегов во дните.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "8c2f9da2dec990b34a449ef06ca44ce1e4510c6ac9bb0075ecde4b755cf3c926",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/23\/1-4.1792446240555.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И повика"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "неговите старешини"
+    },
+    {
+      "surface": "ולראשיו",
+      "gloss": "неговите поглавари"
+    },
+    {
+      "surface": "ולשפטיו",
+      "gloss": "неговите судии"
+    },
+    {
+      "surface": "ולשטריו",
+      "gloss": "неговите началници"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и им рече"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "остарев"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "влегов"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "во дните"
+    }
+  ],
+  "timestamp": "2026-10-19T21:44:00.556439624Z",
+  "model": "glm-5.3"
+}

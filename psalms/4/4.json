@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חסיד",
+      "rationale": "хасид — 'побожен\/верен\/добродушен'; еден збор што ги носи и хесед-верноста"
+    },
+    {
+      "kind": "crux",
+      "subject": "הפלה יהוה חסיד לו",
+      "rationale": "'Јахве оддели верен за себе' — или 'Јахве покажа чудо со својот верен' (хифил од פלא)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסיד \/ חנני",
+      "rationale": "верноста (хесед) на верниот одговорена со смилувањето (хен) од стих 2 — поврзаност на корените"
+    }
+  ],
+  "translation": "И знајте дека Јахве оддели ⟨за себе⟩ верен — Јахве ќе чуе кога повикувам кон Него.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/4\/1-4.1792452964815.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "И знајте"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "оддели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "верен"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨за себе⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ќе чуе"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "кога повикувам"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "кон Него"
+    }
+  ],
+  "timestamp": "2026-10-19T23:36:04.816598846Z",
+  "model": "glm-5.3"
+}

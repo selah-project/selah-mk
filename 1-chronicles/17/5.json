@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Давид, преку Натан",
+      "rationale": "Јахве му објаснува на Давид зошто нема дом — се обраќа директно на него."
+    },
+    {
+      "kind": "substitution",
+      "subject": "мишкан",
+      "rationale": "משכן стои како мишкан (D2), не како „шатор“ — спроти אהל во истиот стих."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאהל אל אהל",
+      "rationale": "шатор-кон-шатор, повторување на истиот корен за движење од место до место."
+    }
+  ],
+  "translation": "Зашто не седев во дом од денот кога ги изведов ⟨את⟩ Јисраел до овој ден, туку бев од шатор кон шатор и од мишкан.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "51fa833a2ecc9da6910dc5d9e6b708edef6d6190a0053f1802801e339be2c13a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/17\/5-8.1792457109659.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "седев"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во дом"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дeнoт"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кога"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ги изведов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јисраел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "овој ден"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "и бев"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "од шатор"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатор"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "и од мишкан"
+    }
+  ],
+  "timestamp": "2026-10-20T00:45:09.660394555Z",
+  "model": "glm-5.3"
+}

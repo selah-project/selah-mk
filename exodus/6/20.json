@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "додато",
+      "rationale": "דדתо значи „тетка“ (сестра на татко или мајка); КЈВ вели само „тетка на татко му“"
+    },
+    {
+      "kind": "addition",
+      "subject": "беа",
+      "rationale": "Хебрејскиот нема сврзка во изреката за годините"
+    },
+    {
+      "kind": "measurement",
+      "subject": "137 години",
+      "rationale": "Бројките на години од животот на Амрам"
+    }
+  ],
+  "translation": "И Амрам ја зеде ⟨את⟩ Јохевед, тетка негова, за жена; и таа му роди ⟨את⟩ Ахарон и ⟨את⟩ Моше. А годините од животот на Амрам беа сто и триесет и седум години.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1abf366d484a58277f6a4a494e95d5c6a4d2cd9113bbe889d031d7a1e3008e3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/6\/17-20.1792443375864.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И зеде"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јохевед"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Јохевед"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "тетка негова"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жена"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахарон"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "А годините"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "од животот"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "на Амрам"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седум"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "и триесет"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "и сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    }
+  ],
+  "timestamp": "2026-10-19T20:56:15.872074215Z",
+  "model": "glm-5.3"
+}

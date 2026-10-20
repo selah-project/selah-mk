@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ја",
+      "rationale": "македонскиот бара директен објект да се маркира со заменка; хебрејскиот користи את"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויבן\/אשה",
+      "rationale": "глаголот בנה (гради) е игран со називот за жена — како жената да е „изградена“; во македонскиот се губи"
+    }
+  ],
+  "translation": "И Јахве Елохим ја изгради ⟨את⟩ реброто што го зеде од човекот за жена, и ја доведе при човекот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f140cd0774f5bb110bd3acd7ed3aec53bebda3d6b35a55e10dd6ed8102089fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/2\/21-24.1792442377691.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ја изгради"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "реброто"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "реброто"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "го зеде"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жена"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "ја доведе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човекот"
+    }
+  ],
+  "timestamp": "2026-10-19T20:39:37.692959328Z",
+  "model": "glm-5.3"
+}

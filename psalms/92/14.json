@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Пресадени",
+      "rationale": "שתולים е пасив од 'пресадува' — не сами никнати, туши пренесени од друго место"
+    },
+    {
+      "kind": "addition",
+      "subject": "на",
+      "rationale": "македонскиот бара конструкциски генитив каде хебрејскиот има сврзани форми"
+    }
+  ],
+  "translation": "Пресадени во домот на Јахве, во дворовите на Елохим наш ќе процветаат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e412f0d7e0e31b96a367318f0332ee2c9e539cbdac9c9c401c93314e702759b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/92\/13-16.1792453773900.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "Пресадени"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "во дворовите"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "на Елохим наш"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "ќе процветаат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:49:33.901289619Z",
+  "model": "glm-5.3"
+}

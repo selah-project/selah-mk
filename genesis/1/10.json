@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Хебрејскиот го нема глаголот 'да е' во 'дека добро'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "собиралиште",
+      "rationale": "מקוה е 'место на собирање' — истиот корен како 'нека се соберат' во 1:9"
+    }
+  ],
+  "translation": "И Елохим го нарече ⟨את⟩ сувиот простор земја, а собиралиштето на водите го нарече ⟨את⟩ мориња. И виде Елохим дека ⟨е⟩ добро.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "8f62476ec3a8ec90584dda549afd1ebb203cffe7948ea8641e427d4533d89a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/1\/9-12.1792442372837.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И нарече"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "сувиот простор"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "а собиралиштето"
+    },
+    {
+      "surface": "המים",
+      "gloss": "на водите"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "го нарече"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "мориња"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и виде"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    }
+  ],
+  "timestamp": "2026-10-19T20:39:32.839077269Z",
+  "model": "glm-5.3"
+}

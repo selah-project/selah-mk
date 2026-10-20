@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 24:13",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "דרכיו \/ בנתיבתיו",
+      "rationale": "Завршниците се од светлината; некои читаат „неговите“ — патиштата на Елохим"
+    },
+    {
+      "kind": "secret",
+      "subject": "бунтовници против светлината",
+      "rationale": "ониеприкажаните делуваат сокриени, непознатија"
+    }
+  ],
+  "translation": "Тие беа меѓу бунтовниците против светлината; не ги познаа нејзините патишта и не останаа на нејзините стеги.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7263251a955967b5f9041ffd62b461c2d111211aba38be181a028e45273ad068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/24\/13-16.1792455078939.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Тие"
+    },
+    {
+      "surface": "היו",
+      "gloss": "беа"
+    },
+    {
+      "surface": "במרדי",
+      "gloss": "меѓу бунтовниците"
+    },
+    {
+      "surface": "אור",
+      "gloss": "против светлината"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "ги познаа"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "нејзините патишта"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "останаа"
+    },
+    {
+      "surface": "בנתיבתיו",
+      "gloss": "на нејзините стеги"
+    }
+  ],
+  "timestamp": "2026-10-20T00:11:18.940028380Z",
+  "model": "glm-5.3"
+}

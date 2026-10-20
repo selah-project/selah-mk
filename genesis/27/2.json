@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הנה נא",
+      "gloss_": "еве сега",
+      "rationale": "Хебрејската формула „хине на“ е благ, молбен приступ, не само гледање."
+    },
+    {
+      "kind": "you",
+      "subject": "до Есав",
+      "rationale": "Јицхак продолжува да му се обраќа директно на синот."
+    }
+  ],
+  "translation": "И рече: еве сега остарев, не го знам денот на смртта своја.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "82fed4a047f332614c066d7b5855631bf5a5b08e1159aedbfb6f9c17ff7cfb54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/27\/1-4.1792442849042.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сега"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "остарев"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "го знам"
+    },
+    {
+      "surface": "יום",
+      "gloss": "денот"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "на смртта своја"
+    }
+  ],
+  "timestamp": "2026-10-19T20:47:29.043558948Z",
+  "model": "glm-5.3"
+}

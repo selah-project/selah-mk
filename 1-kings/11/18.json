@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 11:18",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמר לו",
+      "rationale": "Буквално „рече\/заповеда за него“ — традицијата додава објект: „му определи храна“ (KJV) наспроти буквата „заповеда леб за него“ (YLT)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Македонскиот бара член: ה- во בית е член, па „куќа“ носи македонски членуван облик."
+    }
+  ],
+  "translation": "И станаа од Мидијан и дојдоа во Паран, и зедоа луѓе со себе од Паран, и влегоа во Мицраим кај фараонот, царот на Мицраим; и тој му даде ⟨е⟩ куќа и леб — заповеда ⟨за него⟩ — и земја му даде.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "3163b2c09e3725e2b5055e959743d2c8ed86c75491d81d56ba6fedc3f1d06e5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/11\/17-20.1792448760138.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "станаа"
+    },
+    {
+      "surface": "ממדין",
+      "gloss": "од Мидијан"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "дојдоа"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Паран"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "и зедоа"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "луѓе"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "со себе"
+    },
+    {
+      "surface": "מפארן",
+      "gloss": "од Паран"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "влегоа"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараонот"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "на Мицраим"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "בית",
+      "gloss": "куќа"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "и леб"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "заповеда"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "и земја"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-10-19T22:26:00.140805073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 7:12",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "двор",
+      "rationale": "סביב е прилог „наоколу“, не именка; македонскиот бара именката од претходниот збор"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולחצר… ולאלם",
+      "rationale": "буквално „и за дворот… и за тремот“ — дали трите реда важат и за нив (како во LXX), или е споредбено „како дворот…“ (ASV\/JPS); задржано буквално"
+    },
+    {
+      "kind": "measurement",
+      "subject": "три реда",
+      "rationale": "броење на редови ѕидарство"
+    }
+  ],
+  "translation": "И големиот двор наоколку — три реда делкан камен и ред сечени кедри; така и за внатрешниот двор на домот на Јахве и за тремот на домот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "07631bd005a7b79f0fc7eaecf4aaf6ca85f1be55d43977b2bcabadcab4aef31a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/7\/9-12.1792448630457.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "и двор"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "големиот"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколу"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "реда"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "делкан камен"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "и ред"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "сечени"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "кедри"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "и за дворот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "внатрешниот"
+    },
+    {
+      "surface": "ולאלם",
+      "gloss": "и за тремот"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "на домот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:23:50.459276991Z",
+  "model": "glm-5.3"
+}

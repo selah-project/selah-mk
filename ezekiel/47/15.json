@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 47:15",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "measurement",
+      "subject": "опис на границата",
+      "rationale": "прецизно географско разграничување на северната страна"
+    }
+  ],
+  "translation": "И ова ⟨е⟩ границата на земјата: кон северната страна — од Големото море, патот на Хетлон, при доаѓањето во Цедад.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "48439d84446e1c13881ce01df2068fd4c7f2fc3d6191dab9016553683ff626ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/47\/13-16.1792452133924.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "И ова"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "кон страната"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "северната"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הים",
+      "gloss": "морето"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "Големото"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "патот"
+    },
+    {
+      "surface": "חתלן",
+      "gloss": "на Хетлон"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "при доаѓањето"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "во Цедад"
+    }
+  ],
+  "timestamp": "2026-10-19T23:22:13.925164050Z",
+  "model": "glm-5.3"
+}

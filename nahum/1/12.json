@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 1:12",
+  "book": "nahum",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שלמים",
+      "rationale": "'целини\/во полна сила' vs 'мирни\/спокојни' (Geneva: quiet) — корен š-l-m носи и двете."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וענתך ... אענך",
+      "rationale": "Повторување на коренот ענה — 'те измачував \/ нема да те измачувам', реторички контраст."
+    },
+    {
+      "kind": "you",
+      "subject": "до Јуда",
+      "rationale": "'те измачив' — директно обраќање кон народот што страдал под Асирците."
+    }
+  ],
+  "translation": "Така вели Јахве: Ако и се целини и толку многубројни, така ќе бидат затриени и ќе поминат. И те измачував — нема да те измачувам повеќе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1f480c5ba6659a2440d3d5ee3f5f26d23a326f449adf822fb2700c7a09b03399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nahum\/1\/9-12.1792452629399.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "целини"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "и така"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многубројни"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "така"
+    },
+    {
+      "surface": "נגזו",
+      "gloss": "ќе бидат затриени"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "и ќе поминат"
+    },
+    {
+      "surface": "וענתך",
+      "gloss": "и те измачував"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "да те измачувам"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    }
+  ],
+  "timestamp": "2026-10-19T23:30:29.400669051Z",
+  "model": "glm-5.3"
+}

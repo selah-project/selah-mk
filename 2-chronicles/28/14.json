@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 28,
+  "translation": "И вооружените ги оставија ⟨את⟩ заробениците и ⟨את⟩ пленот пред старешините и целиот собор.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5a0ee110e7de3c18ba65bf4d12abfed494a7ec61e0b99cb40d2db6f10eee1f1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/28\/13-16.1792457791472.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "И ги оставија"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "вооружените"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "заробениците"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "заробениците"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "пленот"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "пленот"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "старешините"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и целиот"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "собор"
+    }
+  ],
+  "timestamp": "2026-10-20T00:56:31.473590698Z",
+  "model": "glm-5.3"
+}

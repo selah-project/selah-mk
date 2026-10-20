@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 4:24",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "„освен ако“ — буквалната конструкција „зашто ако“ би била нејасна"
+    },
+    {
+      "kind": "you",
+      "subject": "до слугинчето",
+      "rationale": "директни заповеди кон момчето"
+    }
+  ],
+  "translation": "И таа го оседла магарицата и рече на своето момче: Води и оди; не ми задржувај јавање, освен ако ти речам.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "3083ce214782fcb3d5f8720f3433e478f1ba735abde62ab47982432ef55e4370",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/4\/21-24.1792449049769.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחבש",
+      "gloss": "оседла"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "магарицата"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "своето момче"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "води"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעצר",
+      "gloss": "задржувај"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "јавање"
+    },
+    {
+      "surface": "כי",
+      "gloss": "освен"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "речам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-10-19T22:30:49.771442401Z",
+  "model": "glm-5.3"
+}

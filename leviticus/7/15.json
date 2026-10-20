@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тода",
+      "rationale": "види 7:13; формата задржана наместо „благодарност“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "време",
+      "rationale": "стихот брои денови: денот на приносот vs. утрото — границата на јадење"
+    }
+  ],
+  "translation": "А месото од жртвата тода на неговите шеламим — во денот на неговиот корбан нека се изеде; да не остави ништо од него до утрината.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ee40c252b5a69349d095423e05c1c09237c3cd6474e56f9554e088188f23e542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/7\/13-16.1792444116449.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "А месото"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "од жртвата"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "тода"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "на неговите шеламим"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "на неговиот корбан"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "нека се изеде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "да не"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "остави"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од него"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "утрината"
+    }
+  ],
+  "timestamp": "2026-10-19T21:08:36.455223375Z",
+  "model": "glm-5.3"
+}

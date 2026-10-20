@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 17:10",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "македонскиот бара сврзник што хебрејскиот го нема"
+    },
+    {
+      "kind": "idiom",
+      "subject": "син на храброста",
+      "rationale": "בן חיל — хебрејска изразка за храбар воин, задржана дословно"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המס ימס",
+      "rationale": "инфinitив апсолутен — ист корен двапати за посеќување: 'растопувајќи ќе се растопи'"
+    },
+    {
+      "kind": "you",
+      "subject": "Хушај до Авшалом",
+      "rationale": "продолжение на советот упатен директно на Авшалом"
+    }
+  ],
+  "translation": "И тој, дури и синот на храброста, чие срце ⟨е⟩ како срцето на лав, сосема ќе се растопи; зашто целиот Јисраел знае дека татко ти е јунак и дека синови на храброста се оние што ⟨את⟩ се со него.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "f92f1e4f1f5ec5d0ab0abe1b74466ac2b7b34eaf000104e85feeb1716055037d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/17\/9-12.1792448324091.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "И тој"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дури и"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "на храброста"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чие"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срце"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "како срцето"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "на лав"
+    },
+    {
+      "surface": "המס",
+      "gloss": "ќе се растопи"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "сосема"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "јунак"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "татко ти"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синови"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "на храброста"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ се со него"
+    }
+  ],
+  "timestamp": "2026-10-19T22:18:44.093482574Z",
+  "model": "glm-5.3"
+}

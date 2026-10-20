@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 19:20",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ורב",
+      "rationale": "Буквално 'и голем\/велик' — KJV 'great one', други 'застапник\/бранител'; дали е втор епитет за спасителот или посебна личност?"
+    },
+    {
+      "kind": "substitution",
+      "subject": "од лицето на",
+      "rationale": "מפני буквално 'од лицето на' — македонскиот би рекол 'поради'."
+    }
+  ],
+  "translation": "И тоа ќе биде за знак и за сведоштво на Јахве Цеваот во земјата Мицраим; зашто кога ќе извикаат кон Јахве од лицето на угнетувачите, тој ќе им испрати спасител и велик и ќе ги избави.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2cc5f62d213d0192f810c16963c35cfd6ca1a008943ae3bf1acb3d3fc601a40e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/19\/17-20.1792449780340.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ѝ ќе биде"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "за знак"
+    },
+    {
+      "surface": "ולעד",
+      "gloss": "и за сведоштво"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "יצעקו",
+      "gloss": "ќе извикаат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "од лицето на"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "угнетувачите"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и ќе испрати"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "спасител"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "и велик"
+    },
+    {
+      "surface": "והצילם",
+      "gloss": "и ќе ги избави"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:00.346084220Z",
+  "model": "glm-5.3"
+}

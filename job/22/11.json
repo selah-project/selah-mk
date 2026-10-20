@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 22:11",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "или темнина, па не гледаш",
+      "rationale": "או може и прашално — „или пак темнината, дека не ја гледаш?“ — стихот продолжува во слика на поплава"
+    }
+  ],
+  "translation": "или темнина, па не гледаш, и изобилство од води те покрива.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d01e6bc1e0bab6467131e7d87dc627bb025d9f844b0fdaa1e6f12a788e0889c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/22\/9-12.1792455088369.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "темнина"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "гледаш"
+    },
+    {
+      "surface": "ושפעת",
+      "gloss": "и изобилство"
+    },
+    {
+      "surface": "מים",
+      "gloss": "од води"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "те покрива"
+    }
+  ],
+  "timestamp": "2026-10-20T00:11:28.370725167Z",
+  "model": "glm-5.3"
+}

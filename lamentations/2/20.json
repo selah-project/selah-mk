@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 2:20",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "טפחים",
+      "rationale": "'на градните\/должина на длан' — KJV чита 'долги колку шепа', JPS 'нишкани во раце'"
+    },
+    {
+      "kind": "you",
+      "subject": "кон Јахве",
+      "rationale": "директен апел кон Бога со прашања-протести"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרים\/עוללי",
+      "rationale": "плод и доенче едно до друго — иронична слика на 'плодот' на мајката"
+    }
+  ],
+  "translation": "Види, Јахве, и погледни кому си така постапил! Дали жените да јадат плодовите свои, децена доенчиња на градните? Дали во светилиштето на Адонај да бидат убиени свештеник и пророк?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "13cb371b29f9272157f600113cf8dea5bffccb387d8747d72a61f4b7426704ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/2\/17-20.1792455532077.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "види"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "והביטה",
+      "gloss": "и погледни"
+    },
+    {
+      "surface": "למי",
+      "gloss": "кому"
+    },
+    {
+      "surface": "עוללת",
+      "gloss": "си постапил"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אם",
+      "gloss": "дали"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "да јадат"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жените"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "плодовите"
+    },
+    {
+      "surface": "עללי",
+      "gloss": "децена доенчиња"
+    },
+    {
+      "surface": "טפחים",
+      "gloss": "на градните"
+    },
+    {
+      "surface": "אם",
+      "gloss": "дали"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "да бидат убиени"
+    },
+    {
+      "surface": "במקדש",
+      "gloss": "во светилиштето"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "и пророк"
+    }
+  ],
+  "timestamp": "2026-10-20T00:18:52.079343960Z",
+  "model": "glm-5.3"
+}

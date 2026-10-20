@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 26:6",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתי",
+      "rationale": "овде את е предлогот 'со' (H854), а не објектниот маркер — 'со мене', не ⟨את⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירד\/ארד",
+      "rationale": "прашањето 'кој ќе слезе' и одговорот 'јас ќе слезам' го повторуваат истиот глагол, рамка на повик."
+    }
+  ],
+  "translation": "И одговори Давид и рече на Ахимелех Хетејецот и на Авишај, синот на Цруја, братот на Јоав, велејќи: Кој ќе слезе ⟨את⟩ со мене кај Шаул, во логорот? И рече Авишај: Јас ќе слезам со тебе.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "405a00f1594c8f0dfeaebd013963d32d41e55d75593ad44d8a0998298a9cb480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/26\/5-8.1792447978656.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и одговори"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ахимелех"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Хетејецот"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Авишај"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "на Цруја"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "братот"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "на Јоав"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ќе слезе"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ со мене"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логорот"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Авишај"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "ќе слезам"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "со тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T22:12:58.661260578Z",
+  "model": "glm-5.3"
+}

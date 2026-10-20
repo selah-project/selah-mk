@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 13:3",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "копула што хебрејскиот ја нема"
+    },
+    {
+      "kind": "crux",
+      "subject": "חכם מאד",
+      "rationale": "'многу мудар' (двестрано) — традициите го нијансираат: 'лукав\/итрит' (KJV 'subtil') vs 'мудар' (YLТ); контекстот на заговорот легитимира темна нијанса"
+    }
+  ],
+  "translation": "А Амнон имаше пријател, и неговото име ⟨е⟩ Јонадав, син на Шимаа, братот на Давид; и Јонадав беше човек многу мудар.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c7cfb28fc23da02c8c2ef9357ed0794ee0526f07f6ba8ad99899e3dde8994a3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/13\/1-4.1792448272173.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאמנון",
+      "gloss": "А Амнон"
+    },
+    {
+      "surface": "רע",
+      "gloss": "пријател"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "и неговото име"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "Јонадав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "на Шимаа"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "братот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "ויונדב",
+      "gloss": "и Јонадав"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудар"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:52.176266016Z",
+  "model": "glm-5.3"
+}

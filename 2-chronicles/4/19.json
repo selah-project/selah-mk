@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 4:19",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨беа⟩",
+      "rationale": "Хебрејскиот го испушта помошниот глагол во релативната реченица; македонскиот бара 'беа'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "лебот на лицата",
+      "rationale": "לחם הפנים е буквално 'леб на лицето(то)' — традиционално 'показен леб', ние го чуваме буквалниот облик."
+    }
+  ],
+  "translation": "И Шломо ги направи ⟨את⟩ сите предмети што ⟨беа⟩ во домот на Елохим, и ⟨את⟩ жртвеникот од злато, и ⟨את⟩ масите, и врз нив лебот на лицата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5acb737a7fc1abf950578a72ce9356f2b0ceb64e0951c3547bac25653c5fff75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/4\/17-20.1792457384630.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И направи"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите предмети"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "предмети"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "жртвеникот"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жртвеникот"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "од злато"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "масите"
+    },
+    {
+      "surface": "השלחנות",
+      "gloss": "масите"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "и врз нив"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "на лицата"
+    }
+  ],
+  "timestamp": "2026-10-20T00:49:44.631500383Z",
+  "model": "glm-5.3"
+}

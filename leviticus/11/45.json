@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сум",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара"
+    },
+    {
+      "kind": "substitution",
+      "subject": "изведов",
+      "rationale": "המעלה е букв. 'кој качува\/изнесува нагоре', не само 'изведува'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדשים\/קדוש",
+      "rationale": "коренот קדש се повторува: 'свети — свет', повторувањето останува"
+    }
+  ],
+  "translation": "Зашто Јас сум Јахве, кој ве изведов ⟨את⟩ од земјата Мицраим, за да ви бидам Елохим; и ќе бидете свети, зашто Јас сум свет.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "46e8fb1634a38370d5860948c5e6a0e38c93cae41d578ca6c6dcd58e1901c07c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/11\/45-47.1792444160728.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "кој ве изведов"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "להית",
+      "gloss": "за да бидам"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "и ќе бидете"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "свети"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "свет"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    }
+  ],
+  "timestamp": "2026-10-19T21:09:20.730593701Z",
+  "model": "glm-5.3"
+}

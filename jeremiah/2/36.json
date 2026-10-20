@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 2:36",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "скиташ",
+      "rationale": "תזלי од אזל — да одиш\/скиташ; YLT чита „многу ниска си“ (מאוד זולמה), повеќето: „многу скиташ насекаде“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בוש\/בשת",
+      "rationale": "коренот „срам“ се повторува во двата дела на стихот — паралела Мицраим\/Ашур."
+    }
+  ],
+  "translation": "Колку многу скиташ за да го смениш ⟨את⟩ патот свој — и од Мицраим ќе се посрамиш, како што се посрами од Ашур.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "281c7d884e89a2049df56feed76be65f1193cc8e9225dcd7ef3019887ee0a67f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/2\/33-36.1792450397474.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Колку"
+    },
+    {
+      "surface": "תזלי",
+      "gloss": "скиташ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    },
+    {
+      "surface": "לשנות",
+      "gloss": "да го смениш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "патот свој"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "патот свој"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "од Мицраим"
+    },
+    {
+      "surface": "תבושי",
+      "gloss": "ќе се посрамиш"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "се посрами"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "од Ашур"
+    }
+  ],
+  "timestamp": "2026-10-19T22:53:17.475434957Z",
+  "model": "glm-5.3"
+}

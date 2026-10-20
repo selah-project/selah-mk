@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 36:12",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "да им одземаш деца",
+      "rationale": "лишкел — да ги правиш бездетни\/да им ги одземеш, букв. 'побацивање'"
+    },
+    {
+      "kind": "you",
+      "subject": "планините на Јисраел",
+      "rationale": "земјата\/планините се тие-објект во еднина"
+    }
+  ],
+  "translation": "и Ќе доведам луѓе да одат по вас, ⟨את⟩ народот Мој Јисраел, и ќе те наследат, и ти ќе им бидеш за наследство, и нема да им одземаш ⟨повеќе⟩ деца.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "64e9d588819c13e4e36c242a7a78a2b9015ff822bbffaaa0184400878c1def50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/36\/9-12.1792451862406.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והולכתי",
+      "gloss": "и Ќе доведам да одат"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "по вас"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "луѓе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народот Мој Јисраел"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народот Мој"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "וירשוך",
+      "gloss": "и ќе те наследат"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "и ќе бидеш"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "за наследство"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "да одземаш"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "לשכלם",
+      "gloss": "деца (да ги осиромашиш)"
+    }
+  ],
+  "timestamp": "2026-10-19T23:17:42.407183688Z",
+  "model": "glm-5.3"
+}

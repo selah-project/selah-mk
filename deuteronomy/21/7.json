@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ја",
+      "rationale": "македонскиот бара клитички предметен заменски објект кај 'пролеа'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "оваа",
+      "rationale": "הזה е машки род (се согласува со דם, машки), македонската 'крв' е женска — родот не може да се пренесе."
+    }
+  ],
+  "translation": "И ќе одговорат и ќе кажат: Рацете наши не ја пролеа ⟨את⟩ оваа крв, и очите наши не видоа.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5100172d8d3cc7c5d7dfebd1ddd1efec1ff7763e7a64d8b22bbed8da8075b778",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/21\/5-8.1792445616124.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "И ќе одговорат"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "и ќе кажат"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "Рацете наши"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ја пролеа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оваа крв"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "крв"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "и очите наши"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "видоа"
+    }
+  ],
+  "timestamp": "2026-10-19T21:33:36.125616906Z",
+  "model": "glm-5.3"
+}

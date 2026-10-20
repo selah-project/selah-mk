@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душа",
+      "rationale": "нешфо е здив\/живот-сила, не бесмртна душа"
+    },
+    {
+      "kind": "alternative",
+      "subject": "го бараат неговиот живот",
+      "rationale": "може и „ги бараат душите“ — чии бараат, не е јасно во хебрејскиот"
+    }
+  ],
+  "translation": "Крвожедни луѓе го мразат непоражниот, а правите бараат ⟨спасение⟩ за неговата душа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/29\/9-12.1792454750999.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "крвожедни луѓе"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "крв"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "го мразат"
+    },
+    {
+      "surface": "תם",
+      "gloss": "непоражен"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "правите"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "бараат"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "неговата душа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:05:51.000335452Z",
+  "model": "glm-5.3"
+}

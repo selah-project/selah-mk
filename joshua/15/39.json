@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 15,
+  "translation": "Лакиш и Воцкат и Еглон,",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c8d989f5f52383d3bf42387a3d0d688c471e4f53d79af103b68ceed6e9685342",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/15\/37-40.1792446136415.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "Лакиш"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "и Воцкат"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "и Еглон"
+    }
+  ],
+  "timestamp": "2026-10-19T21:42:16.415752609Z",
+  "model": "glm-5.3"
+}

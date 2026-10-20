@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 10:12",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אפקד",
+      "rationale": "פקד значи и 'посетува' и 'казнува\/побарува сметка' — преводите се делат тука."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יבצע",
+      "gloss-rationale-null": null,
+      "rationale": "Буквално 'да отсече\/прекине' — KJV 'performed', тука 'изврши'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "п Lord",
+      "rationale": "אדני за Бога стои како Адонај, не Господ."
+    }
+  ],
+  "translation": "И ќе биде: кога Адонај ќе го изврши ⟨את⟩ целиот свој дело на планината Цион и во Јерушалаим, тогаш ќе го посетам плодот на надуеноста на срцето на царот на Ашур и на славата на возвишеноста на очите негови.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "ba84caccd6ce4c747172d47641badbd41cc89c70f3e5e5012007dab28397f0f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/10\/9-12.1792449643066.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И ќе биде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "יבצע",
+      "gloss": "ќе го изврши"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "целиот"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "својот дело"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на планината"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "и во Јерушалаим"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "ќе го посетам"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "плодот"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "на надуеноста"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "на срцето"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "на Ашур"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "славата"
+    },
+    {
+      "surface": "רום",
+      "gloss": "на возвишеноста"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "на очите негови"
+    }
+  ],
+  "timestamp": "2026-10-19T22:40:43.068878996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 24:11",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שורתם",
+      "rationale": "„нивните редови (лозици)“ (JPS) наспроти „ѕидовите на тие луѓе“ (KJV) — שו׼ר значи и ред и ѕид."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот нема сврзен глагол — „и жедни“ стои само."
+    }
+  ],
+  "translation": "Помеѓу нивните ѕидови масло цедаат, лозовите кацги газат — и жедни ⟨се⟩.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "162591c073d69330d3c9b4a8b6f31d674c9395e593d4f8faab5139bd4a991159",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/24\/9-12.1792455109755.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בין",
+      "gloss": "помеѓу"
+    },
+    {
+      "surface": "שורתם",
+      "gloss": "нивните ѕидови"
+    },
+    {
+      "surface": "יצהירו",
+      "gloss": "масло цедаат"
+    },
+    {
+      "surface": "יקבים",
+      "gloss": "лозовите кацги"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "газат"
+    },
+    {
+      "surface": "ויצמאו",
+      "gloss": "и жедни"
+    }
+  ],
+  "timestamp": "2026-10-20T00:11:49.756499205Z",
+  "model": "glm-5.3"
+}

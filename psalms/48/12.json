@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "нека",
+      "rationale": "јусив изразен како македонски императив-пожелба."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישמח\/תגלנה",
+      "rationale": "двоен глагол за радост — радува\/ликува, паралелизам задржан."
+    }
+  ],
+  "translation": "Нека се радува планината Цион, нека ликуваат ќерките на Јеуда — поради судовите твои!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7520bed6636c57f2bb25c0bab25bf7f36d6f75cd794f2c7a01afa28da7b3a100",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/48\/9-12.1792453329244.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "нека се радува"
+    },
+    {
+      "surface": "הר",
+      "gloss": "планината"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "нека ликуваат"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ќерките"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јеуда"
+    },
+    {
+      "surface": "למען",
+      "gloss": "поради"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "судовите твои"
+    }
+  ],
+  "timestamp": "2026-10-19T23:42:09.245609868Z",
+  "model": "glm-5.3"
+}

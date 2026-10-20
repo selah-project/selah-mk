@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "крвниот откупител",
+      "rationale": "גאל הדם: „откупител\/закрилник на крвта“ (роднин-откупувач) наспроти традиционалното „одмстител на крвта“"
+    }
+  ],
+  "translation": "тогаш старешините на неговиот град ќе пратат и ќе го земат ⟨את⟩ од таму, и ќе го предадат ⟨את⟩ во рака на крвниот откупител — и тој нека умре.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "4531df5ee5afc40666663fe120caa595057588c3bb70abc79d9329dd61003470",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/19\/9-12.1792445602851.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "ќе пратат"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старешините"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "на неговиот град"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "и ќе го земат"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "משם",
+      "gloss": "од таму"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "и ќе го предадат"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "во рака"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "откупител"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "крвниот"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "и тој нека умре"
+    }
+  ],
+  "timestamp": "2026-10-19T21:33:22.852929596Z",
+  "model": "glm-5.3"
+}

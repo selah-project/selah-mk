@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 16:15",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "блудеше",
+      "rationale": "זנה е блуд\/прељуба како метафора за идолопоклонство, не буквален сексулен чин"
+    },
+    {
+      "kind": "crux",
+      "subject": "לו יהי",
+      "rationale": "'негово беше' (KJV) наспроти 'стана негова' — кратка предикативна clauses без именка"
+    }
+  ],
+  "translation": "Но ти се надеваше на убавината своја, и блудеше поради името свое, и го разле ⟨את⟩ блудството свое врз секој што минуваше — нему му беше.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8f6f64e27475b261e727ab50998d4addc71408d1c55ad1c011a120509953862e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/16\/13-16.1792451589964.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבטחי",
+      "gloss": "се надеваше"
+    },
+    {
+      "surface": "ביפיך",
+      "gloss": "на убавината своја"
+    },
+    {
+      "surface": "ותזני",
+      "gloss": "и блудеше"
+    },
+    {
+      "surface": "על",
+      "gloss": "поради"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "името свое"
+    },
+    {
+      "surface": "ותשפכי",
+      "gloss": "и разле"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "блудството свое"
+    },
+    {
+      "surface": "תזנותיך",
+      "gloss": "блудството свое"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секи"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "што минуваше"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "му беше"
+    }
+  ],
+  "timestamp": "2026-10-19T23:13:09.965297007Z",
+  "model": "glm-5.3"
+}

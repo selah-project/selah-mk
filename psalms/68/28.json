@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 68:28",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רגמתם",
+      "rationale": "חапax: букв. 'нивната купа камења' → фигуративно 'нивната толпа\/дружина' (KJV 'their council', YLT 'their defence')."
+    },
+    {
+      "kind": "crux",
+      "subject": "רדם",
+      "rationale": "'ги потчинува\/владее над нив' — ко владее: Венијамин над нив, или 'нивен владетел' како титула."
+    },
+    {
+      "kind": "measurement",
+      "subject": "список на племиња",
+      "rationale": "Именување на племиња во поворка: Венијамин, Јехуда, Зевулун, Нефтали — табелациона структура."
+    }
+  ],
+  "translation": "Таму ⟨е⟩ Венијамин, најмалиот, што владее со нив, кнезовите на Јехуда ⟨како⟩ нивната камена-купa, кнезовите на Зевулун, кнезовите на Нефтали.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "878aa51ab572d46cceb596ce03d50db2dcd9b38baaf888bc7f3c13a3af19e050",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/68\/25-28.1792453467436.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Венијамин"
+    },
+    {
+      "surface": "צעיר",
+      "gloss": "најмалиот"
+    },
+    {
+      "surface": "רדם",
+      "gloss": "што владее со нив"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "кнезовите"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јехуда"
+    },
+    {
+      "surface": "רגמתם",
+      "gloss": "нивната камена-купa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "кнезовите"
+    },
+    {
+      "surface": "זבלון",
+      "gloss": "на Зевулун"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "кнезовите"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "на Нефтали"
+    }
+  ],
+  "timestamp": "2026-10-19T23:44:27.437969354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 6:2",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "лכה",
+      "rationale": "Покана «Ела» — лажен повик наменет да го изведе Немие надвор од Ерусалим."
+    },
+    {
+      "kind": "crux",
+      "subject": "בכפירים",
+      "rationale": "Истиот збор може да значи «села» или «млади лавови»; сите преводи земаат «села»."
+    }
+  ],
+  "translation": "тогаш Санвалат и Гешем ми пратиле порака: Ела да се собориме заедно во селата, во долината Оно. А тие мислеле да ми направат зло.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "427da38ace9d10f0a00ec35036e2d7748a9cfb82c3cbd834ea4213686dc582f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/6\/1-4.1792456613757.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "пратиле"
+    },
+    {
+      "surface": "סנבלט",
+      "gloss": "Санвалат"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "и Гешем"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "порака"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "ונועדה",
+      "gloss": "да се собориме"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заедно"
+    },
+    {
+      "surface": "בכפירים",
+      "gloss": "во селата"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "во долината"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Оно"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "А тие"
+    },
+    {
+      "surface": "חשבים",
+      "gloss": "мислеле"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да направат"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "раעה",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-10-20T00:36:53.758730640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "копула додадена на македонски"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמר",
+      "rationale": "„палма“ е исто и женско име Тамар — сенка на личноста зад сликата"
+    }
+  ],
+  "translation": "Оваа твоја висина ⟨е⟩ налик на палма, а градите твои — на гроздови.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a181a055b19fd07dfd587e8d08275d42b2f1ad3a7756503aa6fd1450fcc04779",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/song-of-songs\/7\/5-8.1792455450634.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "твојата висина"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "налик"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "на палма"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "а градите твои"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "на гроздови"
+    }
+  ],
+  "timestamp": "2026-10-20T00:17:30.636229740Z",
+  "model": "glm-5.3"
+}

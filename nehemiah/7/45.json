@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "nehemiah 7:45",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "список на портари",
+      "rationale": "Попис: родови и бројка сто триесет и осум."
+    }
+  ],
+  "translation": "Портарите: синовите на Шалум, синовите на Атер, синовите на Талмон, синовите на Акув, синовите на Хатита, синовите на Шовај — сто триесет и осум.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "372c242284b5b8cc60ffdf0eea65cb26425189ad3fd89610a1adf077f896210e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/7\/45-48.1792456577309.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השערים",
+      "gloss": "Портарите"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите на"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шалум"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите на"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "Атер"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите на"
+    },
+    {
+      "surface": "טלמן",
+      "gloss": "Талмон"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите на"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "Акув"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите на"
+    },
+    {
+      "surface": "חטיטא",
+      "gloss": "Хатита"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите на"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "Шовај"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "триесет"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и осум"
+    }
+  ],
+  "timestamp": "2026-10-20T00:36:17.309762966Z",
+  "model": "glm-5.3"
+}

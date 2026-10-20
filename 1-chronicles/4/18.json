@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 4:18",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ја",
+      "rationale": "македонскиот бара директен објект кај 'ја зеде'; хебрејскиот има само לקח"
+    },
+    {
+      "kind": "crux",
+      "subject": "היהדיה",
+      "rationale": "имајка или опишна придавка: 'Јехудија' како лично име (JPS) или 'Еврејката' (ASV)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "родослов",
+      "rationale": "список на имиња и места во родословот"
+    }
+  ],
+  "translation": "А неговата жена Јехудија роди ⟨את⟩ Јеред, таткото на Гедор, и ⟨את⟩ Хевер, таткото на Сохо, и ⟨את⟩ Јекутиел, таткото на Заноах; а тие се синовите на Битија, ќерката на Фараон, што ја зеде Меред.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bf9ec42565c2bca2dc01a8495ff0520ed3cc10058d8e7b839bbb2c52757ed2a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/4\/17-20.1792456849096.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשתו",
+      "gloss": "а неговата жена"
+    },
+    {
+      "surface": "היהדיה",
+      "gloss": "Јехудија"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јеред"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Јеред"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "таткото"
+    },
+    {
+      "surface": "גדור",
+      "gloss": "на Гедор"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Хевер"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "Хевер"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "таткото"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "на Сохо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Јекутиел"
+    },
+    {
+      "surface": "יקותיאל",
+      "gloss": "Јекутиел"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "таткото"
+    },
+    {
+      "surface": "זנוח",
+      "gloss": "на Заноах"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "а тие"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "בתיה",
+      "gloss": "на Битија"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерката"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "на Фараон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ја зеде"
+    },
+    {
+      "surface": "מרד",
+      "gloss": "Меред"
+    }
+  ],
+  "timestamp": "2026-10-20T00:40:49.097254015Z",
+  "model": "glm-5.3"
+}

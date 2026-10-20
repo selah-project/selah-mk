@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 15:18",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "אתכם е член од лична наставка што македонскиот веќе го носи во „ве водам“; оставено како маркер"
+    },
+    {
+      "kind": "addition",
+      "subject": "црта",
+      "rationale": "шпиц-цртата на крајот ја означува недовршената реч од стихот 19"
+    }
+  ],
+  "translation": "Зборувај на синовите Јисраелови и кажи им: кога ќе влезете во земјата во која јас ве водам таму —",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "54afb633c34b273555b0df7fba7fdc900f3154b8c8136d9315c627e9b3017a8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/15\/17-20.1792444883107.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "зборувај"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и кажи"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "кога ќе влезете"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "во која"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ве водам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "таму"
+    }
+  ],
+  "timestamp": "2026-10-19T21:21:23.108646295Z",
+  "model": "glm-5.3"
+}

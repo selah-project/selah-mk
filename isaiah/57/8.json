@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 57:8",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מאתי",
+      "rationale": "'покрај\/со Мене' (како KJV 'than me', JPS 'from Me') наспроти 'од Мене се оддалечи'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יד חזית",
+      "rationale": "'рака\/место виде' — рака што покажува, франци(gen) 'blazon', или (JPS\/BSB) 'нагота што ја виде'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "спомен",
+      "rationale": "זכרון е спомен-обележја\/симбол на идолот зад вратата, не само споменување"
+    }
+  ],
+  "translation": "И зад вратата и дверникот си го постави споменот свој; зашто покрај Мене ⟨את⟩ се откри и се качи, ја прошири постелата своја и си склучи ⟨со⟩ нив, ја сакаше нивната постела — рака виде.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ec57c862093da13194b14939a24bdddb41423c6e32fa124d1cb90d28c6381a61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/57\/5-8.1792450254098.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ו אחר",
+      "gloss": "И зад"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "вратата"
+    },
+    {
+      "surface": "והמזוזה",
+      "gloss": "и дверникот"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "постави"
+    },
+    {
+      "surface": "זכרונך",
+      "gloss": "споменот свој"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ покрај Мене"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "се откри"
+    },
+    {
+      "surface": "ותעלי",
+      "gloss": "и се качи"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "ја прошири"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "постелата своја"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "и склучи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "си"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "⟨со⟩ нив"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "сакаше"
+    },
+    {
+      "surface": "משכבם",
+      "gloss": "нивната постела"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рака"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "виде"
+    }
+  ],
+  "timestamp": "2026-10-19T22:50:54.099630299Z",
+  "model": "glm-5.3"
+}

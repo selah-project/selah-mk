@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "раздра алиштата",
+      "rationale": "кинење облека — хебрејски израз на жалост, задржан буквално"
+    }
+  ],
+  "translation": "И стана царот, и ги раздра ⟨את⟩ алиштата свои, и легна на земја; а сите слуги негови стојат со раздрано алиште.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "0180d278aa5560e49091255afe70bfa8a6196177308f6a8f533637146dd26da2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/13\/29-32.1792448266129.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "и раздра"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алиштата свои"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "алиштата свои"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "и легна"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "на земја"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "а сите"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "слуги негови"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "стојат"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "со раздрано"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "алиште"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:46.130836573Z",
+  "model": "glm-5.3"
+}

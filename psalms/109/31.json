@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפש е повеќе живот\/животен здив отколку душа како посебен дел"
+    },
+    {
+      "kind": "alternative",
+      "subject": "глаголски вид",
+      "rationale": "יעמד може и футуристички: „ќе застане“ — избрано сегашно како кај ylt\/jps"
+    }
+  ],
+  "translation": "Зашто Тој стои на десната страна на сиромавиот, за да го спаси од оние што го осудуваат ⟨се⟩ душата негова.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c42f5d874f9618809df20fc2570b4cb2ddf2e164b7ffbf1999091ddcfb74a7bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/109\/29-31.1792453915924.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "стои"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "на десната страна"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "на сиромавиот"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "за да го спаси"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "од оние што го осудуваат"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душата негова"
+    }
+  ],
+  "timestamp": "2026-10-19T23:51:55.925496209Z",
+  "model": "glm-5.3"
+}

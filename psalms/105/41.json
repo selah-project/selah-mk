@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨како⟩",
+      "rationale": "хебрејскиот вели само „одеа низ сувите места — река“; именката стои како ap positional уточнување без сврзник"
+    }
+  ],
+  "translation": "Ја отвори ⟨ה⟩ карпата и потечеа води; одеа низ сувите места ⟨како⟩ река.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3bcf3e91c9d8187e15f2e68267f20a63cb29afad7a7819666188127303ab1450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/105\/41-44.1792453856457.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ја отвори"
+    },
+    {
+      "surface": "צור",
+      "gloss": "карпата"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "и потечеа"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "одеа"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "низ сувите места"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "река"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:56.458329862Z",
+  "model": "glm-5.3"
+}

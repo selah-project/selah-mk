@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 31:9",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "тој е",
+      "rationale": "хебрејскиот има само הוא (тој), македонскиот бара копула пред прирокот"
+    },
+    {
+      "kind": "alternative",
+      "subject": "потоците на вода",
+      "rationale": "нחל е зимски поток — 'потоци' ја задржува сликата на вода што тече"
+    }
+  ],
+  "translation": "Со плач ќе дојдат, и со молби ќе ги водам; ќе ги одведам до потоците на вода, по прав пат — нема да се спотаат во него; зашто бев татко на Јисраел, а Ефраим — тој е мојот првенец.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b8e0679aad7cc720094ac663520bb0ba4c6edd75efcdf25253b5cdd31e8a7e7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/31\/9-12.1792450840342.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבכי",
+      "gloss": "Со плач"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ќе дојдат"
+    },
+    {
+      "surface": "ובתחנונים",
+      "gloss": "и со молби"
+    },
+    {
+      "surface": "אובילם",
+      "gloss": "ќе ги водам"
+    },
+    {
+      "surface": "אוליכם",
+      "gloss": "ќе ги одведам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "потоците"
+    },
+    {
+      "surface": "מים",
+      "gloss": "на вода"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "по пат"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прав"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "да се спотаат"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во него"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "бев"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "татко на Јисраел"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "(татко)"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "а Ефраим"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "мојот првенец"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој е"
+    }
+  ],
+  "timestamp": "2026-10-19T23:00:40.343354775Z",
+  "model": "glm-5.3"
+}

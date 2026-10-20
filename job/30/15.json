@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 30:15",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נדבתי",
+      "rationale": "„родбинска чест\/достоинство” — преведувачите се делат: чест, изобилство, добрина; коренот носи благородност и дарежливост."
+    },
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "רוח е руах — еден збор за ветер\/дух\/здив — задржан по звук."
+    }
+  ],
+  "translation": "Се извртеа врз мене ужасите, како руах ја гони мојата родбинска чест, и како облак отмина спасението мое.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cc2300392ea2cf92f3b6de8b78930383b51be9fdd5d0aa53af54fcd2212ec3e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/30\/13-16.1792455198760.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההפך",
+      "gloss": "се извртеа"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "врз мене"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "ужасите"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "гони"
+    },
+    {
+      "surface": "כרוח",
+      "gloss": "како руах"
+    },
+    {
+      "surface": "נדבתי",
+      "gloss": "роднинската чест"
+    },
+    {
+      "surface": "וכעב",
+      "gloss": "и како облак"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "отмина"
+    },
+    {
+      "surface": "ישעתי",
+      "gloss": "спасението мое"
+    }
+  ],
+  "timestamp": "2026-10-20T00:13:18.761056496Z",
+  "model": "glm-5.3"
+}

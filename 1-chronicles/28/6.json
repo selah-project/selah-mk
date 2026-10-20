@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 28:6",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לבן \/ לאב",
+      "rationale": "хебрејскиот пар син\/татко (левен\/леав) — повторена структура л+X, делумно изгубена во македонскиот"
+    }
+  ],
+  "translation": "И ми рече: Шломо, синот твој, тој ќе го изгради домот мој и дворовите мои; зашто го избрав него за себе за син, и јас ќе му бидам за татко.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "17a9fcbba743b6b5adb86e203301d38c76473de293f55630950e1acb0a214da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/28\/6-7.1792458555281.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и ми рече"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "синот твој"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ќе го изгради"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "домот мој"
+    },
+    {
+      "surface": "וחצרותי",
+      "gloss": "и дворовите мои"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "го избрав"
+    },
+    {
+      "surface": "בו",
+      "gloss": "него"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за себе"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "за син"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "и јас"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ќе бидам"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "за татко"
+    }
+  ],
+  "timestamp": "2026-10-20T01:09:15.282439518Z",
+  "model": "glm-5.3"
+}

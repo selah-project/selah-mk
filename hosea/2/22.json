@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Го",
+      "rationale": "македонскиот бара случаен додаток кај преодниот глагол 'познаваш'"
+    }
+  ],
+  "translation": "и Јас ќе те свршам за Себе во верност, и ти ќе Го познаваш ⟨את⟩ Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e6dda247f4e4243f67e74f08b8034626270373a4bfb3c17f5dbe9231283cd51f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/hosea\/2\/21-24.1792452198127.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "ѝ ќе те свршам"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за Себе"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "во верност"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ѝ ќе познаваш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:23:18.127791715Z",
+  "model": "glm-5.3"
+}

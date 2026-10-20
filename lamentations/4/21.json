@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 4:21",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ќе помине чаша",
+      "rationale": "כוס תעבר — чашата како судбина што поминува; буквално задржано"
+    },
+    {
+      "kind": "you",
+      "subject": "ќерко Едомска",
+      "rationale": "директен обраќај со иронија — заповед за радост што носи пресуда"
+    },
+    {
+      "kind": "crux",
+      "subject": "и ќе се соблечеш",
+      "rationale": "ותתערי: соблекување (KJV\/JPS) vs повраќање (Geneva) — коренот значи „оголи“"
+    }
+  ],
+  "translation": "Радуј се и весели, ќерко Едомска, која седиш во земјата Уц — и врз тебе ќе помине чаша; ќе се опиеш и ќе ⟨се⟩ соблечеш.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bfba896e5cda7c8034bf50a360e35a9221d3065d9774fb15589c885c2bb9ab82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/4\/21-22.1792455607371.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שישי",
+      "gloss": "Радуј се"
+    },
+    {
+      "surface": "ושמחי",
+      "gloss": "и весели"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерко"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едомска"
+    },
+    {
+      "surface": "יושבתי",
+      "gloss": "која седиш"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "врз тебе"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ќе помине"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "чаша"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "ќе се опиеш"
+    },
+    {
+      "surface": "ותתערי",
+      "gloss": "и ќе се соблечеш"
+    }
+  ],
+  "timestamp": "2026-10-20T00:20:07.371940489Z",
+  "model": "glm-5.3"
+}

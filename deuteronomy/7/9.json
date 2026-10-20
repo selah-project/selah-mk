@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 7:9",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула во оваа именска реченица"
+    },
+    {
+      "kind": "measurement",
+      "subject": "до илјада поколенија",
+      "rationale": "бројот на поколенија е ја врска на заветот"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר...ולשמרי",
+      "rationale": "игра на коренот шמר: Елохим чува завет за оние што чуваат заповеди"
+    }
+  ],
+  "translation": "И знај дека Јахве, твојот Елохим, ⟨е⟩ Елохим, верниот Ел, што го чува заветот и хеседот кон оние што го сакаат и кон оние што ги чуваат заповедите Негови, до илјада поколенија.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b377460bc6c27090c48d7e29e992180703f669ae29e9aebbc6228e65331ddd42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/7\/9-12.1792445415151.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "И знај"
+    },
+    {
+      "surface": "כי",
+      "gloss": "де"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "הנאמן",
+      "gloss": "верниот"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "што чува"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "заветот"
+    },
+    {
+      "surface": "והחסד",
+      "gloss": "и хеседот"
+    },
+    {
+      "surface": "לאהביו",
+      "gloss": "кон оние што го сакаат"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "и кон оние што чуваат"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "заповедите Негови"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "до илјада"
+    },
+    {
+      "surface": "דור",
+      "gloss": "поколенија"
+    }
+  ],
+  "timestamp": "2026-10-19T21:30:15.153071829Z",
+  "model": "glm-5.3"
+}

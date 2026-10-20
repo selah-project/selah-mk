@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Гедеон",
+      "rationale": "повелители — земи, положи, истури — директно упатени до Гедеон"
+    },
+    {
+      "kind": "crux",
+      "subject": "הלז",
+      "rationale": "реткиот показателен „овој\/оној“ — ја истакнува карпата како веќе позната во сцената"
+    }
+  ],
+  "translation": "И ангелот на Елохим му рече: зел⟨е⟩ни — Земи го ⟨את⟩ месото и ⟨את⟩ бесквасните лебови и положи ги на оваа карпа, а ⟨את⟩ чорбата истури ја. И тој направи така.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "eeb1eb7c7e240d774b70231b341bd0845962b2ae9d4f7b58ee439c75f9133f22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/6\/17-20.1792446383879.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ангелот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Земи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "месото"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "месото"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "бесквасните лебови"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "бесквасните лебови"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "и положи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "карпата"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "ова"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "а ⟨את⟩",
+      "marks": "чорбата"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "чорбата"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "истури"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и направи"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    }
+  ],
+  "timestamp": "2026-10-19T21:46:23.881110535Z",
+  "model": "glm-5.3"
+}

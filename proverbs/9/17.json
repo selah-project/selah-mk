@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 9:17",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "скришен",
+      "rationale": "סתרים е множина ('тајни\/скривалишта'); KJV го проширува во 'изеден во тајност'"
+    },
+    {
+      "kind": "you",
+      "subject": "до наивниот",
+      "rationale": "гласот на Жената-лудост го мамел adjudicatorно простодушниот со ветење за забранет задовол"
+    }
+  ],
+  "translation": "Украдените води се слатки, и лебот скришен е пријатен.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6fa2c59682590fb39dcd4b7409845d04b1d5edf387481cb32aebb8bbd0fe9104",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/9\/17-18.1792454370538.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "גנובים",
+      "gloss": "украдените"
+    },
+    {
+      "surface": "ימתקו",
+      "gloss": "се слатки"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "и лебот"
+    },
+    {
+      "surface": "סתרים",
+      "gloss": "скришен"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "е пријатен"
+    }
+  ],
+  "timestamp": "2026-10-19T23:59:30.539342868Z",
+  "model": "glm-5.3"
+}

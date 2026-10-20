@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 14:2",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "на\/ја",
+      "rationale": "македонските клитики го носат директниот објект што хебрејскиот го бележи со אותה"
+    }
+  ],
+  "translation": "И се качи и им кажа на татко си и на мајка си, и рече: Жена видов во Тимна, меѓу ќерките на Плиштим; а сега земете ми ја ⟨את⟩ за жена.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7c572bb9a0075784a0d00c9f267c3f9abe02f81642b998ee765ab485666ab484",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/14\/2-4.1792447803693.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и се качи"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "и кажа"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "на татко си"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "и на мајка си"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видов"
+    },
+    {
+      "surface": "בתמנתה",
+      "gloss": "во Тимна"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "меѓу ќерките"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "на Плиштим"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "земете"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "неа"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жена"
+    }
+  ],
+  "timestamp": "2026-10-19T22:10:03.698033627Z",
+  "model": "glm-5.3"
+}

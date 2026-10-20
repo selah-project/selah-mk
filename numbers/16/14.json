@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 16:14",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "העיני ... תנקר",
+      "rationale": "Дословно: 'очите на тие луѓе ќе прободеш?' — идиом за заслепување\/заплашување, задржан буквално."
+    },
+    {
+      "kind": "you",
+      "subject": "до Моше",
+      "rationale": "Директен обращ — продолжение на одбивноста на Датан и Авирам."
+    }
+  ],
+  "translation": "Уште повеќе: не ни доведе ⟨се⟩ во земја што тече со млеко и мед, ниту ни даде наследство од поле и лозје — зар ќе ги прободеш очите на тие луѓе? Нема да се качиме.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "290932d617d32a1fd54355b3204508ec58539399152dd46af98f6ce6cf372c4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/16\/13-16.1792444928055.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Уште повеќе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "што тече"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "со млеко"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "и мед"
+    },
+    {
+      "surface": "הביאתנו",
+      "gloss": "ни доведе"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "ниту ни даде"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "наследство"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "од поле"
+    },
+    {
+      "surface": "וכרם",
+      "gloss": "и лозје"
+    },
+    {
+      "surface": "העיני",
+      "gloss": "очите"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "на тие луѓе"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "тие"
+    },
+    {
+      "surface": "תנקר",
+      "gloss": "зар ќе прободеш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Нема"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "да се качиме"
+    }
+  ],
+  "timestamp": "2026-10-19T21:22:08.055973700Z",
+  "model": "glm-5.3"
+}

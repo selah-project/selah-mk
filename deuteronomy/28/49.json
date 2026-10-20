@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 28:49",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "орел",
+      "rationale": "הנשר — голем граблив изBird; преданијата делат меѓу орел и мршојадец"
+    },
+    {
+      "kind": "alternative",
+      "subject": "како што се фрла",
+      "rationale": "ידאה — буквално 'лебди\/стрелува се' низ воздухот, од коренот דאה"
+    }
+  ],
+  "translation": "Јахве ќе подигне врз тебе народ од далеку, од крајот на земјата, како што се фрла орелот — народ чиј јазик нема да го слушнеш.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d9c1070918b948b1ffb6befc271e49ab0d5a64565aab3762e173bb32455e82f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/28\/49-52.1792445755026.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ќе подигне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "врз тебе"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "од далеку"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "од крајот"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "ידאה",
+      "gloss": "се фрла"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "орелот"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чиј"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "нема да слушнеш"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "неговиот јазик"
+    }
+  ],
+  "timestamp": "2026-10-19T21:35:55.027350461Z",
+  "model": "glm-5.3"
+}

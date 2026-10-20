@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 29:25",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Македонскиот бара копула кај disclosures; хебрејскиот нема глагол"
+    },
+    {
+      "kind": "elision",
+      "subject": "זאת",
+      "rationale": "„ова“ е вградено во македонскиот зборовен ред за природност"
+    },
+    {
+      "kind": "you",
+      "subject": "Лаван",
+      "rationale": "Јааков директно му се обраќа на Лаван со прашања"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רמיתני",
+      "rationale": "корен רמה — буквално „фрли\/исфрли“, фигуративно измами; истиот корен стои во 29:12 за друг глагол — сликата е загубена"
+    }
+  ],
+  "translation": "И беше утро — а ете, таа ⟨е⟩ Леа. И рече на Лаван: Што ми стори? Не за Рахел ли работев кај тебе? И зошто ме измами?",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5f99937680c877da0d0177d693a0febc0ae76547d2520857aa172deb2fb6d335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/29\/25-28.1792442876991.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "утро"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "а ете"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леа"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Што"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "сторѝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Не ли"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "за Рахел"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "работев"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "кај тебе"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "И зошто"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "ме измами"
+    }
+  ],
+  "timestamp": "2026-10-19T20:47:56.993225495Z",
+  "model": "glm-5.3"
+}

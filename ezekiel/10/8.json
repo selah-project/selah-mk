@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 10,
+  "translation": "И се покажа на херувимите облик на рака човечка под крилјата нивни.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e2236e5a7fa0344afe3005c2ebac59864fc0aab1cb4d22de9f7ffaa2c1e2e3f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/10\/5-8.1792451438752.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И се покажа"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "на херувимите"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "облик"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рака"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечка"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "крилјата нивни"
+    }
+  ],
+  "timestamp": "2026-10-19T23:10:38.753620890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "земја што тече од млеко и мед",
+      "rationale": "זבת חלב ודבש — букв. „лива од млеко и мед“, фиксирана хебрејска идиома"
+    },
+    {
+      "kind": "idiom",
+      "subject": "тврд врат",
+      "rationale": "קשה ערף — букв. „тврд од врат“; зачувано буквално како слика"
+    }
+  ],
+  "translation": "кон земја што тече од млеко и мед, зашто јас нема да се качам меѓу тебе — зашто народ со тврд врат си ти — да не те истребам на патот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0d2e37adbf7fcef459d792ef55cf27f9fda58bb2b78b2bd66a50665f6acd799a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/33\/1-4.1792443921056.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "што тече"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "од млеко"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "и мед"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "нема да се качам"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "меѓу тебе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "со тврд"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "врат"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "те истребам"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на патот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:05:21.063208463Z",
+  "model": "glm-5.3"
+}

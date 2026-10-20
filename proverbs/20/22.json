@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 20:22",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "императиви",
+      "rationale": "Стихот повикува со забрана и заповед: не кажувај… чекај."
+    },
+    {
+      "kind": "you",
+      "subject": "до читателот",
+      "rationale": "Директен обращ — совет упатен на оној што сака да се одмазди."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשלמה \/ שלום",
+      "rationale": "Корен שלם „враќам, целосно платам“ е ист со коренот на мир — возвраќањето зло е лажно „целоснување“."
+    }
+  ],
+  "translation": "Не кажувај: „Јас ќе го возвратам злото“; чекај на Јахве, и тој ќе те спаси.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ab643a5f95b9cdf83f94fc9e279b2f8ffca203d0efdbdd61a83f4b8eeae0ae8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/20\/21-24.1792454628154.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "кажувај"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "ќе го возвратам"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злото"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "чекај"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "и тој ќе те спаси"
+    },
+    {
+      "surface": "לך",
+      "gloss": "те"
+    }
+  ],
+  "timestamp": "2026-10-20T00:03:48.155045431Z",
+  "model": "glm-5.3"
+}

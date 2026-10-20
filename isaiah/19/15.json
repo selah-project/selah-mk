@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כפה",
+      "rationale": "כִּפָּה (палмина гранка) се јавува само тука во Танах."
+    },
+    {
+      "kind": "idiom",
+      "subject": "глава или опашка, палмина гранка или трска",
+      "rationale": "Меризам за 'од врв до дно, сè' — Исуса 9:14 користи истата figura за водач и следбеник."
+    },
+    {
+      "kind": "addition",
+      "subject": "или",
+      "rationale": "Хебрејскиот само набројува со conjunctive vav; македонскиот бара 'или' меѓу членовите."
+    }
+  ],
+  "translation": "И нема да има ⟨е⟩ дело за Мицраим, кое може да го изврши глава или опашка, палмина гранка или трска.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "204edcbee6eedf1efedec7458be6b60c1fc91660d43a473f025097a702c8eccd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/19\/14-15.1792458193086.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе има"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "за Мицраим"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кое"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "може да го изврши"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "глава"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "или опашка"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "палмина гранка"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "или трска"
+    }
+  ],
+  "timestamp": "2026-10-20T01:03:13.087672546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "amos 5:27",
+  "book": "amos",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מהלאה לדמשק",
+      "rationale": "'надалеку, до Дамаск' (гранична точка) или 'зад Дамаск' (подалеку од него) — преводите се делат на истото место"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Елохим Цеваот",
+      "rationale": "Името минува како што е — ниту 'Бог на војските', ниту 'Господ Саваот'"
+    }
+  ],
+  "translation": "И ќе ⟨את⟩ ве прогонам ⟨е⟩ надалеку, до Дамаск, вели Јахве — Елохим Цеваот е Името Негово.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "402c01821f7679efb7279b49e24d96dd6bfdae8161a426316d1488e183ef2ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/amos\/5\/25-27.1792452357463.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והגליתי",
+      "gloss": "И ќе ве прогонам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨е⟩ ве",
+      "marks": "вас"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "надалеку"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "до Дамаск"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Името Негово"
+    }
+  ],
+  "timestamp": "2026-10-19T23:25:57.464179943Z",
+  "model": "glm-5.3"
+}

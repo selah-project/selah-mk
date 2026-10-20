@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברוך ... וברוך",
+      "rationale": "меризам: град\/поле — двојност што го покрива целиот живот"
+    }
+  ],
+  "translation": "Благословен си ти во градот, и благословен си ти во полето.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "21703a1de4c5c76889f90533aabee9bce3b6a78509f504cbd8998e0c2c42a2d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/28\/1-4.1792445752253.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословен"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "во градот"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "и благословен"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "во полето"
+    }
+  ],
+  "timestamp": "2026-10-19T21:35:52.254455988Z",
+  "model": "glm-5.3"
+}

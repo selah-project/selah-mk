@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨сум⟩",
+      "rationale": "хебрејскиот нема глагол-сврзка во именската реченица"
+    },
+    {
+      "kind": "substitution",
+      "subject": "свирка",
+      "rationale": "негинот е инструментална музика, свирка — не песна"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "псалмот е директен говор до Бога, овие стихови се жалоба за сторната кон говорителот"
+    }
+  ],
+  "translation": "Разговараат за мене оние што седат на портата, и јас ⟨сум⟩ свирката на оние што пијат силно вино.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "47969150fa716fb6d3c0651bb4d6a5c51568d472cd91d13850f2a329461459bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/69\/13-16.1792453513998.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "разговараат"
+    },
+    {
+      "surface": "בי",
+      "gloss": "за мене"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "оне што седаат"
+    },
+    {
+      "surface": "שער",
+      "gloss": "на портата"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "свирка"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "оне што пија"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "силно вино"
+    }
+  ],
+  "timestamp": "2026-10-19T23:45:13.999483296Z",
+  "model": "glm-5.3"
+}

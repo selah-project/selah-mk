@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 18:23",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ти",
+      "rationale": "македонскиот го бара директниот објект кај 'да ти зборува'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אי זה הדרך",
+      "rationale": "буквално 'каде е ова — патот'; саркастичко прашување, делумно изгубено"
+    }
+  ],
+  "translation": "Тогаш Цидкијаху, синот на Кенанах, се приближи и го удри ⟨את⟩ Михајаху по образот, па рече: Кој пат помина руахот на Јахве — ⟨את⟩ од мене — за да ⟨את⟩ ти зборува?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fae8c2c7076a31189d2533d0f2f1f735342ae7467796b68617a00dae8fa13fbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/18\/21-24.1792457611613.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "се приближи"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкијаху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "на Кенанах"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "го удри"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Михајаху"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Михајаху"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "הלחי",
+      "gloss": "образот"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "па рече"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "זה",
+      "gloss": "път —"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "пат"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "помина"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руахот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ од мене"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "да зборува"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ти"
+    }
+  ],
+  "timestamp": "2026-10-20T00:53:31.614642113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezekiel 40:48",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אֵל אִלָּם",
+      "rationale": "„ел“ е столб\/јамка на тремот (KJВ „пост“); други читаат само како предлог „до тремот“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "трем",
+      "rationale": "мерење во лакти: пет на секоја страна на столбот, три на секоја страна на портата"
+    }
+  ],
+  "translation": "И ме доведе до тремот на домот, и го измери столбот на тремот: пет лакти одтука и пет лакти одтука; а ширината на портата — три лакти одтука и три лакти одтука.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f7177f338d3a88fe3b9701660acb3e359b153b0728b45a8851bc84dc87daa11e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/40\/45-48.1792452041926.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "И ме доведе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "тремот"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "и го измери"
+    },
+    {
+      "surface": "אל",
+      "gloss": "столбот"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "на тремот"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "лакти"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "одтука"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "и пет"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "лакти"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "одтука"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "а ширината"
+    },
+    {
+      "surface": "השער",
+      "gloss": "на портата"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "лакти"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "одтука"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "и три"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "лакти"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "одтука"
+    }
+  ],
+  "timestamp": "2026-10-19T23:20:41.927732720Z",
+  "model": "glm-5.3"
+}

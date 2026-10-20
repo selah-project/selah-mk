@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 8:24",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара"
+    },
+    {
+      "kind": "measurement",
+      "subject": "возрастна граница",
+      "rationale": "пресметка на години за служба: пет и дваесет години и нагоре"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לצבא צבא",
+      "rationale": "инфинитив и именка од ист корен — „да служи служба“ — строот\/службата се пази буквално"
+    },
+    {
+      "kind": "elision",
+      "subject": "מבן",
+      "rationale": "буквално „од син на пет и дваесет години“ — „син“ е споено во македонската возрастна фраза"
+    }
+  ],
+  "translation": "Ова е ⟨е⟩ за Левитите: од пет и дваесет години и нагоре ќе дојде да служи служба во службата на шаторот на состанокот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0f389608df61852a39987c60aaeb26ec326bf6c0b3578181dc73fcd9af3bfb90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/8\/21-24.1792444773496.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "за Левитите"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "од"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и дваесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "и нагоре"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ќе дојде"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "да служи"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "служба"
+    },
+    {
+      "surface": "בעבדת",
+      "gloss": "во службата"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шаторот"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на состанокот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:19:33.500280486Z",
+  "model": "glm-5.3"
+}

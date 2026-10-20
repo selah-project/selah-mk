@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 4:18",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула во 'зта рעתך'"
+    },
+    {
+      "kind": "crux",
+      "subject": "נגע",
+      "rationale": "'допре\/се допре до срцето' наспроти 'порази\/удри' — глаголот значи допир што продира"
+    }
+  ],
+  "translation": "Патот твој и делата твои направија овие за тебе; ова ⟨е⟩ злото твое, зашто горко е, зашто допре до срцето твое.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f64b7c5124f0690d9c8a82eacb65ded98a52430a990f76cc3edbb572894588cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/4\/17-20.1792450415323.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכך",
+      "gloss": "патот твој"
+    },
+    {
+      "surface": "ומעלליך",
+      "gloss": "и делата твои"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направија"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за тебе"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "злото твое"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מר",
+      "gloss": "горко"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "допре"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "срцето твое"
+    }
+  ],
+  "timestamp": "2026-10-19T22:53:35.324057634Z",
+  "model": "glm-5.3"
+}

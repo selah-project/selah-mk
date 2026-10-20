@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "גבה עינים ורחב לבב",
+      "rationale": "Буквално 'висок од очи и широк од срце' — идиом за надменост."
+    },
+    {
+      "kind": "substitution",
+      "subject": "трпам",
+      "rationale": "אוכל е 'можам\/имам сила' — 'нема да можам да го трпам' е скратено во 'нема да го трпам'."
+    }
+  ],
+  "translation": "Оној што го клевети во тајност ближниот свој — него ⟨את⟩ ќе го истребам; оној со високи очи и широко срце — него ⟨את⟩ нема да можам да го трпам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/101\/5-8.1792453807616.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "оној што клевети"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "во тајност"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ближниот свој"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "него (клеветникот)"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "ќе го истребам"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "висок"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "очи"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "и широко"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него (горделивиот)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "можам да трпам"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:07.617655274Z",
+  "model": "glm-5.3"
+}

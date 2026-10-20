@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קול ×3",
+      "rationale": "триратно повторување „глас… глас… глас“ — анафора на слушот, ритам што македонскиот го чува"
+    }
+  ],
+  "translation": "Глас на врева од градот, глас од храмот, глас на Јахве што им враќа воздадение на неговите непријатели.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9115260a30574c085e54eade4b05e5ee2cc9ca490471155f1905873e5b5f0e25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/66\/5-8.1792450303049.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "на врева"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "од градот"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "од храмот"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "што враќа"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "воздадение"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "на неговите непријатели"
+    }
+  ],
+  "timestamp": "2026-10-19T22:51:43.051395411Z",
+  "model": "glm-5.3"
+}

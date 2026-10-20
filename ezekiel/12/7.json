@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 12:7",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ги",
+      "rationale": "македонскиот бара предметна заменка за одреден предмет"
+    }
+  ],
+  "translation": "И направив така како што ми беше заповедано: ги изнесов своите предмети како предмети на прогонство — со ден, а во самракот пробив низ ѕидот — со рака; во темнина изнесов, на рамо понесов пред нивните очи.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7eb8a7a037712a4f877640cf9c30a07eeaa2d8d50762e5bf3667f4805bdce533",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/12\/5-8.1792451514569.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעש",
+      "gloss": "и направив"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ми беше заповедано"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "своите предмети"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "изнесов"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "како предмети"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "на прогонство"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "со ден"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "а во самракот"
+    },
+    {
+      "surface": "חתרתי",
+      "gloss": "пробив"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨себе⟩"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "низ ѕидот"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "со рака"
+    },
+    {
+      "surface": "בעלטה",
+      "gloss": "во темнина"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "изнесов"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "рамо"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "понесов"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "пред нивните очи"
+    }
+  ],
+  "timestamp": "2026-10-19T23:11:54.570447055Z",
+  "model": "glm-5.3"
+}

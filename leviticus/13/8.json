@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צרעת",
+      "rationale": "цараат — не е современа лепра; опфаќа повеќе кожни и дури и 'порази' врз ѕидови и облека; оставено како транслитерација"
+    }
+  ],
+  "translation": "И ќе погледне свештеникот, и ато, проширила се крастата во кожата — и свештеникот ќе го прогласи за нечист: цараат е ⟨тоа⟩.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "77861d22868ec5da3324352095fe73a6e74a3f905b99c4292c2e35fe58af3d12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/13\/5-8.1792444252287.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "и ќе погледне"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ато"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "проширила се"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "крастата"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "во кожата"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "и ќе го прогласи за нечист"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "цараат"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тоа е"
+    }
+  ],
+  "timestamp": "2026-10-19T21:10:52.290451023Z",
+  "model": "glm-5.3"
+}

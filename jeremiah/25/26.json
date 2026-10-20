@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 25:26",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "ששך",
+      "rationale": "Шешах е шифра за Вавилон: атбаш — одбројување на буквите од спротивниот крај на азбуката (ש↔ב, י↔ל... наметнато име, сокриено знаење)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש אל אחיו",
+      "rationale": "буквално 'човек кон брат свој' — идиом за 'еден покрај друг', сите заедно во списокот."
+    },
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот бара помошен глагол кај 'на лицето на почвата'."
+    }
+  ],
+  "translation": "и ⟨את⟩ сите цареви на северот, блиските и далечните, еден крај друг; и ⟨את⟩ сите царства на земјата што ⟨се⟩ на лицето на почвата; и царот на Шешах ќе пие по нив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "abf10deba5f2a998d2fc8ecaffd498b5a32083ca9d98292cbaf989259260935b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/25\/25-28.1792450786983.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сите"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "цареви"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "северот"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "блиските"
+    },
+    {
+      "surface": "והרחקים",
+      "gloss": "далечните"
+    },
+    {
+      "surface": "איש",
+      "gloss": "еден"
+    },
+    {
+      "surface": "אל",
+      "gloss": "крај"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "друг"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сите"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "царства"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "почвата"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ששך",
+      "gloss": "Шешах"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ќе пие"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "по нив"
+    }
+  ],
+  "timestamp": "2026-10-19T22:59:46.984441419Z",
+  "model": "glm-5.3"
+}

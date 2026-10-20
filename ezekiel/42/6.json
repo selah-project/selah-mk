@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 42:6",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נאצל",
+      "rationale": "אצל од עזל 'земен\/изделечен': KJV 'straitened', ASV\/JPS 'taken away', BSB 'set back' — јасбирам 'издадено наназад\/изделечено'."
+    },
+    {
+      "kind": "addition",
+      "subject": "за нив",
+      "rationale": "Локалната претставка להר implied — македонскиот бара израз."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "על־כן",
+      "rationale": "Идиом 'затоа' — буквално 'на тоа основа'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "три ката",
+      "rationale": "Бројот на ката е дел од храмовниот опис."
+    }
+  ],
+  "translation": "Зашто беа на три ката, и немаа столбови како столбовите на дворовите; затоа беше изделечено ⟨од⟩ долните и од средните од земјата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fd938c5922968df263bd710e4a0007e74253d68c8f95eec7451012d2e33eec22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/42\/5-8.1792452042243.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "משלשות",
+      "gloss": "на три ката"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "беа"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и немаа"
+    },
+    {
+      "surface": "להן",
+      "gloss": "⟨за нив⟩"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "столбови"
+    },
+    {
+      "surface": "כעמודי",
+      "gloss": "како столбовите"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "на дворовите"
+    },
+    {
+      "surface": "על",
+      "gloss": "затоа ⟨на⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "נאצל",
+      "gloss": "беше изделечено"
+    },
+    {
+      "surface": "מהתחתונות",
+      "gloss": "од долните"
+    },
+    {
+      "surface": "ומהתיכנות",
+      "gloss": "и од средните"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "од земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:20:42.243986314Z",
+  "model": "glm-5.3"
+}

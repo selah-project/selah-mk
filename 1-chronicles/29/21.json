@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 29:21",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сепалуѓи",
+      "rationale": "עלота буквално 'искачувања' — жртви што се качуваат во чад; напуштен е буквалниот лик"
+    },
+    {
+      "kind": "measurement",
+      "subject": "илјада волови \/ елени \/ јагниња",
+      "rationale": "бројот на жртвите е наброен точно, три пати илјада"
+    },
+    {
+      "kind": "substitution",
+      "subject": "елени",
+      "rationale": "אילים буквално 'силни' — животното е елен (D4), не ' ovни' како кај כבשים"
+    }
+  ],
+  "translation": "И принесоа жртви на Јахве, и подигнаа сепалуѓи на Јахве на утрешниот ден на тој ден: илјада волови, илјада елени, илјада јагниња, и нивните ливни жртви, и жртви во изобилство за целиот Јисраел.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b7a7563ae9b9fe3c67d1dfbb93d808bf9d28cd8f205fbf507dd12dcbc5590856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/29\/21-24.1792457327397.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "и принесоа жртви"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "жртви"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "и подигнаа"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "сепалуѓи"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "на утрешниот ден"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денов"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "волови"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјада"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "елени"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјада"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "јагниња"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјада"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "и нивните ливни жртви"
+    },
+    {
+      "surface": "וזבחים",
+      "gloss": "и жртви"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "во изобилство"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "за целиот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-20T00:48:47.397860168Z",
+  "model": "glm-5.3"
+}

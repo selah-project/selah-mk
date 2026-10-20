@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "на оние што Го бараат Јахве",
+      "rationale": "директен обраќањ — „срцето ваше“ — кон заедницата на оние што Го бараат"
+    }
+  ],
+  "translation": "Ќе јадат смирените и ќе се наситат; ќе Го фалат Јахве оние што Го бараат. Нека живее срцето ваше вовек.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4df5f04c40c6ad3ae0f74ea943d94bb3a26c4c992f4dae44889f78027123e5bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/22\/25-28.1792453087033.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "ќе јадат"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "смирените"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "и ќе се наситат"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ќе Го фалат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "оние што Го бараат"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "нека живее"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "срцето ваше"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "вовек"
+    }
+  ],
+  "timestamp": "2026-10-19T23:38:07.034680259Z",
+  "model": "glm-5.3"
+}

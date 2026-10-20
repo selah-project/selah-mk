@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שלשום",
+      "rationale": "буквално „пред два дена“\/„тројно“ — KJV „извонредни нешта“, LXX „триесет“ (λόγους τριηκοντα); јас ги сачував трите"
+    },
+    {
+      "kind": "hapax",
+      "subject": "במועצת",
+      "rationale": "обликот со овој правопис (שלשום מועצת) е реткост — форма на מועצה во множина"
+    },
+    {
+      "kind": "you",
+      "subject": "на ученикот",
+      "rationale": "реторичко прашање директно до слушателот"
+    }
+  ],
+  "translation": "Не ли ти напишав трипати во совети и знаење?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5c1bb37de68f024dba8c1739306419265f83ebdbab4dc92627dd66bd08aa24a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/22\/17-20.1792454637499.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Не ли"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "напишав"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "трипати"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "во совети"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "и знаење"
+    }
+  ],
+  "timestamp": "2026-10-20T00:03:57.500637521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мнха",
+      "rationale": "מנחה е преведена како „данок” (даночен контекст), не како минха, според правилото за данок\/дар."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישיבו",
+      "rationale": "од שוב „да вратат\/испорачаат” — YLT „send back” против традицијата „да принесат”."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבא \/ סבא",
+      "rationale": "речиси идентични имиња во спротивставен пар — звучен повтор во хебрејскиот."
+    }
+  ],
+  "translation": "Царевите на Таршиш и островите данок ќе испорачаат; царевите на Шева и Сева дар ќе принесат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "63f0d56d1d04716c83a1a61f91f75b1d1f3ec7aedc1192ba97e512b5c85cdda1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/72\/9-12.1792453521293.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "царевите на"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Таршиш"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "и островите"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "данок"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "ќе испорачаат"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царевите на"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "и Сева"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "дар"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ќе принесат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:45:21.294010671Z",
+  "model": "glm-5.3"
+}

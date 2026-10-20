@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "млад лав",
+      "rationale": "כפיר е 'млад лав\/лавче', не 'лавовско младенче' во генеричка смисла"
+    },
+    {
+      "kind": "invitation",
+      "subject": "реченици-прашања",
+      "rationale": "продолжува низата прашања што градат заклучок за неизбежната казна"
+    }
+  ],
+  "translation": "Дали лав ќе рика во шумата ако нема плен? Дали млад лав ќ го даде гласот свој од леговото свое, ако ништо не фатил?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "64c45bbf4869bdfa2c7d03960363dfce92ca8aaf04a119e88d65abe56f324c69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/amos\/3\/1-4.1792452356836.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "Дали ќе рика"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "лав"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "во шумата"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "плен"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "Дали ќе даде"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "млад лав"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "гласот свој"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "од леговото свое"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ако не"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "фатил"
+    }
+  ],
+  "timestamp": "2026-10-19T23:25:56.838039377Z",
+  "model": "glm-5.3"
+}

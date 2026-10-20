@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 7:30",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "огнени жртви",
+      "rationale": "אשי буквално 'неговите огнови\/жртви на оган' — сè што се гори за Јахве."
+    },
+    {
+      "kind": "idiom",
+      "subject": "подигање",
+      "rationale": "תנופה е ритуално мавтање\/подигање напред-назад пред Јахве, не обично кревање."
+    }
+  ],
+  "translation": "Неговите раце нека ги донесат ⟨את⟩ огнените жртви на Јахве: ⟨את⟩ салото врз градите ќе го донесе; ⟨את⟩ градите — за да го подигне ⟨את⟩ со подигање пред Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c428945c0500d8fec1e932a13dfd8954068f89c14f7b9c113f222bc982b4f4e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/7\/29-32.1792444100343.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידיו",
+      "gloss": "Неговите раце"
+    },
+    {
+      "surface": "תביאינה",
+      "gloss": "нека ги донесат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "огнените жртви"
+    },
+    {
+      "surface": "אשי",
+      "gloss": "огнените жртви"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "салото"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "салото"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "градите"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "ќе го донесе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "градите"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "градите"
+    },
+    {
+      "surface": "להניף",
+      "gloss": "за да го подигне"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "со подигање (објектот: градите)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "со подигање"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:08:20.344424971Z",
+  "model": "glm-5.3"
+}

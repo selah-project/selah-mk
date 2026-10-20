@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולא יחלל",
+      "rationale": "императивна сила („да не ги осквернува“) наспроти простро предвидување; KJV „that he profane not“ vs YLT „he doth not pollute“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלל\/קדש",
+      "rationale": "спротиставување осквернува–посветува, коренот קדש три пати во еден стих"
+    }
+  ],
+  "translation": "Само до завесата нема да влезе и до жртвеникот нема да пристапи, зашто недостаток има во него, и нека не ги осветува ⟨את⟩ светилиштата мои — зашто јас сум Јахве, кој ги посветува нив.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a42b5bc31cb5eabb7e25781a611f821d630ae940254865bd7ee2cf7a43494325",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/21\/21-24.1792444402522.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "завесата"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "нема да влезе"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и до"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жртвеникот"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "нема да пристапи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מום",
+      "gloss": "недостаток"
+    },
+    {
+      "surface": "בו",
+      "gloss": "во него"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "нека не осквернува"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "светилиштата мои"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "светилиштата мои"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "посветува нив"
+    }
+  ],
+  "timestamp": "2026-10-19T21:13:22.524553140Z",
+  "model": "glm-5.3"
+}

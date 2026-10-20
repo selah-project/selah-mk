@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 44:3",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הנשיא ... נשיא",
+      "rationale": "категорична потенцирана конструкција „владетелот — владетел тој“, повторувањето ја нагласува исклучителната улога"
+    }
+  ],
+  "translation": "Колку ⟨את⟩ владетелот — тој како владетел ќе седне во неа за да јаде леб пред Јахве; по патот на тремот на портата ќе влезе и по патот свој ќе излезе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "511ad6149298f0bd907607dc5f53c7ce7c5afad3f60f7ea0e428da23a129fe80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/44\/1-4.1792452054677.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "владетелот"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "владетелот"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "како владетел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ќе седне"
+    },
+    {
+      "surface": "בו",
+      "gloss": "во неа"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "да јаде"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "по патот"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "на тремот"
+    },
+    {
+      "surface": "השער",
+      "gloss": "на портата"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ќе влезе"
+    },
+    {
+      "surface": "ומדרכו",
+      "gloss": "и по патот свој"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ќе излезе"
+    }
+  ],
+  "timestamp": "2026-10-19T23:20:54.678710096Z",
+  "model": "glm-5.3"
+}

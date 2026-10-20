@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעליותיו",
+      "rationale": "'неговите\/своите горни одаи' — суфикс од трето лице во стих исполнет со обраќање ('твои' во крајот); традицијата ги дели како горни одаи на Елохим"
+    },
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот рефлексивен честичка за среден глагол што хебрејскиот го нема"
+    }
+  ],
+  "translation": "Ги напојува ⟨се⟩ планините од своите горни одаи; од плодот на делата твои се наситува земјата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e1d495dd5bbe341b1261def89a48026f5aeefad034a9bfec79bdd8f528adc5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/104\/13-16.1792453832143.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "ги напојува"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "планините"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "од своите горни одаи"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "од плодот"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "на делата твои"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "се наситува"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:32.144695247Z",
+  "model": "glm-5.3"
+}

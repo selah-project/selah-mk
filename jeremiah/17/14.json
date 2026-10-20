@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 17:14",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רפאני\/וארפא · הושיעני\/ואושעה",
+      "rationale": "Коренска повторувачка во пара: лечи-излечен, спаси-спасен"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "Директна молитва кон Јахве"
+    },
+    {
+      "kind": "invitation",
+      "subject": "молитвени императиви",
+      "rationale": "Забележителна структура на повик"
+    }
+  ],
+  "translation": "Излечи ме, Јахве, и ќе бидам излечен; спаси ме и ќе бидам спасен, зашто ти си мојата пофалба.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "682bd467a9d8d9e88bf64fa6158d0d0ef869a338d91fb4daf469584167b31bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/17\/13-16.1792450643827.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רפאני",
+      "gloss": "Излечи ме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "וארפא",
+      "gloss": "и ќе бидам излечен"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "спаси ме"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "и ќе бидам спасен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "мојата пофалба"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-10-19T22:57:23.828695466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 37:14",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот вели само 'лажливо' — без глагол"
+    }
+  ],
+  "translation": "И рече Ермија: Лажливо ⟨е⟩ — не бегам кон Касдеите. Но тој не го послуша, па зеде Иријах ⟨со⟩ Ермија и го одведе кај кнезовите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6f54195d2cc6f60e689c53b6ae9762ffddb6ed69828e816b72a9dd838ebf3b1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/37\/13-16.1792450943190.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ермија"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "Лажливо"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "не сум јас"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "што бегам"
+    },
+    {
+      "surface": "על",
+      "gloss": "кон"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Касдеите"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Но не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "го послуша"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "него"
+    },
+    {
+      "surface": "ויתפש",
+      "gloss": "па зеде"
+    },
+    {
+      "surface": "יראייה",
+      "gloss": "Иријах"
+    },
+    {
+      "surface": "בירמיהו",
+      "gloss": "Ермија"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "и го одведе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "кнезовите"
+    }
+  ],
+  "timestamp": "2026-10-19T23:02:23.191194792Z",
+  "model": "glm-5.3"
+}

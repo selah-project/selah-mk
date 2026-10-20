@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 6:2",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "сто и дваесет",
+      "rationale": "бројот на ахашдарпаните е даден целосно, како во арамејскиот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ахашдарпани",
+      "rationale": "захувано хебрејско\/арамејско звучење наместо 'кнезови' или 'управители'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "македонскиот бара помошен глагол во би било добро"
+    }
+  ],
+  "translation": "Би било добро пред Дарјавош, и постави над царството ахашдарпани — сто и дваесет — за да бидат во целото царство.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "006c1d9772386509680fd670774d6107a5c528d93e8aecf4a9da03822473e7ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/6\/2-3.1792458486786.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפר",
+      "gloss": "би било добро"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "пред"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Дарјавош"
+    },
+    {
+      "surface": "והקים",
+      "gloss": "и постави"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "царството"
+    },
+    {
+      "surface": "לאחשדרפניא",
+      "gloss": "ахашдарпани"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ועשרין",
+      "gloss": "и дваесет"
+    },
+    {
+      "surface": "די",
+      "gloss": "за да"
+    },
+    {
+      "surface": "להון",
+      "gloss": "бидат"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во целото"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "царство"
+    }
+  ],
+  "timestamp": "2026-10-20T01:08:06.787285010Z",
+  "model": "glm-5.3"
+}

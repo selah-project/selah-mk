@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨го⟩",
+      "rationale": "хебрејскиот објект од претходниот стих е implicite, македонскиот го бара"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עם\/עמו",
+      "rationale": "„со“ (עם) и „народот“ (עמו) — ист звук, различни зборови"
+    }
+  ],
+  "translation": "за да ⟨го⟩ посади со великани, со великани на народот свој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "beedb26248aa7077962cf47b2d016a94221ca16df04a275c0ee8f66a3d9c9c03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/113\/7-8.1792458385160.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "за да посади"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "великани"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "великани"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "на народот свој"
+    }
+  ],
+  "timestamp": "2026-10-20T01:06:25.160627609Z",
+  "model": "glm-5.3"
+}

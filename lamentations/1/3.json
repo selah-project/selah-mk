@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 1:3",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בין המצרים",
+      "rationale": "Дали е буквално „меѓу теснините“ (место на заседа) или „во спротставениетеса“; задржав слика на стегнат простор."
+    },
+    {
+      "kind": "substitution",
+      "subject": "изгонета",
+      "rationale": "גלתה носи слика на соблекување и прогон во изгнанство, не само заминување."
+    }
+  ],
+  "translation": "Изгонета е Јехуда од страдање и од многу робија; таа живее меѓу народите, не најде одмор — сите нејзини гонители ја стигнаа меѓу теснатите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9f3d9a904525dee1a3f9eb2475fa53f53d00376f398bbede518c33fc6a6fdf7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/1\/1-4.1792455520853.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גלתה",
+      "gloss": "изгонета-е"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "од-страдање"
+    },
+    {
+      "surface": "ומרב",
+      "gloss": "и-од-многу"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "робија"
+    },
+    {
+      "surface": "היא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "живее"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "меѓу-народите"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "најде"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "одмор"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "רדפיה",
+      "gloss": "гонители-нејзини"
+    },
+    {
+      "surface": "השיגוה",
+      "gloss": "ја-стигнаа"
+    },
+    {
+      "surface": "בין",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "теснатите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:18:40.854412948Z",
+  "model": "glm-5.3"
+}

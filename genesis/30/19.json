@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "шести",
+      "rationale": "броење на синовите — шести по ред."
+    }
+  ],
+  "translation": "И зачена уште еднаш Леа, и роди на Јааков син — шести.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1884566f52b57fb8b67d44ea2f595a85236221e18998ac86017f91aab882a478",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/30\/17-20.1792442904682.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "и зачена"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уште еднаш"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леа"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "шести"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "на Јааков"
+    }
+  ],
+  "timestamp": "2026-10-19T20:48:24.684960710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דרך\/נתיבה",
+      "rationale": "пар паралелизми: пат–патека, море–силни води — две различни хебрејски зборovi за 'път', задржани како два"
+    }
+  ],
+  "translation": "Така вели Јахве, оној што дава во морето пат и во силните води патека.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a025a3c1177220ce017b475ab165d8d4b78e00be61537f3e97ad32d620f83671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/43\/13-16.1792450075236.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "оној што дава"
+    },
+    {
+      "surface": "בים",
+      "gloss": "во морето"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пат"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "и во водите"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "силните"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "патека"
+    }
+  ],
+  "timestamp": "2026-10-19T22:47:55.237785781Z",
+  "model": "glm-5.3"
+}

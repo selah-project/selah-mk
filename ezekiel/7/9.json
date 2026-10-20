@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 7:9",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨сум⟩",
+      "rationale": "хебрејскиот нема копула во „јас Јахве“"
+    },
+    {
+      "kind": "you",
+      "subject": "до Ерусалим",
+      "rationale": "стихот се обраќа директно на градот (женски род: „според патиштата твои“), а потоа преминува на множина „ќе знаете“"
+    }
+  ],
+  "translation": "И окото мое нема да поштеди, ниту ќе пожалам: според патиштата твои врз тебе ќе ги ставам, и гнасотите твои ќе бидат посред тебе; и ќе знаете дека јас ⟨сум⟩ Јахве, што удира.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "232762dedd21c3c990a044103486afaaac48be51dd0ffe6bcb309677c34f8ebf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/7\/9-12.1792451450636.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "да поштеди"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "окото мое"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ниту"
+    },
+    {
+      "surface": "אחמול",
+      "gloss": "ќе пожалам"
+    },
+    {
+      "surface": "כדרכיך",
+      "gloss": "според патиштата твои"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "врз тебе"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ќе ги ставам"
+    },
+    {
+      "surface": "ותועבותיך",
+      "gloss": "и гнасотите твои"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "посред тебе"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ќе бидат"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "и ќе знаете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "што удира"
+    }
+  ],
+  "timestamp": "2026-10-19T23:10:50.637449847Z",
+  "model": "glm-5.3"
+}

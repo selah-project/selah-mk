@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 38:25",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Јирмејаху",
+      "rationale": "Цедекија му говори директно на Јирмејаху, повторувајќи ги зборовите што старешините би ги рекле."
+    },
+    {
+      "kind": "secret",
+      "subject": "скриен разговор",
+      "rationale": "Целиот стих е упатство како да се сокрие тајниот разговор со царот од старешините."
+    },
+    {
+      "kind": "substitution",
+      "subject": "од нас",
+      "rationale": "ממנו буквално „од него\/нас“ — контекстот бара „од нас“."
+    }
+  ],
+  "translation": "И ако чујат старешините дека зборував ⟨את⟩ тебе, и дојдат кај тебе и ти речат: Кажи ни, те молам, што му зборуваш на царот — не сокривај од нас, и нема да те убиеме — и што ти рече царот,",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "97ed94a5a00674374c59fbfaa64da0892d5e1af00b6f6c97213457a8f374e629",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/38\/25-28.1792451028814.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "чујат"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "старешините"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "зборував"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ тебе",
+      "marks": "тебе"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "и дојдат"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "кај тебе"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "и речат"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Кажи"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молам"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "зборуваш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "сокривај"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од нас"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "נמיתך",
+      "gloss": "да те убиеме"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:03:48.815390242Z",
+  "model": "glm-5.3"
+}

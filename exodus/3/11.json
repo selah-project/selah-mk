@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ги",
+      "rationale": "македонскиот клитички член за директниот предмет, хебрејскиот го носи את"
+    }
+  ],
+  "translation": "И рече Моше на Елохим: Кој сум јас, дека да одам кај Фараон, и дека да ги изведам ⟨את⟩ синовите Јисраелови од Мицраим?",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e4912d4abe58af61acda9fc87730e73ba1cb9a99192637d9db537351e5c05d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/3\/9-12.1792443382947.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "сум јас"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "да одам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "и дека"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "да ги изведам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ги",
+      "marks": "синовите Јисраелови"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "од Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-19T20:56:22.953299848Z",
+  "model": "glm-5.3"
+}

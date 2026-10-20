@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 16:12",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויפרפרני \/ ויפצפצני",
+      "rationale": "двојна парономазија со повторени слогови — πר πר и צפ צפ — звукот на кршењето, делумно изгубен"
+    },
+    {
+      "kind": "crux",
+      "subject": "למטרה",
+      "rationale": "ист збор значи и 'затвор' и 'мета\/цел'; преводите се делат меѓу 'ме стави за цел' и 'ме фрли во затвор'"
+    }
+  ],
+  "translation": "Спокоен бев, а тој ме искрши, ме фати за тилот и ме смачка, и ме исправи за себеси за ⟨е⟩ мета.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0bc6e80a233778cebfd09369971cd969523c4b6f19a18bc1f94bb19fd494c97a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/16\/9-12.1792455031185.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלו",
+      "gloss": "спокоен"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "бев"
+    },
+    {
+      "surface": "ויפרפרני",
+      "gloss": "а ме искрши"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "ме фати"
+    },
+    {
+      "surface": "בערפי",
+      "gloss": "за тилот"
+    },
+    {
+      "surface": "ויפצפצני",
+      "gloss": "и ме смачка"
+    },
+    {
+      "surface": "ויקימני",
+      "gloss": "и ме исправи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за себеси"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "за мета"
+    }
+  ],
+  "timestamp": "2026-10-20T00:10:31.186061711Z",
+  "model": "glm-5.3"
+}

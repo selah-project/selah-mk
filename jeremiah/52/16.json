@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 52:16",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 52,
+  "translation": "А од сиромасите на земјата остави Невузарахан, началникот на кољачите — за лозари и за орачи.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "147537507fc136d2a289e7cf3030d02b180097892482214ddc60f25bb2116285",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/52\/13-16.1792451361268.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומדלות",
+      "gloss": "а од сиромасите"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "остави"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Невузарахан"
+    },
+    {
+      "surface": "רב",
+      "gloss": "началникот"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "на кољачите"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "за лозари"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "и за орачи"
+    }
+  ],
+  "timestamp": "2026-10-19T23:09:21.270495629Z",
+  "model": "glm-5.3"
+}

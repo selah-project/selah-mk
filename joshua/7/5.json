@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 7:5",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השברים",
+      "rationale": "Шебарим како место ↔ 'каменоломи' (од שבר, кршење) — преводи се делат."
+    },
+    {
+      "kind": "idiom",
+      "subject": "וימס לבב ... למים",
+      "rationale": "букв. 'се растопи срцето и стана за вода' — слика на страв."
+    },
+    {
+      "kind": "measurement",
+      "subject": "триесет и шест мажи",
+      "rationale": "точен број на паднати."
+    }
+  ],
+  "translation": "И мажите на Гај ги поразија ⟨од⟩ нив околу триесет и шест мажи, и ги гонеа од портата до Шебарим, и ги поразија на слегувањето; и се растопи срцето на народот и стана како вода.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ee52f76982f4ca14decf923c60b7470c33893d994e7b8535316f103fc6ded022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/7\/5-8.1792445981707.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ги поразија"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "од нив"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мажите на"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Гај"
+    },
+    {
+      "surface": "כשלשים",
+      "gloss": "околу триесет"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "и шест"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мажи"
+    },
+    {
+      "surface": "וירדפום",
+      "gloss": "ги гонеа"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "од пред"
+    },
+    {
+      "surface": "השער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "השברים",
+      "gloss": "Шебарим"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ги поразија"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "на слегувањето"
+    },
+    {
+      "surface": "וימס",
+      "gloss": "се растопи"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "срцето"
+    },
+    {
+      "surface": "העם",
+      "gloss": "на народот"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "стана"
+    },
+    {
+      "surface": "למים",
+      "gloss": "како вода"
+    }
+  ],
+  "timestamp": "2026-10-19T21:39:41.707797056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тежок",
+      "rationale": "כבד буквално 'тежок'; фигуративно 'многуброен' — колку тежок, толку голем логорот"
+    },
+    {
+      "kind": "alternative",
+      "subject": "логорот",
+      "rationale": "המחנה може да значи и 'поворка'\/'воен логор'; изабрано 'логорот' за буквалност"
+    }
+  ],
+  "translation": "И се искачија со него и кола и коњаници, и беше логорот многу тежок ⟨од множеството⟩.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9042361f1e8eb44f2125d2309b6dfccdc9bb5d6c8bd95e50eda40fece25621ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/50\/9-12.1792443323647.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "се искачија"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "со него"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "кола"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "коњаници"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логорот"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "тежок"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    }
+  ],
+  "timestamp": "2026-10-19T20:55:23.651158647Z",
+  "model": "glm-5.3"
+}

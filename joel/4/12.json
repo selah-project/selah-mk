@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joel 4:12",
+  "book": "joel",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יהושפט",
+      "rationale": "името значи 'Јахве суди' — долината го носи судот во своето име; играта е дел од смислата."
+    },
+    {
+      "kind": "you",
+      "subject": "народите",
+      "rationale": "стихот ги повикува народите кон долината на судот."
+    }
+  ],
+  "translation": "Нека се разбудат и да излезат народите кон долината Јехошафат, зашто таму ќе седнам да ги судам ⟨את⟩ сите народи наоколку.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0997044e2f77a740ce21012aa8c88b8e0770f48280e91573ed9e7b6531fd3d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joel\/4\/9-12.1792452396339.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעורו",
+      "gloss": "Нека се разбудат"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "и да излезат"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "долината"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Јехошафат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ќе седнам"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "да ги судам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите народи наоколку"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "наоколку"
+    }
+  ],
+  "timestamp": "2026-10-19T23:26:36.339992296Z",
+  "model": "glm-5.3"
+}

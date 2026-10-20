@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 6:4",
+  "book": "amos",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שן",
+      "rationale": "буквално 'заб' — 'слонова коска' е проширување на истата думалка"
+    },
+    {
+      "kind": "crux",
+      "subject": "כרים",
+      "rationale": "кари може да биде 'овни' (масни, полни) или 'јагниња'; сликата на излишок е секако тука"
+    }
+  ],
+  "translation": "Што лежат на кревети од слонова коска и се растегнуваат на своите постели, и јадат јагниња од стадото и телиња од среде шталата,",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2f1e7dd81ee922eded610b0788c5c1779fbddd0c256c6bce444b7413fd3da228",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/amos\/6\/1-4.1792452381184.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השכבים",
+      "gloss": "Што лежат"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "кревети"
+    },
+    {
+      "surface": "שן",
+      "gloss": "слонова коска"
+    },
+    {
+      "surface": "וסרחים",
+      "gloss": "и се растегнуваат"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ערשותם",
+      "gloss": "своите постели"
+    },
+    {
+      "surface": "ואכלים",
+      "gloss": "и јадат"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "јагниња"
+    },
+    {
+      "surface": "מצאן",
+      "gloss": "од стадото"
+    },
+    {
+      "surface": "ועגלים",
+      "gloss": "и телиња"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "од среде"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "шталата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:26:21.186051923Z",
+  "model": "glm-5.3"
+}

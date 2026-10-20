@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 10:22",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "души",
+      "rationale": "нефеш е „живо суштество, душа-дах“ — не современа „бесмртна душа“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "седумдесет души",
+      "rationale": "бројката на他们 што слезе во Мицраим"
+    },
+    {
+      "kind": "addition",
+      "subject": "многубројни",
+      "rationale": "לרב „за множество“ е рендерирано како придавка за јасност"
+    }
+  ],
+  "translation": "Со седумдесет души слезеа твоите татковци во Мицраим, а сега Јахве, твојот Елохим, те направи како ѕвездите на небото — многубројни.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "6ca8f4ae43bba75f44249f030c8583b682d55f5ce67b1d03935331a4ff96df33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/10\/21-22.1792445405720.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשבעים",
+      "gloss": "со седумдесет"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "души"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "слезеа"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "твоите татковци"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "во Мицраим"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "те направи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "како ѕвездите"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "на небото"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "многубројни"
+    }
+  ],
+  "timestamp": "2026-10-19T21:30:05.721086621Z",
+  "model": "glm-5.3"
+}

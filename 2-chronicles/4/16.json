@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 4:16",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "татко му",
+      "rationale": "אביו — 'неговиот татко' (како во 4:17 справа) наспроти традиционалното 'неговиот мајстор' (JPS); буквата е 'татко'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "бакар",
+      "rationale": "נחשת е бакар\/бронза — не 'латун'."
+    }
+  ],
+  "translation": "и ⟨את⟩ лонцата, и ⟨את⟩ лопатите, и ⟨את⟩ вилиците, и ⟨את⟩ сите нивни садови ги направи Хурам — татко му — на царот Шеломо за домот на Јахве, од полиран бакар.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2723865abed1ce2cc8f9d3c4705274dfdcb6f38f134fd8a0e66c9ae8b7dfd864",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/4\/13-16.1792457392413.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "лонцата"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "лонцата"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "лопатите"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "лопатите"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "вилиците"
+    },
+    {
+      "surface": "המזלגות",
+      "gloss": "вилиците"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сите"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "нивните садови"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Хурам"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "татко му"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "за домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "бакар"
+    },
+    {
+      "surface": "מרוק",
+      "gloss": "полиран"
+    }
+  ],
+  "timestamp": "2026-10-20T00:49:52.414369905Z",
+  "model": "glm-5.3"
+}

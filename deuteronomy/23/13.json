@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יד",
+      "rationale": "Буквално 'рака': 'место' (станица) наспроти 'руše\/прирачна алатка' — KJV 'paddle upon thy weapon' поместува го тука според алеф-бет на 14:1."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨има⟩",
+      "rationale": "Хебрејскиот има 'и рака нека биде тебе' — македонскиот бара глагол 'има'."
+    }
+  ],
+  "translation": "И нека ⟨има⟩ за тебе место надвор од логорот, и ќе излезеш таму надвор.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2bb8bb5a35e90ff0eb67e0ca4f6134c61e4dac0df80d08fd7f5a3fa74a27ca18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/23\/13-16.1792445673239.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "И место"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "нека ⟨има⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за тебе"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "надвор"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "од логорот"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "и ќе излезеш"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "таму"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "надвор"
+    }
+  ],
+  "timestamp": "2026-10-19T21:34:33.240482863Z",
+  "model": "glm-5.3"
+}

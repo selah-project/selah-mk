@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezekiel 40:33",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беа",
+      "rationale": "хебрејскиот нема копула во оваа номинална реченица"
+    },
+    {
+      "kind": "addition",
+      "subject": "имаше",
+      "rationale": "додаден глагол заnaturalен македонски во списакот на прозорци"
+    },
+    {
+      "kind": "measurement",
+      "subject": "мерки на портата",
+      "rationale": "должина педесет лакти и ширина дваесет и пет лакти"
+    }
+  ],
+  "translation": "и неговите соби, и неговите столбови, и неговите тремови беа според овие мерки; и прозорци имаше на него и на тремовите негови наоколку, наоколку: должина педесет лакти и ширина дваесет и пет лакти.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4b7409dfbeb6e502bb7bd2ae5489aacc70317edc7fcc1083f5a96824a976feb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/40\/33-36.1792452027403.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאו",
+      "gloss": "и неговите соби"
+    },
+    {
+      "surface": "ואלו",
+      "gloss": "и неговите столбови"
+    },
+    {
+      "surface": "ואלמו",
+      "gloss": "и неговите тремови"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "според мерки"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "וחלונות",
+      "gloss": "и прозорци"
+    },
+    {
+      "surface": "לו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "ולאלמו",
+      "gloss": "и на тремовите негови"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколку"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколку"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "должина"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "педесет"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "лакти"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "и ширина"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и дваесет"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "лакти"
+    }
+  ],
+  "timestamp": "2026-10-19T23:20:27.404454826Z",
+  "model": "glm-5.3"
+}

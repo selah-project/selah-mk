@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 66,
+  "translation": "Целата земја ќе ти се поклони и ќе ти пее, ќе пее на името твое села.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "целата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ќе ти се поклони"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "и ќе ти пее"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ќе пее"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "на името твое"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "села"
+    }
+  ],
+  "timestamp": "2026-10-19T23:57:35.368497142Z",
+  "model": "glm-5.3"
+}

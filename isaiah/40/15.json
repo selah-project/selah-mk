@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 40:15",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кантари",
+      "rationale": "מאזנים е двојна форма — 'сало\/вагани', македонскиот 'кантари' ја губи двојността"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הן ... הן",
+      "rationale": "повторениот 'ете' гради паралелизам: капка — прашинца — ситно нешто"
+    }
+  ],
+  "translation": "Ете, народите се како капка од ведро и како прашинца на кантари се сметаат; ете, островите како ситно нешто крева.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "3fc8a823deaa516ab678914f33ce538d2f1607201e1a99423619026b04dad2a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/40\/13-16.1792450031846.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ете"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "כמר",
+      "gloss": "како капка"
+    },
+    {
+      "surface": "מדלי",
+      "gloss": "од ведро"
+    },
+    {
+      "surface": "וכשחק",
+      "gloss": "и како прашинца"
+    },
+    {
+      "surface": "מאזנים",
+      "gloss": "на кантари"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "се сметаат"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ете"
+    },
+    {
+      "surface": "איים",
+      "gloss": "островите"
+    },
+    {
+      "surface": "כדק",
+      "gloss": "како ситно нешто"
+    },
+    {
+      "surface": "יטול",
+      "gloss": "крева"
+    }
+  ],
+  "timestamp": "2026-10-19T22:47:11.847545574Z",
+  "model": "glm-5.3"
+}

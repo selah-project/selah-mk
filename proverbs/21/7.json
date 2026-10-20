@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨нив⟩",
+      "rationale": "Заменката е во суфиксот на יגורם, македонскиот ја бара одделно"
+    },
+    {
+      "kind": "crux",
+      "subject": "יגורם",
+      "rationale": "Корен גרר: „ќе ги одвлече\/проголта“ vs „ќе ги занесе“ — KJV дури „ќе ги уништи“"
+    }
+  ],
+  "translation": "Насилството на злите ќе ги повлече ⟨нив⟩, зашто одбија да вршат суд.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "27aad930d67a940aa885ec55b748c65c7b54c0bb1e5cc68cd65085cdd1dda1db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/21\/5-8.1792454612820.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "насилството"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "на злите"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "ќе ги повлече"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "одбија"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да вршат"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    }
+  ],
+  "timestamp": "2026-10-20T00:03:32.821740907Z",
+  "model": "glm-5.3"
+}

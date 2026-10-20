@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 2:7",
+  "book": "jonah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעדי",
+      "rationale": "«зад мене» (YLТ) или «поради мене\/около мене» — границите на земјата ме затворија."
+    },
+    {
+      "kind": "addition",
+      "subject": "ме",
+      "rationale": "глаголот нема явен објект — «⟨ме⟩ затвори»."
+    },
+    {
+      "kind": "alternative",
+      "subject": "לעולם",
+      "rationale": "буквално «до скришноста\/вечноста» — «засекогаш» е вообичаеното читање."
+    }
+  ],
+  "translation": "До основите на планините се спуштив, земјата со своите резмиња ⟨ме⟩ затвори зад мене засекогаш; а Ти го кренна од јамата на пропаст животот мој, Јахве, Елохим мој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8db7c2e82440410234718a588ea9ab66e213514c3311f2eafedae4ad8e5beceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jonah\/2\/5-8.1792452425605.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקצבי",
+      "gloss": "До основите"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "на планините"
+    },
+    {
+      "surface": "ירדתי",
+      "gloss": "се спуштив"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "ברחיה",
+      "gloss": "со своите резмиња"
+    },
+    {
+      "surface": "вעדי",
+      "gloss": "зад мене"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "засекогаш"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "а кренна"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "од јамата на пропаст"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "животот мој"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мој"
+    }
+  ],
+  "timestamp": "2026-10-19T23:27:05.606344848Z",
+  "model": "glm-5.3"
+}

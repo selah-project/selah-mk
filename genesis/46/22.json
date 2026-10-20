@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "Македонскиот пасив бара помошен глагол, хебрејскиот го нема."
+    },
+    {
+      "kind": "substitution",
+      "subject": "души",
+      "rationale": "נפש е ближе до „живо суштество, здив, живот“ — бројат се луѓе, не бесмртни души."
+    },
+    {
+      "kind": "measurement",
+      "subject": "четиринаесет",
+      "rationale": "Бројот вели што вели хебрејскиот: сите души четиринаесет."
+    }
+  ],
+  "translation": "Ова ⟨се⟩ синовите на Рахел, што ⟨и⟩ се родија на Јааков: сите души — четиринаесет.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c7d1c1914f4478d08bee24db820d2aaadb2ee49748bcb3d94dae5b885648c9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/46\/21-24.1792443213201.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ова"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "на Рахел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "се родија"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "на Јааков"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "души"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четири"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наесет"
+    }
+  ],
+  "timestamp": "2026-10-19T20:53:33.203532273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 3:12",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הנה … הנה",
+      "rationale": "двојното „ево“ ја дели реченицата на два жарлични удар"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כמוך … כמוך",
+      "rationale": "„как тебе“ на почетокот и на крајот — инклузија што рамка го опкружува ветувањето"
+    }
+  ],
+  "translation": "Еве, направив според зборовите твои; еве, ти дадов срце мудро и разумно, такво што как тебе немало пред тебе, и по тебе нема да се појави как тебе.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "716fdfe4e3a8de23d4c6fd9c1c7c6d5c404b41564ce30d72666eaea24064779e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/3\/9-12.1792448571858.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "направив"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "според зборовите твои"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дадов"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудро"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "и разумно"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "как тебе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "имало"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред тебе"
+    },
+    {
+      "surface": "ואחריך",
+      "gloss": "и по тебе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "нема да се појави"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "как тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T22:22:51.860484679Z",
+  "model": "glm-5.3"
+}

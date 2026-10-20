@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "како камења",
+      "rationale": "хебрејската слика „сребро како камења“ значи крајна изобилност; задржана буквално"
+    },
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот бара помошен глагол во релативната реченица"
+    }
+  ],
+  "translation": "И царот го даде ⟨את⟩ среброто во Јерушалаим како камења, а ⟨את⟩ кедрите ги даде како сикоморите што ⟨се⟩ во низината, во изобилство.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c8171e20d8316bc2cbb3fae2224e3cb7849598c946e5d9c0df32e23b56b911ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/10\/25-28.1792448725470.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И го даде"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "среброто"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "среброто"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "во Јерушалаим"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "како камења"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "кедрите"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "кедрите"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ги даде"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "како сикоморите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "во низината"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "во изобилство"
+    }
+  ],
+  "timestamp": "2026-10-19T22:25:25.471352468Z",
+  "model": "glm-5.3"
+}

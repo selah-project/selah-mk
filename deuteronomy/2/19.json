@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 2:19",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "кон Израел\/Моше",
+      "rationale": "Забраната е директна наредба до народот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ги тесни",
+      "rationale": "תצרם од цур — да ограничиш, опсадиш; буквално „да ги стесниш”."
+    }
+  ],
+  "translation": "и ке се приближиш спроти синовите на Амон — не ги тесни и не се судрувај со нив, зашто нема да ти дадам од земјата на синовите на Амон ништо за наследство, зашто на синовите на Лот им ја дадов за наследство.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ec778812dd1f6f01b17555aa1361d39238f390a1e25663d5041e95a871bae6fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/2\/17-20.1792445282028.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקרבת",
+      "gloss": "ке се приближиш"
+    },
+    {
+      "surface": "מול",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "на Амон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תצרם",
+      "gloss": "ги тесни"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "се судрувај"
+    },
+    {
+      "surface": "בם",
+      "gloss": "со нив"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ке дадам"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "на Амон"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "за наследство"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовите"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "на Лот"
+    },
+    {
+      "surface": "נתתיה",
+      "gloss": "им ја дадов"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "за наследство"
+    }
+  ],
+  "timestamp": "2026-10-19T21:28:02.029877419Z",
+  "model": "glm-5.3"
+}

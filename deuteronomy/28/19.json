@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בבאך\/בצאתך",
+      "rationale": "Меризам влегување–излегување: целото постоење е опфатено со клетвата."
+    }
+  ],
+  "translation": "Проклет ⟨да бидеш⟩ кога влегуваш и проклет ⟨да бидеш⟩ кога излегуваш.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f0defbafbbda89eae1d0eb94f35ff549b7f66c3fb06ecb3008fbab28b90dee60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/28\/17-20.1792445769180.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклет"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "кога влегуваш"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "и проклет"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "кога излегуваш"
+    }
+  ],
+  "timestamp": "2026-10-19T21:36:09.181592360Z",
+  "model": "glm-5.3"
+}

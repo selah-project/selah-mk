@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара"
+    },
+    {
+      "kind": "substitution",
+      "subject": "имаше",
+      "rationale": "וַתְּהִי е буквално „и беше“ — жена стана\/му беше, македонскиот користи „имаше“"
+    }
+  ],
+  "translation": "И Јерахмеел имаше ⟨е⟩ друга жена, и нејзиното име ⟨е⟩ Атара — таа е мајка на Онам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d9cf93b5cb73c2fa5eaa8d2aa55bc28f4e9e620e415dcb9cc5ad99a6994f2579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/2\/25-28.1792456805908.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "И имаше"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "друга"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "на Јерахмеел"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "и нејзиното име"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "Атара"
+    },
+    {
+      "surface": "היא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "אם",
+      "gloss": "мајка"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "на Онам"
+    }
+  ],
+  "timestamp": "2026-10-20T00:40:05.908754824Z",
+  "model": "glm-5.3"
+}

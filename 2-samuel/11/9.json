@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "пред вратата",
+      "rationale": "פתח е буквално 'отворање\/влез', не толку 'врата' како предмет"
+    },
+    {
+      "kind": "addition",
+      "subject": "свој\/своја",
+      "rationale": "македонскиот бара прирок на присвојност каде хебрејскиот има суфикс на именката"
+    }
+  ],
+  "translation": "И легна Урија пред вратата на куќата на царот со ⟨את⟩ сите слуги на господарот свој, и не слезе во куќата своја.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "dacb6223185ec7508e69a22eb0624312a1a548078775e66cf7602449a35ede9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/11\/9-12.1792448166021.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "и легна"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урија"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "пред вратата"
+    },
+    {
+      "surface": "בית",
+      "gloss": "куќата"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите слуги на господарот свој"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуги"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "на господарот свој"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "слезе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "куќата своја"
+    }
+  ],
+  "timestamp": "2026-10-19T22:16:06.023061761Z",
+  "model": "glm-5.3"
+}

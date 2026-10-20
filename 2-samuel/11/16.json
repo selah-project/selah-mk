@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "го чуваше градот",
+      "rationale": "בשמור אל העיר буквално 'во чувањето кон градот' — опсада или набљудување; преведувачите се делат."
+    },
+    {
+      "kind": "addition",
+      "subject": "се · има",
+      "rationale": "Македонски бара рефлексив 'се' и приговарката 'има' што хебрејскиот го изостава."
+    }
+  ],
+  "translation": "И ⟨се⟩ случи, додека Јоав го чуваше⟨е⟩ градот, дека го постави ⟨את⟩ Урија на местото за кое знаеше дека таму ⟨има⟩ храбри луѓе.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "4c71a5eb2f7834d7952f882dec82f1fe2ba7fdd49a5fae37ef9b8fcc9d3b3670",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/11\/13-16.1792448174826.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И ⟨се⟩ случи"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "додека чуваше"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "го постави"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Урија"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урија"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "местото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "за кое"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знаеше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "луѓе"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "храбри"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    }
+  ],
+  "timestamp": "2026-10-19T22:16:14.831192167Z",
+  "model": "glm-5.3"
+}

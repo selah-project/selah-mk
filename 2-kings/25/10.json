@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "началник на касапите",
+      "rationale": "רב טבחים буквално 'главен касап\/џелат', титула на НевузарАдан."
+    }
+  ],
+  "translation": "А ⟨את⟩ ѕидовите на Јерушалаим околу — ги сруши сета војска на Кашдим што беше кај началникот на касапите.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/25\/9-12.1792449479084.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ѕидовите на Јерушалаим"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ѕидовите"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    },
+    {
+      "surface": "סבив",
+      "gloss": "околу"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "ги сруши"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сета"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "војска"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "на Кашдим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "רב",
+      "gloss": "началникот"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "на касапите"
+    }
+  ],
+  "timestamp": "2026-10-19T22:37:59.085495536Z",
+  "model": "glm-5.3"
+}

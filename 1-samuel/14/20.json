@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויזעק",
+      "rationale": "Буквално „извика\/заповта“ — KJV и JPS читаат „се собра“, што е интерпретација од латинската традиција."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מהומה גדולה מאד",
+      "rationale": "Натрупување на интензитет: „превирање големо многу“ — редот на зборовите е задржан"
+    }
+  ],
+  "translation": "И извика Шаул и сите луѓе што беа ⟨את⟩ со него, и дојдоа до битката; и еве — мечот на секој човек беше против ближниот свој: превирање големо многу.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "9fdb326b8f451a47e1d3a398f413f01b84c479685ada0e49f42f844a8e8dc645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/14\/18-20.1792447838825.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "И извика"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сите"
+    },
+    {
+      "surface": "העם",
+      "gloss": "луѓе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "со него"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и дојдоа"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "битката"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и еве"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мечот"
+    },
+    {
+      "surface": "איש",
+      "gloss": "на секој човек"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "против ближниот свој"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "превирање"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "големо"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    }
+  ],
+  "timestamp": "2026-10-19T22:10:38.827576235Z",
+  "model": "glm-5.3"
+}

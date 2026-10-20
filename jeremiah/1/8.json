@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתך",
+      "rationale": "Ова е предлогот את „со“, не обележувачот на предмет ⟨את⟩ (H854, не H853); глаголот „сум“ е од контекстот."
+    },
+    {
+      "kind": "you",
+      "subject": "до Еремија",
+      "rationale": "Заповед и ветување директно упатени до пророкот."
+    },
+    {
+      "kind": "invitation",
+      "subject": "не плаши се",
+      "rationale": "Императив — повик за доверба наместо страв."
+    }
+  ],
+  "translation": "Не плаши се од нивните лица, зашто сум ⟨со⟩ ⟨את⟩ тебе, за да те избавам — изрека на Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9526012e6d615aec7f91c1c17f7ea2cea3a40e7a222bfd91524a8c0244d6e3ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/1\/5-8.1792450412303.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "плаши се"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "од нивните лица"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ тебе"
+    },
+    {
+      "surface": "אני",
+      "gloss": "сум"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "за да те избавам"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T22:53:32.304464143Z",
+  "model": "glm-5.3"
+}

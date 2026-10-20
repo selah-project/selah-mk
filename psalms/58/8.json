@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידרך חצו",
+      "rationale": "'тој што ја напнува стрелата своја' — кој напнува: Бог или непријателот? КЈВ\/ЈПС: Бог ја крева стрелата; други: лукот се крева врз нив."
+    },
+    {
+      "kind": "crux",
+      "subject": "יתמללו",
+      "rationale": "корен מול значи 'сече, обрежува' — 'нека бидат отсечени\/обрезани\/искршени'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "исчезнат",
+      "rationale": "מאס е 'да сплука, да биде отфрлен' — тука пренесено 'да исчезнат, да се растопат'."
+    }
+  ],
+  "translation": "Нека исчезнат како води што си одат; кога ќе ја напне стрелата своја, нека бидат како одсечени.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "eb817a6b037371ddaaf7bf83a2a4b6b8f71815d55c3ab7cafac572118ebca6f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/58\/5-8.1792453424118.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "нека исчезнат"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "како"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "што си одат"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨сами⟩"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "кога ќе ја напне"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "стрелата своја"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "како"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "одсечени"
+    }
+  ],
+  "timestamp": "2026-10-19T23:43:44.119591171Z",
+  "model": "glm-5.3"
+}

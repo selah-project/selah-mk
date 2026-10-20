@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 52:13",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Еве",
+      "rationale": "הנה повикува читателот да го погледне слугата"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ќе постапи мудро",
+      "rationale": "שכל може да значи и 'ќе успее' (JPS 'prosper')"
+    }
+  ],
+  "translation": "Еве, слугата мој ќе постапи мудро; ќе се издигне, ќе биде подигнат и многу возвишен.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1838443870f3ef58a9d2684f3a3bcb23f538585678be9be6d10b22464d72e51a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/52\/13-15.1792450223874.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "ќе постапи мудро"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слугата мој"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ќе се издигне"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "и ќе биде подигнат"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "и возвишен"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    }
+  ],
+  "timestamp": "2026-10-19T22:50:23.874807005Z",
+  "model": "glm-5.3"
+}

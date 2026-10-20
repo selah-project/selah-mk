@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 25:8",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ако устои",
+      "rationale": "ועמד — 'стане\/остане тврд': 'ако инсистира' (KJV) наспроти само 'стане и рече' (JPS, буквално)"
+    }
+  ],
+  "translation": "Тогаш ќе го повикаат старешините на градот неговиот и ќе му зборуваат; ако тој устои и рече: не сакам да ја земам неа —",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d122cc579db97ba7d90f3fe89a70a8e39ca03246f860df52c2ed08939a079c28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/25\/5-8.1792445717345.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקראו",
+      "gloss": "тогаш ќе го повикаат"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старешините"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "на градот неговиот"
+    },
+    {
+      "surface": "ודברו",
+      "gloss": "и ќе му зборуваат"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "со него"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "ако устои"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "сакам"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "да ја земам неа"
+    }
+  ],
+  "timestamp": "2026-10-19T21:35:17.351326252Z",
+  "model": "glm-5.3"
+}

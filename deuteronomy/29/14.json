@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот ישנו е экзистенцијална честичка, македонскиот бара глагол 'е'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "оној што не е тука",
+      "rationale": "заветот ги опфаќа и отсутните — идните поколенија, неименувани"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישנו\/איננו",
+      "rationale": "напоредна антитеза 'има го тука' ↔ 'нема го тука', задржана во македонскиот"
+    }
+  ],
+  "translation": "Зашто ⟨את⟩ оној што е тука со нас, стој денес пред Јахве, Елохим нашиот, и ⟨את⟩ оној што не е тука со нас денес.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "4cce3abf327ce58c55f70fadbf7f95eac3d495e0a9cfd29c9924e901e110ef13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/29\/13-16.1792445773929.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оној што е тука со нас"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "⟨е⟩"
+    },
+    {
+      "surface": "פה",
+      "gloss": "тука"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "со нас"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стој"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохим нашиот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "оној што не е тука со нас"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "не е"
+    },
+    {
+      "surface": "פה",
+      "gloss": "тука"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "со нас"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    }
+  ],
+  "timestamp": "2026-10-19T21:36:13.930607189Z",
+  "model": "glm-5.3"
+}

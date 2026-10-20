@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 22:3",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨со⟩",
+      "rationale": "אתו е предлог 'со него', тука носи и ⟨את⟩ според структурата на потезот"
+    },
+    {
+      "kind": "measurement",
+      "subject": "двата моментчиња",
+      "rationale": "бројот два е точен и останува"
+    }
+  ],
+  "translation": "И стана Аврахам наутро рано, и го оседла ⟨את⟩ магарето свое, и ги зема ⟨את⟩ двата свои момчиња ⟨את⟩ со себе и ⟨את⟩ Јицхак синот свој, и ги насеча дрвата за сепаленик, и стана и отиде до местото за кое му било кажано од Елохим.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e2e1f3329f59fb0e0161134ce949bc8d5289e6a0948a3bbdb9bf792bacab6c63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/22\/1-4.1792442662367.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "стана рано"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "наутро"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "и го оседла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "магарето свое"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "магарето свое"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и ги зема"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "двата свои момчиња"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двата"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "свои момчиња"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ со"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Јицхак"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Јицхак"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот свој"
+    },
+    {
+      "surface": "ויבקע",
+      "gloss": "и ги насеча"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "дрвата"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "за сепаленик"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "местото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "за кое"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "било кажано"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "од Елохим"
+    }
+  ],
+  "timestamp": "2026-10-19T20:44:22.372150089Z",
+  "model": "glm-5.3"
+}

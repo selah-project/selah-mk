@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "дванаесет илјади",
+      "rationale": "Бројката на паднатите Едомци, дадена точно како во хебрејскиот."
+    },
+    {
+      "kind": "addition",
+      "subject": "дванаесет",
+      "rationale": "„שנים עשר“ е дванесет на два збора во хебрејскиот; македонскиот користи еден збор за двата токена."
+    }
+  ],
+  "translation": "Кога воеваше против ⟨את⟩ Арам Нахараим и против ⟨את⟩ Арам Цова, и се врати Јоав и порази ⟨את⟩ Едом во Долината на солта — дванаесет илјади.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "355980abfbaa019127ae05d270b32ba9952e398369a1570b8b40c234829c51d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/60\/1-4.1792453404121.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "Кога воеваше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Арам Нахараим"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Нахараим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Арам Цова"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Цова"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и се врати"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "и порази"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Едом"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "во Долината"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "на солта"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дванаесет"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "дванаесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјади"
+    }
+  ],
+  "timestamp": "2026-10-19T23:43:24.122061211Z",
+  "model": "glm-5.3"
+}

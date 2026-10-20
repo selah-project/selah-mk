@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 56:11",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "по душата",
+      "rationale": "נפеш е жед\/животна сила — букв. „силни по нефеш“ — не душа во подоцнежна смисла."
+    },
+    {
+      "kind": "irony",
+      "subject": "кучиња пастири",
+      "rationale": "Сарказам: кучињата што требаше да лаат сега се пастири над стадото."
+    }
+  ],
+  "translation": "А кучињата ⟨се⟩ жедни по душата, не знаат што е ситост; тие ⟨се⟩ пастири, не знаат да разбираат; сите свртуваат кон својот пат, секој кон својата корист, од својата страна.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f935ac1ebd796e2ebd9258ba87f2a9fc9e1ea4cc8af1004bb213a40f5b71460d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/56\/9-12.1792450238819.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכלבים",
+      "gloss": "а кучињата"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "жедни"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "по душата"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знаат"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ситост"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "пастири"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знаат"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "да разбираат"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "сите"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "кон својот пат"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "свртуваат"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој"
+    },
+    {
+      "surface": "לבצעו",
+      "gloss": "кон својата корист"
+    },
+    {
+      "surface": "מקצהו",
+      "gloss": "од својата страна"
+    }
+  ],
+  "timestamp": "2026-10-19T22:50:38.820997772Z",
+  "model": "glm-5.3"
+}

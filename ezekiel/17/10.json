@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 17:10",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "македонскиот бара помошен глагол; хебрејскиот нема копула"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבש",
+      "rationale": "коренот 'изеднува' три пати во еден стих — бесен ритам на пропаста"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יבש",
+      "rationale": "инфинитивен апсолут го засилува глаголот — 'сосема да изедне'"
+    }
+  ],
+  "translation": "И еве, пресадена ⟨е⟩ — дали ќе успее? Нејќе ли, штом ќе ја допре руах источна, да изедне — сосема? На леите на растот нејзин ќе изедне.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3146f8cbb5d6ea7a10523034962168cac8cba2e237bbe9b156261e8533af8234",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/17\/9-12.1792451574310.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "И еве"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "пресадена"
+    },
+    {
+      "surface": "התצלח",
+      "gloss": "дали ќе успее"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Нејќе ли"
+    },
+    {
+      "surface": "כגעת",
+      "gloss": "штом ќе ја допре"
+    },
+    {
+      "surface": "בה",
+      "gloss": "неа"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "источна"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "да изедне"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "сосема"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ערגת",
+      "gloss": "леите"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "на растот нејзин"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "ќе изедне"
+    }
+  ],
+  "timestamp": "2026-10-19T23:12:54.311293444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "המלכת",
+      "rationale": "Молехет — лично име со член, јавува само тука во Танах"
+    },
+    {
+      "kind": "measurement",
+      "subject": "родослов",
+      "rationale": "список на потомци на Молехет"
+    }
+  ],
+  "translation": "И сестра му, Молехет, роди ⟨את⟩ Ишод, и ⟨את⟩ Авиезер, и ⟨את⟩ Махла.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e5f17eeaedbd65afd60a8eea9a37524552506fb91be2f9f119b71481eafec07a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/7\/17-20.1792456925525.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "И сестра му"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Молехет"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ишод"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ишод"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Авиезер"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Авиезер"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Махла"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Махла"
+    }
+  ],
+  "timestamp": "2026-10-20T00:42:05.526754154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 2:2",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ונהרו",
+      "rationale": "корен נהר — и сјаат\/течат: народите „течат“ како река кон гората; македонскиот „потечат“ го губи сјајот"
+    },
+    {
+      "kind": "mystery",
+      "subject": "באחרית הימים",
+      "rationale": "„во крајот на дените“ — отворена иднина, не кажано кога"
+    }
+  ],
+  "translation": "И ќе биде во крајот на дените: утврдена ќе биде гората на домот на Јахве на чело на горите, и ќе се издигне над ридовите, и ќе потечат кон него сите народи.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "4a521ae11be849a0cacbf48072a998c302126c37ad15bab58e907430a2d6169f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/2\/1-4.1792449593130.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И ќе биде"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "во крајот"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "на дените"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "утврдена"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гората"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "на чело"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "на горите"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "и ќе се издигне"
+    },
+    {
+      "surface": "מגבעות",
+      "gloss": "над ридовите"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "и ќе потечат"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "кон него"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    }
+  ],
+  "timestamp": "2026-10-19T22:39:53.132246272Z",
+  "model": "glm-5.3"
+}

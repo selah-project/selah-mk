@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Македонскиот бара сврзеност меѓу 'така' и 'човек'; хебрејскиот ја нема."
+    },
+    {
+      "kind": "crux",
+      "subject": "רמה",
+      "rationale": "Буквално 'фрла\/стрелува', фигуративно 'измамува' — избрав фигуративното."
+    },
+    {
+      "kind": "you",
+      "subject": "до блискиот измамен",
+      "rationale": "Претпоставениот говор во стихот директно му се обраќа на жртвата на шегата."
+    }
+  ],
+  "translation": "така е човек што го измамува ⟨את⟩ блискиот свој и вели: Зар не се шегувам јас?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a4d1658b670530c0c88c2c8dedb6453aa08a75076a469900f032720404026761",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/26\/17-20.1792454708155.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "измамува"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "блискиот свој"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "блискиот свој"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и вели"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "зар не"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "шегувам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    }
+  ],
+  "timestamp": "2026-10-20T00:05:08.156137379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 20:6",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שיאו",
+      "rationale": "'височина\/гордост' — преводите се делат меѓу 'висина' (буквално) и 'гордост\/високомерие' (преносно)"
+    }
+  ],
+  "translation": "Ако се качи височината негова до небото, и главата негова до облак допре —",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "069c16e0745b9e2e5113f2773b6619d3c082ffbf70c966384b9301dc41c53185",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/20\/5-8.1792455063487.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ака"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "се качи"
+    },
+    {
+      "surface": "לשמים",
+      "gloss": "до небото"
+    },
+    {
+      "surface": "שיאו",
+      "gloss": "височината негова"
+    },
+    {
+      "surface": "וראשו",
+      "gloss": "и главата негова"
+    },
+    {
+      "surface": "לעב",
+      "gloss": "до облак"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "допре"
+    }
+  ],
+  "timestamp": "2026-10-20T00:11:03.488132818Z",
+  "model": "glm-5.3"
+}

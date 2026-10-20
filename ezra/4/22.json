@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 4:22",
+  "book": "ezra",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שלו",
+      "rationale": "буквално 'вината\/грешката' — 'без грешка занемарување' vs слободно 'не бидете небрежни'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "штета",
+      "rationale": "חבלא е правен\/финансиски термин — штета и во имот и лична"
+    },
+    {
+      "kind": "you",
+      "subject": "до намесниците",
+      "rationale": "апел до службениците"
+    }
+  ],
+  "translation": "И внимавајте да не занемарите ⟨се⟩ во ова — зошто би пораснала штета на缺点损伤 на кралевите?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ca046bd20883f9f08a14a02e1631db62ac592dcc0489c9ca31f3ea7e47e36d82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezra\/4\/21-24.1792456427180.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזהירין",
+      "gloss": "внимавајте"
+    },
+    {
+      "surface": "הוו",
+      "gloss": "бидете"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "без занемарување"
+    },
+    {
+      "surface": "למעבד",
+      "gloss": "да направите"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "ישגא",
+      "gloss": "би пораснала"
+    },
+    {
+      "surface": "חבלא",
+      "gloss": "штета"
+    },
+    {
+      "surface": "להנזקת",
+      "gloss": "на оштетување"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "на кралевите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:33:47.180941964Z",
+  "model": "glm-5.3"
+}

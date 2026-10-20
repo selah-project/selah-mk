@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 22:51",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "легна со татковците свои",
+      "rationale": "Хебрејски евфемизм за смрт — букв. „леже со своите татковци“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "прелистот на царот",
+      "rationale": "Формуларен запис за смртта и наследувањето на престолот."
+    }
+  ],
+  "translation": "И Јехошафат легна со татковците свои, и беше погребан со татковците свои во градот на Давид, татко му; и зацари се Јехорам, синот негов, наместо него.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e920bff9dc800c7fe1971a508456b3c5e064b5537f12b8f3c09dfa751281cdfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/22\/49-52.1792449056318.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "И легна"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Јехошафат"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "татковците свои"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "и беше погребан"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "татковците свои"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "во градот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "татко му"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и зацари се"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Јехорам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот негов"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "наместо него"
+    }
+  ],
+  "timestamp": "2026-10-19T22:30:56.320122057Z",
+  "model": "glm-5.3"
+}

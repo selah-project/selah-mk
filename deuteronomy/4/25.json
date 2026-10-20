@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 4:25",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "него",
+      "rationale": "Македонскиот го бара директниот објект што хебрејскиот infix го носи во л\/прилогот"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јисраел",
+      "rationale": "Моше им се обраќа на синовите на Јисраел"
+    }
+  ],
+  "translation": "Кога ќе родиш синови и синови на синови, и ќе остарите во земјата, и ќе се расипете, и ќе направите — ⟨את⟩ идол, лик на било што — и ќе правите зло во очите на Јахве, твојот Елохим, за да го разгневите него,",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ae40f5c0ae8adc61a93f45f8eaddd5115f4fa77ee499088ccf13419f89fadeb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/4\/25-28.1792445395600.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "ќе родиш"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синови на"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ונושנתם",
+      "gloss": "ќе остарите"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "והשחתם",
+      "gloss": "и ќе се расипете"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "и ќе направите"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "идол"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "лик на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "било што"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "и ќе правите"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "во очите на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "להכעיסו",
+      "gloss": "за да го разгневите него"
+    }
+  ],
+  "timestamp": "2026-10-19T21:29:55.601300672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "осрамудиш",
+      "rationale": "חלל буквално 'да пробушиш, пробиеш' — фигуративно 'да осквернавиш'; физичката слика се губи."
+    },
+    {
+      "kind": "addition",
+      "subject": "сум",
+      "rationale": "Хебрејскиот ја нема копулата."
+    },
+    {
+      "kind": "you",
+      "subject": "до Израел",
+      "rationale": "Забраните се упатени директно кон заедницата на Израел."
+    }
+  ],
+  "translation": "И не колнете се во Името мое лага, и немој да го осрамудиш ⟨את⟩ Името на Елохим твојот; јас сум Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "040d901e7cfb789fef6d2f0069f1e70b1c123c92e4e9db9f1e3ea02e9fa0a875",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/19\/9-12.1792444340507.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "колнете се"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "во Името мое"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "лага"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "осрамудиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Името"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Името"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "на Елохим твојот"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас сум"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:12:20.512378232Z",
+  "model": "glm-5.3"
+}

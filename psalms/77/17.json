@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "се извртеа",
+      "rationale": "יחילו од חול значи буквално да се извртува во круг; традиционално 'се уплашиja' или 'се стрвднеа'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראוך מים ... ראוך מים",
+      "rationale": "точна репетиција, ехо-структура изгубена во секој превод што ја скратува"
+    }
+  ],
+  "translation": "Те видоа водите, Елохим, те видоа водите, се извртеа, дури и бездните се затрепереа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "237a6ef3212480a073053ad2f6687c93a9331e9aa81b618ee548636cfbb71808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/77\/17-20.1792453602932.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "те видоа"
+    },
+    {
+      "surface": "מים",
+      "gloss": "водите"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "те видоа"
+    },
+    {
+      "surface": "מים",
+      "gloss": "водите"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "се извртеа"
+    },
+    {
+      "surface": "אף",
+      "gloss": "дури и"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "се затрепереа"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "бездните"
+    }
+  ],
+  "timestamp": "2026-10-19T23:46:42.933183414Z",
+  "model": "glm-5.3"
+}

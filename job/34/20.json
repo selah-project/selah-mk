@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 34:20",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "יגעשו",
+      "rationale": "корен געש е крајно редок во Танах; 'да се разтресе насилно'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא ביד",
+      "rationale": "буквално 'не со рака' = без човечка Intervention, без човечко средство."
+    }
+  ],
+  "translation": "Во миг ќе умрат, и на средноќ народот ќе биде затресен и ќе помине; и силниот ќе биде отстранет — не со рака.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e48203d75f7dc2a0718d925269797892361d95e659e65cc307bc86692cd4e3d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/34\/17-20.1792455264428.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "во миг"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ќе умрат"
+    },
+    {
+      "surface": "וחצות",
+      "gloss": "и средноќ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноќ"
+    },
+    {
+      "surface": "יגעשו",
+      "gloss": "ќе биде затресен"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "и ќе поминат"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "и ќе отстранат"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "силниот"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "со рака"
+    }
+  ],
+  "timestamp": "2026-10-20T00:14:24.429287094Z",
+  "model": "glm-5.3"
+}

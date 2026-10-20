@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 14:9",
+  "book": "hosea",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עניתי ואשורנו",
+      "rationale": "„Одговорив и ќе го набљудувам“ (Јахве говори) наспроти „го чув и го видов“ (Ефраим како предмет); КЈВ\/ЈПС го делат полутно."
+    },
+    {
+      "kind": "substitution",
+      "subject": "чамовина",
+      "rationale": "כברוש е дрво — кипарис или јунаiper — точниот вид е несигурен."
+    },
+    {
+      "kind": "addition",
+      "subject": "нему",
+      "rationale": " македонскиот бара објектски заменски клитика каш ואשורנו."
+    }
+  ],
+  "translation": "Ефраим ќе рече: Што ми е уште до идолите? Јас одговорив и Ќе го набљудувам ⟨него⟩; Јас сум како буна чамовина — од Мене твојот плод се наоѓа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2ce9cf812abc2731870860f7871dfbf41f17365849ede2823967bad4a3198f7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/hosea\/14\/9-10.1792452264060.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраим"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми е"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уште"
+    },
+    {
+      "surface": "לעצבים",
+      "gloss": "до идолите"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "одговорив"
+    },
+    {
+      "surface": "ואשורנו",
+      "gloss": "и ќе го набљудувам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "כברוש",
+      "gloss": "како чамовина"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "буна"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "од Мене"
+    },
+    {
+      "surface": "פריך",
+      "gloss": "твојот плод"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "се наоѓа"
+    }
+  ],
+  "timestamp": "2026-10-19T23:24:24.060904063Z",
+  "model": "glm-5.3"
+}

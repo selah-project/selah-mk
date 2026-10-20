@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויען ... קשה",
+      "rationale": "буквално 'одговори сурово'; קשה е придавка 'тврд, суров' како начин на одговарање"
+    }
+  ],
+  "translation": "И царот одговори на ⟨את⟩ народот сурово, и ја остави ⟨את⟩ советот на старешините што му го советувале.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a2fa3beeb925950d30a41a739fbcd841451edf473b4cfd29b99a7f1de437cc84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/12\/13-16.1792448848840.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "одговори"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "на народот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "сурово"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "остави"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "советот"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "советот"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "на старешините"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "му советувале"
+    }
+  ],
+  "timestamp": "2026-10-19T22:27:28.842318887Z",
+  "model": "glm-5.3"
+}

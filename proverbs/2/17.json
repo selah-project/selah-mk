@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 2:17",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלוף",
+      "rationale": "'другар\/водач\/господар на младоста' — другар од младоста или прв маж; преводите се делат."
+    }
+  ],
+  "translation": "Која го напушти другарот на младоста своја и ⟨את⟩ заветот на Елохим свој заборави.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e9a0b7110083cd112e2542f5a96157b4409c2b841884b13041db69e657ce1932",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/2\/17-20.1792454238241.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העזבת",
+      "gloss": "напушти"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "другар"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "младоста своја"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "заветот на Елохим свој"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "заветот"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "на Елохим свој"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "заборави"
+    }
+  ],
+  "timestamp": "2026-10-19T23:57:18.242409752Z",
+  "model": "glm-5.3"
+}

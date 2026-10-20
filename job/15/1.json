@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 15:1",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 15,
+  "translation": "И одговори Елифаз Теманецот и рече:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a1a0ea9df594d6cf40835ae1ea0568dcbdcdc0985bf06f4ccbb8df46fe2d75be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/15\/1-4.1792454987566.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И одговори"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Елифаз"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "Теманецот"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:47.566632854Z",
+  "model": "glm-5.3"
+}

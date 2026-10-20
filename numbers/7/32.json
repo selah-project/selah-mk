@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 7:32",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨шекели⟩",
+      "rationale": "хебрејскиот вели само „десет“ — мерката е надополнета"
+    },
+    {
+      "kind": "measurement",
+      "subject": "тег",
+      "rationale": "десет шекели злато"
+    },
+    {
+      "kind": "substitution",
+      "subject": "лажица",
+      "rationale": "כף е длан — сад облик на шуплива длан, не „кафена лажица“"
+    }
+  ],
+  "translation": "една златна лажица од десет ⟨шекели⟩, полна со темјан.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b3b91bb1dd97327df969ddfd4aff3108553103c7c55e8100fad7ef24f448a654",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/7\/30-32.1792447718851.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "лажица"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златна"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "полна"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "темјан"
+    }
+  ],
+  "timestamp": "2026-10-19T22:08:38.853068087Z",
+  "model": "glm-5.3"
+}

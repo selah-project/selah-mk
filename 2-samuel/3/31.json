@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 3:31",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "македонскиот пасивен сврзител што хебрејскиот не го има."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Раскинајте… оплакувајте",
+      "rationale": "наредби упатени директно на Јоав и народот."
+    }
+  ],
+  "translation": "И Давид рече на Јоав и на сиот народ што беше ⟨со⟩ него: Раскинајте ги алиштата ваши и препашете си вреќи, и оплакувајте пред Авнер. А царот Давид одеше зад носилката.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "535d78ca1e3b04b5a13d8ff7d16f36fd2111190561f22b1169bbac185e35fbd0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/3\/29-32.1792448121423.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сиот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ со него"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "раскинајте"
+    },
+    {
+      "surface": "בגדיכם",
+      "gloss": "ги алиштата ваши"
+    },
+    {
+      "surface": "וחגרו",
+      "gloss": "и препашете"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "си вреќи"
+    },
+    {
+      "surface": "וספדו",
+      "gloss": "и оплакувајте"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнер"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "А царот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "одиеше"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "зад"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "носилката"
+    }
+  ],
+  "timestamp": "2026-10-19T22:15:21.426763178Z",
+  "model": "glm-5.3"
+}

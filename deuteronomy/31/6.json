@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 31:6",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "хизку вематсу",
+      "rationale": "Повелби што повикуваат: бидете силни и храбри."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Македонскиот бара сврзник пред 'Тој што оди'; хебрејскиот го има само нагласеното הוא."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "хизку \/ вематсу",
+      "rationale": "Пар синоими за сила и храброст, повторен и во ст. 7 и 31:23 — заклетвен рефрен."
+    },
+    {
+      "kind": "you",
+      "subject": "до Јисраел (мн. → ед.)",
+      "rationale": "Стихот преминува од второ лице множина на еднично — целиот народ како еден."
+    }
+  ],
+  "translation": "Бидете силни и храбри, не плашете се и не се ужасувајте од нив, зашто Јахве, Елохим твој, ⟨е⟩ Тој што оди со тебе; нема да те ослабее ниту да те остави.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c1616bfc945716b24b37b1f5dedf411c1c17f5f484fc6f1d66229893557a65a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/31\/5-8.1792445870498.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Бидете силни"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "и храбри"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "плашете се"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תערצו",
+      "gloss": "се ужасувајте"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "од нив"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Тој"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "што оди"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "со тебе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "да те ослабее"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ниту"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "да те остави"
+    }
+  ],
+  "timestamp": "2026-10-19T21:37:50.499270089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "со",
+      "rationale": "אל буквально значи 'кон\/кај', македонскиот бара 'со' или 'кон'"
+    }
+  ],
+  "translation": "И говореше Јахве со Моше, велеше:",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d0a6f1922c881d88ff586a735e3a0b656ac8882ea3492ba0426b30e2a77fb0d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/24\/1-4.1792444503470.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говореше"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "со"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велеше"
+    }
+  ],
+  "timestamp": "2026-10-19T21:15:03.472789555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 9:5",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נקדים",
+      "rationale": "Речкост — 'испикани\/трошливи' лебчиња; преведено како 'трошки'."
+    },
+    {
+      "kind": "crux",
+      "subject": "צידם",
+      "rationale": "'нивната храна за пат' — букв. 'нивниот лов\/храна'; KJV 'provision'."
+    },
+    {
+      "kind": "addition",
+      "subject": "стана",
+      "rationale": "היה е акцентиран 'стана', не обична копула."
+    }
+  ],
+  "translation": "и истрошени и закрпени сандали на нивните нозе, и истрошени облеки на нив, и сè ⟨את⟩ лебот за нивниот пат беше сушен — стана трошки.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "13a945607580002e073b48087e4f52cea151529219177e00709f44a7a29a85c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/9\/5-8.1792446024902.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונעלות",
+      "gloss": "сандали"
+    },
+    {
+      "surface": "בלות",
+      "gloss": "истрошени"
+    },
+    {
+      "surface": "ומטלאות",
+      "gloss": "и закрпени"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "на нивните нозе"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "и облеки"
+    },
+    {
+      "surface": "בלות",
+      "gloss": "истрошени"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "на нив"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сè"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "צידם",
+      "gloss": "за нивниот пат"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "беше сушен"
+    },
+    {
+      "surface": "היה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "трошки"
+    }
+  ],
+  "timestamp": "2026-10-19T21:40:24.903489351Z",
+  "model": "glm-5.3"
+}

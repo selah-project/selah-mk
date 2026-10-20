@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 5:28",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דרכות",
+      "rationale": "од דרך 'да гази' — лакови намотани со газење; 'напнати' ја задржува воената слика"
+    },
+    {
+      "kind": "crux",
+      "subject": "כסופה",
+      "rationale": "'ураган\/виор' — од корен со 'се' (мрак, бура); метафора за тркала на бојни коли"
+    }
+  ],
+  "translation": "Чијашто стрели се заострени и сите лакови негови напнати; копитата на коњите негови како кремен се сметаат, и тркалата негови каку виор.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "86f9a95b5c9a74562f9ffbafde7287c5ec95782e93a78535d90ab710ff81dad7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/5\/25-28.1792449675340.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Чијашто"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "стрелите негови"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "заострени"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сите"
+    },
+    {
+      "surface": "קשתתיו",
+      "gloss": "лакови негови"
+    },
+    {
+      "surface": "דרכות",
+      "gloss": "напнати"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "копитата"
+    },
+    {
+      "surface": "סוסיו",
+      "gloss": "на коњите негови"
+    },
+    {
+      "surface": "כצר",
+      "gloss": "како кремен"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "се сметаат"
+    },
+    {
+      "surface": "וגלגליו",
+      "gloss": "и тркалата негови"
+    },
+    {
+      "surface": "כסופה",
+      "gloss": "каку виор"
+    }
+  ],
+  "timestamp": "2026-10-19T22:41:15.342873770Z",
+  "model": "glm-5.3"
+}

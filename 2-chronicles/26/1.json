@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "македонскиот бара копула кај „а тој беше на шеснаесет години“"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בן שש עשרה שנה",
+      "rationale": "буквално „син на шеснаесет години“ — македонскиот вели „на шеснаесет години“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "шеснаесет години",
+      "rationale": "возраста на Узијаху при стапувањето на престолот"
+    }
+  ],
+  "translation": "И го зедоа сите луѓе на Јехуда ⟨את⟩ Узијаху — а тој беше на шеснаесет години — и го воведоа во царство ⟨את⟩ него наместо татко му Амацијаху.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7d9a2d034a03135cab36b77fa342f1a2f32669433a2edb137ef85edcdcc7d896",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/26\/1-4.1792457778765.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "и го зедоа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "עם",
+      "gloss": "луѓе"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јехуда"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Узијаху"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Узијаху"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а тој"
+    },
+    {
+      "surface": "בן",
+      "gloss": "на … години"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шес"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "наесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "го воведоа во царство"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "го"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "наместо"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "татко му"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Амацијаху"
+    }
+  ],
+  "timestamp": "2026-10-20T00:56:18.765569168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "-cleanse his way-",
+      "rationale": "יזכה — 'да биде чист\/невин' — или 'да го очисти патот' или 'да зачистиCarпат чист' (како jps)"
+    },
+    {
+      "kind": "you",
+      "subject": "младичот",
+      "rationale": "Прашање упатено во општ вид, реторички — го повикува читателот"
+    }
+  ],
+  "translation": "Со што ќе се очисти младичот ⟨את⟩ патот свој? Со тоа што ќе го чува според твојот збор.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/9-12.1792453978713.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "Со што"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "ќе се очисти"
+    },
+    {
+      "surface": "נער",
+      "gloss": "младичот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "патот свој"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "патот свој"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ќе го чува"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "според твојот збор"
+    }
+  ],
+  "timestamp": "2026-10-19T23:52:58.713959835Z",
+  "model": "glm-5.3"
+}

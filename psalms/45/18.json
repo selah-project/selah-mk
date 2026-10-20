@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ќе те фалат",
+      "rationale": "יהודם е од коренот 'фрла\/испружи рака', односно исповед и благодарност; 'фалат' го задржува јавниот карактер"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דר ודר \/ לעלם ועד",
+      "rationale": "двојните парови 'поколение и поколение' и 'вовеки и навеки' создаваат месенски ритам на крајот од псалмот"
+    }
+  ],
+  "translation": "Ќе го спомнувам твоето име во сите поколенија; затоа народите ќе те фалат вовеки и навеки.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e4583dcb573e45621006a1ebcc6f61dcb9c4febaf70590d3f7a37fe238abfa71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/45\/17-18.1792453242154.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "ќе спомнувам"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "твоето име"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во сите"
+    },
+    {
+      "surface": "דר",
+      "gloss": "поколенија"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "и поколенија"
+    },
+    {
+      "surface": "על",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨на⟩ тоа"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "ќе те фалат"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "вовеки"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и навеки"
+    }
+  ],
+  "timestamp": "2026-10-19T23:40:42.155310921Z",
+  "model": "glm-5.3"
+}

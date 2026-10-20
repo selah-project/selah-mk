@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 22:14",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула во прашалната реченица"
+    },
+    {
+      "kind": "crux",
+      "subject": "משמעתך",
+      "rationale": "„твојата слушалница“ — кралскиот двор\/послушност; преведувачите се делат меѓу „двор“, „заповед“ и „телохрана“"
+    }
+  ],
+  "translation": "И одговори Ахимелек на кралот ⟨את⟩ и рече: И кој меѓу сите твои слуги ⟨е⟩ како Давид — верен, и зет на кралот, и свртен кон твојата слушалница, и почестен во твојот дом?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "fd62a7b52c9047b14fe1ac45fa93f9b807c18850d3097395a99c3952491bd8a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/22\/13-16.1792447859650.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и одговори"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ахимелек"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кралот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "кралот"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и кој"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "меѓу сите"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "твои слуги"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "како Давид"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "верен"
+    },
+    {
+      "surface": "וחתן",
+      "gloss": "и зет"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на кралот"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "и свртен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "משמעתך",
+      "gloss": "твојата слушалница"
+    },
+    {
+      "surface": "ונכבד",
+      "gloss": "и почестен"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "во твојот дом"
+    }
+  ],
+  "timestamp": "2026-10-19T22:10:59.654629747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 3:26",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "осика кон непце",
+      "rationale": "хебрејски идиом за немост: буквално 'јазикот се лепи за непцето'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "занемиеш",
+      "rationale": "נאלם е буквално 'врзан (за устата)', 'јазик врзан'"
+    }
+  ],
+  "translation": "и ќе ја прилепам ⟨ ја ⟩ твојата осика кон твоето непце, и ќе занемиеш, и нема да им бидиш човек што прекорува, зашто дом бунтовен се тие.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "525798db7df2497909d540db492d829022dfc0e3c7f744c8c74e633dc8a10b6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/3\/25-27.1792451312067.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשונך",
+      "gloss": "и твојата осика"
+    },
+    {
+      "surface": "אדביק",
+      "gloss": "ќе прилепам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "твоето непце"
+    },
+    {
+      "surface": "ונאלמת",
+      "gloss": "и ќе занемиеш"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "да бидиш"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "што прекорува"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "бунтовен"
+    },
+    {
+      "surface": "המה",
+      "gloss": "се тие"
+    }
+  ],
+  "timestamp": "2026-10-19T23:08:32.068010760Z",
+  "model": "glm-5.3"
+}

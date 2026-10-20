@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויתחתן",
+      "rationale": "хитпаел од חתן — стапува во брачно сродство, буквално 'се омажи\/ожени за'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "списокот на градби",
+      "rationale": "стихот набројува три градежни дела: домот, домот на Јахве, ѕидот"
+    }
+  ],
+  "translation": "И Шеломо се сроди со ⟨את⟩ фараонот, царот на Мицраим, и ја зеде ⟨את⟩ ќерката на фараонот и ја доведе во градот Давидов, додека не ги доврши да го гради ⟨את⟩ својот дом и ⟨את⟩ домот на Јахве и ⟨את⟩ ѕидот на Јерушалаим навред.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "13bc83cd5ee81310752fa8490abb43c74b033ccb7bf71fcc2aa250165d31d2fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/3\/1-4.1792448601255.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "се сроди"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "фараонот"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараонот"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "на Мицраим"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и ја зеде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ќерката"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерката"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "на фараонот"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "и ја доведе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидов"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "не ги доврши"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "да го гради"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "својот дом"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "својот дом"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "домот на Јахве"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "ѕидот"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ѕидот"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "на Јерушалаим"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "навред"
+    }
+  ],
+  "timestamp": "2026-10-19T22:23:21.256302843Z",
+  "model": "glm-5.3"
+}

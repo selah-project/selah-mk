@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "daniel 5:29",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Арапскиот (арамејскиот) сврзувачки глагол להוא бара македонски копула „е“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "огривка",
+      "rationale": "המונכא е верига\/огривка околу вратот, не „нараквица“ како кај YLT."
+    }
+  ],
+  "translation": "Тогаш нареди Валтасар, и го облекоа Даниел во пурпур, и му ставија огривка од злато околу вратот негов, и објавија за него дека ⟨е⟩ трет владетел во царството.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "110ea4dcbde72ebc08ce3487c0598190aa7bc1a4a0132feec0a95a4732d1d335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/5\/29-30.1792456033922.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "тогаш"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "нареди"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "Валтасар"
+    },
+    {
+      "surface": "והלבישו",
+      "gloss": "и го облекоа"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "ארגונא",
+      "gloss": "пурпур"
+    },
+    {
+      "surface": "והמונכא",
+      "gloss": "и огривка"
+    },
+    {
+      "surface": "די",
+      "gloss": "од"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "злато"
+    },
+    {
+      "surface": "על",
+      "gloss": "околу"
+    },
+    {
+      "surface": "צוארה",
+      "gloss": "вратот негов"
+    },
+    {
+      "surface": "והכרזו",
+      "gloss": "и објавија"
+    },
+    {
+      "surface": "עלוהי",
+      "gloss": "за него"
+    },
+    {
+      "surface": "די",
+      "gloss": "де"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "⟨е⟩"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "владетел"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "трет"
+    },
+    {
+      "surface": "במלכותא",
+      "gloss": "во царството"
+    }
+  ],
+  "timestamp": "2026-10-20T00:27:13.923527543Z",
+  "model": "glm-5.3"
+}

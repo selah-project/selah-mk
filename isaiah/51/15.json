@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 51:15",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רגע",
+      "rationale": "„возбудува\/разбранува“ против „смирува“ (ЈЛТ) — истиот корен може двете; повеќето преводи избираат возбудува"
+    }
+  ],
+  "translation": "И јас сум Јахве, Елохим твој, што го возбудува морето и брановите негови рикаат — Јахве Цеваот е Името Негово.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "4d4636d8b09c47c8209c5eb89dcc516b20117c04c72468b9e8943a9100890f25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/51\/13-16.1792450186953.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "И јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "возбудува"
+    },
+    {
+      "surface": "הים",
+      "gloss": "морето"
+    },
+    {
+      "surface": "ויהמו",
+      "gloss": "рикаат"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "брановите негови"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Името Негово"
+    }
+  ],
+  "timestamp": "2026-10-19T22:49:46.955346064Z",
+  "model": "glm-5.3"
+}

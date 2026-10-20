@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 19:11",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душа",
+      "rationale": "נפש е 'живо суштество, животен здив', не одделна 'душа'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "седум дена",
+      "rationale": "Точен број на дена за обредна нечистост."
+    }
+  ],
+  "translation": "Оној што ќе се допре до мртов човек, до ⟨каква било⟩ душа на човек, ќе биде нечист седум дена.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0c44c8a9a5e709ca27f25d7897e5470d1c931865206c42912270b82259465f1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/19\/9-12.1792444961183.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנגע",
+      "gloss": "оној што се допира"
+    },
+    {
+      "surface": "במת",
+      "gloss": "до мртов"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "до секоја"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на човек"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ќе биде нечист"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седум"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дена"
+    }
+  ],
+  "timestamp": "2026-10-19T21:22:41.184407627Z",
+  "model": "glm-5.3"
+}

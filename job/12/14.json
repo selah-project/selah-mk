@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 12:14",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "повторно",
+      "rationale": "несовршениот глагол ја подразбира повторната изградба; македонскиот го бара изрично"
+    }
+  ],
+  "translation": "Еве, тој руши — и не ⟨се⟩ гради повторно; затвора врз човек — и не се отвора.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1918f7a0cb6ae538439044e5127df1d65cb5d5dd8a2d0fea7d6a6edd0ed57fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/12\/13-16.1792454976888.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "еве"
+    },
+    {
+      "surface": "יהרוס",
+      "gloss": "тој руши"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "се гради"
+    },
+    {
+      "surface": "יסגר",
+      "gloss": "затвора"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "се отвора"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:36.888797178Z",
+  "model": "glm-5.3"
+}

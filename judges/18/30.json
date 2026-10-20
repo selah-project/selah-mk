@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 18:30",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מנשה",
+      "rationale": "Согласките наведуваат на Моше (משה); натписот на буквата נ е доцна емендација — ASV\/BSB 'Моисеј' vs KJV 'Манасија'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "до денот на прогонството",
+      "rationale": "временска граница што датира службата на лажниот свештеник"
+    }
+  ],
+  "translation": "И си поставија синовите на Дан ⟨את⟩ идолот; а Јехонатан, синот на Гершом, синот на Менаше — тој и неговите синови беа свештеници на племето данско до денот на прогонството на земјата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "932b68771e84a1e354da2a64074dbe688fd4744a6aeacc5f1241843a1e1872c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/18\/29-31.1792446560641.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקימו",
+      "gloss": "поставија"
+    },
+    {
+      "surface": "להם",
+      "gloss": "си"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "דן",
+      "gloss": "на Дан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "идолот"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "идолот"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "а Јехонатан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "на Гершом"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "на Менаше"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "и неговите синови"
+    },
+    {
+      "surface": "היו",
+      "gloss": "беа"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "свештеници"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "на племето"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "данско"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "יום",
+      "gloss": "денот"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "на прогонството"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T21:49:20.642254427Z",
+  "model": "glm-5.3"
+}

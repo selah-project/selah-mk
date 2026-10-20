@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨беше⟩",
+      "rationale": "Хебрејскиот нема копула; македонскиот ја бара."
+    },
+    {
+      "kind": "measurement",
+      "subject": "родослов",
+      "rationale": "Список на имиња — потомци на Лотан."
+    }
+  ],
+  "translation": "И синовите на Лотан: Хори и Хомам; а сестра на Лотан ⟨беше⟩ Тимна.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6b3ad3129fcf736006f6dd2ee95b7ab7a934f86cae1e9eaa67ac89f1910c43a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/1\/37-40.1792456775459.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синовите"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "на Лотан"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "Хори"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "и Хомам"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "а сестра"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "на Лотан"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тимна"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:35.460402738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "си",
+      "rationale": "хебрејскиот реченичен предикат без копула; македонскиот бара „си“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב\/מטיב",
+      "rationale": "истиот корен טוב двапати — придавка и глагол: „добар… добро правиш“, задржано во македонскиот"
+    }
+  ],
+  "translation": "Добар си Ти и добро правиш; научи ме на уредбите свои.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "295c5fedf81a2f6ab28bc09a73b62f9eaa5dd778958f4d309f4eeb595176a8f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/65-68.1792453981213.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добар"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си Ти"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "и добро правиш"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "научи ме"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "на уредбите свои"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:01.215751213Z",
+  "model": "glm-5.3"
+}

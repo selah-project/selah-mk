@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 3:31",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Копула додадена; хебрејскиот ја нема."
+    },
+    {
+      "kind": "substitution",
+      "subject": "мена",
+      "rationale": "המנורה е „светилник“; дадено како менор по звучен принцип на свети предмет."
+    },
+    {
+      "kind": "measurement",
+      "subject": "список на предмети",
+      "rationale": "Стихот е попис на светите предмети под стража на Кехатјците."
+    }
+  ],
+  "translation": "И нивна стража ⟨е⟩ ковчегот, и масата, и менорот, и жртвениците, и садовите на светињата со кои служат во нив, и завесата, и сета негова служба.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "4b9fb5e9aad0c57811342f153e0549f132c2f96e77fd06e83205015e17fa4efd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/3\/29-32.1792444617257.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשמרתם",
+      "gloss": "И нивна стража"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ковчегот"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "и масата"
+    },
+    {
+      "surface": "והמנרה",
+      "gloss": "и менорот"
+    },
+    {
+      "surface": "והמזבחת",
+      "gloss": "и жртвениците"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "и садовите"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "на светињата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кои"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "служат"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "во нив"
+    },
+    {
+      "surface": "והמסך",
+      "gloss": "и завесата"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сета"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "негова служба"
+    }
+  ],
+  "timestamp": "2026-10-19T21:16:57.259302567Z",
+  "model": "glm-5.3"
+}

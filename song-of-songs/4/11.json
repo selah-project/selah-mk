@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 4:11",
+  "book": "song-of-songs",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот ја испушта копулата во третиот дел; македонскиот ја бара"
+    }
+  ],
+  "translation": "Мед од саќе капат усните твои, невесто; мед и млеко под јазикот твој, и мирисот на облеките твои ⟨е⟩ како мирисот на Ливан.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7a2a9c92046694a69539c3aea71f8f4827609e0a3e5b511146650f2e67b3601c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/song-of-songs\/4\/9-12.1792455434096.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפת",
+      "gloss": "мед од саќе"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "капат"
+    },
+    {
+      "surface": "שפתותיך",
+      "gloss": "усните твои"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "невесто"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "мед"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "и млеко"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "јазикот твој"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "и мирисот"
+    },
+    {
+      "surface": "שלמתיך",
+      "gloss": "на облеките твои"
+    },
+    {
+      "surface": "כריח",
+      "gloss": "како мирисот"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "на Ливан"
+    }
+  ],
+  "timestamp": "2026-10-20T00:17:14.097363222Z",
+  "model": "glm-5.3"
+}

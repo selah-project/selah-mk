@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נושקי רומי קשת",
+      "rationale": "дословно „кскељувачи\/ракувачи на фрлачки лак“ — Таргум и некои читале „опколени со лакови“; задржана е сликата на ракување"
+    }
+  ],
+  "translation": "Синовите Ефраимови, ракувачи со лак што фрла стрели, се свртеа назад во денот на битката.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/78\/9-12.1792453583600.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовите"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраимови"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "ракувачи"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "што фрла"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "со лак"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "се свртеа назад"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "на битката"
+    }
+  ],
+  "timestamp": "2026-10-19T23:46:23.601406626Z",
+  "model": "glm-5.3"
+}

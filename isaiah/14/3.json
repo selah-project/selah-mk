@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 14:3",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Јисраел",
+      "rationale": "директен обраќај — ти-форма кон народот"
+    },
+    {
+      "kind": "addition",
+      "subject": "ќа",
+      "rationale": "typo-корекција: читај „ќе биде“ — хебрејскиот нема помошен глагол"
+    }
+  ],
+  "translation": "И ќа биде во денот кога Јахве ти ќе даде одмор од твојата болка и од твојот немир, и од тешката служба што ⟨се⟩ служеше врз тебе.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7cdb14f693c68ea96e85396ab6aad4f6669ce0dd7b22b2b5c7a10e64d7e1cdab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/14\/1-4.1792449729598.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "ќе даде одмор"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מעצבך",
+      "gloss": "од твојата болка"
+    },
+    {
+      "surface": "ומרגזך",
+      "gloss": "и од твојот немир"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "службата"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "тешката"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "служеше"
+    },
+    {
+      "surface": "בך",
+      "gloss": "врз тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T22:42:09.600969739Z",
+  "model": "glm-5.3"
+}

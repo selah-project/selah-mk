@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישן \/ נושן \/ וישן",
+      "rationale": "тројна игра на коренот „старо“ — јадете-старо, зачувано-долго-старо, изнесете-старо; во македонскиот се губи повторувањето"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נושן",
+      "rationale": "nist појавува речиси само тука — „долго лежано“, жито одамна сварено"
+    }
+  ],
+  "translation": "И старо ќе јадете, долго зачувано, и старото ќе го изнесете ⟨поради⟩ новото.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ca5cb799880e3020fe7e5e6cfd22135baf1e22751de7a52fe3de4b29c7d313db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/26\/9-12.1792444501386.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "ќе јадете"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "старо"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "долго зачувано"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "старото"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "⟨поради⟩ пред"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "новото"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "ќе го изнесете"
+    }
+  ],
+  "timestamp": "2026-10-19T21:15:01.387908157Z",
+  "model": "glm-5.3"
+}

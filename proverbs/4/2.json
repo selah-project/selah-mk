@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "поука",
+      "rationale": "לקח буквално 'нечето земено\/примено' — настава што се прима"
+    },
+    {
+      "kind": "you",
+      "subject": "до синовите",
+      "rationale": "'ви' — продолжение на директниот говор до слушателите"
+    }
+  ],
+  "translation": "Зашто добра поука ви дадов; мојата Тора не ја оставајте.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8193dd1e1a15088d271e3e8876229dd56aaaf0387a15856dd2753f7772c259d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/4\/1-4.1792454347760.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "поука"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дадов"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "мојата Тора"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "ја оставајте"
+    }
+  ],
+  "timestamp": "2026-10-19T23:59:07.761178656Z",
+  "model": "glm-5.3"
+}

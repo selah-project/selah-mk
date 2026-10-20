@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 20:22",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Но",
+      "rationale": "сврзен збор додаден за македонскиот теков на наративот"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלל \/ החל",
+      "rationale": "стилот ги врзи осквернувањето на шабатите (ст. 21) со осквернувањето на Името — ист корен חלל"
+    }
+  ],
+  "translation": "Но ја вратив ⟨את⟩ раката својата и постапив заради името свое, да не биде осквернето пред очите на народите меѓу кои ⟨את⟩ ги изведов пред нивните очи.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cd7b3dac1955f39302c0d7902bbe7a42b1c69e2ef40eae1631a90ba5fc9d1e0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/20\/21-24.1792451628020.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Но ја вратив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "раката својата"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "раката својата"
+    },
+    {
+      "surface": "ואעש",
+      "gloss": "и постапив"
+    },
+    {
+      "surface": "למען",
+      "gloss": "заради"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "името свое"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "да не"
+    },
+    {
+      "surface": "החל",
+      "gloss": "биде осквернето"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "пред очите на"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "меѓу кои"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ги изведов"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ги"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "пред нивните очи"
+    }
+  ],
+  "timestamp": "2026-10-19T23:13:48.021730163Z",
+  "model": "glm-5.3"
+}

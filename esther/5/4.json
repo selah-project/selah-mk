@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 5:4",
+  "book": "esther",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот ја испушта сврзницата во условната реченица"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם על המלך טוב",
+      "rationale": "буквално 'ако на кралот (е) добро' — дворски начин на барање"
+    },
+    {
+      "kind": "invitation",
+      "subject": "покана за гозба",
+      "rationale": "Естер го кани кралот и Аман — првиот чекор на нејзиниот скриен план"
+    }
+  ],
+  "translation": "И рече Естер: Ако на кралот ⟨е⟩ добро, нека дојдат кралот и Аман денес на гозбата што ја приготвив за него.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "29e3799c896a39bf457a45426151d139dc646025fc5f205c2ec57f6d40267335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/esther\/5\/1-4.1792455889712.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "кралот"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "нека дојде"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "кралот"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "и Аман"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "гозбата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ја приготвив"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за него"
+    }
+  ],
+  "timestamp": "2026-10-20T00:24:49.714072522Z",
+  "model": "glm-5.3"
+}

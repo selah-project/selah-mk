@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידשנה",
+      "rationale": "KJV 'прифати' наспроти YLT 'претвори во пепел' — коренот דשן значи 'дебее\/прави маст'; 'задебели' ја чува сликата на жртва што оди во оган и се претвора во маст"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Музичка одредба 'пауза\/кревање', останува непреведено како Села"
+    }
+  ],
+  "translation": "Да ги запомни сите твои минхи, и твоето сепаложење да го задебели. Села.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5153850697641f8e48b56e9f75a49ab15fc1715ffec9bae78abfebf663d00e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/20\/1-4.1792453093593.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Да запомни"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "твои минхи"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "и твоето сепаложење"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "да го задебели"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-10-19T23:38:13.628878091Z",
+  "model": "glm-5.3"
+}

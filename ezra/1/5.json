@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула во „кој во Јерушалаим“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "го разбуди",
+      "rationale": "העיר е буквално „разбуди“ — руахот е разбуден, не само подвигнат"
+    }
+  ],
+  "translation": "И станаа главите на татковците од Јехуда и Бинјамин, и свештениците и левитите — секој кому Елохим го разбуди ⟨את⟩ руахот — да се качи да го гради ⟨את⟩ домот на Јахве, кој ⟨е⟩ во Јерушалаим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3122b01cea18a0175b919a360e3d7ccdc1ae405872dd545a65cbe591de497b4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezra\/1\/5-8.1792456301085.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "И станаа"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главите"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "на татковците"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "од Јехуда"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "и Бинјамин"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "и свештениците"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "и левитите"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "го разбуди"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руахот"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "руахот"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "да се качи"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "да го гради"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "домот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кој"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "во Јерушалаим"
+    }
+  ],
+  "timestamp": "2026-10-20T00:31:41.086030140Z",
+  "model": "glm-5.3"
+}

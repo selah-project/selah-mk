@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 26:37",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "да бидат",
+      "rationale": "хебрејскиот нема глагол-врска; именска реченица „куките нивни злато“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "пет столба · пет бази",
+      "rationale": "бројте на столбовите и базите се дел од описот на табернакулот"
+    }
+  ],
+  "translation": "И за завесата ќе направиш пет столба од шитим-дрво, и ќе ги обложиш ⟨את⟩ нив со злато, и куките на нив ⟨да бидат⟩ злато, и ќе излееш за нив пет бази од бакар.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "6fd89f2242ad5ed448d7d7851e5776c762e569c2bcb336fbac1c32c3742ab346",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/26\/37-37.1792443723992.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ќе направиш"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "за завесата"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "столба"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шитим-дрво"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "и ќе обложиш"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "нив"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "וגלליהם",
+      "gloss": "и куките на нив"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "и ќе излееш"
+    },
+    {
+      "surface": "להם",
+      "gloss": "за нив"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "бази"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "од бакар"
+    }
+  ],
+  "timestamp": "2026-10-19T21:02:03.995275221Z",
+  "model": "glm-5.3"
+}

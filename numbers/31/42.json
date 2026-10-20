@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ја раздели",
+      "rationale": "חצה значи буквално 'пополам' — Моше го преполови plunder-от"
+    }
+  ],
+  "translation": "И од половината на синовите Јисраелови, што ја раздели Моше од мажите што беа во војската,",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "07ca5b06e9cfa61f078acfb466a06749e552f8c498ebcce68ccd9d4230382f75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/31\/41-44.1792445170703.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "И од половината"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелови"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "ја раздели"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "мажите"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "што беа во војската"
+    }
+  ],
+  "timestamp": "2026-10-19T21:26:10.704601023Z",
+  "model": "glm-5.3"
+}

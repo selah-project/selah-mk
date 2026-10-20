@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מקמו יכירנו",
+      "rationale": "обратна слика: местото е субјект што 'го познава' човекот — инверсија задржана буквално"
+    }
+  ],
+  "translation": "Нема повеќе да се врати во домот свој, и местото негово нема повеќе да го познае.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "47739897109f69893f391a71de4f6bad46473a337a7876d61244a8041a03378c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/7\/9-12.1792454899298.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יוב",
+      "gloss": "да се врати"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "во домот свој"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "да го познае"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "местото негово"
+    }
+  ],
+  "timestamp": "2026-10-20T00:08:19.298805479Z",
+  "model": "glm-5.3"
+}

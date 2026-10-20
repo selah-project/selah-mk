@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 9:30",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "четириесет години",
+      "rationale": "Траењето на владеењето на Шеломо е броено."
+    }
+  ],
+  "translation": "И зацарување владееше Шеломо во Јерушалаим над сè Јисраел четириесет години.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f93e4aedfde2261e680655732b3591073facb7d7e4dd297e8a7c819564d0c546",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/9\/29-31.1792457484767.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "владееше"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "во Јерушалаим"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сè"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четириесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    }
+  ],
+  "timestamp": "2026-10-20T00:51:24.768570471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "на",
+      "rationale": "македонскиот го бара родителниот однос меѓу срце и фараон"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כבד\/חזק — зацврсти",
+      "rationale": "хебрејскиот вели буквално „се зацврсти\/ојде срцето“, не пасивно „бееше зацврстено“"
+    }
+  ],
+  "translation": "И се зацврсти срцето на фараонот, и не ги послуша, како што беше рекол Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a41985a78c59855819ad5368afb7a91ea5edbfcb519264cce958c7079d4336f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/7\/13-16.1792443363550.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "се зацрвсти"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срцето"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "на фараонот"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послуша"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ги"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "беше рекол"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T20:56:03.552390435Z",
+  "model": "glm-5.3"
+}

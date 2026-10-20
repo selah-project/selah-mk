@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 14:19",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "македонскиот бара помошен глагол во именска благословна реченица"
+    },
+    {
+      "kind": "crux",
+      "subject": "קנה",
+      "rationale": "„Кој ги создаде“ наспроти „Кој ги поседува\/стекна“ — קנה значи и создава и поседува преку стекнување"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לאל",
+      "rationale": "предлогот ל- во благословот („Благословен Аврам на\/од Ел Елион“) е предаден со „од“"
+    }
+  ],
+  "translation": "И го благослови, па рече: Благословен ⟨е⟩ Аврам од Ел Елион, Кој ги создаде небесата и земјата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "55782f98672e34f12ed78adb37df45ab31634aaacdd170a11cdd72f6bad8e439",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/14\/17-20.1792442536456.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "и го благослови"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "па рече"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Благословен"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "од Ел"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Елион"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "Кој ги создаде"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "и земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T20:42:16.470646386Z",
+  "model": "glm-5.3"
+}

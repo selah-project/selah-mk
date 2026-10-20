@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 9:15",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "600 шутки на штит",
+      "rationale": "Прецизно мерење на количеството злато по штит."
+    },
+    {
+      "kind": "crux",
+      "subject": "шекел",
+      "rationale": "Хебрејскиот не го вели зборот „шекел“ туку само „шестотини злато“ — мерка се подразбира."
+    }
+  ],
+  "translation": "И царот Шеломо направи двесте штитови од ковано злато — шестотини злато исковано се креваше на секој еден штит.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ed74386c79c2606b92095c6a3600b2c60dbc8c86ace6139c53df08e99eb51652",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/9\/13-16.1792457468711.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "направи"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двесте"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "штитови"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ковано"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шестотини"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "✓"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "исковано"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "се креваше"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "штитот"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "еден"
+    }
+  ],
+  "timestamp": "2026-10-20T00:51:08.712736939Z",
+  "model": "glm-5.3"
+}

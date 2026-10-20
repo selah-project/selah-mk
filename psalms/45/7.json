@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלהים",
+      "rationale": "вокатив „о Елохим“ (KJV, LXX) наспроти „престолот ти е од Елохим“ (JPS) наспроти „престолот на твојот Елохим“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבט … שבט",
+      "rationale": "повторен жезл — хијазам што ја врзува правотата со царството"
+    }
+  ],
+  "translation": "Престолот твој, Елохим, ⟨е⟩ вечен и навек; жезлото на правота ⟨е⟩ жезлото на царството твое.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/45\/5-8.1792453288434.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "престолот твој"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечен"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и навек"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "жезлото"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "на правота"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "жезлото"
+    },
+    {
+      "surface": "мלכותך",
+      "gloss": "на царството твое"
+    }
+  ],
+  "timestamp": "2026-10-19T23:41:28.435854702Z",
+  "model": "glm-5.3"
+}

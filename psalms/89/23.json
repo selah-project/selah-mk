@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישא",
+      "rationale": "Корен נשה\/נשא: 'да наплаќа долг со камата' наспроти 'да угнетува'; избирам сликата на наплата, како KJV 'exact upon him'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בן עולה",
+      "rationale": "'син на беззаконието' — хебрејскиот израз задржан буквално, слика што македонскиот ја губи."
+    }
+  ],
+  "translation": "Непријателот нема да му ⟨натрупа долг⟩, и синот на беззаконието нема да го измачува.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "53416db0c0e281c5143d59e983b3c907bb3de2cd2c51138b12acab80c8103f82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/89\/21-24.1792453700151.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "да ⟨натрупа долг⟩"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "непријателот"
+    },
+    {
+      "surface": "בו",
+      "gloss": "му"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "и синот"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "на беззаконието"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "да го измачува"
+    }
+  ],
+  "timestamp": "2026-10-19T23:48:20.151939374Z",
+  "model": "glm-5.3"
+}

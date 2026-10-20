@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 22:12",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨како⟩",
+      "rationale": "апозицијата во хебрејскиот бара споредба на македонски"
+    },
+    {
+      "kind": "crux",
+      "subject": "חשרת מים",
+      "rationale": "хапакс חשרה — „собрани (облачни) води“; преводите се делат: „темни води“ (KJV) наспроти „собрани води“"
+    }
+  ],
+  "translation": "И постави темнина околу себе ⟨како⟩ шатори, собрани води, густи облаци од небесата.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2d2055575024d8bb9d1a1a58cb2d83932b3cef48726996509ea76b647183b822",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/22\/9-12.1792448391632.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "и постави"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "темнина"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "околу себе"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "⟨како⟩ шатори"
+    },
+    {
+      "surface": "חשרת",
+      "gloss": "собрани"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "густи облаци"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "од небесата"
+    }
+  ],
+  "timestamp": "2026-10-19T22:19:51.634353980Z",
+  "model": "glm-5.3"
+}

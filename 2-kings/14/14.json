@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 14:14",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני התערבות",
+      "rationale": "букв. 'синови на заложните договори' — 'заложници' vs 'гаранти\/татковци-заложници'; КЈВ 'hostages', YLT 'sons of the pledges'"
+    }
+  ],
+  "translation": "И ги зеде ⟨את⟩ сето злато и сребро, и ⟨את⟩ сите предмети што се најдоа во домот на Јахве и во ризниците на домот на царот, и ⟨את⟩ синовите на заложниците; и се врати во Шомрон.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b2e9f1391a99f680b3f3b8f5b847a1e462c31096099b0e3e54da274336198c98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/14\/13-16.1792449328570.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "и ги зеде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сето злато и сребро"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "и среброто"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сите предмети"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "предмети"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "што се најдоа"
+    },
+    {
+      "surface": "בית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "и во ризниците"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "синовите на заложниците"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "на заложниците"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и се врати"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "во Шомрон"
+    }
+  ],
+  "timestamp": "2026-10-19T22:35:28.572389333Z",
+  "model": "glm-5.3"
+}

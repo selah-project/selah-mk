@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 5:13",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨таа⟩",
+      "rationale": "македонскиот бара подмет при „ќе биде на свештеникот“, а хебрејскиот го испушта"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ќе го очисти",
+      "rationale": "כפר буквално „покрива“; тук ритуално искупување"
+    }
+  ],
+  "translation": "И свештеникот ќе го очисти за неговата грев што ја згрешил во една од овие, и ќе му биде простено; и ⟨таа⟩ ќе биде на свештеникот како минхата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "da4d7036be3b177abe28848a36548d1b2b08e0d65a3bdd2d518e81b041f30cc6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/5\/13-16.1792444124034.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "ќе го очисти"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "за него"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "неговата грев"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ја згрешил"
+    },
+    {
+      "surface": "מאחת",
+      "gloss": "во една"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "од овие"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "ќе биде простено"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "на свештеникот"
+    },
+    {
+      "surface": "כמנחה",
+      "gloss": "како минхата"
+    }
+  ],
+  "timestamp": "2026-10-19T21:08:44.035927468Z",
+  "model": "glm-5.3"
+}

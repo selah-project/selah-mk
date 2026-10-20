@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 40:32",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "gate measured",
+      "rationale": "The measuring of the east gate according to the same measures."
+    }
+  ],
+  "translation": "И ме внесе во внатрешниот двор, кон исток, и го измери ⟨את⟩ портата според овие мерки.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e1aa8b808f13124a87bd69404689a6c18de7727cee593b0cd31fccbcfe66484c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/40\/29-32.1792452025644.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "и ме внесе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "дворот"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "внатрешниот"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "кон"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "исток"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "и го измери"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "портата"
+    },
+    {
+      "surface": "השער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "според мерки"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овие"
+    }
+  ],
+  "timestamp": "2026-10-19T23:20:25.645495850Z",
+  "model": "glm-5.3"
+}

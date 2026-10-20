@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וצוך אלהים",
+      "rationale": "'и Елохим ти заповеди' (индикатив, како услов исполнет) наспроти 'нека Елохим ти заповеди' (пожелба) — преведувачите се делат токму тука."
+    },
+    {
+      "kind": "substitution",
+      "subject": "издржиш",
+      "rationale": "עמד буквално 'да стоиш' — сликата е стоење под товар, не апстракцна издржливост."
+    }
+  ],
+  "translation": "Ако го направиш ⟨את⟩ ова нешто, и Елохим ти заповеди така, тогаш ќе можеш да издржиш, и сето овој народ ќе отиде на своето место во мир.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "85a8c5fa058ad4f40a39c13d40b4c4cb6914fd8dd8ad14fda21132dae84ff053",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/18\/21-24.1792443582547.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ова нешто"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "нешто"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "го направиш"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "и заповеди"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "ќе можеш"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "да издржиш"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "העם",
+      "gloss": "овој народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "своето место"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ќе отиде"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "во мир"
+    }
+  ],
+  "timestamp": "2026-10-19T20:59:42.555007977Z",
+  "model": "glm-5.3"
+}

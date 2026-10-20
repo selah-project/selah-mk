@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 13:10",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "наводнета",
+      "rationale": "משקה буквално 'напоена со вода', причестник од נשק"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула во 'сета наводнета'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ги крева очите",
+      "rationale": "השא עיניו — хебрејски израз за погледнување"
+    }
+  ],
+  "translation": "И Лот ги крева ⟨את⟩ очите свои, и виде ⟨את⟩ целата рамнина на Јарден — дека сета ⟨е⟩ наводнета — пред Јахве да ⟨ја⟩ разори ⟨את⟩ Содом и ⟨את⟩ Гомора; како градина на Јахве, како земјата Мицраим, доаѓајќи кон Цоар.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e9bef3ac35e54187e7586a17cf56659f1f69e679c6e7c67efd9ac6b78b6bc09d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/13\/9-12.1792442518990.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "И крева"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "очите свои"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "очите свои"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и виде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "целата рамнина"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целата"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "рамнина"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "на Јарден"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "сета"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "наводнета"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "разори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Содом"
+    },
+    {
+      "surface": "סדום",
+      "gloss": "Содом"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Гомора"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Гомора"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "како градина"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "како земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "доаѓајќи"
+    },
+    {
+      "surface": "צער",
+      "gloss": "кон Цоар"
+    }
+  ],
+  "timestamp": "2026-10-19T20:41:59.002981545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תלמדני",
+      "rationale": "„таа ќе ме поучи“ (мајка) или „ти ќе ме поучиш“ — предметот на учењето е двозначен."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשקך \/ אשקך",
+      "rationale": "во 8:1 е „ќе те бакнам“ (נשק), тука „ќе те напојам“ (שקה) — ист звук, различен корен."
+    }
+  ],
+  "translation": "Ќе те водам, ќе те внесам во домот на мајка ми; ти ќе ме поучиш; ќе те напојам со зачинето вино, со мат од моите нарки.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/song-of-songs\/8\/1-4.1792455463589.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "Ќе те водам"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "ќе те внесам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "на мајка ми"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "ти ќе ме поучиш"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "ќе те напојам"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "со вино"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "зачинето"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "со мат"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "од моите нарки"
+    }
+  ],
+  "timestamp": "2026-10-20T00:17:43.590216220Z",
+  "model": "glm-5.3"
+}

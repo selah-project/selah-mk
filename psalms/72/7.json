@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "не исчезне",
+      "rationale": "בלי е 'без\/исчезнување'; македонскиот бара глагол — 'додека месечината ја нема'"
+    }
+  ],
+  "translation": "Во неговите дни да процвета праведниот, и мир во изобилство — сè додека месечината не исчезне.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c07e49b71e36c574ac965af47e929611dd9a30523244b42404434000e3de31ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/72\/5-8.1792453556788.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "да процвета"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "во неговите дни"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведниот"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "и во изобилство"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "עד",
+      "gloss": "сè додека"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "не исчезне"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "месечината"
+    }
+  ],
+  "timestamp": "2026-10-19T23:45:56.792901848Z",
+  "model": "glm-5.3"
+}

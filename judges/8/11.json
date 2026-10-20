@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 8:11",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сигурна во себе",
+      "rationale": "בטח значи безгрижна, неутешена во безбедност — не презира опасноста што доаѓа."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨во себе⟩",
+      "rationale": "Македонскиот бара дополнување за смисленост на состоябата."
+    }
+  ],
+  "translation": "И Гидеон тргна нагоре по патот на оние што живеат во шатори, источно од Нова и Јогвеха, и ја порази ⟨את⟩ војската; а војската беше сигурна ⟨во себе⟩.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d935ba797c33fd20faf63f830ba097febdddf6631c00a43a0ac6ed658f2da1a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/8\/9-12.1792446421780.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "И тргна нагоре"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Гидеон"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "по патот на"
+    },
+    {
+      "surface": "השכוני",
+      "gloss": "оне што живеат"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "во шатори"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "источно"
+    },
+    {
+      "surface": "לנבח",
+      "gloss": "од Нова"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "и Јогвеха"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "и ја порази"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "војската"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "војската"
+    },
+    {
+      "surface": "והמחנה",
+      "gloss": "а војската"
+    },
+    {
+      "surface": "היה",
+      "gloss": "бееше"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "сигурна"
+    }
+  ],
+  "timestamp": "2026-10-19T21:47:01.781165274Z",
+  "model": "glm-5.3"
+}

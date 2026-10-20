@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם",
+      "rationale": "Условното אם во заклетва — „ако истребиш“ — функционално е забрана: „дека нема да“."
+    },
+    {
+      "kind": "you",
+      "subject": "до Давид",
+      "rationale": "Шаул бара заклетва директно од Давид."
+    }
+  ],
+  "translation": "И сега заколни ми се во Јахве дека нема да го истребиш ⟨את⟩ потомството мое по мене и дека нема да го уништиш ⟨את⟩ името мое од домот на татко ми.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "cf9976c7c73c9492fbdd668ba968e4763a441212441a36b7da07b6d83dbf4915",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/24\/21-23.1792447958417.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И сега"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "заколни се"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "во Јахве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "дека"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "нема да истребиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "потомството мое"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "потомството мое"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по мене"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и дека"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "нема да уништиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "името мое"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "името мое"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "од домот"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "на татко ми"
+    }
+  ],
+  "timestamp": "2026-10-19T22:12:38.419596425Z",
+  "model": "glm-5.3"
+}

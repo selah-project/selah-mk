@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חנם",
+      "rationale": "буквално 'gratis, без причина' — тужбата вели дека во Мицраим јаделе 'за ништо', без да платат"
+    },
+    {
+      "kind": "you",
+      "subject": "Моше и Јахве преку жалбата на народот",
+      "rationale": "народот зборува во прво лице множина, директна жалба"
+    }
+  ],
+  "translation": "Се сеќаваме на ⟨את⟩ рибата што ја јадевме во Мицраим бесплатно — ⟨את⟩ краставиците, и ⟨את⟩ дињите, и ⟨את⟩ празот, и ⟨את⟩ кромидот, и ⟨את⟩ лукот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "73d9902b17819ec162fd40a284d040e9e9e0c134b0144232766925da6e66abb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/11\/5-8.1792444781231.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Се сеќаваме"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рибата"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "рибата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ја јадевме"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "во Мицраим"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "бесплатно"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "краставиците"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "краставиците"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "дињите"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "дињите"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "празот"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "празот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "кромидот"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "кромидот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "лукот"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "лукот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:19:41.231742303Z",
+  "model": "glm-5.3"
+}

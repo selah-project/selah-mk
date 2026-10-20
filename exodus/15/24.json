@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וילנו",
+      "rationale": "לון тука значи „муртат\/се потули“, не „ноќеат“ — специјализиран библиски идиом за народно ропотење."
+    },
+    {
+      "kind": "invitation",
+      "subject": "מה נשתה",
+      "rationale": "Прашање упатено директно до Моше."
+    },
+    {
+      "kind": "you",
+      "subject": "до Моше",
+      "rationale": "Народот се обраќа на Моше."
+    }
+  ],
+  "translation": "И народот се потули против Моше, велејќи: Што ќе пиеме?",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "cf8c720d123cbb9253908586f969c4be994690da457a19806077978c6dcb568e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/15\/21-24.1792443516293.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "се потули"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Што"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "ќе пиеме"
+    }
+  ],
+  "timestamp": "2026-10-19T20:58:36.303164709Z",
+  "model": "glm-5.3"
+}

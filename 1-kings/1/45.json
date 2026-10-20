@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 1:45",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩, ⟨е⟩",
+      "rationale": "македонскиот ги бара, хебрејскиот ги нема"
+    },
+    {
+      "kind": "alternative",
+      "subject": "загради",
+      "rationale": "תהם значи право „се раздвижи\/загуде во буна“ — спротивно на „заќуте“, тука радосна врева"
+    }
+  ],
+  "translation": "И го помазаа ⟨את⟩ него Цадок свештеникот и Натан пророкот за цар во Гихон, и се качија оттаму радосни, и загради ⟨се⟩ градот — тоа ⟨е⟩ гласот што го чувте.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "794fe20e6c03f52ef426720d46f3efcbf4c433d93e8f363f8f2434a63c925366",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/1\/45-48.1792448509374.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימשחו",
+      "gloss": "помазаа"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "и Натан"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкот"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "за цар"
+    },
+    {
+      "surface": "בגחון",
+      "gloss": "во Гихон"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "и се качија"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оттаму"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "радосни"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "и загуди"
+    },
+    {
+      "surface": "הקריה",
+      "gloss": "градот"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "гласот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "чувте"
+    }
+  ],
+  "timestamp": "2026-10-19T22:21:49.375165368Z",
+  "model": "glm-5.3"
+}

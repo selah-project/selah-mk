@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 16:7",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עבדך ובנך אני",
+      "rationale": "„твој слуга и твој син сум“ — формула за вазална покорност, не биолошки однос"
+    }
+  ],
+  "translation": "И Ахаз испрати пратеници кај Тиглат-Пилесер, царот на Ашур, да кажат: „Твој слуга и твој син сум јас; качи се и спаси ме од раката на царот на Арам и од раката на царот на Јисраел, што се креваат против мене.“",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e8b90a5dce277b41538a13f38f3e909650aa19247dae68f9f35e0a9c2212ba3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/16\/5-8.1792449363387.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "исрати"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "пратеници"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "תגלת",
+      "gloss": "Тиглат"
+    },
+    {
+      "surface": "פלסר",
+      "gloss": "Пилесер"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "да кажат"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "Твој слуга"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "и твој син"
+    },
+    {
+      "surface": "אני",
+      "gloss": "сум јас"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "качи се"
+    },
+    {
+      "surface": "והושעני",
+      "gloss": "и спаси ме"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "од раката"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "и од раката"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "הקומים",
+      "gloss": "што се креваат"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "против мене"
+    }
+  ],
+  "timestamp": "2026-10-19T22:36:03.389757873Z",
+  "model": "glm-5.3"
+}

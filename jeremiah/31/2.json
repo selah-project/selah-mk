@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 31:2",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הלוך להרגיעו ישראל",
+      "rationale": "субјектот е нејасен: Јахве оди да го одмори Јисраел (KJV\/ASV), или народот оди кон одмор (BSB), или Израел оди пред другите (Женева)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "להרגיעו",
+      "rationale": "буквално „да го смири\/умири“ — од רגע, разбрано и како „да го доведе до спокој“"
+    }
+  ],
+  "translation": "Така рече Јахве: народ, оние што останаа од мечот, најде милост во пустина; одејќи да му даде одмор — Јисраел.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "08e8e53d41bee481dacc59128f5c0b7656e52706dce41d9ce5b7784d9ed1d4ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/31\/1-4.1792450888364.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "најде"
+    },
+    {
+      "surface": "חן",
+      "gloss": "милост"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "во пустина"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "שרידי",
+      "gloss": "оние што останаа"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "од мечот"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "одејќи"
+    },
+    {
+      "surface": "להרגיעו",
+      "gloss": "да му даде одмор"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T23:01:28.365596088Z",
+  "model": "glm-5.3"
+}

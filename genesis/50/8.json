@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 50:8",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "дечињата",
+      "rationale": "טף е колективно 'мало семејство, деца' — буквално 'малите'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "придружбата",
+      "rationale": "Стиховите 7–8 набројуваат кој се качил: слуги, старешини, дом на Јосеф, браќа, дом на таткото."
+    }
+  ],
+  "translation": "и целиот дом на Јосеф, и браќата негови, и домот на татко негови — само дечињата нивни, и овците и козите нивни, и говедата нивни ги оставија во земјата Гошен.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "817d4df067c4f227a9473aec907b44708b2986f3771ef8416bb5c347ff93777b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/50\/5-8.1792443289014.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и целиот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "на Јосеф"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и браќата негови"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и домот"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "на татко негови"
+    },
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "дечињата нивни"
+    },
+    {
+      "surface": "וצאנם",
+      "gloss": "и овците и козите нивни"
+    },
+    {
+      "surface": "ובקרם",
+      "gloss": "и говедата нивни"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ги оставија"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Гошен"
+    }
+  ],
+  "timestamp": "2026-10-19T20:54:49.022805118Z",
+  "model": "glm-5.3"
+}

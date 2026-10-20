@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 31:7",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "при",
+      "rationale": "אל како просторна блскост — македонскиот бара предлог."
+    }
+  ],
+  "translation": "И стана убав во својата големина, во должината на своите висечки гранки, зашто неговиот корен беше ⟨при⟩ води многу.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "62b09a90287767d9789f0516cc19786e9e165a5592c6672ee3d8a83a472f608c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/31\/5-8.1792451837011.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייף",
+      "gloss": "И стана убав"
+    },
+    {
+      "surface": "בגדלו",
+      "gloss": "во големината своја"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "во должината"
+    },
+    {
+      "surface": "דליותיו",
+      "gloss": "висечките негови гранки"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "коренот негов"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨при⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многу"
+    }
+  ],
+  "timestamp": "2026-10-19T23:17:17.012347907Z",
+  "model": "glm-5.3"
+}

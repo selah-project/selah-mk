@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 25:14",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עבדו בם",
+      "rationale": "„поробуваа во нив“ — дословно; традицијата: „ќе робуваат меѓу нив“ (идно значење) vs. прошлом „поробуваа“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ושלמתי",
+      "rationale": "корен שלם е „да исполни\/плати во целост“, а не само „врати“ — возддадам во плин"
+    }
+  ],
+  "translation": "Зашто поробуваа во нив и тие самите — народи многубројни и цареви големи; и Јас ќе им возвратам според делото нивно и според делото на рацете нивни.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c726361a5935bbc1e27a89aee5524d16153b7ee59fcdb784d8772a09beb0d65c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/25\/13-16.1792450788883.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "поробуваа"
+    },
+    {
+      "surface": "בם",
+      "gloss": "во нив"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие самите"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многубројни"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "и цареви"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "големи"
+    },
+    {
+      "surface": "ושלמתי",
+      "gloss": "и ќе возвратам"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "според делото нивно"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "и според делото"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "на рацете нивни"
+    }
+  ],
+  "timestamp": "2026-10-19T22:59:48.884881348Z",
+  "model": "glm-5.3"
+}

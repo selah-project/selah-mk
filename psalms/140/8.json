@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשק",
+      "rationale": "буквално 'опрема\/оружје' — преводите делат меѓу 'борба' и 'оружје'; задржано е оружјето"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "директно обраќање со две Имиња"
+    }
+  ],
+  "translation": "Јахве, Адонај, сило на спасението мое, покри ⟨е⟩ го главата моја во денот на оружјето.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f06e768a26a834343732c1f2e13446a76b7c3e2d7ff917327d1302bb6fa497fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/140\/5-8.1792454175567.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "עז",
+      "gloss": "сило"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "на спасението мое"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "покри"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "го главата моја"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "на оружјето"
+    }
+  ],
+  "timestamp": "2026-10-19T23:56:15.568457Z",
+  "model": "glm-5.3"
+}

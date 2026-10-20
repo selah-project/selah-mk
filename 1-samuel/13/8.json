@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר שמואל",
+      "rationale": "хебрејскиот вели само „кој Шмуел“ — глаголот „назначи“ недостасува и е додаден во загради"
+    },
+    {
+      "kind": "measurement",
+      "subject": "седум дена",
+      "rationale": "бројот на деновите на чекањето е носечкиот детаљ на сцената"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויפץ",
+      "rationale": "глаголот значи „да разбиеше\/распрсне“ — народот не си отиде, туку се разби како скршено нешто"
+    }
+  ],
+  "translation": "И почека седум дена до одредениот рок ⟨што го назначи⟩ Шмуел; но Шмуел не дојде во Гилгал, и народот се разбега од него.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7e3228584e1497bd82fa516d4fede5e538538af88760a14967f91e0959edf7a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/13\/5-8.1792446792313.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "И почека"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седум"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дена"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "до одредениот рок"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨што го назначи⟩"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуел"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуел"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "во Гилгал"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "и се разбега"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "од него"
+    }
+  ],
+  "timestamp": "2026-10-19T21:53:12.315329899Z",
+  "model": "glm-5.3"
+}

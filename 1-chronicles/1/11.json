@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": " членувана наставка",
+      "rationale": "Хебрејските племенски имиња во множина бараат македонски член за колективно значење."
+    }
+  ],
+  "translation": "И Мицраим роди ⟨את⟩ Лудиевците, и ⟨את⟩ Анамцевците, и ⟨את⟩ Лехавиевците, и ⟨את⟩ Нафтухиевците.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9b5888fbf65f9e717aa460ff9a70779cb08c90f5c0943681bd3f83818a42d0fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/1\/9-12.1792456764337.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "И Мицраим"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Лудиевците"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Лудиевците"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Анамцевците"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Анамцевците"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Лехавиевците"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Лехавиевците"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Нафтухиевците"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Нафтухиевците"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:24.338830399Z",
+  "model": "glm-5.3"
+}

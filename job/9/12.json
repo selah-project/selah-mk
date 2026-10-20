@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 9:12",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "יחתף",
+      "rationale": "חתף „да грабне“ се јавува само тука во Танах"
+    },
+    {
+      "kind": "invitation",
+      "subject": "кој ќе Му рече: Што правиш?",
+      "rationale": "реторичко прашање што ја повикува согласноста на слушателот"
+    },
+    {
+      "kind": "mystery",
+      "subject": "Што правиш?",
+      "rationale": "прашањето останува без одговор — делата на Ел не се оспоруваат"
+    }
+  ],
+  "translation": "Ено, ако грабне — кој ќе врати ⟨назад⟩? Кој ќе Му рече: Што правиш?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0c51e8bd1914b1a3ee1084ecbb0bc5b003343e282b6507467ec596a13459b512",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/9\/9-12.1792454931761.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ено"
+    },
+    {
+      "surface": "יחתף",
+      "gloss": "грабне"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "ќе го врати"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ќе рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Му"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "правиш"
+    }
+  ],
+  "timestamp": "2026-10-20T00:08:51.762803038Z",
+  "model": "glm-5.3"
+}

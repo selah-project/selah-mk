@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 1:6",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "место",
+      "rationale": "македонскиот бара именска главна именка; хебрејскиот има само придавката מתם"
+    },
+    {
+      "kind": "crux",
+      "subject": "זרו",
+      "rationale": "од корен זור „да стисне\/исцеди“ — преведувачите се колебаат меѓу „затворени“ (KJV), „исцедени“ (JPS) и „стегнати“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חבורה \/ חבשו",
+      "rationale": "парономасија модринка\/преврзува, изгубена во македонски"
+    }
+  ],
+  "translation": "Од долниот дел на стапалото до главата нема во него здраво место — рана, модринка и пресен удар; не беа стегнати, ниту преврзани, ниту омекнати со масло.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "818241d23022fe02b67d7d043b9190ccc1e32e753c10d71bf5b6f521c7bc6dd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/1\/5-8.1792449563198.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכף",
+      "gloss": "од долниот дел"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "на стапалото"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "главата"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "בו",
+      "gloss": "во него"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "здраво"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "рана"
+    },
+    {
+      "surface": "וחבורה",
+      "gloss": "и модринка"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "и удар"
+    },
+    {
+      "surface": "טריה",
+      "gloss": "пресен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "беа стегнати"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ниту"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "преврзани"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ниту"
+    },
+    {
+      "surface": "רככה",
+      "gloss": "омекнати"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "со масло"
+    }
+  ],
+  "timestamp": "2026-10-19T22:39:23.200390863Z",
+  "model": "glm-5.3"
+}

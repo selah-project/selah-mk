@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 38:2",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нефеш",
+      "rationale": "נפש е здив\/животна сила, не 'душа' во подоцнежна смисола; задржано како нефеш"
+    },
+    {
+      "kind": "idiom",
+      "subject": "нефеш за плен",
+      "rationale": "хебрејската идиомa 'неговата нефеш ќе му биде за плен' значи 'ќе го спаси животот како воен плен — ќе преживее'"
+    }
+  ],
+  "translation": "Така вели Јахве: Оној што седи во овој град ќе умре од меч, од глад и од помор; а оној што излезе кај Кашдим ќе живее, и ќе му биде неговата нефеш за плен, и ќе живее.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "991e05c94929d169274f59c05c829f960b69eb83ae5b150ea730f5e495ffa383",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/38\/1-4.1792451079495.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "што седи"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "во градот"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овој"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ќе умре"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "од меч"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "од глад"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "и од помор"
+    },
+    {
+      "surface": "והיצא",
+      "gloss": "а оној што излезе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Кашдим"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ќе живее"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "неговата нефеш"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "за плен"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "и ќе живее"
+    }
+  ],
+  "timestamp": "2026-10-19T23:04:39.495990225Z",
+  "model": "glm-5.3"
+}

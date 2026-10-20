@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפש е ближе до „животна сила\/голтник\/дах“ отколку до „душа“"
+    },
+    {
+      "kind": "idiom",
+      "subject": "зборуваше на срцето",
+      "rationale": "על לב — хебрејски идиом за утеха и нежно говорење; задржано буквално"
+    }
+  ],
+  "translation": "И душата негова се прилепи кон Дина, ќерката на Јааков, и ја засака ⟨את⟩ девојката, и зборуваше на срцето на девојката.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "394e63d6f5812f345cd4a5b436117fb78bb9c97d402da53e1cc85f04f7c0cbfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/34\/1-4.1792443046264.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "и се прилепи"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душата негова"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "кон Дина"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерката"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "на Јааков"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "и ја засака"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "девојката"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "девојката"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и зборуваше"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срцето"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "на девојката"
+    }
+  ],
+  "timestamp": "2026-10-19T20:50:46.266127103Z",
+  "model": "glm-5.3"
+}

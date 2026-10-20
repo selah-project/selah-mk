@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "182 години на Лемех",
+      "rationale": "родословната формула со броење години"
+    }
+  ],
+  "translation": "И живееше Лемех сто и осумдесет и две години, и роди син.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "387d66e7e1f1c6685d933dce2330790d96c9edc35d6fc2019e71551119d62579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/5\/25-28.1792442443332.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И живееше"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Лемех"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "две"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "и осумдесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "и сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:43.335354315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עלה תמיד",
+      "rationale": "буквално „се качува постојано“ — како тутун од жртва; вревата на непријателите се качува нагоре, слика на непрестан шум"
+    }
+  ],
+  "translation": "Не заборавај го гласот на твоите непријатели, вревата на оние што стануваат спроти тебе се крева постојано.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "39cb3110782b1e51d8213863432bb7799bec990105c6d57346399b1de4477c38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/74\/21-23.1792453566226.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "заборавај"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "на твоите непријатели"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "вревата"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "на оние што стануваат спроти тебе"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "се крева"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "постојано"
+    }
+  ],
+  "timestamp": "2026-10-19T23:46:06.226981122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 5:4",
+  "book": "amos",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Барајте ме и живејте",
+      "rationale": "повик со ветување — клучниот императив на целиот поглавја"
+    },
+    {
+      "kind": "you",
+      "subject": "домот Јисраелов",
+      "rationale": "директно обраќање на Јахве до домот на Јисраел"
+    }
+  ],
+  "translation": "Зашто така рече Јахве на домот Јисраелов: Барајте ме и живејте!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0747e184dfb0936586976f2fd2c2bcda4730dfd3f58533d77205d198cf4c004c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/amos\/5\/1-4.1792452373762.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелов"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "Барајте ме"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "и живејте"
+    }
+  ],
+  "timestamp": "2026-10-19T23:26:13.763776603Z",
+  "model": "glm-5.3"
+}

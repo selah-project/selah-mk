@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 9:1",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до младиот пророк",
+      "rationale": "Низ стихот ред императиви упатени директно на ученикот-пророк."
+    },
+    {
+      "kind": "secret",
+      "subject": "тајната задача",
+      "rationale": "Поступките што следуваат (9:2–3) се криат од другите — помаста се врши тајно."
+    }
+  ],
+  "translation": "И Елиша пророкот повика еден од синовите на пророците и му рече: Препашеј ги бедрата свои и земи го овој сад со масло во раката своја, и оди во Рамот Гилеад.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "49d7381be83fab99717fde4179baed19449b1bcd6a197a572ba4c80b9e2f77ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/9\/1-4.1792449247451.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלישע",
+      "gloss": "И Елиша"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкот"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "повика"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "од синовите"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "на пророците"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "Препашеј"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "бедрата свои"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "и земи"
+    },
+    {
+      "surface": "פך",
+      "gloss": "сад"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "со масло"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "во раката своја"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "и оди"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Рамот"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилеад"
+    }
+  ],
+  "timestamp": "2026-10-19T22:34:07.452271694Z",
+  "model": "glm-5.3"
+}

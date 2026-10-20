@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "негово \/ негови",
+      "rationale": "Хебрејскиот има само синтагма l-со суфикс (לקדשו, ממשלותיו); македонскиот бара приложен определител со заменски притяжок."
+    },
+    {
+      "kind": "measurement",
+      "subject": "владенија",
+      "rationale": "ממשלותיו е множина — повеќе владенија, област на владеење."
+    }
+  ],
+  "translation": "Јуда стана ⟨негово⟩ светилиште, Јисраел ⟨негови⟩ владенија.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9e8c1e1190f1f892769b99bb0256d222b1c2238d7b3acb74f40eaab74e7382fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/114\/1-4.1792453939120.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуда"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "⟨негово⟩ светилиште"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "⟨негови⟩ владенија"
+    }
+  ],
+  "timestamp": "2026-10-19T23:52:19.121534923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 7:12",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула; חרון אל е nominalна конструкција „пламен на гневот спроти“"
+    },
+    {
+      "kind": "you",
+      "subject": "до купувачот и продавачот",
+      "rationale": "директни императиви (אל ישמח) упатени кон секој купувач и продавач во осудениот град"
+    }
+  ],
+  "translation": "Дојде времето, дојде денот: купувачот нека не се радува, и продавачот нека не тагува; зашто пламенот на гневот ⟨е⟩ против сето нејзиното множество.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "232762dedd21c3c990a044103486afaaac48be51dd0ffe6bcb309677c34f8ebf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/7\/9-12.1792451450636.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Дојде"
+    },
+    {
+      "surface": "העת",
+      "gloss": "времето"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денот"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "купувачот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нека не"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "се радува"
+    },
+    {
+      "surface": "והמוכר",
+      "gloss": "и продавачот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нека не"
+    },
+    {
+      "surface": "יתאבל",
+      "gloss": "тагува"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "пламенот на гневот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "против"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "нејзиното множество"
+    }
+  ],
+  "timestamp": "2026-10-19T23:10:50.637982221Z",
+  "model": "glm-5.3"
+}

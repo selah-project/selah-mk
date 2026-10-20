@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 13:23",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сум",
+      "rationale": "хебрејскиот нема копула во „Јас Јахве“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחזינה\/תקסמנה",
+      "rationale": "корењата חזה (гледам видение) и קסם (гатам) стојат во паралелен ритам на судот"
+    }
+  ],
+  "translation": "Затоа суета нема да гледате и гатање нема да гатате повеќе, и ќе го отерам ⟨את⟩ народот Мој од раката ваша, и ќе познаете дека Јас сум Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5cb5c697b591ec178389d0dfcd820baa00bf8f10cc456ce399a55e1aa86255e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/13\/21-23.1792451464479.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "суета"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "да гледате"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "и гатање"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תקסמנה",
+      "gloss": "да гатате"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "и ќе го отерам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народот Мој"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народот Мој"
+    },
+    {
+      "surface": "מידכן",
+      "gloss": "од раката ваша"
+    },
+    {
+      "surface": "וידעתן",
+      "gloss": "и ќе познаете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:11:04.480812537Z",
+  "model": "glm-5.3"
+}

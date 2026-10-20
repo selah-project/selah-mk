@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קסם",
+      "rationale": "гатање\/пророштво: зборот обично е забранет (Второзаконие 18), тука е во добра смисла како 'оракул на царот'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "гатање",
+      "rationale": "קסם е буквално 'гонеење жреб \/ божба', реченицата вели дека усните на царот се како оракул"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема глагол-сврзка во именската реченица"
+    }
+  ],
+  "translation": "Гатање ⟨е⟩ на усните на царот; во суд устата негова нема да изневери.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "664f084f18761986a56461539626a6999bee459edca9fec0b4c559562beebcd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/16\/9-12.1792454529264.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "гатање"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "усните"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "во суд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "да изневери"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "устата негова"
+    }
+  ],
+  "timestamp": "2026-10-20T00:02:09.265252716Z",
+  "model": "glm-5.3"
+}

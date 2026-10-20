@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Тора",
+      "rationale": "תורה останува Тора, не 'закон' (D2)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום רב",
+      "rationale": "'мир многу' — хебрејскиот вели 'мир' како множественаcountсност, македонскиот бара придавка 'Голем'"
+    }
+  ],
+  "translation": "Голем мир имаат оние што ја сакаат Твојата Тора, и нема за нив камен-спречување.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c402f04e34d7358455eb2e7a20b694f363265af7a05473592faf51ea6042ce07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/165-168.1792454034535.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Голем"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "имаат оние што ја сакаат"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Твојата Тора"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "למו",
+      "gloss": "за нив"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "камен-спречување"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:54.536158107Z",
+  "model": "glm-5.3"
+}

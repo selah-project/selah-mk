@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот рефлексивен глагол бара 'се'; хебрејскиот ותשאר е сама"
+    },
+    {
+      "kind": "alternative",
+      "subject": "остана",
+      "rationale": "ותשאר буквално 'преостана\/беше оставена' — нагласува осаменост"
+    }
+  ],
+  "translation": "И умре Елимелех, мажот на Ноеми, и ⟨се⟩ остана таа и двата нејзини сина.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ca6107eb430c187424125bf354d0578c10cba661da329ccc67232dd44fb01d55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ruth\/1\/2-3.1792458459327.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и-умре"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Елимелех"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мажот"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "на-Ноеми"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "и-остана"
+    },
+    {
+      "surface": "היא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "и-двата"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "сина нејзини"
+    }
+  ],
+  "timestamp": "2026-10-20T01:07:39.327656893Z",
+  "model": "glm-5.3"
+}

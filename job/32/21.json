@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 32:21",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "да кренам лице",
+      "rationale": "נשא פנים 'да подигне лице' — идиом за пристрасност; буквата слика е задржана"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ласкам",
+      "rationale": "אכנה (кенה) е 'да нарече со додатно име, да возвишува со титули' — 'ласкам' го носи ласкателството, не тулувањето"
+    }
+  ],
+  "translation": "Не велам, те молам — да не кренам лице на ниеден човек, и на човек нема да ласкам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7154fcaadbf48911912a9f17bfe390c902c246085d8f30c47b695c62bd61ea67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/32\/21-22.1792455229972.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не велам"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молам"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "кренам"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "ласкам"
+    }
+  ],
+  "timestamp": "2026-10-20T00:13:49.972824188Z",
+  "model": "glm-5.3"
+}

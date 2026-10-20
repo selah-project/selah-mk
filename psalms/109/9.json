@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "יתומים",
+      "rationale": "хебрејскиот вели „сирачи“ (изгубени од татко), традиционално „без татко“"
+    }
+  ],
+  "translation": "Синовите негови да бидат сирачи, а жената му вдовица.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2291f4c1bd47c6d462e720781b2d1a314f3d533a96dcc1668c2751505c8fa367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/109\/9-12.1792453940730.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "да бидат"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синовите негови"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "сирачи"
+    },
+    {
+      "surface": "ו אשתו",
+      "gloss": "а жената му"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "вдовица"
+    }
+  ],
+  "timestamp": "2026-10-19T23:52:20.730475150Z",
+  "model": "glm-5.3"
+}

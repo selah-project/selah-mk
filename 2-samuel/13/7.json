@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 13:7",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Тамар",
+      "rationale": "Давид ѝ се обраќа директно на Тамар со повелителна форма"
+    },
+    {
+      "kind": "crux",
+      "subject": "הביתה",
+      "rationale": " 'дома' — дали Давид праќа гласник во нејзиниот дом или во палатата; традициите се делат"
+    }
+  ],
+  "translation": "И Давид пратеше кај Тамар дома, велејќи: Оди, те молам, во домот на Амнон, брат ти, и приготви му ⟨את⟩ јадењето.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "fb4c93937e4b8a4d70d78c0ec791d06b860830217b7d140a3d35306967a69abf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/13\/5-8.1792448229846.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И пратеше"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Тамар"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "дома"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Оди"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молам"
+    },
+    {
+      "surface": "בית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Амнон"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брат ти"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "и приготви"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "הבריה",
+      "gloss": "јадењето"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:09.847940261Z",
+  "model": "glm-5.3"
+}

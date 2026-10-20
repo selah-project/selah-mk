@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мишкан",
+      "rationale": "мишкан (משכן) се чува како збор, не „шатор“ или „жилиште“."
+    },
+    {
+      "kind": "idiom",
+      "subject": "до земја",
+      "rationale": "לארץ — букв. „до земја\/на земја“, израз за целосно рушење."
+    }
+  ],
+  "translation": "Испратија во оган светилиштето Твое; до земја го осветогрувија мишканот на Името Твој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "80bd7f36a4f5ce70abdc7226c821e3eb60c88f4993f03b174898b98e3e4d544b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/74\/5-8.1792453557655.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "испратија"
+    },
+    {
+      "surface": "באש",
+      "gloss": "во оган"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "светилиштето Твое"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "до земја"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "осветогрувија"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "мишкан"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "на Името Твој"
+    }
+  ],
+  "timestamp": "2026-10-19T23:45:57.656150714Z",
+  "model": "glm-5.3"
+}

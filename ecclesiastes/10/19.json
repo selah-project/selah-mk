@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשחוק עשים לחם",
+      "rationale": "Буквално „за смеење прават леб“ — традицијата: „гозбата е направена за смеење“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יענה",
+      "rationale": "ענה може „одговара“ но и „пели\/сведочи“ — двосмислена иронија за среброто."
+    }
+  ],
+  "translation": "За смеење прават леб, и виното го развеселува животот, а среброто одговара на ⟨את⟩ сè.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "510d1b5a5965459d421e5beff915568cc05404588309d42af1135f50e2becaff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/10\/17-20.1792455768130.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "За смеење"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "прават"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и виното"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "го развеселува"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "животот"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "а среброто"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "одговара"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сè"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "сè"
+    }
+  ],
+  "timestamp": "2026-10-20T00:22:48.131193104Z",
+  "model": "glm-5.3"
+}

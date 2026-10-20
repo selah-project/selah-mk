@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על כן",
+      "rationale": "Буквално „врз тоа“ — македонскиот идиом „затоа“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לו",
+      "gloss": "неа",
+      "rationale": "Хебрејскиот става машка заменка לו за градот (машки род во хебрејскиот); македонскиот град е машки, па „го“."
+    }
+  ],
+  "translation": "И се насели Давид во тврдината; затоа ја нарекоа Град на Давид.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bf42fe82564cd90bb7094ae0b6525e82e59150da7fd1cb154340ca67bd9ca598",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/11\/5-8.1792456983715.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И се насели"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "во тврдината"
+    },
+    {
+      "surface": "על",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ја нарекоа"
+    },
+    {
+      "surface": "לו",
+      "gloss": "неа"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Град"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-10-20T00:43:03.716225239Z",
+  "model": "glm-5.3"
+}

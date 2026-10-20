@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "nehemiah 12:43",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "со",
+      "rationale": "Хебрејскиот вели само „ги радуваше радост голема“; македонскиот бара предлог."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמח\/שמחה",
+      "rationale": "Коренот се радува\/радост се повторува четири пати во еден стих."
+    }
+  ],
+  "translation": "И заклаа тој ден големи жртви и се радуваа, зашто Елохим ги исполни ⟨со⟩ радост голема, и жените и децата се радуваа, и радоста на Јерушалаим се слушна оддалеку.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3091df9d8af7b0b30acc704fd5e75a3bff5227f8023e9b91d413d87001edae3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/12\/41-44.1792456765534.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "и заклаа"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "тој ден"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨тој⟩"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "жртви"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "големи"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "и се радуваа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "שמחם",
+      "gloss": "ги исполни со радост"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радост"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "голема"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и исто така"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "жените"
+    },
+    {
+      "surface": "והילדים",
+      "gloss": "и децата"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "се радуваа"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "и се слушна"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "радоста на"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "оддалеку"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:25.536584339Z",
+  "model": "glm-5.3"
+}

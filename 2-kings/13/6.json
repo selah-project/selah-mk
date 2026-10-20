@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "האשерה",
+      "rationale": "„ашера“ — име на божицата\/столбот; KJF „гуво\/дрво“ го губи значењето."
+    },
+    {
+      "kind": "elision",
+      "subject": "אך",
+      "rationale": "ограничителната честичка אך („само дека“) е прескокната за тектот да тече."
+    }
+  ],
+  "translation": "Но не отстапија од гревовите на домот на Јаровам, со-кои го согреши ⟨את⟩ Јисраел; во-нив одеа, и исто така ашерата стоеше во Шомрон.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "bb3ac625ebb8d8f9c8626dc8061580617f4448a2305b6a73007a920a3d1d1883",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/13\/5-8.1792449347632.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Но"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "отстапија"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "од гревовите"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "на Јаровам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "со-кои"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "согреши"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јисраел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во-нив"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "одеа"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и исто така"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "ашерата"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "стоеше"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "во Шомрон"
+    }
+  ],
+  "timestamp": "2026-10-19T22:35:47.634114931Z",
+  "model": "glm-5.3"
+}

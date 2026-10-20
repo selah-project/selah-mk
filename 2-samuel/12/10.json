@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 12:10",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עקב",
+      "rationale": "Буквално 'петица' — истоветен корен со името Јаков; значи 'како последица, заради'."
+    }
+  ],
+  "translation": "И сега меч нема да отстапи од домот твој до веки, зашто Мене Ме презре и ја зеде ⟨את⟩ жената на Урија Хетејецот да ти биде за жена.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6356cf0eb645372d040b72acc73c6be74b1655d3acbc9901e87d698bc5d4eaa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/12\/9-12.1792448236634.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "и сега"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "нема да отстапи"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "од домот твој"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "веки"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "כי",
+      "gloss": "затоа што"
+    },
+    {
+      "surface": "בזתני",
+      "gloss": "Мене Ме презре"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "и ја зеде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жената на Урија Хетејецот"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жената"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "на Урија"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Хетејецот"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "да биде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жена"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:16.636445004Z",
+  "model": "glm-5.3"
+}

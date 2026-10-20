@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 9:18",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השליכו משכנותינו",
+      "rationale": "додаток без лице: „становите наши ги фрлија (нас)“ — несигурен субјект (непријателот? Јахве? становите сами?)"
+    }
+  ],
+  "translation": "Зашто глас на жалопојка се чува од Цион: Колку сме ограбени! Посрамени сме многу, зашто ја оставивме земјата, зашто ги фрлија ⟨се⟩ становите наши.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3fdec580f51d3c7dab461ce2991977c4f7bad13ab976bc9844df96d735cd160f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/9\/17-20.1792450572186.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "נהי",
+      "gloss": "на жалопојка"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "се чува"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "од Цион"
+    },
+    {
+      "surface": "איך",
+      "gloss": "колку"
+    },
+    {
+      "surface": "שדדנו",
+      "gloss": "сме ограбени"
+    },
+    {
+      "surface": "בשנו",
+      "gloss": "посрамени сме"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "оставивме"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "ги фрлија"
+    },
+    {
+      "surface": "משכנותינו",
+      "gloss": "становите наши"
+    }
+  ],
+  "timestamp": "2026-10-19T22:56:12.187174461Z",
+  "model": "glm-5.3"
+}

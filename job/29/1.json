@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 29:1",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שאת משלו",
+      "rationale": "букв. „да подигне својата мошала“ — идиом за започнување говор во стих"
+    }
+  ],
+  "translation": "И Јов додаде да ја подигне својата поговорка и рече:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "05ef4e52220b7dc15e8e21ecd887947a28bc1da1de39c45a09c0a686a16fe0c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/29\/1-4.1792455147971.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "И додаде"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Јов"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "да ја подигне"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "својата поговорка"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-10-20T00:12:27.972366499Z",
+  "model": "glm-5.3"
+}

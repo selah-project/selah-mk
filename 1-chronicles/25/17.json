@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 25:17",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "дванаесет",
+      "rationale": "Список на двадесет и четири свештенички групи, секоја од дванаесетмина."
+    },
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Хебрејскиот нема глагол; македонскиот бара црта и реченица наместо безглаголска називка."
+    }
+  ],
+  "translation": "Десеттиот — Шими, неговите синови и неговите браќа — дванаесет.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1af248de679ad9fd04dcb28f7d9e532e84d9c2644622f54cec523a193ddc4b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/25\/17-20.1792457220683.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "Десеттиот"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шими"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "неговите синови"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и неговите браќа"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дванаесет"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-20T00:47:00.683992741Z",
+  "model": "glm-5.3"
+}

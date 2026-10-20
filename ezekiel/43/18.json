@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 43:18",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "להעלות \/ עולה",
+      "rationale": "истиот корен 'да се качи' \/ 'сепаленица' — она што оди нагоре; делумно изгубено"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "македонскиот бара сврзник кај 'овие се наредбите'"
+    },
+    {
+      "kind": "you",
+      "subject": "до Ezekiel",
+      "rationale": "директен говор до 'човечки сину'"
+    }
+  ],
+  "translation": "И ми рече: човечки сину, вака вели Адонај Јахве: овие ⟨се⟩ наредбите на олтарот — во денот кога ќе биде направен — за да се качува на него сепаленица и да се прска на него крв.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0b078e97d44babe55665c7a1cb08f8a06693f14cce97e70a5a44c738be31c590",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/43\/17-20.1792452093818.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и ми рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "כה",
+      "gloss": "вака"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "наредбите"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "на олтарот"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "העשותו",
+      "gloss": "кога е направен"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "да се качува"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "сепаленица"
+    },
+    {
+      "surface": "ולזרק",
+      "gloss": "и да се прска"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "דם",
+      "gloss": "крв"
+    }
+  ],
+  "timestamp": "2026-10-19T23:21:33.819067441Z",
+  "model": "glm-5.3"
+}

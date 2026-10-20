@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 5:20",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "жената",
+      "rationale": "стихот продолжува директното обращение од заклетвата"
+    },
+    {
+      "kind": "substitution",
+      "subject": "легнувањето свое",
+      "rationale": "שכבתו е буквално „легнување-со“ — евфемизмот е задржан во сликата, не во „облежување“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שטית \/ נטמאת",
+      "rationale": "накратко нанижани глаголи за отклонување и осквернување создаваат собирачка структура на обвинувањето"
+    }
+  ],
+  "translation": "А ти, ако си се отклонила под твојот маж, и ако си се осквернила, и некој маж ти дал ⟨את⟩ легнувањето свое покрај твојот маж —",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "005556ea9a99564df05e19861dc81b09e09b0043e3d73bbc773cd4f1460d9ebe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/5\/17-20.1792444703842.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "שטית",
+      "gloss": "си се отклонила"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "твојот маж"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "נטמאת",
+      "gloss": "си се осквернила"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и дал"
+    },
+    {
+      "surface": "איש",
+      "gloss": "маж"
+    },
+    {
+      "surface": "בך",
+      "gloss": "во тебе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "легнувањето свое"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "легнувањето свое"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "покрај"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "твојот маж"
+    }
+  ],
+  "timestamp": "2026-10-19T21:18:23.843688609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 23:28",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בְּעֶצֶם הַיּוֹם",
+      "rationale": "Буквално 'во самата коска\/суштина на денот' — 'во самиот тој ден'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כִּפֻּרִים \/ לְכַפֵּר",
+      "rationale": "Именката и глаголот од ист корен כפר — 'помирувања\/да помири', повторувањето се губи малку во македонскиот."
+    }
+  ],
+  "translation": "И никаква работа нема да правите во самиот тој ден, зашто Ден на помирувања ⟨е⟩ — за да се помири над вас пред Јахве, вашиот Елохим.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e5b1287b60357a7cc0026e1357b27fb487a49af873b0131cdb162705ea793e11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/23\/25-28.1792444503224.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "И никаква"
+    },
+    {
+      "surface": "мלאכה",
+      "gloss": "работа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "да правите"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "во самиот"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "тој"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Ден"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "на помирувања"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨е⟩ тој"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "да се помири"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "над вас"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "вашиот Елохим"
+    }
+  ],
+  "timestamp": "2026-10-19T21:15:03.231212673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "imperativi",
+      "rationale": "Четири императиви во множина упатени кон заедницата — повик за поклонение."
+    },
+    {
+      "kind": "substitution",
+      "subject": "делата",
+      "rationale": "עלילותיו буквално „неговите постапки\/експлоати“ — делата што ги изврши."
+    }
+  ],
+  "translation": "Благодарете му на Јахве, повикајте го во името Негово, објавете ги меѓу народите делата Негови.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "479a558f69a2717c6e0fa80ca306f14c443e691993689c0e8f6caefdabacf49b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/105\/1-4.1792453848442.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Благодарете"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "му на Јахве"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "повикајте"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "во името Негово"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "објавете"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "меѓу народите"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "делата Негови"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:48.442802905Z",
+  "model": "glm-5.3"
+}

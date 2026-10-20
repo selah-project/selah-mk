@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 15:9",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "дваесеттата година",
+      "rationale": "Датирање на встапувањето на Аса според годината на владеењето на Јаровам."
+    }
+  ],
+  "translation": "И во дваесеттата година на Јаровам, царот на Јисраел, зацари се Аса, цар на Јуда.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "ec9ef6b61e5365a130cda9d0125011fa2d62dea08417bea72f164226365200cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/15\/9-12.1792448802794.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "и во година"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "дваесет"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "на Јаровам"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "зацари се"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуда"
+    }
+  ],
+  "timestamp": "2026-10-19T22:26:42.795180691Z",
+  "model": "glm-5.3"
+}

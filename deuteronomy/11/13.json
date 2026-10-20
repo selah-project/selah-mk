@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 11:13",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמע תשמעו",
+      "rationale": "инфинитивен апсолут — „слушајќи ќе слушате“; повторување за наглас"
+    },
+    {
+      "kind": "substitution",
+      "subject": "душа",
+      "rationale": "נפש е ближе до „животна сила, дишење, горло“, не бесмртна душа"
+    },
+    {
+      "kind": "invitation",
+      "subject": "обраќање",
+      "rationale": "директен повик кон Јисраел да слуша и да сака"
+    }
+  ],
+  "translation": "И ќе биде, ако слушајќи слушате на заповедите мои што јас ви заповедам ⟨את⟩ денес — да го сакате ⟨את⟩ Јахве, Елохим вашиот, и да Му служите со сето ваше срце и со сета ваша душа.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5e7356629e3c7a107172c684e4f174dd6f7f8a82d8a87133e9b805f7e348dd09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/11\/13-16.1792445441423.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слушајќи"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "слушате"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "заповедите мои"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "заповедам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вие"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "да сакате"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елохим вашиот"
+    },
+    {
+      "surface": "ולעבדו",
+      "gloss": "и да Му служите"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "со сето"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "срце ваше"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "и со сета"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "душа ваша"
+    }
+  ],
+  "timestamp": "2026-10-19T21:30:41.424712245Z",
+  "model": "glm-5.3"
+}

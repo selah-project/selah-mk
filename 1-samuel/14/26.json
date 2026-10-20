@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 14:26",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הלך דבש",
+      "rationale": "букв. 'мед што оди\/тече' — 'мед во струење' наспроти 'саќе' (KJV 'honeycomb' од הלך како 'струење')"
+    }
+  ],
+  "translation": "И дојде народот ⟨е⟩ во шумата, и ете — мед во струење, но никој не ја донесе раката своја до устата своја, зашто народот се боеше од ⟨את⟩ клетвата.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "0fdbfb493640e488926e672a79fa3cd4acd756f3ca9c7f0252892760722ba5f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/14\/25-28.1792446913932.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и дојде"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨е⟩ до"
+    },
+    {
+      "surface": "היער",
+      "gloss": "во шумата"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ете"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "во струење"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "мед"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "но немаше"
+    },
+    {
+      "surface": "משיג",
+      "gloss": "кој ја донесе"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "раката своја"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "устата своја"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "се боеше"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "клетвата"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "од клетвата"
+    }
+  ],
+  "timestamp": "2026-10-19T21:55:13.933138863Z",
+  "model": "glm-5.3"
+}

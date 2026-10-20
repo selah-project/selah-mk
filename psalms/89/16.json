@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תרועה",
+      "rationale": "'битиска вика\/трубен крик' — пред Јахве ( вокатив) или објект што народот го познава; преводите се делат меѓу ' vesелиот звук' и ' бојниот повик'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "до читателот",
+      "rationale": "макаризам 'блажен народот...' — вкрстено обраќање кон сите што слушаат"
+    }
+  ],
+  "translation": "Блажен народот што ја познава трубата-вреска, Јахве; во светлината на лицето Твоето одат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/89\/13-16.1792453724313.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Блажен"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "што ја познава"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "трубата-вреска"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "באור",
+      "gloss": "во светлината"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "на лицето Твоето"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "одат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:48:44.314714962Z",
+  "model": "glm-5.3"
+}

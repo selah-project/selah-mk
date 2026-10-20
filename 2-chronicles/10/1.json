@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "македонскиот бара директен предмет со наставка за причинската конструкција ламед"
+    }
+  ],
+  "translation": "И Рехавам отиде во Шехем, зашто во Шехем дојде целиот Јисраел за да го постават за цар ⟨את⟩ него.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fd9e5648a40a5506a1d86ad29f3a01d1533b18ced9cb6d487483583c9110ad3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/10\/1-4.1792457526112.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавам"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "во Шехем"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "во Шехем"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "за да го постават за цар"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    }
+  ],
+  "timestamp": "2026-10-20T00:52:06.113032311Z",
+  "model": "glm-5.3"
+}

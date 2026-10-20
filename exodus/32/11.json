@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 32:11",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחל את פני",
+      "rationale": "буквално „го умилостиви лицето“ — македонскиот бара глагол со објект во множина „ги умилостиви“"
+    }
+  ],
+  "translation": "И ги умилостиви Моше ⟨את⟩ лицето на Јахве, Елохим својот, и рече: Зошто, Јахве, ќе пламне гневот Твој на народот Твој, што го изведе од земјата Мицраим со сила голема и со рака силна?",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "da143ef754c5367e7b6a4be8c91510b137732c971db2621591faa4aad3a173b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/32\/9-12.1792443896527.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "И ги умилостиви"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лицето"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Елохим својот"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Зошто"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "ќе пламне"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "гневот Твој"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "на народот Твој"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "го изведе"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "со сила"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голема"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "и со рака"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "силна"
+    }
+  ],
+  "timestamp": "2026-10-19T21:04:56.531785077Z",
+  "model": "glm-5.3"
+}

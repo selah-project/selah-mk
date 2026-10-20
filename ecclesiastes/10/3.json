@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "и тој вели на сите дека глупав е тој",
+      "rationale": "дали глупавиот сам кажува дека е глупав, или сите околу покажуваат\/говорат дека тој е глупав"
+    },
+    {
+      "kind": "substitution",
+      "subject": "срцето му недостасува",
+      "rationale": "לבו חסר буквално 'срцето му е без' — недостаток на разум"
+    }
+  ],
+  "translation": "И дури и на патот, додека глупавиот оди, срцето му недостасува, и тој вели на сите дека глупав ⟨е⟩ тој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ea9d772119811af4e802c9749728f9de1c8363a5cb710a531ef5092d0f979d10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/10\/1-4.1792455770003.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "И дури и"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на патот"
+    },
+    {
+      "surface": "кешасекел",
+      "gloss": "додека глупавиот"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срцето му"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "недостасува"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и тој вели"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на сите"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "глупав"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    }
+  ],
+  "timestamp": "2026-10-20T00:22:50.003918923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 19:17",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בן הימיני",
+      "rationale": "хебрејскиот букв. 'син на десната страна', т.е. Венијаминовец — едно пишување, не 'Јеминит'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בן...בן",
+      "rationale": "двојно 'син' — синот на Гера, син на Венијамин — синхронизација на татко и племе, изгубена во тековот"
+    }
+  ],
+  "translation": "И забрза Шими, синот на Гера, Венијаминовец, што беше од Бахурим, и слезе со мажите на Јуда да го пречека царот Давид.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "312fa536f2ed41b050ed27c41226ea915659f49899ddeb1f60d2a071ae0d8098",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/19\/17-20.1792448368761.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "забрза"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шими"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "גרא",
+      "gloss": "на Гера"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "Венијамин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "מבחורים",
+      "gloss": "од Бахурим"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "и слезе"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мажите"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јуда"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "да пречека"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-19T22:19:28.762720338Z",
+  "model": "glm-5.3"
+}

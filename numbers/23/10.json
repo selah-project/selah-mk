@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата моја",
+      "rationale": "נפש е грло\/дах\/животна сила, не бессмртна душа"
+    },
+    {
+      "kind": "crux",
+      "subject": "רבע",
+      "rationale": "'четвртина од Израил' (KJV) наспроти 'бројот\/потомството' (JPS); букв. 'четвртина'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "изброи прашината",
+      "rationale": "броење на безбројност — реторичко прашање"
+    }
+  ],
+  "translation": "Кој го изброи прашината на Јааков и ⟨את⟩ бројот на четвртината од Јисраел? Нека умре душата мој со смртта на праведните и нека биде крајот мој како нивниот!",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "4d821b17d7ed8203e5c315bec57a0ddb536cbfea9a7357d220f4778193576097",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/23\/9-12.1792445015146.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "изброи"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прашината"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "на Јааков"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "и бројот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бројот на четвртината од Јисраел"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "четвртината"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "од Јисраел"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "нека умре"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата моја"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смртта"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "на праведните"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "и нека биде"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "крајот мој"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "како нивниот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:23:35.147468272Z",
+  "model": "glm-5.3"
+}

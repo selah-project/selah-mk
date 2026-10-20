@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 13:2",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויפלא",
+      "rationale": "'беше неизводливо\/чудно' (Piel од פלא) vs традициите: 'тешко' (KJV) или 'немаше како' (JPS 'implausible')"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויצר",
+      "gloss": "literal 'стеснет беше' — слика на притисок, задржана како 'во теснота'"
+    }
+  ],
+  "translation": "И во теснота беше Амнон, дури до разболување, поради Тамар, сестра му; зашто таа беше девица, и тешко беше во очите на Амнон да ѝ направи било што.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c7cfb28fc23da02c8c2ef9357ed0794ee0526f07f6ba8ad99899e3dde8994a3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/13\/1-4.1792448272173.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "И во теснота беше"
+    },
+    {
+      "surface": "לאמנון",
+      "gloss": "Амнон"
+    },
+    {
+      "surface": "להתחלות",
+      "gloss": "до разболување"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "поради"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Тамар"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "сестра му"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "девица"
+    },
+    {
+      "surface": "היא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "ויפלא",
+      "gloss": "и тешко\/неверојатно беше"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "во очите"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "на Амнон"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да направи"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ја \/ ѝ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "било што"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:52.175682375Z",
+  "model": "glm-5.3"
+}

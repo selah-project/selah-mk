@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "Хебрејскиот нема копула; македонскиот ја бара."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרכיה\/דרכי",
+      "rationale": "Повторување на истата именка во конструкција — ритам што македонскиот го задржува само делумно."
+    }
+  ],
+  "translation": "Нејзините патишта се патишта на пријатност, и сите нејзини стези се мир.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2c00e03554356e4ffe22ae69de5b7b63f08a53be63d49413389d9724bc38fe0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/3\/17-20.1792454309449.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "Нејзините патишта"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "патишта"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "пријатност"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сите"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "нејзини стези"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    }
+  ],
+  "timestamp": "2026-10-19T23:58:29.449788634Z",
+  "model": "glm-5.3"
+}

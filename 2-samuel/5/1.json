@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 5:1",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "idiom",
+      "subject": "коска и тело",
+      "rationale": "עצם ובשר — сродност по крв, букв. коска и месо"
+    },
+    {
+      "kind": "you",
+      "subject": "племињата на Јисраел до Давид",
+      "rationale": "директен говор упатен кон Давид"
+    }
+  ],
+  "translation": "И дојдоа сите племиња на Јисраел кај Давид во Хеврон, и рекоа, велејќи: Еве ние ⟨се⟩ твоја коска и твое тело.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c909a1ea56e0ce6e86ad0101cc3e8ed79f9b51450695ea3f4602cd2f79510c14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/5\/1-4.1792448123918.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "и дојдоа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "племиња"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "во Хеврон"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "еве ние"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "твоја коска"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "и твое тело"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ние"
+    }
+  ],
+  "timestamp": "2026-10-19T22:15:23.919687061Z",
+  "model": "glm-5.3"
+}

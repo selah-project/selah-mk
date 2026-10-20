@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 3:22",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "Македонскиот бара помошен глагол кај איננו — хебрејскиот има само негација."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשלום",
+      "rationale": "„И отиде во мир“ се повторува трпат по ред (ст. 21–23) — мирот на отпуштањето е клуч за целата сцена."
+    }
+  ],
+  "translation": "И еве, слугите на Давид и Јоав дојдоа од воената дружина и донесоа со себе многу плен; а Авнер не беше кај Давид во Хеврон, зашто тој го беше отпуштил, и тој отиде во мир.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "740f932a3d2d44930f8b52f71ef044dd5b894085fb1f9cc63169cbb7e45f6704",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/3\/21-24.1792448107796.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "и еве"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слугите"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "и Јоав"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дојдоа"
+    },
+    {
+      "surface": "מהגדוד",
+      "gloss": "од воената дружина"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "и плен"
+    },
+    {
+      "surface": "רב",
+      "gloss": "многу"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "со себе"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "донесоа"
+    },
+    {
+      "surface": "ואבנר",
+      "gloss": "а Авнер"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "не беше"
+    },
+    {
+      "surface": "עם",
+      "gloss": "кај"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "во Хеврон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "го беше отпуштил"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "во мир"
+    }
+  ],
+  "timestamp": "2026-10-19T22:15:07.798544046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 11:23",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нивната посета",
+      "rationale": "פקודה е официјална 'посета' — и воinspection и во казна; традиционалните преводи ставаат само 'казнување'"
+    }
+  ],
+  "translation": "И остаток нема да биде за нив, зашто Јас ќе донесам зло врз мажите од Анафот — годината на нивната посета.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a8b86246158902ae3e34001c00a2dc90e2752c58f6bf812ff68fd36f7be9a038",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/11\/21-23.1792450545570.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושארית",
+      "gloss": "И остаток"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "да биде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "за нив"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "Јас ќе донесам"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "אל",
+      "gloss": "врз"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мажите од"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Анафот"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "годината на"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "нивната посета"
+    }
+  ],
+  "timestamp": "2026-10-19T22:55:45.572204766Z",
+  "model": "glm-5.3"
+}

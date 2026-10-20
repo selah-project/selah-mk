@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "изгледот",
+      "rationale": "משפט обично значи суд\/право, тука е „особина, изглед“ — ист збор, друго значење"
+    },
+    {
+      "kind": "you",
+      "subject": "до пораките",
+      "rationale": "царот директно ги прашува испратените пораки"
+    }
+  ],
+  "translation": "И им рече: Каков беше изгледот на човекот што излезе пред вас и ви ги кажа ⟨את⟩ овие зборови?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "97cc0f4454f1bb67eb36789a6950b83f483f1e1cff2e7eb9fe806c336eb90cbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/1\/5-8.1792449089489.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Каков"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "изгледот"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "на човекот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "излезе"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "пред вас"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "и ги кажа"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "овие зборови"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "овие зборови"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овие"
+    }
+  ],
+  "timestamp": "2026-10-19T22:31:29.490443916Z",
+  "model": "glm-5.3"
+}

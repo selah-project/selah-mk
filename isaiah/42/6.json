@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "завет-на-народот",
+      "rationale": "ברית עם: лицето е дадено како завет (не само 'симбол на заветот') — слугата е самиот завет"
+    },
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "праведност\/правда — еден корен, а не македонски збор сама"
+    }
+  ],
+  "translation": "Јас Јахве те повикав во цедек и ќе те фатам за рака, и ќе те чувам, и ќе те дадам за завет на народот, за светлина на народите,",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7294204b0af95baeca3f0942f42341d00ef6d8221416a49022d49af7a8c48344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/42\/5-8.1792450084276.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "те повикав"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "во цедек"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "и ќе те фатам"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "за рака"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "и ќе те чувам"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "и ќе те дадам"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "за завет"
+    },
+    {
+      "surface": "עם",
+      "gloss": "на народот"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "за светлина"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "на народите"
+    }
+  ],
+  "timestamp": "2026-10-19T22:48:04.277727390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 7,
+  "translation": "И синот на Хелем, неговиот брат: Цофах, и Јимна, и Шелеш, и Амал.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6a79dffbd60953b296e308b337219790480bf5fa29bc6fdab8a10cfb6f10b0bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/7\/33-36.1792456920114.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "и синот"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "Хелем"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "неговиот брат"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "Цофах"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "и Јимна"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "и Шелеш"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "и Амал"
+    }
+  ],
+  "timestamp": "2026-10-20T00:42:00.114929840Z",
+  "model": "glm-5.3"
+}

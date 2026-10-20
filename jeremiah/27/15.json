@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 27:15",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הדיחי",
+      "rationale": "Од נדח — „да ве оттурнат\/изгонат“; некои преводи го читаат како да Еlohим ги гони („за да ве отфрлам Јас“), други како намера на лажните пророци."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשקר … הנבאים",
+      "rationale": "Клучот лаж-пророкување се повторува во ст. 14–16 како рефрен."
+    }
+  ],
+  "translation": "Зашто не ги испратив — вели Јахве — а тие пророкуваат лага во моето име, за да ве оттурнат ⟨את⟩, и да загинете вие и пророците што ви пророкуваат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "991f2449ecf4ad3dc2b9acf02475d511e4026d6e87cf6cfc40ff5334cfac17cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/27\/13-16.1792450813719.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "ги испратив"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "והם",
+      "gloss": "а тие"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "пророкуваат"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "во моето име"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "лага"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "הדיחי",
+      "gloss": "ве оттурнат"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "и да загинете"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "и пророците"
+    },
+    {
+      "surface": "הנבאאים",
+      "gloss": "што пророкуваат"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    }
+  ],
+  "timestamp": "2026-10-19T23:00:13.722079287Z",
+  "model": "glm-5.3"
+}

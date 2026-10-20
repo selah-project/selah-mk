@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "според D2 руах стои наместо „ветер“ — еден збор, три нешта"
+    }
+  ],
+  "translation": "И јаваше на херувим и леташе, и се покажа на крилјата на руахот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2d2055575024d8bb9d1a1a58cb2d83932b3cef48726996509ea76b647183b822",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/22\/9-12.1792448391632.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "и јаваше"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "херувим"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "и леташе"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и се покажа"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "крилјата на"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руахот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:19:51.634043370Z",
+  "model": "glm-5.3"
+}

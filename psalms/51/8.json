@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "во внатрешноста",
+      "rationale": "בטחות буквално 'бубрези' — слика за највнатрешниот дел на човекот"
+    },
+    {
+      "kind": "secret",
+      "subject": "ובסתם",
+      "rationale": "запечатено, скриеното — местото каде мудроста се дава"
+    }
+  ],
+  "translation": "Ено, вистината ја сакаш во внатрешноста, и во скриеното мудрост ми ја откриваш.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/51\/5-8.1792453335903.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ено"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "вистината"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ја сакаш"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "во внатрешноста"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "и во скриеното"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "ми ја откриваш"
+    }
+  ],
+  "timestamp": "2026-10-19T23:42:15.904488400Z",
+  "model": "glm-5.3"
+}

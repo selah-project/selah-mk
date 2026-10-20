@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 27:19",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 27,
+  "translation": "Сите садови на mishkanот за всяка негова служба, и сите клинци негови, и сите клинци на дворот — од бакар.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f1398718c3bbea2402730bdb3602f357070127879906a933206daa8aa99117b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/27\/17-20.1792443758874.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "за сите"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "садови"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "на мишканот"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "за всяка"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "служба негова"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сите"
+    },
+    {
+      "surface": "יתדתיו",
+      "gloss": "клинци негови"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сите"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "клинци"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "на дворот"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "од бакар"
+    }
+  ],
+  "timestamp": "2026-10-19T21:02:38.877951408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "рацете му ослабеа",
+      "rationale": "хебрејската идиома „ослабнаа неговите раце“ значи загуби храброст"
+    },
+    {
+      "kind": "elision",
+      "subject": "синот на Шаул",
+      "rationale": "името Иш-Бошет не стои во хебрејскиот туку само „син на Шаул“"
+    }
+  ],
+  "translation": "И синот на Шаул чу дека Авнер умре во Хеврон, и рацете му ослабеа, и целиот Јисраел се уплаши.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "dc27d0b8428cea1b88cd4cc8b5cb9ee2e05f7a68bd59b38dd3951746b09ae726",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/4\/1-4.1792448112809.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и чу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "на Шаул"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "מת",
+      "gloss": "умре"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнер"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "во Хеврон"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "и ослабеа"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "рацете негови"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и целиот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "се уплаши"
+    }
+  ],
+  "timestamp": "2026-10-19T22:15:12.810169072Z",
+  "model": "glm-5.3"
+}

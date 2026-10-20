@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ירחצו",
+      "rationale": "несовршен глагол — хабитуално 'се мијае (секогаш)' наспроти минато 'се мијат'; JWS 'should wash'"
+    }
+  ],
+  "translation": "Кога влегуваа во шаторот на средбата и кога приближуваа кон жртвеникот, се мијае, како што заповеди Јахве ⟨את⟩ Моше.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "670ddd7507498d8b16b17eb2cede667baf33c12b1990672c4615f5bbfc947a1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/40\/30-32.1792447732406.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "кога влегуваа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шаторот"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на средбата"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "и кога приближуваа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жртвеникот"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "се мијае"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-10-19T22:08:52.408717287Z",
+  "model": "glm-5.3"
+}

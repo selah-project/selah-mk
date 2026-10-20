@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "евнух",
+      "rationale": "סרי׸ буквално евнух\/дворски служител — традицијата омекнува во „офицер“; зборот стои како што е."
+    },
+    {
+      "kind": "measurement",
+      "subject": "од денот … до сега",
+      "rationale": "точна временска граница на повратокот на имотот и приносите."
+    }
+  ],
+  "translation": "И праша царот ⟨ја⟩ жената, и таа му раскажа; и царот и даде еден евнух, велејќи: Врати и ⟨את⟩ сè што е нејзино и ⟨את⟩ сите плодови на полето, од денот кога го напуштила ⟨את⟩ земјата па до сега.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "08b43bbeda870827012506da5fbb7f7451d60caac9b3c0868b93a8ff0e656275",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/8\/5-8.1792449207525.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "И праша"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "и раскажа"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "לה",
+      "gloss": "и"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "евнух"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "Врати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сè што е нејзино"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לה",
+      "gloss": "е нејзино"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сите плодови на полето"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "плодовите"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "на полето"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "од денот"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "го напуштила"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "па до"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сега"
+    }
+  ],
+  "timestamp": "2026-10-19T22:33:27.526630248Z",
+  "model": "glm-5.3"
+}

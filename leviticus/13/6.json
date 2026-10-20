@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 13:6",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מספחת",
+      "rationale": "„краста“ — ретка дијагноза во тексот за кожни појави"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כהה",
+      "rationale": "буквално „затемнета\/слаба“ — раната побледнела"
+    }
+  ],
+  "translation": "И свештеникот ќе го погледне ⟨את⟩ ⟨него⟩ на седмиот ден вторпат, и ато, пригаснала е раната и не се прошири раната во кожата — и свештеникот ќе го прогласи за чист: краста е ⟨тоа⟩; и ќе ги пере облеките свои и ќе биде чист.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "77861d22868ec5da3324352095fe73a6e74a3f905b99c4292c2e35fe58af3d12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/13\/5-8.1792444252287.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "и ќе погледне"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "на ден"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седмиот"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "вторпат"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ато"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "пригаснала"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "раната"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "се прошири"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "раната"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "во кожата"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "и ќе го прогласи за чист"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "מספחת",
+      "gloss": "краста"
+    },
+    {
+      "surface": "היא",
+      "gloss": "таа е"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "и ќе пере"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "облеките свои"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "и ќе биде чист"
+    }
+  ],
+  "timestamp": "2026-10-19T21:10:52.289613488Z",
+  "model": "glm-5.3"
+}

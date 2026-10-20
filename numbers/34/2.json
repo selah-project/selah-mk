@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 34:2",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תפל לכם",
+      "rationale": "Literally 'will fall to you' — land apportioned by falling of lots."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Imperative addressed to Israel through Moshe."
+    },
+    {
+      "kind": "measurement",
+      "subject": "borders",
+      "rationale": "Verse introduces land division and boundary measurements."
+    }
+  ],
+  "translation": "Заповедај им ⟨את⟩ на синовите Јисраелови и кажи им: Кога ќе влезете во земјата Кенан — ова ⟨е⟩ земјата што ќе ви се падне во наследство, земјата Кенан со нејзините граници:",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "034efad29e3625121200cb9c42b125d716661e69e6440023f8821dbce32e021c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/34\/1-4.1792445232965.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Заповедај"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "на синовите Јисраелови"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и кажи"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "באים",
+      "gloss": "влезете"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенан"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ќе ви се падне"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "во наследство"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенан"
+    },
+    {
+      "surface": "לגבלתיה",
+      "gloss": "со нејзините граници"
+    }
+  ],
+  "timestamp": "2026-10-19T21:27:12.966689407Z",
+  "model": "glm-5.3"
+}

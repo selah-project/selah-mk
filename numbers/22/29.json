@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 22:29",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התעללת",
+      "rationale": "'си се подбивала\/играла' наспроти 'ме измачуваше' — повеќе толкувања на овој корен."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Второто כי не е преведено, македонската синтакса не го трпи."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לו יש חרב בידי",
+      "rationale": "Буквално 'да има меч во раката моја' — пожелна конструкција за нешто што го нема."
+    }
+  ],
+  "translation": "И рече Валаам на магарицата: Зашто си се играла со мене; да имаш меч во раката моја, сега ќе те убијав!",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "bce836cf692ace5da97acc02a3533a472ce87e23867afd01549cefb36a5ec027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/22\/29-32.1792445059335.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Валаам"
+    },
+    {
+      "surface": "לאתון",
+      "gloss": "на магарицата"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "התעללת",
+      "gloss": "си се играла"
+    },
+    {
+      "surface": "בי",
+      "gloss": "со мене"
+    },
+    {
+      "surface": "לו",
+      "gloss": "да"
+    },
+    {
+      "surface": "יש",
+      "gloss": "имааш"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "во раката моја"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сега"
+    },
+    {
+      "surface": "הרגתיך",
+      "gloss": "ќе те убијав"
+    }
+  ],
+  "timestamp": "2026-10-19T21:24:19.336069726Z",
+  "model": "glm-5.3"
+}

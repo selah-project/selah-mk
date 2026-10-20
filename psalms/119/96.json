@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תכלה",
+      "rationale": "„Совршеност\/целосност“ наспроти „граница\/крај на сè“ — JPS 'purpose', KJV 'perfection'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תכלה\/קץ",
+      "rationale": "Игра меѓу 'целосност' и 'крај': сè има крај, заповедта е безкрајно широка."
+    },
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Копула додадена на македонски."
+    }
+  ],
+  "translation": "На секоја совршеност крај и видов, но заповедта твоја е многу широка.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "134277dd293f18750098f9e80223d4b030993d4db6efc606d416f1c1af5ecc17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/93-96.1792453990317.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "на секоја"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "совршеност"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "и видов"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "крај"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "е широка"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "заповедта твоја"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:10.318347532Z",
+  "model": "glm-5.3"
+}

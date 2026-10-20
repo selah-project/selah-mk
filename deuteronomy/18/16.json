@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 18:16",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא אסף",
+      "rationale": "дословно 'нема да додадам да слушам' — 'повеќе' ја пренесува идиомската сила"
+    },
+    {
+      "kind": "addition",
+      "subject": "за да не",
+      "rationale": "хебрејскиот става несогласувачки 'и да не умрам' без сврзник за цел"
+    }
+  ],
+  "translation": "Според сето она што побара од Јахве, твојот Елохим, во Хорев, во денот на соборот, велејќи: Нема повеќе да го слушам ⟨את⟩ гласот на Јахве, мојот Елохим, и ⟨את⟩ оваа голема оган повеќе да не видам, за да не умрам.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a1dd87fc64440fbbf284c1bcd670e84ef1c6ab5cdcea4e3597080ccbca0ca6c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/18\/13-16.1792445598616.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Според сето"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "побара"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "од"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "во Хорев"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "на соборот"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "лא",
+      "gloss": "Нема"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "да слушам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гласот"
+    },
+    {
+      "surface": "קול",
+      "gloss": "гласот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "мојот Елохим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "оган"
+    },
+    {
+      "surface": "האש",
+      "gloss": "оган"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "голема"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "лא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "да видам"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "за да не"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "умрам"
+    }
+  ],
+  "timestamp": "2026-10-19T21:33:18.617486364Z",
+  "model": "glm-5.3"
+}

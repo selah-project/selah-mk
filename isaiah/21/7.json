@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 21:7",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קשב … רב … קשב",
+      "rationale": "Троен повтор на коренот קשב — наушката приклучена, многу-наушката; македонскиот може само да го повтори „внимание“."
+    },
+    {
+      "kind": "alternative",
+      "subject": "רכב",
+      "rationale": "Може и „коњаници\/ездеч“ наместо „кола“ — но обликот е возило, затоа кола."
+    }
+  ],
+  "translation": "И кога ќе види кола, двојка коњаници, кола на магариња, кола на камили — нека слушне со големо внимание, внимание.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b7182f630223fbd1087c8365412220fe075068049971970cb37fb53b34df13a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/21\/5-8.1792449820258.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "и кога ќе види"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "кола"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "двојка"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "коњаници"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "кола"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "магариња"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "кола"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "камили"
+    },
+    {
+      "surface": "והקשיב",
+      "gloss": "нека слушне"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "внимание"
+    },
+    {
+      "surface": "רב",
+      "gloss": "големо"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "внимание"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:40.260795984Z",
+  "model": "glm-5.3"
+}

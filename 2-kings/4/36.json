@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 4:36",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שאי בנך",
+      "rationale": "буквално „Подигни го синот ти“ — н extensions: „вземи“ или „подигни од постелата“"
+    }
+  ],
+  "translation": "И повика кон Гехази и рече: Повикај ја оваа Сунамитка. И ја повика, и таа влезе кај него, и рече: Земи го својот син.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "58b2edced5804a88780a958ea83a70be3a19b9e85fb287b193fcd109beb67634",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/4\/33-36.1792449127784.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и повика"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "גיחזי",
+      "gloss": "Гехази"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "повикај"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ја"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "Сунамитката"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "ויקראה",
+      "gloss": "и ја повика"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "и влезе"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "кај него"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "Земи"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "својот син"
+    }
+  ],
+  "timestamp": "2026-10-19T22:32:07.786932246Z",
+  "model": "glm-5.3"
+}

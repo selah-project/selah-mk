@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 7:1",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "изеде",
+      "rationale": "תאכל е буквално 'јаде'; огнот ја изеде жртвата."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלא … מלא",
+      "rationale": "глаголот 'исполнува' се повторува во стиховите 1 и 2 како refrain на сцената."
+    }
+  ],
+  "translation": "И кога Шеломо заврши да се моли, оган слезе од небото и ги изеде ⟨את⟩ сепаленицата и жртвите, и славата на Јахве го исполни ⟨את⟩ домот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "027a0af9d447d234db7bde7354e4fd1ad6b6d841f5ce2dd7a49d47227aafc293",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/7\/1-4.1792457455232.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וככלות",
+      "gloss": "И кога заврши"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "да се моли"
+    },
+    {
+      "surface": "והאש",
+      "gloss": "и оган"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "слезе"
+    },
+    {
+      "surface": "מהשמים",
+      "gloss": "од небото"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "и ги изеде"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "сепаленицата"
+    },
+    {
+      "surface": "והזבחים",
+      "gloss": "и жртвите"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "и славата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "го исполни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "домот"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "домот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:50:55.233193064Z",
+  "model": "glm-5.3"
+}

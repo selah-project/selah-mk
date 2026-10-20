@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 1:35",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "условното 'им' во заклетва значи 'навистина не' — македонскиот прашањ 'Дали?' ги задржува двете читања"
+    },
+    {
+      "kind": "addition",
+      "subject": "ѝ",
+      "rationale": "македонскиот бара клитика 'ѝ\/ја' кај '{а} дадам', хебрејскиот нема"
+    }
+  ],
+  "translation": "Дали ќе види некој од тие луѓе, ова зло поколение, ⟨את⟩ добрата земја за која се заколнав да им ја дадам на вашите татковци?",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5dc452bdaab97c29b94c3dff9d95f836b91d055c9d319ac542689dc77794cd1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/1\/33-36.1792445302752.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Дали"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ќе види"
+    },
+    {
+      "surface": "איש",
+      "gloss": "некој"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "од луѓето"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "поколението"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "добрата земја"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "добрата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "за која"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "се заколнав"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "да дадам"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "на вашите татковци"
+    }
+  ],
+  "timestamp": "2026-10-19T21:28:22.753802039Z",
+  "model": "glm-5.3"
+}

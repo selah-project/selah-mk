@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 5:30",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "3.300",
+      "rationale": "Бројката на надзорници е наведена според хебрејскиот."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המלאכה…במלאכה",
+      "rationale": "Зборот 'работа' се повторува на почетокот и на крајот на стихот — одраз на хебрејската рамка."
+    }
+  ],
+  "translation": "Освен надзорниците на поставените од Шеломо, што беа над работата — три илјади и триста, што владееја над народот што работеше на работата.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "9ddea6a5830d4bcff664a9df21862ffae7a92cd561b5c1417312016c9e2e3327",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/5\/29-32.1792448572183.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "Освен"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "надзорниците на"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "поставените"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "од Шеломо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "работата"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "и триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨сто⟩"
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "што владееја"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "над народот"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "што работеше"
+    },
+    {
+      "surface": "במלאכה",
+      "gloss": "на работата"
+    }
+  ],
+  "timestamp": "2026-10-19T22:22:52.183972236Z",
+  "model": "glm-5.3"
+}

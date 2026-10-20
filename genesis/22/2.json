@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 22:2",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המריה",
+      "rationale": "Морија: традиционално се поврзува со Ерусалим\/храмот, но текстот само именува земја"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сепаленик",
+      "rationale": "עלה буквално 'она што се качува' — жртва што целина се качува на оган"
+    },
+    {
+      "kind": "you",
+      "subject": "Аврахам",
+      "rationale": "целата наредба е директна адреса до Аврахам"
+    }
+  ],
+  "translation": "И рече: Земи го сега ⟨את⟩ синот твој, ⟨את⟩ единственитиот твој, кого што го сакаш, ⟨את⟩ Јицхак, и оди си во земјата Морија, и принеси го таму за сепаленик на еден од планините за која ќе ти кажам.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e2e1f3329f59fb0e0161134ce949bc8d5289e6a0948a3bbdb9bf792bacab6c63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/22\/1-4.1792442662367.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Земи"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сега"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синот твој"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "синот твој"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "единственитиот твој"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "единственитиот твој"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кого што"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "го сакаш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јицхак"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Јицхак"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "и оди"
+    },
+    {
+      "surface": "לך",
+      "gloss": "си"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "המריה",
+      "gloss": "Морија"
+    },
+    {
+      "surface": "והעלהו",
+      "gloss": "и принеси го"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "за сепаленик"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "од планините"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "за која"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ќе ти кажам"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-10-19T20:44:22.371120615Z",
+  "model": "glm-5.3"
+}

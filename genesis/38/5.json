@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "тој",
+      "rationale": "хебрејскиот не вели кој беше во Кезив — традиционално се дополнува Јуда"
+    },
+    {
+      "kind": "crux",
+      "subject": "והיה בכזיב",
+      "rationale": "без именкан субјект: „беше во Кезив“ — Јуда (повеќето преводи) или нејасно; כזיב може и да се чита како „лажење\/престанување“"
+    }
+  ],
+  "translation": "И таа додаде уште и роди син, и го нарече ⟨את⟩ името негово Шела; и ⟨тој⟩ беше во Кезив кога таа го роди ⟨את⟩ него.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "050f0b471b391b5e231a87e422aaf5cc56773378379e15137b045e0b383221a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/38\/5-8.1792443079221.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "додаде уште"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уште"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "и го нарече"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "името негово"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името негово"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Шела"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "во Кезив"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "кога таа роди"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него"
+    }
+  ],
+  "timestamp": "2026-10-19T20:51:19.222929034Z",
+  "model": "glm-5.3"
+}

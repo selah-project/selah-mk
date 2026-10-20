@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 8:54",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "свои",
+      "rationale": "присвојната заменка е во хебрејската наставка, македонскиот ја бара одделно"
+    },
+    {
+      "kind": "substitution",
+      "subject": "небесата",
+      "rationale": "השמים е двоина (небе-две), македонскиот нема двоина"
+    }
+  ],
+  "translation": "И биде, кога Шеломо заврши да се моли кон Јахве ⟨את⟩ цела таа молитва и молба, стана од пред жртвеникот на Јахве, откако клекна на колената свои со раширени долонки кон небесата.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "663d1146ff5302bced86ddd3163010ad9d5076ef6699b86236ab273e69b782c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/8\/53-56.1792448759998.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "кога заврши"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "да се моли"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цела таа молитва и молба"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цела"
+    },
+    {
+      "surface": "התפלה",
+      "gloss": "молитва"
+    },
+    {
+      "surface": "והתחנה",
+      "gloss": "и молба"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "таа"
+    },
+    {
+      "surface": "קם",
+      "gloss": "стана"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "од пред"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жртвеникот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "מכרע",
+      "gloss": "откако клекна"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "колената свои"
+    },
+    {
+      "surface": "וכפיו",
+      "gloss": "и долонките"
+    },
+    {
+      "surface": "פרשות",
+      "gloss": "раширени"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "кон небесата"
+    }
+  ],
+  "timestamp": "2026-10-19T22:26:00.001228731Z",
+  "model": "glm-5.3"
+}

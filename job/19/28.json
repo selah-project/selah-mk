@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 19:28",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מַה־נִּרְדָּף לוֹ",
+      "rationale": "двојно: „Колку е гонет тој!“ (genеva) или „Да го гониме ние!“ (KJV, JPS) — рецикпиентски vs активен глас"
+    },
+    {
+      "kind": "you",
+      "subject": "до пријателите на Јов",
+      "rationale": "стихот ги наведува зборовите што ќе ги кажат гонителите на Јов"
+    }
+  ],
+  "translation": "Зашто ќе кажете: „Како да го гониме!“ — а корен на работата се наоѓа во мене.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e587d3bf64eef27daa4e5a3d739e2325de31017fc870a615993301b9e7e6aedd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/19\/25-28.1792455049409.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ќе кажете"
+    },
+    {
+      "surface": "מה",
+      "gloss": "како"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "да го гониме"
+    },
+    {
+      "surface": "לו",
+      "gloss": "го"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "а корен"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "на работата"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "се наоѓа"
+    },
+    {
+      "surface": "בי",
+      "gloss": "во мене"
+    }
+  ],
+  "timestamp": "2026-10-20T00:10:49.410895800Z",
+  "model": "glm-5.3"
+}

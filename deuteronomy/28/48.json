@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 28:48",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ועבדת",
+      "rationale": "контраст со 28:47 — истиот глагол служи, сега кон непријателите"
+    },
+    {
+      "kind": "idiom",
+      "subject": "железен јарем на вратот",
+      "rationale": "слика за ропство; букв. јарем од железо на тилот"
+    }
+  ],
+  "translation": "и ќе им служиш на ⟨את⟩ своите непријатели, што Јахве ќе ги испрати против тебе, во глад и во жед и во нагост и во недостаток на сè; и ќе стави железен јарем на твојот врат, додека те уништи ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1f73694980dbef0bf8ab8657d8e1cba56fe22d008ade40749fde568454a7594b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/28\/45-48.1792445737119.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדת",
+      "gloss": "и ќе им служиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "своите непријатели"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "своите непријатели"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "ќе ги испрати"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בך",
+      "gloss": "против тебе"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "во глад"
+    },
+    {
+      "surface": "ובצמא",
+      "gloss": "и во жед"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "и во нагост"
+    },
+    {
+      "surface": "ובחסר",
+      "gloss": "и во недостаток"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на сè"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "и ќе стави"
+    },
+    {
+      "surface": "על",
+      "gloss": "јарем"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "железен"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "твојот врат"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "те уништи"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T21:35:37.120705013Z",
+  "model": "glm-5.3"
+}

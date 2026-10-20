@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 8:9",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ковчегот",
+      "rationale": "תבה значи „сандак, ковчега“ — реден збор, не религиозен"
+    },
+    {
+      "kind": "crux",
+      "subject": "множество на вода",
+      "rationale": "מים е множина („води“); едноставно „вода“ за течност, но формата е множинска"
+    }
+  ],
+  "translation": "Но гулабицата не најде почивалиште за дланта на стапалото свое, и се врати кај него, во ковчегот, зашто вода имаше врз лицето на целата земја; и тој ја протегна раката своја, ја зеде ⟨את⟩ неа и ја внесе ⟨את⟩ неа кај себе, во ковчегот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2d1ed446fcdbf126e276d14a5759e9726f696b1044ceed4b9e0b96c172b69ab1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/8\/9-12.1792442435651.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "најде"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "гулабицата"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "почивалиште"
+    },
+    {
+      "surface": "לכף",
+      "gloss": "за дланта"
+    },
+    {
+      "surface": "רגלה",
+      "gloss": "на стапалото свое"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "и се врати"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "кај него"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчегот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и протегна"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "раката своја"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ја зеде"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и ја внесе"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "неа"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "кај себе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчегот"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:35.652321995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 26:32",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "односно",
+      "rationale": "אדות буквално 'свртувања\/прилики' — 'на тема на' кладенецот"
+    }
+  ],
+  "translation": "И беше во тој ден, и дојдоа слугите на Јицхак и му јавија за кладенецот што го ископаа, и му рекоа: Најдовме вода.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "10d6e7aa241884c11c370f83d78c57be6045a987b2605a4919a51b7795e5f248",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/26\/29-32.1792442822017.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во ден"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и дојдоа"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слугите на"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Јицхак"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "и му јавија"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "односно"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "кладенецот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "го ископаа"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоа"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "Најдовме"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    }
+  ],
+  "timestamp": "2026-10-19T20:47:02.022607529Z",
+  "model": "glm-5.3"
+}

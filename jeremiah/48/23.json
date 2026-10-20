@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 48,
+  "translation": "и на Кириjатаим и на Бет-Гамул и на Бет-Меон",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5b054422ed45f06bb22589b6a9ba8813d9519f3bbcfd607f3dbaa8127e042976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/48\/21-24.1792451090025.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Кириjатаим"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "Гамул"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Меон"
+    }
+  ],
+  "timestamp": "2026-10-19T23:04:50.026342614Z",
+  "model": "glm-5.3"
+}

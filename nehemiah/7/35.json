@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "на",
+      "rationale": "предлог додаден за статус конструктус"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאות",
+      "rationale": "хебрејското „три стотици“ се претопи во македонското „триста“, бројниот збор нема посебен еквивалент"
+    }
+  ],
+  "translation": "Синовите на Харим — триста и дваесет.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5059384fe87875d7e622d2937ea03d90a7bf69241f9a3de7709ac87cfc9a6e1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/7\/33-36.1792456562041.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовите на"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Харим"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(стотици)"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и дваесет"
+    }
+  ],
+  "timestamp": "2026-10-20T00:36:02.041996859Z",
+  "model": "glm-5.3"
+}

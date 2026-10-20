@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מצות",
+      "rationale": "מצות — наредби\/заповеди; 'заповеди' носи подоцнежен призвук, 'наредби' е поблиску доuh векот"
+    }
+  ],
+  "translation": "зашто го бараше Елохим на таткото негов, и одеше по наредбите Негови, а не според делата на Јисраел.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7b5ea309d59084b46c53454c6192c384d8fb9f88ad74e00382ed9d09a604a8db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/17\/1-4.1792457596202.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "на таткото негов"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "го бараше"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "по наредбите Негови"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "одеше"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "според делата"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-20T00:53:16.205419124Z",
+  "model": "glm-5.3"
+}

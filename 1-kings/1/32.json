@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 1:32",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "акузативен краток приговорник што македонскиот го бара кај повикувањето лице"
+    },
+    {
+      "kind": "invitation",
+      "subject": "повикот",
+      "rationale": "царска заповед упатена директно до слугите: Повикајте ми"
+    }
+  ],
+  "translation": "И царот Давид рече: Повикајте ми го Цадок свештеникот, и Натан пророкот, и Бенајаху, синот на Јехојада. И влегоа пред царот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b585ae4433d9ea7473aa7b783bf37342077aca4b20b52b5dd5cf55826aa497a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/1\/29-32.1792448532891.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "Повикајте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "ולנתן",
+      "gloss": "и Натан"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкот"
+    },
+    {
+      "surface": "ולבניהו",
+      "gloss": "и Бенајаху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот на"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Јехојада"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "И влегоа"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:22:12.893171497Z",
+  "model": "glm-5.3"
+}

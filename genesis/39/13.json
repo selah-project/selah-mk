@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 39:13",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се случи",
+      "rationale": "хебрејскиот ויהי е наративен сврзник, македонскиот бара глагол"
+    }
+  ],
+  "translation": "И ⟨се⟩ случи, кога таа виде дека го оставил неговата облека во раката нејзина и побегнал надвор,",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "54877a68fb321a3495a04e72fbf193ec6592ef6b7543c833484d00082d31deef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/39\/13-16.1792443091277.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И ⟨се⟩ случи"
+    },
+    {
+      "surface": "כראותה",
+      "gloss": "кога таа виде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "го остави"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "неговата облека"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "во раката нејзина"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "и побегнал"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "надвор"
+    }
+  ],
+  "timestamp": "2026-10-19T20:51:31.277807140Z",
+  "model": "glm-5.3"
+}

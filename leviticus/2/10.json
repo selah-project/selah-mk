@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "повторување 'света светиња' — суперголема светост, задржано буквално"
+    }
+  ],
+  "translation": "А останатото од минхата ⟨е⟩ за Ахарон и за синовите негови — света светиња, од огнените дарови на Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "144bcf371a4a9b6f0310814f2135b7f2aa7b5a2eec824b06de461ab233121cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/2\/9-12.1792444001955.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "останатото"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "минхата"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "за Ахарон"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "и за синовите негови"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "света"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "светиња"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "од огнените дарови"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:06:41.958145139Z",
+  "model": "glm-5.3"
+}

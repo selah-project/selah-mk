@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "племето",
+      "rationale": "מטה буквално „прачка“, тука племе"
+    },
+    {
+      "kind": "measurement",
+      "subject": "список на шпионите",
+      "rationale": "Попиш по племиња; Јосеф е именуван двојно преку Менаше"
+    }
+  ],
+  "translation": "За племето Јосеф — за племето Менаше: Гади, син на Суси.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d4f4e41b28025210266f7ab59e24d28b44e5452414612de979bf1d86cd9a9cd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/13\/9-12.1792444798738.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "за племето"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "за племето"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Гади"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "Суси"
+    }
+  ],
+  "timestamp": "2026-10-19T21:19:58.739698984Z",
+  "model": "glm-5.3"
+}

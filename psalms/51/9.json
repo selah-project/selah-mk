@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "очисти ме",
+      "rationale": "תחטאני е буквално 'де-греви ме' — глаголот חטא во пилел: да го отстрани гревот, пастан ''очисти'' ја губи играта со гревот"
+    },
+    {
+      "kind": "idiom",
+      "subject": "повеќе од снег ќе побелам",
+      "rationale": "споредба со белината на снег, ритуална чистота преку боја"
+    }
+  ],
+  "translation": "Очисти ме со изоп и ќе бидам чист, испери ме и повеќе од снег ќе побелам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fcfd381850c8a518c54c2a83a4ce83b479cb0cc31f557f8eedd98cc3183ecb09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/51\/9-12.1792453317566.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "очисти ме"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "со изоп"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "и ќе бидам чист"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "испери ме"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "и повеќе од снег"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "ќе побелам"
+    }
+  ],
+  "timestamp": "2026-10-19T23:41:57.566990322Z",
+  "model": "glm-5.3"
+}

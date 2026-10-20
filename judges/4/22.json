@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 4:22",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Дојди",
+      "rationale": "Јаел директно му се обраќа на Барак со повик."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לקראתו",
+      "rationale": "букв. „на неговиот срет“ — „да го пречека“."
+    },
+    {
+      "kind": "elision",
+      "subject": "אליה",
+      "rationale": "букв. „до неа“; нема збор „шатор“ во хебрејскиот."
+    }
+  ],
+  "translation": "И ете, Барак го гонеше ⟨את⟩ Сисера, и Јаел излезе да го пречека, и му рече: Дојди, и ќе ти го покажам ⟨את⟩ човекот што го бараш. И влезе кај неа — и ете, Сисера паднат, мртов, и колецот во слепоочницата негова.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "cdb3339b56234e8368f94cfe0ee0ed683166f23aae1ad5c2123f837903bfc5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/4\/21-24.1792446356615.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "и ете"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Барак"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "го гонеше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сисера"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Сисера"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "и излезе"
+    },
+    {
+      "surface": "יעל",
+      "gloss": "Јаел"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "да го пречека"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "и му рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Дојди"
+    },
+    {
+      "surface": "ואראך",
+      "gloss": "и ќе ти го покажам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "човекот"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "го бараш"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и влезе"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "кај неа"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ете"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Сисера"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "паднат"
+    },
+    {
+      "surface": "מת",
+      "gloss": "мртов"
+    },
+    {
+      "surface": "והיתד",
+      "gloss": "и колецот"
+    },
+    {
+      "surface": "ברקתו",
+      "gloss": "во слепоочницата негова"
+    }
+  ],
+  "timestamp": "2026-10-19T21:45:56.616761605Z",
+  "model": "glm-5.3"
+}

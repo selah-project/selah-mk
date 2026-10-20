@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 14:17",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרב ... חרב",
+      "rationale": "мечот е personификуван — Елохим му говори директно на мечот, „Меч, помини“."
+    },
+    {
+      "kind": "alternative",
+      "subject": "חרב",
+      "rationale": "коренот значи и „суша“ и „меч“ — тука меч, но двослојноста на коренот се губи."
+    }
+  ],
+  "translation": "Или меч да доведам врз таа земја, и да речам: Меч, помини низ земјата, и да истребам од неа човек и добиток —",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cdc059729c7d46ee6776a1fe0e0ba86577765afc76c7e7a24ebac3f34503a652",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/14\/17-20.1792451480662.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Или"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "да доведам"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "таа земја"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "и да речам"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "Меч"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "помини"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "низ земјата"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "и да истребам"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "од неа"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "и добиток"
+    }
+  ],
+  "timestamp": "2026-10-19T23:11:20.662697230Z",
+  "model": "glm-5.3"
+}

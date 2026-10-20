@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 10:13",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועתידתיהם",
+      "rationale": "„богатства\/депо“ наспроти „владетели“ (KJV: chief ones); букв. „подготвени [работи]“"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עתיד",
+      "rationale": "обликот ועתידתיהם се јавува само тука во Танах"
+    }
+  ],
+  "translation": "Зашто тој рече: Со силата на мојата рака направив, и со мојата мудрост, зашто ⟨се⟩ разбирам; и ги отстранив границите на народите, и нивните богатства ги ограбив, и ги соборив како моќен жителите.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b75d33f570d7a6303becc7380b986ccad6eae46cf37694e23ffe00f7654e4796",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/10\/13-16.1792449672813.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "со силата"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "на мојата рака"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "направив"
+    },
+    {
+      "surface": "ובחכמתי",
+      "gloss": "и со мојата мудрост"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "נבנותי",
+      "gloss": "разбирам"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "и отстранив"
+    },
+    {
+      "surface": "גבולת",
+      "gloss": "границите"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "на народите"
+    },
+    {
+      "surface": "ועתידתיהם",
+      "gloss": "нивните богатства"
+    },
+    {
+      "surface": "שושתי",
+      "gloss": "ограбив"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "и соборив"
+    },
+    {
+      "surface": "כאביר",
+      "gloss": "како моќен"
+    },
+    {
+      "surface": "יושבים",
+      "gloss": "жителите"
+    }
+  ],
+  "timestamp": "2026-10-19T22:41:12.814440900Z",
+  "model": "glm-5.3"
+}

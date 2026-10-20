@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 1:31",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "носеше",
+      "rationale": "נשא буквално „крева\/подига“ — сликата на татко што го носи детото е задржана со „носи“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשאך\/ישא",
+      "rationale": "Истиот корен נשא за носењето од Елохим и од човекот — споредбата е во самиот збор."
+    }
+  ],
+  "translation": "И во пустињата, каде што виде како Јахве, Елохим твој, те носеше, како што човек го носи ⟨את⟩ синот свој, по целиот пат по кој одевте додека не дојдовте до ова место.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "24856895e3615141ed8770ddf4ecb3ca6047a0570a2b7472aca82ecb9169ab06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/1\/29-32.1792445302752.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמדבר",
+      "gloss": "и во пустињата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "каде што"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "виде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "како"
+    },
+    {
+      "surface": "נשאך",
+      "gloss": "те носеше"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "носи"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синот свој"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот свој"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по целиот"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "пат"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "по кој"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "одевте"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "не дојдовте"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    }
+  ],
+  "timestamp": "2026-10-19T21:28:22.753726116Z",
+  "model": "glm-5.3"
+}

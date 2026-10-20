@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 27:8",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "синовите на Јисраел",
+      "rationale": "наредба за пренесување на законот на целиот народ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ако",
+      "rationale": "כי е условен другиот, во македонскиот служи како 'ако'"
+    }
+  ],
+  "translation": "И на синовите на Јисраел ќе им говориш, велејки: ако човек умре и нема син, пренесете ја ⟨את⟩ наследството негова на ќерка му.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "97a3e1530783b115ea9bdae9e1baec99bf92541ba0362106bb55e6d445b98624",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/27\/5-8.1792445107909.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ќе говориш"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејки"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "умре"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "и син"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "והעברתם",
+      "gloss": "пренесете ја"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "наследството негова"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "наследството негова"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "на ќерка му"
+    }
+  ],
+  "timestamp": "2026-10-19T21:25:07.910652185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 9:7",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמעו…וישמע",
+      "rationale": "„чули“\/„чуе“ — истиот корен во повикот и заканата, огледална структура"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Чујте ме, господари на Сихем",
+      "rationale": "повик-зачеток на басната што следи"
+    },
+    {
+      "kind": "you",
+      "subject": "до господарите на Сихем",
+      "rationale": "Јотам директно им се обраќа од Геризим"
+    }
+  ],
+  "translation": "И му кажаа на Јотам, и тој отиде и застана на врвот на гората Геризим, и го крена гласот свој и повика и им рече: Чујте ме, господари на Сихем, и Елохим нека ве чуе вас!",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ba1fb7514ad6ad90723123b7d12ab7149df04605d1c6c499e121b98c0ea2e3da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/9\/5-8.1792446397263.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "и му кажаа"
+    },
+    {
+      "surface": "ליותם",
+      "gloss": "на Јотам"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и застана"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "на врвот"
+    },
+    {
+      "surface": "הר",
+      "gloss": "на гората"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Геризим"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "и го крена"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "гласот свој"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и повика"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Чујте"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "господари"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "на Сихем"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "нека чуе"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "вас"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    }
+  ],
+  "timestamp": "2026-10-19T21:46:37.264602976Z",
+  "model": "glm-5.3"
+}

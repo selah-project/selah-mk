@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 47:14",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבר\/שברים",
+      "rationale": "истиот корен за жито и за тргување со жито — игра што се губи"
+    },
+    {
+      "kind": "addition",
+      "subject": "на",
+      "rationale": "македонскиот го бара показателот во „домот на фараонот“"
+    }
+  ],
+  "translation": "И Јосеф го собра ⟨את⟩ сето сребро што се најде во земјата Мицраим и во земјата Кенаан за жито што го купуваа, и Јосеф го внесе ⟨את⟩ среброто во домот на фараонот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a51b62e2f7bc8211133233ec5d47505da490841aeaa2a1103317798e61db0390",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/47\/13-16.1792443244394.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילקט",
+      "gloss": "И собра"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сето сребро"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "сребро"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "што се најде"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "и во земјата"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "בשבר",
+      "gloss": "за жито"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "הם",
+      "gloss": "тие"
+    },
+    {
+      "surface": "שברים",
+      "gloss": "купуваа"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "внесе"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "среброто"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "среброто"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "на фараонот"
+    }
+  ],
+  "timestamp": "2026-10-19T20:54:04.400439336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 8:12",
+  "book": "esther",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "датумот",
+      "rationale": "Точен датум — 13 Адар — истиот датум на Хамановиот указ (3:13); бројот е носач на смислата."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ден⟩",
+      "rationale": "Македонскиот датум бара именката „ден“ што хебрејскиот број сам ја носи."
+    }
+  ],
+  "translation": "во еден ден, во сите покраини на царот Ахашверош — на тринаесеттиот ⟨ден⟩ од дванаесеттиот месец, тоа е месецот Адар.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e3e5cd678a38e069c7c1897d4a8e0c31d43f1a2521e76f70bd441980cfdfaa22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/esther\/8\/9-12.1792455911844.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "во еден ден"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во сите"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "покраини"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ахашверош"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "на тринаесетти"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наесетти"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "од месецот"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дванаесетти"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наесетти"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тоа е"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "месецот"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Адар"
+    }
+  ],
+  "timestamp": "2026-10-20T00:25:11.846273063Z",
+  "model": "glm-5.3"
+}

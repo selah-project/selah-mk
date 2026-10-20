@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨дарови⟩",
+      "rationale": "נדבות е апстракт 'доброволност' што конкретно значи доброволен дар — македонскиот бара именката"
+    },
+    {
+      "kind": "substitution",
+      "subject": "молам",
+      "rationale": "נא е честичка за молење, не посебен глагол"
+    },
+    {
+      "kind": "invitation",
+      "subject": "молитва",
+      "rationale": "стихот е директна молитва-повик кон Јахве"
+    }
+  ],
+  "translation": "Доброволните ⟨дарови⟩ од мојата уста, Јахве, прими молам, и твоите судови научи ме.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e4be5865587e246529232cae052f1e6369426b9193540936774286dfc547db87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/105-108.1792454018331.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "Доброволните"
+    },
+    {
+      "surface": "פי",
+      "gloss": "од мојата уста"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "прими (смили се на)"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "и твоите судови"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "научи ме"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:38.332480868Z",
+  "model": "glm-5.3"
+}

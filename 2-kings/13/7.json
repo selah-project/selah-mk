@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 13:7",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "воена сила",
+      "rationale": "точен попис: педесет коњаници, десет коли, десет илјади пешадинци."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כעפר לדש",
+      "rationale": "„како прав за веање“ — слика за целосно разнесување, како плева од гумно."
+    }
+  ],
+  "translation": "Зашто не му остави на Јехоахаз народ, освен педесет коњаници и десет коли и десет илјади пешадинци, зашто царот на Арам ги уништи и ги направи како прав за-веање.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "bb3ac625ebb8d8f9c8626dc8061580617f4448a2305b6a73007a920a3d1d1883",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/13\/5-8.1792449347632.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "остави"
+    },
+    {
+      "surface": "ליהואחז",
+      "gloss": "на Јехоахаз"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "освен"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨освен⟩"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "педесет"
+    },
+    {
+      "surface": "пרשים",
+      "gloss": "коњаници"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "и десет"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "коли"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "и десет"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "пешадинци"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אבדם",
+      "gloss": "ги уништи"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "на Арам"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "и ги направи"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "како прав"
+    },
+    {
+      "surface": "לדש",
+      "gloss": "за-веање"
+    }
+  ],
+  "timestamp": "2026-10-19T22:35:47.634549518Z",
+  "model": "glm-5.3"
+}

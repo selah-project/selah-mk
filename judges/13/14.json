@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 13:14",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": " жесток пијалок",
+      "rationale": "שכר е општ назив за опиен пијалок, не нужно вино."
+    },
+    {
+      "kind": "addition",
+      "subject": "таа",
+      "rationale": "Хебрејскиот имплицитен субјект (жената) е во женски род глаголи; македонскиот бара експлицитност."
+    }
+  ],
+  "translation": "„Од сè што излегува од лозата на виното да не јаде, и вино и жесток пијалок да не пие, и никаква нечистотија да не јаде; сè што ѝ заповедав — нека го пази.“",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "964bde9e6ed31603fd2f7ba0a91557700d8d8edbb5573a0bb75fda4177fbe5b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/13\/13-16.1792446486027.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "од сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излегува"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "од лозата"
+    },
+    {
+      "surface": "היין",
+      "gloss": "на виното"
+    },
+    {
+      "surface": "לא",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "јаде"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "и жесток пијалок"
+    },
+    {
+      "surface": "אל",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "пие"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и никаква"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "нечистотија"
+    },
+    {
+      "surface": "אל",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "јаде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "צויתיה",
+      "gloss": "ќ заповедав"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "нека го пази"
+    }
+  ],
+  "timestamp": "2026-10-19T21:48:06.027948472Z",
+  "model": "glm-5.3"
+}

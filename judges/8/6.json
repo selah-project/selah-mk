@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 8:6",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот нема глагол-сврзка во прашањето"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כף \/ יד",
+      "rationale": "иронија: дланите (כף) на кралевите во раката (יד) на Гидеон — двата збора за 'рака' во една реченица"
+    }
+  ],
+  "translation": "И рекоа старешините на Сукот: Дали дланите на Зевах и Цалмуна ⟨се⟩ веќе во твојата рака, та да даваме леб на твојата војска?",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "79a5dde7dd6887a00934c2c74434bf61d47b7f186dbf8a261eaadb8d38f3e2a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/8\/5-8.1792446391721.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рекоа"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "старешините"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "на Сукот"
+    },
+    {
+      "surface": "הכף",
+      "gloss": "дланите"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "на Зевах"
+    },
+    {
+      "surface": "וצלמנע",
+      "gloss": "и Цалмуна"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "веќе"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "во твојата рака"
+    },
+    {
+      "surface": "כי",
+      "gloss": "та"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "да даваме"
+    },
+    {
+      "surface": "לצבאך",
+      "gloss": "на твојата војска"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    }
+  ],
+  "timestamp": "2026-10-19T21:46:31.722722706Z",
+  "model": "glm-5.3"
+}

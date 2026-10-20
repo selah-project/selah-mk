@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "И почна",
+      "rationale": "ויחל: „почна“ (KJV) или од חלל „ранет\/окупиран“; JPS чита апозиција — „Ное, земјоделец, почна“."
+    },
+    {
+      "kind": "alternative",
+      "subject": "човек од земјата",
+      "rationale": "Може и „човек на почвата“ — איש האדמה е титула, слика што треба да остане."
+    }
+  ],
+  "translation": "И почна Ное, човек од земјата, и насади лозје.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d6e25f5d983e9c8a7e8f75e5177c9253f6fce8d1dbb674a2fb616b5055bb201b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/9\/17-20.1792442439979.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "И почна"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ное"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "и насади"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "лозје"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:39.980982393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 14:12",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "зборувај",
+      "rationale": "царот ја поканува жената да продолжи — отворен влез во нејзината парабола"
+    }
+  ],
+  "translation": "И рече жената: нека зборува, молам, слугината твоја со господарот мојот цар збор. И рече: зборувај.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b1802e3378ad2be28406f9b4f91b7775b657e4cff246c88d03f7a3dcf2f4eb18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/14\/9-12.1792448224450.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "да зборува"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молам"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "слугината твоја"
+    },
+    {
+      "surface": "אל",
+      "gloss": "со"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господарот мој"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "збор"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Зборувај"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:04.453122901Z",
+  "model": "glm-5.3"
+}

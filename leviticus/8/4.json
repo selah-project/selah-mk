@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 8,
+  "translation": "И Моше направи како што заповеда Јахве ⟨את⟩ него; и се собра заедницата пред влезот на шаторот на средбата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "359e61bd7e59f02f881d920ce9d384266db146429ce2f0bede128791870f4375",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/8\/1-4.1792444125453.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и направи"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "и се собра"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "заедницата"
+    },
+    {
+      "surface": "אל",
+      "gloss": "пред"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "влезот"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шаторот"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на средбата"
+    }
+  ],
+  "timestamp": "2026-10-19T21:08:45.457223474Z",
+  "model": "glm-5.3"
+}

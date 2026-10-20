@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "идник\/проштик",
+      "rationale": "јусив може и како желба: 'да нè благослови Елохим'"
+    }
+  ],
+  "translation": "Земјата го даде ⟨е⟩ својот род, Елохим, нашиот Елохим, ќе нè благослови.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6737b1a022538e2485acd326143b059d2d1ab78b20b1ba544ee0db1fa876d90c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/67\/5-8.1792453474168.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Земјата"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "го даде"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "својот род"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "ќе нè благослови"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "нашиот Елохим"
+    }
+  ],
+  "timestamp": "2026-10-19T23:44:34.169797775Z",
+  "model": "glm-5.3"
+}

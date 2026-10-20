@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "луг",
+      "rationale": "כבר е растителна луга\/флус за топење метал — преведувачите се колебаат меѓу 'луга' и 'до чистота'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "כבר",
+      "rationale": "Може и 'до чистота' (како KJV), но зборот е named супстанца, не степен."
+    }
+  ],
+  "translation": "И ќе ја вратам раката своја врз тебе, и ќе ги растопам како со луг твоите нечистотии, и ќе го отстранам целиот твој калај.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "eee3dcdb8668e34c30089d842b03c2e976f828dea70b761592f4188a52d3e489",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/1\/25-28.1792449541638.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "и ќе ја вратам"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "раката своја"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "врз тебе"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "и ќе ги растопам"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "како со луг"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "твоите нечистотии"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "и ќе го отстранам"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "твојот калај"
+    }
+  ],
+  "timestamp": "2026-10-19T22:39:01.639462376Z",
+  "model": "glm-5.3"
+}

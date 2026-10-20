@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 9:17",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "мои",
+      "rationale": "ידי е просто „двете раце“; присвојната „мои“ е додадена за јасност на македонски"
+    }
+  ],
+  "translation": "И ги фатив двете табли, и ги фрлив од двете мои раце, и ги скршив пред вашите очи.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "30d10f1a0f7e3623327397264f4ece4e28958e777e1ffe26f774a600d74af970",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/9\/17-20.1792445440021.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתפש",
+      "gloss": "ги фатив"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "двете"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "табли"
+    },
+    {
+      "surface": "ואשלכם",
+      "gloss": "ги фрлив"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "двете"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "мои раце"
+    },
+    {
+      "surface": "ואשברם",
+      "gloss": "ги скршив"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "пред вашите очи"
+    }
+  ],
+  "timestamp": "2026-10-19T21:30:40.021768838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 23:31",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "беше",
+      "rationale": "хебрејскиот вели 'син на дваесет и три години… во царувањето свое' — без глагол-сврзка"
+    },
+    {
+      "kind": "measurement",
+      "subject": "возраст и владеење",
+      "rationale": "кралска хроника: возраст при встапување, траење на владеење, име на мајката"
+    }
+  ],
+  "translation": "Дваесет и три години беше Јехоахаз кога стана цар, и три месеци царуваше во Јерушалаим; а името на мајка му беше Хамутал, ќерка на Јермијаху, од Ливна.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b015b50d43b29ee7b38106a5b34c9cca2fe34d6bac43bfeedb9acbca03c5eb85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/23\/29-32.1792449482139.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "дванаесетти… син на години"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "дваесет"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "и три"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Јехоахаз"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "при станувањето цар"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "и три"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "месеци"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царуваше"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "во Јерушалаим"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а името"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "на мајка му"
+    },
+    {
+      "surface": "חמוטל",
+      "gloss": "Хамутал"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерка"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "на Јермијаху"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "од Ливна"
+    }
+  ],
+  "timestamp": "2026-10-19T22:38:02.142383626Z",
+  "model": "glm-5.3"
+}

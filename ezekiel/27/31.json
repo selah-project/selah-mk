@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 27:31",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפש е грло\/див\/животна сила, не бессмртна душа."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "במר…מר",
+      "rationale": "повторување на 'горко\/горчина' двапати во еден стих — горчина на нефеш и горко жалење."
+    }
+  ],
+  "translation": "и ќе си изплешат ќелавост за тебе и ќе се препашат вреќишта, и ќе плачат за тебе со горчина на душата, жалостена песна горка.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "26e011cb0655ff1672a89858f7fee264ddd2b1056094426da4ca37da19bd0182",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/27\/29-32.1792451813765.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריחו",
+      "gloss": "и ќе си изплешат"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "за тебе"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "ќелавост"
+    },
+    {
+      "surface": "וחגרו",
+      "gloss": "и ќе се препашат"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "вреќишта"
+    },
+    {
+      "surface": "ובכו",
+      "gloss": "и ќе плачат"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "за тебе"
+    },
+    {
+      "surface": "במר",
+      "gloss": "со горчина"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "на душата"
+    },
+    {
+      "surface": "מספד",
+      "gloss": "жалостена песна"
+    },
+    {
+      "surface": "מר",
+      "gloss": "горка"
+    }
+  ],
+  "timestamp": "2026-10-19T23:16:53.766825922Z",
+  "model": "glm-5.3"
+}

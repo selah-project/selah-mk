@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 24:13",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מתכנתו",
+      "rationale": "„мерка, задуман обем“ — се јавува само тука во Танах."
+    },
+    {
+      "kind": "substitution",
+      "subject": "целосност",
+      "rationale": "ארוכה е „здравење, излекување“ — сликата е раната на домот што заздравува."
+    }
+  ],
+  "translation": "И ја извршија оние што ја вршеа работата, и излезе целосност на работата во нивните раце, и го воздигнаа ⟨את⟩ домот на Елохим на неговата мерка, и го зајакнаа него.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "882af172cada44818c86be4dfab767f2a5ed897fcae29f4a2dd7d04a83b488c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/24\/13-16.1792457672184.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "и ја извршија"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "оние што вршеа"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "работата"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "и излезе"
+    },
+    {
+      "surface": "ארוכה",
+      "gloss": "целосност"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "на работата"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "во нивните раце"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "и го воздигнаа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "домот на Елохим"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מתכנתו",
+      "gloss": "неговата мерка"
+    },
+    {
+      "surface": "ויאמצהו",
+      "gloss": "и го зајакнаа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:54:32.185400811Z",
+  "model": "glm-5.3"
+}

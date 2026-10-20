@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "престојувањата",
+      "rationale": "מגורי е множина од 'привремен престој\/гостување' — гостувања на странци, не траен дом"
+    }
+  ],
+  "translation": "И Јааков живееше во земјата на престојувањата на татко си, во земјата Кенаан.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "72b6973ed3bb683749f37a9efc5286c33fb0be434f30b0084174ae02a374dd18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/37\/1-4.1792443059276.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и живееше"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "на престојувањата"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "на татко си"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    }
+  ],
+  "timestamp": "2026-10-19T20:50:59.280254361Z",
+  "model": "glm-5.3"
+}

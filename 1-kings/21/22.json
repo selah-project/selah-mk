@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 21:22",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "го натера да згреши",
+      "rationale": "ותחטא е причинителен — „и го согреши“; македонскиот бара целен глагол"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הכעס\/הכעסת",
+      "rationale": "именинката и глаголот од ист корен — „гневот со кој разгневи“ — задржано во македонскиот"
+    }
+  ],
+  "translation": "и ќе го дадам ⟨את⟩ домот твој како домот на Јаровам, синот на Неват, и како домот на Бааша, синот на Ахии — заради гневот со кој разгневи и го натера да згреши ⟨את⟩ Јисраел.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "d09da84b8f8b85dd9c80b308526e0f84a984ff7d7e68128fa61f1d0e47ce9baf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/21\/21-24.1792448951762.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "и ќе го дадам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "домот твој"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "домот твој"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "како домот"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "на Јаровам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "на Неват"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "и како домот"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "на Бааша"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "на Ахии"
+    },
+    {
+      "surface": "אל",
+      "gloss": "заради"
+    },
+    {
+      "surface": "הכעס",
+      "gloss": "гневот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "со кој"
+    },
+    {
+      "surface": "הכעסת",
+      "gloss": "разгневи"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "и го натера да згреши"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јисраел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T22:29:11.764177640Z",
+  "model": "glm-5.3"
+}

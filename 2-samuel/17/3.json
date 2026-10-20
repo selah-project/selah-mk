@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 17:3",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כשוב הכל האיש אשר אתה מבקש",
+      "rationale": "„како враќањето на сите — човекот што го бараш“: според меѓу преведувачите — KJV\/ASV „човекот е како да се вратиле сите“, JPS „кога сите ќе се вратат, освен човекот“, BSB сосема слободно со невеста."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се разбира за⟩ · ⟨ќе бидат⟩",
+      "rationale": "сврзувачки зборови што хебрејскиот исказ ги спојува без нив."
+    }
+  ],
+  "translation": "и сите луѓе ќе ги вратам кон тебе — како што се враќаат сите, ⟨се разбира за⟩ човекот што го бараш; и сите луѓе ⟨ќе бидат⟩ во мир.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c5265f5c8454ac1fd503e1efb1042473f5112752bd36afd919893792c0b5e837",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/17\/1-4.1792448332089.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "и ќе ги вратам"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "העם",
+      "gloss": "луѓето"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "кон тебе"
+    },
+    {
+      "surface": "כשוב",
+      "gloss": "како што се враќаат"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "бараш"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "העם",
+      "gloss": "луѓето"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "нека бидат"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "во мир"
+    }
+  ],
+  "timestamp": "2026-10-19T22:18:52.092414759Z",
+  "model": "glm-5.3"
+}

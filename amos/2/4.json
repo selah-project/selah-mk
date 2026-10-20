@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 2:4",
+  "book": "amos",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "лажните нивни ги измамија",
+      "rationale": "כזביהם: „нивните лаги“ (идоли како лаги) — KJВ „their lies caused them to err“; двосмислено дали лагите themselves тераат или идолите"
+    },
+    {
+      "kind": "measurement",
+      "subject": "три… четири",
+      "rationale": "Бројачка формула, четврти пат во редот"
+    }
+  ],
+  "translation": "Така вели Јахве: за три бунувања на Јехуда и за четири нема да го вратам — зашто го отфрлија ⟨את⟩ Тората на Јахве и неговите наредби не ги пазеја, и лажните нивни ги измамија, по кои одеја татковците нивни.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bd2b8eba31930dd0517ccd94bcf2f958f67f5f200f7472cc6d92552b5c094931",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/amos\/2\/1-4.1792452345812.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "бунувања"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и за"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четири"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "да го вратам"
+    },
+    {
+      "surface": "על",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "го отфрлија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Тората"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тората"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "и неговите наредби"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ги пазеја"
+    },
+    {
+      "surface": "ויתעום",
+      "gloss": "ги измамија"
+    },
+    {
+      "surface": "кזביהם",
+      "gloss": "лажните нивни"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "по кои"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "одеја"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "татковците нивни"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "по нив"
+    }
+  ],
+  "timestamp": "2026-10-19T23:25:45.813854264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "на четворица",
+      "rationale": "לארבעתם може да значи 'на четирите (страни)' или 'на четворицата' — избрав 'четворица'"
+    }
+  ],
+  "translation": "И раце на човек под крилата нивни, на четирите страни нивни; и лицата нивни и крилата нивни — на четворица.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "03130aa741c68ffc2e6149173fd1f01e6b8e8ae2201c05e8aeb66029c2b602cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/1\/5-8.1792451342418.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "и раце"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на човек"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "крилата нивни"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "четирите"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "страни нивни"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "и лицата нивни"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "и крилата нивни"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "на четворица"
+    }
+  ],
+  "timestamp": "2026-10-19T23:09:02.420147472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד е 'верна љубов\/добрина' — оставен како хесед според дисциплината, а не 'милост' самостојно"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "Хебрејскиот нема објектен маркер тука; македонскиот 'за' го носи односот — чува алем-тав склоп од инструкцијата"
+    }
+  ],
+  "translation": "Нека Му заблагодарат на Јахве за ⟨את⟩ хеседот Негов, и за чудесата Негови меѓу синовите човечки!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7541928a1e8f365b6ddaf9709c58f90261d45ee5693f33bf7174bacfb10d3808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/107\/29-32.1792453894076.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Нека Му заблагодарат"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседот Негов"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "и за чудесата Негови"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "меѓу синовите"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечки"
+    }
+  ],
+  "timestamp": "2026-10-19T23:51:34.077015478Z",
+  "model": "glm-5.3"
+}

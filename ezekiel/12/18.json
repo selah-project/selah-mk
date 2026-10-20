@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 12:18",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Езекиил",
+      "rationale": "'Сине човечки' — директен обращение до пророкот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "страв и ужас",
+      "rationale": "רגזה 'трепет\/вознемиреност' и דאגה 'тревога' — два различни хебрејски збора за страв"
+    }
+  ],
+  "translation": "Сине човечки, лебот твој во трепет ќе го јадеш, а водата твоја во страв и во ужас ќе ја пиеш.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3aaeb4a42eebe0654766adaf8d845fc1e82998f48d4bb15e21c3fcde51370e9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/12\/17-20.1792451504473.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечки"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "лебот твој"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "во трепет"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ќе јадеш"
+    },
+    {
+      "surface": "ומימיך",
+      "gloss": "а водата твоја"
+    },
+    {
+      "surface": "ברגזה",
+      "gloss": "во страв"
+    },
+    {
+      "surface": "ובדאגה",
+      "gloss": "и во ужас"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ќе пиеш"
+    }
+  ],
+  "timestamp": "2026-10-19T23:11:44.474671606Z",
+  "model": "glm-5.3"
+}

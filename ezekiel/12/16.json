@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 12:16",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мечки\/помор",
+      "rationale": "חרב е 'меч' како пресечен инструмент, од коренот на сушина — уништувањето е слика"
+    },
+    {
+      "kind": "addition",
+      "subject": "таму",
+      "rationale": "שם е во хебрејскиот, но македонскиот 'кајшто ќе дојдат' веќе го носи местото; задржано буквално"
+    }
+  ],
+  "translation": "И ќе оставам од нив луѓе — мал број — од меч, од глад и од помор, за да ги раскажат ⟨את⟩ сите свои гнасилата меѓу народите кајшто ќе дојдат таму, и ќе знаат дека јас сум Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c764e573e3e91ffb6db21926cbd3d5c57224c9b1aff0561eb7bb9edc70f453df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/12\/13-16.1792451520023.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והותרתי",
+      "gloss": "И ќе оставам"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "од нив"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "луѓе"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "мал број"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "од меч"
+    },
+    {
+      "surface": "מרעב",
+      "gloss": "од глад"
+    },
+    {
+      "surface": "ומדבר",
+      "gloss": "и од помор"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "раскажат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите гнасилата"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "תועבותיהם",
+      "gloss": "своите гнасилата"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "меѓу народите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кајшто"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ќе дојдат"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "и ќе знаат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:12:00.024467785Z",
+  "model": "glm-5.3"
+}

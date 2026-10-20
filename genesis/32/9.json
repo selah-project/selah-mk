@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 32:9",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ќе",
+      "rationale": "македонскиот го бара идното време каде што хебрејскиот והיה е сврзен облик"
+    }
+  ],
+  "translation": "И рече: Ако дојде Исав кај едниот логор и го удри, логорот што останува ќе биде за избавување.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a051a49a2e0a04c31e0fe5881ab1df3ea41e37ea7fdb45f9c75ce208c83c63b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/32\/9-12.1792442959040.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логорот"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "едниот"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "и го удри"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логорот"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "што останува"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "за избавување"
+    }
+  ],
+  "timestamp": "2026-10-19T20:49:19.043268474Z",
+  "model": "glm-5.3"
+}

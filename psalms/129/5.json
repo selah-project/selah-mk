@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "возвратна заменка додадена на македонски, хебрејскиот ја нема"
+    },
+    {
+      "kind": "you",
+      "subject": "непријателите на Цион",
+      "rationale": " imprecatивна желба упатена кон оние што го мразат Цион"
+    }
+  ],
+  "translation": "Нека засрамат ⟨се⟩ и нека се повлечат назад сите што го мразат Цион.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1c343390f858f8d7f7a50f537fd05a66a39f0fb326c675510ec2e78f0b160f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/129\/5-8.1792454096464.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "нека засрамат"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "и нека се повлечат"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "назад"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "што го мразат"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    }
+  ],
+  "timestamp": "2026-10-19T23:54:56.465083818Z",
+  "model": "glm-5.3"
+}

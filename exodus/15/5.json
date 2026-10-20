@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 15:5",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бездните",
+      "rationale": "תהמת е тахом, брановита бездна на пра-водата, не само 'длабоко место'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ги",
+      "rationale": "хебрејскиот не го именува објектот (египќаните); заменката е додадена"
+    }
+  ],
+  "translation": "Бездните ги покрија; тие слегоа во длабочините како камен.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f65a8ce19228e7c840b3053e7fcf19f57268e1c66c94b717587ee154627cbe64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/15\/5-8.1792443515390.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהמת",
+      "gloss": "бездните"
+    },
+    {
+      "surface": "יכסימו",
+      "gloss": "ги покрија"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "слегоа"
+    },
+    {
+      "surface": "במצולת",
+      "gloss": "во длабочините"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "како"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камен"
+    }
+  ],
+  "timestamp": "2026-10-19T20:58:35.392357743Z",
+  "model": "glm-5.3"
+}

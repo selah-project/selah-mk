@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "не е наблику",
+      "rationale": "לא בקרוב — „не е блиску (денот на судот)“; некои читаат како прашање: „Зар не е наблику?“"
+    },
+    {
+      "kind": "idiom",
+      "subject": "тенджере и месото",
+      "rationale": "метафората на водачите: градот е тенџере што нè штити, ние сме месото внатре"
+    }
+  ],
+  "translation": "што велат: не е наблику — да се градат куќи; тој е тенџере, а ние сме месото.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "519c33d5a2fc9ad3e49813bee7f46ff0b040b8ee6ad869621c56c8255613ef6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/11\/1-4.1792451503033.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "што велат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "е наблику"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "да се градат"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "куќи"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тој ⟨е⟩"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "тенџере"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "а ние"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "сме месото"
+    }
+  ],
+  "timestamp": "2026-10-19T23:11:43.034149856Z",
+  "model": "glm-5.3"
+}

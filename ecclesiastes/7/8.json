@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "רוח останува „руах“ — ветер\/дух\/расположение во еден збор"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארך רוח \/ גבה רוח",
+      "rationale": "„долга“ наспроти „висока“ руах — спротивставени слики, делумно зачувани"
+    }
+  ],
+  "translation": "Добро е крајот на работ повеќе од нејзиниот почеток; добро е долгодушниот руах повеќе од надуениот руах.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3c76ffd76d5268fcc23e84eebccc32f72e9e2a3da275c9ae6a28e1493253cfcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/7\/5-8.1792455715668.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добро"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "крајот"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "на работ"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "од нејзиниот почеток"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "долгодушниот"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "надуениот"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    }
+  ],
+  "timestamp": "2026-10-20T00:21:55.669986078Z",
+  "model": "glm-5.3"
+}

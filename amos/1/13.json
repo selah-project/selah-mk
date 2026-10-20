@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 1:13",
+  "book": "amos",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא אשיבנו",
+      "rationale": "дословно „нема да го свртам\/вратам“ — судот нема да биде отповикан"
+    },
+    {
+      "kind": "crux",
+      "subject": "בקעם",
+      "rationale": "од בקע „да расече“ — „ги расекоа“ утробите на бремените жени"
+    }
+  ],
+  "translation": "Така вели Јахве: за три бунови на синовите Амонови и за четири нема да го вратам — зашто ги расекоа утробите на бремените во Гилаад, за да го прошират ⟨את⟩ границата своја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8ea3357f7bb8576374b578ef6b087b6cd8cff0b290d2424767d26a7ec99e6a0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/amos\/1\/13-15.1792452340057.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "бунтови"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амонови"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и за"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четири"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "да го вратам"
+    },
+    {
+      "surface": "על",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בקעם",
+      "gloss": "ги расекоа"
+    },
+    {
+      "surface": "הרות",
+      "gloss": "бремените"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "во Гилаад"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "הרחיב",
+      "gloss": "прошират"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "границата своја"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "границата своја"
+    }
+  ],
+  "timestamp": "2026-10-19T23:25:40.058532052Z",
+  "model": "glm-5.3"
+}

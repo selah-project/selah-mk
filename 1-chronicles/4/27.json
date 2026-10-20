@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 4:27",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "имаше",
+      "rationale": "хебрејскиот е именска конструкција без глагол"
+    },
+    {
+      "kind": "substitution",
+      "subject": "како",
+      "rationale": "עד буквално 'до\/колку што'; преведено со споредба"
+    }
+  ],
+  "translation": "А на Шими имаше шестнаесет синови и шест ќерки, но на браќата негови немаше многу синови; и сето нивно семејство не се умножи како синовите Јудини.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a531f04bcba08ecae7fa274290c57b28c13506c04e4f3e41cb0e25c33a75000f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/4\/25-28.1792456844778.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשמעי",
+      "gloss": "а на Шими"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шест"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наесет"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и ќерки"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "на браќата негови"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немаше"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многу"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сето"
+    },
+    {
+      "surface": "משפחתם",
+      "gloss": "нивното семејство"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "се умножи"
+    },
+    {
+      "surface": "עד",
+      "gloss": "како"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудини"
+    }
+  ],
+  "timestamp": "2026-10-20T00:40:44.779403133Z",
+  "model": "glm-5.3"
+}

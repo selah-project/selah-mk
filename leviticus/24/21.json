@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ќе биде убиен",
+      "rationale": "יומת е пасив (пофиел) — македонскиот бара помошен глагол 'биде'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישלמנה \/ יומת",
+      "rationale": "спротивставени инфинитивни реченици: надоместок за добитокот, смрт за човекот — паралелизам"
+    }
+  ],
+  "translation": "И кој ќе удри добиток — ќе ⟨го⟩ надомести; а кој ќе удри човек — ќе биде убиен.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "925f08ed8df5e895005c318d9a2a51e50b7717a0bc95a365cd96f1fbef8966f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/24\/21-23.1792444463863.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "И кој ќе удри"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "добиток"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "ќе ⟨го⟩ надомести"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "а кој ќе удри"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ќе биде убиен"
+    }
+  ],
+  "timestamp": "2026-10-19T21:14:23.865742891Z",
+  "model": "glm-5.3"
+}

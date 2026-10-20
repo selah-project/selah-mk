@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויחרף",
+      "rationale": "Буквално „зимнал да го соблече\/изложи“ — традицијата чита „навреди, хуле“ (според חרף како depreciate); сликата е двосмислена."
+    },
+    {
+      "kind": "substitution",
+      "subject": "го удри",
+      "rationale": "הכה буквално „удри“; во воен контекст значи „уби“ — задржав буквалниот удар."
+    }
+  ],
+  "translation": "И тој ⟨ги⟩ навреди ⟨את⟩ Јисраел, и го удри Јонатан, синот на Шимеа, брат на Давид.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c770582e49c80fa38409a831fff55de1081b0d05c5c41f12cd8872c94bf28740",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/20\/5-8.1792457156214.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "и навреди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јисраел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "и го удри"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Јонатан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "на Шимеа"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-10-20T00:45:56.215009680Z",
+  "model": "glm-5.3"
+}

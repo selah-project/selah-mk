@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 13:14",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תפל",
+      "rationale": "'непечен\/неомекотен малтер' — KJV 'untempered mortar', JPS 'whited plaster'; слика за лажен изглед на сигурност"
+    },
+    {
+      "kind": "addition",
+      "subject": "сум",
+      "rationale": "хебрејскиот нема копула во 'אני יהוה' — 'јас Јахве'"
+    }
+  ],
+  "translation": "И ќе го разурнам ⟨את⟩ ѕидот што го малтерисавте со непечен малтер, и ќе го фрлам на земјата, и ќе се открие темелот негов, и тој ќе падне, а вие ќе исчезнете во него; и ќе знаете дека јас ⟨сум⟩ Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6f915cd1ddd834bc3742177b888654d6785d0782ef5b6cc575c933924d69516d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/13\/13-16.1792451489173.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרסתי",
+      "gloss": "И ќе го разурнам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ѕидот"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "ѕидот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "го малтерисавте"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "со непечен малтер"
+    },
+    {
+      "surface": "והגעתיהו",
+      "gloss": "и ќе го фрлам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "и ќе се открие"
+    },
+    {
+      "surface": "יסדו",
+      "gloss": "темелот негов"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "и ќе падне"
+    },
+    {
+      "surface": "וכליתם",
+      "gloss": "а вие ќе исчезнете"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "во него"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "и ќе знаете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:11:29.174638256Z",
+  "model": "glm-5.3"
+}

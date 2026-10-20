@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "годините на Метушехах",
+      "rationale": "родословната формула со броење години"
+    }
+  ],
+  "translation": "И живееше Метушехах сто и осумдесет и седум години, и роди ⟨את⟩ Лемех.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "387d66e7e1f1c6685d933dce2330790d96c9edc35d6fc2019e71551119d62579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/5\/25-28.1792442443332.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И живееше"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Метушехах"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седум"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "и осумдесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "и сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Лемех"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Лемех"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:43.334068294Z",
+  "model": "glm-5.3"
+}

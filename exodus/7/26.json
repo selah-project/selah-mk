@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Пушти го народот мој",
+      "rationale": "повик-барање упатен до Фараон"
+    },
+    {
+      "kind": "you",
+      "subject": "Фараон",
+      "rationale": "директно обраќање преку Моше"
+    }
+  ],
+  "translation": "И рече Јахве на Моше: Оди кај Фараон и кажи му: Тако вели Јахве: Пушти го ⟨את⟩ народот мој, па нека ми служат.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "847c5810df541a81d97261880f398d395ae14ced2fff856c538f5e4132ee9b14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/7\/25-28.1792443415806.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Оди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "кажи"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Пушти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народот мој"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народот мој"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "нека ми служат"
+    }
+  ],
+  "timestamp": "2026-10-19T20:56:55.811429882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 32:23",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "докара",
+      "rationale": "ותקרא букв. „и ги сретна“ (кал наиде); традицијата: „допушти да ги снајде“"
+    },
+    {
+      "kind": "you",
+      "subject": "молитва до Јахве",
+      "rationale": "обраќањето кон Јахве продолжува („гласот твој“, „Торите твои“)"
+    }
+  ],
+  "translation": "И влегоа и ја наследија ⟨את⟩не, но не го слушнаа гласот твој и во Торите твои не одеа; сé што им нареди да прават — не направија, и им ја докара ⟨את⟩нив сето ⟨את⟩ ова зло.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ac637168d4dbec7f4987c93f1b0e73fa1ea18da462c9d1a52da3148600f0e64f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/32\/21-24.1792450900731.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "влегоа"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "наследија"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "неа (земјата)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слушнаа"
+    },
+    {
+      "surface": "בקולך",
+      "gloss": "гласот твој"
+    },
+    {
+      "surface": "ובתרותך",
+      "gloss": "и во Торите твои"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "одеа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сето"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "нареди"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да прават"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направија"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "и докара"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "нив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сето"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ова"
+    }
+  ],
+  "timestamp": "2026-10-19T23:01:40.732615739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 3:16",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תוך הנחל וגבול",
+      "rationale": "буквално 'средината на потокот и границата' — KJV 'half the valley'; не се израмнува со 'половина'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "границите",
+      "rationale": "стихот е опис на гранични линии: од Гилад до Арнон и до Јабот"
+    }
+  ],
+  "translation": "На Рувенците и на Гадците им дадов од Гилад до потокот Арнон, средиштето на потокот ⟨и⟩ границата, и до Јабот, потокот — граница на синовите на Амон.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2c4a1faa459d7562908f3cef9f5795e278296037aa7140a2018e1ae846bbade4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/3\/14-16.1792447797019.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "и на Рувенците"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "и на Гадците"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дадов"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гилад"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "поток"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Арнон"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "средиштето"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "поток"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "и границата"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Јабот"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "поток"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "граница"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амон"
+    }
+  ],
+  "timestamp": "2026-10-19T22:09:57.022375321Z",
+  "model": "glm-5.3"
+}

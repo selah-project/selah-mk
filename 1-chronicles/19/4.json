@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "задните делови",
+      "rationale": "המפשעה е чекор\/меѓу нозете — евфемизам за препоне, задржан преку опис"
+    }
+  ],
+  "translation": "И зеде Ханун ⟨את⟩ слугите Давидови, ги избричи, и им ги сече облеките до половината, до задните делови, и ги отпушти.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "be16f8b43491578d4fce48d2323a0323be521e080bd1693bd8c2498cff97e28a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/19\/1-4.1792457172073.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И зеде"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Ханун"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слугите Давидови"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слугите"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидови"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "ги избричи"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "и сече"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "облеките нивни"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "облеките нивни"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "до половината"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "задните делови"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ги отпушти"
+    }
+  ],
+  "timestamp": "2026-10-20T00:46:12.077849782Z",
+  "model": "glm-5.3"
+}

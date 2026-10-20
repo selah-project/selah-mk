@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 6:29",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ופטורי",
+      "rationale": "פטור (отворен пупка\/цвет) е многу реткo слово, буквално 'отвори'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "двата двери",
+      "rationale": "Описот на храмот брои и мери површини и украси."
+    }
+  ],
+  "translation": "И ⟨את⟩ сите ѕидови на домот наоколу ги издлаби резби — издлабани херувими и палмови орнаменти и отворени цветови, одвнатре и однадвор.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "da6eafa4ad6c1b2b83f07e3d7d8b12efd0db58e82794e3d129c17b74f53b2516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/6\/29-32.1792448635966.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сите ѕидови на домот"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "ѕидови"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "מסב",
+      "gloss": "наоколу"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "издлаби"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "резби"
+    },
+    {
+      "surface": "מקלעות",
+      "gloss": "издлабани"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "херувими"
+    },
+    {
+      "surface": "ותמרת",
+      "gloss": "и палмови орнаменти"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "и отворени"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "цветови"
+    },
+    {
+      "surface": "מלפנים",
+      "gloss": "одвнатре"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "и однадвор"
+    }
+  ],
+  "timestamp": "2026-10-19T22:23:55.968385972Z",
+  "model": "glm-5.3"
+}

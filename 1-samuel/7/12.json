@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 7:12",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבן העזר \/ עזרנו",
+      "rationale": "името 'Евен-ха-Езер' (Камен-на-Помош) е изведено директно од глаголот 'ни помогна' — народна етимологија вградена во стихот"
+    },
+    {
+      "kind": "measurement",
+      "subject": "עד הנה",
+      "rationale": "'до овде' — граничен белег на помошта, именуван со камен"
+    }
+  ],
+  "translation": "И Шемуел зеде еден камен и го постави помеѓу Мицпа и помеѓу Шен, и го нарека ⟨את⟩ името негово Камен-Помош; и рече: До овде ни помогна Јахве.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "122c78d6215d0cdeba1c2e8fa9c9236865495a04f3d9be1499e0c668f109a78c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/7\/9-12.1792446717767.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "зеде"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камен"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "еден"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "го постави"
+    },
+    {
+      "surface": "בין",
+      "gloss": "помеѓу"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Мицпа"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и помеѓу"
+    },
+    {
+      "surface": "השן",
+      "gloss": "Шен"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "го нарека"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "името негово"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "името негово"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "Камен"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Помош"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "овде"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "ни помогна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:51:57.768861567Z",
+  "model": "glm-5.3"
+}

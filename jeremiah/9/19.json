@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 9:19",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до жените",
+      "rationale": "директен повик упатен кон жените — да слушнат и да пренесат плач"
+    },
+    {
+      "kind": "substitution",
+      "subject": "погребна песна",
+      "rationale": "קינה е погребна песна придружена со удирање по градите — двата збора נהי и קינה се разликуваат"
+    }
+  ],
+  "translation": "Зашто чујте, жени, слово на Јахве, и нека приемат ушите ваши слово од устата Негова, и научете ги ќерките ваши жалопојка, и секоја соседка своја — погребна песна.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3fdec580f51d3c7dab461ce2991977c4f7bad13ab976bc9844df96d735cd160f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/9\/17-20.1792450572186.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "שמענה",
+      "gloss": "чујте"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жени"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "и нека приемат"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "ушите ваши"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "од устата Негова"
+    },
+    {
+      "surface": "ולמדנה",
+      "gloss": "и научете ги"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "ќерките ваши"
+    },
+    {
+      "surface": "נהי",
+      "gloss": "жалопојка"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "и секоја"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "соседка своја"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "погребна песна"
+    }
+  ],
+  "timestamp": "2026-10-19T22:56:12.187392454Z",
+  "model": "glm-5.3"
+}

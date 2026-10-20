@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 45:9",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "браќата на Јосеф",
+      "rationale": "директна наредба упатена до браќата што треба да ја пренесат пораката на Јаков"
+    },
+    {
+      "kind": "invitation",
+      "subject": "слези кај мене, не стој",
+      "rationale": "повик со итност: забрзајте, качете се, слези"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Така вели син ти Јосеф",
+      "rationale": "נאם формула — бидејќи е пред име на човек, не пред Името, вели наместо изреката на"
+    }
+  ],
+  "translation": "Забрзајте и качете се кај татко ми, и кажете му: Така вели син ти Јосеф: Елохим ме постави за господар на цела Мицраим — слези кај мене, не стој!",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "028dcf901f69438db7c0210bb501dbc3b0afc8ce3f1e5aad172152d51c5041a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/45\/9-12.1792443236013.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "Забрзајте"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "и качете се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "татко мој"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "и кажете"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "син твој"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "ме постави"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לאדון",
+      "gloss": "за господар"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на цела"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "слези"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "кај мене"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "стој"
+    }
+  ],
+  "timestamp": "2026-10-19T20:53:56.015200434Z",
+  "model": "glm-5.3"
+}

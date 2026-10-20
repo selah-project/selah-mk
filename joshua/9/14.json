@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нивната храна",
+      "rationale": "מצידם буквално 'од нивниот лов\/приготовено' — provизија"
+    },
+    {
+      "kind": "idiom",
+      "subject": "устата на Јахве",
+      "rationale": "прашать го советот = да прашаат на устата на Јахве; буквата е чува"
+    }
+  ],
+  "translation": "И ги зедоа луѓето ⟨את⟩ нивната храна, а ⟨את⟩ устата на Јахве не ја прашаа.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "6e7daa4ee37735a371b6d43300e557172430840b51ca950c09d6be133a1df191",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/9\/13-16.1792446023090.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "И ги зедоа"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "луѓето"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "нивната храна"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "устата на Јахве"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "ја прашаа"
+    }
+  ],
+  "timestamp": "2026-10-19T21:40:23.091033371Z",
+  "model": "glm-5.3"
+}

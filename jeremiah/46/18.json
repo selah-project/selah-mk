@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 46:18",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨тој⟩",
+      "rationale": "хебрејскиот не вели кој доаѓа; македонскиот бара подмет"
+    }
+  ],
+  "translation": "Жив сум јас — изрека на Царот, чие име е Јахве Цеваот: како Тавор меѓу планините и како Кармел крај морето, така ⟨тој⟩ ќе дојде.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7aa0eeef7829677e74f9724532f72c6cbe801c828d1a7f8bece79488b56941d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/46\/17-20.1792451136798.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Жив сум"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Царот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "чие име"
+    },
+    {
+      "surface": "כי",
+      "gloss": "како"
+    },
+    {
+      "surface": "כתבור",
+      "gloss": "Тавор"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "меѓу планините"
+    },
+    {
+      "surface": "וככרמל",
+      "gloss": "и како Кармел"
+    },
+    {
+      "surface": "בים",
+      "gloss": "крај морето"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ќе дојде"
+    }
+  ],
+  "timestamp": "2026-10-19T23:05:36.798796397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "Македонскиот бара повратен глагол; хебрејскиот נחר е непреоден"
+    },
+    {
+      "kind": "substitution",
+      "subject": "загорчи",
+      "rationale": "נחר — да гори, пресуши; грлото е изгорено од викање"
+    }
+  ],
+  "translation": "Изморив се од викот мој, загорчи ⟨се⟩ грлото мое, очите мои изгаснаа, чекајќи го Елохим мојот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "53de061516384eb7bb4e8853497ff060c0db10355e8fa1cadbf7984d9cf2a2d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/69\/1-4.1792453492874.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Изморив се"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "од викот мој"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "загорчи"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "глото мое"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "изгаснаа"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очите мои"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "чекајќи"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Елохим мојот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:44:52.875326592Z",
+  "model": "glm-5.3"
+}

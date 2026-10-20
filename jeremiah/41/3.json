@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 41:3",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ги",
+      "rationale": "Македонскиот бара клитички Ackusativ „ги“ за четирите ⟨את⟩-обележани објекти што стојат на чело."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Кашдеите",
+      "rationale": "הכשדים — „Кашдеи“ по хебрејскиот звук; традицијата вели „Халдејци“."
+    }
+  ],
+  "translation": "И ⟨את⟩ сите Јудејци што беа со ⟨него⟩, со Гдалја, во Мицпа, и ⟨את⟩ Кашдеите што се најдоа таму, ⟨את⟩ воените луѓе — ги уби Јишмаел.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9a289b6672d8314e8627f55cf3ba2cb09465cb7e7531685a921c3909cb864513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/41\/1-4.1792451087918.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "И ⟨את⟩",
+      "marks": "сите Јудејци"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Јудејци"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "היו",
+      "gloss": "беа"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ со"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гдалја"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Гдалја"
+    },
+    {
+      "surface": "במצפה",
+      "gloss": "во Мицпа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Кашдеите"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Кашдеите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "се најдоа"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "воените луѓе"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "луѓе"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "на војната"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ги уби"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Јишмаел"
+    }
+  ],
+  "timestamp": "2026-10-19T23:04:47.920267415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "искршиш",
+      "rationale": "תרעם: некои читаат како 'ќе владееш' (רעה), како LXX и Сиријаците, но коренот רוע\/רעע е 'крши на парчиња'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "гневот",
+      "rationale": "אפו буквално 'носот\/ноздрите негови' — слика на гневно фрлање здив, тука во v.12"
+    }
+  ],
+  "translation": "Ќе ги искршиш со жезло железно, како сад на грнчар ќе ги растрошиш.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8d533ebe6cabfaf3f69d9f613443902ecf5dcc17aedfcc9ed447684e0a1ae411",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/2\/9-12.1792452946009.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "Ќе ги искршиш"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "со жезло"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "железно"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "како сад"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "на грнчар"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "ќе ги растрошиш"
+    }
+  ],
+  "timestamp": "2026-10-19T23:35:46.009980800Z",
+  "model": "glm-5.3"
+}

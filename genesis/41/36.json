@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 41:36",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "посечена",
+      "rationale": "תכרת буквално „да се посече“ — сликата на отсекување задржана, не омекната во „загине“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "седумте години на гладот",
+      "rationale": "бројчење на годините како структурен елемент"
+    }
+  ],
+  "translation": "И ќе биде храната за запас за земјата, за седумте години на гладот што ќе бидат во земјата Мицраим, и да не биде посечена земјата во гладот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "245db51fcb53d8a8f52559ad11388765297324ad42137efdba8179a50ff34ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/41\/33-36.1792443160000.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И ќе биде"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "храната"
+    },
+    {
+      "surface": "לפקדון",
+      "gloss": "за запас"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "за земјата"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "за седумте"
+    },
+    {
+      "surface": "שני",
+      "gloss": "години"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "на гладот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ќе бидат"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "биде посечена"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "во гладот"
+    }
+  ],
+  "timestamp": "2026-10-19T20:52:40.005743156Z",
+  "model": "glm-5.3"
+}

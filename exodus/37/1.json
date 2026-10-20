@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "две",
+      "rationale": "хебрејскиот вели само „лакти“ (двојни), македонскиот бара бројот именуван"
+    },
+    {
+      "kind": "measurement",
+      "subject": "мерење",
+      "rationale": "димензии на ковчегот во лакти — должина, ширина, висина"
+    }
+  ],
+  "translation": "И направи Бецалел ⟨את⟩ ковчегот од дрва од шитим — две лакти и половина неговата должина, и лакот и половина неговата ширина, и лакот и половина неговата висина.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1ba85dff12874f16ead7e2987442980a6b60f47329bac91de219cd554bd03b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/37\/1-4.1792443959850.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и направи"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Бецалел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчегот"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ковчегот"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "дрва"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шитим"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "две лакти"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "и половина"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "неговата должина"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "и лакот"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "и половина"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "неговата ширина"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "и лакот"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "и половина"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "неговата висина"
+    }
+  ],
+  "timestamp": "2026-10-19T21:05:59.852937777Z",
+  "model": "glm-5.3"
+}

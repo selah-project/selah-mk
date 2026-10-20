@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 51:2",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויבקקו את ארצה",
+      "rationale": "Буквално „ќе ја ислеат“ — слика за леење\/празнење како сад, дадено како „испразнат“."
+    },
+    {
+      "kind": "addition",
+      "subject": "тие",
+      "rationale": "Подмет додаден за јасност во македонскиот."
+    }
+  ],
+  "translation": "И ќе пратам на Вавилон странци, и тие ќе ја веат, и ќе ја испразнат ⟨את⟩ земјата нејзина, зашто тие ќе бидат спроти неа од сите страни во денот на злото.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "190fe20ef5a1813b6f762469c12fcfb507bb229a24bd17795740d308c3b3ab64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/51\/1-4.1792451295700.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "И ќе пратам"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "на Вавилон"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "странци"
+    },
+    {
+      "surface": "וזרוה",
+      "gloss": "ќе ја веат"
+    },
+    {
+      "surface": "ויבקקו",
+      "gloss": "ќе ја испразнат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата нејзина"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "земјата нејзина"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ќе бидат"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "спроти неа"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "од сите страни"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "на злото"
+    }
+  ],
+  "timestamp": "2026-10-19T23:08:15.701114099Z",
+  "model": "glm-5.3"
+}

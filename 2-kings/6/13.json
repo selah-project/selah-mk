@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 6:13",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "מакедонскиот бара сврзник што хебрејскиот го изостава"
+    }
+  ],
+  "translation": "И рече: Одете и видете каде е, па ќе пратам и ќе го фатам. И му беше кажано, велејќи: Еве, во Дотан е.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2775878a3464848c4fc5401843fe1b0079065b603383107def58632c68221b2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/6\/13-16.1792449155237.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Одете"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "и видете"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "каде"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "ќе пратам"
+    },
+    {
+      "surface": "ואקחהו",
+      "gloss": "ќе го фатам"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "бееше кажано"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "בדתן",
+      "gloss": "во Дотан"
+    }
+  ],
+  "timestamp": "2026-10-19T22:32:35.237833763Z",
+  "model": "glm-5.3"
+}

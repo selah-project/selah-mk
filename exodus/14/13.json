@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 14:13",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨оние⟩",
+      "rationale": "македонскиот бара именска фраза пред релативната „што“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Мицраим",
+      "rationale": "מצרים е туку множинско собирно за Египќаните; останува како име Мицраим"
+    },
+    {
+      "kind": "invitation",
+      "subject": "на народот",
+      "rationale": "Моше ги повикува: не плашете се, застанете и гледајте"
+    }
+  ],
+  "translation": "И рече Моше на народот: Не плашете се, застанете и гледајте ја ⟨את⟩ спасенијата на Јахве, кое ќе го изврши за вас денес, зашто ⟨оние⟩ што ги видовте денес — ⟨את⟩ Мицраим — нема да ги гледате повеќе засекогаш.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "280da226a6c78ba4a7880abf89eef9febcf4d393baa7483d8272db05c9f22944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/14\/13-16.1792443548196.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "плашете се"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "застанете"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "и гледајте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "спасенијата"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "спасенијата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кое"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ќе го изврши"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "ги видовте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мицраим"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תסיפו",
+      "gloss": "нема да"
+    },
+    {
+      "surface": "לראתם",
+      "gloss": "ги гледате"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "עד",
+      "gloss": "засекогаш"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "засекогаш"
+    }
+  ],
+  "timestamp": "2026-10-19T20:59:08.202623299Z",
+  "model": "glm-5.3"
+}

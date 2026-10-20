@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 6:25",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "гласниците",
+      "rationale": "המלאכים е 'пратеници\/гласници' — луѓе, не ангели."
+    },
+    {
+      "kind": "crux",
+      "subject": "עד היום הזה",
+      "rationale": "'До овој ден' — белешка на подоцнежен уредник, не збор на самата сцена."
+    }
+  ],
+  "translation": "А ⟨את⟩ Рахав блудницата и ⟨את⟩ домот на татко ѝ и ⟨את⟩ сè што е нејзино, Јехошуа ги остави живи; и таа живееше сред Јисраел до овој ден, зашто ги сокри ⟨את⟩ гласниците што ги прати Јехошуа да ја извиди ⟨את⟩ Јерихо.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a6a6485352707eee21d69188f1a0c9587a947c41684df6ed5ad0047e2f9e8dd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/6\/25-27.1792445978984.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Рахав"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Рахав"
+    },
+    {
+      "surface": "הזונה",
+      "gloss": "блудницата"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "домот на татко ѝ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "на татко ѝ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сè што е нејзино"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לה",
+      "gloss": "е нејзино"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ги остави живи"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "и живееше"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "сред"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "овој ден"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "החביאה",
+      "gloss": "ги сокри"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гласниците"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "гласниците"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ги прати"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "да ја извиди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јерихо"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Јерихо"
+    }
+  ],
+  "timestamp": "2026-10-19T21:39:38.985396314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "неволја",
+      "rationale": "צרה е буквално 'теснина\/стиск' — просторот се затвора околу човекот"
+    },
+    {
+      "kind": "invitation",
+      "subject": "повик",
+      "rationale": "директен императив со ветување: повикај Ме — ќе те избавам"
+    }
+  ],
+  "translation": "И повикај Ме во ден на неволја — Јас ќе те избавам, и ти ќе Ме прославиш.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "07170112ac1be4080b316c333880768f590d350f62b387073679a076d49cd4c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/50\/13-16.1792453343101.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "и повикај Ме"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во ден"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "на неволја"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "Ќас ќе те избавам"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "и ти ќе Ме прославиш"
+    }
+  ],
+  "timestamp": "2026-10-19T23:42:23.102005115Z",
+  "model": "glm-5.3"
+}

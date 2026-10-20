@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 20:12",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כליות",
+      "rationale": "хебрејскиот 'бубрези' — седиште на мислите и чувствата; задржано буквально, иако македонскиот би рекол 'внатрешност'."
+    },
+    {
+      "kind": "addition",
+      "subject": "нека",
+      "rationale": "אראה е кохортатив 'да видам јас'; македонскиот го изразува со 'нека видам'."
+    },
+    {
+      "kind": "you",
+      "subject": "до Јахве Цеваот",
+      "rationale": "директна молитва кон Јахве — обраќање на пророкот."
+    }
+  ],
+  "translation": "А Јахве Цеваот, што испитува праведникот и ги гледа бубрезите и срцето — нека ја видам одмаздата твоја од нив, зашто тебе ти го открив ⟨את⟩ спорот мој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1cd73a94dab467f59f582ca81fa9d1ff04ed6bbe6d9d07a97bc24bff29c6892b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/20\/9-12.1792450696609.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "А Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "што испитува"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведникот"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ги гледа"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "бубрезите"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "и срцето"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "нека видам"
+    },
+    {
+      "surface": "נקמתך",
+      "gloss": "одмаздата твоја"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "од нив"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "открив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "спорот мој"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "спорот мој"
+    }
+  ],
+  "timestamp": "2026-10-19T22:58:16.611970100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 26:18",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מצאתך",
+      "rationale": "букв. „твоето излегување“ — исчезнувањето на Цур од морето, не заминување."
+    }
+  ],
+  "translation": "Сега ќе затреперат островите во денот на твојот пад, и ќе се уплашаат островите што се на морето од твоето излегување.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6269de898cd1b9742b181c937a08522fc22e8b8fe4597b787ecdd1fe995f0621",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/26\/17-20.1792451735644.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Сега"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "ќе затреперат"
+    },
+    {
+      "surface": "האין",
+      "gloss": "островите"
+    },
+    {
+      "surface": "יום",
+      "gloss": "денот"
+    },
+    {
+      "surface": "מפלתך",
+      "gloss": "на твојот пад"
+    },
+    {
+      "surface": "ונבהלו",
+      "gloss": "и ќе се уплашаат"
+    },
+    {
+      "surface": "האיים",
+      "gloss": "островите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בים",
+      "gloss": "на морето"
+    },
+    {
+      "surface": "מצאתך",
+      "gloss": "од твоето излегување"
+    }
+  ],
+  "timestamp": "2026-10-19T23:15:35.645616606Z",
+  "model": "glm-5.3"
+}

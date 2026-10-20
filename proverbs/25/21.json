@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "читателот",
+      "rationale": "Императивите се директно обраќање до читателот — заповед без назчен адресат."
+    },
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Македонскиот бара сврзник „е“ што хебрејскиот го нема во условната реченица."
+    }
+  ],
+  "translation": "Ако е гладен оној што те мрази, нахрани го со леб, и ако е жеден, напој го со вода.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7692eb697b4f720d957513373f9bc284efba48204600c2c72d10d141639bd363",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/25\/21-24.1792454710576.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "гладен"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "оној што те мрази"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "нахрани го"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "жеден"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "напој го"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    }
+  ],
+  "timestamp": "2026-10-20T00:05:10.577546758Z",
+  "model": "glm-5.3"
+}

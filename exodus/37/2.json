@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זר",
+      "rationale": "„венец“\/„круна“ против „раб\/лилење“ — накитен раб околу горниот дел на ковчегот"
+    },
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "македонскиот бара директен предмет, хебрејскиот го има како наставка на глаголот"
+    }
+  ],
+  "translation": "И го обложи со чисто злато, одвнатре и однадвор, и му направи венец од злато околу него.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1ba85dff12874f16ead7e2987442980a6b60f47329bac91de219cd554bd03b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/37\/1-4.1792443959850.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "и го обложи"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисто"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "одвнатре"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "и однадвор"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и направи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "זר",
+      "gloss": "венец"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "околу него"
+    }
+  ],
+  "timestamp": "2026-10-19T21:05:59.853797314Z",
+  "model": "glm-5.3"
+}

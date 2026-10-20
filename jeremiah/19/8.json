@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 19:8",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמה\/ישם · שרקה\/ישרק",
+      "rationale": "имениката и глаголот од ист корен во пар: 'пустош — ќе се зачуди', 'свиркање — ќе свирка'; паралелата е делумно видлива во македонскиот."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מכתה",
+      "rationale": "'мака' — и 'удар\/рана' и 'беда'; избрано 'рани' за буквата на мака."
+    }
+  ],
+  "translation": "и ќе ја направам ⟨את⟩ оваа градба-град за пустош и за свиркање-поруга; секој што поминува покрај неа ќе се зачуди и ќе свирка од сите рани нејзини.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "23314a8bcd3fbc9250ad058690d71fb05f250234e3b0043c601ac9dd5646eb00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/19\/5-8.1792450751542.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "и ќе ја направам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "градот"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "за пустош"
+    },
+    {
+      "surface": "ולשרקה",
+      "gloss": "и за поруга"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "што поминува"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "покрај неа"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "ќе се зачуди"
+    },
+    {
+      "surface": "וישרק",
+      "gloss": "и ќе свирка"
+    },
+    {
+      "surface": "על",
+      "gloss": "од"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "מכתה",
+      "gloss": "рани нејзини"
+    }
+  ],
+  "timestamp": "2026-10-19T22:59:11.546612228Z",
+  "model": "glm-5.3"
+}

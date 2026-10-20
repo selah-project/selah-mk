@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "тишмерем \/ тицрену",
+      "rationale": "ם во тишмерем може да е 'ги' (бедните) или архаична נ-наставка ('негó', еднина), како во תצרנו; преводите се делат меѓу 'нив' и 'него\/нас'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "зу",
+      "rationale": "Ретката показна честичка זו (само во поетски книги) стои по именската фраза и ја истакнува — 'поколението, ова',"
+    }
+  ],
+  "translation": "Ти, Јахве, ќе ги чуваш ⟨את⟩ нив, ќе го пазиш ⟨את⟩ него од ова поколение засекогаш.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "64ec9eeddffbb74342fe6b8073beb05e14fed8cab60ff5d96af5678a9017cc49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/12\/8-8.1792458342114.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "ќе ги чуваш"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "ќе го пазиш"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ова поколение"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ова"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "засекогаш"
+    }
+  ],
+  "timestamp": "2026-10-20T01:05:42.115139359Z",
+  "model": "glm-5.3"
+}

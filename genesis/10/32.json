@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 10:32",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "копула додадена на македонски"
+    },
+    {
+      "kind": "measurement",
+      "subject": "токолози",
+      "rationale": "колофон на целата Таблица на народите — брои родови, народи, земји"
+    }
+  ],
+  "translation": "Овие се родовите на синовите на Ноах, по поколенијата нивни, во народите нивни; и од овие се разделија народите на земјата по потопот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0741288a5e05ad3123a128136ca148adf359fbccb1704843267d84e29bd46f13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/10\/29-32.1792442502164.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Овие"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "родовите"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на синовите"
+    },
+    {
+      "surface": "נח",
+      "gloss": "на Ноах"
+    },
+    {
+      "surface": "לתולדתם",
+      "gloss": "по поколенијата нивни"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "во народите нивни"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "и од овие"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "се разделија"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "по"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "потопот"
+    }
+  ],
+  "timestamp": "2026-10-19T20:41:42.176243865Z",
+  "model": "glm-5.3"
+}

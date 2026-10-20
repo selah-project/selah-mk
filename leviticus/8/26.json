@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 8:26",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ги",
+      "rationale": "македонскиот бара директен предмет, хебрејскиот го има во наставката на וישם"
+    },
+    {
+      "kind": "measurement",
+      "subject": "еден… еден… еден",
+      "rationale": "точен број на колачите: три по еден"
+    }
+  ],
+  "translation": "И од кошницата със бесквасни́ лебови што беше пред Јахве зеде еден бесквасен колач, и еден колач леб со масло, и еден тенок колач, и ги стави врз мастите и врз десната нога.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "6ff5f65ea8bb5795826c1a2c9c0de16af3260f245ba03e6813645c7fe72ed9cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/8\/25-28.1792444221722.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומסל",
+      "gloss": "И од кошницата"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "бесквасни́ лебови"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "зеде"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "колач"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "бесквасен"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "еден"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "и еден колач"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "со масло"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "еден"
+    },
+    {
+      "surface": "ורקיק",
+      "gloss": "и еден тенок колач"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "и ги стави"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "мастите"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "нога"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "десната"
+    }
+  ],
+  "timestamp": "2026-10-19T21:10:21.725391742Z",
+  "model": "glm-5.3"
+}

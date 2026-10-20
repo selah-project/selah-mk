@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "סוד — таен совет, доверена тајна; стихот забранува нејзино откривање."
+    },
+    {
+      "kind": "you",
+      "subject": "на читателот",
+      "rationale": "Заповед во второ лице, обраќање директно до слушателот."
+    }
+  ],
+  "translation": "Својата расправа води ја со ⟨את⟩ својот ближен, а тајната на друг не откривај.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "87550aba326de330518724416d1edfa080be618560f325074fa51f86fa0615a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/25\/9-12.1792454676715.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "својата расправа"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "води ја"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "својот ближен"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "својот ближен"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "а тајната"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "на друг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "откривај"
+    }
+  ],
+  "timestamp": "2026-10-20T00:04:36.716401280Z",
+  "model": "glm-5.3"
+}

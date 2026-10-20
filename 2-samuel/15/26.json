@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 15:26",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא חפצתי בך",
+      "rationale": "буквално „не сакав во тебе“ — израз за немање волја\/находост"
+    },
+    {
+      "kind": "addition",
+      "subject": "подмет на יאמר",
+      "rationale": "Јахве се подразбира од ст. 25"
+    }
+  ],
+  "translation": "А ако така рече: Не најдов задоволство во тебе — еве ме, нека ми стори како што е добро во неговите очи.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "cc210c487d4ce651afe49f709d9a132c8e32cef78414f62baffeb3269c679849",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/15\/25-28.1792448358049.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А ако"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "најдов задоволство"
+    },
+    {
+      "surface": "בך",
+      "gloss": "во тебе"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "еве ме"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "нека стори"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "во неговите очи"
+    }
+  ],
+  "timestamp": "2026-10-19T22:19:18.050978806Z",
+  "model": "glm-5.3"
+}

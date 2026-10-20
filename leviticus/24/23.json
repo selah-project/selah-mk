@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 24:23",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל מחוץ",
+      "rationale": "двоен израз 'кон надвор' — една македонска прилска одредба 'надвор'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "онај што псуаше",
+      "rationale": "המקלל е particip од קלל — 'псувачот\/оној што го проколна Името'"
+    },
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "македонскиот глагол бара клитички предмет"
+    }
+  ],
+  "translation": "И Моше им говореше на синовите Јисраелови, и го изведоа ⟨את⟩ онај што псуаше надвор од логорот, и го каменуваа со камења; и синовите Јисраелови направија како што заповеда Јахве ⟨את⟩ Моше.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "925f08ed8df5e895005c318d9a2a51e50b7717a0bc95a365cd96f1fbef8966f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/24\/21-23.1792444463863.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говореше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелови"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "и го изведоа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "онај што псуаше"
+    },
+    {
+      "surface": "המקלל",
+      "gloss": "онај што псуаше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "надвор"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "надвор"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "од логорот"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "и го каменуваа"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ го",
+      "marks": "него со камења"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "со камења"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелови"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направија"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-10-19T21:14:23.869155791Z",
+  "model": "glm-5.3"
+}

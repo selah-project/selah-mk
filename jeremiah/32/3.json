@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 32:3",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Ирмејаху",
+      "rationale": "Цидкијаху директно го прашува пророкот: „Зошто ти пророкуваш?“"
+    }
+  ],
+  "translation": "зашто Цидкијаху, царот на Јехуда, го беше затворил, велејќи: Зошто ти пророкуваш, велејќи: Така вели Јахве: Еве, Јас ја давам ⟨את⟩ оваа града во рака на царот на Вавилон, и тој ќе ја зграби.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c5ac7d8e27ee2320ca5fd7b32c8d475e3591a5e333086d90052dca9e63c71fa1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/32\/1-4.1792450919614.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "го беше затворил"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкијаху"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "пророкуваш"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Еве, Јас"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "давам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оваа града"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "града"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "во рака"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "и ќе ја зграби"
+    }
+  ],
+  "timestamp": "2026-10-19T23:01:59.616014121Z",
+  "model": "glm-5.3"
+}

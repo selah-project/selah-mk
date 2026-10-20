@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 8:1",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Јисраел",
+      "rationale": "Моше им се обраќа директно на сите Израилци во второ лице множина."
+    },
+    {
+      "kind": "addition",
+      "subject": "ја",
+      "rationale": "Македонскиот бара клитички dodatок за објектот кај заповедувам и наследите."
+    }
+  ],
+  "translation": "Целата заповед што јас ти ја заповедувам деновва ќе ја пазите да ја извршувате, за да живеете и да се умножите, и да влезете и да ја наследите ⟨את⟩ земјата за која се заколна Јахве на татковците ваши.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c67e2c9751c6fcd7f4cf9f34277f6e0329b85dec6fe7528226887ea4e3484938",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/8\/1-4.1792445427833.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "целата"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "заповед"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ти ја заповедувам"
+    },
+    {
+      "surface": "היום",
+      "gloss": "деновва"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "ќе пазите"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да извршувате"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "живеете"
+    },
+    {
+      "surface": "ורביתם",
+      "gloss": "и да се умножите"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "и да влезете"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "и да наследите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "за која"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "се заколна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "на татковците ваши"
+    }
+  ],
+  "timestamp": "2026-10-19T21:30:27.834118398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 1:20",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מרו מריתי",
+      "rationale": "Двоен корен מרה — горчливост и бунт во еден глагол, повторен двапати; македонскиот раздели горко\/огорчив, играта е делумно изгубена."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמרמרו",
+      "rationale": "Интензивна удвоена форма од חמר — букв. 'врие и врие', слеана во македонски со 'врее-врее'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מריתי",
+      "rationale": "KJV\/ASV 'grievously rebelled' (бунтував) против JPS\/BSB 'bitter' (огорчив); коренот носи и двете."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Македонскиот бара сврзник кај צר לי, хебрејскиот го нема."
+    }
+  ],
+  "translation": "Види, Јахве, дека ⟨е⟩ тесно за мене; утробата ми врее-врее, срцето ми се преврте во мене, зашто горко огорчив; надвор мечот остави без деца, а во домот — како смрт.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "94dc03657c5d047c8eed35ef1a1d0a5ba2dbd1a3e7cd7bfc4d32738c4b672e3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/1\/20-20.1792458474892.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Види"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "צר",
+      "gloss": "тесно"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мене"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "утробата"
+    },
+    {
+      "surface": "חמרמרו",
+      "gloss": "врее-врее"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "се преврте"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "срцето ми"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "во мене"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "горко"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "огорчив"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "надвор"
+    },
+    {
+      "surface": "שכלה",
+      "gloss": "остави без деца"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мечот"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "како смрт"
+    }
+  ],
+  "timestamp": "2026-10-20T01:07:54.892438934Z",
+  "model": "glm-5.3"
+}

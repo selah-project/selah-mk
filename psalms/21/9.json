@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "кон Јахве",
+      "rationale": "стихот се обраќа директно на Јахве за Неговите непријатели"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמצא ... תמצא",
+      "rationale": "повторениот глагол рамноти две паралелни колона, а и שנאיך е од коренот што дисциплината го фикса како мразење"
+    }
+  ],
+  "translation": "Раката твоја ќе ги најде сите непријатели твои; десницата твоја ќе ги најде оние што те мразат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0e6ed9a1436b8b1ccc27f6c44575d05806433511d717f3dd94efe0a05a8c86ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/21\/9-12.1792453078249.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "ќе ги најде"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "раката твоја"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "непријатели твои"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "десницата твоја"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ќе ги најде"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ониептие што те мразат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:37:58.250430728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 24:9",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לזועה",
+      "rationale": "„трепет“ (KJ „removed“, ASV\/JPS „horror“): страв или скитање — букв. тресење."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לחרפה ולמשל לשנינה ולקללה",
+      "rationale": "четири членувани збирови во низа — ритмичка клетва чия акумулација се губи во раскажниот македонски."
+    },
+    {
+      "kind": "measurement",
+      "subject": "сите царства на земјата",
+      "rationale": "универзална мерка на раселувањето — сите места, сите царства."
+    }
+  ],
+  "translation": "И ќе ги дадам за трепет и за зло на сите царства на земјата, за срам, за приказна, за потсмев и за клетва, во сите места каде што ќе ги растерам таму.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "39423e72be1bc6f30bf27c6a17fc37b0b660ba63dd70a1676c144f31a6753b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/24\/9-10.1792450763517.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתים",
+      "gloss": "и ќе ги дадам"
+    },
+    {
+      "surface": "לזועה",
+      "gloss": "за трепет"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "за зло"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на сите"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "царства"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "за срам"
+    },
+    {
+      "surface": "ולמשל",
+      "gloss": "за приказна"
+    },
+    {
+      "surface": "לשנינה",
+      "gloss": "за потсмев"
+    },
+    {
+      "surface": "ולקללה",
+      "gloss": "и за клетва"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во сите"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "места"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "каде што"
+    },
+    {
+      "surface": "אדיחם",
+      "gloss": "ќе ги растерам"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    }
+  ],
+  "timestamp": "2026-10-19T22:59:23.518879555Z",
+  "model": "glm-5.3"
+}

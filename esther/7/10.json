@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жарот на гневот",
+      "rationale": "חמה буквално „топлина\/жар“, фигуративно гнев; двата слоја се задржани"
+    },
+    {
+      "kind": "crux",
+      "subject": "утихна",
+      "rationale": "שככה: „утихна\/смири се\/легна“ — сликата е на горештак што згаснува"
+    }
+  ],
+  "translation": "И го обесија ⟨את⟩ Амана на дрвото што го приготви за Мордохај, и жарот на гневот на царот утихна.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "daa06d68644b642af66c1748e2054b59d3260f6174c588dae6be0fd615119595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/esther\/7\/9-10.1792455823121.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "И го обесија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амана"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Амана"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "дрвото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "го приготви"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "за Мордохај"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "и жарот на гневот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "утихна"
+    }
+  ],
+  "timestamp": "2026-10-20T00:23:43.122797327Z",
+  "model": "glm-5.3"
+}

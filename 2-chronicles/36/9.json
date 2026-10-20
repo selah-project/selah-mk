@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 36:9",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "осум години",
+      "rationale": "2 Кралите 24:8 вели „осумнаесет“; тука осум — спротивноста е позната"
+    },
+    {
+      "kind": "measurement",
+      "subject": "возраст и владеење",
+      "rationale": "бројни години, месеци и дена за возрастта и царувањето"
+    },
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "хебрејскиот нема сврзен копула кај „син на осум години“"
+    }
+  ],
+  "translation": "Син на осум години беше Јехојахин кога почна да царува, и три месеци и десет дена царуваше во Јерушалаим; и го правеше злото пред очите на Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "aa9d8e32d9050b13d60f2800b306ba971e3d4f2895bf26512a739b0aaf678757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/36\/9-12.1792457939956.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "осум"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Јехојахин"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "кога почна да царува"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "и три"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "месеци"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "и десет"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дена"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царуваше"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "во Јерушалаим"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и го правеше"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "злото"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "пред очите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-20T00:58:59.957039429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 17:13",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот нема глагол-сврска кај имињата"
+    },
+    {
+      "kind": "substitution",
+      "subject": "вториот по него",
+      "rationale": "ומשנהו буквално 'неговиот повторувач\/двојник', т.е. вториот по ред"
+    },
+    {
+      "kind": "measurement",
+      "subject": "тројца \/ првородениот \/ вториот \/ третиот",
+      "rationale": "стихот брои и подредува синови по редослед"
+    }
+  ],
+  "translation": "И трите големи синови на Јишај отидоа по Шаул на војната, а имињата на трите негови синови што отидоа на војната ⟨се⟩: Елиав првородениот, и вториот по него Авинадав, и третиот Шама.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "23aa79b4a96161e2fdadfdecfcc3ea83e6a7faa6eb8a60af0439364dbbfbb56a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/17\/13-16.1792446915419.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "и отидоа"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "тројца"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите на"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Јишај"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "големите"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "отида"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "на војната"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а имињата"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "тројца"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "негови синови"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "отида"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "на војната"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Елиав"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "првородениот"
+    },
+    {
+      "surface": "ומשנהו",
+      "gloss": "и вториот по него"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Авинадав"
+    },
+    {
+      "surface": "והשלשי",
+      "gloss": "и третиот"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Шама"
+    }
+  ],
+  "timestamp": "2026-10-19T21:55:15.420768263Z",
+  "model": "glm-5.3"
+}

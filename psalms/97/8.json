@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Македонскиот бара помошен глагол кај 'чу', хебрејскиот нема"
+    },
+    {
+      "kind": "substitution",
+      "subject": "se развеселија",
+      "rationale": "גיל е буквално 'да се вртеш од силна емоција'; предадено како радост"
+    }
+  ],
+  "translation": "Чу ⟨е⟩ Цион и се зарадува, и се развеселија ќерките на Јуда, поради твоите судови, Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "58f77a0cc1efd069f81ccc7c80d2c9332a61bfe1c2d34163eeb9f8aedf3014a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/97\/8-8.1792458375990.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Чу"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "и се зарадува"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "и се развеселија"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ќерките"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јуда"
+    },
+    {
+      "surface": "למען",
+      "gloss": "поради"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "твоите судови"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-20T01:06:15.990560162Z",
+  "model": "glm-5.3"
+}

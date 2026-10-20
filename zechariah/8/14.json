@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 8:14",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נחמתי",
+      "rationale": "'се раскајав \/ се покајав' наспроти 'не се вдлабочив, не отстапив' — נחם значи и жалост и менење на одлука"
+    },
+    {
+      "kind": "you",
+      "subject": "до народот (објавено преку пророштво)",
+      "rationale": " indirect обраќање — Јахве зборува за намисленото зло кон нив"
+    }
+  ],
+  "translation": "Зашто вака вели Јахве Цеваот: како што намеревав да ви направам зло кога вашите татковци ме разљутија ⟨את⟩ мене, вели Јахве Цеваот, и не се раскајав —",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "705d74d82d87111793bbf84a739679aff1d169c2c813eaccdcb758ec3f458117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/8\/13-16.1792452813281.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "כה",
+      "gloss": "вака"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "намеревав"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "да направам зло"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "בהקציף",
+      "gloss": "кога разљутија"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "вашите татковци"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ мене",
+      "marks": "мене"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "се раскајав"
+    }
+  ],
+  "timestamp": "2026-10-19T23:33:33.282036711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 25:34",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ми⟩\/„тој“",
+      "rationale": "Хебрејскиот низ кратки сказови „јаде-пи-стана-отиде“ нема подмет; македонскиот го додава."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בכרה\/בכרתו",
+      "rationale": "Повторување на коренот בכר во 33 и 34 стих ја затвора сцената на продажбата."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויבז",
+      "rationale": "„ја презре“ — можно и „згода ја отфрли првородноста“: буз значи и физички плуе\/отфрла."
+    }
+  ],
+  "translation": "И Јааков му даде на Исав леб и вариво од леќа, и тој јаде и пи, стана и си отиде. И Исав ја презре ⟨את⟩ првородноста.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "8ef467dbea597f84a6a314c69b9d3035a8a08f5af3cc9f8a3e1e0fdca15b02bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/25\/33-34.1792442790892.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "И Јааков"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "на Исав"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "ונזיד",
+      "gloss": "и вариво"
+    },
+    {
+      "surface": "עדשים",
+      "gloss": "од леќа"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "и јаде"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "и пи"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "стана"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и си отиде"
+    },
+    {
+      "surface": "ויבז",
+      "gloss": "и ја презре"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "првородноста"
+    },
+    {
+      "surface": "הבכרה",
+      "gloss": "првородноста"
+    }
+  ],
+  "timestamp": "2026-10-19T20:46:30.897713309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 18:24",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ќе наследат наследство",
+      "rationale": "Повторена игра ינחלו נחלה од стих 23 — завршна рефрена на целиот пасус."
+    },
+    {
+      "kind": "measurement",
+      "subject": "desetica",
+      "rationale": "Десетицата е бројна одредница — десеттиот дел."
+    }
+  ],
+  "translation": "Зашто ⟨את⟩ десетицата од синовите Јисраелови, што ја подигнуваат на Јахве како дар — неа им ја дадов на левитите за наследство; затоа им реков: меѓу синовите Јисраелеви нема да наследат наследство.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "6c5c59a719a46eb3da0152832d2366662a6d60ec0093fd0943cb099863feff8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/18\/21-24.1792444951357.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "десетицата"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "десетицата"
+    },
+    {
+      "surface": "בני",
+      "gloss": "од синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелеви"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "ја подигнуваат"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "како дар"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ја дадов"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "на левитите"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "за наследство"
+    },
+    {
+      "surface": "על",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "им реков"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелеви"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "ќе наследат"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "наследство"
+    }
+  ],
+  "timestamp": "2026-10-19T21:22:31.359291079Z",
+  "model": "glm-5.3"
+}

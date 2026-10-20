@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "хебрејскиот израз „освен ако\/туку дека“ — словесната точка на споредбата со дождот"
+    }
+  ],
+  "translation": "Зашто како што слегува дождот и снегот од небото и не се враќа таму, освен ако ја напои ⟨את⟩ земјата и ја роди и ја пушти да никне, и даде семе на сејачот и леб на оној што јаде —",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "707efe8e388b8ae14e06693c42ae6d0dfa4746f3c02ea6ebe683db593e287ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/55\/9-12.1792450222419.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "слегува"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "дождот"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "и снегот"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небото"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "и таму"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "се враќа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "освен"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "ја напои"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "и ја роди"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "и ја пушти да никне"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "семе"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "на сејачот"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "и леб"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "на оној што јаде"
+    }
+  ],
+  "timestamp": "2026-10-19T22:50:22.421323938Z",
+  "model": "glm-5.3"
+}

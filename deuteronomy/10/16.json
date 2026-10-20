@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "обрежете кожичката на своето срце",
+      "rationale": "Хебрејската слика е буквална — обрезување на срцето; задржано буквално, не се мекати."
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatives to Israel",
+      "rationale": "Две заповеди во императив — обрежете, не вкочанувајте."
+    }
+  ],
+  "translation": "И обрежете ⟨את⟩ кожичката на своето срце, и својот врат повеќе не вкочанувајте.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "32f896c69cffcd09c14dbd825904cfcf2c6fbe5963b6e54df807c7bb4e7242c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/10\/13-16.1792445418780.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "И обрежете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кожичката"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "кожичка"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "на своето срце"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "и својот врат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "вкочанувајте"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    }
+  ],
+  "timestamp": "2026-10-19T21:30:18.782304732Z",
+  "model": "glm-5.3"
+}

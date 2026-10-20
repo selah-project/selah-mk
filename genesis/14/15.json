@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 14:15",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "налево",
+      "rationale": "мислењето е на север — ориентација кон исток, 'налево' го чува обликот на текстот"
+    }
+  ],
+  "translation": "И се раздели против нив ноќе — тој и слугите свои — и ги порази, и ги гонеаше до Хова, што е налево од Дамаск.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "425d7bee350c0c8414460ae4a0eac6f92d69d45f16eab6fbf948206d520bfc13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/14\/13-16.1792442532802.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "и се раздели"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "против нив"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноќе"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "и слугите свои"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "и ги порази"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "и ги гонеаше"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "חובה",
+      "gloss": "Хова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "е налево"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "од Дамаск"
+    }
+  ],
+  "timestamp": "2026-10-19T20:42:12.816057360Z",
+  "model": "glm-5.3"
+}

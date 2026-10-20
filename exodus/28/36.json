@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 28:36",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ציץ",
+      "rationale": "'плоча\/ливче' (KJ VS) наспроти 'цвет' (YLT) — коренот значи 'сјајно\/цветно'; избрав плоча бидејќи е носител на натпис"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Свето на Јахве",
+      "rationale": "натписот на печата е даден точен, збор по збор, како.dimension на изработката"
+    }
+  ],
+  "translation": "И ќе направиш плоча од чисто злато, и ќе издлабиш на неа врежувања на печат: Свето на Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "fbaa46e73e4406a63c8eeeb6d4f9923f0bd149d7938ef6a549a7d5dc25fc7516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/28\/33-36.1792443819173.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "И ќе направиш"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "плоча"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "од злато"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисто"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "и ќе издлабиш"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на неа"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "врежувања"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "на печат"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Свето"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:03:39.177853985Z",
+  "model": "glm-5.3"
+}

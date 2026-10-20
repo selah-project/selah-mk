@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הנשאם",
+      "rationale": "букв. „издигнатите“ — водачите, старешините; од корен נשא (издигнува)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "наградник",
+      "rationale": "חשן — торбичка на градите на првосвештеникот; македонската традиција „нагрудник“"
+    }
+  ],
+  "translation": "И старешините донесоа ⟨את⟩ камењата од шохамот и ⟨את⟩ камењата за вградување, за ефодот и за наградникот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9bfee707a3aadb4d0f766b8030ffa0c068b883e12485322e31b4d79248048805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/35\/25-28.1792443906349.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "И старешините"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "донесоа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "камењата од шохамот"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "камењата"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "од шохамот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "камењата за вградување"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "камењата"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "за вградување"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "за ефодот"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "и за наградникот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:05:06.353639241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 33:11",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בסד",
+      "rationale": "'клада' — дрвен запbeb за нозе, знак за затвор; букв. алатка за понижување"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישמר",
+      "rationale": "двоен предзнак: 'чува\/бди над' — тука во непријателска смисла: 'ги набљудува сите мои патеки' за да ме фати"
+    }
+  ],
+  "translation": "Ги става нозете мои во клада, ги чува сите патеки мои.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2211b2a83d2a217f33fe1d8fb4d01abe77114d507c1da2426f0f2ccdb04d9fc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/33\/9-12.1792455230371.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "ги става"
+    },
+    {
+      "surface": "בסד",
+      "gloss": "во клада"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "нозете мои"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ги чува"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ארחתי",
+      "gloss": "патеки мои"
+    }
+  ],
+  "timestamp": "2026-10-20T00:13:50.372432937Z",
+  "model": "glm-5.3"
+}

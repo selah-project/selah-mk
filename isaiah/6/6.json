@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 6:6",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "жар-камен",
+      "rationale": "רצפה значи и 'жар-камен' и 'поплочен под'; JPS го дава 'glowing stone'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "щипки",
+      "rationale": "מלקחים е двојна форма — букв. 'два кукиња за фаќање'."
+    }
+  ],
+  "translation": "И долета кон мене еден од серафите, а во раката му жар-камен, со щипки зеде од жртвеникот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "fef9c6b9dcfca1860b3b168469ab5af68c9ef8deefbc89fb561c9ae51d48d98e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/6\/5-8.1792449608242.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעף",
+      "gloss": "И долета"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "кон мене"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "השרפим",
+      "gloss": "серафите"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "а во раката му"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "жар-камен"
+    },
+    {
+      "surface": "במלקחים",
+      "gloss": "со щипки"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "зеде"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жртвеникот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:40:08.243629292Z",
+  "model": "glm-5.3"
+}

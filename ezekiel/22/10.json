@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 22:10",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "менструација",
+      "rationale": "נדה е 'оддделување, менструална нечистота'"
+    },
+    {
+      "kind": "crux",
+      "subject": "голотија на татко",
+      "rationale": "ערות אב — 'го открија голото на таткото', може да е буквално или идиом за интимност со жената на таткото"
+    }
+  ],
+  "translation": "Голотија на татко открија во тебе; нечистотата на ⟨се⟩ одделената со менструација понижија во тебе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "79f9d99b002c91211468242fab69a423619d8b9711a4e1a1971b42177f35253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/22\/9-12.1792451647542.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "голотија"
+    },
+    {
+      "surface": "אב",
+      "gloss": "на татко"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "открија"
+    },
+    {
+      "surface": "בך",
+      "gloss": "во тебе"
+    },
+    {
+      "surface": "טמאת",
+      "gloss": "нечистотата"
+    },
+    {
+      "surface": "הנדה",
+      "gloss": "на одделената со менструација"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "понижија"
+    },
+    {
+      "surface": "בך",
+      "gloss": "во тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T23:14:07.543632284Z",
+  "model": "glm-5.3"
+}

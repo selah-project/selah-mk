@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 5:11",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "стотниот дел",
+      "rationale": "ומאת הכסף: 'стотниот дел од среброто' (процент лихва) наспроти 'сто сребреници' како сума"
+    },
+    {
+      "kind": "measurement",
+      "subject": "стотниот дел",
+      "rationale": "стопанска мерка — процент на заемот"
+    }
+  ],
+  "translation": "Вратете, молам, им уште денес нивните ниви, лозјата нивни, маслините нивни и куќите нивни, и стотниот дел од среброто, житото, младото вино и маслото што вие барате од нив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cdfe77fa6482759403c9d36940b487a5e20f21a33153cce94b14dadac3e25e41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/5\/9-12.1792456602881.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השיבו",
+      "gloss": "Вратете"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молам"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "уште денес"
+    },
+    {
+      "surface": "שדתיהם",
+      "gloss": "нивните ниви"
+    },
+    {
+      "surface": "כרמיהם",
+      "gloss": "лозјата нивни"
+    },
+    {
+      "surface": "זיתיהם",
+      "gloss": "маслините нивни"
+    },
+    {
+      "surface": "ובתיהם",
+      "gloss": "и куќите нивни"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "и стотниот дел"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "од среброто"
+    },
+    {
+      "surface": "והדגן",
+      "gloss": "житото"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "младото вино"
+    },
+    {
+      "surface": "והיצהר",
+      "gloss": "и маслото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "барате"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "од нив"
+    }
+  ],
+  "timestamp": "2026-10-20T00:36:42.882376582Z",
+  "model": "glm-5.3"
+}

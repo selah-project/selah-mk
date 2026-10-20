@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "во нивната пазува",
+      "rationale": "אל חיקם 'во нивното крило\/пазува' — идиом за возврат што паѓа врз самиот виновник"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרפתם \/ חרפוך",
+      "rationale": "корен חרף двапати: нивниот срам — те осрамотија"
+    },
+    {
+      "kind": "you",
+      "subject": "до Адонај",
+      "rationale": "директен повик до Адонај"
+    }
+  ],
+  "translation": "И врати им на нашите соседи седумкратно во нивната пазува нивниот срам, со кој те осрамотија, Адонај.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "edf39761c57cdfb835e9bdffc14709e5c682091683f7a2016cd8716bf8408884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/79\/9-12.1792453658720.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "И врати им"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "на нашите соседи"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "седумкратно"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "нивната пазува"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "нивниот срам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "со кој"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "те осрамотија"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:38.722040431Z",
+  "model": "glm-5.3"
+}

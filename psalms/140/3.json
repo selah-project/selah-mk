@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חשבו",
+      "rationale": "„исплетоа“ — коренот е плетење, ткаење на зли намери"
+    },
+    {
+      "kind": "crux",
+      "subject": "יגורו",
+      "rationale": "од גור: „се собираат\/стапуваат (настануваат) војни“ наспроти „подготвуваат\/разбудуваат војни“"
+    }
+  ],
+  "translation": "Кои исплетоа зла во срцето, цела ѕидина војни подготвуваат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "32e3063b81051368d8f9b67f6dc106f4a46ecb935a48160577bf6111a226253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/140\/1-4.1792454156864.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "кои"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "исплетоа"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "зла"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "во срцето"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цела"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ѕидина"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "подготвуваат"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "војни"
+    }
+  ],
+  "timestamp": "2026-10-19T23:55:56.866324331Z",
+  "model": "glm-5.3"
+}

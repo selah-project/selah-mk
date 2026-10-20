@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 18:7",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בן בקר",
+      "rationale": "букв. „син на говедото“ — телеште; сликата на генеалогија за животно."
+    },
+    {
+      "kind": "crux",
+      "subject": "רך וטוב",
+      "rationale": "„меко\/нежно и добро“ — мекиња против угоено; букв. „нежно“."
+    }
+  ],
+  "translation": "И кон говедата истрча Аврахам, и зеде теле од говедата, меко и добро, и го даде на момчето, а тоа побрза да го приготви ⟨את⟩ него.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5fcde09abc3b8f8a82d7552672af196f9ed72e5f66413b1f3b0a49a031cf4702",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/18\/5-8.1792442563146.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "и кон"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "говедата"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "истрча"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и зеде"
+    },
+    {
+      "surface": "בן",
+      "gloss": "телеште од"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "говеда"
+    },
+    {
+      "surface": "רך",
+      "gloss": "меко"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "и добро"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "момчето"
+    },
+    {
+      "surface": "וימהר",
+      "gloss": "и побрза"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да приготви"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него — телето"
+    }
+  ],
+  "timestamp": "2026-10-19T20:42:43.170781548Z",
+  "model": "glm-5.3"
+}

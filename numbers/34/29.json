@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 34:29",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לנחל",
+      "rationale": "Причинско: „да им дадат наследство“ или директно „да наследат“; повеќето верзии го делат како причинска одредба."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ги⟩",
+      "rationale": "Македонскиот бара дативен клитички займ Од заповедан од את."
+    }
+  ],
+  "translation": "Овие се оние што Јахве им заповеда да ⟨ги⟩ наследат ⟨את⟩ синовите на Јисраел во земјата Кенаан.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a455b7b39a2bd01a4b9b08e30b2acf81350228c33ac075accde37b057c2afa77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/34\/29-29.1792445209285.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Овие"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "да наследат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синовите на Јисраел"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    }
+  ],
+  "timestamp": "2026-10-19T21:26:49.285690356Z",
+  "model": "glm-5.3"
+}

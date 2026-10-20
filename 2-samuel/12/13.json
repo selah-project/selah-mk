@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 12:13",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "העביר חטאתך",
+      "rationale": "буквално „направи да помине гревот твој“ — македонскиот бара глагол како „оди́мна\/отстрани“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאתי \/ חטאתך",
+      "rationale": "коренot חטא се повторува: „згрешив“ — „гревот твој“, играта останува"
+    },
+    {
+      "kind": "you",
+      "subject": "Натан до Давид",
+      "rationale": "директен говор — суд по признанието"
+    }
+  ],
+  "translation": "И рече Давид на Натан: Згрешив кон Јахве. А Натан рече на Давид: И Јахве ти ја одмина гревот — нема да умреш.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "79b526961672fd5af3156f7567af2b5c048d331a7929f4c1be6e3c8310e9c3bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/12\/13-16.1792448223598.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Згрешив"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "кон Јахве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "А рече"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "גם",
+      "gloss": "И"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "оди́мна"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "гревот твој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "да умреш"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:03.599247471Z",
+  "model": "glm-5.3"
+}

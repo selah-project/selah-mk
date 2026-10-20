@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 15:2",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "למות למות · לחרב לחרב",
+      "rationale": "Четворно повторување по два пати — судбина и одредба споени во еден ист збор, ритам што македонскиот го носи само со повторување"
+    },
+    {
+      "kind": "measurement",
+      "subject": "четири судби",
+      "rationale": "Народот е распределен според четири одредби: смрт, меч, глад, ропство"
+    }
+  ],
+  "translation": "И ќе биде, кога ти рекат: Каде да излеземе? — ти ќе им речеш: Така рече Јахве: Кој за смрт — на смрт, и кој за меч — на меч, и кој за глад — на глад, и кој за ропство — на ропство.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4b3380b36b229c867b2d60496cc30e6b308f79aee06cfce123685f4009cc665e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/15\/1-4.1792450664001.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И ќе биде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "рекат"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Каде"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "да излеземе"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ти ќе им речеш"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "למות",
+      "gloss": "за смрт"
+    },
+    {
+      "surface": "למות",
+      "gloss": "на смрт"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и кој"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "за меч"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "на меч"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и кој"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "за глад"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "на глад"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и кој"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "за ропство"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "на ропство"
+    }
+  ],
+  "timestamp": "2026-10-19T22:57:44.003027902Z",
+  "model": "glm-5.3"
+}

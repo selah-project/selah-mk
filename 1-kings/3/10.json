@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "хебрејскиот нема копула во минатоperfectно стативно"
+    },
+    {
+      "kind": "idiom",
+      "subject": "во очите на Адонај",
+      "rationale": "בעיני е хебрејски идиом за одобрение, задржан буквално"
+    }
+  ],
+  "translation": "И зборот беше добар во очите на Адонај, зашто Шеломо побара ⟨את⟩ тој збор.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "716fdfe4e3a8de23d4c6fd9c1c7c6d5c404b41564ce30d72666eaea24064779e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/3\/9-12.1792448571858.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "и беше добар"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "зборот"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "во очите"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "побара"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тој збор"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "тој збор"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "тој"
+    }
+  ],
+  "timestamp": "2026-10-19T22:22:51.859932331Z",
+  "model": "glm-5.3"
+}

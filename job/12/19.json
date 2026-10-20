@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 12:19",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "етаним",
+      "rationale": "букв. „трајните\/утврдените“ — може и „утврдените (градови\/луѓе)“ наместо „силните“"
+    }
+  ],
+  "translation": "Ги води свештениците оголени-боси, а силните ги превртува.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ede8b6815b72dbc58c01fa43dbc10c68f1e59806c58a29cd48e4fa74998a0c30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/12\/17-20.1792454957343.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מוליך",
+      "gloss": "Ги води"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "свештениците"
+    },
+    {
+      "surface": "שולל",
+      "gloss": "оголени-боси"
+    },
+    {
+      "surface": "ואתנים",
+      "gloss": "а силните"
+    },
+    {
+      "surface": "יסלף",
+      "gloss": "ги превртува"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:17.343926150Z",
+  "model": "glm-5.3"
+}

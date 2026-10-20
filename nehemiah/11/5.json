@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 11:5",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כל־חזה \/ חזיה",
+      "rationale": "Името Кол-Хозе („сите-гледач“) е во словесна игра со Хазаја („Јахве гледа“) — губи се во македонскиот."
+    },
+    {
+      "kind": "crux",
+      "subject": "השלני",
+      "rationale": "„Шилонитецот“ (потомок на Шела) vs „од Шило“ — повеќето преводи го држат роднинското читање."
+    }
+  ],
+  "translation": "и Маасеја, син на Барух, син на Кол-Хозе, син на Хазаја, син на Адаја, син на Јојарив, син на Зехарија, син на Шилонитецот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ae152060207bce69c2edc1599dc73b689f2cdcdf4c1ea875bd658b1ba08bfd11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/11\/5-8.1792456680045.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומעשיה",
+      "gloss": "и Маасеја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барух"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Кол-"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "Хозе"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חזיה",
+      "gloss": "Хазаја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "Адаја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "Јојарив"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Зехарија"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "Шилонитецот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:38:00.046550019Z",
+  "model": "glm-5.3"
+}

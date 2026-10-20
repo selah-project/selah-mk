@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула, македонскиот бара"
+    }
+  ],
+  "translation": "Добро е малкуто на праведниот од многу богатство на безбожници многу.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7f39e792d4f5efedebbc23dec149e1cf447459271ba0112cc11d05abe51312f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/37\/13-16.1792453198154.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "добро е"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "малкуто"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "на праведниот"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "од богатство"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "на безбожници"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многу"
+    }
+  ],
+  "timestamp": "2026-10-19T23:39:58.155402090Z",
+  "model": "glm-5.3"
+}

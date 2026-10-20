@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 22:15",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה לי",
+      "rationale": "буквално „осквернето за мене“ — македонскиот идиом „далеку биди од мене“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר קטן או גדול",
+      "rationale": "мерната антитеза мал\/голем — македонскиот ја чува со „ни збор мал ни голем“"
+    }
+  ],
+  "translation": "Денес ли почнав да прашувам за него кај Елохим? Далеку биди од мене! Нека не стави кралот никаква работа на слугата свој, ни на сиот дом на татко ми, зашто слугата твој не знаеше ништо од сè ова — ни збор мал ни голем.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "fd62a7b52c9047b14fe1ac45fa93f9b807c18850d3097395a99c3952491bd8a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/22\/13-16.1792447859650.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Денес"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "ли почнав"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "да прашувам"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за него"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "кај Елохим"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Далеку биди"
+    },
+    {
+      "surface": "לי",
+      "gloss": "од мене"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Нека не"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "стави"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "кралот"
+    },
+    {
+      "surface": "בעבדו",
+      "gloss": "на слугата свој"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "никаква работа"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ни на сиот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "на татко ми"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знаеше"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слугата твој"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "од сè"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "збор"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "мал"
+    },
+    {
+      "surface": "או",
+      "gloss": "ни"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голем"
+    }
+  ],
+  "timestamp": "2026-10-19T22:10:59.655531054Z",
+  "model": "glm-5.3"
+}

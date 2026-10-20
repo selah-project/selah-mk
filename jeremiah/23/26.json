@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 23:26",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נבאי השקר",
+      "rationale": "Инфинитив „да пророкуваат лага“ или именска конструкција „пороци на лагата“ (KJV\/JPS); јас ги задржав двете нијанси."
+    },
+    {
+      "kind": "addition",
+      "subject": "своe",
+      "rationale": "Македонскиот бара посесив за לבם; хебрејскиот го има само со наставката."
+    }
+  ],
+  "translation": "До кога? Има ли во срцето на пороците да пророкуваат лага — пророци на измамата на срцето свое?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b0d38816f73541ba2fe3edca95d34aee2385b7db7e6dfef41d1856503e9ce78f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/23\/25-28.1792450752998.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "До"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "היש",
+      "gloss": "има ли"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "во срцето"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "пороците"
+    },
+    {
+      "surface": "נבאי",
+      "gloss": "да пророкуваат"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "лага"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "и пророци"
+    },
+    {
+      "surface": "תרמת",
+      "gloss": "на измамата"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "на срцето свое"
+    }
+  ],
+  "timestamp": "2026-10-19T22:59:13.001454809Z",
+  "model": "glm-5.3"
+}

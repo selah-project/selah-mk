@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 18:45",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨во⟩",
+      "rationale": "хебрејскиот суфикс -ה за правец нема македонски еквивалент без предлог"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עד כה ועד כה",
+      "rationale": "буквално „до тука и до тука“ — време\/растојание; македонскиот бара „по толку време“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "התקדרו",
+      "rationale": "корен קדר значи и „да е црн“ и „да жали во вреќа“ — сликата на жалост е изгубена"
+    }
+  ],
+  "translation": "И ⟨се⟩ случи по толку време, дека небото се стемни од облаци и руах, и падна голем дожд; и Ахав јаваше и отиде ⟨во⟩ Јизреел.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7d8d05286b598b2c2bd4263309cc5a556c20946576d60b7a284db65fc9346a66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/18\/45-46.1792448875319.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И ⟨се⟩ случи"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "כה",
+      "gloss": "толку"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "כה",
+      "gloss": "толку"
+    },
+    {
+      "surface": "והשמים",
+      "gloss": "и небото"
+    },
+    {
+      "surface": "התקדרו",
+      "gloss": "се стемни"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "од облаци"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "и руах"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "дожд"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голем"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "и јаваше"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахав"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "⟨во⟩ Јизреел"
+    }
+  ],
+  "timestamp": "2026-10-19T22:27:55.319974765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ќе биде",
+      "rationale": "Македонскиот бара помошниот глагол каде што хебрејскиот го става יהיה на крајот како тврдење"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רקח\/מרקחת\/רקח",
+      "rationale": "Троен повтор на коренот רקח — мирис-мешавина-миризливар — ритамот се губи во македонскиот"
+    }
+  ],
+  "translation": "И ќе го направиш ⟨את⟩ него масло за помазување, свето, мешавина од миризливи нешта, дело на миризливар — масло за помазување, свето, ќе биде.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d46e28979d06664af01fb0b97ed5345d8bbece7f0f70d5606dcf0f233ec34351",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/30\/25-28.1792443847450.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "И ќе направиш"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "масло"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "за помазување"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свето"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "миризлив"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "мешавина"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "миризливар"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "масло"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "за помазување"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свето"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    }
+  ],
+  "timestamp": "2026-10-19T21:04:07.453379573Z",
+  "model": "glm-5.3"
+}

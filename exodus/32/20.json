@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וזר",
+      "rationale": "Дословно „вееше\/рсееше“ како жито — сликата на сеење во водата"
+    },
+    {
+      "kind": "crux",
+      "subject": "וישק",
+      "rationale": "„Напои“ наспроти „принуди да пијат“ — хебрејскиот вели само causativ од пиј"
+    }
+  ],
+  "translation": "И го зеде ⟨את⟩ телето што го направија, и го изгоре во оган, и го смела сè додека ⟨не⟩ стана ситно, и го посипа врз лицето на водата, и ги напои ⟨את⟩ синовите на Јисраел.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "cff607322605c9c984e162cb98a6b84bb49d83a375f9b50d2c00781276694261",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/32\/17-20.1792443918227.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И го зеде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "телето"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "телето"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направија"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "и го изгоре"
+    },
+    {
+      "surface": "באש",
+      "gloss": "во оган"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "и го смела"
+    },
+    {
+      "surface": "עד",
+      "gloss": "сè додека"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "דק",
+      "gloss": "стана ситно"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "и го посипа"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "המים",
+      "gloss": "на водата"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "и ги напои"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синовите на Јисраел"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T21:05:18.240793615Z",
+  "model": "glm-5.3"
+}

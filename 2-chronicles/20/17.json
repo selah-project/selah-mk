@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 20:17",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Хебрејскиот нема копула во „Јахве со вас“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תחתו",
+      "rationale": "буквално „да бидете скршени\/разнишани“ — предадено како „да се плашите“"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јуда и Јерушалаим",
+      "rationale": "директно обраќање преку пророчеката реч"
+    }
+  ],
+  "translation": "Не е вам да се борите во ова; застанете, стојте и видете го ⟨את⟩ спасението на Јахве со вас, Јудо и Јерушалаиме: не страхувајте и не се плашајте; утре излезете пред нив, и Јахве ⟨е⟩ со вас.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "26605bcb12fe2bf441b8fc1eca936e863aec392178a64c311f61f93377e27834",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/20\/17-20.1792457635863.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "да се борите"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "во ова"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "застанете"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "стојте"
+    },
+    {
+      "surface": "ויאו",
+      "gloss": "и видете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "спасението"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "спасението"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "со вас"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудо"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "и Јерушалаиме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "страхувајте"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "се плашајте"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "утре"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "излезете"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "пред нив"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и Јахве"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "со вас"
+    }
+  ],
+  "timestamp": "2026-10-20T00:53:55.864356769Z",
+  "model": "glm-5.3"
+}

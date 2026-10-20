@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחתו \/ ותנחת",
+      "rationale": "истиот корен נחת двапати — стрелите слегуваат и раката слегува, повторување изгубено во македонскиот"
+    }
+  ],
+  "translation": "Зашто твоите стрели се забија во мене, и твојата рака се спушти врз мене.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "767248106c5f8a526ac050d409d1b966e81905a1157fe78e9c7a797217642993",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/38\/1-4.1792453230275.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "твоите стрели"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "се забија"
+    },
+    {
+      "surface": "בי",
+      "gloss": "во мене"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "и се спушти"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "врз мене"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "твојата рака"
+    }
+  ],
+  "timestamp": "2026-10-19T23:40:30.276678113Z",
+  "model": "glm-5.3"
+}

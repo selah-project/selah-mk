@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "во душата",
+      "rationale": "נפש е грклан\/животна сила, не 'душа' во подоцнежна смисла"
+    },
+    {
+      "kind": "crux",
+      "subject": "יקיפו",
+      "rationale": "од נקף: 'се толпаат\/опколуваат околу' наспроти 'ме удираат'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שדוני",
+      "rationale": "од שדד — 'пустошат', една од ретките употреби во псалмите"
+    }
+  ],
+  "translation": "Од лицето на злите — оние што ме пустошат, моите непријатели во душата ме опколуваат против мене.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1051d1864eb3c2253e73aeb6880d5cfcb51971bf845197d87d89482d38a35f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/17\/9-12.1792452997056.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "од лицето на"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злите"
+    },
+    {
+      "surface": "זו",
+      "gloss": "—"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "ме пустошат"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "моите непријатели"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "во душата"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "опколуваат"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "против мене"
+    }
+  ],
+  "timestamp": "2026-10-19T23:36:37.057395339Z",
+  "model": "glm-5.3"
+}

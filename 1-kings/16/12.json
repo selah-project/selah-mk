@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "против",
+      "rationale": "אל може да значи „до\/кон“ или „против“ — зборот е пророчка закана"
+    }
+  ],
+  "translation": "И уништи Зимри ⟨את⟩ целиот дом на Бааша, според зборот на Јахве, што го зборувал против Бааша преку раката на Јеху пророкот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6f02ec899826ec5a24e1809910db58003015a7afa903464827bd41d854d62eee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/16\/9-12.1792448880272.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "и уништи"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Зимри"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "целиот дом на Бааша"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "на Бааша"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "според зборот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "го зборувал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "против"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Бааша"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "пеку раката"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "на Јеху"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:28:00.273553509Z",
+  "model": "glm-5.3"
+}

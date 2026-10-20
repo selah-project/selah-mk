@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 13:11",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до оние што малтерисуваат",
+      "rationale": "обраќање кон лажните пророци — а камењата на градот се директно адресирани „вие“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויפל \/ תפלנה",
+      "rationale": "двоен пад: ѕидот паѓа (יפל) и градот паѓа (תפלנה) — истиот глагол"
+    }
+  ],
+  "translation": "Кажи им на оние што малтерисуваат млев малтер: ќе падне! Ќе дојде поплава од дожд, и вие, градни камења, ќе паднете, и руах од виорови ќе го расцепи.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "04a57dc34d8b131d1e4601f79bd961ed7a6d2ccc887a39cfd8862e807441d99d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/13\/9-12.1792451481305.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "кажи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "им на"
+    },
+    {
+      "surface": "טחי",
+      "gloss": "што малтерисуваат"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "млев малтер"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ќе падне"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ќе дојде"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "поплава од дожд"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "надмоен"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "и вие"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "камења"
+    },
+    {
+      "surface": "אלגביש",
+      "gloss": "град"
+    },
+    {
+      "surface": "תפלנה",
+      "gloss": "ќе паднете"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "и руах"
+    },
+    {
+      "surface": "סערות",
+      "gloss": "од виорови"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "ќе го расцепи"
+    }
+  ],
+  "timestamp": "2026-10-19T23:11:21.306512361Z",
+  "model": "glm-5.3"
+}

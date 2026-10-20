@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "суфиксот -ה",
+      "rationale": "објектот (Ковчегот) е само во наставката -ה„неа“; македонскиот бара додаден заменски предмет"
+    },
+    {
+      "kind": "crux",
+      "subject": "полињата на шумата",
+      "rationale": "שדי יער — или „полињата на Јаар“ (како име на Киријат-Јеарим) или „полиња на шумата“"
+    }
+  ],
+  "translation": "Еве, чувавме ⟨е⟩ во Ефрата, најдовме ⟨ја⟩ во полињата на шумата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/132\/5-8.1792454073711.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "чивме ⟨ја⟩"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "во Ефрата"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "најдовме ⟨ја⟩"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "во полињата"
+    },
+    {
+      "surface": "יער",
+      "gloss": "на шумата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:54:33.712255200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула — именска реченица"
+    },
+    {
+      "kind": "crux",
+      "subject": "חילו",
+      "rationale": "„силата негова” — дали на коњот или на човекот; повеќето преводи ја оставаат двосмисленоста"
+    }
+  ],
+  "translation": "Лажен е коњот за избавување, и со изобилството на силата своја нема да избави.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/33\/17-20.1792453146129.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Лажен"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "коњот"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "за избавување"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "и со изобилството"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "на силата своја"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "да избави"
+    }
+  ],
+  "timestamp": "2026-10-19T23:39:06.129500736Z",
+  "model": "glm-5.3"
+}

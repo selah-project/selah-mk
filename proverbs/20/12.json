@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אזן שמעת \/ עין רואה",
+      "rationale": "Паралелизам: уво-чува \/ око-гледа — парохијална структура што македонскиот ја задржува со релативните реченици."
+    }
+  ],
+  "translation": "Уво што чува и око што гледа — Јахве ги создаде и двете.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0b57c84e8816b0afce4a7d833df3bcb143f9b89999e98825a6d957e7bb66b826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/20\/9-12.1792454606426.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "Уво"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "што чува"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "и око"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "што гледа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ги создаде"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "двете"
+    }
+  ],
+  "timestamp": "2026-10-20T00:03:26.428022803Z",
+  "model": "glm-5.3"
+}

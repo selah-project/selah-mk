@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ги",
+      "rationale": "македонскиот бара клитички заменски објект, хебрејскиот го нема"
+    },
+    {
+      "kind": "you",
+      "subject": "кон Јахве",
+      "rationale": "образот на исушена мевна е дел од молитвата"
+    }
+  ],
+  "translation": "Зашто станав како мевна во чад, уредбите твои не ги заборавив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d168adea9ed75b492c59f10eb05578a21f3c3ea66b24f0301db99853722ee7fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/81-84.1792454008699.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "стана�"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "како мевна"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "во чад"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "уредбите твои"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ги заборавив"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:28.700056541Z",
+  "model": "glm-5.3"
+}

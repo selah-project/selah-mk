@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 9:6",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "живее",
+      "rationale": "מחיה е причаст од חיה — Оној што дава живот\/одржува во живот, не само „чувствува“"
+    },
+    {
+      "kind": "addition",
+      "subject": "сам",
+      "rationale": "לבדך е „самостоен\/одделен Тебе“ — македонскиот бара прилог „сам“"
+    },
+    {
+      "kind": "you",
+      "subject": "Ти",
+      "rationale": "Директен обраќања кон Јахве во исповед на народот"
+    }
+  ],
+  "translation": "Ти Си Тој — Јахве ⟨сам⟩; Ти направи ⟨את⟩ небесата, небесата на небесата и цела нивна војска, земјата и сè што е на неа, морињата и сè што е во нив; и Ти ги оживуваш ⟨את⟩ сите нив, и војската на небесата Ти се поклонува.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f1a23b9be2646ea2f1cf4a2339278612ef899c9cdd93fa5e33495f2af27513f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/9\/5-8.1792456682294.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Си Тој"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "сам"
+    },
+    {
+      "surface": "את",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "направи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "небесата"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "небесата на"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и цела"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "нивна војска"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на неа"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "морињата"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "во нив"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "и Ти"
+    },
+    {
+      "surface": "מחיה",
+      "gloss": "ги оживуваш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите нив"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "сите нив"
+    },
+    {
+      "surface": "וצבא",
+      "gloss": "и војската"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "на небесата"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "משתחוים",
+      "gloss": "се поклонува"
+    }
+  ],
+  "timestamp": "2026-10-20T00:38:02.297490520Z",
+  "model": "glm-5.3"
+}

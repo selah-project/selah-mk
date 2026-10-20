@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 14:44",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כה יעשה אלהים וכה יוסף",
+      "rationale": "заклетвена формула — 'нека ми направи Елохим така и повеќе'; буквата е чува во македонскиот"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות תמות",
+      "rationale": "инфинитивен апсолут — 'со смрт ќе умреш'; македонскиот со 'со смрт' го чува дел од зајакнувањето"
+    },
+    {
+      "kind": "you",
+      "subject": "Јонатан",
+      "rationale": "заклетва изречена директно кон Јонатан"
+    }
+  ],
+  "translation": "И рече Шаул: Така нека направи Елохим и така нека додаде — зашто со смрт ќе умреш, Јонатан.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "745f2edae157a4d613e01392984c861b0081eecd34e2fac454afc55ddfe44954",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/14\/41-44.1792446863473.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "нека направи"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "и така"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "нека додаде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מות",
+      "gloss": "со смрт"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ќе умреш"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Јонатан"
+    }
+  ],
+  "timestamp": "2026-10-19T21:54:23.474875687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 4:12",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהרגום",
+      "rationale": "суфиксот -ם ('ги') ги означува Рекав и Баана без да се именуваат"
+    }
+  ],
+  "translation": "И Давид им заповеда на млади́те, и тие ги убија, им ги отсекоа рацете и нозете и ги обесија над басенот во Хеврон; а ⟨את⟩ главата на Иш-Бошет ја зедоа и ја погребаа во гробот на Авнер во Хеврон.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "fbac01732d39481f37def22f9eb2738bd63adc630ff15b831299b55cda0e2283",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/4\/9-12.1792448143453.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "заповеда"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "младите"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "младите"
+    },
+    {
+      "surface": "ויהרגום",
+      "gloss": "ги убија"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "им отсекоа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рацете"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "рацете"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "нозете"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "нозете"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "ги обесија"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "басенот"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "во Хеврон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "главата на Иш-Бошет"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "главата"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Иш-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Бошет"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ја зедоа"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ја погребаа"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "во гробот"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнер"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "во Хеврон"
+    }
+  ],
+  "timestamp": "2026-10-19T22:15:43.459037101Z",
+  "model": "glm-5.3"
+}

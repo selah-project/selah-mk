@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара"
+    },
+    {
+      "kind": "crux",
+      "subject": "אבד עצות",
+      "rationale": "'народ што ги изгуби советите' — KJZ 'без совет'; букв. 'клинат совети'"
+    }
+  ],
+  "translation": "Зашто народ изгубен од совети се тие, и нема во нив разум.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "8d1b1549e239f3380cd48fafebfae17d476469fb90b7d3f5f3e2b986e774c252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/32\/25-28.1792445852610.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "изгубен"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "од совети"
+    },
+    {
+      "surface": "המה",
+      "gloss": "се тие"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "во нив"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "разум"
+    }
+  ],
+  "timestamp": "2026-10-19T21:37:32.611356544Z",
+  "model": "glm-5.3"
+}

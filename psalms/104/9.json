@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "тие",
+      "rationale": "хебрејскиот ги остава водите од v.6–9 без заменка; македонскиот бара ⟨тие⟩"
+    }
+  ],
+  "translation": "Граница постави — ⟨тие⟩ нема да ја преминат, нема да се вратат да ја покријат ⟨את⟩ земјата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "80d3b1a0234660459e982c38d9a0f6f7a7384580134b29da2afea89f572060ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/104\/9-12.1792453818128.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "Граница"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "постави"
+    },
+    {
+      "surface": "בל",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "да ја преминат"
+    },
+    {
+      "surface": "בל",
+      "gloss": "нема"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "да се вратат"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "да ја покријат"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:18.129345349Z",
+  "model": "glm-5.3"
+}

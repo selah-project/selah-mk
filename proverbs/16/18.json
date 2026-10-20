@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "стои",
+      "rationale": "хебрејскиот е без глагол — именска реченица"
+    },
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "רוח е руах — дув, дух; 'дух' сам не се пишува"
+    }
+  ],
+  "translation": "Пред слом ⟨стои⟩ гордост, и пред спотикување — возвишен руах.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bcd9366600b6cf5bd47f5796dbd5cbf7160ffe9ebc4f8adc61694b8cac87a44e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/16\/17-20.1792454556225.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "слом"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "гордост"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "и пред"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "спотикување"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "возвишен"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    }
+  ],
+  "timestamp": "2026-10-20T00:02:36.226315838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "своја \/ го",
+      "rationale": "Македонските притскојазични кратки заменски форми додадени за глаткост, хебрејскиот ги нема."
+    }
+  ],
+  "translation": "А мажите ја испружија ⟨את⟩ раката своја и го воведоа ⟨את⟩ Лот кај себе, внатре во куќата, а ⟨את⟩ вратата ја затворија.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a22d0585e144ec315aaf6f9bb35645a03cc58a1a7516e495636d871d7f1ca5e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/19\/9-12.1792442605915.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "А испружија"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "мажите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "раката своја"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "раката своја"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "и го воведоа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Лот"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лот"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "кај себе"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "внатре во куќата"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "вратата"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "вратата"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ја затворија"
+    }
+  ],
+  "timestamp": "2026-10-19T20:43:25.918709843Z",
+  "model": "glm-5.3"
+}

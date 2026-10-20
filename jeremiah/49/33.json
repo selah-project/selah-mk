@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 49:33",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "чакали",
+      "rationale": "תנים од коренот תנין — 'чакали' (ASV\/JPS) наспроти 'змејови\/морски чудовишта' (KJV\/Wycliffe)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Македонскиот бара помошен глагол каде хебрејскиот користи היה со значење 'стана'. Се покриено со 'ќе стане'."
+    }
+  ],
+  "translation": "И Хацор ќе стане живеалиште на чакали, пустош до век; нема да живее таму човек, ниту син човечки ќе пребива во него.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b91550e2b14bd220a62caa9b96f3d1e3afd25e3332c7494b3685c58a72adad7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/49\/33-36.1792451249001.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "и ќе стане"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Хацор"
+    },
+    {
+      "surface": "למעון",
+      "gloss": "живеалиште"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "на чакали"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "пустош"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "век"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ќе живее"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ниту"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ќе пребива"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во него"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечки"
+    }
+  ],
+  "timestamp": "2026-10-19T23:07:29.002603912Z",
+  "model": "glm-5.3"
+}

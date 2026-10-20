@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "терафимите",
+      "rationale": "התרפים задржано како транслитерација — семеен идол, не „статуа“"
+    },
+    {
+      "kind": "crux",
+      "subject": "כביר",
+      "rationale": "душец\/перница од козји влакна — збор што значи ткаен душец; преводите се делат меѓу перница и душек"
+    },
+    {
+      "kind": "secret",
+      "subject": "претставата на терафимите",
+      "rationale": "машката на Давид — скриено нешто што треба да измами"
+    }
+  ],
+  "translation": "И Михал ги зеде ⟨את⟩ терафимите и ги стави на леглото, а ⟨את⟩ душецот од козји влакна стави го крај главата негова, и го покри со облека.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "8fa6772c4795ef4abb8547783040e32d54481cfc5aafd48aa9f9baca3ac74123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/19\/13-16.1792447855404.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "и зеде"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Михал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "терафимите"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "терафимите"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "и ги стави"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "леглото"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "душецот"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "душецот"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "од козји влакна"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "стави го"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "крај главата негова"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "и го покри"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "со облека"
+    }
+  ],
+  "timestamp": "2026-10-19T22:10:55.406460960Z",
+  "model": "glm-5.3"
+}

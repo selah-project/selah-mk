@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 35:4",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האלה",
+      "rationale": "JPS чита 'теребинта', KJV\/ASV 'даб' — хебрејскиот вели силно дрво; македонскиот збор за дрвото е избор на преведувачот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ги скри",
+      "rationale": "ויטמן е буквально 'затрупа\/скри под покривка' — некои преводи велат 'закопа'."
+    }
+  ],
+  "translation": "И му дадоа на Јааков ⟨את⟩ сите богови на туѓите што беа во рацете нивни, и ⟨את⟩ обеците што беа во ушите нивни; и Јааков ги скри под ⟨дабот⟩ што ⟨беше⟩ кај Шхем.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0d720eeb72df5e2c260021b2b216009b992f9b660701d4dd36f475fa2a70a6f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/35\/1-4.1792443043832.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "И дадоа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите богови на туѓите"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "боговите"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "на туѓите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "во рацете нивни"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "обеците"
+    },
+    {
+      "surface": "הנזמים",
+      "gloss": "обеците"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "во ушите нивни"
+    },
+    {
+      "surface": "ויטמן",
+      "gloss": "и ги скри"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "нив"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "дабот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עם",
+      "gloss": "кај"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шхем"
+    }
+  ],
+  "timestamp": "2026-10-19T20:50:43.834420289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 5:12",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ништо",
+      "rationale": "македонскиот бара предмет при негативниот израз 'нема да бараме', хебрејскиот го има само לא"
+    }
+  ],
+  "translation": "И рекоа: Ќе вратиме и ништо од нив нема да бараме; така ќе направиме како што ти велиш. И повикав ⟨את⟩ свештениците и ги заколнив да го извршат според оваа реч.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cdfe77fa6482759403c9d36940b487a5e20f21a33153cce94b14dadac3e25e41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/5\/9-12.1792456602881.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоа"
+    },
+    {
+      "surface": "נשיב",
+      "gloss": "Ќе вратиме"
+    },
+    {
+      "surface": "ומהם",
+      "gloss": "и од нив"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נבקש",
+      "gloss": "нема да бараме"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ќе направиме"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "велиш"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "и повикав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свештениците"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свештениците"
+    },
+    {
+      "surface": "ואשביעם",
+      "gloss": "и ги заколнив"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да извршат"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "според реч"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "оваа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:36:42.882558394Z",
+  "model": "glm-5.3"
+}

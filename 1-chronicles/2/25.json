@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 2:25",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩ во „беа“",
+      "rationale": "хебрејскиот ויהיו е наративен конјуктивив на хаја, македонскиот бара помошен глагол"
+    },
+    {
+      "kind": "measurement",
+      "subject": "родослов",
+      "rationale": "список на имиња — родовско броене"
+    }
+  ],
+  "translation": "И беа синовите на Јерахмеел, првенецот на Хецрон: првенецот Рам, и Буна, и Орен, и Оцем, Ахија.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d9cf93b5cb73c2fa5eaa8d2aa55bc28f4e9e620e415dcb9cc5ad99a6994f2579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/2\/25-28.1792456805908.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И беа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "на Јерахмеел"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "првенецот"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "на Хецрон"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "првенецот"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Рам"
+    },
+    {
+      "surface": "ובונה",
+      "gloss": "и Буна"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "и Орен"
+    },
+    {
+      "surface": "ואצם",
+      "gloss": "и Оцем"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ахија"
+    }
+  ],
+  "timestamp": "2026-10-20T00:40:05.908584605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 24:6",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויאשמו",
+      "rationale": "'станаа виновни\/бидоа казнети' (ASV\/JPS) наспроти KJV 'останаа опустошени' — коренот е 'вина', не пустеење."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרו",
+      "rationale": "'изгорошеа\/извенеа' — KJV и ASV 'изгореле', JPS 'извенеа'; двата превода се возможни од коренот חרר."
+    },
+    {
+      "kind": "addition",
+      "subject": "станале",
+      "rationale": "Македонскиот бара помошен глагол каде хебрејскиот има само глаголско придавка."
+    }
+  ],
+  "translation": "Затоа проклетството ја изеде земјата, и виновни станале нејзините жители; затоа изгореле жителите на земјата, и останале луѓе малкумина.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "1c403e2cd84d7ebd52de58084e75109544b1c2e7e18dbf3110537078f8ab4105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/24\/5-8.1792449779630.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Затоа (על)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "проклетството"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ја изеде"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "ויאשמו",
+      "gloss": "виновни станале"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жителите на"
+    },
+    {
+      "surface": "בה",
+      "gloss": "неа"
+    },
+    {
+      "surface": "על",
+      "gloss": "затоа (על)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "חרו",
+      "gloss": "изгореле"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жителите на"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "ונשאר",
+      "gloss": "и останале"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "луѓе"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "малкумина"
+    }
+  ],
+  "timestamp": "2026-10-19T22:42:59.632988847Z",
+  "model": "glm-5.3"
+}

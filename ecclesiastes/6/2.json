@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 6:2",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нефеш",
+      "rationale": "נפש е здив\/животна сила, не „душа“ во подоцнежна смисла"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хевел",
+      "rationale": "הבל е „здив\/испарение“ — задржано како збор, не како „суета“"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула"
+    }
+  ],
+  "translation": "Човек комушто Елохим му даде богатство и имоти и слава, и на ништо не му недостасува за неговата нефеш од сè што посакува, но Елохим не му дава да владее и да јаде од тоа, туку туѓ човек го јаде — ова е хевел и тешка болест.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e7d615df2aede3ce82de5c4d7bae7ef0fde2a970b29d382b558e6dc71bf68ce0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/6\/1-4.1792455731188.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "комушто"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "ונכסים",
+      "gloss": "и имоти"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "и слава"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "и не"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "недостасува"
+    },
+    {
+      "surface": "לנפשו",
+      "gloss": "за нефешта негова"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יתאוה",
+      "gloss": "посакува"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "ישליטנו",
+      "gloss": "му дава да владее"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "да јаде"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од тоа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "туку"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "туѓ"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "го јаде"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хевел"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "и болест"
+    },
+    {
+      "surface": "רע",
+      "gloss": "тешка"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е"
+    }
+  ],
+  "timestamp": "2026-10-20T00:22:11.189060903Z",
+  "model": "glm-5.3"
+}

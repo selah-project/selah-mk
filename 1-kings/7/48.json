@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 7:48",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "лебот на лицето",
+      "rationale": "לחם הפנים буквално 'леб на лицето\/присуството' — традиционално 'showbread', леб што стои пред Јахве"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩, ⟨е⟩",
+      "rationale": "македонскиот бара сврзен copula каде што хебрејскиот има само акцизентен придавка 'од злато' на крајот"
+    }
+  ],
+  "translation": "И Шломо ги направи ⟨את⟩ сите предмети што ⟨се⟩ во домот на Јахве: ⟨את⟩ жртвеникот од злато и ⟨את⟩ масата на која ⟨е⟩ лебот на лицето — од злато.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e37e82ddb65e1edc857f1135bbfd15ec1823c18704badbdedfd2c92f254da591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/7\/45-48.1792448633131.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ги направи"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "предмети"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жртвеникот"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жртвеникот"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "од злато"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "масата"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "масата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "на која"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨е⟩ на него"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "лебот"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "на лицето"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    }
+  ],
+  "timestamp": "2026-10-19T22:23:53.134923599Z",
+  "model": "glm-5.3"
+}

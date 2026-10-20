@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 2:10",
+  "book": "jonah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула во именската реченица"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משמרים\/יעזבו",
+      "rationale": "контраст чување–оставање помеѓу ст. 9 и 10 го носи целиот свиток на Моше"
+    },
+    {
+      "kind": "you",
+      "subject": "Јахве",
+      "rationale": "директна молитва кон Јахве"
+    }
+  ],
+  "translation": "А јас — со глас на тода ќе Ти жртвувам; она што го заветував ќе го исполнам: спасението ⟨е⟩ на Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c0185075573a7f2bead5b05d96400c70f8d5d06e53f47636c94444909da0fb8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jonah\/2\/9-11.1792452437847.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а јас"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "со глас"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "на тода"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "ќе жртвувам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נדרתי",
+      "gloss": "заветував"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "ќе исполнам"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "спасението"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:27:17.847774731Z",
+  "model": "glm-5.3"
+}

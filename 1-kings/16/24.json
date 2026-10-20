@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 16:24",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "за два кикара сребро",
+      "rationale": "בככרים е мера (кикар\/талент), не буквален број пари"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Шемер\/Шомрон",
+      "rationale": "името на градот изведено од името на господарот на ридот"
+    },
+    {
+      "kind": "measurement",
+      "subject": "два кикара сребро",
+      "rationale": "цената на ридот е точно изразена"
+    }
+  ],
+  "translation": "И ја купи ⟨את⟩ ридот Шомрон од ⟨את⟩ Шемер за два кикари сребро, и го загради ⟨את⟩ ридот, и го нарече ⟨את⟩ името на градот што го загради, според името на Шемер, господарот на ридот — Шомрон.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "06155c771c8de5e0cb8f0d4ea817baa203d6fecccb8bb7a4301e79946d661f61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/16\/21-24.1792448919380.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "и ја купи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ридот"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ридот"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомрон"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "од ⟨את⟩"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Шемер"
+    },
+    {
+      "surface": "בככרים",
+      "gloss": "за два кикара"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "загради"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ридот"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ридот"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "нарече"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "името"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "на градот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "го загради"
+    },
+    {
+      "surface": "על",
+      "gloss": "според"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "на Шемер"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господарот"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "на ридот"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомрон"
+    }
+  ],
+  "timestamp": "2026-10-19T22:28:39.383209594Z",
+  "model": "glm-5.3"
+}

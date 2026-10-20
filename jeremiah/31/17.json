@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 31:17",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "иднина",
+      "rationale": "אחרית е буквално 'крај\/последно нешто', не 'иднина'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תקוה",
+      "rationale": "буквално 'јаже\/коноп' — слика на прицврстена очекуваност, изгубено во 'надеж'"
+    }
+  ],
+  "translation": "И има надеж за твојата иднина, вели Јахве, и синовите ќе се вратат на својата граница.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a376f08c9d7f899c2c8e8ac50c0b0b5ae1a6749ce6dc3be31292fabfd22fff8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/31\/17-20.1792450870333.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והש",
+      "gloss": "и има"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "надеж"
+    },
+    {
+      "surface": "לאחריתך",
+      "gloss": "за твојата иднина"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "и ќе се вратат"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "לגבולם",
+      "gloss": "на својата граница"
+    }
+  ],
+  "timestamp": "2026-10-19T23:01:10.333983991Z",
+  "model": "glm-5.3"
+}

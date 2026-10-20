@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 12:4",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יראה",
+      "rationale": "подмет е испуштен: „Тој (Јахве) нема да го види“ — некои читаат „ние нема да видиме“."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "македонската синтакса бара помошна реченица-врска пред „во неа“."
+    }
+  ],
+  "translation": "До кога ќе тагува земјата и ќе пресуши тревата на целото поле? Од злото на жителите ⟨е⟩ во неа — загинаа добиток и птици, зашто рекоа: Тој нема да го види ⟨את⟩ нашиот крај.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9dab1baf5af0687d2c37826ffe32aaa84013f11b9a5ff62d329da27cb5749440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/12\/1-4.1792450605057.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "колку време"
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "ќе тагува"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "и ќе пресуши тревата"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целото"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поле"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "пресуши"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "од злото"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "на жителите"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во неа"
+    },
+    {
+      "surface": "ספתה",
+      "gloss": "загинаа"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "добиток"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "и птици"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "рекоа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ќе види"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нашиот крај"
+    },
+    {
+      "surface": "אחריתנו",
+      "gloss": "нашиот крај"
+    }
+  ],
+  "timestamp": "2026-10-19T22:56:45.058616262Z",
+  "model": "glm-5.3"
+}

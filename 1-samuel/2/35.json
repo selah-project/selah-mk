@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 2:35",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нефшата",
+      "rationale": "נפש е здив\/жivotна сила, не душа во подоцнежна смисла — задржано со звук"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נאמן…נאמן",
+      "rationale": "Повторување: верен свештеник — верен дом, играта на коренот אמן се губи"
+    },
+    {
+      "kind": "crux",
+      "subject": "мојот помазаник",
+      "rationale": "משיחי — царот (Соломон) или иден машиах; преведувачите се делат"
+    }
+  ],
+  "translation": "И ќе подигнам за Себе верен свештеник; како што е во срцето Мое и во нефшата Моја ќе прави; и ќе му изградам верен дом, и тој ќе оди пред мојот помазаник сите дни.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2f6d5e463a7d1b9aeaa99aad66c03e61704433ce07f10e17a5e801aa44e52334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/2\/34-36.1792447859872.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקימתי",
+      "gloss": "И ќе подигнам"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за Себе"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "верен"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "во срцето Мое"
+    },
+    {
+      "surface": "ובנפשי",
+      "gloss": "и во нефшата Моја"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ќе прави"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "и ќе изградам"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "верен"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "и ќе оди"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "משיחי",
+      "gloss": "мојот помазаник"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "денови"
+    }
+  ],
+  "timestamp": "2026-10-19T22:10:59.874533614Z",
+  "model": "glm-5.3"
+}

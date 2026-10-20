@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "престојуваше",
+      "rationale": "וישב буквално 'седнаше\/живееше' — за предмет се избира 'престојуваше'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "три месеци",
+      "rationale": "точна временска мерка на престојот на ковчегот"
+    }
+  ],
+  "translation": "И престојуваше ковчегот на Елохим кај домот на Овед-Едом, во домот негов, три месеци; и Јахве го благослови ⟨את⟩ домот на Овед-Едом и ⟨את⟩ сè што имаше тој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "af5d31a21834212420a5cd6544984cbf1d518d486195f5b37fe4750c819ebc7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/13\/13-14.1792457037171.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и престојуваше"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчегот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "עם",
+      "gloss": "кај"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Овед-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Едом"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "во домот негов"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "месеци"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "и го благослови"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "домот на Овед-Едом"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Овед-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Едом"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сè што имаше тој"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לו",
+      "gloss": "имаше тој"
+    }
+  ],
+  "timestamp": "2026-10-20T00:43:57.171890710Z",
+  "model": "glm-5.3"
+}

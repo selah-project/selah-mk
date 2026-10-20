@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нефеш",
+      "rationale": "נפש е грло\/дах\/животна сила, не бесмртна душа"
+    },
+    {
+      "kind": "invitation",
+      "subject": "молитба",
+      "rationale": "директен повик до Јахве — императив 'избави'"
+    }
+  ],
+  "translation": "Јахве, избави ја мојата нефеш од усни на лага, од јазик измамен.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b108509a34098b717f606829818a4d5ea29c52490a7b38e16d0cb090d829696a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/120\/1-4.1792454045495.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "избави"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "мојата нефеш"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "од усни"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "на лага"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "од јазик"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "измамен"
+    }
+  ],
+  "timestamp": "2026-10-19T23:54:05.498414610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "на острицата",
+      "rationale": "פנים е 'лице' — лицето на железото, острицата"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחילים יגבר",
+      "rationale": "'силите ќе надвладеат' — без личен подмет; традицијата: 'мора да вложи повеќе сила'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "внесува ред",
+      "rationale": "הכשיר е 'да направи да успее\/да биде во ред' — збор од храмскиот речник за пригодност"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨треба⟩",
+      "rationale": "хебрејскиот вели само 'и сили ќе надвладеат', македонскиот бара глагол"
+    }
+  ],
+  "translation": "Ако е тапо железото и тоа не е наточено на острицата, тогаш ⟨треба⟩ повеќе сили; но користа носи мудроста што внесува ред.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "77409f50db2dd2ba88e0b079de9765595825d46c2c0e3b326febddcd0d69b0f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/10\/9-12.1792455742063.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "тапо"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "железото"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и тоа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "на острицата"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "наточено"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "повеќе сили"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "треба"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "користа"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "внесува ред"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудроста"
+    }
+  ],
+  "timestamp": "2026-10-20T00:22:22.064614866Z",
+  "model": "glm-5.3"
+}

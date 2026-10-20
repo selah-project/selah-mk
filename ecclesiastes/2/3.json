@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 2:3",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תרתי",
+      "gloss": "разгледував",
+      "rationale": "מתור\/תור — 'разгледував во срцето' (KJF 'I sought in mine heart') vs 'направив обиколка'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "למשוך ביין את בשרי",
+      "rationale": "'да го вовлечам телото во вино' — слика на препуштање, не само 'да ги развеселам'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "מספר ימי חייהם",
+      "rationale": "бројот на дните на животот — одбројување на животниот век"
+    }
+  ],
+  "translation": "Разгледував во срцето свое да го повлечам ⟨את⟩ телото свое со вино, а срцето мое водено со мудрост, и да фатам глупост, додека не видам кое е доброто за синовите на човекот што ќе прават под небото, во бројот на дните на животот нивни.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2da1288e19257dbd17f2a221370d43981aa409a8b2038fce826468db28841a95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/2\/1-4.1792455712460.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרתי",
+      "gloss": "Разгледував"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "во срцето свое"
+    },
+    {
+      "surface": "למשוך",
+      "gloss": "да повлечам"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "со вино"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "телото свое"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "телото свое"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "а срцето мое"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "водено"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "со мудрост"
+    },
+    {
+      "surface": "ולאחז",
+      "gloss": "и да фатам"
+    },
+    {
+      "surface": "בסכלות",
+      "gloss": "глупост"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека не"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "видам"
+    },
+    {
+      "surface": "אי",
+      "gloss": "кое"
+    },
+    {
+      "surface": "זה",
+      "gloss": "е"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "доброто"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "за синовите"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "на човекот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ќе прават"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небото"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "во бројот"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "на дните"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "на животот нивни"
+    }
+  ],
+  "timestamp": "2026-10-20T00:21:52.461135864Z",
+  "model": "glm-5.3"
+}

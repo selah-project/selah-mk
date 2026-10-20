@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 21:37",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "изгорување",
+      "rationale": "לאכלה е 'за јадење\/храна' — огнот 'ја јаде' жртвата; буквата слика е изгубена"
+    },
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот бара возвратна честица кај 'спомнеш'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהיה\/יהיה",
+      "rationale": "двоен повтор на 'да бидеш' — наговестен ритам на пресуда"
+    }
+  ],
+  "translation": "За оган ќе бидеш ⟨за⟩ ⟨изгорување⟩; крвта твоја ќе биде посред ⟨земјата⟩; нема да ⟨се⟩ спомнеш повеќе, зашто јас, Јахве, зборував.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1dae85b6a4b36da4122b25b01a2124369163b40f45b9a57f07887e4e15acae7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/21\/37-37.1792451600857.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאש",
+      "gloss": "за оган"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ќе бидеш"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "за изгорување"
+    },
+    {
+      "surface": "דמך",
+      "gloss": "крвта твоја"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "посред"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "да се спомнеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "зборував"
+    }
+  ],
+  "timestamp": "2026-10-19T23:13:20.858299445Z",
+  "model": "glm-5.3"
+}

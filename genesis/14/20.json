@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 14:20",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема глагол во благословот"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨тој⟩",
+      "rationale": "хебрејскиот велат само „и даде нему“ — предметот Аврам е даден од контекстот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "мגן",
+      "rationale": "буквално „Кој ги штити\/заштитува“ — глаголот е од коренот „штит“, предаден функционално како „ги предаде“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "מעשר",
+      "rationale": "првото споменување на десетокот во Танах — десеток од сè"
+    }
+  ],
+  "translation": "И благословен ⟨е⟩ Ел Елион, Кој ги предаде твоите непријатели во твојата рака. И му даде ⟨тој⟩ десеток од сè.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "55782f98672e34f12ed78adb37df45ab31634aaacdd170a11cdd72f6bad8e439",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/14\/17-20.1792442536456.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "И благословен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Елион"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "мגן",
+      "gloss": "ги предаде"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "твоите непријатели"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "во твојата рака"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "И даде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "десеток"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од сè"
+    }
+  ],
+  "timestamp": "2026-10-19T20:42:16.473609363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 9:22",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה השלום",
+      "rationale": "букв. 'Што е мирот?' — во македонски 'Кој мир \/ Каков мир', прашална идиоматика."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот е именски сбор без глагол; македонскиот бара сврзник."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זנוני",
+      "rationale": "зенуним значи и брачен блуд и идолопоклонство — двослојноста останува во 'блуд'."
+    }
+  ],
+  "translation": "И биде, кога виде Јехорам ⟨את⟩ Јеху, дека рече: Мир ли, Јеху? А тој рече: Кој мир, сè додека блудот на Извел, мајка ти, и враџбите нејзини многубројни ⟨се⟩?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6e08c13c6eea06220d2fe36fab3f459c0df57f34336b0060fa3f07b1fd67b1ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/9\/21-24.1792449219316.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "кога виде"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Јехорам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јеху"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Јеху"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Мир ли"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Јеху"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "а тој рече"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "עד",
+      "gloss": "сè додека"
+    },
+    {
+      "surface": "זנוני",
+      "gloss": "блудот"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "на Извел"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "мајка ти"
+    },
+    {
+      "surface": "וכשפיה",
+      "gloss": "и враџбите нејзини"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "многубројни"
+    }
+  ],
+  "timestamp": "2026-10-19T22:33:39.317579154Z",
+  "model": "glm-5.3"
+}

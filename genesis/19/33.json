@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "не знаеше",
+      "rationale": "ידע е 'да знаее\/сознае' — буквално 'не позна ниту во нејзиното ложење ниту во нејзиното станање'"
+    },
+    {
+      "kind": "addition",
+      "subject": "кога",
+      "rationale": "хебрејскиот користи инфинитивни конструкции בשכבה ובקומה без сврзник за време"
+    }
+  ],
+  "translation": "И таа ноќ го напоја со вино ⟨את⟩ нивниот татко, и влезе првородената и легна со ⟨את⟩ нејзиниот татко, а тој не знаеше кога таа легна и кога стана.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "7cfec6dd6b205fc3e5aae81cf9b4c0d9e204b2d679f9eade2d98445ac4ef69de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/19\/33-36.1792442653946.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "напоја"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нивниот татко"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "нивниот татко"
+    },
+    {
+      "surface": "יין",
+      "gloss": "со вино"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ноќта"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "влезе"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "првородената"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "легна"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нејзиниот татко"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "нејзиниот татко"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знаеше"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "кога легна"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "кога стана"
+    }
+  ],
+  "timestamp": "2026-10-19T20:44:13.947868880Z",
+  "model": "glm-5.3"
+}

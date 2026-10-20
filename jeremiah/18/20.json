@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 18:20",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפש е ближе до „живот\/грло\/животна сила“"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ископаа јама",
+      "rationale": "כרו שוחה — слика на стапица, задржана буквално"
+    }
+  ],
+  "translation": "Се плаќа ли зло наместо добро? Зашто ископаа јама за душата моя. Сети се како стоев пред тебе, да зборувам добро за нив, за да го вратам ⟨את⟩ гневот твој од нив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f28e2a20d7bd0333349ab565ccfe0b0a8eda01435f207de0e96aafb93d1f1d35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/18\/17-20.1792450628876.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הישלם",
+      "gloss": "се плаќа ли"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "наместо"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добро"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "ископаа"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "јама"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "за душата моя"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "сети се"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "стоев"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред тебе"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "да зборувам"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "за нив"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добро"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "за да го вратам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гневот твој"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "гневот твој"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "од нив"
+    }
+  ],
+  "timestamp": "2026-10-19T22:57:08.878533819Z",
+  "model": "glm-5.3"
+}

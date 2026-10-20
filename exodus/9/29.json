@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 9:29",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "громовите",
+      "rationale": "הקלות е буквално „гласовите“ — македонскиот бара именка за звук"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула во „на Јахве земјата“"
+    },
+    {
+      "kind": "you",
+      "subject": "до фараонот",
+      "rationale": "Моше му се обраќа директно на фараонот: „за да знаеш дека на Јахве е земјата“"
+    }
+  ],
+  "translation": "И Моше му рече: Штом излезам од ⟨את⟩ градот, ќе ги раширам ⟨את⟩ дланките мои кон Јахве — громовите ќе престанат и град ⟨нема⟩ да биде повеќе, за да знаеш дека на Јахве ⟨е⟩ земјата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9d9cb39a020eb3639644816e5a1bf636d888db99f0235e15b7c9f8f63d613f7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/9\/29-32.1792443422985.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כצאתי",
+      "gloss": "штом излезам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "градот"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "אפרש",
+      "gloss": "ќе раширам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дланките мои"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "дланките мои"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "громовите"
+    },
+    {
+      "surface": "יחדלון",
+      "gloss": "ќе престанат"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "и град"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "да биде"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "знаеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T20:57:02.991493263Z",
+  "model": "glm-5.3"
+}

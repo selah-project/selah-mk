@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Им",
+      "rationale": "македонскиот бара дативен клитик за享受да гласи прирокот"
+    }
+  ],
+  "translation": "Им дава на добитокот храната негова, на младите гаврани што повикуваат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/147\/9-12.1792454209772.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "дава"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "на добитокот"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "храната негова"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на младите"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "гаврани"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יקראאו",
+      "gloss": "повикуваат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:56:49.772652574Z",
+  "model": "glm-5.3"
+}

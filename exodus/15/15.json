@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 15:15",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אילי",
+      "rationale": "איל е ' rlak' — сила\/бик, па 'силните'; 'моќните' ја чува сликата"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלופי\/אילי",
+      "rationale": "два сродни збора за водачи — 'пријатели\/кнезови' и 'силни\/бикови' — паралелизам изедначен во македонскиот"
+    }
+  ],
+  "translation": "Тогаш се збунуваа кнезовите на Едом, моќните на Моав — трепет ги фати, стопија сите жители на Кенаан.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5d5880446f42d199b77501d752a853253a71a0302e165e3d0d32c31637ba0d42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/15\/13-16.1792443500454.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тогаш"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "се збунуваа"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "кнезовите на"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    },
+    {
+      "surface": "אילי",
+      "gloss": "моќните на"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "יאחזמו",
+      "gloss": "ги фати"
+    },
+    {
+      "surface": "רעד",
+      "gloss": "трепет"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "стопија"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жителите на"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    }
+  ],
+  "timestamp": "2026-10-19T20:58:20.460827015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 6,
+  "translation": "А ⟨את⟩ подот на домот го обложи со злато, одвнатре и однадвор.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "da6eafa4ad6c1b2b83f07e3d7d8b12efd0db58e82794e3d129c17b74f53b2516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/6\/29-32.1792448635966.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "подот на домот"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "подот"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "обложи"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "одвнатре"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "и однадвор"
+    }
+  ],
+  "timestamp": "2026-10-19T22:23:55.968763075Z",
+  "model": "glm-5.3"
+}

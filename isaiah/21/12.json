@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תבעיון בעיו",
+      "rationale": "Истиот корен בעה двапати — „ако барате, барајте“ — повторување како услов, задржано."
+    },
+    {
+      "kind": "crux",
+      "subject": "בקר וגם לילה",
+      "rationale": "Утрото доаѓа, а и ноќ — редот е гатлив: дали ноќта следи по утрото, или е уште ноќ?"
+    },
+    {
+      "kind": "invitation",
+      "subject": "повикот „вратите се, дојдете“",
+      "rationale": "Стражарот завршува со повик за враќање — отворен до крајот на стихот."
+    }
+  ],
+  "translation": "Рече стражарот: Доаѓа утро, а и ноќ. Ако барате, барајте; вратите се, дојдете.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "57878eca1b3aa738706909bb55e4ff59290939101f10add5d90986cf7df15de3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/21\/9-12.1792449807532.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Рече"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "стражарот"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Доаѓа"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "утро"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "а и"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноќ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "барате"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "барајте"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "вратите се"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "дојдете"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:27.536178808Z",
+  "model": "glm-5.3"
+}

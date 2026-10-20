@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 3:18",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Хебрејскиот нема копула."
+    },
+    {
+      "kind": "crux",
+      "subject": "מאשר",
+      "rationale": "Корен אשר значи и 'прав\/рамен' и 'среќен'; традицијата дели 'блажен' наспроти 'среќен'."
+    }
+  ],
+  "translation": "Дрво на живот ⟨е⟩ таа за оние што се држат за неа, и оние што ја поддржуваат ⟨се⟩ среќни.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2c00e03554356e4ffe22ae69de5b7b63f08a53be63d49413389d9724bc38fe0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/3\/17-20.1792454309449.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עץ",
+      "gloss": "Дрво"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "на живот"
+    },
+    {
+      "surface": "היא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "למחזיקים",
+      "gloss": "за оние што се држат"
+    },
+    {
+      "surface": "בה",
+      "gloss": "за неа"
+    },
+    {
+      "surface": "ותמכיה",
+      "gloss": "и оние што ја поддржуваат"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "среќни"
+    }
+  ],
+  "timestamp": "2026-10-19T23:58:29.450058314Z",
+  "model": "glm-5.3"
+}

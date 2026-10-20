@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хатаат",
+      "rationale": "חטאת значи и грев и жртва за грев; задржан хебрејскиот термин"
+    }
+  ],
+  "translation": "еден јарец од козите за жртва за грев ⟨хатаат⟩.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c846c29cdc00f52bdd43dc2eaa122f53da1229b0a0b968d0f135893ae8328980",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/7\/13-16.1792444657164.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "јарец"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "од козите"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за хатаат"
+    }
+  ],
+  "timestamp": "2026-10-19T21:17:37.166407139Z",
+  "model": "glm-5.3"
+}

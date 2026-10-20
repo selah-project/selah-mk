@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 18:15",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "и ги споткнаа",
+      "rationale": "ויכשלום: кој спотнува — 'тие ги направи да се споткнат' или 'беа спотнати'; некои читаат 'нивните лажни пророци'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "на празното",
+      "rationale": "לשוא — 'празнина\/ништожност', односно идолите"
+    }
+  ],
+  "translation": "Зашто народот мој ме заборави, на празното пуштаат кад, и ги споткнаа во патиштата свои, во вечните-стапки, за да одат по стеги, по пат не утепан.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "70f6398f96cfbcdf984f978fe9fece1f71e4c77e2ff7f588feecc75f3f60160a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/18\/13-16.1792450655025.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "ме-заборави"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народот-мој"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "на-празното"
+    },
+    {
+      "surface": "יקטרו",
+      "gloss": "пуштаат-кад"
+    },
+    {
+      "surface": "ויכשלום",
+      "gloss": "и-ги-споткнаа"
+    },
+    {
+      "surface": "בדרכיהם",
+      "gloss": "во-патиштата-свои"
+    },
+    {
+      "surface": "שבילי",
+      "gloss": "во-стапките"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечните"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "за-да-одат"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "по-стеги"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "סלולה",
+      "gloss": "утепан"
+    }
+  ],
+  "timestamp": "2026-10-19T22:57:35.026306806Z",
+  "model": "glm-5.3"
+}

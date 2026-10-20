@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כס",
+      "rationale": "רache буквално 'престол' (скратено од כסא), но некои читаат 'се заколна' (од נשבע со паузално כה) — 'Јахве се заколна'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩\/членот",
+      "rationale": "безглаголска реченица — македонскиот бара сврзник '—' наместо копула"
+    }
+  ],
+  "translation": "И рече: Зашто рака врз престолот на Јах — војна на Јахве против Амалек од род на род.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1954886aa6b4636e41f652343acf47fdb9f1cf61858f53f02a5207633bfe44c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/17\/13-16.1792443582947.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рака"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "כס",
+      "gloss": "престолот"
+    },
+    {
+      "surface": "יה",
+      "gloss": "на Јах"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "војна"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "против Амалек"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "од род"
+    },
+    {
+      "surface": "דר",
+      "gloss": "на род"
+    }
+  ],
+  "timestamp": "2026-10-19T20:59:42.953900082Z",
+  "model": "glm-5.3"
+}

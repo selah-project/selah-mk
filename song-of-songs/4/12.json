@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула; македонскиот ја дода"
+    }
+  ],
+  "translation": "Затворена градина ⟨е⟩ сестра моја, невеста; затворен извор, чешма запечатена.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7a2a9c92046694a69539c3aea71f8f4827609e0a3e5b511146650f2e67b3601c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/song-of-songs\/4\/9-12.1792455434096.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "градина"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "затворена"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "сестра моја"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "невеста"
+    },
+    {
+      "surface": "גל",
+      "gloss": "извор"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "затворен"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "чешма"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "запечатена"
+    }
+  ],
+  "timestamp": "2026-10-20T00:17:14.097493975Z",
+  "model": "glm-5.3"
+}

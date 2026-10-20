@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 50:4",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הלוך ובכו ילכו",
+      "rationale": "инфинитив-апсолутен: 'одејќи-плачејќи ќе одат' — повторување на коренот הלך, задржан буквално"
+    },
+    {
+      "kind": "addition",
+      "subject": "Го",
+      "rationale": "македонскиот бара клитичкисловен акузатив 'Го' пред глаголот"
+    }
+  ],
+  "translation": "Во тие дни и во тоа време, вели Јахве, ќе дојдат синовите на Јисраел, тие и синовите на Јуда заедно; одејќи и плачејќи ќе одат, и ⟨את⟩ Јахве, својот Елохим, ќе Го бараат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d55672d5650b3836775db1dff3fe2beb61d8864d98793a5e56edc185d94e72d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/50\/1-4.1792451296721.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Во тие дни"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "и во тоа време"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ќе дојдат"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синовите на"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуда"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заедно"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "одејќи"
+    },
+    {
+      "surface": "ובכו",
+      "gloss": "и плачејќи"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ќе одат"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве, својот Елохим"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "својот Елохим"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "ќе Го бараат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:08:16.723365075Z",
+  "model": "glm-5.3"
+}

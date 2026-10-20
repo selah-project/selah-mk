@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 16:16",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חמרמרה",
+      "rationale": "двоен интензив од „кипи\/црвее“ — „распаднато“ (KJV foul) наспроти „зачервено“ (JPS reddened)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сенката на смртта",
+      "rationale": "צלמות е счпоредлив сложен збор сенка-смрт, задржан буквално"
+    }
+  ],
+  "translation": "Лицето ми е црвено-запалено ⟨од⟩ плач, и врз клепките мои е сенката на смртта.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8552818e8be4d4a25762ee92f9e05ae2d078abb39d5dd6cc265d2059fc2b2a51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/16\/13-16.1792455032833.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "лицето мое"
+    },
+    {
+      "surface": "חמרמרה",
+      "gloss": "црвено-запалено е"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨од⟩"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "плач"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "עפעפי",
+      "gloss": "клепките мои"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "сенката на смртта"
+    }
+  ],
+  "timestamp": "2026-10-20T00:10:32.834156877Z",
+  "model": "glm-5.3"
+}

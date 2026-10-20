@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 35:34",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "подмет на 'даде'",
+      "rationale": "хебрејскиот не го именува дарителот — од контекстот (Елохим, 35:31) се надополнува"
+    }
+  ],
+  "translation": "и да поучува — даде во срцето негово; тој и Охолиав, син на Ахисамах, од племето Дан.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "bb4a99d5954529826d07146f45b3b90841895a8d76874d64a185a3cd67146b83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/35\/33-35.1792443948820.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "и да поучува"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "во срцето негово"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "ואהליאב",
+      "gloss": "и Охолиав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אחיסמך",
+      "gloss": "на Ахисамах"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "од племето"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    }
+  ],
+  "timestamp": "2026-10-19T21:05:48.824925884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Македонскиот бара сврзник во восклицното Kolku e srećen, хебрејскиот אשרי е меѓузвик"
+    },
+    {
+      "kind": "you",
+      "subject": "до оној што се бои од Јахве",
+      "rationale": "Макар формално во трето лице, стиховите 128:1–4 се обраќаат директно на благословениот (2. лице во 2–3)"
+    }
+  ],
+  "translation": "Песна на искачувањата. Колку ⟨е⟩ среќен секој што се бои од Јахве, што оди по неговите патишта!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d7566107d30fc2a0d4cee36675931758fde9a219fd50cc777995d4bd37a500fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/128\/1-4.1792454085058.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Песна"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "на искачувањата"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "колку е среќен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "што се бои"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "од Јахве"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "што оди"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "по неговите патишта"
+    }
+  ],
+  "timestamp": "2026-10-19T23:54:45.058974980Z",
+  "model": "glm-5.3"
+}

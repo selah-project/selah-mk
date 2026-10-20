@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "блажени",
+      "rationale": "אשר букв. „прав\/успешен“ — паралел со „среќни“ кај другите преводи"
+    }
+  ],
+  "translation": "И сите народи ќе ⟨את⟩ ве нарекат блажени, зашто вие ќе бидете земја желена, вели Јахве Цеваот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7869b4484f1b0924d93326df9b8014ff445340ad2366923682c12b2edf813e7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/malachi\/3\/9-12.1792452856901.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "ќе нарекат блажени"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ќе бидете"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "желена"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:34:16.902900463Z",
+  "model": "glm-5.3"
+}

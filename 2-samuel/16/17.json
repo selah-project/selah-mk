@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хеседот",
+      "rationale": "חסד е 'хесед' — верност кон договорен пријател, не општа љубезност"
+    },
+    {
+      "kind": "addition",
+      "subject": "со",
+      "rationale": "вториот את е придавка 'со', а не показателен член на објект"
+    }
+  ],
+  "translation": "И Авшалом рече на Хушај: Ова ли е хеседот твој кон ⟨את⟩ пријателот твој? Зошто не отиде со ⟨את⟩ пријателот твој?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a5dada841d873b00fd59d8a13bdecf5a536ba3c14fa74285ef6a9dcf02ae47eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/16\/17-20.1792448314029.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Хушај"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседот твој"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пријателот твој"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "пријателот твој"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "отиде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пријателот твој"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "пријателот твој"
+    }
+  ],
+  "timestamp": "2026-10-19T22:18:34.030213397Z",
+  "model": "glm-5.3"
+}

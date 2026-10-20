@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 21:19",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "нему да Mu ja врати",
+      "rationale": "ישלם אליו — Јов го цитира говорот на пријателите („Елоах ја чува казната за синовите“) и возвраќа: нека плати нему самиот; ASV\/JPS\/BSB гледаат цитат+приговор, KJV го чита рамно."
+    },
+    {
+      "kind": "substitution",
+      "subject": "неволја",
+      "rationale": "אונו од און — ништожност\/зло\/неволја; слика на празнина што се чува како ладно."
+    }
+  ],
+  "translation": "Елоах ја сокрива неволјата негова за синовите негови; нему да Mu ja врати, и тој ќе знае.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e4ec48aff828a92e00a6ede866ee161b968ba5bf2e1d4652bf9ddd7d68ab7197",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/21\/17-20.1792455123959.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "Елоах"
+    },
+    {
+      "surface": "יצפן",
+      "gloss": "ја сокрива"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "за синовите негови"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "неволјата негова"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "да врати"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "и тој ќе знае"
+    }
+  ],
+  "timestamp": "2026-10-20T00:12:03.960524894Z",
+  "model": "glm-5.3"
+}

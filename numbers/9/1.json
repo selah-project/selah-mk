@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 9:1",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "му",
+      "rationale": "Хебрејскиот нема дативен заменски суфикс при אל; македонскиот бара примач"
+    }
+  ],
+  "translation": "И Јахве му зборуваше на Моше во пустината Синај, во втората година по нивното излегување од земјата Мицраим, во првиот месец, велејќи:",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ce9e7835df5b90f08726f5addab408b39b5709056e758b0bffd17ea91f56ee3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/9\/1-4.1792444717324.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И зборуваше"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "во пустинал"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синај"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "во година"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "втората"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "по нивното излегување"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "во месец"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "првиот"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    }
+  ],
+  "timestamp": "2026-10-19T21:18:37.325376882Z",
+  "model": "glm-5.3"
+}

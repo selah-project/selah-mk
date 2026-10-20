@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 2:18",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בת עינך",
+      "rationale": "буквално 'ќерко на окото твое' — традицијата чита 'јаболко на окото'; задржав буквалната слика"
+    },
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот возвратен глагол бара се, хебрејскиот го нема"
+    },
+    {
+      "kind": "invitation",
+      "subject": "кон Сион",
+      "rationale": "директен повик со императиви — плачи дење и ноќе"
+    }
+  ],
+  "translation": "Извика срцето нивно кон Адонај: ѕидино на ќерката Сионска, пушти како поток солзи, дење и ноќе; не дај ⟨се⟩ престанок себеси, не замолчи, ќерко на окото твое!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "13cb371b29f9272157f600113cf8dea5bffccb387d8747d72a61f4b7426704ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/2\/17-20.1792455532077.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צעק",
+      "gloss": "извика"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "срцето нивно"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ѕидино"
+    },
+    {
+      "surface": "בת",
+      "gloss": "на ќерката"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сионска"
+    },
+    {
+      "surface": "הורידי",
+      "gloss": "пушти да тече"
+    },
+    {
+      "surface": "כנחל",
+      "gloss": "како поток"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "солзи"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "дење"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "и ноќе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתני",
+      "gloss": "дај"
+    },
+    {
+      "surface": "פוגת",
+      "gloss": "престанок"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себеси"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדם",
+      "gloss": "замолчи"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерко"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "на окото твое"
+    }
+  ],
+  "timestamp": "2026-10-20T00:18:52.078920060Z",
+  "model": "glm-5.3"
+}

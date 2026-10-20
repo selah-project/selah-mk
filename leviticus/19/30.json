@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "почитувајте",
+      "rationale": "תיראו букв. „бојте се“; паралелно со 19:3 — тука „почитувај“ за да се разликува од страв."
+    },
+    {
+      "kind": "addition",
+      "subject": "сум",
+      "rationale": "хебрејскиот нема глагол-врска во „јас Јахве“."
+    }
+  ],
+  "translation": "⟨את⟩ Моите шабати пазете ги, и Моето светилиште почитувајте го: јас ⟨сум⟩ Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ef616b3eff02c2498714c46f417749b1024a742b318cd57e4444a415f5f0092d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/19\/29-32.1792444422312.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моите шабати"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Моите шабати"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "пазете"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "и Моето светилиште"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "почитувајте (бојте се)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:13:42.314139260Z",
+  "model": "glm-5.3"
+}

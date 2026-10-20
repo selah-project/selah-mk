@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 2:15",
+  "book": "amos",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וקל\/מקל",
+      "rationale": "Коренот קלל 'лесен\/брз' ги поврзува ст. 14 и 15 — македонскиот мора да избере меѓу 'лесен' и 'брз'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "душата своја",
+      "rationale": "נפש како животна сила — 'себе си' е поблиска смисла."
+    }
+  ],
+  "translation": "и оној што држи лак нема да устои, и лесниот на нозете нема да ⟨се⟩ спаси, и јавачот на коњ нема да ја спаси душата своја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3400542624ddd8f06834b2537a23ae028b6fbca21d99a829049939fc0db559ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/amos\/2\/13-16.1792452367799.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפש",
+      "gloss": "и оној што држи"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "лакот"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "да устои"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "и лесниот"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "на нозете"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "да се спаси"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "и јавачот"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "на коњ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "да ја спаси"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душата своја"
+    }
+  ],
+  "timestamp": "2026-10-19T23:26:07.799870272Z",
+  "model": "glm-5.3"
+}

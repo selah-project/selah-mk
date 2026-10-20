@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 3:12",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על ידו",
+      "rationale": "буквално 'над раката негова' — 'покрај него', дадено смислово."
+    },
+    {
+      "kind": "crux",
+      "subject": "ќерките негови",
+      "rationale": "ובנותיו буквално 'и ќерките негови' — некои преводи (Wycliffe) погрешно 'синовите'; текстот вели ќерки."
+    }
+  ],
+  "translation": "И покрај него го зацврсти Шалум, син на Халоеш, старешина на половина округ на Јерушалаим, тој и ќерките негови.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6f8dcd4e6dbe3d6412043f02af143f99cc1b600a239ea31695d9f4396ca47810",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/3\/9-12.1792456488329.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "И покрај"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "него"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "го зацврсти"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шалум"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "הלוחש",
+      "gloss": "на Халоеш"
+    },
+    {
+      "surface": "שר",
+      "gloss": "старешина"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "на половина"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "округ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "на Јерушалаим"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "ובנותיו",
+      "gloss": "и ќерките негови"
+    }
+  ],
+  "timestamp": "2026-10-20T00:34:48.330881120Z",
+  "model": "glm-5.3"
+}

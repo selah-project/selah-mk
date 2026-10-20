@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 1:40",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מחללים בחללים",
+      "rationale": "игра на зборови 'свират-со-свирки' — ист корен חלל, изгубена во македонски"
+    },
+    {
+      "kind": "idiom",
+      "subject": "се расцепи земјата",
+      "rationale": "хипербола за неверојатна бучава — букв. 'земјата се расцепи'"
+    }
+  ],
+  "translation": "И се искачи сиот народ по него, а народот свиреше со свирки и се радуваше радост голема, и се расцепи земјата од гласот нивни.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6561b2ec2175bd463c3a49a1ee05f955c81992c8af60e91b029366e1c5635614",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/1\/37-40.1792448505701.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "и се искачи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сиот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "по него"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "а народот"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "свиреше"
+    },
+    {
+      "surface": "בחללים",
+      "gloss": "со свирки"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "и се радуваше"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радост"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "голема"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "и се расцепи"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "од гласот нивни"
+    }
+  ],
+  "timestamp": "2026-10-19T22:21:45.704130459Z",
+  "model": "glm-5.3"
+}

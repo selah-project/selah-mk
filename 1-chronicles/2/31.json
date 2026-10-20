@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "родословие",
+      "rationale": "Список на родови — generaLOŠкото броене на потомците на Јерахмеел"
+    }
+  ],
+  "translation": "А синовите на Афајим — Иши; а синовите на Иши — Шешан; а синовите на Шешан — Ахлај.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e7be342f221411014e5b1b89b12217c8ecf916c6415a43ddfc22a832b009af3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/2\/29-32.1792456803337.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синовите"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "на Афајим"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Иши"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "а синовите"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "на Иши"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Шешан"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "а синовите"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "на Шешан"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Ахлај"
+    }
+  ],
+  "timestamp": "2026-10-20T00:40:03.338034671Z",
+  "model": "glm-5.3"
+}

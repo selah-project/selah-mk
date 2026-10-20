@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "престојува",
+      "rationale": "גּוּר значи 'гости, престојува како доселеник' — не само 'живееше'"
+    },
+    {
+      "kind": "addition",
+      "subject": "си",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Зашто",
+      "rationale": "כי може и 'де' — 'не си де Ел што сака беззаконие'"
+    }
+  ],
+  "translation": "Зашто ти не си Ел што сака беззаконие; злото нема да престојува кај тебе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c051fc4b02dfeab5281d256f13d2732f51be7285321fe6f50be3567b9473ab6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/5\/5-8.1792452950896.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "што сака"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "беззаконие"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "ќе престојува кај тебе"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злото"
+    }
+  ],
+  "timestamp": "2026-10-19T23:35:50.897146208Z",
+  "model": "glm-5.3"
+}

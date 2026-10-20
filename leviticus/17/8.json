@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 17:8",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "приносува",
+      "rationale": "יעלה буквално „качува“ — слика на жртва што се качува во чад; замена со стандарден глагол."
+    },
+    {
+      "kind": "you",
+      "subject": "до Моше и до народот",
+      "rationale": "заповед упатена преку Моше — „на нив ќе им речеш“."
+    }
+  ],
+  "translation": "И на нив ќе им речеш: секој човек од домот Јисраелов и од доселеникот што пребива меѓу нив, што принесува сепалобна жртва или жртва —",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "de48ba182fb91562d1681de799cd0dbc1ad5ec98604db5f6aa1bb830053597a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/17\/5-8.1792444365171.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלהם",
+      "gloss": "И на нив"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ќе им речеш"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "од домот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелов"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "доселеникот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "пребива"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "меѓу нив"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "приносува"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "сепалобна жртва"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жртва"
+    }
+  ],
+  "timestamp": "2026-10-19T21:12:45.174297922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 27:5",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "од возраст од",
+      "rationale": "מבן חמש שנים буквално 'од син на пет години' — хебрејскиот мерка човек како 'син на' години"
+    },
+    {
+      "kind": "measurement",
+      "subject": "дваесет шекели",
+      "rationale": "возрасни групи со фиксна парична вредност — табела на проценки"
+    }
+  ],
+  "translation": "И ако е од возраст од пет години до дваесет години, тогаш вредноста твоја за мажот да биде дваесет шекели, а за жената десет шекели.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0712f58046de051d51708ccb7e71e54d31c3903fe3ea7833994f374b3602863f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/27\/5-8.1792444555757.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "од возраст од"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בן",
+      "gloss": "возраст на"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "дваесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "тогаш да биде"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "вредноста твоја"
+    },
+    {
+      "surface": "הזכר",
+      "gloss": "за мажот"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "дваесет"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "шекели"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "а за жената"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "десет"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "шекели"
+    }
+  ],
+  "timestamp": "2026-10-19T21:15:55.758457809Z",
+  "model": "glm-5.3"
+}

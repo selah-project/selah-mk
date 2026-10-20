@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 6:29",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "левата страна",
+      "rationale": "השמאול е буквално „север\/лево“ — со ориентација кон исток, лево е север."
+    },
+    {
+      "kind": "measurement",
+      "subject": "родословие",
+      "rationale": "Список на имиња — генеалогија на Мераревите левити."
+    }
+  ],
+  "translation": "А синовите на Мерари, нивните браќа, на левата страна: Етан, син Кишин, син на Авди, син Малухов.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "45d46dc1a6cc20005cf05b5001f306204bade45b3c0834607e52298ea39547d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/6\/29-32.1792456868697.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синовите"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "на Мерари"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "нивните браќа"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "левата страна"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "Етан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "קישי",
+      "gloss": "Кишин"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Авди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "Малухов"
+    }
+  ],
+  "timestamp": "2026-10-20T00:41:08.697545267Z",
+  "model": "glm-5.3"
+}

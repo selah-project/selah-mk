@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צוד צדוני",
+      "rationale": "инфинитивен апсолутен 'лов ловија' — повторување на коренот, загубано во македонскиот"
+    },
+    {
+      "kind": "mystery",
+      "subject": "без причина",
+      "rationale": "невиниот прогон — поврзано со жалбата пред Јахве"
+    }
+  ],
+  "translation": "Како птица ме ловија непријателите мои — без причина.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b27ac5f8c92b894d6f00ba7c9cd999629b9ae2e8299a36f7f65c4c7b8ed72f11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/3\/49-52.1792455619914.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "лов"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "ме ловија"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "како птица"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "непријателите мои"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "без причина"
+    }
+  ],
+  "timestamp": "2026-10-20T00:20:19.915016953Z",
+  "model": "glm-5.3"
+}

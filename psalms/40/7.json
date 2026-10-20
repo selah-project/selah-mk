@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אזנים כרית לי",
+      "rationale": "'уши Ми изdzeva\/прокопа' — LXX чита 'тело Mi приготвив'; буквално: отвори\/обележа ухо за слушање (сп. Втор. 15:17, роб со пробиено ухо)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ухо ми прокопа",
+      "rationale": "метафора за заврзаност со слушање\/послушност, не за физичко копање"
+    }
+  ],
+  "translation": "Жртва и минха не си сакал, ухо ми прокопа; сепаленица и жртва за грев не побарал.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1b36c23f3912af408b64b2067bc2ca86a38f1bfbb4f73c1c716271d62b3e01b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/40\/5-8.1792453291565.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "жртва"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "и минха"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "сакал"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ухо"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "ми прокопа"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "сепаленица"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "и жртва за грев"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "побарал"
+    }
+  ],
+  "timestamp": "2026-10-19T23:41:31.566195277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 9:23",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אחרנית",
+      "rationale": "Зборот се повторува двапати — одеа наназад, лицата наназад — ритмичко повторување што ја нагласува двојната претпазливост на синовите."
+    }
+  ],
+  "translation": "И Шем и Јефет зеде ⟨את⟩ облека, па ја ставија на рамениците двајцата, и одеа наназад, и го покрија ⟨את⟩ голот на татко им; а лицата им беа наназад, и голот на татко им не го видоа.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b8f6c63e2d032f4adeee804f4d6e61814b2a88dc75d9bc4d41ab05de4036a2a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/9\/21-24.1792442433917.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "и зеде"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "и Јефет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "облеката"
+    },
+    {
+      "surface": "השמלה",
+      "gloss": "облеката"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "и ставија"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "рамениците"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "двајцата"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "и одеа"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "наназад"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "и покрија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голот"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "голот"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "на татко им"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "а лицата им"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "наназад"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "и голот"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "на татко им"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "видоа"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:33.918962702Z",
+  "model": "glm-5.3"
+}

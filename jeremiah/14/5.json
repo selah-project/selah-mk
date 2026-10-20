@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "מלדה ועזוב нема изричен предмет — македонскиот бара ⟨го⟩ за младото што е оставено"
+    },
+    {
+      "kind": "crux",
+      "subject": "срната",
+      "rationale": "אַיֶּלֶת е срна; традицијата чита „елениха“ — истата слика, суштината е дека и мајката го напушта младенчето"
+    }
+  ],
+  "translation": "Зашто дури и срната во полето роди и го остави, зашто немаше трева.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e018ed08d285cc275625b5270a596a90e306718eb9ff1b275c9be7e6c2fa7321",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/14\/5-8.1792450616495.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дури и"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "срната"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "во полето"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "го остави"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "имаше"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "трева"
+    }
+  ],
+  "timestamp": "2026-10-19T22:56:56.496194486Z",
+  "model": "glm-5.3"
+}

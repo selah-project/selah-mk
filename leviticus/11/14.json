@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האיה",
+      "rationale": "האיה — 'викачката', веројатно сокол; KJВ 'kite', JPS 'falcon': идентификацијата е несигурна."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הדאה",
+      "rationale": "דאה се јавува само тука во Танах."
+    }
+  ],
+  "translation": "и ⟨את⟩ лустрата, и ⟨את⟩ соколот по видот негов;",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d3d0184346def9ce19653054fc240a4e7c449dba372d5bf4ba2acc167f77440e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/11\/13-16.1792444162879.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "лустрата"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "лустрата"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "соколот"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "соколот"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "по видот нејзин"
+    }
+  ],
+  "timestamp": "2026-10-19T21:09:22.882548773Z",
+  "model": "glm-5.3"
+}

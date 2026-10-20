@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "покривка на срцето",
+      "rationale": "מגנת לב: 'покривка на срцето' (literal, покривка\/заслепеност) vs традицијата 'цврстина на срцето' или 'жалост на срцето'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תאלה",
+      "rationale": "таала — клетва\/проклетство, речен ретко во Танах"
+    }
+  ],
+  "translation": "Дај им покривка на срцето, твојата клетва ним.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ad5bfc20e7a4d870667b74c5019fed38db0c420434448a4ab9dd901fac76dde5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/3\/65-66.1792455592190.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "Дај"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מגנת",
+      "gloss": "покривка"
+    },
+    {
+      "surface": "לב",
+      "gloss": "на срцето"
+    },
+    {
+      "surface": "תאלתך",
+      "gloss": "твојата клетва"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ним"
+    }
+  ],
+  "timestamp": "2026-10-20T00:19:52.190859649Z",
+  "model": "glm-5.3"
+}

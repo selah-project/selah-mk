@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 21:7",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨за⟩ ⟨мажи⟩",
+      "rationale": "Македонскиот бара менување на падеж; 'мажи' е додадено за јасност кон ленותарим."
+    },
+    {
+      "kind": "you",
+      "subject": "до народот",
+      "rationale": "Самопрашање на Јисраел — директен обраќај во заеднички глас."
+    }
+  ],
+  "translation": "Што да им направиме ⟨за⟩ останатите ⟨мажи⟩ за жени, а ние се заколнивме во Јахве да не им дадеме од нашите ќерки за жени?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "76a57b4bbc54c2882cedbb7e5db5cac88d16d9c7ff5b5059c6cfffd3e7a6ceb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/21\/5-8.1792446649590.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "да направиме"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ним"
+    },
+    {
+      "surface": "לנותרים",
+      "gloss": "за останатите"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "за жени"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "а ние"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "се заколнивме"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "во Јахве"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תת",
+      "gloss": "дадеме"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ним"
+    },
+    {
+      "surface": "מבנותינו",
+      "gloss": "од нашите ќерки"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "за жени"
+    }
+  ],
+  "timestamp": "2026-10-19T21:50:49.591768156Z",
+  "model": "glm-5.3"
+}

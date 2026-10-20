@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 3:6",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨сум⟩",
+      "rationale": "хебрејскиот нема копула: אנכי אלהי אביך — „Јас Елохим на татко твој“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Елохим ×4",
+      "rationale": "четкратно повторување на Елохим во конструкција — реченична ритмичка градација"
+    }
+  ],
+  "translation": "И рече: Јас ⟨сум⟩ Елохим на татко твој, Елохим на Аврахам, Елохим на Јицхак и Елохим на Јааков. И Моше го скри лицето свое, зашто се бојаше да погледне кон Елохим.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "12eb4d220d88825ec44d1648ef2d789940bdc971d62ccc8c4be888690469b1bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/3\/5-8.1792443350578.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "татко твој"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Јицхак"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "и Елохим на"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "И го скри"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицето свое"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "се бојаше"
+    },
+    {
+      "surface": "מהביט",
+      "gloss": "да погледне"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    }
+  ],
+  "timestamp": "2026-10-19T20:55:50.585353236Z",
+  "model": "glm-5.3"
+}

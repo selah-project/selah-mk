@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 10:6",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והושבותים",
+      "rationale": "Од корен שׁוב: „ќе ги вратам“ или причинно „ќе ги вратам да населам“ (KJV 'bring them again to place them')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רחמתים",
+      "rationale": "חםמ — од core-значењето „ги сакам со милост\/силенѕна наклонетост“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Господ\/Бог",
+      "rationale": "יהוה стои како Јахве и אלהיהם како Елохим — Имињата не се заменуваат со титули."
+    }
+  ],
+  "translation": "И ќе го зајакам ⟨את⟩ домот на Јехуда и ⟨את⟩ домот на Јосеф ќе ги спасам, и ќе ги вратам да населам, зашто ги сакам со милост; и ќе бидат како што не сум ги отфрлил, зашто јас сум Јахве, нивниот Елохим, и ја ќе ги послушам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "132d69292ccdf407cd4cc9f1521c4c12dd3ee58e3def9c76d43428b51baabc43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/10\/6-7.1792458314801.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגברתי",
+      "gloss": "и ќе го зајакам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "домот на Јехуда"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јехуда"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "домот на Јосеф"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "на Јосеф"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ќе ги спасам"
+    },
+    {
+      "surface": "והושבותים",
+      "gloss": "и ќе ги вратам да населам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "רחמתים",
+      "gloss": "ги сакам со милост"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "и ќе бидат"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "זנחתים",
+      "gloss": "сум ги отфрлил"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "нивниот Елохим"
+    },
+    {
+      "surface": "ואענם",
+      "gloss": "и ќе ги послушам"
+    }
+  ],
+  "timestamp": "2026-10-20T01:05:14.802573421Z",
+  "model": "glm-5.3"
+}

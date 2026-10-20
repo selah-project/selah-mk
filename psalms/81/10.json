@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זר \/ נכר",
+      "rationale": "Два синонимни корена за „странски\/туѓ“ во паралелни колонки — хебрејскиот паралелизам што македонскиот го израмнува со два различни придавки."
+    }
+  ],
+  "translation": "Нека нема во тебе странски Ел, и не се поклони на туѓ ел!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/81\/9-12.1792453640282.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Нека нема"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "нема"
+    },
+    {
+      "surface": "בך",
+      "gloss": "во тебе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "זר",
+      "gloss": "странски"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "се поклони"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "на ел"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "туѓ"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:20.283585819Z",
+  "model": "glm-5.3"
+}

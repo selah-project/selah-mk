@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 34:2",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על ראש ההר",
+      "rationale": "букв. „на главата на гората“ — „на врвот од гората“."
+    },
+    {
+      "kind": "invitation",
+      "subject": "заповед",
+      "rationale": "Стихот е низа императиви — повик кон Моше."
+    }
+  ],
+  "translation": "И биди подготвен за утрото, и качи се наутро на гората Синај, и застане Ми таму, на врвот од гората.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1f91e99dbbd63c3aeef2239d1ae6461368a1ccd96c2fca88ced504e513e33c62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/34\/1-4.1792443905868.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И биди"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "подготвен"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "за утрото"
+    },
+    {
+      "surface": "ועלית",
+      "gloss": "и качи се"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "наутро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гората"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синај"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "и застане"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ми"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "врвот"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "од гората"
+    }
+  ],
+  "timestamp": "2026-10-19T21:05:05.871492717Z",
+  "model": "glm-5.3"
+}

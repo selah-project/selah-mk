@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "краткост на руах",
+      "rationale": "מקצר רוח: буквално 'краткост на руах' — нетрпеливост\/скршен дух; 'руах' се чува еден збор."
+    },
+    {
+      "kind": "substitution",
+      "subject": "не го послушаа",
+      "rationale": "שמעו אל вклучува послушност, не само слушање."
+    }
+  ],
+  "translation": "И Моше зборуваше така кон синовите Јисраелови, но тие не го послушаа Моше, од краткост на руах и од тешка работа.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "545ea1f4a6602fa0bfabb86682381dc1b161d19c993465e9cb173a8b7fe77780",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/6\/9-12.1792443353972.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И зборуваше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "го послушаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(во)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "од краткост"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "и од работа"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "тешка"
+    }
+  ],
+  "timestamp": "2026-10-19T20:55:53.975726068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 7:15",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפש е ближе до „градло\/животна сила\/живот“ отколку до бессмртна душа"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעצמותי",
+      "rationale": "„од моите коски“ — KJV додава „my life“ (смрр наместо животот), ЈPS задржува „овие мои коски“"
+    }
+  ],
+  "translation": "И избра задушување душата моја — смрт повеќе отколку коските мои.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cd39044740d7c572944c9015716ef9bbfe7dc89afba146913a7981b150cd6e07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/7\/13-16.1792454891862.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבחר",
+      "gloss": "И избра"
+    },
+    {
+      "surface": "מחנק",
+      "gloss": "задушување"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата моја"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрт"
+    },
+    {
+      "surface": "מעצמותי",
+      "gloss": "коските мои"
+    }
+  ],
+  "timestamp": "2026-10-20T00:08:11.863753686Z",
+  "model": "glm-5.3"
+}

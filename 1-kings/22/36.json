@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 22:36",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "гласот",
+      "rationale": "הרנה е „вик\/извик“ (може и радост и жал); „глас\/прокламација“ е проширено"
+    },
+    {
+      "kind": "you",
+      "subject": "до војската",
+      "rationale": "наредбата „секој кон својот град“ директно ги повикува војниците преку логорот"
+    }
+  ],
+  "translation": "И помина гласот низ логорот при заоѓањето на сонцето, велејќи: секој човек кон својот град и секој човек кон својата земја.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "5da66be5f6b4eb22834a3a44bb5815ba195d4943b733e99aba8562d888970e51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/22\/33-36.1792449109518.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "И помина"
+    },
+    {
+      "surface": "הרנה",
+      "gloss": "гласот"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "низ логорот"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "при заоѓањето"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "на сонцето"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој човек"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "својот град"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и секој човек"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "својата земја"
+    }
+  ],
+  "timestamp": "2026-10-19T22:31:49.520135524Z",
+  "model": "glm-5.3"
+}

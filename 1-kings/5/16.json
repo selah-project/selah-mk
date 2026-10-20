@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "велејќи",
+      "rationale": "Формулата לאמר ја најавува директната говорна акта што следува во наредните стихови"
+    }
+  ],
+  "translation": "И Шеломо испрати кај Хирам, велејќи:",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "091eae413b81795a8880bd1629e238b4cd8255c27c67c079ab4685478a08b2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/5\/13-16.1792448577898.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И испрати"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Хирам"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    }
+  ],
+  "timestamp": "2026-10-19T22:22:57.902508645Z",
+  "model": "glm-5.3"
+}

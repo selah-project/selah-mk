@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "руаха",
+      "rationale": "רוחות тука значи правци\/страни („четири ветра“), букв. „руах“ се чува според D2"
+    },
+    {
+      "kind": "substitution",
+      "subject": "запад",
+      "rationale": "ימה букв. „кон морето“ — запад во Еrets-Јисраел перспективата"
+    },
+    {
+      "kind": "measurement",
+      "subject": "четирите руаха",
+      "rationale": "просторна распределба на стражите по четири страни"
+    }
+  ],
+  "translation": "Кон четирите руаха стојат вратарите: исток, запад, север и југ.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4af917128977be64890599bf9c0f40bec729b6745ca4bd5d4db81380f0168f51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/9\/21-24.1792456934074.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "кон четирите"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "руаха"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "стојат"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "вратарите"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "исток"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "запад"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "север"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "и југ"
+    }
+  ],
+  "timestamp": "2026-10-20T00:42:14.076002755Z",
+  "model": "glm-5.3"
+}

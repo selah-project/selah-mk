@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 10:2",
+  "book": "hosea",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨тој⟩",
+      "rationale": "хебрејскиот הוא е нагласено 'тој сам' — дека Јахве (не човек) ќе ги искрши; македонскиот бара ред на зборовите"
+    },
+    {
+      "kind": "crux",
+      "subject": "חלק לבם",
+      "rationale": "буквално 'гладно (маслени) им е срцето' — лукаво, двојно\/поделено срце"
+    }
+  ],
+  "translation": "Поделено им е срцето — сега ќе бидат обвинети: ⟨тој⟩ ќе им ги искрши жртвениците, ќе им ги разурни столбовите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "514d2d64ced78773a04c33ef7a321166b6b8152e320c2ce463615df8dfe7ec7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/hosea\/10\/1-4.1792452329047.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "поделено"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "срцето нивно"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сега"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ќе бидат обвинети"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨тој⟩"
+    },
+    {
+      "surface": "יערף",
+      "gloss": "ќе искрши"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "жртвениците нивни"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "ќе разурни"
+    },
+    {
+      "surface": "מצבותם",
+      "gloss": "столбовите нивни"
+    }
+  ],
+  "timestamp": "2026-10-19T23:25:29.047711880Z",
+  "model": "glm-5.3"
+}

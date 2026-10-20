@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 18:28",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "објектот на 'погубам' е изоставен во хебрејскиот; македонскиот бара клитики"
+    },
+    {
+      "kind": "substitution",
+      "subject": "заради петмина",
+      "rationale": "בחמשה е буквално 'во пет'; македонскиот бара 'заради петмина'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "броење",
+      "rationale": "преговарањето со бројки: педесет минус пет, четириесет и пет"
+    }
+  ],
+  "translation": "Можеби ќе недостасуваат петмина од педесетте праведници — ќе погубиш ли заради петмина ⟨את⟩ целиот град? И Тој рече: Немаш да погубам ⟨го⟩, ако најдам таму четириесет и петмина.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "9f7308fdd2f64189f25e60770d425e180d24b91354b3b1bdf2dcf843e7c85c89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/18\/26-28.1792447660144.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "Можеби"
+    },
+    {
+      "surface": "יחסרון",
+      "gloss": "ќе недостасуваат"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "од педесетте"
+    },
+    {
+      "surface": "הצדיקם",
+      "gloss": "праведници"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "петмина"
+    },
+    {
+      "surface": "התשחית",
+      "gloss": "ќе погубиш ли"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "заради петмина"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "целиот град"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ќе погубам"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "најдам"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четириесет"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "и петмина"
+    }
+  ],
+  "timestamp": "2026-10-19T22:07:40.150426064Z",
+  "model": "glm-5.3"
+}

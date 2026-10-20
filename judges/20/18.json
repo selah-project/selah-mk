@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 20:18",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨за нас⟩",
+      "rationale": "„לנו“ е во хебрејскиот, но македонскиот глагол го бара местоимството; ה- членот „בתחלה“ стана „прв“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "прв",
+      "rationale": "בתחלה буквално „на почеток\/во почеток“, македонскиот вели „прв“."
+    },
+    {
+      "kind": "you",
+      "subject": "прашањето до Елохим",
+      "rationale": "директно прашање на Јисраел до Елохим; одговорот на Јахве именува Јехуда."
+    }
+  ],
+  "translation": "И станаа и отидоа во Beit-El, и прашаа во Елохим, и рекоа синовите на Јисраел: Кој ќе излезе прв ⟨за нас⟩ на војната со синовите на Венијамин? И рече Јахве: Јехуда прв.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2b6f69775dadb5e43f58374a5906ebe3c7f68e8b2f769929b2c3d4629113a628",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/20\/17-20.1792446651705.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "И станаа"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "и отидоа"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "и прашаа"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "во Елохим"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ќе излезе"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨за нас⟩"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "прв"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "на војната"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "на Венијамин"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "прв"
+    }
+  ],
+  "timestamp": "2026-10-19T21:50:51.705960849Z",
+  "model": "glm-5.3"
+}

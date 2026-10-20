@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "годините на Јаред",
+      "rationale": "Вкупно 962 години."
+    }
+  ],
+  "translation": "И беа сите денови на Јаред шесеесет и две години и деветстотини години, и умре.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0f9fcdc27e0ea950511b726779c8c4a8c0fb853fcfea413ac52ef66ed973d7fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/5\/17-20.1792442459587.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И беа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "денови"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Јаред"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "две"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "и шесеесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "и девет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотини"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:59.589080944Z",
+  "model": "glm-5.3"
+}

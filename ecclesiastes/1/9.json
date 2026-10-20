@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ништо",
+      "rationale": "македонскиот бара именска predicates, העברי ט омина именка"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שהיה\/שיהיה · שנעשה\/שיעשה",
+      "rationale": "точна пара-тавтологија: ист корен во миното и идното време, огледална структура што македонскиот ја носи со парови од ист глагол"
+    }
+  ],
+  "translation": "Што било — тоа ќе биде; и што било направено — тоа ќе биде направено; и нема ништо ново под сонцето.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "27f173a84f9a1ec94f8ebd53284a036761940cecce59e8b5ebee17c31b58bc0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/1\/9-12.1792455657228.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Што"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "било"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и што"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "било направено"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "ќе биде направено"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ништо"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ново"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцето"
+    }
+  ],
+  "timestamp": "2026-10-20T00:20:57.229140293Z",
+  "model": "glm-5.3"
+}

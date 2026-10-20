@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 14:12",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הילל",
+      "rationale": "единствен пат во Танах — „сјајниот“, Венера\/утринската ѕвезда; латинската традиција „Lucifer“ не е хебрејскиот збор"
+    },
+    {
+      "kind": "crux",
+      "subject": "חולש על גוים",
+      "rationale": "„оној што ги ослабнува народите“ vs „фрлал жреб врз народите“ (JPS, од корен со слични согласки)"
+    }
+  ],
+  "translation": "Како падна од небото, сјајни-утринска звездо, сину на зората! Како беше посечен до земјата, ослабнувачу на народите!",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "798d95729ea1c9153983d32b12bb8057b5fd741d19c6c5f49a1dfcd022e3af6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/14\/9-12.1792449693558.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Како"
+    },
+    {
+      "surface": "נפלת",
+      "gloss": "падна"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "од небото"
+    },
+    {
+      "surface": "הילל",
+      "gloss": "сјајни-утринска звездо"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сину"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "на зората"
+    },
+    {
+      "surface": "נגדעת",
+      "gloss": "беше посечен"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "до земјата"
+    },
+    {
+      "surface": "חולש",
+      "gloss": "ослабнувачу"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народите"
+    }
+  ],
+  "timestamp": "2026-10-19T22:41:33.562493655Z",
+  "model": "glm-5.3"
+}

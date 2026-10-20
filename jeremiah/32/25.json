@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 32:25",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема сврзен глагол „да е“ — македонскиот го бара"
+    },
+    {
+      "kind": "you",
+      "subject": "до Адонај Јахве",
+      "rationale": "Еремија се обраќа директно до Бога со прашање за купувањето на полето"
+    }
+  ],
+  "translation": "А ти ми рече, Адонај Јахве: Купи си го полето за сребро и сведочи сведоци — а градот ⟨е⟩ даден во рака на Халдејците.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "04b4c806d9b6d367d87cfe6bb7ca413bce049a87a4847da8178076157c3d4ea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/32\/25-28.1792450864286.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "Купи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "си"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "полето"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "за сребро"
+    },
+    {
+      "surface": "והעד",
+      "gloss": "и сведочи"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "сведоци"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "а градот"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "даден"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "во рака"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "на Халдејците"
+    }
+  ],
+  "timestamp": "2026-10-19T23:01:04.287107339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד останува како хесед, не како „милост“ сама"
+    },
+    {
+      "kind": "crux",
+      "subject": "תמנו",
+      "rationale": "„не се свршија“ — хебрејскиот вели дека ние не сме биле уништени (предметот е „ние“), а не дека милостите не се потрошени; повеќето преводи го префрлаат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רחמיו",
+      "rationale": "רחמים од коренот на утроба — милост како мајчинска нежност"
+    }
+  ],
+  "translation": "Хеседот на Јахве — дека не ⟨се⟩ свршија, дека не дојдоа до крај милостите негови.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2b5e6174d5369d9628a85f3be7c005619ce31153deeb8d931acedb1772ab6576",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/3\/21-24.1792455622871.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Хеседот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "свршија"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "дојдоа до крај"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "милостите негови"
+    }
+  ],
+  "timestamp": "2026-10-20T00:20:22.871931030Z",
+  "model": "glm-5.3"
+}

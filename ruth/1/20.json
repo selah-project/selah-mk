@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נעמי \/ מרא",
+      "rationale": "„Пријатна“ наспроти „Горка“ — вкрстување на значењата на двете имиња, присутно и во глаголот המר (огорчи)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "огорчи",
+      "rationale": "המר е причинска форма на מרר, „направи горко“ — вкусен образ, не апстрактен суд."
+    }
+  ],
+  "translation": "А таа им рече: Не викајте ме Ноеми; викајте ми Мара, зашто Шадај многу ми огорчи.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ruth\/1\/17-20.1792455573325.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "им"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "викајте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ме"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Ноеми"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "викајте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "Мара"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "המר",
+      "gloss": "огорчи"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шадај"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    }
+  ],
+  "timestamp": "2026-10-20T00:19:33.326077804Z",
+  "model": "glm-5.3"
+}

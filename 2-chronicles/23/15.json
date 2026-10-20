@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 23:15",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישימו לה ידים",
+      "rationale": "букв. „ставија раце на неа“ (да ја фатат) — YLT „и правеа простор за неа“, ASV\/JPS „и пат им отворија“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "שער הסוסים",
+      "rationale": "имено место — Коњската порта, топографска одредница на царскиот дом"
+    }
+  ],
+  "translation": "И ставија раце на неа, и таа влезе до влезот на Коњската порта на домот на царот, и таму ја убија.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "262f8ffd6e4a79b042f21e6150ea151ea9190f02b29d650efd7c60c5e12c794c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/23\/13-16.1792457727761.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ставија"
+    },
+    {
+      "surface": "לה",
+      "gloss": "на неа"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "раце"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "и влезе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "влезот"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "на коњите"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "וימיתוה",
+      "gloss": "ја убија"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    }
+  ],
+  "timestamp": "2026-10-20T00:55:27.762679897Z",
+  "model": "glm-5.3"
+}

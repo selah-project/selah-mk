@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Израел",
+      "rationale": "Низ низата заповеди во второ лице, Torата се обра}а непосредно до слушателот."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "шесте не-а",
+      "rationale": "Шесткратното вградување на ло создава ритмична шесна збирка забрани, изгубена ако се спојат."
+    }
+  ],
+  "translation": "Не_pop}шиш да му се покориш, немој да го слушаш, окото твое нека не го пожали, немој да поштедиш и немој да го покриеш.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "18bb400e2036e72450fa56b09ff687eb6ca95326e0b18c292b31a2aa27c65ec5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/13\/9-12.1792445502708.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "поп}шуваш"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "слушаш"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "кон него"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "пожали"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "окото твое"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "над него"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "поштедиш"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "покриеш"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "над него"
+    }
+  ],
+  "timestamp": "2026-10-19T21:31:42.709032128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 16:19",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "мажи на бројка",
+      "rationale": "броење на луѓето — мал број"
+    },
+    {
+      "kind": "substitution",
+      "subject": "доштени",
+      "rationale": "גר е привремен жител без право на земја, не само туѓинец"
+    }
+  ],
+  "translation": "Кога бевте мажи на бројка, малкумина, и ⟨се⟩ доштени во неа,",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dbf305ca65a08a091f81c88818028dcc7e2e5e8365711583bf4575e3db36e2b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/16\/17-20.1792457069700.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהיותכם",
+      "gloss": "кога бевте"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "мажи"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "на бројка"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "малкумина"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "и доштени"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во неа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:44:29.702093366Z",
+  "model": "glm-5.3"
+}

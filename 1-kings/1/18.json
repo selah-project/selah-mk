@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "а ти",
+      "rationale": "македонскиот бара подмет кај отрицанието; хебрејскиот го има само во обраќањето"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ועתה … ועתה",
+      "rationale": "двојното „а сега“ ја гради напнатоста на прекорот, задржано буквално"
+    },
+    {
+      "kind": "you",
+      "subject": "Батшева → Давид",
+      "rationale": "директен обраќање со обвинение"
+    }
+  ],
+  "translation": "А сега, еве, Адонија стана цар — а ти, господарот мој цару, не знаеш.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "ba45c827b9501b407f2bc60d1fee5f6ce8a99c334c439c7e60c175509c0ee0d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/1\/17-20.1792448522719.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А сега"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Адонија"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "стана цар"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господарот мој"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цару"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаеш"
+    }
+  ],
+  "timestamp": "2026-10-19T22:22:02.721473906Z",
+  "model": "glm-5.3"
+}

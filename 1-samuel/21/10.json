@@ -1,0 +1,164 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 21:10",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ја",
+      "rationale": "македонскиот бара клитички директен објект каде хебрејскиот користи את"
+    },
+    {
+      "kind": "crux",
+      "subject": "בזה",
+      "rationale": "'во ова' — KJV 'in this place'; буквално 'во ова(место)'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "земи",
+      "rationale": "свештеникот му нуди избор на Давид — отворена понуда"
+    }
+  ],
+  "translation": "И рече свештеникот: Мечот на Голијат Плиштиецот, кого го удри во долината Ела — еве, завиен е во облека зад ефодот; ако ⟨את⟩ неа ја земеш, земи, зашто нема друга освен неа во ова. И рече Давид: Нема како неа — дај ми ја.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6efd213180c175abf468ca10b49c8143be695c213b911d0096cf7044a8c8acaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/21\/9-12.1792447842233.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "Мечот"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "на Голијат"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Плиштиецот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кого"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "го удри"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "во долината"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "еве"
+    },
+    {
+      "surface": "היא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "לוטה",
+      "gloss": "завиен е"
+    },
+    {
+      "surface": "בשמלה",
+      "gloss": "во облека"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "зад"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ефодот"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "неа (мечот)"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ја земеш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себе"
+    },
+    {
+      "surface": "קח",
+      "gloss": "земи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "друга"
+    },
+    {
+      "surface": "זולתה",
+      "gloss": "освен неа"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "во ова"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "כמוה",
+      "gloss": "како неа"
+    },
+    {
+      "surface": "תננה",
+      "gloss": "дај"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    }
+  ],
+  "timestamp": "2026-10-19T22:10:42.235746499Z",
+  "model": "glm-5.3"
+}

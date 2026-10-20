@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 9:26",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "„ако не“ — клетвена формула, македонски прашално-тврдо „дали не“"
+    },
+    {
+      "kind": "crux",
+      "subject": "אמש",
+      "rationale": "„вчера\/синоќа“ — навидум долго откако Навот загина (1 Цар 21); буквалноста се чува"
+    }
+  ],
+  "translation": "„Дали не ги видов синоќа ⟨את⟩ крвта на Навот и ⟨את⟩ крвта на синовите негови — изрека на Јахве — и ќе ти вратам на овој дел — изрека на Јахве. А сега земи, фрли го во делот, според зборот на Јахве.“",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "4331c243e126435067b1215914bd95429227b2d810c04b2907013378c0b29985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/9\/25-28.1792449290506.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "дали"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "крвта"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "крвта"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Навот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "крвта"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "крвта"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синовите негови"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видов"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "синоќа"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ושלמתי",
+      "gloss": "и ќе вратам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בחלקה",
+      "gloss": "на делот"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овој"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "שא",
+      "gloss": "земи"
+    },
+    {
+      "surface": "השלכהו",
+      "gloss": "фрли го"
+    },
+    {
+      "surface": "בחלקה",
+      "gloss": "во делот"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "според зборот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T22:34:50.510644118Z",
+  "model": "glm-5.3"
+}

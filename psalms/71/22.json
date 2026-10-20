@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמתך",
+      "rationale": "'со невел Твојата верност' — дали верноста е содржина на фалењето (со префигуриран ⟨за⟩) или самата невела е 'верна', т.е. прекрасно наштимана?"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨за⟩",
+      "rationale": "хебрејскиот стои во директна припојка без предлог; македонскиот бара ⟨за⟩"
+    }
+  ],
+  "translation": "И јас ќе Те фалам со инструмент невел, ⟨за⟩ Твојата верност, Елохим мој; ќе Ти пеам со кинор, Светиот на Јисраел.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9eae377d08fa422a71de1313d2bb2fc5b61164dda0f551778d99eed8940867dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/71\/21-24.1792453532569.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "И"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ќе Те фалам"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "со инструмент"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "невел"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "Твојата верност"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мој"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ќе пеам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "со кинор"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Светиот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T23:45:32.569863725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Аврахам",
+      "rationale": "Јахве си поставува реторичко прашање дали да му го открие на Аврахам судот над Содом."
+    },
+    {
+      "kind": "alternative",
+      "subject": "хем правам",
+      "rationale": "עשה може да значи и 'што即将 настои' — идно, не сегашно."
+    }
+  ],
+  "translation": "И Јахве рече: Дали да скријам од Аврахам она што ⟨го⟩ правам,",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "30fc63de129fd5a53448b3993e9ed6eafa2881d3c70312d96c097918b8545aac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/18\/17-20.1792442569252.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "И Јахве рече"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "дали да скријам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "од Аврахам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "она што"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "правам"
+    }
+  ],
+  "timestamp": "2026-10-19T20:42:49.260645750Z",
+  "model": "glm-5.3"
+}

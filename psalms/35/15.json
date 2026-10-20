@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ונאספו נאספו",
+      "rationale": "повторен корен אסף — нагласено собирање, делумно изгубено"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נכים",
+      "rationale": "буквално 'ударци' — преносно клеветници"
+    }
+  ],
+  "translation": "И во моето куцање се зарадуваа и се собораа; собораа се против мене клеветници, а јас не знаев; кинеа и не престануваа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/35\/13-16.1792453204385.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "и во моето куцање"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "се зарадуваа"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "и се собораа"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "собораа се"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "против мене"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "клеветници"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знаев"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "кинеа"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "престануваа"
+    }
+  ],
+  "timestamp": "2026-10-19T23:40:04.386046961Z",
+  "model": "glm-5.3"
+}

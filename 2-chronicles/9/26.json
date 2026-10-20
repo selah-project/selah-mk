@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 9:26",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Реката",
+      "rationale": "הנהר со член — Евфрат; хебрејскиот не го именува, македонскиот чува „Реката“"
+    },
+    {
+      "kind": "addition",
+      "subject": "над",
+      "rationale": "בכל — „во\/со сите цареви“; македонскиот бара предлог „над“"
+    }
+  ],
+  "translation": "И владееше над сите цареви, од Реката до земјата на Плиштимците и до границата на Мицраим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "49b2545661bf46664ed5c415d2598f8abe802bcdd833ef3f70b674baa43c20c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/9\/25-28.1792457483177.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И владееше"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "владееше"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "над сите"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "цареви"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "Реката"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "на Плиштимците"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "на Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-20T00:51:23.178579439Z",
+  "model": "glm-5.3"
+}

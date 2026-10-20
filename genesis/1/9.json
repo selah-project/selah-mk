@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нека се покаже",
+      "rationale": "ותראה е буквално 'нека биде видена\/гледана' — пасив на глаголот гледа"
+    }
+  ],
+  "translation": "И рече Елохим: Нека се соберат водите што ⟨се⟩ под небото на едно место, и нека се покаже сувиот простор. И биде така.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "8f62476ec3a8ec90584dda549afd1ebb203cffe7948ea8641e427d4533d89a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/1\/9-12.1792442372837.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "нека се соберат"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водите"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небото"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "едно"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "и нека се покаже"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "сувиот простор"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    }
+  ],
+  "timestamp": "2026-10-19T20:39:32.838565081Z",
+  "model": "glm-5.3"
+}

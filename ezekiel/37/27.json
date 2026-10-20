@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 37:27",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משכני \/ מקדשי",
+      "rationale": "врска со ст. 26 и 28: мишкан и микдаш еден до друг — живеалиштето и светилиштето како пар"
+    }
+  ],
+  "translation": "И мишканот мој ќе биде над нив, и ќе им бидам Елохим, и тие ќе ми бидат народ.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "148144beaac8c007250da26f3abe621f8769ff0f62f0995eb3f12fa6c759d84d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/37\/25-28.1792452011257.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "мишканот мој"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над нив"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "и ќе бидам"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "и тие"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ќе бидат"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-10-19T23:20:11.259016558Z",
+  "model": "glm-5.3"
+}

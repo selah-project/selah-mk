@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "повторно",
+      "rationale": "עוד носи 'уште\/пак' — повратно движење кон бунарот"
+    }
+  ],
+  "translation": "И побрза, и ја испразни својата стомна во коритото, и истрча повторно до бунарот да црпи, и црпеше за сите негови камили.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "d108f4e762298f144854158e3e698861f3edc732581a978328d3e420adac71c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/24\/18-20.1792447665630.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "И побрза"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "и ја испразни"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "својата стомна"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "коритото"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "и истрча"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повторно"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "бунарот"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "да црпи"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "и црпеше"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "за сите"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "неговите камили"
+    }
+  ],
+  "timestamp": "2026-10-19T22:07:45.634205060Z",
+  "model": "glm-5.3"
+}

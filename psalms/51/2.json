@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кога дојде",
+      "rationale": "בבוא е инфинитивен конструктив („во доаѓањето на“), македонскиот бара временска реченица."
+    },
+    {
+      "kind": "idiom",
+      "subject": "влезе кај",
+      "rationale": "בוא אל е евфемизам за сексуален однос; задржан е буквалниот израз."
+    }
+  ],
+  "translation": "Кога дојде кај него Натан пророкот, откако влезе кај Бат-Шева.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fe8866d2d56353d4a1d9ad7f3f521a9718b01d975b2aa21f395ecd0b8de80bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/51\/1-4.1792453331781.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "кога дојде"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "кај него"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкот"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "откако"
+    },
+    {
+      "surface": "בא",
+      "gloss": "влезе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Бат"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    }
+  ],
+  "timestamp": "2026-10-19T23:42:11.782465019Z",
+  "model": "glm-5.3"
+}

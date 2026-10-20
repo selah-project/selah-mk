@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 33:13",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот рефлексивен глагол бара „се“, хебрејскиот нема"
+    },
+    {
+      "kind": "crux",
+      "subject": "не одговара",
+      "rationale": "יענה: „не одговара (на сите Негови зборови)“ наспроти „не дава сметка“ — субјектот е Елохим во двете, но наредбата е нејасна"
+    }
+  ],
+  "translation": "Зошто споришь со Него, зашто на сите Негови зборови не ⟨се⟩ одговара?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3dc3627b8b1b1215cfc8c786d3129a67a10ad326a2f456bdfa55fb31cdd97538",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/33\/13-16.1792455225656.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "со Него"
+    },
+    {
+      "surface": "ריבות",
+      "gloss": "споришь"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на сите"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "Негови зборови"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "одговара"
+    }
+  ],
+  "timestamp": "2026-10-20T00:13:45.657475828Z",
+  "model": "glm-5.3"
+}

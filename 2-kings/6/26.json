@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 6:26",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "една",
+      "rationale": "хебрејскиот нема член\/број кај אשה; македонскиот бара определеност"
+    },
+    {
+      "kind": "substitution",
+      "subject": "господару мој",
+      "rationale": "אדני е за човек — господар, не Адонај"
+    },
+    {
+      "kind": "you",
+      "subject": "до царот на Јисраел",
+      "rationale": "жената директно му се обраќа на царот со повик за помош"
+    }
+  ],
+  "translation": "И се случи, царот на Јисраел минуваше по ѕидот, и една жена му извика, велејќи: Спаси, господару мој цару!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e00c7a5a14f6642b7b54a4fb4b8149ce5ed57bcf105d70cbb3f8278261166804",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/6\/26-27.1792458122665.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И се случи"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "минуваше"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "ѕидот"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "и една жена"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "извика"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "Спаси"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господару мој"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цару"
+    }
+  ],
+  "timestamp": "2026-10-20T01:02:02.666306513Z",
+  "model": "glm-5.3"
+}

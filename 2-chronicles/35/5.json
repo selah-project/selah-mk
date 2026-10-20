@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 35:5",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨место⟩",
+      "rationale": "קדש е придавка\/светост; македонскиот бара именка"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחלקת",
+      "rationale": "KJV\/JPS читаат заповед „нека има дел“ (imperative), YLT именска „и делот“"
+    }
+  ],
+  "translation": "И застанете во светиот ⟨место⟩ според поделбите на домовите на татковците кај вашите браќа, синовите на народот, и по поделбата на домот-татко кај левитите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "222e660984a6101e96b5e5262be30bf4f613f811e6ae2ec49640c1f5e66453e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/35\/5-8.1792457927168.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "И застанете"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "во светиот ⟨место⟩"
+    },
+    {
+      "surface": "לפלגות",
+      "gloss": "според поделбите"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домовите"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "на татковците"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "кај вашите браќа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "העם",
+      "gloss": "на народот"
+    },
+    {
+      "surface": "וחלקת",
+      "gloss": "и по поделбата"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "אב",
+      "gloss": "татко"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "кај левитите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:58:47.169518109Z",
+  "model": "glm-5.3"
+}

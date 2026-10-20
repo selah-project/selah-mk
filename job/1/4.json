@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 1:4",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "на секој од нив",
+      "rationale": "בית איש יומו — «дом на човек, денот его»; македонскиот бара разјаснување."
+    },
+    {
+      "kind": "alternative",
+      "subject": "во својот ден",
+      "rationale": "Може и «на својот роденден» — обичајот укажува на годишен ден на секој брат."
+    }
+  ],
+  "translation": "И одеа неговите синови и правеа гозба во домот на секој од нив во својот ден; и праќаа и ги повикуваа трите им сестри да јадат и да пијат со нив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3e5e494b7a43b63a7ba85f41cd9c4e3d2f83d2e5050621762ad6282d42899d7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/1\/1-4.1792454750995.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "И одеа"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "неговите синови"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "и правеа"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "гозба"
+    },
+    {
+      "surface": "בית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "איש",
+      "gloss": "на секој"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "во својот ден"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "и праќаа"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "и ги повикуваа"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "трите"
+    },
+    {
+      "surface": "אחיתיהם",
+      "gloss": "им сестри"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "да јадат"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "и да пијат"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "со нив"
+    }
+  ],
+  "timestamp": "2026-10-20T00:05:50.997317751Z",
+  "model": "glm-5.3"
+}

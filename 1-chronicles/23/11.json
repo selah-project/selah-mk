@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 23:11",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "служба",
+      "rationale": "לפקדה е службено заведување\/пребројување (покажување должност), не само „служба“"
+    },
+    {
+      "kind": "crux",
+      "subject": "לפקדה אחת",
+      "rationale": "„едно заведување\/една должност“ — преводи се колебаат меѓу „едно броење“ и „една служба“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "една",
+      "rationale": "двете семејства се споени во едно заради малкуте синови"
+    }
+  ],
+  "translation": "И беше Јахат главен, а Зиза втор; а Јеуш и Берија не им се умножија синовите, па беа ⟨сметани⟩ како еден дом-на-татко, за една служба.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1e8b196fa18b2ed4798f30f3504a36d1878fcab9233c0755b6c787333dab0d01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/23\/9-12.1792457103697.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Јахат"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "главниот"
+    },
+    {
+      "surface": "וזיזה",
+      "gloss": "а Зиза"
+    },
+    {
+      "surface": "השни",
+      "gloss": "вториот"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "а Јеуш"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "и Берија"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "им се умножија"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "па беа"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "за дом"
+    },
+    {
+      "surface": "אב",
+      "gloss": "на татко"
+    },
+    {
+      "surface": "לפקדה",
+      "gloss": "за служба"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    }
+  ],
+  "timestamp": "2026-10-20T00:45:03.698560698Z",
+  "model": "glm-5.3"
+}

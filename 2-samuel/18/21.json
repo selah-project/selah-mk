@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 18:21",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "македонскиот го бара директниот објект што хебрејскиот не означува тука"
+    }
+  ],
+  "translation": "И рече Јоав на Кушитот: Оди, извести го царев со она што го виде. И се поклони Кушитот на Јоав и трча.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "cf93e87ca20eaabcd1acbc4ab3747aaa5a9188b559b6940a0b258d76eef56c6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/18\/21-24.1792448328978.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "לכושי",
+      "gloss": "на Кушитот"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Оди"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "извести"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "го царев"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ראיתה",
+      "gloss": "го виде"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "И се поклони"
+    },
+    {
+      "surface": "כושי",
+      "gloss": "Кушитот"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "на Јоав"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "и трча"
+    }
+  ],
+  "timestamp": "2026-10-19T22:18:48.979741992Z",
+  "model": "glm-5.3"
+}

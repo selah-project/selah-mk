@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 55:24",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "преполоват",
+      "rationale": "יחצу е буквално 'да преполоват' — 'нема да ги изживеат половина од дните свои' е смислената рамка"
+    },
+    {
+      "kind": "substitution",
+      "subject": "шеол\/шахат",
+      "rationale": "שחת е 'јама-стапица, пропаст', не вечна казна — 'jama na propast' го чува буквалниот образ"
+    }
+  ],
+  "translation": "А Ти, Елохим, ќе ги симнеш ⟨ги⟩ во јама на пропаст — луѓе на крв и измама; нема да ги преполоват дните свои; а јас се доверувам на Тебе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "90a7f7bda4c6f34dcd96227750125f62b893a19f5cf6317094f0adfe1d6f9133",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/55\/21-24.1792453417190.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "а Ти"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "תורדם",
+      "gloss": "ќе ги симнеш"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "во јама"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "на пропаст"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "луѓе"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "на крв"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "и измама"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יחצו",
+      "gloss": "да преполоват"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "дните свои"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а јас"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "се доверувам"
+    },
+    {
+      "surface": "בך",
+      "gloss": "на Тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T23:43:37.192032665Z",
+  "model": "glm-5.3"
+}

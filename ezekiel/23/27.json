@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 23:27",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "кревање очи",
+      "rationale": "נשא עינים — 'да ги подигне очите кон' = да желее, да копнее; буквално задржано, идиомата е разбирлива."
+    },
+    {
+      "kind": "substitution",
+      "subject": "злобата",
+      "rationale": "זמה е 'намерно лош план' — злоба со пресметка, не општа гревност."
+    }
+  ],
+  "translation": "и ќе ⟨го⟩ запрам злобата твоја од тебе, и ⟨את⟩ блудот твој од земјата Мицраим, за да не ги креваш очите свои кон нив, и Мицраим повеќе нема да го помниш.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5b07c61ef82a1e11b42ff40c162c7220764ca327f1b1c08ec3352c0f867bf8d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/23\/25-28.1792451766253.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "ќе запрам"
+    },
+    {
+      "surface": "זמתך",
+      "gloss": "злобата твоја"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "од тебе"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "блудот твој"
+    },
+    {
+      "surface": "זנותך",
+      "gloss": "блудот твој"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשאי",
+      "gloss": "креваш"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "очите свои"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "кон нив"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "и Мицраим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "помниш"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    }
+  ],
+  "timestamp": "2026-10-19T23:16:06.254361672Z",
+  "model": "glm-5.3"
+}

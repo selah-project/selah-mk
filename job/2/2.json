@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 2:2",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "משט",
+      "rationale": "ר bare во לשוט форма — редок облик, „испловување\/лутање наскроз“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משט…בה",
+      "rationale": "движењето напред-назад по земјата е слика на надзор, одземена во секој простирачен превод"
+    }
+  ],
+  "translation": "И рече Јахве на сатаната: Одаде ќе дојдеш? И одговори сатаната ⟨את⟩ Јахве и рече: Од скитање по земјата и од проштукање низ неа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cf9a90cd27c919e61e5f805101570ce0608272af93015226d9f070f033045f42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/2\/1-4.1792454862323.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "сатаната"
+    },
+    {
+      "surface": "אי",
+      "gloss": "одаде"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "оттаму"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ќе дојдеш"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "и одговори"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "сатаната"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "משט",
+      "gloss": "скитање"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "по земјата"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "и од проштукање"
+    },
+    {
+      "surface": "בה",
+      "gloss": "низ неа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:07:42.324366886Z",
+  "model": "glm-5.3"
+}

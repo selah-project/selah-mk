@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 52:33",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "כלאו — неговиот затвор",
+      "rationale": "Може да значи и „алишта за затвор“ или „алиштата од неговиот живот во затвор“; изабрав присвоена конструкција."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בגדי",
+      "rationale": "בגד значи и „облека“ и „предавство“ — двосмисленоста е изгубена на македонски."
+    }
+  ],
+  "translation": "И му ги смени ⟨את⟩ алиштата на неговиот затвор, и јадеше леб пред него постојано, сите дни од животот негов.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7f6a980131cf58a20df85adb4539a14dfb1279a8f002076b6624c5a4b7689fc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/52\/33-34.1792451338979.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנה",
+      "gloss": "И му ги смени"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алиштата на неговиот затвор"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "алиштата"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "на неговиот затвор"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "и јадеше"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пред него"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "постојано"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "од животот негов"
+    }
+  ],
+  "timestamp": "2026-10-19T23:08:58.980173051Z",
+  "model": "glm-5.3"
+}

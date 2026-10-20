@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 19:9",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שריקות",
+      "rationale": "многу тешки: „чесан лен\/кукулени нишки“ или „мрежи“ (KJV); букв. „чешлање лен“ — задржано како изчесани нишки"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨на⟩",
+      "rationale": "хебрејскиот статус-конструкт на ленот\/нишките бара македонски членуван наставка"
+    }
+  ],
+  "translation": "И ќе се посрамат работниците на ленот, изчесаните нишки, и ткајачите на белото платно.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "47530c4199bac5d775d2edccd5e9f5423491bf0c0560d1f4ff40a38fb5399c91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/19\/9-12.1792449784232.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "ќе се посрамат"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "работниците"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "на ленот"
+    },
+    {
+      "surface": "שריקות",
+      "gloss": "изчесаните нишки"
+    },
+    {
+      "surface": "וארגים",
+      "gloss": "и ткајачите"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "на белото платно"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:04.235862385Z",
+  "model": "glm-5.3"
+}

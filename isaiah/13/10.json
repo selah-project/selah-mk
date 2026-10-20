@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 13:10",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כסיליהם",
+      "rationale": "כְּסִיל значи и 'соѕвездие' и 'глупак' — можеби двосмислен кадар против безумните, изгубен во македонскиот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "потемне",
+      "rationale": "חשך е свршен (перфект) — 'е потемнето' — за иден настан како веќе извршен, сигурноста на видението."
+    }
+  ],
+  "translation": "Зашто ѕвездите на небото и нивните соѕвездија нема да го дадат своето светло; потемне сонцето при своето излегување, и месечината нема да го заблеска светлот свој.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7172fdf9010dbf11caecab6fb94919ef7e8f8ffb21b6e4fa0276dde7df32abae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/13\/9-12.1792449708168.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "ѕвездите"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "на небото"
+    },
+    {
+      "surface": "וכסיליהם",
+      "gloss": "и нивните соѕвездија"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יהלו",
+      "gloss": "да го дадат"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "своето светло"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "потемне"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцето"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "при своето излегување"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "и месечината"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "да го заблеска"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "светлот свој"
+    }
+  ],
+  "timestamp": "2026-10-19T22:41:48.172163914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כפתים",
+      "rationale": "Зборот се јавува само тука во Танах; значи „мелени\/trошки“ — затоа различните преводи: morsels, crumbs, pebbles."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרחו\/קרתו",
+      "rationale": "Како-рифма меѓу „мразот“ и „студот“ — двата збора од ист корен звук, изгубено во македонскиот."
+    },
+    {
+      "kind": "invitation",
+      "subject": "кој ќе устои?",
+      "rationale": "Реторичко прашање што го повикува слушателот да признае дека никој не устои пред студот на Елохим."
+    }
+  ],
+  "translation": "Го фрла мразот свој како трошки; пред студот негов — кој ќе устои?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/147\/17-20.1792454220396.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "Го фрла"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "мразот свој"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "како трошки"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "студот негов"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ќе устои"
+    }
+  ],
+  "timestamp": "2026-10-19T23:57:00.397607845Z",
+  "model": "glm-5.3"
+}

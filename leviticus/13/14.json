@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "живо месо",
+      "rationale": "בשר חי буквално 'живо месо', т.е. сурова, воспалена кожа; македонскиот го чува буквалниот облик."
+    }
+  ],
+  "translation": "Но во денот кога ќе се види во него живо месо — нечист е.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5ad1b29ac8e96399573dfb9b157c5675ed88159750ad6ea54d145a21e503c971",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/13\/13-16.1792444241521.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "но во денот"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "кога ќе се види"
+    },
+    {
+      "surface": "בו",
+      "gloss": "во него"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "месо"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живо"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "нечист е"
+    }
+  ],
+  "timestamp": "2026-10-19T21:10:41.523032957Z",
+  "model": "glm-5.3"
+}

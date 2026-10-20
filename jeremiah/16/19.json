@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 16:19",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "директен обраќач — пророковата молитва кон Јахве"
+    },
+    {
+      "kind": "substitution",
+      "subject": "суета",
+      "rationale": "הבל е „здив\/пареа“, минливост — историјски збор од Проповедник 1:2"
+    }
+  ],
+  "translation": "Јахве, сило моја и тврдо моја и прибежиште мое во ден на неволја! Кон тебе народите ќе дојдат од краиштата на земјата и ќе рекат: Само лага наследија татковците наши — суета, и нема во неа полза.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7021c1a1ed94eff917c4d3d8a3492aec69215d12f0915df3ab77daeed5c19f8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/16\/17-20.1792450636130.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "сила моја"
+    },
+    {
+      "surface": "ומעזי",
+      "gloss": "и утврдување мое"
+    },
+    {
+      "surface": "ומנוסי",
+      "gloss": "и прибежиште мое"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во ден"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "на неволја"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "кон тебе"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ќе дојдат"
+    },
+    {
+      "surface": "מאפסי",
+      "gloss": "од краиштата"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и ќе рекат"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лага"
+    },
+    {
+      "surface": "נחלו",
+      "gloss": "наследија"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "татковците наши"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "суета"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "בם",
+      "gloss": "во неа"
+    },
+    {
+      "surface": "מועיל",
+      "gloss": "полза"
+    }
+  ],
+  "timestamp": "2026-10-19T22:57:16.131811848Z",
+  "model": "glm-5.3"
+}

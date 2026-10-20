@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 51:9",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "облаците",
+      "rationale": "שחקים е буквално 'истенчени (прашина\/пареа)', односно сводот — задржав слика на височина, не точен материјал"
+    },
+    {
+      "kind": "alternative",
+      "subject": "нејзиното право",
+      "rationale": "משפטה може да значи и 'нејзиниот суд\/пресуда' — тука веројатно пресудата што ја стига"
+    }
+  ],
+  "translation": "Лекувавме ⟨את⟩ Вавилон, но не оздраве; оставете ја, и да одиме секој во својата земја, зашто нејзиното право стигна до небесата и се издигна до облаците.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "161af04d7c4e7512a7f0f68f48499a1d9ae3f8edf2c7460ef20f5bdf9e8a7f9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/51\/9-12.1792451286957.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רפאנו",
+      "gloss": "лекувавме"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Вавилон"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "נרפתה",
+      "gloss": "оздраве"
+    },
+    {
+      "surface": "עזבוה",
+      "gloss": "оставете ја"
+    },
+    {
+      "surface": "ונלך",
+      "gloss": "и да одиме"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "во својата земја"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "стигна"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "משפטה",
+      "gloss": "нејзиното право"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "и се издигна"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "облаците"
+    }
+  ],
+  "timestamp": "2026-10-19T23:08:06.957901498Z",
+  "model": "glm-5.3"
+}

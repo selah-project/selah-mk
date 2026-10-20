@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 9:33",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פטירים",
+      "rationale": "„слободни (од друга должност)“ наспроти „неискористени\/празни“; корен פטר значи отворен, ослободен."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "Хебрејскиот нема копула; македонскиот ја бара."
+    }
+  ],
+  "translation": "А оние се пејачите, поглавари на татковинските домови на Левитите, во одаите ⟨се⟩ слободни, зашто дење и ноќе ⟨се⟩ врз нив во службата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "42f47319ffce1efa4d7d7b26fcbf97182090cc2706108f1562e0a23f797b0dcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/9\/33-36.1792456969457.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "а оние"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "пејачите"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "поглавари"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "на татковинските домови"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "на Левитите"
+    },
+    {
+      "surface": "בלשכת",
+      "gloss": "во одаите"
+    },
+    {
+      "surface": "פטירים",
+      "gloss": "слободни"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "дење"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "и ноќе"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "врз нив"
+    },
+    {
+      "surface": "במלאכה",
+      "gloss": "во службата"
+    }
+  ],
+  "timestamp": "2026-10-20T00:42:49.458042273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 15:31",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נתעה",
+      "rationale": "Исто∈ прош. — „скршнат\/измамен“ или прич. причин. „кој скршнува“; избирам возвратното „се залажува“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשו\/שוא",
+      "rationale": "Истиот корен суета во стихот двапати — повторување што македонскиот го носи со ист збор."
+    }
+  ],
+  "translation": "Не нека верува во суета, тој се залажува; зашто суета ќе биде замената негова.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a8bcaa390c87ce71762439cbb59e98dc614e067ab78b1cb4c970a6b4c74fa02f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/15\/29-32.1792455027555.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не нека"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "верува"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "во суета"
+    },
+    {
+      "surface": "נתעה",
+      "gloss": "се залажува"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "суета"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "תמורתו",
+      "gloss": "замената негова"
+    }
+  ],
+  "timestamp": "2026-10-20T00:10:27.556286112Z",
+  "model": "glm-5.3"
+}

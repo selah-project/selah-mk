@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezekiel 16:50",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כַּאֲשֶׁר רָאִיתִי",
+      "rationale": "„Како што видов“ — KJV „како што ми се виде“, JPS „кога го видов“; дословно: по она што го видов."
+    }
+  ],
+  "translation": "И се надминаа и правеа гадости пред лице мое, па ги отстранив ⟨את⟩ како што видов.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "11436f26deb30e38b9fff9f31115d76b995975d0fa84d352fc9f8be2658ce8dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/16\/49-52.1792451546730.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותגבהינה",
+      "gloss": "се надминаа"
+    },
+    {
+      "surface": "ותעשינה",
+      "gloss": "и правеа"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "гадости"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лице мое"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "и ги отстранив"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "нив (Содом и ќерките нејзини)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видов"
+    }
+  ],
+  "timestamp": "2026-10-19T23:12:26.731583520Z",
+  "model": "glm-5.3"
+}

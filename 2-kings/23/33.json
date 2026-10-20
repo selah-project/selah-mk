@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 23:33",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במלך",
+      "rationale": "букв. 'во владеењето во Јерушалаим' — KJV 'да не владее', Женева 'додека владееше'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨за да не владее⟩",
+      "rationale": "хебрејскиот вели само 'во владеењето'; целта е надополнета"
+    },
+    {
+      "kind": "measurement",
+      "subject": "сто таланти сребро и еден талант злато",
+      "rationale": "пари броени според хебрејскиот"
+    }
+  ],
+  "translation": "И Фараон Нехо го сврза во Ривла, во земјата Хамат, ⟨за да не владее⟩ во Јерушалаим; и наметна казна на земјата: сто таланти сребро и еден талант злато.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "327eebf7fad89bbdde33886decd6ae3075d053671f3a7bfebe26dfb35a890da7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/23\/33-36.1792449503860.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאסרהו",
+      "gloss": "го сврза"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Нехо"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "во Ривла"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "⟨за да не владее⟩"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "во Јерушалаим"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и наметна"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "казна"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "таланти"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "и еден талант"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    }
+  ],
+  "timestamp": "2026-10-19T22:38:23.862123462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 16:3",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кон морето",
+      "rationale": "ימה буквално 'на запад' (кон морето), правецот е даден според Средоземното море"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨му⟩",
+      "rationale": "заменка додадена за да се разјасни поседувачот на תצאתו"
+    },
+    {
+      "kind": "measurement",
+      "subject": "излегувања",
+      "rationale": "תוצאות — географски крајни точки на границата"
+    }
+  ],
+  "translation": "и слегува кон морето, до границата на Јафлетите, до границата на долниот Бет Хорон и до Гезер; и крајните излегувања ⟨му⟩ беа кон морето.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5f31944a0008ab8d63a520be34c96a0693c2688f800e1743a12e8627e0675167",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/16\/1-4.1792446149388.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "и слегува"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "кон морето"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "гבול",
+      "gloss": "границата"
+    },
+    {
+      "surface": "היפלטי",
+      "gloss": "на Јафлетите"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границата"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Хорон"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "долниот"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Гезер"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "и беа"
+    },
+    {
+      "surface": "תצאתו",
+      "gloss": "крајните излегувања"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "кон морето"
+    }
+  ],
+  "timestamp": "2026-10-19T21:42:29.389022028Z",
+  "model": "glm-5.3"
+}

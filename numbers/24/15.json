@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 24:15",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שתם",
+      "rationale": "коренот שתם се јавува само тука во Танах"
+    },
+    {
+      "kind": "crux",
+      "subject": "שתם העין",
+      "rationale": "KJВ „отворени очи“ наспроти LXX\/самаритански и „затворени“ — од коренот што значи „открива“, тука „чии очи се откриени“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "мисловно",
+      "rationale": "משל е споредбена изрека,_shortcode на поетски пророчки говор"
+    }
+  ],
+  "translation": "И го подигна мисловното свое, и рече: изрека на Билам, синот на Беор, и изрека на мажот со отворени очи —",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "89b44a8c43887a2093bc4852eb13ce5672b499131a8707967ec21c0d2c98abc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/24\/13-16.1792445021730.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "и го подигна"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "мисловното свое"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот"
+    },
+    {
+      "surface": "בער",
+      "gloss": "Беор"
+    },
+    {
+      "surface": "ונאם",
+      "gloss": "и изрека"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "на мажот"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "со отворени"
+    },
+    {
+      "surface": "העין",
+      "gloss": "очите"
+    }
+  ],
+  "timestamp": "2026-10-19T21:23:41.732172601Z",
+  "model": "glm-5.3"
+}

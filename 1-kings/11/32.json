@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 11:32",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "едно племе",
+      "rationale": "бројот го довршува сметањето: дванаесет помалку десет = едно за Шломо."
+    }
+  ],
+  "translation": "а едното племе ќе биде нему — заради мојот слуга Давид и заради Јерушалаим, градот што го избрав од сите племиња на Јисраел.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "094791c3ee33d9a485b7998621e338ad3efa91490159d57c225f7fe932792c01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/11\/29-32.1792448743703.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשבט",
+      "gloss": "а племето"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "едното"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "למען",
+      "gloss": "заради"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "мојот слуга"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "и заради"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "го избрав"
+    },
+    {
+      "surface": "בה",
+      "gloss": "него"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од сите"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "племиња"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T22:25:43.706484858Z",
+  "model": "glm-5.3"
+}

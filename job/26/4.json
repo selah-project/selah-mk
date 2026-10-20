@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "אֵת тука е предлог „со\/кај” (со чиишто помош?), не обележувачот на предмет H853; JPS го чита „со чия помош”, ние го чуваме глифот ⟨את⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "נשמה е здив\/дух; изедначивме со руах (ח) по дисциплината, иако хебрејскиот корен е нешамах"
+    }
+  ],
+  "translation": "⟨את⟩ кому му ги изрече ⟨את⟩ зборовите? и чиј руах излезе од тебе?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a57f22bb4bc31b549fbf106645dbdd2ea5720470b04297c31ebe01009b1b67e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/26\/4-4.1792458424516.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кому — кого"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кому"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "изрече"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "зборовите"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "и чиј руах"
+    },
+    {
+      "surface": "מי",
+      "gloss": "чиј"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "излезе"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "од тебе"
+    }
+  ],
+  "timestamp": "2026-10-20T01:07:04.517080546Z",
+  "model": "glm-5.3"
+}

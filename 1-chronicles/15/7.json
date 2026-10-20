@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "сто и триесет",
+      "rationale": "број на браќата од домот на Гершон"
+    }
+  ],
+  "translation": "Од синовите на Гершон: Јоел началникот и неговите браќа, сто и триесет;",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0859649601e0547d0608963ddcadde0d2f17a7e6bcdef515bcd890fdce7801ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/15\/5-8.1792457041900.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "од синовите"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "на Гершон"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Јоел"
+    },
+    {
+      "surface": "השר",
+      "gloss": "началникот"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и неговите браќа"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "и триесет"
+    }
+  ],
+  "timestamp": "2026-10-20T00:44:01.901420977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сум",
+      "rationale": "хебрејскиот нема копула; придавката стои како исказ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "наредби",
+      "rationale": "פקודיך е mandates\/уредби — назначени напатствија"
+    }
+  ],
+  "translation": "Мал ⟨сум⟩ и презрен, ⟨но⟩ твоите наредби не заборавив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1c2157d7ff2e5881feaa9c174cea9b86260ba53b51d8368de75113181b382ee4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/141-144.1792454031249.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "Мал"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "сум"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "и презрен"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "твоите наредби"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "заборавив"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:51.250507440Z",
+  "model": "glm-5.3"
+}

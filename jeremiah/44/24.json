@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 44:24",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот нема копула — «што во земјата Мицраим», македонскиот бара «се»."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Слушајте",
+      "rationale": "императив «шмау» — повик до сите од Јехуда во Мицраим да слушнат."
+    },
+    {
+      "kind": "you",
+      "subject": "до народот и жените во Мицраим",
+      "rationale": "директно обраќање на Јирмејаху до целиот народ и сите жени."
+    }
+  ],
+  "translation": "И рече Јирмејаху до сиот народ и до сите жени: Слушајте го словото на Јахве, сите од Јехуда што ⟨се⟩ во земјата Мицраим:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "40398e70d8c046922b0eb402fee66e6b4cd7309c24605c6e49def771dc33e5fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/44\/21-24.1792451209677.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јирмејаху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сиот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и до"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "жени"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Слушајте"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "кכל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "од Јехуда"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-19T23:06:49.678740771Z",
+  "model": "glm-5.3"
+}

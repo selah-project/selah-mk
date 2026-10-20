@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "четири градови",
+      "rationale": "Список на градови на Левитите со број на крајот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "пасишта",
+      "rationale": "מגרש е отворен простор околу градот каде што се разодуваат стадата; 'пасишта' е најблиску, но е потесно."
+    }
+  ],
+  "translation": "⟨את⟩ Кедемот и ⟨את⟩ пасиштата нејзини, и ⟨את⟩ Мефаат и ⟨את⟩ пасиштата нејзини — градови четири.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "eb8f822dead556476f59ef2c288b995b269a191a46c598b23198b0ca0383db01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/21\/37-40.1792446211616.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Кедемот"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Кедемот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "пасиштата нејзини"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "пасиштата нејзини"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Мефаат"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Мефаат"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "пасиштата нејзини"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "пасиштата нејзини"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "градови"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    }
+  ],
+  "timestamp": "2026-10-19T21:43:31.616794452Z",
+  "model": "glm-5.3"
+}

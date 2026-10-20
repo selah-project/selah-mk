@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема сврзен копула"
+    },
+    {
+      "kind": "crux",
+      "subject": "פנימה",
+      "rationale": "'лицето кон внатре' — 'во палатата \/ во дворецот' (JPS, ASV) наспроти 'внатрешноста, карактерот' (KJV)"
+    }
+  ],
+  "translation": "Сета е во слава ќерката на кралот внатре; во златно-везени облеки е облечена.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "93c3c4f42fc18c2bacbe957f23f284e141d83dbd9849018b792aac39529388e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/45\/13-16.1792453274118.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сета"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "во слава"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерката"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на кралот"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "внатре"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "везени"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златно"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "облеки"
+    }
+  ],
+  "timestamp": "2026-10-19T23:41:14.119425062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 28:23",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מחליק\/לשון",
+      "rationale": "„гладок со јазикот“ — сликата на мазен јазик за ласкавец."
+    },
+    {
+      "kind": "addition",
+      "subject": "повеќе",
+      "rationale": "споредбата е имплицитна во хебрејскиот."
+    }
+  ],
+  "translation": "Оној што карака човек подоцна наоѓа ⟨е⟩ благонаклонет повеќе од оној што ласка со јазик.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d0b790fbd55f352791bbf4a66c2b18053e78c1e4fca3890fb69f98d74ac99f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/28\/21-24.1792454776486.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מוכיח",
+      "gloss": "оној што карака"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "подоцна"
+    },
+    {
+      "surface": "חן",
+      "gloss": "благонаклонет"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "наоѓа"
+    },
+    {
+      "surface": "ממחליק",
+      "gloss": "од оној што ласка"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "со јазик"
+    }
+  ],
+  "timestamp": "2026-10-20T00:06:16.487506439Z",
+  "model": "glm-5.3"
+}

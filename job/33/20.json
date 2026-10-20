@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 33:20",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душа",
+      "rationale": "נפש е здив\/апетит\/жизнена сила; 'душа' е најблиску, но носи подоцнежни нијанси."
+    },
+    {
+      "kind": "hapax",
+      "subject": "וזהמתו",
+      "rationale": "зборот за 'гади се \/ расипува' се јавува речиси само тука во Танах."
+    }
+  ],
+  "translation": "И животот негов се гади од леб, и неговата душа од вкусна храна.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3cd23454b2aa2a0891e94a601ab8c6e94937f82c27733765c568264499387708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/33\/17-20.1792455238821.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזהמתו",
+      "gloss": "се гади"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "животот негов"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "од леб"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "и неговата душа"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "од храна"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "вкусна (желана)"
+    }
+  ],
+  "timestamp": "2026-10-20T00:13:58.822464046Z",
+  "model": "glm-5.3"
+}

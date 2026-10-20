@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "daniel 11:41",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨народи⟩",
+      "rationale": "хебрејскиот вели само „и многу“ — додаден именски предмет"
+    },
+    {
+      "kind": "crux",
+      "subject": "הצבי",
+      "rationale": "„земјата на убавината\/сјајот“ — Brewer: Земјата на Јисраел; традицијата: „славната земја“"
+    },
+    {
+      "kind": "crux",
+      "subject": "וראשית",
+      "rationale": "„првите\/главните“ против „првите плодови“ (מלט צבי) — најголем дел: првенци"
+    }
+  ],
+  "translation": "И ќе влезе во земјата на убавината, и многу ⟨народи⟩ ќе се споткнат; но оие ќе се избават од раката негова: Едом и Моав и првите од синовите Амонови.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1a2bc11bccbfc38a1c9f3e00efa6db654dec1cd86a33e543f1fd2166a950dbaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/11\/41-44.1792456269267.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "и ќе влезе"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "на убавината"
+    },
+    {
+      "surface": "ורבות",
+      "gloss": "и многу"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ќе се споткнат"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "но оие"
+    },
+    {
+      "surface": "ימלטו",
+      "gloss": "ќе се избават"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "од раката негова"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "и Моав"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "и првите"
+    },
+    {
+      "surface": "בני",
+      "gloss": "од синовите"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амон"
+    }
+  ],
+  "timestamp": "2026-10-20T00:31:09.268286577Z",
+  "model": "glm-5.3"
+}

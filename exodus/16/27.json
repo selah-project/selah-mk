@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 16:27",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "некои",
+      "rationale": "хебрејскиот вели само „излегоа од народот“; делот од народот е подразбиран"
+    }
+  ],
+  "translation": "И биде во денот седми: излегоа ⟨некои⟩ од народот да берат, и не најдоа.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6b1a57a14eb8d8646665b95961dd3f2719e0e099fa3a1fe74a2ce8cfe0da27e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/16\/26-28.1792447730880.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седми"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "излегоа"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "да берат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "најдоа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:08:50.882576158Z",
+  "model": "glm-5.3"
+}

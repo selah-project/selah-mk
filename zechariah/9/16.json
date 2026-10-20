@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 9:16",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот нема сврзник — именската реченица го бара"
+    },
+    {
+      "kind": "crux",
+      "subject": "אבני נזר",
+      "rationale": "буквално 'камења на венец\/посветување' — дали се луѓето накит на божјиот венец или камења на жртвеникот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "венец",
+      "rationale": "נזר е 'нешто посветено', дијадема на свештеник или цар — сликата на посветен накит"
+    }
+  ],
+  "translation": "И ќе ги спаси Јахве, Елохим нивниот, во тој ден, како стадо на народот Свој, зашто камења на венец ⟨се⟩, што се издигаат над земјата Негова.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f6cc2bd4389c9cda67b043e94cf9a6b37261e043c60323e2ad3e15dacb6fe672",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/9\/13-16.1792452761620.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והושיעם",
+      "gloss": "и ќе ги спаси"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Елохим нивниот"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во ден"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "како стадо"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "на народот Свој"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "камења"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "на венец"
+    },
+    {
+      "surface": "מתנוססות",
+      "gloss": "што се издигаат"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "земјата Негова"
+    }
+  ],
+  "timestamp": "2026-10-19T23:32:41.622308734Z",
+  "model": "glm-5.3"
+}

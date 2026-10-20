@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 49:23",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "номинална реченица без македонски копула — додадена"
+    },
+    {
+      "kind": "crux",
+      "subject": "грижата на морето",
+      "rationale": "בים דאגה: 'на морето има грижа' (море како место) или 'како вознемирено море' — второто го чита BSB"
+    }
+  ],
+  "translation": "За Дамаск: засрамени се Хамат и Арпад, зашто лоша вест чуја — се стопија; грижа на морето ⟨е⟩, да се смири не може.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dff7833e56f988e226b59be5e4c3fffa951c660c407cc6f7d4a3241a812ad76d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/49\/21-24.1792451236758.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדמשק",
+      "gloss": "за Дамаск"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "засрамени се"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "וארפד",
+      "gloss": "и Арпад"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "вест"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "лоша"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чуја"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "се стопија"
+    },
+    {
+      "surface": "בים",
+      "gloss": "на морето"
+    },
+    {
+      "surface": "דאגה",
+      "gloss": "грижата"
+    },
+    {
+      "surface": "השקט",
+      "gloss": "да се смири"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "може"
+    }
+  ],
+  "timestamp": "2026-10-19T23:07:16.759212928Z",
+  "model": "glm-5.3"
+}

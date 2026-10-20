@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 31:17",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ידעת איש",
+      "rationale": "„да познаеш маж“ — хебрејски евфемизм за полов однос, задржан буквално."
+    },
+    {
+      "kind": "crux",
+      "subject": "בטף",
+      "rationale": "„меѓу малите“ — машки меѓу децата (хебрејскиот вели само „машки меѓу тaф“); некои преводи додаваат „дечиња“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכר",
+      "rationale": "Зборот זכר (машки) стои двапати во еден стих — повторување што го поврзува стихот."
+    }
+  ],
+  "translation": "А сега убијте ги сите машки меѓу децата, и секоја жена што познала маж со легнување со маж — убијте ја.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "835b8a91d21d932e2e12bea38edddd8ba4addd908d734e059b64ffd068d6dde0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/31\/17-20.1792445203573.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А сега"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "убијте ги"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "машки"
+    },
+    {
+      "surface": "בטף",
+      "gloss": "меѓу децата"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и секоја"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "што познала"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мож"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "со легнување"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "со маж"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "убијте ја"
+    }
+  ],
+  "timestamp": "2026-10-19T21:26:43.574435866Z",
+  "model": "glm-5.3"
+}

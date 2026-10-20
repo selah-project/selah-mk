@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 25:3",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "пламна гневот на Јахве",
+      "rationale": "ויחר אף יהוה — буквално 'и носот на Јахве зајадее\/загреја'; идиом за гнев"
+    },
+    {
+      "kind": "substitution",
+      "subject": "се приврза",
+      "rationale": "ויצמד — буквално 'се прицеди\/се сврза како јарем', фигуративно приврзаност"
+    }
+  ],
+  "translation": "И Јисраел се приврза за Баал-Пеор, и пламна гневот на Јахве против Јисраел.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0343efe128faed1801f91b62bbdf3a0f38ec239c733469186c1b1a872c77b549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/25\/1-4.1792445030321.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצמד",
+      "gloss": "се приврза"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "за Баал"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Пеор"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "пламна"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гневот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "против Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T21:23:50.322385748Z",
+  "model": "glm-5.3"
+}

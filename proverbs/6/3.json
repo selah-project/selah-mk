@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 6:3",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התרפס",
+      "rationale": "од רפס 'газење': букв. 'изгазен ⟨се⟩' — смирување до земја; преводите се делат меѓу 'понизи се' и 'rowing настојувај'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ורהב",
+      "rationale": "רהב 'притиснувај, настојувај силно' — KJV 'make sure thy friend' наспроти JPS 'urge thy neighbour'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Направи ова сега",
+      "rationale": "низ императиви: направи, ослободи, оди, смири, притискај — итен повик"
+    },
+    {
+      "kind": "you",
+      "subject": "сине мој",
+      "rationale": "директен обрат до ученикот продолжува"
+    }
+  ],
+  "translation": "Направи ова сега, сине мој, и ослободи ⟨се⟩, оти си дошол во дланка на пријател свој: оди, смири ⟨се⟩ до земја и притискај го пријателот свој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "919b228c06ee50d05ed6d41fc55a6edbf23eff6c0d4d90ade1b7eda4afa14a4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/6\/1-4.1792454355617.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Направи"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "сега"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сине мој"
+    },
+    {
+      "surface": "והנצל",
+      "gloss": "и ослободи ⟨се⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "оти"
+    },
+    {
+      "surface": "באת",
+      "gloss": "си дошол"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "во дланка"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "на пријател свој"
+    },
+    {
+      "surface": "לך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "התרפס",
+      "gloss": "смири ⟨се⟩ до земја"
+    },
+    {
+      "surface": "ורהב",
+      "gloss": "и притискај"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "пријателот свој"
+    }
+  ],
+  "timestamp": "2026-10-19T23:59:15.619142109Z",
+  "model": "glm-5.3"
+}

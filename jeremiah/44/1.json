@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 44:1",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "велејќи",
+      "rationale": "לאמר е инфинитивен завршок, македонскиот бара глаголска форма"
+    }
+  ],
+  "translation": "Зборот што беше на Јермијаху за сите Јудејци што живеат во земјата Мицраим, што живеат во Мигдол и во Тахпанхес и во Ноф и во земјата Патрос, велејќи:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5042dcbe78e1f0e87495c8bfc6012e011c02c044eae62e6c5a3f1d64714bf568",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/44\/1-4.1792451092820.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Зборот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јермијаху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "за"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Јудејци"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "што живеат"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "што живеат"
+    },
+    {
+      "surface": "במגדל",
+      "gloss": "во Мигдол"
+    },
+    {
+      "surface": "ובתחפנחס",
+      "gloss": "и во Тахпанхес"
+    },
+    {
+      "surface": "ובנף",
+      "gloss": "и во Ноф"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "и во земјата"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Патрос"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    }
+  ],
+  "timestamp": "2026-10-19T23:04:52.820760881Z",
+  "model": "glm-5.3"
+}

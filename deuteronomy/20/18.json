@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 20:18",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Јисраел",
+      "rationale": "образложение на заповедта, упатено на народот"
+    }
+  ],
+  "translation": "за да не ве научат ⟨את⟩ да правите според сите нивни одвратности што ги прават на нивните богови, и да не согрешите кон Јахве, вашиот Елохим.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1a1d65c0a3335f74ba6766fac2daffbabbc9c2e411125f6611a255f321d60f00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/20\/17-20.1792445627144.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "ве научат"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да правите"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "според сите"
+    },
+    {
+      "surface": "תועבתם",
+      "gloss": "нивни одвратности"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "прават"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "на нивните богови"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "и да согрешите"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "кон Јахве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "вашиот Елохим"
+    }
+  ],
+  "timestamp": "2026-10-19T21:33:47.145310629Z",
+  "model": "glm-5.3"
+}

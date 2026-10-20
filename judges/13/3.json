@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 13:3",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "овде את е заменка „ти” (H859), не маркерот на предмет את (H853) — не се обележува со ⟨את⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "до жената на Маноах",
+      "rationale": "директен говор на ангелот кон неплодната жена"
+    },
+    {
+      "kind": "mystery",
+      "subject": "објава на раѓање",
+      "rationale": "ветување спротивно на познатата состојба — скриеното ќе се открие"
+    }
+  ],
+  "translation": "И се јави ангел на Јахве на жената и ѝ рече: Еве, ти си неплодна и не си раѓала — но ќе зачнеш и ќе родиш син.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "7d426e7f1fd3991cdcac35c60285e776bf96e02eebae00c5c13a1199951556e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/13\/1-4.1792446483698.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и се јави"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ангел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ѝ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сега"
+    },
+    {
+      "surface": "את",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "неплодна"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "си раѓала"
+    },
+    {
+      "surface": "והרית",
+      "gloss": "ќе зачнеш"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "и ќе родиш"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    }
+  ],
+  "timestamp": "2026-10-19T21:48:03.699368542Z",
+  "model": "glm-5.3"
+}

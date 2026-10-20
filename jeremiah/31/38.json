@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 31:38",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "мерење на градот",
+      "rationale": "почнува топографска мерна серија: градот се мери од кулата Хананел до портата на аголот"
+    },
+    {
+      "kind": "crux",
+      "subject": "портата на аголот",
+      "rationale": "שער הפנה: „портата на аголот\/уголот“ — име на место, не опис"
+    }
+  ],
+  "translation": "Ете, доаѓаат дни — изрека на Јахве — и градот ќе биде изграден за Јахве, од кулата Хананел до портата на аголот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "465613c77e768e6df1fb56a52b47800c3acaf3267fb942dade1cdae9b88c4c97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/31\/37-40.1792450886583.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ете"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ונבנתה",
+      "gloss": "и ќе биде изграден"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Јахве"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "од кулата"
+    },
+    {
+      "surface": "חננאל",
+      "gloss": "Хананел"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "на аголот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:01:26.584506971Z",
+  "model": "glm-5.3"
+}

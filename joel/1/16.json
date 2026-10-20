@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joel 1:16",
+  "book": "joel",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот пасив без помошен глагол, македонскиот бара „е отсечена“"
+    },
+    {
+      "kind": "addition",
+      "subject": "ли",
+      "rationale": "прашалното הלוא се изразува со „ли“ во македонскиот"
+    },
+    {
+      "kind": "elision",
+      "subject": "נכרת",
+      "rationale": "дословно „секоена“ за храната — задржано „отсечена“ за да се чува сликата на сечење на завет"
+    }
+  ],
+  "translation": "Не ⟨ли⟩ пред очите наши храната е отсечена, од домот на нашиот Елохим радост и весела?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3348162225eb54ad91626f8e4858bc0c12354902f81394aa6db8731a0bd6267e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joel\/1\/13-16.1792452294263.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Не ⟨ли⟩"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "пред"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "очите наши"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "храната"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "е отсечена"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "од домот"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "на нашиот Елохим"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радост"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "и весела"
+    }
+  ],
+  "timestamp": "2026-10-19T23:24:54.264380739Z",
+  "model": "glm-5.3"
+}

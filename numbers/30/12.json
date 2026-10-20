@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "замолча кон неа",
+      "rationale": "букв. 'и занеме кон неа' — хебрејски израз за воздржаност как пристанување"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אסר\/אסרה",
+      "rationale": "именката и глаголот од ист корен 'сврзе зарок' — повторувањето е стилско, делумно задржано"
+    }
+  ],
+  "translation": "И нејзиниот маж чу и замолча кон неа, не ја спречи ⟨את⟩ неа — тогаш ќе стојат сите нејзини завети и секој зарок што го сврзала на својата нефеш ќе стои.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "8255ef01ac25b4e46433a6f266d7164c0065eb3497f8bfeecac8c54edac4b553",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/30\/9-12.1792445183138.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "И чу"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "нејзиниот маж"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "и замолча"
+    },
+    {
+      "surface": "לה",
+      "gloss": "кон неа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "ја спречи"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "неа"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "ќе стојат"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "нејзини завети"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и секој"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "зарок"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "го сврзала"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "својата нефеш"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ќе стои"
+    }
+  ],
+  "timestamp": "2026-10-19T21:26:23.140190620Z",
+  "model": "glm-5.3"
+}

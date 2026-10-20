@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 26:21",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הקרש האחד ... הקרש האחד",
+      "rationale": "хебрејскиот вели „под даската едната... под даската едната“ — повторување значи „една... друга“, според бројот (два и два)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "четириесет подножја",
+      "rationale": "броење: четириесет сребрени подножја, два под секоја даска."
+    }
+  ],
+  "translation": "и четириесет нивни подножја од сребро: два подножја под ⟨е⟩дната даска и два подножја под ⟨е⟩дната даска.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9adc01df8a0dc59b933c85a15f4d4d634222922ff17ba516ddd47f98782d39ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/26\/21-24.1792443758249.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "и четириесет"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "нивни подножја"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "од сребро"
+    },
+    {
+      "surface": "שני",
+      "gloss": "два"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "подножја"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "⟨е⟩дната даска"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨е⟩дната"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "и два"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "подножја"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "⟨е⟩дната даска"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨е⟩дната"
+    }
+  ],
+  "timestamp": "2026-10-19T21:02:38.251335122Z",
+  "model": "glm-5.3"
+}

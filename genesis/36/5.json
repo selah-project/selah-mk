@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "хебрејскиот нема копула во „ова (се) синовите“"
+    }
+  ],
+  "translation": "И Охолибама роди ⟨את⟩ Јеуш, и ⟨את⟩ Јалам, и ⟨את⟩ Корах; ова ⟨се⟩ синовите на Исав, кои му се родија во земјата Кенаан.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "61f18a706eae2e776160c46f99e4e585e0011440e267dc81b376871a468d40be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/36\/5-8.1792443015602.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "И Охолибама"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јеуш"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Јеуш"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Јалам"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Јалам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Корах"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "на Исав"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кои"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "му се родија"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    }
+  ],
+  "timestamp": "2026-10-19T20:50:15.603041688Z",
+  "model": "glm-5.3"
+}

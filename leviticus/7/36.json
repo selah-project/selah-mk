@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 7:36",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот пасив бара „се даде“; хебрејскиот инфинитив е само „да даде“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "вечна наредба за поколенијата",
+      "rationale": "постојана пропишана обврска преку поколенијата"
+    }
+  ],
+  "translation": "што Јахве заповеда да им се даде во денот кога ги помаза ⟨את⟩ нив, од ⟨את⟩ синовите на Јисраел — вечна наредба за нивните поколенија.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e4c1f5bd048a04432ba0d321b3366c8f0767b0fa3cf9c28afa5821fb34902c0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/7\/33-36.1792444077922.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "да даде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ним"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "ги помаза"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ги",
+      "marks": "нив"
+    },
+    {
+      "surface": "мאת",
+      "gloss": "од ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "наредба"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечна"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "за нивните поколенија"
+    }
+  ],
+  "timestamp": "2026-10-19T21:07:57.929624549Z",
+  "model": "glm-5.3"
+}

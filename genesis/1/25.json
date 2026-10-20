@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Хебрејскиот нема копула во „ки тов“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ѕверовите",
+      "rationale": "חיה — живо суштество; во полски контекст: диви животни, ѕверови"
+    }
+  ],
+  "translation": "И Елохим направи ⟨את⟩ ѕверовите на земјата според нивниот вид, и ⟨את⟩ добитокот според неговиот вид, и ⟨את⟩ сето она што лази по прста според неговиот вид; и Елохим виде дека ⟨е⟩ добро.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "fa5a5940706a609b9662839ef89eeb035bffa88f31852fdad820e65bdf6b3ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/1\/25-28.1792442403119.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и направи"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ѕверовите на земјата"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ѕверовите"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "според нејзиниот вид"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "добитокот"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "добитокот"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "според неговиот вид"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сето она што лази"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "она што лази"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "по прста"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "според неговиот вид"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и виде"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "כי",
+      "gloss": " дека"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:03.120229515Z",
+  "model": "glm-5.3"
+}

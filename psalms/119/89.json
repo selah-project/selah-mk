@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "двата",
+      "rationale": "שמים е двоина (два неба); македонскиот нема двоина, значењето е означено во заграда"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "хебрејскиот нема глагол-врска; македонскиот бара „стои“"
+    }
+  ],
+  "translation": "До вечноста, Јахве, твојот збор стои во ⟨двата⟩ неба.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "98a14759d8aca89bd024f0b466bc6ff453bc4b3f2100e74ee4425717a4540894",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/89-92.1792453988882.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "до вечноста"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "твојот збор"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "стои"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "во ⟨двата⟩ неба"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:08.883114386Z",
+  "model": "glm-5.3"
+}

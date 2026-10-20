@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 13:23",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "легна со татковците свои",
+      "rationale": "хебрејски идиом за смрт (וישכב עם אבתיו), задржан буквално"
+    },
+    {
+      "kind": "measurement",
+      "subject": "десет години",
+      "rationale": "број години на спокојство — мерење на време"
+    }
+  ],
+  "translation": "И Авија легна со татковците свои, и го погребаа ⟨את⟩ во градот Давидов; и Аса, синот негов, царува наместо него. Во неговите дни земјата беше спокојна десет години.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7ca13cf73f251460d02be4f2e656a6bd7b95d67e0a15a12dd41fd7200891631f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/13\/21-23.1792457481346.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "и легна"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авија"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "татковците свои"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "и погребаа"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "го (Авија)"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "во градот"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидов"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и царува"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот негов"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "наместо него"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "во неговите дни"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "беше спокојна"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десет"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    }
+  ],
+  "timestamp": "2026-10-20T00:51:21.347480519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨јас⟩",
+      "rationale": "акцентското 'אני הוא' бара поткрепа во македонскиот — додаден вокативен акцент."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אני ×4",
+      "rationale": "четирикратното 'јас' — јас направив, јас ќе понесам — спротивставено на идилите што не можат ни себе да се избават."
+    }
+  ],
+  "translation": "И до старост ⟨јас⟩ сум Тој, и до сиви коси јас ќе носам; јас направив, и јас ќе понесам, и јас ќе носам и ќе избавам.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "929378757d3c63c681e5ccdedcaeaa2a743f6eac32b856611b017741e34ba79c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/46\/1-4.1792450179288.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "старост"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "сум Тој"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "сиви коси"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "ќе носам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "направив"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "и јас"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ќе понесам"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "и јас"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "ќе носам"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "и ќе избавам"
+    }
+  ],
+  "timestamp": "2026-10-19T22:49:39.292749294Z",
+  "model": "glm-5.3"
+}

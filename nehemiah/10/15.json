@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "главите на народот",
+      "rationale": "Списокот преминува од свештеници и левити кон старешините на народот."
+    }
+  ],
+  "translation": "главите на народот: Парош, Пахат-Моав, Еилам, Зату, Бани,",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2746760698a3a5d19696e44d5f80e244858eba04a56d3b0ef17fa1de179e6a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/10\/13-16.1792456634575.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "главите"
+    },
+    {
+      "surface": "העם",
+      "gloss": "на народот"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Парош"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Пахат"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "-Моав"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Еилам"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Зату"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бани"
+    }
+  ],
+  "timestamp": "2026-10-20T00:37:14.576569328Z",
+  "model": "glm-5.3"
+}

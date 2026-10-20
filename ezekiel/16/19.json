@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 16:19",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "а ти",
+      "rationale": "субјектот во второто полустих е даден во хебрејскиот сврзувачки конјугатив, но македонскиот бара експлицитна промена на подметот"
+    }
+  ],
+  "translation": "И мојот леб што ти го дадов — бело брашно и масло и мед — со него те хранев, а ти го постави пред нив за мирис на умиление; и така беше, вели Адонај Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e3871291f1a1296e9a2db91200bb5184e7e59401ec76bd4af1b1e8d1b0405e95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/16\/17-20.1792451562239.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולחמי",
+      "gloss": "И мојот леб"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дадов"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "бело брашно"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "и масло"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "и мед"
+    },
+    {
+      "surface": "האכלתיך",
+      "gloss": "те хранев"
+    },
+    {
+      "surface": "ונתתיהו",
+      "gloss": "а ти го постави"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "пред нив"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "за мирис"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "на умиление"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:12:42.240501552Z",
+  "model": "glm-5.3"
+}

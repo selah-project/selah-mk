@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 6:2",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Плиштимците",
+      "rationale": "Свештениците и гатачите се директно прашани: кажете ни"
+    }
+  ],
+  "translation": "И Плиштимците повикаа свештеници и гатачи, велејќи: Што да направиме со ковчегот на Јахве? Кажете ни со што ќе го испратиме ⟨на⟩ неговото место.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "53cb481dcbf63fcb3767efb73f11797f92619438c26a078ee4494b40951fe386",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/6\/1-4.1792446760608.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "повикаа"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштимците"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "свештеници"
+    },
+    {
+      "surface": "ולקסמים",
+      "gloss": "и гатачи"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "да направиме"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "со ковчегот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הודענו",
+      "gloss": "Кажете ни"
+    },
+    {
+      "surface": "במה",
+      "gloss": "со што"
+    },
+    {
+      "surface": "נשלחנו",
+      "gloss": "ќе го испратиме"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "неговото место"
+    }
+  ],
+  "timestamp": "2026-10-19T21:52:40.609239987Z",
+  "model": "glm-5.3"
+}

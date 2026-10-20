@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-samuel 2:36",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לאגורת",
+      "rationale": "Ретка збор — мала сребрена монета (агора) или „плата“; преведувачите се делат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "свештенствата",
+      "rationale": "הכהנות е множина — „една од свештеничките должности“, служби, не институција"
+    }
+  ],
+  "translation": "И ќе биде: секој што остане во твојот дом ќе дојде да му се поклони за парче сребро и колач леб, и ќе рече: Припој ме, те молам, кон една од свештенствата, за да јадам залак леб.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2f6d5e463a7d1b9aeaa99aad66c03e61704433ce07f10e17a5e801aa44e52334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/2\/34-36.1792447859872.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И ќе биде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "што остане"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "во твојот дом"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ќе дојде"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "да се поклони"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לאגורת",
+      "gloss": "за парче"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "и колач"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и ќе рече"
+    },
+    {
+      "surface": "ספחני",
+      "gloss": "Припој ме"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "הכהנות",
+      "gloss": "од свештенствата"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "за да јадам"
+    },
+    {
+      "surface": "פת",
+      "gloss": "залак"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    }
+  ],
+  "timestamp": "2026-10-19T22:10:59.876093719Z",
+  "model": "glm-5.3"
+}

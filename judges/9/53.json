@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "judges 9:53",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פלח רכב",
+      "rationale": "Буквално „парче од рачниот („јавачки“) камен“ — горниот мелнички камен; преведувачите се делат меѓу „горен камен од мелница“ и „дел од мелнички камен“."
+    },
+    {
+      "kind": "hapax",
+      "subject": "פלח",
+      "rationale": "Зборот פלח (парче, резен) се јавува само тука во Танах."
+    }
+  ],
+  "translation": "И една жена фрли горен мелнички камен врз главата на Авимелех, и му го скрши ⟨את⟩ черепот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "326f1e807c23d69ac53e67e63fd8f16a8e5b9ab4a1c55427f26d81330e50f155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/9\/53-56.1792446447706.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשלך",
+      "gloss": "и фрли"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "парче"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "од мелничкиот камен"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "главата"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "на Авимелех"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "и го скрши"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "черепот"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "черепот негов"
+    }
+  ],
+  "timestamp": "2026-10-19T21:47:27.707747163Z",
+  "model": "glm-5.3"
+}

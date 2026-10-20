@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 22:23",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "како",
+      "rationale": "хебрејскиот вели само „клин“ — сликата е директна, македонскиот бара споредба"
+    }
+  ],
+  "translation": "И ќе го забијам како клин на сигурно место, и ќе биде престол на славата за домот на татко му.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "901114603bf688e6ecfab1fa184dbae5a9652b4996eb2a942a311725a196bd76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/22\/21-24.1792449814180.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקעתיו",
+      "gloss": "и ќе го забијам"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "клин"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "на место"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "сигурно"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "престол"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "на славата"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "за домот"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "на татко му"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:34.183226736Z",
+  "model": "glm-5.3"
+}

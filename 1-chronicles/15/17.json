@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 15:17",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "списокот на имиња",
+      "rationale": "Стихот е попис на назначените пејачи со нивните татковски линии."
+    }
+  ],
+  "translation": "И левитите го поставија ⟨את⟩ Хеиман, син на Јоел, и од неговите браќа Асаф, син на Берекјаху, и од синовите Мерари, нивните браќа, Ејтан, син на Кушајаху.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8a4df17afd2251ff5888bee062b38d79338c347a60e4f986176a84385b9e3223",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/15\/17-20.1792457088605.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמידו",
+      "gloss": "ги поставија"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хеиман"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "Хеиман"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "на Јоел"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "неговите браќа"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "на Берекјаху"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерари"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "нивните браќа"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "Ејтан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "קושיהו",
+      "gloss": "на Кушајаху"
+    }
+  ],
+  "timestamp": "2026-10-20T00:44:48.606633447Z",
+  "model": "glm-5.3"
+}

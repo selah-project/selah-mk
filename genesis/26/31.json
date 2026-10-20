@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישכימו",
+      "rationale": "буквално 'натоварија рано' — станаа рано изутрина"
+    }
+  ],
+  "translation": "И станаа рано наутро, и се заколнаа еден со другиот, и Јицхак ги испрати, и заминаа од ⟨את⟩ него во мир.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "10d6e7aa241884c11c370f83d78c57be6045a987b2605a4919a51b7795e5f248",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/26\/29-32.1792442822017.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "и станаа рано"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "наутро"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "и се заколнаа"
+    },
+    {
+      "surface": "איש",
+      "gloss": "еден"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "со другиот"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "и ги испрати"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Јицхак"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "и заминаа"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "во мир"
+    }
+  ],
+  "timestamp": "2026-10-19T20:47:02.020963541Z",
+  "model": "glm-5.3"
+}

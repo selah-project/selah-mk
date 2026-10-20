@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 10:23",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "слуги на Баал",
+      "rationale": "עבדי буквално „слугите“ — традицијата вели „обожавателите“"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "„туку само“ — хебрејскиот пар како исклучителна конструкција"
+    },
+    {
+      "kind": "secret",
+      "subject": "пребарајте и видете",
+      "rationale": "Јеху бараше скриени служители на Јахве меѓу толпата — проверка на внатрешното"
+    }
+  ],
+  "translation": "И влезе Јеху, и Јехонадав, синот на Рекав, во домот на Баал, и им рече на слугите на Баал: Пребарајте и видете, да нема тука со вас од слугите на Јахве — туку само слугите на Баал.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b77bf39627a62b846abc68c2e46c22d0e36dc8c7b3811fd346deb0aa0eb1aba0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/10\/21-24.1792449279818.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и влезе"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Јеху"
+    },
+    {
+      "surface": "ויהונדב",
+      "gloss": "и Јехонадав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот на"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "Рекав"
+    },
+    {
+      "surface": "בית",
+      "gloss": "во домот на"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לעבדי",
+      "gloss": "на слугите на"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "חפשו",
+      "gloss": "пребарајте"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "и видете"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да нема"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "פה",
+      "gloss": "тука"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "со вас"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "од слугите на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "туку"
+    },
+    {
+      "surface": "אם",
+      "gloss": "само"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слугите на"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "само тие"
+    }
+  ],
+  "timestamp": "2026-10-19T22:34:39.821293162Z",
+  "model": "glm-5.3"
+}

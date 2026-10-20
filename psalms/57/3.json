@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גמר עלי",
+      "rationale": "'што завршува\/исполнува за мене' — објектот е отсутен во хебрејскиот"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "македонскиот бара објект каде хебрејскиот молчи"
+    }
+  ],
+  "translation": "Ќе Г повикам Елохим Всевишниот, ⟨на⟩ Ел што завршува ⟨се⟩ за мене.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/57\/1-4.1792453431189.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Ќе повикам"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Всевишниот"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "што завршува"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "за мене"
+    }
+  ],
+  "timestamp": "2026-10-19T23:43:51.190284090Z",
+  "model": "glm-5.3"
+}

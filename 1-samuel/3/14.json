@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "заклетвениот негатив „אם…“ значи „дефинитивно нема“ — повеќето преводи додаваат „нема да се искупи“; букв. е условно „ако\/дали“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יתכפר",
+      "rationale": "букв. „да се покрие“ (корен כפר); македонското „се покрие“ го чува сликата на покривање."
+    },
+    {
+      "kind": "substitution",
+      "subject": "минха",
+      "rationale": "מנחה е оставен како минха — бескрвна жртва; не е данок ни дар тука."
+    }
+  ],
+  "translation": "И затоа се заколнив за домот на Ели: ако се покрие вината на домот Ели со жртва и со минха — до век.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6be9d30d54d0c5465046f4359c8277051c27800fa5fa082cc075ef720b31d282",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/3\/13-16.1792446724836.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "и затоа"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "се заколнив"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "за домот"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на Ели"
+    },
+    {
+      "surface": "אם",
+      "gloss": "дали"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "се покрие"
+    },
+    {
+      "surface": "עון",
+      "gloss": "вината"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ели"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "со жртва"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "и со минха"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "век"
+    }
+  ],
+  "timestamp": "2026-10-19T21:52:04.836814755Z",
+  "model": "glm-5.3"
+}

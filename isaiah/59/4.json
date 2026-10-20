@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 59:4",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тоху",
+      "rationale": "תהו е истовишиот збор од Битие 1:2 („пустелија“); оставен како звучен збор според D2-дисциплината"
+    },
+    {
+      "kind": "substitution",
+      "subject": "шав",
+      "gloss_note": "",
+      "rationale": "שוא како звучен корен (ср. трето заповед); „шав“ наместо описен превод"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "און\/עון",
+      "rationale": "родија און (авен, беззаконије) одговара на עון од стих 2 — созвучје меѓу гревовите, делумно изгубено"
+    }
+  ],
+  "translation": "Нема кој да повика во цедек, и нема кој да се суди во верност; се потпираат на тоху и зборуваат шав, зачнаа мака и родија беззаконије.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/59\/1-4.1792450271050.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Нема"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "кој да повика"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "во цедек"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "кој да се суди"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "во верност"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "се потпираат"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "тоху"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "и зборуваат"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "шав"
+    },
+    {
+      "surface": "הרו",
+      "gloss": "зачнаа"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "мака"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "и родија"
+    },
+    {
+      "surface": "און",
+      "gloss": "беззаконије"
+    }
+  ],
+  "timestamp": "2026-10-19T22:51:11.051747999Z",
+  "model": "glm-5.3"
+}

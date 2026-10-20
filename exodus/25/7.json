@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מלאים",
+      "rationale": "авен милулим — камења за поставување\/настанување; само во свештеничката терминологија"
+    },
+    {
+      "kind": "crux",
+      "subject": "שהם",
+      "rationale": "шохам — обично 'оникс', но LXX и други предлагаат брилјант\/берил"
+    }
+  ],
+  "translation": "камења шохам и камења за вградување за ефодот и за хошенот",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c3f6db33fae3c722f736eff3c20e172212ed54d1359727fece0f7ea953ff71d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/25\/5-8.1792443729612.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "камења"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "шохам\/оникс"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "и камења"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "за вградување (наставени)"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "за ефодот"
+    },
+    {
+      "surface": "וולחשן",
+      "gloss": "и за хошенот (нагрудникот)"
+    }
+  ],
+  "timestamp": "2026-10-19T21:02:09.615868729Z",
+  "model": "glm-5.3"
+}

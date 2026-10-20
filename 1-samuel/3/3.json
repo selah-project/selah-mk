@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 3:3",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "изгасната ламба ↔ очите што темнат",
+      "rationale": "כבה (3:3) и כהה (3:2) — сликата на гаснење ја поврзува ламбата со видот на Или; изгубено во превод."
+    }
+  ],
+  "translation": "Ламбата на Елохим уште не беше изгасната, а Шемуел лежеше во храмот на Јахве, таму каде што беше ковчегот на Елохим.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "8febfc33a236a713579fca515f140d121273be083f762862972e35a4290340e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/3\/1-4.1792446689502.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "Ламбата"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "уште не"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "беше изгасната"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "а Шемуел"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "лежеше"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "во храмот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "таму каде што"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчегот"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "на Елохим"
+    }
+  ],
+  "timestamp": "2026-10-19T21:51:29.503993321Z",
+  "model": "glm-5.3"
+}

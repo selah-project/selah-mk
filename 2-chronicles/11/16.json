@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 11:16",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "во",
+      "rationale": "македонскиот бара предлог кај дојдоа во Јерушалаим; хебрејскиот има само.acc"
+    },
+    {
+      "kind": "addition",
+      "subject": "жртви",
+      "rationale": "לזבוח значи само „да колат (жртва)“; именката е додадена за јасност"
+    },
+    {
+      "kind": "elision",
+      "subject": "הנתנים",
+      "rationale": "активно причастие „оние што даваат“ — релативната congregation е предлог на македонски"
+    }
+  ],
+  "translation": "И по нив, од сите племиња на Јисраел, оние што го дадоа ⟨את⟩ срцето свое да Го бараат ⟨את⟩ Јахве, Елохим на Јисраел, дојдоа во Јерушалаим да Му колат жртви на Јахве, Елохим на татковците нивни.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1c7fd9b0544fdfdb8ad2d79d2f80d7f48a0c4b4be52b85cdf10aa69346df4fea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/11\/16-16.1792458548563.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחריהם",
+      "gloss": "и по нив"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од сите"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "племиња на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "הנתנים",
+      "gloss": "оние што даваа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срцето свое"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "срцето свое"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "да бараат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дојдоа"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "во Јерушалаим"
+    },
+    {
+      "surface": "לזבוח",
+      "gloss": "да колат жртви"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "татковците нивни"
+    }
+  ],
+  "timestamp": "2026-10-20T01:09:08.564220210Z",
+  "model": "glm-5.3"
+}

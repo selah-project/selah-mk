@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 37:6",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨сум⟩",
+      "rationale": "Хебрејскиот нема копула во „אני יהוה“ — македонскиот ја бара."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ונתתי… ונתתי",
+      "rationale": "Повторен глагол „да положам\/да внесам“ во строб на четири дејства, задржан со ист збор."
+    }
+  ],
+  "translation": "И ќе положам на вас жили, и ќе изведам на вас месо, и ќе ве покријам со кожа, и ќе внесам во вас руах, и ќе живеете; и ќе познаете дека Јас ⟨сум⟩ Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e6a313541929b181b1c3d67babc9d5f304031c945bf25cb8296c59a2368c9ab7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/37\/5-8.1792451942601.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "и ќе положам"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "на вас"
+    },
+    {
+      "surface": "גדים",
+      "gloss": "жили"
+    },
+    {
+      "surface": "והעלתי",
+      "gloss": "и ќе изведам"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "на вас"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "месо"
+    },
+    {
+      "surface": "וקרמתי",
+      "gloss": "и ќе ве покријам"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "со вас"
+    },
+    {
+      "surface": "עור",
+      "gloss": "кожа"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "и ќе внесам"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "во вас"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "וחייתם",
+      "gloss": "и ќе живеете"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "и ќе познаете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:19:02.602847247Z",
+  "model": "glm-5.3"
+}

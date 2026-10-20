@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "другиот",
+      "rationale": "хебрејскиот буквално вели 'едниот… и едниот'; македонскиот бара 'другиот' за да тече"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישם \/ נתן",
+      "rationale": "два различни глагола за исто дејство — варијација карактеристична за хебрејскиот наратив"
+    }
+  ],
+  "translation": "И го постави ⟨את⟩ едниот во Бет Ел, а ⟨את⟩ другиот го постави во Дан.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2be6b2ec286fa3886cd53339650ae541629007b54a4e34046fceac35f12437fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/12\/29-32.1792448838680.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "и го постави"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "едниот"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "едниот"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "а ⟨את⟩",
+      "marks": "другиот"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "другиот"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "го постави"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "во Дан"
+    }
+  ],
+  "timestamp": "2026-10-19T22:27:18.681718172Z",
+  "model": "glm-5.3"
+}

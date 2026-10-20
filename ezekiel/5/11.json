@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 5:11",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם לא",
+      "rationale": "Клетвена формула „ако не…“ — клетва без „тогаш“; преведувачите ја мазнат со „навистина\/да“."
+    },
+    {
+      "kind": "crux",
+      "subject": "אגרע",
+      "rationale": "Од גרע — „ќе одземам\/ќе намалам“; KJV\/ASV „diminish“, BSB „will withdraw favor“."
+    },
+    {
+      "kind": "addition",
+      "subject": "сум",
+      "rationale": "Хебрејскиот нема копула кај „жив јас“."
+    }
+  ],
+  "translation": "Затоа, жив сум јас — изрека на Адонај Јахве — навистина, бидејќи го оскверни ⟨את⟩ светилиштето мое со сите свои гнасотии и со сите свои гнаусотии, и јас ќе одземам: и окото мое нема да поштеди, и јас нема да пожалам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b2103074850ce3e2153964d7b9a979b1d4b5bd54863a55f02c32830b80b97062",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/5\/9-12.1792451426663.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "אני",
+      "gloss": "сум јас"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "на Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "навистина (ако не…)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יען",
+      "gloss": "бидејќи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "gloss_note": "",
+      "marks": "светилиштето мое"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "светилиштето мое"
+    },
+    {
+      "surface": "טמאת",
+      "gloss": "оскверни"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "со сите"
+    },
+    {
+      "surface": "שקוציך",
+      "gloss": "свои гнасотии"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "и со сите"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "свои гнаусотии"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "אגרע",
+      "gloss": "ќе одземам"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "да поштеди"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "окото мое"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "אחמול",
+      "gloss": "да пожалам"
+    }
+  ],
+  "timestamp": "2026-10-19T23:10:26.664715533Z",
+  "model": "glm-5.3"
+}

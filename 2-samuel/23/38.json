@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "היתרי … היתרי",
+      "rationale": "повторување на истата етника на крајот од списокот — рамномерен ритам што на македонски се чува, но без хебрејската звучност."
+    }
+  ],
+  "translation": "Ира Јитеритот, Гарев Јитеритот —",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e0002b8cfd27105091cf9d827deba0bd505fb97e447bc90c91afddea3954804c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/23\/37-39.1792448476248.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "Ира"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "Јитеритот"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "Гарев"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "Јитеритот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:21:16.249528870Z",
+  "model": "glm-5.3"
+}

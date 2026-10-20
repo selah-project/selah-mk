@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 9:20",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Шмуел до Шаул",
+      "rationale": "Шмуел го теши и прашува Шаул во второ лице."
+    },
+    {
+      "kind": "mystery",
+      "subject": "сета желба на Јисраел",
+      "rationale": "Загатнато прашање — Шаул сè уште не знае дека се работи за царството што народот го бара."
+    },
+    {
+      "kind": "measurement",
+      "subject": "три дена",
+      "rationale": "Пресметка на времето од изгубувањето на магариците."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "Македонскиот бара помошен рефлексив во конструкцијата „ти се изгубиле“."
+    }
+  ],
+  "translation": "А за магариците што ти се изгубиле ⟨се⟩ денес, три дена, не ставај ⟨את⟩ срцето твое на нив, зашто се најдени. И на кого ⟨е⟩ сета желба на Јисраел? Не е ли на тебе и на целиот дом на татко ти?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b2fb7a248a450927b9646e01aa7e7008efb3526cd33fde017db47532b6fdd218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/9\/17-20.1792446788959.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאתנות",
+      "gloss": "А за магариците"
+    },
+    {
+      "surface": "האבדות",
+      "gloss": "што се изгубиле"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дена"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשם",
+      "gloss": "ставај"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срцето твое"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "срцето твое"
+    },
+    {
+      "surface": "лהем",
+      "gloss": "на нив"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "се најдени"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "И на кого"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сета"
+    },
+    {
+      "surface": "חמדת",
+      "gloss": "желба"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Не е ли"
+    },
+    {
+      "surface": "לך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "и на целиот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "на татко ти"
+    }
+  ],
+  "timestamp": "2026-10-19T21:53:08.961150058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 2:17",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨својот⟩ · ⟨неговите⟩",
+      "rationale": "Арамејскиот го носи посвоениот наставок -הו\/־והי врз именките; македонскиот бара одделен посвоен заменски облик"
+    },
+    {
+      "kind": "elision",
+      "subject": "דנה\/די нема во v17",
+      "rationale": ""
+    }
+  ],
+  "translation": "Тогаш Даниел отиде во ⟨својот⟩ дом и им ја соопшти работата на Хананија, Мишаел и Азарија, ⟨неговите⟩ другари.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fdf5361c2cc4ba8278a3318bdcdfd413b165b8957870924a1edc50de704ecc8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/2\/17-20.1792455966559.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Тогаш"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "отиде"
+    },
+    {
+      "surface": "ולחנניה",
+      "gloss": "на Хананија"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Мишаел"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "и Азарија"
+    },
+    {
+      "surface": "חברוהי",
+      "gloss": "другарите свои"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "работата"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "соопшти"
+    }
+  ],
+  "timestamp": "2026-10-20T00:26:06.560364215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 23:17",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "идоли",
+      "rationale": "צלמיו — 'идолите\/ликот негови', слики во облик"
+    },
+    {
+      "kind": "addition",
+      "subject": "ги\/го",
+      "rationale": "клитики за акузатив што македонскиот ги бара"
+    }
+  ],
+  "translation": "И влезе сиот народ во домот на Ваал и го срамишия, а ⟨את⟩ жртвениците негови и ⟨את⟩ идолите негови ги скршија, и ⟨את⟩ Матан, свештеникот на Ваал, го убија пред жртвениците.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "585db9fcec29ca14deb44dce472312265fef9d8bec1c37b8a04de1879b251df4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/23\/17-20.1792457716983.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "и влезе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сиот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "на Ваал"
+    },
+    {
+      "surface": "ויתצהו",
+      "gloss": "и го срамишия"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "жртвениците негови"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "жртвениците негови"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "идолите негови"
+    },
+    {
+      "surface": "צלמיו",
+      "gloss": "идолите негови"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ги скршија"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Матан"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "Матан"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "на Ваал"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "го убија"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "жртвениците"
+    }
+  ],
+  "timestamp": "2026-10-20T00:55:16.984734114Z",
+  "model": "glm-5.3"
+}

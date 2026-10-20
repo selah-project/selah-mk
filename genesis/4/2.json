@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "Македонскиот бара копула; хебрејскиот фраза е именска реченица."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל",
+      "rationale": "Името Хевел е исто со зборот הבל 'здив\/испарение' — наплив што тонира низ книгата Проповедник."
+    }
+  ],
+  "translation": "И таа продолжи да раѓа — ⟨את⟩ брата му Хевел. И Хевел беше пастир на овци и кози, а Каин беше работник на земјата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ae71745516a81d20b0c22d9ff1bcaa877084e125fc4f421a4d4ba208bda0dd9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/4\/1-4.1792442415190.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "И таа продолжи"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "да раѓа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "брата му Хевел"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брата му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хевел"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Хевел"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Хевел"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "пастир"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "на овци и кози"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "а Каин"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "работник"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "на земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:15.194484715Z",
+  "model": "glm-5.3"
+}

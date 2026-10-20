@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "хебрејскиот нема општ глагол во релативната реченица"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жртва за грев",
+      "rationale": "חטאת значи и грев и жртва за грев — ист збор"
+    }
+  ],
+  "translation": "И ќе ја потпре ⟨את⟩ раката своја на главата на жртвата за грев, и ќе ја заколе ⟨את⟩ жртвата за грев на местото каде што се колат ⟨се⟩ жртвите сепал.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1f05f5a6c05331690d58bdfacebbe2c0f90bbf59622d893c37155537fa32ebd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/4\/29-32.1792444096324.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "и ќе потпре"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "раката своја"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "раката своја"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "главата"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "на жртвата за грев"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "и ќе заколе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жртвата за грев"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "жртвата за грев"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "на местото"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "на жртвата сепал"
+    }
+  ],
+  "timestamp": "2026-10-19T21:08:16.325295564Z",
+  "model": "glm-5.3"
+}

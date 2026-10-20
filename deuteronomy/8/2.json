@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 8:2",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Јисраел",
+      "rationale": "Директен обрат во второ лице еднина кон народот."
+    },
+    {
+      "kind": "crux",
+      "subject": "да те понизи",
+      "rationale": "ענה значи и 'да те смири\/понижи' и 'да те измачи' — JPS 'afflict', KJV 'humble'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "четириесет години",
+      "rationale": "Точен број години во пустината."
+    }
+  ],
+  "translation": "И ќе ги помниш ⟨את⟩ сите патишта по кои те водеше Јахве, Елохим твој, овие четириесет години во пустињата, за да те понизи и да те испита, да знае ⟨את⟩ што е во срцето твое — дали ќе ги пазиш заповедите Негови или не.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c67e2c9751c6fcd7f4cf9f34277f6e0329b85dec6fe7528226887ea4e3484938",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/8\/1-4.1792445427833.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "И ќе ги помниш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите патишта"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "патишта"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "по кои"
+    },
+    {
+      "surface": "הליכך",
+      "gloss": "те водеше"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "זה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четириесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "во пустињата"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "те понизи"
+    },
+    {
+      "surface": "לנסתך",
+      "gloss": "да те испита"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "да знае"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "што е во срцето твое"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "е во срцето твое"
+    },
+    {
+      "surface": "התשמר",
+      "gloss": "дали ќе пазиш"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "заповедите Негови"
+    },
+    {
+      "surface": "אם",
+      "gloss": "или"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    }
+  ],
+  "timestamp": "2026-10-19T21:30:27.834457574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "numbers 7:77",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨беше⟩",
+      "rationale": "хебрејскиот нема копула во минато раскажување"
+    },
+    {
+      "kind": "measurement",
+      "subject": "жртвени бројки",
+      "rationale": "список на број на жртвени животни"
+    },
+    {
+      "kind": "substitution",
+      "subject": "мирни приноси",
+      "rationale": "שלמים е од коренот шалем — целина\/целост, не само 'мир'"
+    }
+  ],
+  "translation": "И за жртва на мирните приноси: две говеда, пет овни, пет јарци, пет јагниња на една година — ова ⟨беше⟩ приносот на Пагиел, син на Охран.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "4fb79177a61402d9499a925fc6a5692f617c1deba21060b214d7321cb4f30ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/7\/77-80.1792444739631.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "и за жртва"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "на мирните приноси"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "говеда"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "две"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "овни"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "јарци"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "јагниња"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "една година"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "זה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "принос"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "Пагиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "на Охран"
+    }
+  ],
+  "timestamp": "2026-10-19T21:18:59.631811706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "на",
+      "rationale": "македонскиот бара предлог пред Цион; хебрејскиот има само את"
+    }
+  ],
+  "translation": "Покрај реките на Вавилон — таму седевме, па и плачевме, кога се потсетивме на ⟨את⟩ Цион.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/137\/1-4.1792454120856.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "покрај"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "реките"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "на Вавилон"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "седевме"
+    },
+    {
+      "surface": "גם",
+      "gloss": "па и"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "плачевме"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "кога се потсетивме"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цион"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    }
+  ],
+  "timestamp": "2026-10-19T23:55:20.856839821Z",
+  "model": "glm-5.3"
+}

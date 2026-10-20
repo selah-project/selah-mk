@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 16:22",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "најде благонаклонетост во моите очи",
+      "rationale": "хебрејски идиом מצא חן בעיני, задржан буквално"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јишај",
+      "rationale": "Шаул директно му праќа порака на Јишај"
+    }
+  ],
+  "translation": "И Шаул прати кај Јишај, велејќи: нека стои, те молам, Давид пред мене, зашто најде благонаклонетост во моите очи.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2d7593d52ea881d4bdfd672b718ca18d236cfdb80cc8981e3a87b1b463b6a005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/16\/21-23.1792446860741.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "прати"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Јишај"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "нека стои"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молам"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "најде"
+    },
+    {
+      "surface": "חן",
+      "gloss": "благонаклонетост"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "во моите очи"
+    }
+  ],
+  "timestamp": "2026-10-19T21:54:20.742613948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 11:9",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "conditional promise",
+      "rationale": "хебрејскиот е изјава, не прашање: повеќето преводи (KJV, BSB) прават прашање; JPS задржува изјава како тука."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨на⟩",
+      "rationale": "конструктот זקני גилעד бара македонски сврзувачки збор."
+    },
+    {
+      "kind": "you",
+      "subject": "до старешините на Гилад",
+      "rationale": "Јефтај им поставува услов директно на старешините."
+    }
+  ],
+  "translation": "И рече Јефтај на старешините ⟨на⟩ Гилад: ако ме враќате вие ⟨את⟩ мене да војувам против синовите Амонови, и Јахве ги даде ⟨את⟩ нив пред мене — јас, јас ќе бидам вам ⟨за⟩ глава.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c1cbff1d83a31e289fbdb0d55a46ebd363cb9d5aee62e2bca56cc949732406fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/11\/9-12.1792446514604.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Јефтај"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старешините"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилад"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "משיבים",
+      "gloss": "враќате"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ме",
+      "marks": "мене"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "да војувам"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "против синовите"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амонови"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ги",
+      "marks": "нив"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ќе бидам"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "за глава"
+    }
+  ],
+  "timestamp": "2026-10-19T21:48:34.605088862Z",
+  "model": "glm-5.3"
+}

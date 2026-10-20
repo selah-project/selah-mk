@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 5:27",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמע\/דבר",
+      "rationale": "хијазам: слушај–рече–зборувај–зборува–слушаме–извршиме; паралелизам меѓу Моше и народот"
+    },
+    {
+      "kind": "you",
+      "subject": "до Моше",
+      "rationale": "народот му се обраќа директно на Моше како посредник"
+    }
+  ],
+  "translation": "Приближи се ти и слушај ⟨את⟩ сè што ќе рече Јахве, нашиот Елохим; и ти зборувај ни ⟨את⟩ сè што ти зборува Јахве, нашиот Елохим; и ние ќе слушаме и ќе извршиме.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d762a56b61737f74e76d63905a84f0ecd1638d7fe2bead7c661b50d10b77b28c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/5\/25-28.1792445392704.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרב",
+      "gloss": "Приближи се"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "и слушај"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ќе рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "нашиот Елохим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ти"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "зборувај"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "зборува"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "нашиот Елохим"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ושמענו",
+      "gloss": "ќе слушаме"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "ќе извршиме"
+    }
+  ],
+  "timestamp": "2026-10-19T21:29:52.707229328Z",
+  "model": "glm-5.3"
+}

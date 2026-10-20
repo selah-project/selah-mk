@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חבצלת",
+      "rationale": "прецветка\/шафранка\/роза — зборот е нејасен; KJV „роза“, други „прецветка“ (meadow-saffron)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "македонскиот бара копула која хебрејскиот ја изостава"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חבצלת",
+      "rationale": "зборот се јавува само тука и во Исаија 35:1 во Танахот"
+    }
+  ],
+  "translation": "Јас сум ⟨е⟩ цветче на Шарон, лалиње на долините.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a249487e7f0e977185b8543ab57c0aea4734d4a9d97a0b452287e0b1db5958a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/song-of-songs\/2\/1-4.1792455440441.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "цветче"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "на Шарон"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "лалиње"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "на долините"
+    }
+  ],
+  "timestamp": "2026-10-20T00:17:20.441521340Z",
+  "model": "glm-5.3"
+}

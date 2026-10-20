@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 6:39",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "жреб",
+      "rationale": "Жребот — делење на земја со фрлање камчиња, мерен структурен чин."
+    },
+    {
+      "kind": "substitution",
+      "subject": "им припадна",
+      "rationale": "היה е буквално 'бееше'; дадено е како припишување на жребот."
+    }
+  ],
+  "translation": "И ова им беа ⟨се⟩ населбите според тврдините нивни, во границите нивни — на синовите на Ахарон, од семејството кехатско, зашто ним им припадна ⟨се⟩ жребот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3c0d13b87970fda21185c76eebd634d94e8e4fa8ac7d5ca6363136b9ff3593d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/6\/37-40.1792456867182.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И ова"
+    },
+    {
+      "surface": "מושבותם",
+      "gloss": "населбите нивни"
+    },
+    {
+      "surface": "לטירותם",
+      "gloss": "според тврдините нивни"
+    },
+    {
+      "surface": "בגבולם",
+      "gloss": "во границите нивни"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовите"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "од семејството"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "кехатско"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ним"
+    },
+    {
+      "surface": "היה",
+      "gloss": "им припадна"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "жребот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:41:07.183340623Z",
+  "model": "glm-5.3"
+}

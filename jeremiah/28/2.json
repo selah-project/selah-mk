@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "על\/אשבר",
+      "rationale": " играта јарем\/скршување се повторува низ поглавјето (28:4, 28:10–14) и носи целата полемика меѓу двата пророци"
+    }
+  ],
+  "translation": "Вака вели Јахве Цеваот, Елохим на Јисраел, велејќи: Го скршив ⟨את⟩ јаремот на царот на Вавилон.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "079f9383f32f1dbd195e2ceed92f44f201ebd8972ecf6221aca797430f9cd7a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/28\/1-4.1792450836071.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Вака"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "скршив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "јаремот"
+    },
+    {
+      "surface": "על",
+      "gloss": "јаремот"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    }
+  ],
+  "timestamp": "2026-10-19T23:00:36.072445575Z",
+  "model": "glm-5.3"
+}

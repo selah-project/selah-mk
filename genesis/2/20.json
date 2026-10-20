@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "имиња",
+      "rationale": "Именување на сите животни — попис по категории"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזר כנגדו",
+      "rationale": "Повторување од 2:18 — приговорот што го отвора патот за 2:21"
+    }
+  ],
+  "translation": "И човекот даде имиња на целиот добиток, и на птиците на небесата, и на сите ѕверови на полето; а за човекот не се најде помошник спроти него.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "8e098bf6a68977770fea49f4cd8de16615b82b877d1143135adeee6cd7be4a65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/2\/17-20.1792442391566.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И даде"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "имиња"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на целиот"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "добиток"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "и на птиците"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "на небесата"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "и на сите"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ѕверови"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "на полето"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "а за човекот"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "се најде"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "помошник"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "спроти него"
+    }
+  ],
+  "timestamp": "2026-10-19T20:39:51.568277213Z",
+  "model": "glm-5.3"
+}

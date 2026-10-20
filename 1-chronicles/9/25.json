@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מעת אל עת",
+      "rationale": "Хебрејскиот израз „од време до време“ е буквално задржан."
+    }
+  ],
+  "translation": "А браќата нивни во дворовите нивни доаѓаа на секои седум дена, од време до време, заедно со овие.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1b8dc48d5a3604b0302f45d6d77293ebb155ed27dbe38e16f5dba3809841791b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/9\/25-28.1792456945906.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "А браќата нивни"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "во дворовите нивни"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "доаѓаа"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "на секои седум"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дена"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "од време"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "עם",
+      "gloss": "заедно со"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    }
+  ],
+  "timestamp": "2026-10-20T00:42:25.907649517Z",
+  "model": "glm-5.3"
+}

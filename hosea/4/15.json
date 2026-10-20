@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 4:15",
+  "book": "hosea",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בית און",
+      "rationale": "„Дом на беззаконието“ — пророчка игра на Бет-Ел (дом на Ел) преименуван во Бет-Авен"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јисраел и Јуда",
+      "rationale": "директен обращт — ти (Јисраел), па множински заповеди кон народот"
+    },
+    {
+      "kind": "invitation",
+      "subject": "не влегувајте \/ не се колнете",
+      "rationale": "серија забранувачки императиви упатени кон слушателот"
+    }
+  ],
+  "translation": "Ако ти блудствуваш, Јисраеле, нека не согреши Јуда; и не влегувајте во Гилгал, и не качувајте се во Бет-Авен, и не се колнете: „Жив е Јахве!“",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ca471d80ec8d40abda161aa9c1be7ab32dbac353c5a5b6d0422e21a295f85155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/hosea\/4\/13-16.1792452224302.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "блудствуваш"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраеле"
+    },
+    {
+      "surface": "אל",
+      "gloss": "да не"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "согреши"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуда"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "влегувајте"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "во Гилгал"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "качувајте се"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "און",
+      "gloss": "Авен"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "се колнете"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Жив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:23:44.303544137Z",
+  "model": "glm-5.3"
+}

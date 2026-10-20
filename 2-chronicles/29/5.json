@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 29:5",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Слушајте ме, левити",
+      "rationale": "Императив директно упатен до левитите — повик"
+    },
+    {
+      "kind": "you",
+      "subject": "до левитите",
+      "rationale": "Директен говор на Езекија кон свештенството"
+    },
+    {
+      "kind": "substitution",
+      "subject": "гнасотија",
+      "rationale": "הנדה е 'одречено, нечисто' — обредна нечистота, не само нечистотија"
+    }
+  ],
+  "translation": "И им рече: Слушајте ме, левити! Сега посветете се и посветете ⟨את⟩ домот на Јахве, Елохим на вашите татковци, и изнесете ⟨את⟩ гнасотијата од светилиштето.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3735a6f091417db9d1bb9abb65cfbdea0e8095ef1894e7ed8add3ccbeb2a755d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/29\/5-8.1792457763567.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и-рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "слушајте-ме"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левити"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сега"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "посветете-се"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "и-посветете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "домот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "на-вашите-татковци"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "и-изнесете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гнасотијата"
+    },
+    {
+      "surface": "הנדה",
+      "gloss": "гнасотијата"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "светилиштето"
+    }
+  ],
+  "timestamp": "2026-10-20T00:56:03.568602301Z",
+  "model": "glm-5.3"
+}

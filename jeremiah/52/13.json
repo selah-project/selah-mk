@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 52:13",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שרף … שרף",
+      "rationale": "глаголот „запали“ стои двапати — на почетокот и пред „со оган“, каде македонскиот мора да го повтори заради складот."
+    }
+  ],
+  "translation": "И го запали ⟨את⟩ домот на Јахве и ⟨את⟩ домот на царот, и ⟨את⟩ сите куќи на Јерушалаим, и ⟨את⟩ секоја голема куќа ја запали со оган.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "147537507fc136d2a289e7cf3030d02b180097892482214ddc60f25bb2116285",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/52\/13-16.1792451361268.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "и го запали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "домот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "домот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сите куќи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "куќи"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "на Јерушалаим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "секоя голема куќа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секojа"
+    },
+    {
+      "surface": "בית",
+      "gloss": "куќа"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "голема"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ја запали"
+    },
+    {
+      "surface": "באש",
+      "gloss": "со оган"
+    }
+  ],
+  "timestamp": "2026-10-19T23:09:21.269455887Z",
+  "model": "glm-5.3"
+}

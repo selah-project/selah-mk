@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 11,
+  "translation": "А од левитите: Шемаја, син на Хашув, син на Азрикам, син на Хашавја, син на Буни —",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "104383230395a1ccb517665a38c659076f193a05e2546e028ebc640077ed193c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/11\/13-16.1792456723688.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "а од"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитите"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемаја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "Хашув"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Азрикам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашавја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "Буни"
+    }
+  ],
+  "timestamp": "2026-10-20T00:38:43.689933845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 29:12",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "време на глаголот",
+      "rationale": "אמלט е свршено 'го избавив' (KJV) илиhabitуално 'го избавував' — контекстот на Јов 29 е животен навик"
+    }
+  ],
+  "translation": "Зашто го избавував сиромавиот што повикува, и сирачето — а немаше кој да му помага.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "212d995a7bbfa5fb3c2a6c51ca66265eb8bbf9ea6845649296e03e758b484579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/29\/9-12.1792455141269.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אמלט",
+      "gloss": "го избавував"
+    },
+    {
+      "surface": "עני",
+      "gloss": "сиромавиот"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "што повикува"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "и сирачето"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а немаше"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "кој да помага"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-10-20T00:12:21.270463238Z",
+  "model": "glm-5.3"
+}

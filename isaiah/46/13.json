@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 46:13",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "спасение",
+      "rationale": "תשועה е избавување\/помош од небесата, не само духовно спасение"
+    },
+    {
+      "kind": "hapax-hint",
+      "subject": "תפארתי",
+      "rationale": "тифара — Ornament\/величественост; оставено според хебрејскиот звук, според табелата D2"
+    },
+    {
+      "kind": "you",
+      "subject": "до упоритите од 46:12",
+      "rationale": "Јахве продолжува да им го најавува цедекот на далечните од правдата"
+    }
+  ],
+  "translation": "Го приближив ⟨את⟩ своето цедек — нема да ⟨се⟩ оддалечи, и моето спасение нема да задоцни; и ќе дадам спасение во Цион, на Јисраел својата тифара.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c86289585bb89cd143b327e6cfca267ea0eb894db0a06c836e7b7839e84aad2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/46\/13-13.1792450125040.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבתי",
+      "gloss": "Го приближив"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "своето цедек"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "да се оддалечи"
+    },
+    {
+      "surface": "ותשועתי",
+      "gloss": "и моето спасение"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "да задоцни"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "и ќе дадам"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "во Цион"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "спасение"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "תפארתי",
+      "gloss": "својата тифара"
+    }
+  ],
+  "timestamp": "2026-10-19T22:48:45.040600811Z",
+  "model": "glm-5.3"
+}

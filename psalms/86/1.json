@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "покана",
+      "rationale": "стихот е директна молитва-повик до Јахве да чуе и одговори."
+    }
+  ],
+  "translation": "Молитва на Давид. Наклони го увото свое, Јахве, и одговори ми, зашто сиромав и потребен сум јас.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9bf46ba0d669e77375ecc6311d1ed76a626361b83e9a0d9085bd67760988709b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/86\/1-4.1792453675018.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Молитва"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Наклони"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "увото свое"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "одговори ми"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "עני",
+      "gloss": "сиромав"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "и потребен"
+    },
+    {
+      "surface": "אני",
+      "gloss": "сум јас"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:55.019149541Z",
+  "model": "glm-5.3"
+}

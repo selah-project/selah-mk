@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רעים\/רעהו",
+      "rationale": "истиот збор רע 'пријател, ближен' на двете страни на антитезата — богатото има многу, сиромавиот губи еден"
+    }
+  ],
+  "translation": "Имотот придобава пријатели многу, а сиромавиот од пријателот свој се раздвојува.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8a24d07722e6482b14fd21664da9feea6d1a57470864bf4db479696f3fea60f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/19\/1-4.1792454567707.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Имотот"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "придобава"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "пријатели"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многу"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "а сиромавиот"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "од пријателот свој"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "се раздвојува"
+    }
+  ],
+  "timestamp": "2026-10-20T00:02:47.708694679Z",
+  "model": "glm-5.3"
+}

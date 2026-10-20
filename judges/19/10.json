@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 19:10",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "копулата во објаснувањето „тоа е Јерушалаим“ — хебрејскиот ја испушта"
+    },
+    {
+      "kind": "alternative",
+      "subject": "רד מאד (19:11)",
+      "rationale": "овде покажува дека стигнале до Јевус на зајденице, постава за одбивањето во 19:12"
+    }
+  ],
+  "translation": "Но човекот не сакаше да преноќи, па стана и тргна и дојде спроти Јевус — тоа ⟨е⟩ Јерушалаим — а со него беа пар магариња оседлани и наложницата негова со него.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "204998861f97e3759af2cc7dfbdab17bbfa48bf641c1cd1bf1e7f87a7b2717cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/19\/9-12.1792446612161.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "сакаше"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "да преноќи"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "па стана"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и тргна"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и дојде"
+    },
+    {
+      "surface": "עד",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "наспроти"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Јевус"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "а со него"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "пар"
+    },
+    {
+      "surface": "חמורים",
+      "gloss": "магариња"
+    },
+    {
+      "surface": "חבושים",
+      "gloss": "оседлани"
+    },
+    {
+      "surface": "ופילגשו",
+      "gloss": "и наложницата негова"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "со него"
+    }
+  ],
+  "timestamp": "2026-10-19T21:50:12.162143954Z",
+  "model": "glm-5.3"
+}

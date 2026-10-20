@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "zechariah 8:22",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לבקש \/ לחלות",
+      "rationale": "Версот 22 ги повторува двата глагола од стих 21 во обратен ред — хијазам што поврзува народите со повикот на жителите."
+    }
+  ],
+  "translation": "И ќе дојдат многу народи и силни племиња да го бараат ⟨את⟩ Јахве Цеваот во Јерушалаим и да го умилостиват ⟨את⟩ лицето на Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4e35478e8b27d2b86e84d849df86f3efec8d738b93e77eead38e446bd4c86d83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/8\/21-23.1792452773615.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "и ќе дојдат"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многу"
+    },
+    {
+      "surface": "וגוים",
+      "gloss": "и племиња"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "силни"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "да го бараат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве Цеваот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "во Јерушалаим"
+    },
+    {
+      "surface": "ולחלות",
+      "gloss": "и да го умилостиват"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лицето"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:32:53.616417800Z",
+  "model": "glm-5.3"
+}

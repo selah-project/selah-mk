@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨деновите⟩",
+      "rationale": "македонскиот бара членена именска фраза, хебрејскиот член е вграден во синтезата"
+    }
+  ],
+  "translation": "Јахве ги знае ⟨деновите⟩ на непорочните, и наследството нивно довека ќе биде.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4db5cf25bd8637da31c422a8739f8d08d83ba362eb3cb88d01d279f67135a4de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/37\/17-20.1792453218076.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "деновите"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "на непорочните"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "и наследството нивно"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "довека"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ќе биде"
+    }
+  ],
+  "timestamp": "2026-10-19T23:40:18.076838417Z",
+  "model": "glm-5.3"
+}

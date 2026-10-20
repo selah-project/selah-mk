@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 6:20",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יקדש",
+      "rationale": "„ќе се освети“ vs. „ќе биде (обредно) контаминирано“ — некои читатели во Хаг. 6 соборувале предлог; буквално е „ќе стане свето“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יזה ... יזה",
+      "rationale": "Повторување на реткиот глагол נזה „прска“ го врзе прскањето крв со перењето облека."
+    }
+  ],
+  "translation": "Сè што ќе се допре до месото нејзино, ќе се освети; и ако се прска од крвта нејзина врз облеката, она што е прскано врз неа — да се пере на свето место.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "578d0f5ca20aa9595556b011070dcf61b41274c7f3804bf9d7f124fd9c0aaab2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/6\/17-20.1792444122106.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "ќе се допре"
+    },
+    {
+      "surface": "בבשרה",
+      "gloss": "до месото нејзино"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "ќе се освети"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "се прска"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "од крвта нејзина"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "облеката"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "е прскано"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "врз неа"
+    },
+    {
+      "surface": "תכבס",
+      "gloss": "да се пере"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "на место"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свето"
+    }
+  ],
+  "timestamp": "2026-10-19T21:08:42.110484734Z",
+  "model": "glm-5.3"
+}

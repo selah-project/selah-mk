@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 22:14",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יראה\/יראה",
+      "rationale": "истиот глагол ראה двапати: името Јахве-Јире (Јахве гледа) и „ќе се јави“ — играта се губи"
+    },
+    {
+      "kind": "crux",
+      "subject": "יראה",
+      "rationale": "„Јахве гледа\/промислува“ наспроти „на Јахве ќе му биде видено\/ќе се јави“ — пасив или активен глагол"
+    }
+  ],
+  "translation": "И Аврахам го нарече името на местото тоа: Јахве-Јире — како што се вели и денес: „На планината Јахве ⟨се⟩ ќе се јави.“",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "bd7a9f0e62268a63c1387c75698d53fafc5c98e24391f711ec99a0dbea2fa152",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/22\/13-16.1792442651418.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и го нарече"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "на местото"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "Јире (гледа\/се грижи)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "се вели"
+    },
+    {
+      "surface": "היום",
+      "gloss": "и денес"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на планината"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ќе се јави"
+    }
+  ],
+  "timestamp": "2026-10-19T20:44:11.422457506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ruth 2:7",
+  "book": "ruth",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זה שבתה הבית מעט",
+      "rationale": "трудно место: „само малку седна во куќата“ наспроти „ова нејзино седење во куќа е малку“ или „не седнала дома ни миг“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בעמרים",
+      "rationale": "истиот корен како мерката омер — тука сноп"
+    }
+  ],
+  "translation": "И таа рече: „Нека бидам, те молам, да берам и да собирам по снопите зад жнеачите.“ И дојде и стои од утрото досега — само малку седна во куќата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5eb591d7658729eed0e777274056bd6a9136806cd54dcf38ee422c23b5b7707b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ruth\/2\/5-8.1792455538606.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И таа рече"
+    },
+    {
+      "surface": "אלקטה",
+      "gloss": "Нека бидам да берам"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молам"
+    },
+    {
+      "surface": "ואספתי",
+      "gloss": "и да собирам"
+    },
+    {
+      "surface": "בעמרים",
+      "gloss": "по снопите"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "зад"
+    },
+    {
+      "surface": "הקוצרים",
+      "gloss": "жнеачите"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "И дојде"
+    },
+    {
+      "surface": "ותעמוד",
+      "gloss": "и стои"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "отакаш"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "утрото"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и досега"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сега"
+    },
+    {
+      "surface": "זה",
+      "gloss": "само"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "седна"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "во куќата"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "малку"
+    }
+  ],
+  "timestamp": "2026-10-20T00:18:58.607346037Z",
+  "model": "glm-5.3"
+}

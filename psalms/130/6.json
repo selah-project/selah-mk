@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула — משמרים לבקר е слика, не глагол"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבקר ... לבקר",
+      "rationale": "климактичко повторување 'за утрото — за утрото', задржано буквално"
+    },
+    {
+      "kind": "you",
+      "subject": "до Адонај",
+      "rationale": "душата се обраќа кон Адонај"
+    }
+  ],
+  "translation": "Душата моја ⟨е⟩ за Адонај повеќе од стражарите за утрото, стражари за утрото.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/130\/5-8.1792454111715.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Душата моја"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "за Адонај"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "од стражарите"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "за утрото"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "стражари"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "за утрото"
+    }
+  ],
+  "timestamp": "2026-10-19T23:55:11.716184323Z",
+  "model": "glm-5.3"
+}

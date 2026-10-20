@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 36:15",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "триесет лакти × четири лакти",
+      "rationale": "Димензии на завесите, изразени во лакти (אמה)."
+    }
+  ],
+  "translation": "Должината на една завеса — триесет лакти, а четири лакти широчината на една завеса; една мера за единаесетте завеси.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b46bd315484deba74de6d1fc9234a8bc94a5ae719a16fd824c31004095fc5754",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/36\/13-16.1792443933828.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "должината"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "на завесата"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "триесет"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "лакти"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "а четири"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "лакти"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "широчината"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "на завесата"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "мера"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "לעשתי",
+      "gloss": "за единаесетте"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "завеси"
+    }
+  ],
+  "timestamp": "2026-10-19T21:05:33.833683542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 10:20",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השרידים\/שרדו",
+      "rationale": "корен שרד повторен — 'преостанатите преостанаа' — во македонскиот се губи"
+    }
+  ],
+  "translation": "И беше, кога завршија Јехошуа и синовите на Јисраел да ги поразат — пораз многу голем мошне, додека се довршаа — и останатите што ги избегале од нив влегоа во градовите утврдени.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3ad32088330da79b6e7acf6dbf391c509a699a8de7c731ddd8a46b22dc209c47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/10\/17-20.1792445999582.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "кога завршија"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синовите на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "להכותם",
+      "gloss": "да ги поразат"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "пораз"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "многу голем"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "мошне"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "се довршаа"
+    },
+    {
+      "surface": "והשרידים",
+      "gloss": "и останатите"
+    },
+    {
+      "surface": "שרדו",
+      "gloss": "што ги избегале"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "од нив"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "влегоа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "градовите"
+    },
+    {
+      "surface": "המבצר",
+      "gloss": "утврдени"
+    }
+  ],
+  "timestamp": "2026-10-19T21:39:59.583578793Z",
+  "model": "glm-5.3"
+}

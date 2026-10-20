@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 31:33",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула во „зашто ова заветот“"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "буквално „да сече завет“; македонскиот вели „склучам завет“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נתתי\/אכתבנה",
+      "rationale": "паралелизам: Тора ставена во средина и напишана на срцето"
+    }
+  ],
+  "translation": "Зашто ова ⟨е⟩ заветот што ќе го склучам ⟨את⟩ со домот на Јисраел по тие денови, вели Јахве: ја ставам ⟨את⟩ Мојата Тора во нивната средина и на нивното срце ќе ја напишам, и ќе им бидам Елохим, а тие ќе Ми бидат народ.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ccf2afa66805eb47ab5c163fc6b1dbb22ee1cf128f43ce729cd702c3cf6f6db8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/31\/33-36.1792450906747.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "заветот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אכרת",
+      "gloss": "ќе го склучам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "домот на Јисраел"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "деновите"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "тие"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ставам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мојата Тора"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Мојата Тора"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "во нивната средина"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "нивното срце"
+    },
+    {
+      "surface": "אכתבנה",
+      "gloss": "ќе ја напишам"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "и ќе бидам"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "а тие"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ќе бидат"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ми"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-10-19T23:01:46.748012575Z",
+  "model": "glm-5.3"
+}

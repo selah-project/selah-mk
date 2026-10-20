@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "дванаесет столба",
+      "rationale": "бројот ги одразува дванаесетте племиња — бројчена симетрија во самиот стих"
+    },
+    {
+      "kind": "elision",
+      "subject": "עשרה\/עשר",
+      "rationale": "хебрејскиот брои «дванаесет» во два збора, македонскиот во еден — вториот збор е празен"
+    }
+  ],
+  "translation": "И Моше ги запиша ⟨את⟩ сите зборови на Јахве, и стана рано наутро, и подигна жртвеник под планината, и дванаесет столба за дванаесетте племиња на Јисраел.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "99c1979b4f2f9b89ef16d80c7a3ad64c56209db48fc19828b72770a7895511b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/24\/1-4.1792443699492.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "И запиша"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите зборови на Јахве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "зборови"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "и стана рано"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "наутро"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "и подигна"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жртвеник"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "планината"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "и дванаесет"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "—"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "столба"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "за дванаесетте"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "племиња"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T21:01:39.498887074Z",
+  "model": "glm-5.3"
+}

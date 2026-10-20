@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "грнец",
+      "rationale": "חרש е парче керамика, тенко ќерамидно ливче — сликата е фалшив сјaj врз обична глина"
+    }
+  ],
+  "translation": "Сребро со примеси обложено врз грнец — усни што горат и срце зло.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8edf0b5fc6bdf771a940ca5dc3b8345ef3b7ca2293e1821674b1f63a9620c58a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/26\/21-24.1792454683833.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "Сребро"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "со примеси"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "обложено"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "грнец"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "усни"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "што горат"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "и срце"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-10-20T00:04:43.834319606Z",
+  "model": "glm-5.3"
+}

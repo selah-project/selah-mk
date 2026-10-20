@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ограда",
+      "rationale": "חצר — двор ограден со ограда; „ограда“ е подирната слика на опкружување"
+    }
+  ],
+  "translation": "И ќе ја поставиш ⟨את⟩ околната ограда и ќе поставиш ⟨את⟩ завесата на портата на оградата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "6972e9038cb8b99c6e11b2fc1818f1877ae0f15374896d6007bc4b7b2ae62065",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/40\/5-8.1792444027211.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ѝ ќе поставиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оградата"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "оградата"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "околу"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ѝ ќе поставиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "завесата"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "завесата"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "оградата"
+    }
+  ],
+  "timestamp": "2026-10-19T21:07:07.224812485Z",
+  "model": "glm-5.3"
+}

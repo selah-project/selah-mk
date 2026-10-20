@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פתח\/סגר",
+      "rationale": "хијазам отвора-затвора\/затвора-отвора, огледален ритам на целиот стих"
+    }
+  ],
+  "translation": "И ќе ставам клуч на домот Давидов врз рамото негово, и ќе отвора, а нема кој да затвора; и ќе затвора, а нема кој да отвора.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "901114603bf688e6ecfab1fa184dbae5a9652b4996eb2a942a311725a196bd76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/22\/21-24.1792449814180.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "и ќе ставам"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "клуч"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидов"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "рамото негово"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "и ќе отвора"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "а нема"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "кој да затвора"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "и ќе затвора"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "а нема"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "кој да отвора"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:34.182807096Z",
+  "model": "glm-5.3"
+}

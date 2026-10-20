@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "собра",
+      "rationale": "אסף: буквално „собра\/прими“ (YLТ „hath gathered up“); традиционално „земи\/отстрани“ (KJV „taken away“)"
+    }
+  ],
+  "translation": "И зачена, и роди син, и рече: Елохим го собра ⟨את⟩ срамот мој.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "fde1c94bcb49b1a4499c2da29cfb885d381ad0a35d7d29a0a589ae220f764943",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/30\/21-24.1792442884226.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "зачена"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "собра"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срамот мој"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "срамот мој"
+    }
+  ],
+  "timestamp": "2026-10-19T20:48:04.228620059Z",
+  "model": "glm-5.3"
+}

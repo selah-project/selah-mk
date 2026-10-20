@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 6:9",
+  "book": "micah",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותושיה יראה שמך",
+      "rationale": "'човекот на мудроста ќе го види името твое' (KJV) наспроти 'мудро е да се боиш од името твое' (JPS); задржав второто"
+    },
+    {
+      "kind": "crux",
+      "subject": "מטה",
+      "rationale": "истиот збор значи 'жезло\/прачка' и 'племе' — некои читаат 'слушајте, племе'"
+    },
+    {
+      "kind": "you",
+      "subject": "кон градот",
+      "rationale": "Јахве му се обраќа на градот (Ерусалим) со повик да слуша"
+    }
+  ],
+  "translation": "Гласот на Јахве кон градот повикува, и <мудрост е> да се бои од името твое: слушајте го жезлото, и кој го поставил.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "14ecb6a1b26b324bf8125e185a8da189ca560aabba32e9cbc819594ea1fbcee0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/micah\/6\/9-12.1792452513238.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "гласот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "кон градот"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "повикува"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "и здрава мудрост"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "да се бои"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "името твое"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слушајте"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "жезлото"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и кој"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "го поставил"
+    }
+  ],
+  "timestamp": "2026-10-19T23:28:33.238666378Z",
+  "model": "glm-5.3"
+}

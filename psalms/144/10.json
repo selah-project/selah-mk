@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Оние што",
+      "rationale": "хебрејскиот е причаст без сврзувачка — македонскиот бара подмет"
+    }
+  ],
+  "translation": "Оние што дава избавување на царевите, што го избавува ⟨את⟩ Давид, слугата свој, од меч зол.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fa4b39483378402d6989b6af92f97147696edaea31adf9fe7f45740254aa48c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/144\/9-12.1792454146796.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "дава"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "избавување"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "на царевите"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "што избавува"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давид"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "слугата свој"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "од меч"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зол"
+    }
+  ],
+  "timestamp": "2026-10-19T23:55:46.798135387Z",
+  "model": "glm-5.3"
+}

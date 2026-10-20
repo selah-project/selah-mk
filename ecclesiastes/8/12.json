@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 8:12",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומאריך לו",
+      "rationale": "„и продолжува нему” — кој продолжува: грешникот своите дни (KJV) или Елохим му ги продолжува (Geneva)? пасивно-рефлексивно во хебрејскиот."
+    },
+    {
+      "kind": "measurement",
+      "subject": "מאת",
+      "rationale": "„сто пати” — бројка како мера за упорност во злото."
+    }
+  ],
+  "translation": "Којшто греши, прави зло сто пати — и продолжува ⟨се⟩ нему. Но, исто така, знам дека добро ќе им биде на оние што се бојат од Елохим, на оние што се плашат од лицето Негово.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3965f14a778b1f219bcbcff5d8466f8d59c2570cf7ea3cfa5ce639dcb84d2dff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/8\/9-12.1792455778909.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "којшто"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ги греши"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "прави"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ומאריך",
+      "gloss": "и продолжува"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "כי",
+      "gloss": "но"
+    },
+    {
+      "surface": "גם",
+      "gloss": "исто така"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "дека"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ליראי",
+      "gloss": "на оние што се бојат"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "од Елохим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "на оние што"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "се плашат"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "од лицето Негово"
+    }
+  ],
+  "timestamp": "2026-10-20T00:22:58.910324942Z",
+  "model": "glm-5.3"
+}

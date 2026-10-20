@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 1:17",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשרו חמוץ",
+      "rationale": "'подкрепете го угнетениот' наспроти 'исправете го насилникот' (BSB); коренот אשר значи да направиш право\/благословен"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חמוץ",
+      "rationale": "Реткиот зборחמוץ ('насилен\/ограбен') се јавува само тука во Танах"
+    },
+    {
+      "kind": "invitation",
+      "subject": "до Јерушалаим\/Јудеја",
+      "rationale": "Низ императивни секвенција од шест заповеди упатени до народот"
+    }
+  ],
+  "translation": "Учете да правите добро, барајте право, подкрепете ⟨го⟩ угнетениот, судете на сирачето, застапувајте ⟨ја⟩ вдовицата.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e685519ac0c74cb91c2dc0fb34c0d1389f19735189155267a5efbfca93e0c078",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/1\/17-20.1792449543393.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למדו",
+      "gloss": "учете"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "да правите добро"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "барајте"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "право"
+    },
+    {
+      "surface": "אשרו",
+      "gloss": "подкрепете"
+    },
+    {
+      "surface": "חמוץ",
+      "gloss": "угнетениот"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "судете"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "на сирачето"
+    },
+    {
+      "surface": "ריבו",
+      "gloss": "застапувајте"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "вдовицата"
+    }
+  ],
+  "timestamp": "2026-10-19T22:39:03.394717346Z",
+  "model": "glm-5.3"
+}

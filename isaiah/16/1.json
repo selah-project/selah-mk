@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כר",
+      "rationale": "כר значи „дебел овен\/планинскиramer“; традицијата чита „јагне“ (данок); буквално би било „рам (овен)“."
+    },
+    {
+      "kind": "crux",
+      "subject": "משל",
+      "rationale": "„да владее“ како глагол (мошел) или „владетел“ како постојана глаголска форма — преведувачите се делат."
+    },
+    {
+      "kind": "you",
+      "subject": "до жителите на Моав",
+      "rationale": "Императив „пратете“ упатен кон Моав, да испрати данок."
+    },
+    {
+      "kind": "measurement",
+      "subject": "данок",
+      "rationale": "Пратење јагне-данок — дејство на давање на данок, бројлива стока."
+    }
+  ],
+  "translation": "Пратете ⟨е⟩ јагне ⟨את⟩ владетелот на земјата, од Села во пустината, до гората на ќерката Цион.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "86aef55c88c6abaebbbd0cdbb38eae1e97a3a11d224c676b6f1fd42f20eddb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/16\/1-4.1792449737716.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Пратете"
+    },
+    {
+      "surface": "כר",
+      "gloss": "јагне"
+    },
+    {
+      "surface": "משל",
+      "gloss": "владетелот"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "од Села"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "во пустината"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гората"
+    },
+    {
+      "surface": "בת",
+      "gloss": "на ќерката"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    }
+  ],
+  "timestamp": "2026-10-19T22:42:17.717416693Z",
+  "model": "glm-5.3"
+}

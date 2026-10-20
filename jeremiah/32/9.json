@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 32:9",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "седум шекли и десет",
+      "rationale": "цената е наброена во шекли сребро; буквално „седум шекли и десет сребро“."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ואשקלה לו",
+      "rationale": "буквално „и му отмерив“ — плаќањето со мерене на сребро, не предавање пари."
+    },
+    {
+      "kind": "crux",
+      "subject": "шекли сребро",
+      "rationale": "КЈВ спојува во „седумнаесет шекли“; хебрејскиот брои одделно: седум шекли и десет."
+    }
+  ],
+  "translation": "И го купив ⟨את⟩ полето од ⟨את⟩ Ханамел, синот на вујко ми, што ⟨е⟩ во Анатот, и му ги отмерив ⟨את⟩ среброто — седум шекли и десет, ⟨во⟩ сребро.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9b7130a7a1fb998a91b06686f9feb93646dac819e4c468f281bb9b957b223478",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/32\/9-12.1792450846279.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "и го купив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "полето"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "полето"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "од ⟨את⟩"
+    },
+    {
+      "surface": "חנמאל",
+      "gloss": "Ханамел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "на вујко ми"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "во Анатот"
+    },
+    {
+      "surface": "ואשקלה",
+      "gloss": "и отмерив"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "среброто"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "среброто"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седум"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "шекли"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "и десет"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "сребро"
+    }
+  ],
+  "timestamp": "2026-10-19T23:00:46.280551611Z",
+  "model": "glm-5.3"
+}

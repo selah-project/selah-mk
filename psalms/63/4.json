@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩…⟨ќе⟩",
+      "rationale": "хебрејскиот е придавка טוב со имплицитен сравнител и партицип со предметна наставка — македонскиот бара сврзник и идно време"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד е верна љубов, милост и лојалност во еден — еден македонски збор не го покрива"
+    }
+  ],
+  "translation": "Зашто хеседот Твој е подобар од животот — усните мои ќе Те фалат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/63\/1-4.1792453459783.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "е подобар"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседот Твој"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "од животот"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "усните мои"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "ќе Те фалат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:44:19.784483012Z",
+  "model": "glm-5.3"
+}

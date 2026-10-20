@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "во работата на Урија",
+      "rationale": "בדבר אוריה е буквално „во зборот\/работата на Урија“ — дабар значи и збор и дело"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨тој⟩",
+      "rationale": "хебрејскиот не вели кој заповеда; македонскиот бара јасност"
+    }
+  ],
+  "translation": "зашто Давид правеше ⟨את⟩ правото во очите на Јахве и не отстапи од ништо што Му ⟨тој⟩ му заповеда сите дни на животот свој — само во работата на Урија Хетејот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "592292ba27bbb9b76e475724a09624f5659062f79c10a8e0ba7b47de84c8c75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/15\/5-8.1792448841255.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "правеше"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "правото"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "правото"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "во очите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "סר",
+      "gloss": "отстапи"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од ништо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "му заповеда"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "на животот свој"
+    },
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "во работата"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "на Урија"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Хетејот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:27:21.257164615Z",
+  "model": "glm-5.3"
+}

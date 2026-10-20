@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот е именска реченица без глагол; македонскиот може да го изостави само со црта, како што е направено."
+    },
+    {
+      "kind": "invitation",
+      "subject": "до цата земја",
+      "rationale": "заповед за молчење упатена на цела земја — повик што го вовлекува читателот."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הַס",
+      "rationale": "едносложната командa „хас!“ — гласот на самиот текст замолкува, спротивно на вревата на Вавилон од претходните стихови."
+    }
+  ],
+  "translation": "А Јахве — во својот свет храм; молчете пред Неговото лице, цела земјо!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "83223080a0d5f7a3a524481ff19b1866cadb68d1e4f865f85b2f6e6c33d8828f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/habakkuk\/2\/17-20.1792452611267.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "а Јахве"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "во храм"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "својот свет"
+    },
+    {
+      "surface": "הס",
+      "gloss": "молчете"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "пред Неговото лице"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цела"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјо"
+    }
+  ],
+  "timestamp": "2026-10-19T23:30:11.268418871Z",
+  "model": "glm-5.3"
+}

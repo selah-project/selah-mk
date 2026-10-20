@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 3:25",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד בוש",
+      "rationale": "буквално „до засрамување“ — идиом за „додека им стана срам (од чекање)“."
+    },
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "македонскиот бара помошен глагол кај паднат\/мртов, хебрејскиот има само причастие."
+    },
+    {
+      "kind": "substitution",
+      "subject": "господарот",
+      "rationale": "אדניהם тука е за човек — според табелата, точно за човек."
+    }
+  ],
+  "translation": "И чекаа додека се засрамија, и ете — не го отвораше дверите на горната соба; па зедоа ⟨את⟩ клучот и отворија, и ете — господарот им беше паднат на земјата, мртов.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "fde9a3ea26724fc17eca2af8103b5b8a84c6e5b20c36d6ca1169f9f5241d6ffa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/3\/25-28.1792446324768.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחילו",
+      "gloss": "чекаа"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "בוש",
+      "gloss": "се засрамија"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ете"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "не го"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "отвораше"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "дверите"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "на горната соба"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "зедоа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "клучот"
+    },
+    {
+      "surface": "המפתח",
+      "gloss": "клучот"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "отворија"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ете"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "господарот им"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "паднат"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "מת",
+      "gloss": "мртов"
+    }
+  ],
+  "timestamp": "2026-10-19T21:45:24.769565679Z",
+  "model": "glm-5.3"
+}

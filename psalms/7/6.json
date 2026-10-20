@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "живот",
+      "subject2": "",
+      "rationale": "נפש е душа како живот-дах, не бесмртна душа — „животот мој“ го чува обликот."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ירדף…וישג",
+      "rationale": "јусив како проклетство над себе: „нека ме гони… нека ме стигне“ — клетва, не insuren опис."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפשי \/ חיי",
+      "rationale": "паралелизам: душата и животот, двете газени до земја и до прав."
+    }
+  ],
+  "translation": "нека гони непријател ⟨го⟩ животот мој, и нека го стигне, и нека го гази по земјата животот мој, и славата моја во прав да насели. Села.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fa6cabe524eb8ce65b1b736d8fc7760c35142e0a7ec8224f42d2e20b9181d70b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/7\/5-8.1792452975638.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "нека гони"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "непријател"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨го⟩ животот мој"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "и нека го стигне"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "и нека го гази"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "по земјата"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "животот мој"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "и славата моја"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "во прав"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "да насели"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села."
+    }
+  ],
+  "timestamp": "2026-10-19T23:36:15.639406651Z",
+  "model": "glm-5.3"
+}

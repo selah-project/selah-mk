@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 8:20",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "го исполни",
+      "rationale": "букв. „и стана“ (ויקם) — стоење\/исполнување на ветена реч во хебрејскиот"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברו\/דבר\/דבר",
+      "rationale": "тројна игра на коренот דבר — слово\/зборува\/ветува во еден стих"
+    }
+  ],
+  "translation": "И Јахве го исполни ⟨את⟩ словото свое што го зборуваше, па ја станав на местото на Давид, татко ми, и седнав на престолот на Јисраел, како што зборуваше Јахве, и го изградив домот за името на Јахве, Елохим на Јисраел.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c4ec29d73ee5995087e2fa4c1d7b21e9f4e6f79fbee626743c59d6164a87456c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/8\/17-20.1792448668704.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "И го исполни"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "словото свое"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "словото свое"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "го зборуваше"
+    },
+    {
+      "surface": "ואקם",
+      "gloss": "ја станав"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "на местото"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "татко ми"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "и седнав"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "престолот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборуваше"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "и го изградив"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "за името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T22:24:28.706114388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "гневот мој",
+      "rationale": "אפי буквално 'носот\/ноздрите мои' — идиом за разгорен гнев"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מידה כנגד מידה",
+      "rationale": "мерата за мерка: кој прави вдовици и сирачиња — жените и синовите негови стануваат такви"
+    }
+  ],
+  "translation": "И ќе се разгори гневот мој, и ќе ве убијам ⟨את⟩ вас со мечот, и жените ваши ќе бидат вдовици, и синовите ваши сирачиња.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9d0cc3bbf40d6230cab9c525993394b79a1b331df03b195daefc77b66308228a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/22\/21-24.1792443710143.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "и ќе се разгори"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "гневот мој"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "и ќе ве убијам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "со мечот"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "и ќе бидат"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "жените ваши"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "вдовици"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "и синовите ваши"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "сирачиња"
+    }
+  ],
+  "timestamp": "2026-10-19T21:01:50.147288932Z",
+  "model": "glm-5.3"
+}

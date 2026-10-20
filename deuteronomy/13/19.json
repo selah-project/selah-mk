@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 13:19",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעיני יהוה",
+      "rationale": "„во очите на Јахве“ — хебрејски израз за оценката на која му е угодна"
+    },
+    {
+      "kind": "you",
+      "subject": "до Израел",
+      "rationale": "во второ лице, во гласот на Моше како говорник („јас ти заповедам“)"
+    }
+  ],
+  "translation": "Кога ќе го слушаш гласот на Јахве, твојот Елохим, за да ги пазиш ⟨את⟩ сите Неговите заповеди што јас ти ги заповедам денес, да правиш што е право во очите на Јахве, твојот Елохим.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9b2a99ccead3409eee064d9a22f71469976f53201545a4eb8d997de414737003",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/13\/17-19.1792445506900.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Кога"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ќе слушаш"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "гласот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "да пазиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите Неговите заповеди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "Неговите заповеди"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ти ги заповедам"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да правиш"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "што е право"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "во очите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    }
+  ],
+  "timestamp": "2026-10-19T21:31:46.902197429Z",
+  "model": "glm-5.3"
+}

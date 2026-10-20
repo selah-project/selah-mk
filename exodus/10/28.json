@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 10:28",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "не додавај да гледаш",
+      "rationale": "Hebrajskiot אל תסף — букв. „не додај да видиш“ — значи „не гледај повеќе никогаш“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לך…לך",
+      "rationale": "Повторување: оди-од мене… внимавај на себе — ритмичка дупла забрана во истиот корен"
+    },
+    {
+      "kind": "you",
+      "subject": "Моше",
+      "rationale": "Директна закана упатена кон Моше од Фараон"
+    }
+  ],
+  "translation": "И му рече Фараон: Оди од мене! Внимавај на себе — не додавај да го гледаш лицето мое, зашто во денот кога ќе го видиш лицето мое, ќе умреш.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3828ba6473d71bf9ac0c8cc22ab06f62acc9441c5334459deca90b3086d79058",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/10\/25-28.1792443429668.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Оди"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "од мене"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Внимавај"
+    },
+    {
+      "surface": "לך",
+      "gloss": "на себе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "додавај"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "да гледаш"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето мое"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "ќе го видиш"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето мое"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ќе умреш"
+    }
+  ],
+  "timestamp": "2026-10-19T20:57:09.681905598Z",
+  "model": "glm-5.3"
+}

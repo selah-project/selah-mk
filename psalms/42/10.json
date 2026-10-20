@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "зацрнет",
+      "rationale": "קדר буквално 'да биде темен како пепел', тугување во темна облека"
+    },
+    {
+      "kind": "alternative",
+      "subject": "тагувајќи",
+      "rationale": "традиционалното 'тагувајќи' ги губи боите на коренот"
+    }
+  ],
+  "translation": "Ќе речам на Ел, карпата моја: Зошто ме заборави? Зошто ќе одам зацрнет во притисокот на непријателот?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/42\/9-12.1792453285060.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "ќе речам"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "на Ел"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "карпата моја"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "ме заборави"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "зацрнет"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ќе одам"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "во притисокот"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "на непријателот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:41:25.061717050Z",
+  "model": "glm-5.3"
+}

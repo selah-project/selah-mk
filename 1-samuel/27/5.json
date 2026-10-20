@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 27:5",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Achish",
+      "rationale": "Давид му се обраќа директно на Ахиш, кралот на Гет."
+    },
+    {
+      "kind": "substitution",
+      "subject": "живеам",
+      "rationale": "ישב значи дословно 'да седам\/пребивам'; 'живеам' е улога, не формата."
+    }
+  ],
+  "translation": "И рече Давид на Ахиш: ако најдов, молам, благонаклонет во очите твои, нека ми дадат место во еден од градовите на полето, и ќе живеам таму; и зошто да пребива слугата твој во градот на кралството со тебе?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "330c4cecc3ddf6716d9ae76e156eab7bbc703802a62c228482bd526a150e96ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/27\/5-8.1792448058825.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Ахиш"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молам"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "најдов"
+    },
+    {
+      "surface": "חן",
+      "gloss": "благонаклонет"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "во очите твои"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "нека дадат"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "во еден"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "од градовите"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "на полето"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "и ќе живеам"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "и зошто"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "пребива"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слугата твој"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "во градот"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "на кралството"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "со тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T22:14:18.826086631Z",
+  "model": "glm-5.3"
+}

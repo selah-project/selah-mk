@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 7:10",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חשב בלב",
+      "rationale": "Дословно „плетете\/сметајте во срцето“ — смислување зло во себе, македонски со глагол „смислувајте“."
+    },
+    {
+      "kind": "invitation",
+      "subject": "не угнетувајте",
+      "rationale": "Забранувачки императиви упатени директно до слушателите."
+    }
+  ],
+  "translation": "И вдовица и сираче, дошленец и сиромав не угнетувајте, и зло на човек брат му не смислувајте во срцето ваше.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ca34ddebd83b41ff8656f7ff9f29fd25500aac65e5e91b47cb0fe3f831946768",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/7\/9-12.1792452753126.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלמנה",
+      "gloss": "И вдовица"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "и сираче"
+    },
+    {
+      "surface": "גר",
+      "gloss": "дошленец"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "и сиромав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשקו",
+      "gloss": "угнетувајте"
+    },
+    {
+      "surface": "ורעת",
+      "gloss": "и зло"
+    },
+    {
+      "surface": "איש",
+      "gloss": "на човек"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брат му"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחשבו",
+      "gloss": "смислувајте"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "во срцето ваше"
+    }
+  ],
+  "timestamp": "2026-10-19T23:32:33.127566233Z",
+  "model": "glm-5.3"
+}

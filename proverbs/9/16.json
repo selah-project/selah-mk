@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "покана на безумието",
+      "rationale": "истата покана што Мудроста ја дава во 9:4 — тука ја изговара безумието"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "9:4 ≈ 9:16",
+      "rationale": "повторување на поканата на Мудроста во устата на безумието — сатира врз 9:4, изгубена ако се менува зборовите"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חסר לב",
+      "rationale": "букв. 'лиши од срце' — македонски 'нема срце' носи друга конотација; смисла е 'без разум'"
+    }
+  ],
+  "translation": "Кој е простодушен — нека сврти овде; а на оној што нема срце таа му вели:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b14cef59dd9bebb59506f6b958ba93e9573ab01bfd2b0f1dd7cc70c35a5df399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/9\/13-16.1792454409587.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "простодушен"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "нека сврти"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "овде"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "а на оној што нема"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "таа вели"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-10-20T00:00:09.588290075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 3:25",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "стража",
+      "rationale": "המטרה е буквално 'затвор\/набљудувачница' (стража), не уред"
+    },
+    {
+      "kind": "measurement",
+      "subject": "свиокот на ѕидот",
+      "rationale": "стихот мери дел од ѕидот по топонимски точки, дел од пописот на поправки"
+    }
+  ],
+  "translation": "Палал, синот на Узај, ⟨го поправи⟩ ⟨спроти⟩ свиокот на ѕидот и кулата што излегува од горниот дом на царот, која ⟨е⟩ до дворот на стражата; по него Педаја, синот на Парош.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3f9398ab866b1a4b43e7623b1f176ffb679fd45e3eba61311f3f5b3c053af280",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/3\/25-28.1792456553690.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלל",
+      "gloss": "Палал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "אוזי",
+      "gloss": "Узај"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "⟨спроти⟩"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "свиокот"
+    },
+    {
+      "surface": "והמגדל",
+      "gloss": "и кулата"
+    },
+    {
+      "surface": "היוצא",
+      "gloss": "што излегува"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "од домот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "горниот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "до дворот"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "на стражата"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "по него"
+    },
+    {
+      "surface": "פדיה",
+      "gloss": "Педаја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Парош"
+    }
+  ],
+  "timestamp": "2026-10-20T00:35:53.691228385Z",
+  "model": "glm-5.3"
+}

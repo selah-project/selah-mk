@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ממגדל נוצרים עד עיר מבצר",
+      "rationale": "„од кулата на стражарите до утврдениот град” — пословична мерка на целата земја, од најмалото до најголемото место."
+    },
+    {
+      "kind": "addition",
+      "subject": "нејзини",
+      "rationale": "посесивната наставка на גבוליה се TTC⁇ во македонскиот посесивен глагол — „границите нејзини” (на Азa)."
+    }
+  ],
+  "translation": "Тој ги порази ⟨את⟩ Плиштимците до Азa и ⟨את⟩ границите нејзини, од кулата на стражарите до утврдениот град.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "f9ecda6c511acc5c8d9e2ff185d30b54354310136802932755bcd8d7183d15c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/18\/5-8.1792449385581.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ги порази"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Плиштимците"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштимците"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Аза"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "границите нејзини"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "границите нејзини"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "од кулата на"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "стражарите"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "утврден"
+    }
+  ],
+  "timestamp": "2026-10-19T22:36:25.584669264Z",
+  "model": "glm-5.3"
+}

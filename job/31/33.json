@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 31:33",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כאדם",
+      "rationale": "'како Адам' (како првиот човек што го криеше гревот) наспроти 'како луѓето' — JPS чита 'како човек', KJV задржува Адам."
+    },
+    {
+      "kind": "secret",
+      "subject": "скривање на гревот",
+      "rationale": "стивот ја слика сокриената вина во градите — слика на таен грев."
+    }
+  ],
+  "translation": "Ако ги покривав моите престапи како Адам, криејќи ја мојата вина во градиот мој,",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d90c7d05fb5dcca40cc42a60937983bea6bb7ad1c33d316c1335f240472cd3f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/31\/33-36.1792455228864.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "покривав"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "како Адам"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "моите престапи"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "криејќи"
+    },
+    {
+      "surface": "בחבי",
+      "gloss": "во градиот мој"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "мојата вина"
+    }
+  ],
+  "timestamp": "2026-10-20T00:13:48.865497015Z",
+  "model": "glm-5.3"
+}

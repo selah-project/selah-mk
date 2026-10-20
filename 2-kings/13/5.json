@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 13:5",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מושיע",
+      "rationale": "„избавител“ — јудејската традиција мисли на Елиша или на Елам\/Асирија; текстот не го именува."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כתמול שלשום",
+      "rationale": "буквално „како вчера и завчера“ — идиом за „како порано, како отсекогаш“."
+    }
+  ],
+  "translation": "И Јахве им даде на Јисраел избавител, и излегоа од-под раката на Арам, и синовите на Јисраел седеа во шаторите свои како-вчера и-завчера.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "bb3ac625ebb8d8f9c8626dc8061580617f4448a2305b6a73007a920a3d1d1883",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/13\/5-8.1792449347632.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И даде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "избавител"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "и излегоа"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "од-под"
+    },
+    {
+      "surface": "יד",
+      "gloss": "раката"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "и седеа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "во шаторите свои"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "како-вчера"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "и-завчера"
+    }
+  ],
+  "timestamp": "2026-10-19T22:35:47.633518717Z",
+  "model": "glm-5.3"
+}

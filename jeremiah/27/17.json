@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨би⟩",
+      "rationale": "македонскиот условен глагол бара помошни зборови што хебрејскиот нема"
+    },
+    {
+      "kind": "substitution",
+      "subject": "разурнат",
+      "rationale": "חרבה буквално значи 'суша', пренесено 'опустошеност'"
+    },
+    {
+      "kind": "you",
+      "subject": "до свештениците и народот",
+      "rationale": "директен повик, заповеди во множина"
+    }
+  ],
+  "translation": "Не слушајте ги нив; служете му ⟨את⟩ на царот на Вавилон и ќе живеете. Зошто ⟨би⟩ бил ⟨οὐ⟩ овој град разурнат?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5be01117f3073b00fe12666d113c7d51725eab4bb7794bda23ca90e1bdf629ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/27\/17-20.1792450776350.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "слушајте"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ги нив"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "служете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "на царот на Вавилон"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "и ќе живеете"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": " би бил"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овој"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "разурнат"
+    }
+  ],
+  "timestamp": "2026-10-19T22:59:36.350884944Z",
+  "model": "glm-5.3"
+}

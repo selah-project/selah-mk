@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "Македонскиот бара помошен глагол кај релативната реченица; хебрејскиот го нема."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמי השמים",
+      "rationale": "Суперлативна конструкција „небеса на небесата“ — највисоките небеса."
+    }
+  ],
+  "translation": "Фалете Го, небеса на небесата, и водите што ⟨се⟩ над небесата!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b7de9ca12aa90e11fddb0f03bf01ddf6fc7ac854967742600f4f57db821fb128",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/148\/1-4.1792454206696.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "фалете Го"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "небеса на"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "и водите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "над"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:56:46.697349482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 51:10",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "цедаки",
+      "rationale": "צדקתינу множина: 'правди\/праведности' против традиционалното 'победа\/оправдување' (JPS 'victory')"
+    },
+    {
+      "kind": "invitation",
+      "subject": "дојдете, и да раскажеме",
+      "rationale": "повик кон слушателите да се соберат и сведочат во Цион"
+    }
+  ],
+  "translation": "Јахве ги изведе ⟨את⟩ нашите цедаки; дојдете, и да раскажеме во Цион ⟨את⟩ делото на Јахве, нашиот Елохим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "161af04d7c4e7512a7f0f68f48499a1d9ae3f8edf2c7460ef20f5bdf9e8a7f9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/51\/9-12.1792451286957.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "изведе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нашите цедаки"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "нашите цедаки"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дојдете"
+    },
+    {
+      "surface": "ונספרה",
+      "gloss": "и да раскажеме"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "во Цион"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "делото"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "делото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "нашиот Елохим"
+    }
+  ],
+  "timestamp": "2026-10-19T23:08:06.958134437Z",
+  "model": "glm-5.3"
+}

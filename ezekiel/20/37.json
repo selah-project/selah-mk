@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 20:37",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "под жезлото",
+      "rationale": "תחת השבט: слика од бројње на стадо со прачка (Лев 27:32), минување под жезлото на избирање"
+    },
+    {
+      "kind": "crux",
+      "subject": "מסרת",
+      "rationale": "од корен 'врзува': окови\/врски на заветот; некои читаат како 'месни мерки' (числење)"
+    }
+  ],
+  "translation": "И ќе ве префилам под жезлото, и ќе ве воведам во оковите на заветот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a1e6a4c0c1a6a3de2346bd9000d602a67db08327181d97dbe41b25c9c5b3e575",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/20\/37-40.1792451659355.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעברתי",
+      "gloss": "и ќе ве префилам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "жезлото"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "и ќе ве воведам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "במסרת",
+      "gloss": "во оковите"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "на заветот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:14:19.355904225Z",
+  "model": "glm-5.3"
+}

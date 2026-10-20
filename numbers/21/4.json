@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 21:4",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "קצרה נפש",
+      "rationale": "Дословно 'душата стана кратка' — идиом за нестрпливост\/обесхрабреност (KJV 'discouraged', JPS 'impatient')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפש е 'животен дах, грло, волја за живот', не бесмртна душа."
+    },
+    {
+      "kind": "alternative",
+      "subject": "морето на трските",
+      "rationale": "ים סוף дословно 'море на трска' (суд); традиционално 'Црвено море'."
+    }
+  ],
+  "translation": "И тргнаа од планината Хор по патот кон морето на трските, за да ја заобиколат ⟨את⟩ земјата Едом; и душата на народот станаше нестрплива на патот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5a5565236b19cab88eba94ea7deea28af558303e9fb9ad29fdfd29f46756ddd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/21\/1-4.1792444992664.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "и тргнаа"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "од планината Хор"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "планината"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "по патот"
+    },
+    {
+      "surface": "ים",
+      "gloss": "кон морето"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "на трските"
+    },
+    {
+      "surface": "לסבב",
+      "gloss": "да заобиколат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата Едом"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "стана нестрплива"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душата"
+    },
+    {
+      "surface": "העם",
+      "gloss": "на народот"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на патот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:23:12.666456299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "решена",
+      "rationale": "מתאמצת е букв. „се зајакнува\/утврдува“ — физичка слика на цврстина."
+    }
+  ],
+  "translation": "И таа виде дека е решена да оди ⟨את⟩ неа, па престана да ѝ зборува.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ruth\/1\/17-20.1792455573325.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "и виде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "решена"
+    },
+    {
+      "surface": "היא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "да оди"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "неа"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "па престана"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "да зборува"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ја"
+    }
+  ],
+  "timestamp": "2026-10-20T00:19:33.325758185Z",
+  "model": "glm-5.3"
+}

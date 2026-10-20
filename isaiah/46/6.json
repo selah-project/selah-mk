@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 46:6",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "на кантар",
+      "rationale": "בקנה буквално 'во трска' — трска како мерна прачка\/вага; сликата е заменета со 'кантар'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "бог",
+      "rationale": "אל со мала буква — идолот што го прават рацете, не Ел."
+    },
+    {
+      "kind": "hapax-imitation",
+      "subject": "הזלים",
+      "rationale": "Ретка форма од זלל — 'растуруваат\/сипуваат изобилно'; буквалната слика е трошење злато.'"
+    }
+  ],
+  "translation": "Ги сипуваат златото од торбата и среброто на кантар го мерат, најмуваат златар — и тој прави од него бог; паѓаат ничкум, да, му се поклонуваат.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "f63118e8af6f796429a26da125c4abd1e3690d88d43cc14b87e4d806dbf18030",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/46\/5-8.1792450168945.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הזלים",
+      "gloss": "Ги сипуваат"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златото"
+    },
+    {
+      "surface": "מכיס",
+      "gloss": "од торбата"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "и среброто"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "на кантар"
+    },
+    {
+      "surface": "ישקלו",
+      "gloss": "го мерат"
+    },
+    {
+      "surface": "ישכרו",
+      "gloss": "најмуваат"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "златар"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "и тој прави од него"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бог"
+    },
+    {
+      "surface": "יסגדו",
+      "gloss": "паѓаат ничкум"
+    },
+    {
+      "surface": "אף",
+      "gloss": "да"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "му се поклонуваат"
+    }
+  ],
+  "timestamp": "2026-10-19T22:49:28.947045153Z",
+  "model": "glm-5.3"
+}

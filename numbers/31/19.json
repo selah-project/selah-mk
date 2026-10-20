@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 31:19",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нефеш",
+      "rationale": "נפש е „живото суштество, здив, живот“ — задржано како нефеш, не „души“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "седум дена",
+      "rationale": "Очистување на третиот и на седмиот ден — броено време."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "Македонскиот бара возвратна честичка кај „очистете се“; хебрејскиот глагол ја носи формата."
+    }
+  ],
+  "translation": "И вие логорувајте надвор од логорот седум дена: секој што убил нефеш и секој што се допрел до заклан, очистете ⟨се⟩ на третиот ден и на седмиот ден — вие и вашите заробеници.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "835b8a91d21d932e2e12bea38edddd8ba4addd908d734e059b64ffd068d6dde0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/31\/17-20.1792445203573.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "И вие"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "логорувајте"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "надвор"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "од логорот"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седум"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дена"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој што"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "убил"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и секој што"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "се допрел"
+    },
+    {
+      "surface": "בחלל",
+      "gloss": "до заклан"
+    },
+    {
+      "surface": "תתחטאו",
+      "gloss": "очистете"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "на ден"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третиот"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "и на"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седмиот"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "ושביכם",
+      "gloss": "и вашите заробеници"
+    }
+  ],
+  "timestamp": "2026-10-19T21:26:43.574877437Z",
+  "model": "glm-5.3"
+}

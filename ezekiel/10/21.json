@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 10:21",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ארבעה ארבעה",
+      "rationale": "Двојно повторување на „четири“ — бројот го брои и лицата и крилата; македонскиот го чува повторувањето."
+    },
+    {
+      "kind": "measurement",
+      "subject": "четири — четири",
+      "rationale": "Пребројување на лицата и крилата на живото создание."
+    }
+  ],
+  "translation": "Четири — четири лица на едниот, и четири крила на едниот; и облик на раце човечки под крилата нивни.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ee605fa4b2f751bdfb109021403256714545ba008008bb45c84891222eebf6cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/10\/21-22.1792451450060.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארבעה",
+      "gloss": "четири"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четири"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лица"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "на едниот"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "и четири"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "крила"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "на едниот"
+    },
+    {
+      "surface": "ודמות",
+      "gloss": "и облик"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "раце"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечки"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "крилата нивни"
+    }
+  ],
+  "timestamp": "2026-10-19T23:10:50.060475136Z",
+  "model": "glm-5.3"
+}

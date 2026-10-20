@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "esther 2:22",
+  "book": "esther",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот пасив бара возвратна честичка; хебрејскиот има пасивна форма ויודע"
+    }
+  ],
+  "translation": "И ⟨се⟩ дозна работата на Мордехај, и тој ѝ ја соопшти на Естер, кралицата; а Естер им рече на царот во име на Мордехај.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5ea9e0009ce786d93c5bf0d355e392b8bfb2f80c03d1faa05611e112212abaae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/esther\/2\/21-23.1792455822132.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויודע",
+      "gloss": "И дозна"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "работата"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "на Мордехај"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "и соопшти"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "на Естер"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "кралицата"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "а рече"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "во име"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "на Мордехај"
+    }
+  ],
+  "timestamp": "2026-10-20T00:23:42.133629871Z",
+  "model": "glm-5.3"
+}

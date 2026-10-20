@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "учествувачката конструкција бара помошен глагол на македонски"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נכון...נכון",
+      "rationale": "точен повтор — repetициja што ја дава решителноста"
+    }
+  ],
+  "translation": "Утврдено ⟨е⟩ срцето мое, Елохим; утврдено ⟨е⟩ срцето мое; ќе пеам и ќе славословам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "84411a8859fb53a749c3e95403a297451a264393a89b9c982b88286514726b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/57\/5-8.1792453430913.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נָכ֗וֹן",
+      "gloss": "утврдено"
+    },
+    {
+      "surface": "לִבִּ֣י",
+      "gloss": "срцето мое"
+    },
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "נָכ֣וֹן",
+      "gloss": "утврдено"
+    },
+    {
+      "surface": "לִבִּ֑י",
+      "gloss": "срцето мое"
+    },
+    {
+      "surface": "אָשִׁ֥ירָה",
+      "gloss": "ќе пеам"
+    },
+    {
+      "surface": "וַאֲזַמֵּֽרָה",
+      "gloss": "и ќе славословам"
+    }
+  ],
+  "timestamp": "2026-10-19T23:43:50.914307826Z",
+  "model": "glm-5.3"
+}

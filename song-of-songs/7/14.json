@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 7:14",
+  "book": "song-of-songs",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨има⟩",
+      "rationale": "Хебрејскиот е именски исказ без глагол; македонскиот бара „има“."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מגדים",
+      "rationale": "мегед — изборен плод; само тука (множина) во целиот Танах."
+    },
+    {
+      "kind": "secret",
+      "subject": "צפנתי",
+      "rationale": "„Сокрив“ — скриени, зачувани нешта за љубениот."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חדשים גם ישנים",
+      "rationale": "Спротивставување ново\/старо со „гам“ меѓу нив — дури и старото е скришно зачувано."
+    }
+  ],
+  "translation": "Дудимите мирисаа, и на нашите порти ⟨има⟩ сите изборни плодови, нови, па дури и стари; мојот љубен, за тебе ги сокрив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0cf249feedb7cfb9370f18243c053910d74b482f465f3645070afd19ff9d2888",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/song-of-songs\/7\/13-14.1792455430491.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדודאים",
+      "gloss": "дудимите"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "мираа"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "мирис"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "פתחינו",
+      "gloss": "нашите порти"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "изборни плодови"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "нови"
+    },
+    {
+      "surface": "גם",
+      "gloss": "па дури и"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "стари"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "мојот љубен"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "сокрив"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за тебе"
+    }
+  ],
+  "timestamp": "2026-10-20T00:17:10.492708629Z",
+  "model": "glm-5.3"
+}

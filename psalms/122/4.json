@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Зашто",
+      "rationale": "шешам е само „таму“; сврзникот е додаден за врска со претходниот стих."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבטים ... שבטי יה",
+      "rationale": "повторувањето „племиња, племињата на Јах“ е свечен ритам што македонскиот го задржува."
+    }
+  ],
+  "translation": "Зашто таму се качуваа племињата, племињата на Јах, сведоштво за Јисраел, да заблагодарат на името на Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fada0221024951a7a1377830d44fecf2faf73c73fd36e54566392241ebf71cce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/122\/1-4.1792454060601.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "Зашто таму"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "се качуваа"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "племињата"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "племињата"
+    },
+    {
+      "surface": "יה",
+      "gloss": "на Јах"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "свидоштво"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "за Јисраел"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "да заблагодарат"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "на името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:54:20.605065961Z",
+  "model": "glm-5.3"
+}

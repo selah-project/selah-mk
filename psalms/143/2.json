@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "македонскиот бара согласувачка сврзница\/прирок што хебрејскиот го испушта"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצדק \/ צדקה",
+      "rationale": "истиот корен צדק од стих 1 — „во твојот цедек“ никој не се оправдува; сенката е изгубена"
+    }
+  ],
+  "translation": "И не влегувај на суд со ⟨את⟩ слугата свој, зашто нема да се оправда пред тебе ниеден жив ⟨е⟩.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d7ea2addd3a0aa4d4a94507bbc4435ec9a6da2c7e1962af6ff60f2716542c0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/143\/1-4.1792454169353.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "влегувај"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "на суд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слугата свој"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слугата свој"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "нема да се оправда"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред тебе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ниеден"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    }
+  ],
+  "timestamp": "2026-10-19T23:56:09.354468659Z",
+  "model": "glm-5.3"
+}

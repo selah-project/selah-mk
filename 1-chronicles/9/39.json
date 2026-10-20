@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 9:39",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשבעל",
+      "rationale": "Ешбаал („Баал постои\/мине”) е оригиналното име; во 2 Самуиловата традиција стои Иш-бошет („човек на срамот”) — наменска измена на името со Баал"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodoslov",
+      "rationale": "список на поколенија: Нер—Киш—Шаул—синовите на Шаул"
+    }
+  ],
+  "translation": "И Нер го роди ⟨את⟩ Киш, и Киш го роди ⟨את⟩ Шаул, и Шаул роди ⟨את⟩ Јехонатан и ⟨את⟩ Малки-шуа и ⟨את⟩ Авинадав и ⟨את⟩ Ешбаал.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8492f4dab857bb31b25b44fa570d8df7e1f528c388f1887e3833aaff3662c3c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/9\/37-40.1792456967625.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "И Нер"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "го роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Киш"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Киш"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "и Киш"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "го роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шаул"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "и Шаул"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јехонатан"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Јехонатан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Малки-шуа"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Малки-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-шуа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Авинадав"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Авинадав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Ешбаал"
+    },
+    {
+      "surface": "אשבעל",
+      "gloss": "Ешбаал"
+    }
+  ],
+  "timestamp": "2026-10-20T00:42:47.626846007Z",
+  "model": "glm-5.3"
+}

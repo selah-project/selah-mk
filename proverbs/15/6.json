@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "преврат",
+      "rationale": "עכר буквално значи 'да замути вода'; 'преврат\/безредие' ја губи сликата на заматена вода."
+    },
+    {
+      "kind": "crux",
+      "subject": "חסן",
+      "rationale": "'богатство' или 'силa' (како YLT); двата преводи постојат во традицијата."
+    }
+  ],
+  "translation": "Домот на праведниот има богато богатство, а во приходот на злите — преврат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "37c8f20d94c77a270694137ac827fa8a9cf240f9f27269f655d367465573d74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/15\/5-8.1792454501161.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "на праведниот"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "רב",
+      "gloss": "богато"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "а во приходот"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "на злите"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "преврат"
+    }
+  ],
+  "timestamp": "2026-10-20T00:01:41.161963348Z",
+  "model": "glm-5.3"
+}

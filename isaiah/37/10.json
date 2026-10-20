@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 37:10",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Хизкија",
+      "rationale": "порака упатена директно до Хизкија, царот на Јуда, преку гласниците"
+    },
+    {
+      "kind": "substitution",
+      "subject": "измами",
+      "rationale": "נשא — букв. 'веде ја во заблуда'; преведувачите се делат меѓу 'измами' и 'те теше со лажна надеж'"
+    },
+    {
+      "kind": "addition",
+      "subject": "нема да биде",
+      "rationale": "македонскиот минат идент за негација на идното действие"
+    }
+  ],
+  "translation": "Така кажете на Хизкија, царот на Јуда, велејќи: не нека те измами твојот Елохим во кого се надеваш, велејќи: Јерушалаим нема да биде предаден во рака на царот на Ашур.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "58a2d0b98f488fcc482ba781196e6d88a694931f50e6ace27ff4aa848dfffddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/37\/9-12.1792450009422.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "кажете"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкија"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуда"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישאך",
+      "gloss": "нека те измами"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "во кого"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "се надеваш"
+    },
+    {
+      "surface": "בו",
+      "gloss": "во него"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "ќе биде предаден"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "во рака"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    }
+  ],
+  "timestamp": "2026-10-19T22:46:49.423162389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "македонскиот бара помошен глагол во 'затоа е\/затоа'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרמונים",
+      "rationale": "множина 'Хермоним' — врвовите на Хермон, задржано буквално"
+    },
+    {
+      "kind": "measurement",
+      "subject": "земјата Јарден и Хермонимите",
+      "rationale": "именување на места — географско означување од северно Martialко место"
+    }
+  ],
+  "translation": "Елохим мој, врз мене душата ми тоне; затоа Те сеќавам од земјата Јарден и Хермонимите, од планината Мицар.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f45caec732fda1f80e58f5b86b9c1a8e0682bd37b7506f36e4c28ce33b1b1447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/42\/5-8.1792453304799.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мој"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "врз мене"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата ми"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "тоне"
+    },
+    {
+      "surface": "על",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨е⟩"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "Те сеќавам"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Јарден"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "и Хермонимите"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "од планината"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Мицар"
+    }
+  ],
+  "timestamp": "2026-10-19T23:41:44.800898326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 44:10",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בתעות...תעו",
+      "rationale": "коренot תעה се повторува — скитањето на Јисраел и скитањето на Левитите — одекот се губи"
+    },
+    {
+      "kind": "substitution",
+      "subject": "гнусни идоли",
+      "rationale": "גלולим е потсмевно 'трупци,滚ли дрва'; македонскиот 'идол' го губи погрдниот призвук"
+    }
+  ],
+  "translation": "Освен што Левитите, што се оддалечија од мене кога Јисраел скиташе — тие што скитаа од мене по своите гнусни идоли — ќе го понесат своето беззаконие.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2aea20f85e16ae1c8e5847244af8415692ddab60797adbddf739cc0316362d5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/44\/9-12.1792452055247.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Освен што"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левитите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "се оддалечија"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "од мене"
+    },
+    {
+      "surface": "בתעות",
+      "gloss": "кога скиташе"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "тие што"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "скитаа"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "од мене"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "своите гнусни идоли"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "ќе го понесат"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "своето беззаконие"
+    }
+  ],
+  "timestamp": "2026-10-19T23:20:55.248756898Z",
+  "model": "glm-5.3"
+}

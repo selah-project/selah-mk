@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחר אף",
+      "rationale": "буквално „и се разгоре носот“ — хебрејски идиом за гнев; гневот гори во носот"
+    },
+    {
+      "kind": "addition",
+      "subject": "гневот",
+      "rationale": "хебрејскиот има само אף (нос\/гнев) со глагол; македонскиот бара именка"
+    }
+  ],
+  "translation": "И разгоре се гневот на Јааков против Рахел, и рече: Дали наместо Елохим сум јас, што ⟨ти⟩ задржа од тебе плод на утробата?",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "32b0a027d17b102c62d2f62e9dad1eee5c5c1caac83548fa17699b668aff9240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/30\/1-4.1792442902095.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "разгоре се"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гневот (нос)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "на Јааков"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "против Рахел"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "наместо"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "задржа"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "од тебе"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "плод"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "на утробата"
+    }
+  ],
+  "timestamp": "2026-10-19T20:48:22.098588104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "откупи",
+      "rationale": "גאל е збор за роднинско откупување (го-откупува-роднинот), не општо ослободување"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שונא\/אויב",
+      "rationale": "паралелизам: 'оној што мрази' и 'непријател' — вториот е причестие од истиот корен мрази"
+    }
+  ],
+  "translation": "И ги спаси од раката на оној што ги мразеше, и ги откупи од раката на непријателот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1b4bcb913d47efed2486e31cc367397cac8e7bd5de9a80372b0b4cf5ac152735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/106\/10-11.1792458403593.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "и ги спаси"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "од раката"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "на оној што мрази"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "и ги откупи"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "од раката"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "непријател"
+    }
+  ],
+  "timestamp": "2026-10-20T01:06:43.593659040Z",
+  "model": "glm-5.3"
+}

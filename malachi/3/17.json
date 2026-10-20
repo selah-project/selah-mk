@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "malachi 3:17",
+  "book": "malachi",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сегула",
+      "rationale": "סגלה буквално „затворено богатство\/скривница“ — кралски посебен имот, не накит"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨свој⟩",
+      "rationale": "Присвојност што хебрејскиот ја носи во конструкцијата"
+    }
+  ],
+  "translation": "И ќе Ми бидат мені, вели Јахве Цеваот, во денот кога Јас правам ⟨свој⟩ посебен знак-богатство, и Ќе поштедам ги, како што човек поштедува син што Му служи.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4179814540675d8e2fed1f9e4aaf901ec4cf6677193b96ea0499eca887b07834",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/malachi\/3\/17-20.1792452865772.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "и ќе бидат"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ми"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кога"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "правам"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "посебен знак-богатство"
+    },
+    {
+      "surface": "וחמלתי",
+      "gloss": "и ќе поштедам"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "нив"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "поштедува"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "што служи"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "нему (на оној што Му служи)"
+    }
+  ],
+  "timestamp": "2026-10-19T23:34:25.773022586Z",
+  "model": "glm-5.3"
+}

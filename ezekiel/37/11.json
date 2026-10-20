@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 37:11",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "македонскиот бара сврзник во apostрофата „овие коски — тоа е“"
+    },
+    {
+      "kind": "crux",
+      "subject": "נגזרנו לנו",
+      "rationale": "„одсечени сме за нас“ — буквалното „за нас“ е тешко; традицијата: сосема одсечени"
+    }
+  ],
+  "translation": "И ми рече: човеку синко, овие коски — тоа ⟨е⟩ целиот дом Јисраелов. Ене, тие велат: изсашија нашите коски и загина надежта наша, одсечени сме ние.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "84121e6dd3155f9c599a7f538d87a10f69da80d0a74a9246ab8bf29f844f3e6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/37\/9-12.1792451971875.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И ми рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синко"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "коските"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тоа ⟨е⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ене"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ти велат"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "изсашија"
+    },
+    {
+      "surface": "עצמותינו",
+      "gloss": "коските наши"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "и загина"
+    },
+    {
+      "surface": "תקותנו",
+      "gloss": "надежта наша"
+    },
+    {
+      "surface": "נגזרנו",
+      "gloss": "одсечени сме"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ние"
+    }
+  ],
+  "timestamp": "2026-10-19T23:19:31.876501901Z",
+  "model": "glm-5.3"
+}

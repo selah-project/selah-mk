@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 29:8",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קמו עמדו",
+      "rationale": "двоен глагол „станаа–застанаа“, кулминација на почит спрема Јов; двата глаголи се задржани."
+    }
+  ],
+  "translation": "Ме гледаа младите и се скрија, а старците станаа и стоеја прави.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "742582796b05feb8b475dd433ff3c51c84dc5c98441d30b235ebdcd502c8ddce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/29\/5-8.1792455155692.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראוני",
+      "gloss": "ме гледаа"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "младите"
+    },
+    {
+      "surface": "ונחבאו",
+      "gloss": "и се скрија"
+    },
+    {
+      "surface": "וישישים",
+      "gloss": "а старците"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "станаа"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "стоеја прави"
+    }
+  ],
+  "timestamp": "2026-10-20T00:12:35.692966410Z",
+  "model": "glm-5.3"
+}

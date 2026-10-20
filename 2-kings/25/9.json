@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "господарот на касапите",
+      "rationale": "רב טבחים во v.10–11 е титула на НевузарАдан, буквално 'началник на касапите\/џелатите'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרף...שרף",
+      "rationale": "Коренот се повторува на почетокот и крајот на стихот — целиот стих е за оган."
+    }
+  ],
+  "translation": "И го запали ⟨את⟩ домот на Јахве, и ⟨את⟩ домот на царот, и ⟨את⟩ сите куќи на Јерушалаим — и ⟨את⟩ секоја голема куќа ја запали со оган.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/25\/9-12.1792449479084.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "запали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "домот на Јахве"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "домот на царот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сите куќи на Јерушалаим"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "куќи"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "секоя голема куќа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секоя"
+    },
+    {
+      "surface": "בית",
+      "gloss": "куќа"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голема"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ја запали"
+    },
+    {
+      "surface": "באש",
+      "gloss": "со оган"
+    }
+  ],
+  "timestamp": "2026-10-19T22:37:59.085168862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 28:19",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בבקר בבקר",
+      "rationale": "двојно 'утро наутро' — постојано повторување, зачувано буквално."
+    },
+    {
+      "kind": "alternative",
+      "subject": "да се разбере веста",
+      "rationale": "може и 'само трепет доволно за разбирање на веста' — глаголот הבין е во инфинитив, конструкцијата е мрачна."
+    }
+  ],
+  "translation": "Од честото нејзино поминување ќе ве фати ⟨את⟩, зашто утро наутро ќе поминува, дење и ноќе; и ќе биде само трепет — да се разбере веста.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "563527911eb4b23a3bfb7c5fa929a0397404754fe8d07b026afcf81162a5bffa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/28\/17-20.1792449888243.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדי",
+      "gloss": "од честото"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "нејзино поминување"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ќе фати"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "утро"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "наутро"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ќе поминува"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дење"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "и ноќе"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "זועה",
+      "gloss": "трепет"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "да се разбере"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "веста"
+    }
+  ],
+  "timestamp": "2026-10-19T22:44:48.247848393Z",
+  "model": "glm-5.3"
+}

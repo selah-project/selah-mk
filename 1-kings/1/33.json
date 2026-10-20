@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 1:33",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мулето",
+      "rationale": "הפרדה е женски хибрид (кобила-муле), посебен статус кај кралското јавање во Танах"
+    },
+    {
+      "kind": "you",
+      "subject": "до слугите и службениците",
+      "rationale": "Давид им заповеда директно на присутните — повелителен говорање"
+    }
+  ],
+  "translation": "И рече царот на нив: Земете со вас ⟨את⟩ слугите на вашиот господар, и качете го ⟨את⟩ Шломо, синот мој, на моето муле, и внесете го ⟨את⟩ него надолу до Гихон.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2789c05c5fb2b46ab7d9e7a84c3b8ed7459663cbdfcbaf1e5e81624f59fcb3af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/1\/33-36.1792448523447.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "להם",
+      "gloss": "на нив"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Земете"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "со вас"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слугите"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слугите"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "на вашиот господар"
+    },
+    {
+      "surface": "והרכבתם",
+      "gloss": "и качете го"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шломо"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синот мој"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הפרדה",
+      "gloss": "мулето"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לי",
+      "gloss": "е мое"
+    },
+    {
+      "surface": "והורדתם",
+      "gloss": "и внесете го надолу"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "до Гихон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "Гихон"
+    }
+  ],
+  "timestamp": "2026-10-19T22:22:03.448520095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "македонскиот бара член и подмет што хебрејскиот ги изостава"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישפילנה ישפילה",
+      "rationale": "двојно повторување на глаголот „снизи“ — нагласено повторување изгубено во еден македонски глагол"
+    }
+  ],
+  "translation": "Зашто ги снизува⟨е⟩ жителите на височината, градот утврден; ќе го снизи до земја, ќе го допре ⟨е⟩ до прав.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "907c19acfe64c85a245e35a5d6bb455d7eea25d6ff3c86c7c1e4d8ca044875b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/26\/5-8.1792449866717.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "השח",
+      "gloss": "гинизидува"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жителите"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "на височината"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "градот"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "утврден"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "ќе го снизи"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "снизи"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "ќе го допре"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прав"
+    }
+  ],
+  "timestamp": "2026-10-19T22:44:26.718325239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא הכין לבו",
+      "rationale": "буквално «не го подготви срцето свое» — стан збиран на волјата, македонскиот ја чува сликата"
+    }
+  ],
+  "translation": "И го правеше злото, зашто не си го подготви срцето да Го бара ⟨את⟩ Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f943684c4f40f8e79827f36089846c61561d8981b571467a054b0626acd25f07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/12\/13-16.1792457511949.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и правеше"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "злото"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "подготви"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срцето свое"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "да бара"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-20T00:51:51.950347770Z",
+  "model": "glm-5.3"
+}

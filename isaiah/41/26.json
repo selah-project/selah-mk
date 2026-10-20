@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 41:26",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "rhetorical-question",
+      "subject": "מי הגיד",
+      "rationale": "риторичко прашање до идолите — никој од нив не објави однапред"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אף אין x3",
+      "rationale": "триратно повторување 'дури и нема' — анастофа, струката на празниот одговор на идолите"
+    }
+  ],
+  "translation": "Кој објави од почеток, ⟨за⟩ да знаеме, и однапред, ⟨за⟩ да речеме: ⟨тој е⟩ праведен? Дури и нема кој објавува, дури и нема кој известува, дури и нема кој ги слуша зборовите ваши.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a09f07d396d533f7285340e02f5f4ad4ca0be6e152799e9cc41cde617b223b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/41\/25-28.1792450092896.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "објави"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "од почеток"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "да знаеме"
+    },
+    {
+      "surface": "ומלפנים",
+      "gloss": "и однапред"
+    },
+    {
+      "surface": "ונאמר",
+      "gloss": "да речеме"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведен"
+    },
+    {
+      "surface": "אף",
+      "gloss": "дури и"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "кој објавува"
+    },
+    {
+      "surface": "אף",
+      "gloss": "дури и"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "משמיע",
+      "gloss": "кој известува"
+    },
+    {
+      "surface": "אף",
+      "gloss": "дури и"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "кој слуша"
+    },
+    {
+      "surface": "אמריכם",
+      "gloss": "зборовите ваши"
+    }
+  ],
+  "timestamp": "2026-10-19T22:48:12.898796699Z",
+  "model": "glm-5.3"
+}

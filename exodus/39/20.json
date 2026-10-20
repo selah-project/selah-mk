@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 39:20",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חשב",
+      "rationale": "појас\/оплетен ремен на ефодот — 'curious girdle' кај KJV, 'исплетен појас' кај други."
+    },
+    {
+      "kind": "measurement",
+      "subject": "просторните одредници",
+      "rationale": "стихот го мести прстенот со четири одредници: оддолу, напред, кај спојот, над појасот."
+    }
+  ],
+  "translation": "И направија две златни прстени, и ги ставија на двете раменици на ефодот, оддолу, спроти лицето негово, кај спојот негов, одозгора спроти појасот на ефодот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2fa6a78bc6c3ae794dfaa03913f0ea2077449c4a430d52f098ed25b38470ced4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/39\/17-20.1792444046517.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "и направија"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "прстени"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златни"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "и ги ставија"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "двете"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "раменици"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "на ефодот"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "оддолу"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицето негово"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "кај"
+    },
+    {
+      "surface": "מחברתו",
+      "gloss": "спојот негов"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "одозгора"
+    },
+    {
+      "surface": "לחשב",
+      "gloss": "спроти појасот"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "на ефодот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:07:26.520267907Z",
+  "model": "glm-5.3"
+}

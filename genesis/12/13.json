@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "Овде את е заменка „ти“ (H859), не обележувачот на предмет (H853) — истите букви, друг збор."
+    },
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפש е ближе до „живот, душа-животна сила“, не бесмртна душа."
+    },
+    {
+      "kind": "you",
+      "subject": "Аврам до Сарај",
+      "rationale": "Директен говор — Аврам ја моли Сарај да каже дека му е сестра."
+    }
+  ],
+  "translation": "Кажи, те молам, дека ⟨את⟩ си ми сестра, за да ми биде добро поради тебе и да живее душата моја поради тебе.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "44aa1d740b55c50ab80ae37558d126c9d36b036223828003e62e9509740065c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/12\/13-16.1792442500360.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Кажи"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молам"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ми сестра"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ти"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "биде добро"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "поради тебе"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "и да живее"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата моја"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "поради тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T20:41:40.362489792Z",
+  "model": "glm-5.3"
+}

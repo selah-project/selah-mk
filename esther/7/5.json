@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Естер",
+      "rationale": "Царот директно ѝ се обраќа на кралицата Естер со прашање."
+    },
+    {
+      "kind": "idiom",
+      "subject": "го наполни срцето",
+      "rationale": "מלאו לבו — буквално 'срцето го исполни', хебрејска идиома за дрскост; задржана буквално."
+    }
+  ],
+  "translation": "И царот Ахашверош рече и рече на Естер кралицата: Кој е ⟨тој⟩ и каде е ⟨тој⟩ — оној чието срце го наполни да направи така?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4e58881efdbb408e4cbb684fbddf32dfc30cb28cddca718a788bd2de04804ccb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/esther\/7\/5-8.1792455885951.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ахашверош"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "на Естер"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "кралицата"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨тој⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "ו אי",
+      "gloss": "и каде"
+    },
+    {
+      "surface": "זה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨тој⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "оној што"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "го наполни"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срцето негово"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да направи"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    }
+  ],
+  "timestamp": "2026-10-20T00:24:45.952425648Z",
+  "model": "glm-5.3"
+}

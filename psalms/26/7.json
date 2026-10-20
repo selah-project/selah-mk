@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "да се чуе",
+      "rationale": "לשמע_infinitiv може и „за да слушам“ — гласот на благодарност да се чуе е поверојатната смисла"
+    }
+  ],
+  "translation": "За да се чуе глас на благодарност и да ги расповедам сите Твои чудеса.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "60fce77910616cd9c245ceb15c47eed972a069c102c8eca9d765fa5097c59c2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/26\/5-8.1792453131421.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "За да се чуе"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "на благодарност"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "и да ги расповедам"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "Твои чудеса"
+    }
+  ],
+  "timestamp": "2026-10-19T23:38:51.422565930Z",
+  "model": "glm-5.3"
+}

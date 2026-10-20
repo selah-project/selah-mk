@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 10:1",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "יביע",
+      "rationale": "глаголот 'да испушта (мирис)' се топи во македонскиот израз 'го расипува'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула во вториот дел"
+    },
+    {
+      "kind": "crux",
+      "subject": "повредна е мудроста од славата",
+      "rationale": "структурата е сжата: дали 'малку глупост' ја надминува мудроста и славата (како што преведуваат повеќето), или мудроста останува повредна"
+    }
+  ],
+  "translation": "Мртви муви го расипуваат мирисното масло на парфимерот: повредна ⟨е⟩ мудроста од славата — малку глупост.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ea9d772119811af4e802c9749728f9de1c8363a5cb710a531ef5092d0f979d10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/10\/1-4.1792455770003.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבובי",
+      "gloss": "муви"
+    },
+    {
+      "surface": "מות",
+      "gloss": "мртви"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "го расипува"
+    },
+    {
+      "surface": "יביע",
+      "gloss": ""
+    },
+    {
+      "surface": "שמן",
+      "gloss": "масло"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "на парфимерот"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "повредна"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "од мудроста"
+    },
+    {
+      "surface": "מכבוד",
+      "gloss": "од славата"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "глупост"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "малку"
+    }
+  ],
+  "timestamp": "2026-10-20T00:22:50.003596650Z",
+  "model": "glm-5.3"
+}

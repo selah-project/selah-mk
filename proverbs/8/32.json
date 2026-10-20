@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 8:32",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "слушајте ме",
+      "rationale": "Мудроста ги повикува слушателите — императив и макаризам"
+    },
+    {
+      "kind": "you",
+      "subject": "до синовите",
+      "rationale": "директен обращение на Мудроста кон „синовите“ — читателите"
+    }
+  ],
+  "translation": "И сега, синови, слушајте ме, и блажени оние што ги чуваат патиштата мои!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f01ec9c24aad581e52a50cf7f4499d75f2cace7d10af198898225ad9df0a3e8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/8\/29-32.1792454418625.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "и сега"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слушајте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "и блажени"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "патиштата мои"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "што ги чуваат"
+    }
+  ],
+  "timestamp": "2026-10-20T00:00:18.626945810Z",
+  "model": "glm-5.3"
+}

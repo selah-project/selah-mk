@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 21:8",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "семество",
+      "rationale": "זרע буквално „семе“ — сликата на посев што стои пред оној што го посеал."
+    }
+  ],
+  "translation": "Семеството им е утврдено пред нив, со нив, и потомците им — пред очите нивни.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ef790e8718d28fb3292fd97390fe9bc3013636d181d4c3ae1d89b4bab442cd47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/21\/5-8.1792455115992.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרעם",
+      "gloss": "Семеството им"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "е утврдено"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "пред нив"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "со нив"
+    },
+    {
+      "surface": "וצאצאיהם",
+      "gloss": "и потомците им"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "пред очите нивни"
+    }
+  ],
+  "timestamp": "2026-10-20T00:11:55.993518646Z",
+  "model": "glm-5.3"
+}

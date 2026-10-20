@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשלמה",
+      "rationale": "„На Шломо“ — за Шломо (посветено нему) или од Шломо; и двете читања се застапени."
+    },
+    {
+      "kind": "substitution",
+      "subject": "цедекот",
+      "rationale": "צדקתך е „твојот цедек“ — праведност\/правда; чување на коренот цедек."
+    },
+    {
+      "kind": "you",
+      "subject": "Елохим",
+      "rationale": "Директно обраќање до Елохим со пожелба за царот."
+    }
+  ],
+  "translation": "На Шломо. Елохим, ⟨ги⟩ да́деш судбите твои на царот и цедекот твој на синот на царот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a48fef1a85418dbb54979a0547751fddc0df576b4ea71bd982194e4e10d4ed60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/72\/1-4.1792453554811.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "На Шломо"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "судбите твои"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "תן",
+      "gloss": "да́деш"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "и цедекот твој"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "на синот"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:45:54.812166413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 17:8",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בין דם לדם \/ דין לדין \/ נגע לנגע",
+      "rationale": "трикратен рефрен «меѓу X и X» — мерителна паралелна структура изгубена во опишни преводи"
+    },
+    {
+      "kind": "hapax",
+      "subject": "יפלא",
+      "rationale": "нифал на פלא «да биде издвоено\/необично» — тука «да надмине (твојот суд)»"
+    }
+  ],
+  "translation": "Ако ти биде премногу тежок ⟨е⟩ за суд некој предмет — меѓу крв и крв, меѓу спор и спор, и меѓу удар и удар, работи на раздор во твоите порти — тогаш стани и качи се на местото што ќе го избере Јахве, твојот Елохим,",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "342db6a9636315b17f1df2183553795089bb560514bad0935a591dda2e257299",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/17\/5-8.1792445641116.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "биде премногу тежок"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "предмет"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "за суд"
+    },
+    {
+      "surface": "בין",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "דם",
+      "gloss": "крв"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "и крв"
+    },
+    {
+      "surface": "בין",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "דין",
+      "gloss": "спор"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "и спор"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и меѓу"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "удар"
+    },
+    {
+      "surface": "לנגע",
+      "gloss": "и удар"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "работи"
+    },
+    {
+      "surface": "ריבת",
+      "gloss": "на раздор"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "во твоите порти"
+    },
+    {
+      "surface": "וקמת",
+      "gloss": "стани"
+    },
+    {
+      "surface": "ועלית",
+      "gloss": "качи се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "местото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ќе го избере"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "בו",
+      "gloss": "го"
+    }
+  ],
+  "timestamp": "2026-10-19T21:34:01.118416013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-chronicles 1:50",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бееше",
+      "rationale": "Хебрејскиот ја нема копулата — именски сказ без глагол."
+    },
+    {
+      "kind": "crux",
+      "subject": "מי זהב",
+      "rationale": "Меј-Захав (= 'води од злато') како лично име или титула — преведувачите се делат."
+    },
+    {
+      "kind": "measurement",
+      "subject": "името на градот и жената",
+      "rationale": "Именување — град, жена, мајчинска линија."
+    }
+  ],
+  "translation": "И умре Баал-Ханан, и зацари наместо него Хадад; а името на градот негов ⟨бееше⟩ Паи; и името на жената негова Меитавел, ќерка на Матред, ќерка на Меј-Захав.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6a2f63e862e27750c45737995c1553310c07d4b24b30cd980e07320d73d24a82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/1\/49-52.1792456785606.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и зацари"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "наместо него"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Хадад"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а името"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "на градот негов"
+    },
+    {
+      "surface": "פעי",
+      "gloss": "Паи"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "и името"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "на жената негова"
+    },
+    {
+      "surface": "מהיטבאל",
+      "gloss": "Меитавел"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерка"
+    },
+    {
+      "surface": "מטרד",
+      "gloss": "Матред"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерка"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Меј-"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Захав"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:45.607568211Z",
+  "model": "glm-5.3"
+}

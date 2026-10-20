@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 23:26",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מלילות",
+      "rationale": "מלילה — одсечена глава клас — се јавува само тука во Танах"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חרמש לא תניף",
+      "rationale": "буквално 'срп немој да го замавне\/нишне' — נוף е движење напред-назад, ритуален гест глагол; преведено како забрана за жнеење"
+    }
+  ],
+  "translation": "Кога ќе влезеш во класјето на ближниот свој, тогаш ќе набереш класје со раката своја, но срп немој да замавнеш над класјето на ближниот свој.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "46e2fc80679570dcdf66269e774d7577a2fdb49e2dfdec9b72811722e975a34d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/23\/25-26.1792445655501.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ќе влезеш"
+    },
+    {
+      "surface": "בקמת",
+      "gloss": "во класјето"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "на ближниот свој"
+    },
+    {
+      "surface": "וקטפת",
+      "gloss": "и ќе набереш"
+    },
+    {
+      "surface": "מלילת",
+      "gloss": "класје"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "со раката своја"
+    },
+    {
+      "surface": "וחרמש",
+      "gloss": "но срп"
+    },
+    {
+      "surface": "לא",
+      "gloss": "немој"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "да замавнеш"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "קמת",
+      "gloss": "классјето"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "на ближниот свој"
+    }
+  ],
+  "timestamp": "2026-10-19T21:34:15.501734638Z",
+  "model": "glm-5.3"
+}

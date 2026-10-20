@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 8:39",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "првороден\/втор\/трет",
+      "rationale": "редослед на раѓање — броеви како редни"
+    }
+  ],
+  "translation": "А синовите на Ешек, братот негов: Улам, првородениот негов, вториот Јеуш и третиот Елифелет.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "661acc558170f2df8631ba40761ceec7f39ea65341f8212b3c296d8b0d68141a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/8\/37-40.1792456926455.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синовите"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "на Ешек"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "братот негов"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "Улам"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "првородениот негов"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Јеуш"
+    },
+    {
+      "surface": "השני",
+      "gloss": "вториот"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "и Елифелет"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "третиот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:42:06.456993499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 16:9",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "хебрејскиот нема копула кај והוא שתה שכור и אשר על הבית"
+    },
+    {
+      "kind": "substitution",
+      "subject": "колите",
+      "rationale": "הרכב е борени коли — коњици\/коли, буквално „возило“"
+    }
+  ],
+  "translation": "И заверување склопи против него слугата негова Зимри, началник на половината од колите — а тој беше во Тирца, пиеше пијан во куќата на Арца, што беше над домот, во Тирца.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6f02ec899826ec5a24e1809910db58003015a7afa903464827bd41d854d62eee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/16\/9-12.1792448880272.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקשר",
+      "gloss": "и заверување склопи"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "против него"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "слугата негова"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Зимри"
+    },
+    {
+      "surface": "שר",
+      "gloss": "началник"
+    },
+    {
+      "surface": "מחצית",
+      "gloss": "на половината"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "од колите"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а тој"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "во Тирца"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "пиеше"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "пијан"
+    },
+    {
+      "surface": "בית",
+      "gloss": "во куќата"
+    },
+    {
+      "surface": "ארצא",
+      "gloss": "на Арца"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "во Тирца"
+    }
+  ],
+  "timestamp": "2026-10-19T22:28:00.272750968Z",
+  "model": "glm-5.3"
+}

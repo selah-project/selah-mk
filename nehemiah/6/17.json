@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 6:17",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חרי",
+      "rationale": "חֹר 'благородник' се јавува само тука во Танах; други го читаат како 'слободни луѓе' (ילט)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨писма⟩",
+      "rationale": "באות 'доаѓаа' нема именски предмет во хебрејскиот; македонскиот бара именка."
+    }
+  ],
+  "translation": "Исто и во тие денови благородниците на Јехуда ги множеа своите писма одејќи кон Товија, а ⟨писма⟩ на Товија доаѓаа кај нив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "24fc815b533fe01c398896930b70aa99cd90edf7eaf31c40822b416a4f8ee411",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/6\/17-19.1792456577236.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "исто"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "во тие денови"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "тие"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "ги множеа"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "благородниците"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јехуда"
+    },
+    {
+      "surface": "אגרתיהם",
+      "gloss": "своите писма"
+    },
+    {
+      "surface": "הולכות",
+      "gloss": "одејќи"
+    },
+    {
+      "surface": "על",
+      "gloss": "кон"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Товија"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "а оние што"
+    },
+    {
+      "surface": "לטוביה",
+      "gloss": "на Товија"
+    },
+    {
+      "surface": "באות",
+      "gloss": "доаѓаа"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "кај нив"
+    }
+  ],
+  "timestamp": "2026-10-20T00:36:17.237439407Z",
+  "model": "glm-5.3"
+}

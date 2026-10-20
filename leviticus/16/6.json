@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "покрие",
+      "rationale": "כפר буквално 'покрива' — основата на 'искупление'; сликата е покривање"
+    },
+    {
+      "kind": "alternative",
+      "subject": "нека помири",
+      "rationale": "כפר често се преведува како 'помирува\/искупува', но буквата е покрив"
+    }
+  ],
+  "translation": "И Ахарон нека приближи ⟨את⟩ телето за гревна жртва што е негово, и нека покрие ⟨за⟩ грев в 〈его〉 име и в име на домот негов.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "944eda1228738cb0d634cd8c362a87d7b9f0c1241d839c15bf5b819456315147",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/16\/5-8.1792444327731.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "нека приближи"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "телето"
+    },
+    {
+      "surface": "פר",
+      "gloss": "теле"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "за гревна жртва"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לו",
+      "gloss": "негово"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "и нека покрие"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "за него"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "и за"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "домот негов"
+    }
+  ],
+  "timestamp": "2026-10-19T21:12:07.976661932Z",
+  "model": "glm-5.3"
+}

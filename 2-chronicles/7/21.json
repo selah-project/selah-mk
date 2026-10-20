@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 7:21",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עליון",
+      "rationale": "'возвишена' (висока\/славна) наспроти читањата како 'уништена до темел' (BSB: heap of rubble) — различни традиции."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ќе биде⟩",
+      "rationale": "хебрејскиот нема глагол 'да е' — јамшинот е даден во загради."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישם",
+      "rationale": "корен שׁמם — зачудување\/опустошување; еден збор носи и двете."
+    }
+  ],
+  "translation": "И оваа куќа, што беше возвишена, за секој што поминува покрај неа ⟨ќе биде⟩ зачудување, и ⟨ќе⟩ рече: зошто направи Јахве така на оваа земја и на оваа куќа?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e648513a69764597500a1be4d0661eca8dc208b697db0994eb5811f334379434",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/7\/21-22.1792457375943.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "И оваа куќа"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "возвишена"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "за секој"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "што поминува"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "покрај неа"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "зачудување"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "במה",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "така"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "и на куќата"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "оваа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:49:35.943701207Z",
+  "model": "glm-5.3"
+}

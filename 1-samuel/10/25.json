@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משפט המלכה",
+      "rationale": "'право\/уредба на кралството' — традицијата се двои: обичаите на царството (KJV 'manner') vs правата\/ду должностите (BSB 'rights')"
+    },
+    {
+      "kind": "measurement",
+      "subject": "книга",
+      "rationale": "машпатот на кралството е запишан во книга и положен пред Јахве — документиран запис"
+    }
+  ],
+  "translation": "И Шемуел му зборуваше на народот ⟨את⟩ правото на кралството, и запиша во книга, и го положи пред Јахве. И Шемуел ги отпушти ⟨את⟩ сите ⟨од⟩ народот, секој човек кон домот свој.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "bea1b9558a093769f9bab62a153e7e59cfa4a2161f24ce4668eea4963ee4c615",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/10\/25-27.1792446785113.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "им зборуваше"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "правото на кралството"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правото"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "на кралството"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "и запиша"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "во книга"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "и го положи"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и ги отпушти"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите од народот"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој човек"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "кон домот свој"
+    }
+  ],
+  "timestamp": "2026-10-19T21:53:05.113868616Z",
+  "model": "glm-5.3"
+}

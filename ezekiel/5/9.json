@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עשיתי…עשיתי…אעשה",
+      "rationale": "Троен повтор на истиот корен „прави“ — интензитет на заканата, делумно изгубен."
+    },
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "Македонскиот бара клитички предметен заменски код нашироко каде што хебрејскиот има само את."
+    }
+  ],
+  "translation": "И ќе направам во тебе ⟨את⟩ она што не го направив, и ⟨את⟩ она што повеќе нема да го направам како него, поради сите твои гнаусотии.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b2103074850ce3e2153964d7b9a979b1d4b5bd54863a55f02c32830b80b97062",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/5\/9-12.1792451426663.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "и ќе направам"
+    },
+    {
+      "surface": "בך",
+      "gloss": "во тебе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "она што не го направив"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "го направив"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "она што повеќе нема да го направам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ќе направам"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "како него"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "יען",
+      "gloss": "поради"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "твоите гнаусотии"
+    }
+  ],
+  "timestamp": "2026-10-19T23:10:26.664091869Z",
+  "model": "glm-5.3"
+}

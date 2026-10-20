@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 16:18",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула — 'И Јахве со него'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונבון דבר",
+      "rationale": "'разумен во збор' наспроти 'вешт во работите' (KJV 'prudent in matters') — דבар значи и збор и работа"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "списокот од шест качества",
+      "rationale": "ритмичко набројување што го гради Давидовиот портрет пред да се појави на сцената"
+    }
+  ],
+  "translation": "И одговори еден од момчињата и рече: Еве, видов син на Јишај Бет-Лехемец, кој знае да свири, и јунак со сила, и воин, и разумен во збор, и човек со убав изглед — и Јахве ⟨е⟩ со него.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2deb5f0605a2be5a59ac1ecad8774917a9104b4e82509b18668e822de2f95417",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/16\/17-20.1792446904696.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И одговори"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "од момчињата"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видов"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "на Јишај"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "הלחמי",
+      "gloss": "Лехемец"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "да свири"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "и јунак"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "со сила"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "воин"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "и разумен"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "во збор"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и човек"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "со убав изглед"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и Јахве"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "со него"
+    }
+  ],
+  "timestamp": "2026-10-19T21:55:04.698598442Z",
+  "model": "glm-5.3"
+}

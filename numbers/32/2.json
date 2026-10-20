@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 32:2",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Моше, Елазар и кнезовите",
+      "rationale": "Директно обраќање започнува — говорот кон раководството на Јисраел"
+    }
+  ],
+  "translation": "И дојдоа синовите Гад и синовите Раувен, и им рекоа на Моше и на Елазар свештеникот и на кнезовите на соборот, велејќи:",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "bd3d958e7f938c42796977d9164c2985928098454df8cf8f17f7cbcfcecdf291",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/32\/1-4.1792445194009.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "И дојдоа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синовите"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Раувен"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и им рекоа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Елазар"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "кнезовите"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "на соборот"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    }
+  ],
+  "timestamp": "2026-10-19T21:26:34.009989525Z",
+  "model": "glm-5.3"
+}

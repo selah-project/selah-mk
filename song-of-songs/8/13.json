@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 8:13",
+  "book": "song-of-songs",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "внимаваат",
+      "rationale": "מקשיבים е буквално 'ги наоструваат ушите' — слика изгубена во македонскиот"
+    },
+    {
+      "kind": "you",
+      "subject": "до саканата",
+      "rationale": "стихот се обраќа директно на неа што седи во градините"
+    },
+    {
+      "kind": "invitation",
+      "subject": "дај и мене да го чујам",
+      "rationale": "повик-императив: гласот на другарките веќе се слуша, нека се чуе и за него"
+    }
+  ],
+  "translation": "О, ти што седиш во градините — другарите внимаваат на гласот твој; дај и мене да го чујам!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e2fc1b5d59c398cafe0c0b459ab94cb44a8980fb594972db09c9f87d1d9bb620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/song-of-songs\/8\/13-14.1792455420748.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היושבת",
+      "gloss": "ти што седиш"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "во градините"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "другарите"
+    },
+    {
+      "surface": "מקשיבים",
+      "gloss": "внимаваат (ги наоструваат ушите)"
+    },
+    {
+      "surface": "לקולך",
+      "gloss": "на гласот твој"
+    },
+    {
+      "surface": "השמיעיני",
+      "gloss": "дај и мене да го чујам"
+    }
+  ],
+  "timestamp": "2026-10-20T00:17:00.749295563Z",
+  "model": "glm-5.3"
+}

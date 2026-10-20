@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "шלחתי",
+      "rationale": "перфект со нереално значење: „да прострелав — веќе би те немало“ (KJV\/BSB го преведуваат спротивно: „сега ќе прострелам“)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "избришан",
+      "rationale": "ותכחד — буквално „да беше сокриен\/избришан“ од земјата"
+    }
+  ],
+  "translation": "Зашто сега ја би прострелал ⟨את⟩ раката моја и те поразел ⟨את⟩ тебе и ⟨את⟩ народот твој со помор, и ќе беше избришан од земјата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c415027e0b7c37f18d6118a581063d4f1209b3383bd695b38e4ccf74204f6cd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/9\/13-16.1792443469860.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сега"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "би ја прострелал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "раката моја"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "раката моја"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "и те поразел"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ тебе"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "народот твој"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "народот твој"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "со помор"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "и ќе беше избришан"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T20:57:49.872092583Z",
+  "model": "glm-5.3"
+}

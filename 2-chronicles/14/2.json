@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Ашерите",
+      "rationale": "האשרים е лично име на божеството и неговите столбови — не се преведува како „гае” или „шумки”"
+    },
+    {
+      "kind": "substitution",
+      "subject": "столбовите",
+      "rationale": "המצבות букв. „ ставените” — спомен-столбови, не „слики”"
+    }
+  ],
+  "translation": "И ги отстрани ⟨את⟩ олтарите на туѓите и возвишенијата, и ги скрши ⟨את⟩ столбовите, и ги исече ⟨את⟩ Ашерите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1cbf87edad93e0d28a62d6c2aef8e9a923ce6d697eca254c8c7b151b58e31afa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/14\/1-4.1792457536617.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "отстрани"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "олтарите на туѓите"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "олтарите"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "на туѓите"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "и возвишенијата"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "скрши"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "столбовите"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "столбовите"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "исече"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ашерите"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Ашерите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:52:16.617781285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 24:14",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לאור",
+      "rationale": "„при светлина“ (се крева рано) наспроти „кога ќе зајде светлината“; два глагола за убивање — רצח и קטל"
+    }
+  ],
+  "translation": "Кога изгрее светлината, убиецот станува, убива сиромав и беден, а ноќе е како крадец.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7263251a955967b5f9041ffd62b461c2d111211aba38be181a028e45273ad068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/24\/13-16.1792455078939.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאור",
+      "gloss": "Кога изгрее светлината"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "станува"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "убиецот"
+    },
+    {
+      "surface": "יקטל",
+      "gloss": "убива"
+    },
+    {
+      "surface": "עני",
+      "gloss": "сиромав"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "и беден"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "а ноќе"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "е"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "како крадец"
+    }
+  ],
+  "timestamp": "2026-10-20T00:11:18.940281504Z",
+  "model": "glm-5.3"
+}

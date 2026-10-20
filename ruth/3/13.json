@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ruth 3:13",
+  "book": "ruth",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Рута",
+      "rationale": "Боаз ѝ говори директно на Рута — заповеди и заклетва."
+    },
+    {
+      "kind": "idiom",
+      "subject": "жив е Јахве",
+      "rationale": "Хебрејска заклетвена формула, букв. „жив Јахве“."
+    }
+  ],
+  "translation": "Остој ја оваа ноќ, и ќе биде наутро: ако те откупи — добро, нека откупи; а ако не сака да те откупи, ќе те откупам јас — жив е Јахве! Легни до утрото.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6e54733758e2a093edcd5a550e0411a759284e4972eb66951c546baa1146bd51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ruth\/3\/13-16.1792455569874.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליני",
+      "gloss": "Остој"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ноќта"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "наутро"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יגאלך",
+      "gloss": "те откупи"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "нека откупи"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "сака"
+    },
+    {
+      "surface": "לגאלך",
+      "gloss": "да те откупи"
+    },
+    {
+      "surface": "וגאלתיך",
+      "gloss": "ќе те откупам"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "легни"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "утрото"
+    }
+  ],
+  "timestamp": "2026-10-20T00:19:29.875110630Z",
+  "model": "glm-5.3"
+}

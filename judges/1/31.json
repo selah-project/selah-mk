@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 1:31",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "списокот на градови",
+      "rationale": "седум именувани места во низа — географски попис на неистерани градови"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואת ×6",
+      "rationale": "шесткратното повторување на ואת чука како листа — каденца што македонскиот 'ни… ни' само делумно ја пренесува"
+    }
+  ],
+  "translation": "Асир не ги истера ⟨את⟩ жителите на Ако ни ⟨את⟩ жителите на Цидон, ни ⟨את⟩ Ахлав, ни ⟨את⟩ Аксив, ни ⟨את⟩ Хелва, ни ⟨את⟩ Афек и ни ⟨את⟩ Рехов.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "675c1e7abe6427963a3a2b0cafd907c1789438b44ad8c46743cdae32ad2a4f47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/1\/29-32.1792446285904.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Асир"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "ги истера"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жителите на Ако"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "жителите"
+    },
+    {
+      "surface": "עכו",
+      "gloss": "на Ако"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "жителите на Цидон"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "жителите"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "на Цидон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ахлав"
+    },
+    {
+      "surface": "אחלב",
+      "gloss": "Ахлав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Аксив"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "Аксив"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Хелва"
+    },
+    {
+      "surface": "חלבה",
+      "gloss": "Хелва"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Афек"
+    },
+    {
+      "surface": "אפיק",
+      "gloss": "Афек"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Рехов"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Рехов"
+    }
+  ],
+  "timestamp": "2026-10-19T21:44:45.905736079Z",
+  "model": "glm-5.3"
+}

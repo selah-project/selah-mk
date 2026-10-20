@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 19:7",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "руах",
+      "rationale": "KJV 'blast' (ветер) наспроти JPS\/ASV 'spirit' — еден збор, две слики; македонскиот го чува зборот руах"
+    },
+    {
+      "kind": "you",
+      "subject": "до Хизкијаху (посредно)",
+      "rationale": "порака упатена до царот преку слугите"
+    }
+  ],
+  "translation": "Еве, ќе вложам во него руах, и ќе чуе гласина, и ќе се врати во својата земја; и ќе го соборам со меч во неговата земја.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "44ffc4f3c25a5f289a3a32de156a38380a29d8bb588ad69fb5bc5518f71c5fb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/19\/5-8.1792449410378.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ќе вложам"
+    },
+    {
+      "surface": "בו",
+      "gloss": "во него"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "и ќе чуе"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "гласина"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "и ќе се врати"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "во својата земја"
+    },
+    {
+      "surface": "והפלתיו",
+      "gloss": "и ќе го соборам"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "со меч"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "во неговата земја"
+    }
+  ],
+  "timestamp": "2026-10-19T22:36:50.379434405Z",
+  "model": "glm-5.3"
+}

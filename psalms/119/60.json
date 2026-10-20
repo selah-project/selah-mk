@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "התמהמהתי",
+      "rationale": "Интензивен повторен корен מהה — дословно „не се задоцнував-задоцнував“"
+    }
+  ],
+  "translation": "Забрзав и не се колебав да ги пазам ⟨את⟩ твоите заповеди.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c62d2c6fea25db93bcfc62af3daededb83a0ba52cc58de8d8fc166957f86fe8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/57-60.1792454006668.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "забрзав"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "се колебав"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "да пазам"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "твоите заповеди"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:26.669421470Z",
+  "model": "glm-5.3"
+}

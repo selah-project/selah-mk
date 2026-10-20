@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 49:28",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "дванаесет",
+      "rationale": "Броење на племињата — дванаесет, колку што има"
+    },
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "Македонскиот бара копула што хебрејскиот ја испушта"
+    }
+  ],
+  "translation": "Сите овие се племиња на Јисраел — дванаесет; и ова е она што им го рече таткото нивни, и ги благослови ⟨את⟩ нив — секој според благословот свој ги благослови ⟨את⟩ нив.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "45a2df613e7481f28f920b62cfce61ee1061ef1e8ef0b85d8f57dea01516d529",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/49\/25-28.1792443320043.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "племиња на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дванаесет"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(два-на-есет)"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "и ова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ним"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "таткото нивни"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "и благослови"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "нив"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "според"
+    },
+    {
+      "surface": "כברכתו",
+      "gloss": "благословот свој"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ги благослови"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "нив"
+    }
+  ],
+  "timestamp": "2026-10-19T20:55:20.056610464Z",
+  "model": "glm-5.3"
+}

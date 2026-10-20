@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפש е здив \/ животна сила, не бесмртна душа"
+    },
+    {
+      "kind": "elision",
+      "subject": "תחתיה",
+      "rationale": "долната (најдолната) — придавка кон шеол, предадена со „долен“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסד…גדול",
+      "rationale": "хесед како незаменлив збор, според D2"
+    }
+  ],
+  "translation": "Зашто хеседот твој е голем врз мене, и ⟨не⟩ ја избави душата моја од шеолот долен.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "28e4508dd72a495706bf46f85e5fe8856fb730f4d487a8579c269f22b6899e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/86\/13-16.1792453688799.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседот твој"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голем"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "врз мене"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "избави"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата моја"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "од шеолот"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "долен"
+    }
+  ],
+  "timestamp": "2026-10-19T23:48:08.800196219Z",
+  "model": "glm-5.3"
+}

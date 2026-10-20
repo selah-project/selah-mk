@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 4:13",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "арамејската пасивна конструкција бара македонски возвратен глагол"
+    },
+    {
+      "kind": "crux",
+      "subject": "седум времиња",
+      "rationale": "עדנין: „седум времиња“ (години?) — бројот останува како во хебрејскиот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ѕвер",
+      "rationale": "חיוה е „животно\/ѕвер“ — не „безумие“, сликата е животинско срце"
+    }
+  ],
+  "translation": "Неговото срце да се смени од човечко, и срце на ѕвер да му ⟨се⟩ даде, и седум времиња да поминат над него.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b5687f3dc7cdd6d43a43920d92a4b1e61e66999403a6820eac7057af02de5007",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/4\/13-16.1792456111373.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבבה",
+      "gloss": "неговото срце"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "אנושא",
+      "gloss": "човечко"
+    },
+    {
+      "surface": "ישנון",
+      "gloss": "да се смени"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "и срце"
+    },
+    {
+      "surface": "חיוה",
+      "gloss": "на ѕвер"
+    },
+    {
+      "surface": "יתיהב",
+      "gloss": "да даде"
+    },
+    {
+      "surface": "לה",
+      "gloss": "му"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "и седум"
+    },
+    {
+      "surface": "עדנין",
+      "gloss": "времиња"
+    },
+    {
+      "surface": "יחלפון",
+      "gloss": "да поминат"
+    },
+    {
+      "surface": "עלוהי",
+      "gloss": "над него"
+    }
+  ],
+  "timestamp": "2026-10-20T00:28:31.374224389Z",
+  "model": "glm-5.3"
+}

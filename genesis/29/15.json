@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 29:15",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכי אחי אתה",
+      "rationale": "'Дали затоа што си ми брат?' — прашање со скрыен знак: Лаван сугерира дека роднинството не бара бесплатна работа"
+    },
+    {
+      "kind": "you",
+      "subject": "Лаван → Јааков",
+      "rationale": "директен говор до Јааков"
+    }
+  ],
+  "translation": "И рекол Лаван на Јааков: „Зарем само затоа што си ми брат, ќе ми служиш безплатно? Кажи ми каква ти е платата.“",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3af8d2e5bb4da4e4e1f028ecab1f28f15e6d6fda40f061508526d6f7d8739ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/29\/13-16.1792442872526.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рекол"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "на Јааков"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "Зарем само"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ועבדתני",
+      "gloss": "ми служиш"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "безплатно"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Кажи"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "מה",
+      "gloss": "каква"
+    },
+    {
+      "surface": "משכרתך",
+      "gloss": "е платата"
+    }
+  ],
+  "timestamp": "2026-10-19T20:47:52.532761071Z",
+  "model": "glm-5.3"
+}

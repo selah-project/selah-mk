@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 20:18",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סריסים",
+      "rationale": "буквално 'евнуси'; JPS дава 'службеници' — но буквата е јасна и тивка закана за династијата"
+    },
+    {
+      "kind": "addition",
+      "subject": "субјект 'тие'",
+      "rationale": "хебрејскиот не вели кој ќе ги земе — преведувачот мора да додаде нечленуван субјект"
+    }
+  ],
+  "translation": "И од синовите твои што ќе излегуваат од тебе, што ќе родиш, ќе ги земат, и тие ќе бидат евнуси во палатата на царот вавилонски.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "46423c9ec65d9570647e29cd79a7578560568e4a145ebc0bbd11f159eec93aca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/20\/17-20.1792449464234.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבניך",
+      "gloss": "и од синовите твои"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ќе излегуваат"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "од тебе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "ќе родиш"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ќе ги земат"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "и тие ќе бидат"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "евнуси"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "во палатата"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    }
+  ],
+  "timestamp": "2026-10-19T22:37:44.235500120Z",
+  "model": "glm-5.3"
+}

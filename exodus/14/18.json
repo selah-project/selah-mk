@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сум",
+      "rationale": "Хебрејскиот ја нема копулата; македонскиот ја бара."
+    },
+    {
+      "kind": "mystery",
+      "subject": "познање на Египет",
+      "rationale": "Познавањето на Јахве доаѓа дури преку судот — скриено сè до моментот на прославувањето."
+    }
+  ],
+  "translation": "И ќе познаат Мицраим дека јас сум Јахве, кога ќе се прославам на Фараон, на неговите коли и на неговите коњаници.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "592d321cfd4bddade1a375dcd8e68fd06133a77d608c48dcc62d0bfad7dd2547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/14\/17-20.1792443556598.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ќе познаат"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "кога ќе се прославам"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "на Фараон"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "на неговите коли"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "и на неговите коњаници"
+    }
+  ],
+  "timestamp": "2026-10-19T20:59:16.603800070Z",
+  "model": "glm-5.3"
+}

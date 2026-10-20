@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "genesis 24:49",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד е 'хесед', не 'милост' — верност во однос"
+    },
+    {
+      "kind": "you",
+      "subject": "до Лаван и Бетуел",
+      "rationale": "Слугата директно ги прашува роднините на Ривка"
+    },
+    {
+      "kind": "idiom",
+      "subject": "надесно или налево",
+      "rationale": "хебрејски израз за 'ќе одам некаде друго', оставено буквално"
+    }
+  ],
+  "translation": "И сега, ако ги покажете хесед и вистината на ⟨את⟩ господарот мој — кажете ми; а ако не — кажете ми, и ќе се свртам надесно или налево.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1d380dedcc995e7aea50fe12f34a66d91c76729c7ac94e81826ab1842862d690",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/24\/49-52.1792442795986.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И сега"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ישכם",
+      "gloss": "ако ги покажете"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "правите"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "и вистината"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "господарот мој"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господарот мој"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "кажете"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "кажете"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "ואפנה",
+      "gloss": "и ќе се свртам"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "десно"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שמאל",
+      "gloss": "лево"
+    }
+  ],
+  "timestamp": "2026-10-19T20:46:35.994236341Z",
+  "model": "glm-5.3"
+}

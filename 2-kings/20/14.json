@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 20:14",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Чизкијау",
+      "rationale": "пророшкото прашање директно го адресира царот"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מה אמרו",
+      "rationale": "буквално „што рекоа“ — не „што зборуваа“, прашањето е испитувачко, не пријателско"
+    }
+  ],
+  "translation": "И дојде Јешајау пророкот кај царот Чизкијау, и му рече: Што рекоа овие луѓе, и одаде дојдоа кај тебе? А Чизкијау рече: Од земја далечна дојдоа — од Вавилон.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "f6e64e2d65824a065ae85d3d29728f5935025c8c82149b1a313268e8f56d2416",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/20\/13-16.1792449424549.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И дојде"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Јешајау"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Чизкијау"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "рекоа"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "луѓето"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "и одаде"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "дојдоа"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "кај тебе"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Чизкијау"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земја"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "далечна"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дојдоа"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "од Вавилон"
+    }
+  ],
+  "timestamp": "2026-10-19T22:37:04.552208201Z",
+  "model": "glm-5.3"
+}

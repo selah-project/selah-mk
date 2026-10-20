@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 15:17",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "заојдување",
+      "rationale": "באה со сонцето буквално 'дојде' — ретко: сонцето 'доаѓа' во себе, односно заоѓа."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "танур вие \/ лапид еш",
+      "rationale": "двајниот образ — печка од чад и факел од оган — е единствениот глас на божествено поминување меѓу парчињата."
+    },
+    {
+      "kind": "secret",
+      "subject": "поминување меѓу парчињата",
+      "rationale": "текстот не објаснува кој или што поминува — задржана тајна."
+    }
+  ],
+  "translation": "И беше сонцето заојдување, и темнина настана, и ете — печка од чад и факел од оган, кој помина меѓу тие парчиња.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "34c231771ed0eb9f3a7ec09b2c5f3569b35f763fa43a7d78903856bf5d29d682",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/15\/17-20.1792442571143.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцето"
+    },
+    {
+      "surface": "באה",
+      "gloss": "заојдување"
+    },
+    {
+      "surface": "ועלטה",
+      "gloss": "и темнина"
+    },
+    {
+      "surface": "היה",
+      "gloss": "настана"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ете"
+    },
+    {
+      "surface": "תנור",
+      "gloss": "печка"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "чад"
+    },
+    {
+      "surface": "ולפיד",
+      "gloss": "и факел"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оган"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кој"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "помина"
+    },
+    {
+      "surface": "בין",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "הגזרים",
+      "gloss": "парчињата"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тие"
+    }
+  ],
+  "timestamp": "2026-10-19T20:42:51.160641908Z",
+  "model": "glm-5.3"
+}

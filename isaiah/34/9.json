@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 34:9",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "земја на смола",
+      "rationale": "Слободните птици и животните се набројани како наследници на земјата — пресметка на тој што останува"
+    }
+  ],
+  "translation": "И нејзините потоци ќе се претворат во смола, и нејзиниот прав во сума, и нејзината земја ќе биде смола што гори.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "31e1321b6205f10e684ddf76cf386a26c834645a4bb0a7dfd78470d0518dfcfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/34\/9-12.1792449933972.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונהפכו",
+      "gloss": "ќе се претворат"
+    },
+    {
+      "surface": "נחליה",
+      "gloss": "нејзините потоци"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "во смола"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "и нејзиниот прав"
+    },
+    {
+      "surface": "לגפרית",
+      "gloss": "во сума"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "нејзината земја"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "во смола"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "што гори"
+    }
+  ],
+  "timestamp": "2026-10-19T22:45:33.974012385Z",
+  "model": "glm-5.3"
+}

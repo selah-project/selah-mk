@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "зафатува",
+      "rationale": "לההט буквално „лиже“ — пламенот што лиже по планините"
+    }
+  ],
+  "translation": "Како оган што го пали шумата, и како пламен што ги зафатува планините.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3a2aca48bae78c1fa2b32b6f4b36eeea1721c5d1353370da30cb41cfa9628ce8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/83\/13-16.1792453658775.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "како оган"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "што го пали"
+    },
+    {
+      "surface": "יער",
+      "gloss": "шумата"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "и како пламен"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "што ги зафатува"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "планините"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:38.776584702Z",
+  "model": "glm-5.3"
+}

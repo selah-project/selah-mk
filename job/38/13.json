@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 38:13",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כנפות",
+      "rationale": "крила на земјата против „краишта“ (KJV ends) — сликата е земја како ќилим што ⟨се⟩ тресе за злосторниците да испаднат"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јов",
+      "rationale": "прашањо од Јахве упатено директно до Јов во виорот"
+    }
+  ],
+  "translation": "Да ги фати крилата на земјата и злосторниците да ⟨се⟩ истросат од неа?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "188401379a24f745f8a0040a8865aea79e7c2bbff75178dc39924c3ae48ab16c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/38\/13-16.1792455276627.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאחז",
+      "gloss": "да фати"
+    },
+    {
+      "surface": "בכנפות",
+      "gloss": "крилата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "וינערו",
+      "gloss": "и да ⟨се⟩ истросат"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злосторниците"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "од неа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:14:36.628203718Z",
+  "model": "glm-5.3"
+}

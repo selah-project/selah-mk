@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 1:1",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "датум",
+      "rationale": "Осми месец, втора година на Даријавош — точно датирање на словото."
+    },
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "Македонскиот глагол бара помошен глагол каде хебрејскиот има само היה."
+    }
+  ],
+  "translation": "Во осмиот месец, во втората година на Даријавош, беше ⟨се⟩ словото на Јахве кон Зехарија, син на Берехија, син на Идо, пророкот, велејки:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2a5c8d6ebcb24ff24d03da470e0d9c14676fdf9325c862b8c5d0c4708b2706c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/1\/1-4.1792452711278.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "во осмиот месец — месец"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "осмиот"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "во годината"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "втората — две"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "на Даријавош"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Зехарија"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "Берехија"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "Идо"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкот"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејки"
+    }
+  ],
+  "timestamp": "2026-10-19T23:31:51.279332012Z",
+  "model": "glm-5.3"
+}

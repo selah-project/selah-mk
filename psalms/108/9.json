@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула; ставено е македонско „е“"
+    },
+    {
+      "kind": "crux",
+      "subject": "מחקקי",
+      "rationale": "„оној што го врежува законот“ — KJV „lawgiver“ наспроти ASV\/JPS „scepter“ (жезло како симбол на власт)"
+    }
+  ],
+  "translation": "Мој е Гилад, мој е Менаше; Ефраим е тврдина на главата моја, Јехуда е законодавецот мој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e69b23b51c4bea361ba24c724e93c2f89bf0e653cd67a10f2afcb61cd32469ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/108\/9-12.1792453863615.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "мој е"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилад"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мој е"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "и Ефраим"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "тврдина"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "на главата моја"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "законодавецот мој"
+    }
+  ],
+  "timestamp": "2026-10-19T23:51:03.616266425Z",
+  "model": "glm-5.3"
+}

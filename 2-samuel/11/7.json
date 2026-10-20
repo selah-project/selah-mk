@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלום ×3",
+      "rationale": "трикратното „мир“ (шалом) гради ритам; македонскиот го задржува бројот"
+    }
+  ],
+  "translation": "И дојде Урија кај него, и Давид праша за мирот на Јоав, и за мирот на народот, и за мирот на војната.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a2c575487de200cd410a976549c0616e89e0d2e633f2c25212900018da4f0dd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/11\/5-8.1792448164747.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и дојде"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урија"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "кај него"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "и праша"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "за мирот"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "на Јоав"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "и за мирот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "на народот"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "и за мирот"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "на војната"
+    }
+  ],
+  "timestamp": "2026-10-19T22:16:04.749450750Z",
+  "model": "glm-5.3"
+}

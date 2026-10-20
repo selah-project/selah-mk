@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נערים",
+      "rationale": "Млади момчиња\/деца — јазот меѓу „старци со деца“ и „старци со млади“; KJВ „children“, JPS „children“"
+    }
+  ],
+  "translation": "Момци и исто така девици, старци заедно со млади",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "da315beae6179eb95ca14d90070a725f84edac6cfe9096be2945a0e263a995e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/148\/9-12.1792454197800.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "Момци"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и исто така"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "девици"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "старци"
+    },
+    {
+      "surface": "עם",
+      "gloss": "заедно со"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "млади"
+    }
+  ],
+  "timestamp": "2026-10-19T23:56:37.801619921Z",
+  "model": "glm-5.3"
+}

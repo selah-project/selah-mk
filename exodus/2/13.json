@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 2:13",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Евреи",
+      "rationale": "עברים е етноним 'Иври', потомок на Евер; македонската традиција вели Евреи"
+    },
+    {
+      "kind": "you",
+      "subject": "до злиот",
+      "rationale": "Моше директно го обраќа злиот од дватајцата"
+    }
+  ],
+  "translation": "И излезе вториот ден, и еве, двајца Евреи се тепаа; и му рече на злиот: Зошто го биеш другарот свој?",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "82604d86beb69d4cde98743c13801de55a665741eb8b1b0e5b4d2b9294b1a651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/2\/13-16.1792443320339.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и излезе"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "השני",
+      "gloss": "вториот"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и еве"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двајца"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "мажи"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "Евреи"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "се тепаа"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "на злиот"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "го биеш"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "другарот свој"
+    }
+  ],
+  "timestamp": "2026-10-19T20:55:20.344188243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 22:17",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "велејќи",
+      "rationale": "хебрејскиот нема „велејќи“ во овој стих; е даден на следните стихови"
+    }
+  ],
+  "translation": "И заповиши Давид на сите старешини на Јисраел да му помагаат на Шломо, синот негов, велејќи:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7a1d1eec31ab0a9f0654063308885510e8603c5964bd1192b324bb5e138c2a92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/22\/17-19.1792457119605.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "и заповиши"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на сите"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "старешините"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "да помагаат"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "на Шломо"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот негов"
+    }
+  ],
+  "timestamp": "2026-10-20T00:45:19.606414384Z",
+  "model": "glm-5.3"
+}

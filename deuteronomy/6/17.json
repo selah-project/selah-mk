@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמור תשמרון",
+      "rationale": "Инфинитив апсолутен плус финитен глагол — ист корен двапати за нагласување („пази, ќе пазите“), во македонскиот се губи дуплирањето."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Македонскиот бара согласување и посесивни придавки што хебрејскиот конструктен внесува сам."
+    }
+  ],
+  "translation": "Пази, ќе пазите ⟨את⟩ заповедите на Јахве, вашиот Елохим, и Неговите сведоштва и Неговите установи, што ти заповеда.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "8f64f317e09f3a6056a8429f6714166220d45df8c4d14d136bd4e1aea95d56c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/6\/17-20.1792445348596.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "пази"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "ќе пазите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "заповедите"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "заповедите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "вашиот Елохим"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "и Неговите сведоштва"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "и Неговите установи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ти заповеда"
+    }
+  ],
+  "timestamp": "2026-10-19T21:29:08.596956043Z",
+  "model": "glm-5.3"
+}

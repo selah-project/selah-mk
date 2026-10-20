@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "македонскиот бара директен објект со честичка, хебрејскиот има ⟨את⟩"
+    }
+  ],
+  "translation": "И Плиштим го зедоа ⟨את⟩ ковчегот на Елохим и го донесоа од Евен-ха-Езер во Ашдод.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "54e0879cfe8cb456718a389f669b32562a4598d03f60c0ffadf45483615ebc7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/5\/1-4.1792446761334.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "И Плиштим"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "го зедоа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчегот"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчегот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "и го донесоа"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "од Евен"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ха-Езер"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "во Ашдод"
+    }
+  ],
+  "timestamp": "2026-10-19T21:52:41.334674343Z",
+  "model": "glm-5.3"
+}

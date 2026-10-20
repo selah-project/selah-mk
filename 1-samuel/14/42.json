@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 14:42",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הפילו",
+      "rationale": "буквално 'направете да падне' — фрлање жреб; македонското 'фрлете' го чува глаголот, жребот е подразбиран"
+    },
+    {
+      "kind": "measurement",
+      "subject": "жреб",
+      "rationale": "фрлање жреб меѓу двајца — божјата пресуда преку случај"
+    }
+  ],
+  "translation": "И рече Шаул: Фрлете меѓу мене и меѓу Јонатан, синот мој. И беше фатен Јонатан.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "745f2edae157a4d613e01392984c861b0081eecd34e2fac454afc55ddfe44954",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/14\/41-44.1792446863473.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "הפילו",
+      "gloss": "Фрлете"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "меѓу мене"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и меѓу"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Јонатан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синот мој"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "И беше фатен"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Јонатан"
+    }
+  ],
+  "timestamp": "2026-10-19T21:54:23.474479233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעדו",
+      "rationale": "'зад него\/около него\/за него' — 'го затвори однадвор' е традиционална интерпретација"
+    },
+    {
+      "kind": "alternative",
+      "subject": "го затвори зад него",
+      "rationale": "може и 'го затвори околу него' — слика на Јахве што го заптива ковчегот одвнатре"
+    }
+  ],
+  "translation": "И оние што влегуваа, машко и женско од сето тело, влегоа, како што му заповеда Елохим ⟨את⟩ него; и Јахве го затвори зад него.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "7779818b5ecbfb020768820301cd4e596c3596d641f848a8e98d699cd97dd60e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/7\/13-16.1792442451044.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאים",
+      "gloss": "И оние што влегуваа"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "машко"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "и женско"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од сето"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тело"
+    },
+    {
+      "surface": "באו",
+      "gloss": "влегоа"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеда"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "и го затвори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "зад него"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:51.055348893Z",
+  "model": "glm-5.3"
+}

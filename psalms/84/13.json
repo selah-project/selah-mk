@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Македонскиот бара копула; хебрејскиот ја нема."
+    },
+    {
+      "kind": "substitution",
+      "subject": "се надева",
+      "rationale": "בטח е буквално 'бега на засолниште, се потпира'; македонскиот бара глагол."
+    }
+  ],
+  "translation": "Јахве Цеваот, блажен е човекот што се надева во тебе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3481c00196881e8019a8a68d42d0792dca17d59d7eeb04e1b7de5bc4947d3f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/84\/13-13.1792453621249.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "блажен"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "се надева"
+    },
+    {
+      "surface": "בך",
+      "gloss": "во тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:01.250272842Z",
+  "model": "glm-5.3"
+}

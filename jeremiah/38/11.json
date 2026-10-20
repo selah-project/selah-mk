@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 38:11",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מלחים",
+      "gloss-hint": null,
+      "rationale": "македонски збор од ист корен како „сол“ — овде значи стари искинати алишта, не сол."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בלוי הסחבות",
+      "rationale": "два реда синоними за крпи — можеби „стари крпи и издрвени партели“; хебрејскиот ја повторува сликата."
+    }
+  ],
+  "translation": "И Евед-Мелех ги зеде ⟨את⟩ луѓете во раката своја, и влезе во домот на царот, до местото под ризницата, и зеде оттаму издрвени партели и искинати алишта, и ги испрати до Јирмејаху, во јамата, со јажиња.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c545f77ebf24acfa78c9dad2f778b8e2c4d75c3a7dd36f4b856e18f31174f039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/38\/9-12.1792451048236.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "и зеде"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Евед"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "-Мелех"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "луѓето"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "луѓето"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "во раката своја"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и влезе"
+    },
+    {
+      "surface": "בית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "האוצר",
+      "gloss": "ризницата"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и зеде"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оттаму"
+    },
+    {
+      "surface": "בלוי",
+      "gloss": "издрвени"
+    },
+    {
+      "surface": "הסחבות",
+      "gloss": "партели"
+    },
+    {
+      "surface": "ובלוי",
+      "gloss": "и искинати"
+    },
+    {
+      "surface": "מלחים",
+      "gloss": "алишта"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "и ги испрати"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јирмејаху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "јамата"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "со јажиња"
+    }
+  ],
+  "timestamp": "2026-10-19T23:04:08.238194340Z",
+  "model": "glm-5.3"
+}

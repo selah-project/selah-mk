@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "додека сеgorееле мислите",
+      "rationale": "הגיג е 'мрмореење, приговарање' — внатрешно приговарање, не мирно размислување."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חם...תבער אש",
+      "rationale": "градација на топлина: срцето се грее, па оганот разгорува — и тогаш устата се отвора (спроти стих 2)."
+    }
+  ],
+  "translation": "Загреа срцето мое во мене — додека сеgorееле мислите, разгоре се оган, проговорив со јазикот свој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/39\/1-4.1792453275486.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "Загреа"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "срцето мое"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "во мене"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "додека сеgorееле мислите"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "разгоре се"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оган"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "проговорив"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "со јазикот свој"
+    }
+  ],
+  "timestamp": "2026-10-19T23:41:15.487920679Z",
+  "model": "glm-5.3"
+}

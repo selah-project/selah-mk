@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до читателот",
+      "rationale": "Директна забранета адреса — дури и тајната мисла е небезбедна."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוף השמים \/ בעל הכנפים",
+      "rationale": "Двоен паралелен израз за истата птица — меристичен пар.",
+      "note": ""
+    }
+  ],
+  "translation": "Дури и во мислите твои не го колнѝ царот, и во одаите на спиењето твое не го колнѝ богатиот; зашто птица на небесата ќе го однесе ⟨את⟩ гласот, и господарот на крилата ќе ја објави работата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "510d1b5a5965459d421e5beff915568cc05404588309d42af1135f50e2becaff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/10\/17-20.1792455768130.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Дури и"
+    },
+    {
+      "surface": "במדעך",
+      "gloss": "во мислите твои"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "го колнѝ"
+    },
+    {
+      "surface": "ובחדרי",
+      "gloss": "и во одаите"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "на спиењето твое"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "го колнѝ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "богатиот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "птица"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "на небесата"
+    },
+    {
+      "surface": "יוליך",
+      "gloss": "ќе го однесе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гласот"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "гласот"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "и господарот"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "на крилата"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ќе ја објави"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "работата"
+    }
+  ],
+  "timestamp": "2026-10-20T00:22:48.131398803Z",
+  "model": "glm-5.3"
+}

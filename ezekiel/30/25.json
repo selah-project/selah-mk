@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 30:25",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сум",
+      "rationale": "хебрејскиот нема копула во „אני יהוה“"
+    },
+    {
+      "kind": "elision",
+      "subject": "אני",
+      "rationale": "заштитното „Јас“ е во хебрејскиот, но македонскиот ред би го барал и без него"
+    }
+  ],
+  "translation": "И Јас ќе ги зацврстам ⟨את⟩ рацете на царот на Вавилон, а рацете на Паро ќе паднат; и ќе знаат дека Јас сум Јахве, кога ќе ја ставам ⟨את⟩ Мојата сабја во раката на царот на Вавилон, и тој ќе ја протега ⟨את⟩ кон земјата Мицраим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "27caabe66ff6f2db3b6c6a3a09476166564ea7be195c6696e16d14dc3d70a7f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/30\/25-26.1792451782959.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחזקתי",
+      "gloss": "И ќе ги зацврстам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рацете"
+    },
+    {
+      "surface": "זרעות",
+      "gloss": "рацете"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "на Вавилон"
+    },
+    {
+      "surface": "וזרעות",
+      "gloss": "а рацете"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "на Паро"
+    },
+    {
+      "surface": "תפלנה",
+      "gloss": "ќе паднат"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "и ќе знаат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "кога ќе ја ставам"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "Мојата сабја"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "во раката"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "на Вавилон"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "и ќе ја протега"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "кон земјата Мицраим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-19T23:16:22.960297654Z",
+  "model": "glm-5.3"
+}

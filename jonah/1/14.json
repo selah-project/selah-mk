@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jonah 1:14",
+  "book": "jonah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "животот",
+      "rationale": "נפש е грло\/дих\/животна сила, не 'душа'"
+    },
+    {
+      "kind": "you",
+      "subject": "морнари",
+      "rationale": "директна молитва до Јахве од страна на paganите морнари"
+    }
+  ],
+  "translation": "И повикаа кон Јахве и рекоа: Ах, Јахве, молиме, да не загинеме заради животот на овој човек, и не ставај врз нас невина крв, зашто ти, Јахве, како што сакаше, така направи.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9492ce5014b75551d8ba5a09df62ad0eb39a2c29923bf67e427d66463064cb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jonah\/1\/13-16.1792452463660.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "повикаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоа"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "да не"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молиме"
+    },
+    {
+      "surface": "נאבדה",
+      "gloss": "загинеме"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "заради животот"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "на овој човек"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ставај"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "врз нас"
+    },
+    {
+      "surface": "דם",
+      "gloss": "крв"
+    },
+    {
+      "surface": "נקיא",
+      "gloss": "невина"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "сакаше"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "направи"
+    }
+  ],
+  "timestamp": "2026-10-19T23:27:43.661123229Z",
+  "model": "glm-5.3"
+}

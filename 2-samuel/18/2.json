@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 18:2",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "третина",
+      "rationale": "војската е поделена на три дела"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ביד",
+      "rationale": "буквално „во рака на“, т.е. под команда — дадено како „под рака на“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצא אצא",
+      "rationale": "инфинитивен апсолутен: „излезам ќе излезам“ — сигурност, израмнето со еден глагол"
+    }
+  ],
+  "translation": "И ги испрати Давид ⟨את⟩ народот — третина под рака на Јоав, и третина под рака на Авишај, синот на Церуја, брат на Јоав, и третина под рака на Итај Гатејот. И им рече царот на народот: Ќе излезам и јас самиот со вас.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c4ed79bcfc5e7bf4f572444922e534972c207ff6cff72c88b5b61a9131597514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/18\/1-4.1792448350102.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "и ги испрати"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "третина"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "под рака"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "на Јоав"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "и третина"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "под рака"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "на Авишај"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "на Церуја"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "на Јоав"
+    },
+    {
+      "surface": "והשלשת",
+      "gloss": "и третина"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "под рака"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "на Итај"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Гатејот"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излезам"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ќе излезам"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "со вас"
+    }
+  ],
+  "timestamp": "2026-10-19T22:19:10.103795948Z",
+  "model": "glm-5.3"
+}

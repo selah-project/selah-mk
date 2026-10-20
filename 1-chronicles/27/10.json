@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 27:10",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "Македонскиот бара копула; хебрејскиот нема глагол"
+    },
+    {
+      "kind": "crux",
+      "subject": "הפלוני",
+      "rationale": "Пелонец — непознато место; некои читаат како 'од Фалон', други како етникон без познат град"
+    },
+    {
+      "kind": "measurement",
+      "subject": "24 000",
+      "rationale": "Број на војниците"
+    }
+  ],
+  "translation": "Седмиот за седмиот месец беше Хелец пелонецот, од синовите Ефраимови; и над неговата единица дваесет и четири илјади.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c7e947c242a416984b28e6408e88cedfed362d0959a972f26fbec1ea51d13abe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/27\/9-12.1792457236373.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השביעי",
+      "gloss": "Седмиот"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "за месецот"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седмиот"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Хелец"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "пелонецот"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраимови"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "неговата единица"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "дваесет"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "и четири"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјади"
+    }
+  ],
+  "timestamp": "2026-10-20T00:47:16.374617071Z",
+  "model": "glm-5.3"
+}

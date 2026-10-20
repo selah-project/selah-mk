@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מהר חורב",
+      "rationale": "„од планината Хорев“ — KJV „кај“, JPS\/ASV „од Хорев натаму“; ויתנצלו е несвршен, наведува постојана практика"
+    }
+  ],
+  "translation": "И си ги совлечкоа синовите Јисраелови ⟨את⟩ украсите свои, од планината Хорев натаму.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e1b90049634f0563225c62d052400a0fc37405e30eee1515f4b50e70d698d1e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/33\/5-8.1792443891583.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "си ги совлечкоа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелови"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "украсите свои"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "украсите свои"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "од планината"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Хорев"
+    }
+  ],
+  "timestamp": "2026-10-19T21:04:51.587649525Z",
+  "model": "glm-5.3"
+}

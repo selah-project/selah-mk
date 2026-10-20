@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 28:8",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "мориња",
+      "rationale": "ימים е множина ('мориња'); буквално задржано, иако едно море е намерно."
+    },
+    {
+      "kind": "elision",
+      "subject": "подлежje",
+      "rationale": "Хебрејскиот нема подлежje при יורדוך — 'тие' (странците од ст. 7) е подразбирано."
+    }
+  ],
+  "translation": "Ќе те симнат во јамата, и ќе умреш со смртта на прободените, во срцето на морињата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c6d64305b394125e266ebc9c699602790a8c614fbf09aa73164c54f213c801e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/28\/5-8.1792451821886.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "во јамата"
+    },
+    {
+      "surface": "יורדוך",
+      "gloss": "Ќе те симнат"
+    },
+    {
+      "surface": "ומתה",
+      "gloss": "и ќе умреш"
+    },
+    {
+      "surface": "ממותי",
+      "gloss": "со смртта"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "на прободените"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "во срцето"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "на морињата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:17:01.887406154Z",
+  "model": "glm-5.3"
+}

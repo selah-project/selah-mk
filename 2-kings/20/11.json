@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 20:11",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Јахве",
+      "rationale": "подмет на вториот глагол се подразбира; ставен за јасност"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעלות אחז",
+      "rationale": "'степените на Ахаз' — стариот превод 'сонце-часовник'; зборот значи скалила\/степени, букв. се чува"
+    },
+    {
+      "kind": "measurement",
+      "subject": "десет степени",
+      "rationale": "броење на степените"
+    }
+  ],
+  "translation": "И повика Јешајаху пророкот кон Јахве, и Јахве ја врати ⟨את⟩ сенката по степените по кои беше слегла на степените на Ахаз — наназад десет степени.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "f5e808081671373cbe3491f84f3c5a9178e7c38085db217f5959b1dd1f700c80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/20\/9-12.1792449408195.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И повика"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Јешајаху"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и ја врати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сенката"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "сенката"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "по степените"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кои"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "беше слегла"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "на степените"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "на Ахаз"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "наназад"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десет"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "степени"
+    }
+  ],
+  "timestamp": "2026-10-19T22:36:48.197496720Z",
+  "model": "glm-5.3"
+}

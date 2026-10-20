@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 25:18",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "копула додадена на македонски"
+    },
+    {
+      "kind": "crux",
+      "subject": "נפל — падна",
+      "rationale": "KJV „умре“ (алузија на Битие 16:12), YLT\/JPS „падна\/се насели“ — букв. „падна пред лицето на сите браќа свои“"
+    },
+    {
+      "kind": "alternative",
+      "subject": "пред лицето",
+      "rationale": "על פני може да значи и „спроти\/наспроти“ — просторна одредба, не само „пред“"
+    }
+  ],
+  "translation": "И населија ⟨се⟩ од Хавила до Шур, кој ⟨е⟩ пред Мицраим, одејќи кон Ашур; пред лицето на сите браќа свои падна.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "65f578f379afddde7ad876c5069ff795069c8e374a4511d924ea63424a66fb06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/25\/17-20.1792442813047.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכנו",
+      "gloss": "И населија"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "од Хавила"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Шур"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кои"
+    },
+    {
+      "surface": "על",
+      "gloss": "пред"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето на"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "одејќи кон"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "על",
+      "gloss": "пред"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "браќа свои"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "падна"
+    }
+  ],
+  "timestamp": "2026-10-19T20:46:53.050013188Z",
+  "model": "glm-5.3"
+}

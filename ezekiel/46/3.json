@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 46:3",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨на⟩",
+      "rationale": "македонскиот бара предложка кај לפני (пред) со поклонување"
+    }
+  ],
+  "translation": "И народот на земјата ќе се поклони пред Јахве на влезот на таа портата во шабатите и во младите месечини.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5b75574827932e13caf2467d10af6b404e410e69165d2e520e4a0c676a932b1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/46\/1-4.1792452132352.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשתחוו",
+      "gloss": "И ќе се поклони"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "на влезот"
+    },
+    {
+      "surface": "השער",
+      "gloss": "на портата"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "בשבתות",
+      "gloss": "во шабатите"
+    },
+    {
+      "surface": "ובחדשים",
+      "gloss": "и во младите месечини"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:22:12.353384792Z",
+  "model": "glm-5.3"
+}

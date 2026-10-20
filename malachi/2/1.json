@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема глагол-сврска; македонскиот бара „заповедта е за вас“"
+    },
+    {
+      "kind": "you",
+      "subject": "свештениците",
+      "rationale": "директно обраќање до свештениците"
+    }
+  ],
+  "translation": "И сега, за вас е оваа заповед, свештеници.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/malachi\/2\/1-4.1792452850042.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И сега"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "за вас"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "заповедта"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свештеници"
+    }
+  ],
+  "timestamp": "2026-10-19T23:34:10.043461344Z",
+  "model": "glm-5.3"
+}

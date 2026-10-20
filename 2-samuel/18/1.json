@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "старешини на илјади и на стотици",
+      "rationale": "мустра на војската по воени единици — бројна структура"
+    },
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "хебрејскиот нема копула во относната реченица"
+    }
+  ],
+  "translation": "И ги прегледа Давид ⟨את⟩ народот што ⟨את⟩ беше со него, и постави над нив старешини на илјади и старешини на стотици.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c4ed79bcfc5e7bf4f572444922e534972c207ff6cff72c88b5b61a9131597514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/18\/1-4.1792448350102.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "и ги прегледа"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "и постави"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над нив"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "старешини"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "на илјади"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "и старешини"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "на стотици"
+    }
+  ],
+  "timestamp": "2026-10-19T22:19:10.103308975Z",
+  "model": "glm-5.3"
+}

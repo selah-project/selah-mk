@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 23:23",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משמעתו",
+      "rationale": "буквално „неговото слушалиште\/двор“ — „кралски двор“ (советниците) наспроти „стража\/телохранители“ (KJV, LXX ἀκουὴ) — избрав стража"
+    },
+    {
+      "kind": "measurement",
+      "subject": "триесетте · трјата",
+      "rationale": "спроти бројот на јунаците — триесетте и трјата"
+    }
+  ],
+  "translation": "Од триесетте беше почестен, но меѓу трјата не дојде; и Давид го постави кај ⟨својата⟩ стража.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0f186e4489e8929212327fc22afaa7c4c3c1a4dcedb0122072646f4f7d6841a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/23\/22-23.1792457993569.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "триесетте"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "беше почестен"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "но меѓу"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "трјата"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "и го постави"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "משמעתו",
+      "gloss": "стражата негова"
+    }
+  ],
+  "timestamp": "2026-10-20T00:59:53.569773946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 27:19",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нефеш-та",
+      "rationale": "נפש е душа-животен дах, гркло, не 'душа' во апстрактна смисла"
+    },
+    {
+      "kind": "you",
+      "subject": "лажно до Јицхак",
+      "rationale": "Јааков се претставува како Исав — лажен директен говор"
+    }
+  ],
+  "translation": "И рече Јааков на татко својот: Јас сум Исав, првенецот твој; направив како што ми рече. Стани, те молам, седни и јади од ловот мој, за да ме благослови нефеш-та твоја.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b9f5ac93c4b19e32d3e276b6799c30171c735927f297486fe06800602342f55f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/27\/17-20.1792442889114.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "татко својот"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Јас сум"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "првенецот твој"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "направив"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ми рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Стани"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молам"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "седни"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "и јади"
+    },
+    {
+      "surface": "מצידי",
+      "gloss": "од ловот мој"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "за да"
+    },
+    {
+      "surface": "תברכני",
+      "gloss": "ме благослови"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "нефеш-та твоја"
+    }
+  ],
+  "timestamp": "2026-10-19T20:48:09.116921106Z",
+  "model": "glm-5.3"
+}

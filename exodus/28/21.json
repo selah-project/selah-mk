@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 28:21",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "дванаесетте племиња",
+      "rationale": "Дванаесет камења, дванаесет имиња, дванаесет племиња — стихот брои и поврзува."
+    },
+    {
+      "kind": "substitution",
+      "subject": "печат",
+      "rationale": "חותם е прстен-печат за потпишување во восок, не обичен печат."
+    }
+  ],
+  "translation": "И камењата нека бидат според имињата на синовите Јисраелови — дванаесет, според нивните имиња, врезби на печат: секое со своето име нека бидат, за дванаесетте племиња.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "723a6a132314ad436bb50960ed01d966663c88a60427c8117683095e5bf30403",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/28\/21-24.1792443807062.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאבנים",
+      "gloss": "И камењата"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "нека бидат"
+    },
+    {
+      "surface": "על",
+      "gloss": "според"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "имињата"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "дванаесет"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "според"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "нивните имиња"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "врезби"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "на печат"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секое"
+    },
+    {
+      "surface": "על",
+      "gloss": "со"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "своето име"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "нека бидат"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "за дванаесетте"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שבט",
+      "gloss": "племиња"
+    }
+  ],
+  "timestamp": "2026-10-19T21:03:27.065691908Z",
+  "model": "glm-5.3"
+}

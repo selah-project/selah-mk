@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "заробеници",
+      "rationale": "אסירי буквално 'врзаните', од корен 'врзува'"
+    }
+  ],
+  "translation": "да ги искрши под нозете свои сите заробеници на земјата —",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5047c71056e8c3eaa159ad36b996425ee09a8f74987f72255ae9a475137d3617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/3\/33-36.1792455609877.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדכא",
+      "gloss": "да ги искрши"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "нозете свои"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "заробеници"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на земјата"
+    }
+  ],
+  "timestamp": "2026-10-20T00:20:09.878601943Z",
+  "model": "glm-5.3"
+}

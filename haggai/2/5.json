@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "רוח е руах — дух, ветер, здив — еден збор, не се преведува"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כרתי",
+      "rationale": "буквално „го исеков“ — склучување завет со сечење; македонскиот вели „склучив“"
+    },
+    {
+      "kind": "you",
+      "subject": "до народот што гради",
+      "rationale": "„не плашете се“ — директна адреса до заедницата по враќањето"
+    }
+  ],
+  "translation": "⟨את⟩ словото што го склучив ⟨את⟩ со вас кога излеговте од Мицраим, и Мојата руах стои во ваша средина — не плашете се.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5e4e3500ae71cb45ec9fd368eb71c05e736aa845b0f742768916a97495f86783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/haggai\/2\/5-8.1792452698489.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "словото"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "го склучив"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ со вас"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "кога излеговте"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "од Мицраим"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "и Мојата руах"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "стои"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "во ваша средина"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "плашете се"
+    }
+  ],
+  "timestamp": "2026-10-19T23:31:38.489771820Z",
+  "model": "glm-5.3"
+}

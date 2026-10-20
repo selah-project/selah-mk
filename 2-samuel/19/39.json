@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 19:39",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתי",
+      "rationale": "Х854 како предлог „со“ наспроти ознака за предмет; преведено како „со мене“."
+    },
+    {
+      "kind": "idiom",
+      "subject": "עלי",
+      "rationale": "Дословно „над\/врз мене“ — израз „побараш од мене“, задржан буквено."
+    }
+  ],
+  "translation": "И рече царот: ⟨את⟩ со мене да помине Кимхам, а јас ќе му направам ⟨את⟩ доброто во очите твои; и се што избереш врз мене, ќе ти направам.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "8d3f5052bdf20f9c72f4ac94cd521f1275c4cae853c8d9d03a50a90675f49602",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/19\/37-40.1792448416564.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ со мене"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "да помине"
+    },
+    {
+      "surface": "כמהם",
+      "gloss": "Кимхам"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а јас"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ќе направам"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "доброто"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "доброто"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "во очите твои"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и се"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "избереш"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "врз мене"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ќе направам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-10-19T22:20:16.719696275Z",
+  "model": "glm-5.3"
+}

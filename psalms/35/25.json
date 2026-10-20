@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата наша",
+      "rationale": "נפש е душа-како-животен дах, не бесмртна душа"
+    },
+    {
+      "kind": "crux",
+      "subject": "האח נפשנו",
+      "rationale": "'Хеах, нашата душа (го сака)' — задоволство; KJВ 'така сакавме'"
+    },
+    {
+      "kind": "elision",
+      "subject": "בלענוהו",
+      "rationale": "наставката נו-הו 'негово проголтување' — предметот даден како ⟨את⟩ него"
+    }
+  ],
+  "translation": "Нека не кажат во срцата свои: Хеах, ⟨се⟩ насити душата наша! Нека не кажат: Го проголтавме ⟨את⟩ него!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1a8a109cff1d3550a9527086c0ee2255af580618ec08de39586da90e95afd527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/35\/25-28.1792453226542.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "нека не"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "кажат"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "во срцата свои"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Хеах"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "душата наша"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нека не"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "кажат"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "го проголтавме него"
+    }
+  ],
+  "timestamp": "2026-10-19T23:40:26.543469091Z",
+  "model": "glm-5.3"
+}

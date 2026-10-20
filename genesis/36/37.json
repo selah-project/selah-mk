@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 36:37",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הנהר",
+      "rationale": "'реката' — обично Евфрат, но во едомски контекст можеби некоја месна река"
+    },
+    {
+      "kind": "measurement",
+      "subject": "едомските цареви",
+      "rationale": "список на цареви со градови — броене на владетели"
+    }
+  ],
+  "translation": "И умре Самла, и зацари наместо него Шаул од Реховот на реката.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e2098ce150f374c44a3e1e5be6e090eeee5a01c539a0fd6c4bb4e5b8a48bd30b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/36\/37-40.1792443010550.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умре"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самла"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и зацари"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "наместо него"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "од Реховот"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "на реката"
+    }
+  ],
+  "timestamp": "2026-10-19T20:50:10.551598403Z",
+  "model": "glm-5.3"
+}

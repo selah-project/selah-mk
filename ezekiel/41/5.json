@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "димензии на храмот",
+      "rationale": "Кубитни мерки на ѕидот и страничните простории."
+    },
+    {
+      "kind": "substitution",
+      "subject": "странична просторија",
+      "rationale": "צלע е буквално „ребро“ (закривено), тука градежен поим за страничното крило."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב סביב ... סביב",
+      "rationale": "Тројно повторување „наоколу“ — ритмичка инсистенција на кружната форма."
+    }
+  ],
+  "translation": "И го измери ѕидот на домот: шест лакти; а ширината на страничната просторија четири лакти, наоколу наоколу околу домот, наоколу.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b6856c6d0ff63df7b77f8a017819fe7cf5a86da3daf9c25783b44dc336b1095f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/41\/5-8.1792452089872.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "И го измери"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ѕидот"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "лакти"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "а ширината"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "на страничната просторија"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "лакти"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколу"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколу"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "околу домот"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколу"
+    }
+  ],
+  "timestamp": "2026-10-19T23:21:29.873279645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 20:31",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן מות",
+      "rationale": "„Син на смртта“ — хебрејски израз за „заслужува смрт“; преведувачите често омекнуваат во „мора да умре“."
+    },
+    {
+      "kind": "you",
+      "subject": "до Јонатан",
+      "rationale": "Шаул му заповеда на Јонатан со императиви: прати, доведи."
+    }
+  ],
+  "translation": "Зашто сите дни додека синот на Јишај е жив на земјата, нема да се утврдиш ни ти ни царството твое; и сега прати и доведи го ⟨את⟩ кај мене, зашто син на смртта е тој.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "bd8c22950af1f0ced08a2a5031be67ab40715f7aa1f7964f3838ebdbb95809c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/20\/29-32.1792446967899.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "додека"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "на Јишај"
+    },
+    {
+      "surface": "חי",
+      "gloss": "е жив"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "да се утврдиш"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ומלכותך",
+      "gloss": "ни царството твое"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "и сега"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "прати"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "и доведи"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "го"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "кај мене"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מות",
+      "gloss": "на смртта"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е тој"
+    }
+  ],
+  "timestamp": "2026-10-19T21:56:07.900967866Z",
+  "model": "glm-5.3"
+}

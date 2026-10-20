@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 31:24",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "рефлексивната честичка додадена за македонскиот"
+    },
+    {
+      "kind": "measurement",
+      "subject": "седмиот ден",
+      "rationale": "утврден ден за чистење"
+    }
+  ],
+  "translation": "И перете ги вашите алишта на седмиот ден и очистете ⟨се⟩; а потоа влезете во логорот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "bdeb230bf365f37698b8483f76a5b9fe80377f12a847ba04af5739618fba7756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/31\/21-24.1792445151026.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכבסתם",
+      "gloss": "И перете"
+    },
+    {
+      "surface": "בגדיכם",
+      "gloss": "ги вашите алишта"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "на ден"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седмиот"
+    },
+    {
+      "surface": "וטהרתם",
+      "gloss": "и очистете"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "а потоа"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "влезете"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логорот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:25:51.027810715Z",
+  "model": "glm-5.3"
+}

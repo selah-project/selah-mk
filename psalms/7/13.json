@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "напна",
+      "rationale": "דרך буквално 'стапнува' — лукот се напнувал со стапнување, сликата е изгубена"
+    },
+    {
+      "kind": "crux",
+      "subject": "тој",
+      "rationale": "Нејасно дали за злобниот човек или за Елохим — преводите се делат"
+    }
+  ],
+  "translation": "Ако ⟨се⟩ не врати, мечот свој ќе го изостри; лукот свој го напна и го подготви.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/7\/13-16.1792452947767.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "врати"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "мечот свој"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "изостри"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "лукот свој"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "напна"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "и го подготви"
+    }
+  ],
+  "timestamp": "2026-10-19T23:35:47.768117752Z",
+  "model": "glm-5.3"
+}

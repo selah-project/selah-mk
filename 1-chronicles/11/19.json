@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 11:19",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "души",
+      "rationale": "нефеш е ближе до „жivotен дах \/ жива сила“ отколку до „душа“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנפשותם ... בנפשותם",
+      "rationale": "повторениот израз „со нивните души“ рамка околу „ја донесоа“"
+    }
+  ],
+  "translation": "и рече: Далеку биди од мене, мојот Елохим, да го направам ова — крвта на овие луѓе да ја пијам со нивните души? зашто со нивните души ја донесоа. И не сакаше да ја пие. Ова ги направија тројцата храбри.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d06c681df034431934f61b681cf762dc4b8285148ed3e58a2a579b32a46c7402",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/11\/17-20.1792457026107.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "далеку биди"
+    },
+    {
+      "surface": "לי",
+      "gloss": "од мене"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "мојот Елохим"
+    },
+    {
+      "surface": "מעשות",
+      "gloss": "да правам"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "крвта"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "на луѓето"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "да пијам"
+    },
+    {
+      "surface": "בנפשותם",
+      "gloss": "со нивните души"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בנפשותם",
+      "gloss": "со нивните души"
+    },
+    {
+      "surface": "הביאום",
+      "gloss": "ја донесоа"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "сакаше"
+    },
+    {
+      "surface": "לשתותם",
+      "gloss": "да ја пие"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направија"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "тројцата"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "храбри"
+    }
+  ],
+  "timestamp": "2026-10-20T00:43:46.108934977Z",
+  "model": "glm-5.3"
+}

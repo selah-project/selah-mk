@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "numbers 7:83",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула; демнстративното זה ја бара"
+    },
+    {
+      "kind": "substitution",
+      "subject": "елени",
+      "rationale": "אילים буквално 'силни (животни)', тук јарци- Oven; избирам 'елени' според табелата за животни"
+    },
+    {
+      "kind": "measurement",
+      "subject": "бројот на животни",
+      "rationale": "Жртвениот списак е бројчен: две, пет, пет, пет"
+    }
+  ],
+  "translation": "и за жртва на мирните приноси: два говеда, пет елени, пет јарци, пет јагниња на една година — ова ⟨е⟩ приносот на Ахира, син на Еинан.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "38a3cbb191e385a7a1fcfa5d44319039d0e6d561293e7b9ad8bf983098d72b6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/7\/82-84.1792447726190.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "и за жртва"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "на мирните приноси"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "говеда"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "елени"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "јарци"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "јагниња"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "една година"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "принос"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Ахира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "на Еинан"
+    }
+  ],
+  "timestamp": "2026-10-19T22:08:46.191669375Z",
+  "model": "glm-5.3"
+}

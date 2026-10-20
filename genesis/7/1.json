@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Ноах",
+      "rationale": "Јахве му се директно обраќа на Ноах со повел."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ковчегот",
+      "rationale": "תבה е „сандак\/ковчег“ — правоаголна кутија, не брод."
+    },
+    {
+      "kind": "alternative",
+      "subject": "влези",
+      "rationale": "בא е „дојди\/влези“ — Јахве вели „дојди“, како да е веќе внатре; КЈВ задржува „Come“."
+    }
+  ],
+  "translation": "И рече Јахве на Ноах: Влези ти и сиот твој дом во ковчегот, зашто ⟨את⟩ тебе те видов праведен пред Мене во ова поколение.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "7ed5a7f1b58598d87b2812527f8481b796bc652fa16983a9606156afd03a3b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/7\/1-4.1792442469334.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "на Ноах"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Влези"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сиот"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "твојот дом"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчегот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ тебе"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видов"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведен"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "во поколението"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    }
+  ],
+  "timestamp": "2026-10-19T20:41:09.336445396Z",
+  "model": "glm-5.3"
+}

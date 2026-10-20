@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 46:8",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והתאששו",
+      "rationale": "Од корен איש — 'активирајте се како мажи'; Септуагинтата чита 'засрамете се' (сроден корен בוש); KJV 'show yourselves men' vs JPS 'stand fast'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨го⟩",
+      "rationale": "Објектот 'ова' од првиот дел е подразбиран во השיבו…על לеб; македонскиот го бара."
+    },
+    {
+      "kind": "invitation",
+      "subject": "до престапниците",
+      "rationale": "Низ императиви — запомнете, покажете се, вратете — текстот повикува."
+    },
+    {
+      "kind": "you",
+      "subject": "до престапниците",
+      "rationale": "Директен обращтен апел кон бунтовните."
+    }
+  ],
+  "translation": "Запомнете го ова и покажете се како мажи; вратете ⟨го⟩ на срцето, престапници!",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "f63118e8af6f796429a26da125c4abd1e3690d88d43cc14b87e4d806dbf18030",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/46\/5-8.1792450168945.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Запомнете"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "го ова"
+    },
+    {
+      "surface": "והתאששו",
+      "gloss": "и покажете се како мажи"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "вратете"
+    },
+    {
+      "surface": "פושעים",
+      "gloss": "престапници"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨го⟩ на"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срцето"
+    }
+  ],
+  "timestamp": "2026-10-19T22:49:28.947900220Z",
+  "model": "glm-5.3"
+}

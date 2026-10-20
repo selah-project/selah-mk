@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "македонскиот бара сврзник во релативната реченица"
+    }
+  ],
+  "translation": "И го прати ⟨את⟩ Елијаким, оној што ⟨е⟩ над домот, и ⟨את⟩ Шевна писарот, и ⟨את⟩ старешините на свештениците, облечени во вреќишта, кај Јешајаху синот на Амоц, пророкот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c277cb691ab7ccc37785eab5586daca52b1f82a68be47f2aca3ab0adcd8d9f12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/37\/1-4.1792450027430.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И го прати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елијаким"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Елијаким"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Шевна"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Шевна"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "писарот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "старешините"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старешините"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "на свештениците"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "облечени"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "во вреќишта"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Јешајаху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "на Амоц"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:47:07.431947194Z",
+  "model": "glm-5.3"
+}

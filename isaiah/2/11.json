@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 2:11",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שפל \/ שח \/ נשגב",
+      "rationale": "контраст меѓу глаголите на спуштање и возвишување — паралелизам што го дели стихот на два дела"
+    },
+    {
+      "kind": "measurement",
+      "subject": "во оној ден",
+      "rationale": "временско одредување на денот на Јахве"
+    }
+  ],
+  "translation": "Очите на надменоста на човекот ќе бидат смирени, и височината на луѓето ќе биде наведната, и Јахве сам ќе биде вознесен во оној ден.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b7d920db671c832a981092ae3c17743596a6042774dfb31b98b3917dc5525727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/2\/9-12.1792449540922.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Очите"
+    },
+    {
+      "surface": "גבהות",
+      "gloss": "на надменоста"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на човекот"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "ќе бидат смирени"
+    },
+    {
+      "surface": "ושח",
+      "gloss": "и наведната"
+    },
+    {
+      "surface": "רום",
+      "gloss": "височината"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "на луѓето"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "и ќе биде вознесен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "сам"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оној"
+    }
+  ],
+  "timestamp": "2026-10-19T22:39:00.924639218Z",
+  "model": "glm-5.3"
+}

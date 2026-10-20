@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 11:5",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "македонскиот возвратен глагол бара „се“ што хебрејскиот нема"
+    }
+  ],
+  "translation": "И се собраа сите овие цареви, и дојдоа и се разбија ⟨се⟩ заедно кај водите на Мерон, за да војуваат со Јисраел.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b9a6acd5bcf88750ff216a45da301d8c052f1cef7bdab7f72de0bfd9e14fee4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/11\/5-8.1792446089926.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויועדו",
+      "gloss": "се собраа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "цареви"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "дојдоа"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "се разбија"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заедно"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "מי",
+      "gloss": "водите"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Мерон"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "за да војуваат"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T21:41:29.926883533Z",
+  "model": "glm-5.3"
+}

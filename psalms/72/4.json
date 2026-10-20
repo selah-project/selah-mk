@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עני\/אביון",
+      "rationale": "Два збора за сиромав во паралела — слика на вкупна对社会иштетна заштита."
+    },
+    {
+      "kind": "elision",
+      "subject": "עושק",
+      "rationale": "מעושק — угнетувач\/насилник; партисип од עשק, рендеррано како именка."
+    }
+  ],
+  "translation": "Ќе суди ⟨את⟩ сиромасите на народот, ќе спаси ⟨את⟩ синовите на бедниот и ќе го искрши ⟨את⟩ насилникот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a48fef1a85418dbb54979a0547751fddc0df576b4ea71bd982194e4e10d4ed60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/72\/1-4.1792453554811.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "Ќе суди"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "сиромасите"
+    },
+    {
+      "surface": "עם",
+      "gloss": "на народот"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ќе спаси"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "на бедниот"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "и ќе го искрши"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "насилникот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:45:54.812623563Z",
+  "model": "glm-5.3"
+}

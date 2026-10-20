@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "шалом шалом",
+      "rationale": "двоен мир — целосност, совршен мир; повторувањето се губи во еден збор"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула во последната клауза"
+    },
+    {
+      "kind": "crux",
+      "subject": "נצר",
+      "rationale": "'чуваш' (God as subject) vs. 'пази' (човекот го пази мирот) — преведувачите се делат"
+    }
+  ],
+  "translation": "Намисла <%= %>утврдена Ти ⟨ја⟩ чуваш во мир, мир, зашто во Тебе ⟨е⟩ доверба.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c6631b478f19035b9145ed4ef31e301360bfa1bb9d389280d368b7fa869e7f3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/26\/1-4.1792449887936.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "намисла"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "утврдена"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "Ти чуваш"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בך",
+      "gloss": "во Тебе"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "доверба"
+    }
+  ],
+  "timestamp": "2026-10-19T22:44:47.941352474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 7:29",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨имаше⟩",
+      "rationale": "хебрејскиот ја нема формата „да има“ — списокот е само набројан"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מורד",
+      "rationale": "многу речен збор за украс, „висечки“\/„наклонето“ дело — преведувачите не се сложуваат"
+    },
+    {
+      "kind": "measurement",
+      "subject": "без",
+      "rationale": "опишувачки стих за украсите на подножјата"
+    }
+  ],
+  "translation": "И на рамките што беа меѓу преградите — лавови, говеда и херувими; и на преградите ⟨имаше⟩ постолје одозгора, а под лавовите и говедата венци, дело на слободен пад.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7aa9eb00715aff3dd39edf6a0ecc6048e80fab1c215b20abe1a1f8d33ffec6a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/7\/29-32.1792448652641.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "המסגרות",
+      "gloss": "рамките"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בין",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "השלבים",
+      "gloss": "преградите"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "лавови"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "говеда"
+    },
+    {
+      "surface": "וכרובים",
+      "gloss": "и херувими"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "השלבים",
+      "gloss": "преградите"
+    },
+    {
+      "surface": "כן",
+      "gloss": "постолје"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "одозгора"
+    },
+    {
+      "surface": "ומתחת",
+      "gloss": "а под"
+    },
+    {
+      "surface": "לאריות",
+      "gloss": "лавовите"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "и говедата"
+    },
+    {
+      "surface": "ליות",
+      "gloss": "венци"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "מורד",
+      "gloss": "на слободен пад"
+    }
+  ],
+  "timestamp": "2026-10-19T22:24:12.642571226Z",
+  "model": "glm-5.3"
+}

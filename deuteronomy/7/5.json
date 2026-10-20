@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 7:5",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ашерите",
+      "rationale": "אשרה е име на божицата Ашера и нејзините стебла-идоли; „гори“ (KJV) го губи името"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי אם",
+      "rationale": "двоен спој „зашто-ако“ = силно „туку\/напротив“ на македонски"
+    }
+  ],
+  "translation": "Туку вака правете им ним: жртвениците нивни разурнете ги, столбовите нивни скршете ги, ашерите нивни исечете ги, и резбаните идоли нивни изгорете ги во оган.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "8c90cbfc7db9154d1a9d1b9db95e9d9682cc03fee1fbc150201a00ad101bbcbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/7\/5-8.1792445405944.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "туку"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨туку⟩"
+    },
+    {
+      "surface": "כה",
+      "gloss": "вака"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "правете"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им ним"
+    },
+    {
+      "surface": "מזבחתיהם",
+      "gloss": "жртвениците нивни"
+    },
+    {
+      "surface": "תתצו",
+      "gloss": "разурнете ги"
+    },
+    {
+      "surface": "ומצבתם",
+      "gloss": "и столбовите нивни"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "скршете ги"
+    },
+    {
+      "surface": "ואשירהם",
+      "gloss": "и ашерите нивни"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "исечете ги"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "и резбаните идоли нивни"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "изгорете ги"
+    },
+    {
+      "surface": "באש",
+      "gloss": "во оган"
+    }
+  ],
+  "timestamp": "2026-10-19T21:30:05.945434516Z",
+  "model": "glm-5.3"
+}

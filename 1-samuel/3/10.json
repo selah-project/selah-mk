@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כפעם בפעם",
+      "rationale": "идиом „пат по пат“ — повторување на истата именка со две предлози, буквата „како пат по пат“"
+    },
+    {
+      "kind": "you",
+      "subject": "Шемуел, Шемуел",
+      "rationale": "двојното повикување по име — директен повик од Јахве"
+    }
+  ],
+  "translation": "И дојде Јахве, и застана, и повика како претходните пати: Шемуел, Шемуел. И рече Шемуел: Зборувај, зашто слуша слугата Твоја.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "0c5e13e9fa98e0373fdb0caf232f518294f5856e8159d0b5f8ddb99cf25a9221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/3\/9-12.1792446715740.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И дојде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "и застана"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и повика"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "како ⟨предходниот⟩ пат"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "по пат"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Зборувај"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слуша"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слугата Твоја"
+    }
+  ],
+  "timestamp": "2026-10-19T21:51:55.741639810Z",
+  "model": "glm-5.3"
+}

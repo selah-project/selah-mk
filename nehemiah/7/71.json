@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "nehemiah 7:71",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "придонеси",
+      "rationale": "Точни суми: 20.000 драхми, 2.000 мни, 67 туники."
+    },
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Македонскиот бара помошниот глагол во релативната реченица „што даде“."
+    }
+  ],
+  "translation": "А што даде остатокот од народот: злато — драхми две миријади, и сребро — мни две илјади, и свештенички туники — шеесет и седум.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2cf260d5a5453db204561f9b5c6e87296bcf93e5d71a4253e81ecca7d5f1441c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/7\/69-72.1792456640116.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "А што"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "даде"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "остатокот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "од народот"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "דרכמונים",
+      "gloss": "драхми"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "миријади"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "и сребро"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "мни"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "две илјади"
+    },
+    {
+      "surface": "וכתנת",
+      "gloss": "и туники"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "свештенички"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "шеесет"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "и седум"
+    }
+  ],
+  "timestamp": "2026-10-20T00:37:20.117506410Z",
+  "model": "glm-5.3"
+}

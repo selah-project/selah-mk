@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 4:19",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעי מעי \/ לבי...לבי",
+      "rationale": "двојно повикување на утробата и срцето — повторување што го носи крикот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "душата моја",
+      "rationale": "נפש е грло\/дах\/животна сила, не бесмртна душа"
+    },
+    {
+      "kind": "crux",
+      "subject": "קירות לבי",
+      "rationale": "'ѕидовите на срцето мое' (дословно) наспроти традиционалното 'длабоко во срцето'"
+    }
+  ],
+  "translation": "Утроба моя, утроба моя! Ги превиткувам ѕидовите на срцето мое! Срцето мое бучи во мене, нема да молчам, зашто глас на шофар чував — душата моја — боен повик на војна!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f64b7c5124f0690d9c8a82eacb65ded98a52430a990f76cc3edbb572894588cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/4\/17-20.1792450415323.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעי",
+      "gloss": "утроба"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "утроба"
+    },
+    {
+      "surface": "אחולה",
+      "gloss": "ги превиткувам"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "ѕидовите"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "на срцето мое"
+    },
+    {
+      "surface": "המה",
+      "gloss": "бучи"
+    },
+    {
+      "surface": "לי",
+      "gloss": "во мене"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "срцето мое"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "ќе молчам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "шофар"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "чував"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата моја"
+    },
+    {
+      "surface": "תרועת",
+      "gloss": "боен повик"
+    },
+    {
+      "surface": "мלחמה",
+      "gloss": "на војна"
+    }
+  ],
+  "timestamp": "2026-10-19T22:53:35.324338070Z",
+  "model": "glm-5.3"
+}

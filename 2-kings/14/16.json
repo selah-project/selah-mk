@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 14:16",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "легна со татковците свои",
+      "rationale": "וישכב עם אבתיו: стандарден евфемизм за смрт на цар"
+    }
+  ],
+  "translation": "И легна Јехоаш со татковците свои, и беше погребан во Шомрон со царевите на Јисраел; и зацари Јеровоам, синот негов, наместо него.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b2e9f1391a99f680b3f3b8f5b847a1e462c31096099b0e3e54da274336198c98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/14\/13-16.1792449328570.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "и легна"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Јехоаш"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "татковците свои"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "и беше погребан"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "во Шомрон"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царевите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и зацари"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Јеровоам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот негов"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "наместо него"
+    }
+  ],
+  "timestamp": "2026-10-19T22:35:28.573279393Z",
+  "model": "glm-5.3"
+}

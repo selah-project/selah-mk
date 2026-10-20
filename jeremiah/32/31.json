@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 32:31",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "гнев",
+      "rationale": "אפי е буквално 'носот\/ноздрите Мои' — слика на разгорен гнев"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "македонското возвратно 'се' е додадено за граматичкост"
+    }
+  ],
+  "translation": "Зашто Mi беше овој град за гнев и за жештина — од денот во кој го изградија ⟨את⟩ па сè до овој ден — за да го отстрани ⟨се⟩ од Моето лице.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9c79303358388be4b6d6ff6706b66754d989ca81e7dbc2ce3a53787f4ce81d8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/32\/29-32.1792450909825.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "על",
+      "gloss": "поради"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "гневот Мој"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и поради"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "жештината Моја"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ми"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овој"
+    },
+    {
+      "surface": "למן",
+      "gloss": "од"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дено"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "во кој"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "го изградија"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ него",
+      "marks": "него (градот)"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и сè до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дено"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "להסירה",
+      "gloss": "за да го отстрани"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето Мое"
+    }
+  ],
+  "timestamp": "2026-10-19T23:01:49.827319134Z",
+  "model": "glm-5.3"
+}

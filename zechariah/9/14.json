@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 9:14",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ќе се јави",
+      "rationale": "יראה е 'ќе биде виден' — пасивна слика на јавување"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תימן",
+      "rationale": "'југ' буквално е 'десната страна' — насока задржана како југ"
+    }
+  ],
+  "translation": "И Јахве ќе се јави над нив, и ќе излезе како молња стрелата Негова, и Адонај Јахве ќе затруби во шофар и ќе оди во виорури на југот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f6cc2bd4389c9cda67b043e94cf9a6b37261e043c60323e2ad3e15dacb6fe672",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/9\/13-16.1792452761620.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "и Јахве"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над нив"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ќе се јави"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и ќе излезе"
+    },
+    {
+      "surface": "כברק",
+      "gloss": "како молња"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "стрелата Негова"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "и Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "во шофар"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "ќе затруби"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "и ќе оди"
+    },
+    {
+      "surface": "בסערות",
+      "gloss": "во виорури"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "на југот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:32:41.621808625Z",
+  "model": "glm-5.3"
+}

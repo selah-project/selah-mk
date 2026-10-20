@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 2:32",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Е⟩",
+      "rationale": "македонскиот бара показателна честица каде арамејскиот започнува директно со именката"
+    },
+    {
+      "kind": "measurement",
+      "subject": "анатомија на идолот",
+      "rationale": "тело составено по делови — секој дел со свој метал, од глава кон бедра"
+    }
+  ],
+  "translation": "Идолот — главата негова од добро злато, градите негои и рацете негови од сребро, стомакот негој и бедрата негови од бакар.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "575dbcf185e8f82bf38f855b2dd10c7034d585e66e8b51dd9aaf4d32072e0aec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/2\/29-32.1792455980745.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "⟨Е⟩"
+    },
+    {
+      "surface": "צלמא",
+      "gloss": "идолот"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "главата негова"
+    },
+    {
+      "surface": "די",
+      "gloss": "од"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "טב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "חדוהי",
+      "gloss": "градите негои"
+    },
+    {
+      "surface": "ודרעוהי",
+      "gloss": "и рацете негови"
+    },
+    {
+      "surface": "די",
+      "gloss": "од"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    },
+    {
+      "surface": "מעוהי",
+      "gloss": "стомакот негој"
+    },
+    {
+      "surface": "וירכתה",
+      "gloss": "и бедрата негови"
+    },
+    {
+      "surface": "די",
+      "gloss": "од"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "бакар"
+    }
+  ],
+  "timestamp": "2026-10-20T00:26:20.747225102Z",
+  "model": "glm-5.3"
+}

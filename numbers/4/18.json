@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 4:18",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "imperative of warning",
+      "rationale": "Забранета заповед упатена директно — „не истребувајте“."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כרת — истреби",
+      "rationale": "Дословно „да не отсечете“; глаголот значи сечење, тука уништување на племето."
+    }
+  ],
+  "translation": "Не ⟨ги⟩ истребувајте ⟨את⟩ племето на семејствата Кехатови од средина на левитите.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "45d4616ce6586472e8b54cd37ee325fdc1a155ac0b1a1f15e09e6b296929fb44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/4\/17-20.1792444632300.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכריתו",
+      "gloss": "истребувајте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "племето"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "племето"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "семејствата"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Кехатови"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "од средина на"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитите"
+    }
+  ],
+  "timestamp": "2026-10-19T21:17:12.305307018Z",
+  "model": "glm-5.3"
+}

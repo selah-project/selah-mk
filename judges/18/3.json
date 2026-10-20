@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 18:3",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беа",
+      "rationale": "Хебрејскиот е именска конструкција без глагол; македонскиот дода copula"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלם\/בזה\/פה",
+      "rationale": "Три прашања со три различни зборови за 'тука' — стилско натрупување во испрашувањето"
+    },
+    {
+      "kind": "invitation",
+      "subject": "прашања до левитот",
+      "rationale": "Тројното прашање директно го повикува младичот да одговори — дијалошки пиштолјакт"
+    }
+  ],
+  "translation": "Тие беа кај домот на Мика, и тие го познаа ⟨את⟩ гласот на младичот, левитот, и се свртеа таму, и му рекоа: Кој те доведе овде? И што правиш тука? И што имаш ти тука?",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "6ec02fbb570598e3314eedb6554c47a4065b14ad966c76ee2889c480066d07e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/18\/1-4.1792446591589.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Тие"
+    },
+    {
+      "surface": "עם",
+      "gloss": "кај"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "микхă",
+      "gloss": "на Мика"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "и тие"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "го познаа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гласот"
+    },
+    {
+      "surface": "קול",
+      "gloss": "гласот"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "на младичот"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "левитот"
+    },
+    {
+      "surface": "ויסורו",
+      "gloss": "и се свртеа"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоа"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "הביאך",
+      "gloss": "те доведе"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "овде"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "И што"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "правиш"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "тука"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "И што"
+    },
+    {
+      "surface": "לך",
+      "gloss": "имаш ти"
+    },
+    {
+      "surface": "פה",
+      "gloss": "тука"
+    }
+  ],
+  "timestamp": "2026-10-19T21:49:51.590498007Z",
+  "model": "glm-5.3"
+}

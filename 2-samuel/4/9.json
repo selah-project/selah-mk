@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 4:9",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Рекав и Баана",
+      "rationale": "Давид директно им се обраќа на двајцата убијци"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "заклетвена формула 'Жив е Јахве', букв. 'Јахве е жив'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "душата моја",
+      "rationale": "נפש е жизнена сила, дишење, не 'душа' во подоцнежна смисла"
+    }
+  ],
+  "translation": "И Давид им одговори на ⟨את⟩ Рекав и на ⟨את⟩ Баана, неговиот брат, синовите на Римон Бееротиецот, и им рече: Жив е Јахве, кој ја откупи ⟨את⟩ душата моја од секоја неволја —",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "fbac01732d39481f37def22f9eb2738bd63adc630ff15b831299b55cda0e2283",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/4\/9-12.1792448143453.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "одговори"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рекав"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "Рекав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Баана"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "Баана"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "неговиот брат"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Римон"
+    },
+    {
+      "surface": "הבארתי",
+      "gloss": "Бееротиецот"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Жив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кој"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "откупи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "душата моја"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата моја"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од секоја"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "неволја"
+    }
+  ],
+  "timestamp": "2026-10-19T22:15:43.455936521Z",
+  "model": "glm-5.3"
+}

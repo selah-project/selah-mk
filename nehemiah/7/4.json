@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רחבת ידים",
+      "rationale": "буквално 'широка од раце' — идиом за просторност, 'двата збора чуваат слика'"
+    }
+  ],
+  "translation": "А градот беше широк на раце и голем, но народот ⟨беше⟩ малку во него, и немаше куќи изградени.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d1c812ef748e4f6ec6eb821ebb5fd7a43f19267fd17ad1657fe24f34eb546e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/7\/1-4.1792456624111.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "широк"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "на раце"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "и голем"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "малку"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "во него"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "немаше"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "куќи"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "изградени"
+    }
+  ],
+  "timestamp": "2026-10-20T00:37:04.113029617Z",
+  "model": "glm-5.3"
+}

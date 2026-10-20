@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חיל",
+      "rationale": "'сила\/имот\/војска' — 'имот' е само една нијанса; зборот е богатство и моќ заедно."
+    },
+    {
+      "kind": "addition",
+      "subject": "ќе биде однесен",
+      "rationale": "И公众平台 пасив додаден; хебрејскиот вели само 'ја понесе' без подмет — носителот е царот на Ашур во сликата."
+    }
+  ],
+  "translation": "Зашто уште пред да знае детето да рече „тате“ и „маме“, ќе биде однесен ⟨את⟩ имотот на Дамаск и ⟨את⟩ пленот на Шомрон пред царот на Ашур.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e2d06167ceeb8678f62676fc08be23cbdbd69f391e823400572719e4f3f4f4ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/8\/1-4.1792449628936.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "уште пред"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "да знае"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "детето"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "да рече"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "„тате“"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "и „маме“"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ќе биде однесен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "имотот на Дамаск"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "имотот"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "на Дамаск"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "пленот на Шомрон"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "пленот"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "на Шомрон"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "на Ашур"
+    }
+  ],
+  "timestamp": "2026-10-19T22:40:28.938850074Z",
+  "model": "glm-5.3"
+}

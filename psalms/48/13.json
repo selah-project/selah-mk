@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 48:13",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "избројте ги кулите",
+      "rationale": "ሰפרו — запишување со белег како сметалка: бројот на кулите е дел од сметањето на градот"
+    },
+    {
+      "kind": "you",
+      "subject": "Заобиколете",
+      "rationale": "директен повик во множина — македонскиот разликува, хебрејскиот императив е 2_lm"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סבו \/ והקיפוה",
+      "rationale": "два синонимни глагола за кружнеење — повторување што го задржав со Заобиколете\/опкружете"
+    }
+  ],
+  "translation": "Заобиколете го Цион, опкружете ја, избројте ги кулите нејзини.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0eb93a496eaf672950affe49ab3d00a44a0851e938cd49fa5ed6359a22c5ef46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/48\/13-15.1792453324916.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבו",
+      "gloss": "Заобиколете"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "והקיפוה",
+      "gloss": "опкружете ја"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "избројте ги"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "кулите нејзини"
+    }
+  ],
+  "timestamp": "2026-10-19T23:42:04.917470983Z",
+  "model": "glm-5.3"
+}

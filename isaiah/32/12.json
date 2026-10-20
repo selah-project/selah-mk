@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жалат",
+      "rationale": "ספד означува да кине коса и да удира во гради — македонскиот 'жалат' го губи телесниот чин"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שדים\/שדי",
+      "rationale": "שדים (гради) и שדי (полиња) — скоро ист звук, играта гради-поле е изгубена во македонскиот"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот нема подмет — македонскиот барa '"
+    }
+  ],
+  "translation": "За градите жалат, за полињата желни, за лозата родна.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c9d55520e6bf4011d1bde2bb2624356a05131f9da840952cff2de37ed2c906fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/32\/12-12.1792458150435.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "градите"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "жалат"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "полињата"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "желни"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "лозата"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "родна"
+    }
+  ],
+  "timestamp": "2026-10-20T01:02:30.436157060Z",
+  "model": "glm-5.3"
+}

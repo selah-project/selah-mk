@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Гитаим",
+      "rationale": "двојната форма Гитаим — „двe Гат“ или место со двојно име; се остава како име"
+    }
+  ],
+  "translation": "И Беротејците побегнаа во Гитаим и беа таму доштеници до овој ден.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "dc27d0b8428cea1b88cd4cc8b5cb9ee2e05f7a68bd59b38dd3951746b09ae726",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/4\/1-4.1792448112809.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "и побегнаа"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "Беротејците"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "во Гитаим"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "и беа"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "доштеници"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денот"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    }
+  ],
+  "timestamp": "2026-10-19T22:15:12.826994527Z",
+  "model": "glm-5.3"
+}

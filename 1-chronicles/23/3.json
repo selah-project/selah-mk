@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 23:3",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "број на Левитите",
+      "rationale": "Попис: од триесет години нагоре, триесет и осум илјади мажи по глава."
+    },
+    {
+      "kind": "substitution",
+      "subject": "по главите нивни",
+      "rationale": "גלגלת буквално 'череп\/лобања' — број по глава во попис."
+    },
+    {
+      "kind": "crux",
+      "subject": "возраст на пописот",
+      "rationale": "Тука триесет години, а во Броевите 4:3 дваесет и триесет — позната несогласувачка меѓу списоците."
+    }
+  ],
+  "translation": "И се избројаа Левитите од триесет години нагоре, и беше бројот нивен, по главите нивни, по мажи, триесет и осум илјади.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1d016336ea05e3701619ffcde0a8fd28e75b6d7f40cc20795aeab6bef2a9f4a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/23\/1-4.1792457127408.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספרו",
+      "gloss": "се избројаа"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левитите"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "од возраст на"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "триесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "нагоре"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "бројот нивен"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "по главите нивни"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "по мажи"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "триесет"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "и осум"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјади"
+    }
+  ],
+  "timestamp": "2026-10-20T00:45:27.410351485Z",
+  "model": "glm-5.3"
+}

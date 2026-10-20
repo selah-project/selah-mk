@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душа",
+      "rationale": "נפש е ближе до грло\/животна сила\/дишење, не бесмртна душа"
+    },
+    {
+      "kind": "addition",
+      "subject": "Го",
+      "rationale": "македонскиот бара директен предмет со наставка, хебрејскиот има את"
+    }
+  ],
+  "translation": "И ќе Го барате од таму ⟨את⟩ Јахве, твојот Елохим, и ќе Го најдеш, кога ќе Го барам со сето свое срце и со сета своја душа.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0b25d896c4e497a4504f96a72002ad8215795466d5205b861b7e368f8bd000c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/4\/29-32.1792445396095.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "и ќе барате"
+    },
+    {
+      "surface": "משם",
+      "gloss": "од таму"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "и ќе Го најдеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "ќе Го барам"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "со сето"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "своето срце"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "и со сета"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "својата душа"
+    }
+  ],
+  "timestamp": "2026-10-19T21:29:56.096774592Z",
+  "model": "glm-5.3"
+}

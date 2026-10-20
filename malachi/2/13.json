@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "malachi 2:13",
+  "book": "malachi",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "така што",
+      "rationale": "македонскиот бара сврзувачки збор меѓу внесувањето и последицата"
+    },
+    {
+      "kind": "you",
+      "subject": "до свештениците и народот",
+      "rationale": "стихот ги обвинува директно: «го правите», «од раката ваша»"
+    }
+  ],
+  "translation": "И ова второ го правите: покривате со солзи ⟨את⟩ жртвеникот на Јахве, со плач и ридане, така што нема повеќе свртување кон минхата, ни примање благонаклоност од раката ваша.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2a77e04c5ec6e4a7dd6c2c97054e4cc5ace191f15532b2f8b1246c9160b9d535",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/malachi\/2\/13-16.1792452867132.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "И ова"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "второ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "правите"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "покривате"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "со солзи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жртвеникот"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жртвеникот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "плач"
+    },
+    {
+      "surface": "ואנקה",
+      "gloss": "и ридане"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "פנות",
+      "gloss": "свртување"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "минхата"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ни примање"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "благонаклоност"
+    },
+    {
+      "surface": "мידכם",
+      "gloss": "од раката ваша"
+    }
+  ],
+  "timestamp": "2026-10-19T23:34:27.133375366Z",
+  "model": "glm-5.3"
+}

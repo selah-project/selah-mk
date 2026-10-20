@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 7:21",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפש е живото суштество, здивот, живата сила — не бессмртна 'душа'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ќе биде отсечена",
+      "rationale": "ונכרתה — карет, 'отсечена од народот свој', технички правен поим"
+    },
+    {
+      "kind": "substitution",
+      "subject": "шелимим",
+      "rationale": "השלמים — жртва на примирје\/целина; оставено како транслитерација"
+    }
+  ],
+  "translation": "А душата што ќе допре некое нечисто нешто — нечистотија од човек, или нечист добиток, или какво било нечисто гадеж — и ќе јаде од месото на жртвата шелимим што е на Јахве, таа душа ќе биде отсечена од народот свој.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "6997f06ebb6ef0ec98bec4151f42879a9c7b1c0a22eae5e2b34766e261f3d47a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/7\/21-24.1792444077652.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "А душата"
+    },
+    {
+      "surface": "כי",
+      "gloss": "штом"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "ќе допре"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "некое"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечисто"
+    },
+    {
+      "surface": "בטמאת",
+      "gloss": "нечистотија од"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "добиток"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "нечист"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "какво било"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "гадеж"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечисто"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "и ќе јаде"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "од месото"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жртвата"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "шелимим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ќе биде отсечена"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "душата"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "од народот свој"
+    }
+  ],
+  "timestamp": "2026-10-19T21:07:57.655567089Z",
+  "model": "glm-5.3"
+}

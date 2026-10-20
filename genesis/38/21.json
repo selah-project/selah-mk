@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 38:21",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула во прашањето"
+    },
+    {
+      "kind": "crux",
+      "subject": "кдеша",
+      "rationale": "קדשה: 'света жена' (посветена блудница) — се чува хебрејскиот збор наместо 'блудница' или 'курва'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "בעינים",
+      "rationale": "KJF чита 'отворено на патот'; KJV\/BSB: местоимено Енаим — избрав топоним"
+    }
+  ],
+  "translation": "И ги праша ⟨את⟩ луѓето од нејзиното место, велејќи: Каде ⟨е⟩ кдешата, таа во Енаим, покрај патот? А тие рекоа: Нема имало кдеша на ова место.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "11ed1b370a345aba85a5f575cde4aa5e4905a101db18c05d975b57137169c0b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/38\/21-24.1792443099247.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "праша"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "луѓето"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "луѓето"
+    },
+    {
+      "surface": "מקמה",
+      "gloss": "од нејзиното место"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "איה",
+      "gloss": "каде"
+    },
+    {
+      "surface": "הקדשה",
+      "gloss": "кдешата"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "בעינים",
+      "gloss": "во Енаим"
+    },
+    {
+      "surface": "על",
+      "gloss": "покрај"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "патот"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "а тие рекоа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "има имало"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "на ова место"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "кдеша"
+    }
+  ],
+  "timestamp": "2026-10-19T20:51:39.248108263Z",
+  "model": "glm-5.3"
+}

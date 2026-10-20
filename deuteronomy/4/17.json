@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תבנית…תבנית",
+      "rationale": "анафора — повторување на „лик“ ја задржав исто како во хебрејскиот"
+    }
+  ],
+  "translation": "лик на секој добиток што е на земјата, лик на секоја птица крилеста што лета ⟨во⟩ небесата,",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2ac6ebff37a0f5d99d6e6182659f48e1e45c94f6f805b2d564e0f8cd1578e6d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/4\/17-20.1792445374638.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "лик"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "добиток"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "лик"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секоја"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "птица"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "крилеста"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "лета"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "во небесата"
+    }
+  ],
+  "timestamp": "2026-10-19T21:29:34.639591477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 4:10",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפеш е грло\/дах\/животна сила, не бесмртна душа"
+    },
+    {
+      "kind": "crux",
+      "subject": "го измами",
+      "rationale": "ншא: 'измами\/заведе' наспроти 'заборави' — Јеремија се жалит дека самиот Јахве допушти лажен мир"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השא השאת",
+      "rationale": "истов корен двапати по ред — инфинитив absolvent за засилување, на македонски со 'сосема го измами'"
+    }
+  ],
+  "translation": "И реков: О, Адонај Јахве! Навистина сосема го измами овој народ и Јерушалаим, велејќи: Мир ќе ви биде — а мечот допира до душата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "522189bc4beb5ac7c576936390379b034031937826f9dc1c8273d9363df1e784",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/4\/9-12.1792450389718.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И реков"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "О"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "навистина"
+    },
+    {
+      "surface": "השא",
+      "gloss": "сосема"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "го измами"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "и Јерушалаим"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Мир"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "ונגעה",
+      "gloss": "а допира"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мечот"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "душата"
+    }
+  ],
+  "timestamp": "2026-10-19T22:53:09.719083318Z",
+  "model": "glm-5.3"
+}

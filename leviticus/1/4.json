@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "да покрие",
+      "rationale": "כפר значи буквално 'покрива' (како катран) — 'искупи' е подоцнежно теолошко значење; дадено е дадено во смисла на обред"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩\/прифатена",
+      "rationale": "хебрејскиот нема помошен глагол во ונרצה; македонскиот го бара"
+    }
+  ],
+  "translation": "И ќе ја потпре раката своја на главата на сепаленицата, и ќе биде прифатена за него, за да покрие ⟨את⟩ него.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "271e943134384cca431a51033812d7f5c4fec488358c7486b921252955382514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/1\/1-4.1792444009758.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "И ќе ја потпре"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "раката своја"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "главата"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "на сепаленицата"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "и ќе биде прифатена"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за него"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "да покрие"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "него"
+    }
+  ],
+  "timestamp": "2026-10-19T21:06:49.760913647Z",
+  "model": "glm-5.3"
+}

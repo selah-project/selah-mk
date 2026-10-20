@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 17:2",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מבין השרפה",
+      "rationale": "'од меѓу изгорените' — дали од меѓу изгорените луѓе или од местото на горењето"
+    },
+    {
+      "kind": "you",
+      "subject": "до Елазар",
+      "rationale": "Јахве му заповеда на Моше да му рече на Елазар"
+    }
+  ],
+  "translation": "Кажи на Елазар, синот на Ахарон свештеникот, и нека ги подигне ⟨את⟩ кадилниците од меѓу изгорените, а ⟨את⟩ огнот растури нанадвор, зашто се осветија.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b5da26360a945fd7992151829cae0f5a7680ee15e79b9f555b642e45e3529033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/17\/1-4.1792444866009.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Кажи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Елазар"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "и нека подигне"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кадилниците"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "кадилниците"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "од меѓу"
+    },
+    {
+      "surface": "השרפה",
+      "gloss": "изгорените"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "а ⟨את⟩",
+      "marks": "огнот"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огнот"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "растури"
+    },
+    {
+      "surface": "הלאה",
+      "gloss": "нанадвор"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "се осветија"
+    }
+  ],
+  "timestamp": "2026-10-19T21:21:06.011323692Z",
+  "model": "glm-5.3"
+}

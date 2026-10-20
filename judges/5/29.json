@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 5:29",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ги вракаше зборовите себеси",
+      "rationale": "буквално 'враќање на зборовите кон неа' — иронична слика: мајката си одговара сама, губејќи се во сопствените илузии"
+    },
+    {
+      "kind": "alternative",
+      "subject": "господарки",
+      "rationale": "JPS чита суперлатив: 'најмудрата од нејзините господарки'; во хебрејскиот 'нејзините мудри господарки'"
+    }
+  ],
+  "translation": "Нејзините мудри господарки ѝ одговараа, дури и таа си ги повторуваше своите зборови себеси.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "242a1fc8fabba68013ae9021278123d1c2d18440fb795377f523dbca3b996f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/5\/29-31.1792446344477.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "мудрите"
+    },
+    {
+      "surface": "שרותיה",
+      "gloss": "господарки нејзини"
+    },
+    {
+      "surface": "תענינה",
+      "gloss": "одговараа"
+    },
+    {
+      "surface": "אף",
+      "gloss": "дури и"
+    },
+    {
+      "surface": "היא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ги вракаше"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "зборовите свои"
+    },
+    {
+      "surface": "לה",
+      "gloss": "себеси"
+    }
+  ],
+  "timestamp": "2026-10-19T21:45:44.478230426Z",
+  "model": "glm-5.3"
+}

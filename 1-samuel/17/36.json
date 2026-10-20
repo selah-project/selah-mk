@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-samuel 17:36",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הערל",
+      "rationale": "„необрезаниот“ е буквалниот технички поим, не увалата улога „язовник“"
+    },
+    {
+      "kind": "crux",
+      "subject": "מערכות",
+      "rationale": "„воени редови\/строй“ наспроти традиционалното „војски“ — зборот е подредување во боја, не апстрактна армија"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם…גם",
+      "rationale": "двојното „и…и“ ги врзува лавот и мечката со Плиштиецот — и тој ќе биде „еден од нив“"
+    }
+  ],
+  "translation": "И ⟨את⟩ лавот и мечката уби слугата твој, и ќе биде Плиштиецот необрезаниот овој како еден од нив, зашто го навредил воениот ред на Елохим живиот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e91ff987f6340ac01af3316be5b8c5ac7dd578a5f225d491b01cb604f3efab39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/17\/33-36.1792446945012.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "И"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лавот"
+    },
+    {
+      "surface": "הארי",
+      "gloss": "лавот"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "הדוב",
+      "gloss": "мечката"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "уби"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слугата твој"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Плиштиецот"
+    },
+    {
+      "surface": "הערל",
+      "gloss": "необрезаниот"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "како еден"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "од нив"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "навредил"
+    },
+    {
+      "surface": "מערכת",
+      "gloss": "воениот ред"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живиот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:55:45.014130787Z",
+  "model": "glm-5.3"
+}

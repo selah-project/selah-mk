@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 23:26",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до синот",
+      "rationale": "директен говор на таткото кон синот: синко"
+    },
+    {
+      "kind": "invitation",
+      "subject": "стих",
+      "rationale": "повик: дај срцето свое мене"
+    }
+  ],
+  "translation": "Дај, синко, срцето свое мене, и очите твои нека ⟨се⟩ насладуваат во патиштата мои.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "929f07695fdc1a7ff9bd5989217ce13ede2cbd66efb7f9290379a5ee38dd539a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/23\/25-28.1792454655744.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "дај"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синко"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "срцето свое"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "и очите твои"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "патиштата мои"
+    },
+    {
+      "surface": "תרצנה",
+      "gloss": "нека ⟨се⟩ насладуваат"
+    }
+  ],
+  "timestamp": "2026-10-20T00:04:15.745545740Z",
+  "model": "glm-5.3"
+}

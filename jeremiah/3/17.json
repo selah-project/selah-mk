@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 3:17",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тврдоглавост",
+      "rationale": "שררות е букв. 'упорност\/обстинација', само тука и во 3:9 и 7:24"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Во тоа време",
+      "rationale": "есхатолошко одредување на времето"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שררות",
+      "rationale": "реткорен, покрај уште две места во Еремија"
+    }
+  ],
+  "translation": "Во тоа време Јерушалаим ќе го нарекуваат престол на Јахве, и кон него ќе се соберат сите народи, за името на Јахве, во Јерушалаим; и нема да одат повеќе по тврдоглавоста на своето зло срце.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5c427bc1f6f682bdf230c43a668a917df50c8c75f83dbf7c3254a043636f3569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/3\/17-20.1792450432077.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "во време"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ќе го нарекуваат"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Јерушалаим"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "престол"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ונקוו",
+      "gloss": "и ќе се соберат"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "кон него"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "за името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "во Јерушалаим"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "да одат"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "שררות",
+      "gloss": "тврдоглавоста"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "на своето срце"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-10-19T22:53:52.078548009Z",
+  "model": "glm-5.3"
+}

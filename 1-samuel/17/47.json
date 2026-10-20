@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-samuel 17:47",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Хебрејскиот нема глагол 'сум': 'на Јахве војната' — македонскиот бара ⟨е⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "до Плиштиецот",
+      "rationale": "Давид сè уште му се обраќа на Плиштиецот, а свртен е и кон собранието."
+    }
+  ],
+  "translation": "и ќе знае сето ⟨тоа⟩ собрание ова дека не со меч и не со копје спасува Јахве, дека на Јахве ⟨е⟩ војната, и ќе ⟨ве⟩ предаде во раката наша.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "9e521234a842e7f8e35bad6847d26d15556d57f26aa1522c46e88c8b91a6303e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/17\/45-48.1792446937851.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "и ќе знае"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "собранието"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "со меч"
+    },
+    {
+      "surface": "ובחנית",
+      "gloss": "и со копје"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "спасува"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "војната"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "и ќе предаде"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "во раката наша"
+    }
+  ],
+  "timestamp": "2026-10-19T21:55:37.853796740Z",
+  "model": "glm-5.3"
+}

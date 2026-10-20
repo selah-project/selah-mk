@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 19:7",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חתנו",
+      "rationale": "огласникот често се чита како таткото на девојката што го задржува зетот; KJV\/ASF го преведуваат така, иако формално е „неговиот зет“ — додадов појаснување во глосата"
+    }
+  ],
+  "translation": "И стана човекот да оди, но зетот — тој е таткото на девојката — настојуваше врз него, па се врати и преноќи таму.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e59ded4edf7151108a6ea91efbeddd8a6fb14abf3b895fed3dcf0c1f63db371d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/19\/5-8.1792446568648.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "да оди"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "настојуваше врз него"
+    },
+    {
+      "surface": "בו",
+      "gloss": "врз него"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "зетот — тој е таткото на девојката"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "па се врати"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "и преноќи"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    }
+  ],
+  "timestamp": "2026-10-19T21:49:28.649805510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "והשמתי\/ושממו",
+      "rationale": "ист корен שמם: Јахве ја опустошува земјата и непријателите „опустошено-зачудени“ стојат врз неа"
+    },
+    {
+      "kind": "addition",
+      "subject": "јас",
+      "rationale": "אני е нагласено во хебрејскиот — јас лично, задржано без загради бидејќи е во текстот"
+    }
+  ],
+  "translation": "И ќе ја опустошам јас ⟨את⟩ земјата, и непријателите ваши што живеат во неа ќе бидат запрепастени поради неа.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "43007b8eb34bf413626886be0e0ccdee843167019b9fcb501a9e8b0bd46ccdc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/26\/29-32.1792444542416.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "и ќе ја опустошам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "ќе бидат запрепастени"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "поради неа"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "непријателите ваши"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "што живеат"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во неа"
+    }
+  ],
+  "timestamp": "2026-10-19T21:15:42.420264319Z",
+  "model": "glm-5.3"
+}

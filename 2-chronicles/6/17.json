@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 6:17",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Соломон се обраќа на Јахве",
+      "rationale": "Директна молитва до Јахве, Елохим на Јисраел."
+    },
+    {
+      "kind": "substitution",
+      "subject": "да се потврди",
+      "rationale": "יאמן од коренот אמן — 'да стои цврсто, да биде верно'; македонскиот губи врска со 'амин'."
+    }
+  ],
+  "translation": "И сега, Јахве, Елохим на Јисраел, нека се потврди словото Твое, што го зборуваше на слугата Твој, на Давид.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "faf59debe8667017903f21e92674cce58fb365efbd040fd31614e998706307e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/6\/17-20.1792457428323.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И сега"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "нека се потврди"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "словото Твое"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "го зборуваше"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "на слугата Твој"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-10-20T00:50:28.323825375Z",
+  "model": "glm-5.3"
+}

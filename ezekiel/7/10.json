@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הצפרה",
+      "rationale": "„венец“ (буквално) наспроти „зора\/суREPORTдбина“ — KJВ „morning“, JPS „the turn“; буквата е венец што кружи, тука како знак што излегува"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צץ\/פרח",
+      "reason": "два глаголи на цветање еден до друг — сликата на песочен цвета што никнува е агресија, убавината на сликата е во нејзината спротиност",
+      "rationale": "два глаголи на цветање (цврсти\/никна) еден до друг — гневот цвета како растение, повторена слика на никнење"
+    }
+  ],
+  "translation": "Еве денот, еве доаѓа: излезе венецот, процвета прачката, никна надменоста.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "232762dedd21c3c990a044103486afaaac48be51dd0ffe6bcb309677c34f8ebf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/7\/9-12.1792451450636.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денот"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "באה",
+      "gloss": "доаѓа"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "излезе"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "венецот"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "процвета"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "прачката"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "никна"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "надменоста"
+    }
+  ],
+  "timestamp": "2026-10-19T23:10:50.637651006Z",
+  "model": "glm-5.3"
+}

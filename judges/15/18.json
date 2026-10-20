@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 15:18",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "Директна молитва на Шимшон до Јахве."
+    },
+    {
+      "kind": "substitution",
+      "subject": "необрезаните",
+      "rationale": "הערלים е „необрезани“ — воен назив за Плиштим, без етничко име."
+    },
+    {
+      "kind": "crux",
+      "subject": "паднам",
+      "rationale": "וְנָפַלְתִּי е совршен („и паднав“) во идентска намера; повеќето преводи го глаткаат во идно време."
+    }
+  ],
+  "translation": "И ожедне многу, и повика кон Јахве, и рече: Ти даде во раката на слугата свој ⟨את⟩ ова големо спасение, а сега ќе умрам од жед и ќе паднам во рацете на необрезаните.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "6dc18d411f61a1e1b26973d45fc646cfd1f64aba9c990e20c460f6bf20f27604",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/15\/17-20.1792446535249.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "И ожедне"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и повика"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "даде"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "во раката"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "на слугата свој"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "спасението"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "спасение"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "големо"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ќе умрам"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "од жед"
+    },
+    {
+      "surface": "ונפלתי",
+      "gloss": "и ќе паднам"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "во рацете"
+    },
+    {
+      "surface": "הערלים",
+      "gloss": "на необрезаните"
+    }
+  ],
+  "timestamp": "2026-10-19T21:48:55.250595390Z",
+  "model": "glm-5.3"
+}

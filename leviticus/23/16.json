@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 23:16",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": " педесет дена",
+      "rationale": "Бројот е експлицитен — педесет дена доШавуот."
+    },
+    {
+      "kind": "crux",
+      "subject": "шабат",
+      "rationale": "И овде седмиот „шабат“ — недели (JPS) или саботи (KJV) — истата спротивност како во ст. 15."
+    }
+  ],
+  "translation": "До утредента по седмиот шабат ќе изброите педесет дена, и ќе принесете нова минха за Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a10812fe3a8824e2cd1d0ca7d3f378c9568216d764b485542acd9b4dca1ad303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/23\/13-16.1792444487116.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "До"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "утредента"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "по шабатот"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "седмиот"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "ќе изброите"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "педесет"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дена"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "и ќе принесете"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минха"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "нова"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:14:47.118195915Z",
+  "model": "glm-5.3"
+}

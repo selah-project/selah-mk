@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 11:5",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Хебрејскиот нема глагол-сврска во прашањето 'што на народот'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "зад говедата",
+      "rationale": "אחרי הבקר буквално 'по\/зад говедата' — следејќи ги, како пастир."
+    }
+  ],
+  "translation": "И ете, Шаул дојде зад говедата од полето, и Шаул рече: Што ⟨е⟩ со народот, дека плаче? И му раскажаа ⟨את⟩ зборовите на луѓето од Јавеш.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "d1fdf19e0aec7b7a0182e32cbe18bab4225c670421f3abaf49ea7f0b3759d005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/11\/5-8.1792446816815.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "И ете"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "зад"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "говедата"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "полето"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Што"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "со народот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "плаче"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "И раскажаа"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зборовите на луѓето од Јавеш"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "зборовите"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "на луѓете"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "од Јавеш"
+    }
+  ],
+  "timestamp": "2026-10-19T21:53:36.816493686Z",
+  "model": "glm-5.3"
+}

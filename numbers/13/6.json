@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "список на.decodeри по племиња",
+      "rationale": "Список на дванаесетте.decodeри, по еден од секое племе."
+    },
+    {
+      "kind": "addition",
+      "subject": "двојната точка и „на“",
+      "rationale": "Хебрејскиот е гола конструкција; македонската синтакса бара сврзници."
+    }
+  ],
+  "translation": "За племето Јехуда: Калев, син на Јефуне.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "aa55ee50b4000cbfb333e574404e98b6ea3001e8120a9c891a1378a1e931b60c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/13\/6-8.1792447760802.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "за племето"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калев"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "на Јефуне"
+    }
+  ],
+  "timestamp": "2026-10-19T22:09:20.803746201Z",
+  "model": "glm-5.3"
+}

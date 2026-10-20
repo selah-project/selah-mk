@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "верни",
+      "rationale": "חסידим е 'хасидим — побожни\/добронамерни', еден корен со хесед"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רנן ירננו",
+      "rationale": "инфинитивен апсолутивен повтор — 'пеејќи ќе пеат'"
+    }
+  ],
+  "translation": "И нејзините свештеници ќе ⟨ги⟩ облечам во спасение, и нејзините верни ќе запеат од радост.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8ba0cb56b177f792ef48186339bc9d52c3093d2b1e6c9f137d4f5caf7375f33e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/132\/13-16.1792454078236.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "и нејзините свештеници"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "ќе облечам"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "во спасение"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "и нејзините верни"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "од радост"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ќе запеат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:54:38.237847408Z",
+  "model": "glm-5.3"
+}

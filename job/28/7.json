@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 28:7",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שזפתו",
+      "rationale": "Шазаф — да искарка од сонце, да впери поглед — се јавува само тука во Танахот"
+    },
+    {
+      "kind": "mystery",
+      "subject": "патеката",
+      "rationale": "Станува збор за скриениот пат до мудроста што ни очите на грабливките не го гледаат"
+    }
+  ],
+  "translation": "Патека — не ја знае ⟨е⟩ грабливата птица, ниту ја согледала окото на соколот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8297eed3fe485dcd7ab9fa6e14f88d233b07233602ed65c18249473b8b237e36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/28\/5-8.1792455158917.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתיב",
+      "gloss": "патека"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знае"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "грабливата птица"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ниту"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "согледала"
+    },
+    {
+      "surface": "עין",
+      "gloss": "окото"
+    },
+    {
+      "surface": "איה",
+      "gloss": "на соколот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:12:38.918632951Z",
+  "model": "glm-5.3"
+}

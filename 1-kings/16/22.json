@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "надвлада",
+      "rationale": "ויחזק буквално „стана силен\/заза”, „ – речено за народ во судир"
+    }
+  ],
+  "translation": "И народот што беше зад Омри надвлада над ⟨את⟩ народот што беше зад Тивни, синот на Гинат; и Тивни умре, и Омри стана цар.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "06155c771c8de5e0cb8f0d4ea817baa203d6fecccb8bb7a4301e79946d661f61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/16\/21-24.1792448919380.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "надвлада"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "зад"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Омри"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "зад"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Тивни"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "на Гинат"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Тивни"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "стана цар"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Омри"
+    }
+  ],
+  "timestamp": "2026-10-19T22:28:39.382259396Z",
+  "model": "glm-5.3"
+}

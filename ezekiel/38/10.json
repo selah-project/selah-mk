@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 38:10",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "зборови",
+      "rationale": "דברים буквално «зборови\/работи»; традицијата често «мисли»"
+    }
+  ],
+  "translation": "Така вели Адонај Јахве: И ќа биде во тој ден, зборови ќе се креваат на срцето твое, и ќе смислиш замисла зла.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0637c87906e12778afb735afd14a3302adefe39b955bbd63f4062343ec700a68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/38\/9-12.1792451952603.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ќе се креваат"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "зборови"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "срцето твое"
+    },
+    {
+      "surface": "וחשבת",
+      "gloss": "и ќе смислиш"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "замисла"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зла"
+    }
+  ],
+  "timestamp": "2026-10-19T23:19:12.604866013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 24:21",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨над⟩",
+      "rationale": "македонскиот бара加剧 предлог со глаголот за запирање"
+    },
+    {
+      "kind": "you",
+      "subject": "до Аравна",
+      "rationale": "Аравна се обраќа директно на царот со прашање"
+    }
+  ],
+  "translation": "И рече Аравна: Зошто дојде господарот мој, царот, кај слугата своја? А Давид рече: Да купам од тебе ⟨את⟩ гумното, за да подигнам жртвеник на Јахве, и да се запре заразата од ⟨над⟩ народот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "eef23091f1960a4a3cb001a5ece3a77b5eaa80131300db4cd2e7f250f6a1ce02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/24\/21-24.1792448509576.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Аравна"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господарот мој"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "слугата своја"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "А рече"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "да купам"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "од тебе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гумното"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "гумното"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "да подигнам"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жртвеник"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "и да се запре"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "заразата"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:21:49.577505072Z",
+  "model": "glm-5.3"
+}

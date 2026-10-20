@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "богови",
+      "rationale": "אלהימו тука се за идолите на народите — мала буква, не Елохим"
+    },
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "хебрејскиот нема подмет на глаголот אמר во пасивна употреба"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צור",
+      "rationale": "„карпа“ е титула на Јахве (32:4) — тука извртена со иронија кон идолите"
+    }
+  ],
+  "translation": "И ⟨се⟩ рече: Каде се нивните богови, карпата во која се засолниле,",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1587efc7bb06a7ec286b79766b3718ac91eb5701e7edb39f3647766155d4c912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/32\/37-40.1792445822986.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и ⟨се⟩ рече"
+    },
+    {
+      "surface": "אי",
+      "gloss": "каде"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "нивните богови"
+    },
+    {
+      "surface": "צור",
+      "gloss": "карпата"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "се засолниле"
+    },
+    {
+      "surface": "בו",
+      "gloss": "во неа"
+    }
+  ],
+  "timestamp": "2026-10-19T21:37:02.986973647Z",
+  "model": "glm-5.3"
+}

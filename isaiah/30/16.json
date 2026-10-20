@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 30:16",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨конј⟩",
+      "rationale": "придавката 'лесно\/брзо' бара именска допуна на македонски."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ננוס\/תנוסון",
+      "rationale": "истиот корен 'бега' во ветењето и во пресудата — игра што македонскиот ја губи."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קל\/יקלו",
+      "rationale": "'лесно\/брзо' ↔ 'ќе бидат лесни' — спротивност изразена со ист корен."
+    },
+    {
+      "kind": "you",
+      "subject": "до Јудеја",
+      "rationale": "народот одговара директно на Адонај — 'вие рековте'."
+    }
+  ],
+  "translation": "А вие рековте: Не, туку на коњ ќе бегаме — затоа ќе побегнете; и на лесно ⟨конј⟩ ќе јаваме — затоа ќе бидат брзи гонителите ваши.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "1a3945ef0edb8f8bc91ec313b1acb5c4a583c0b541cbe8396481a5511953054f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/30\/13-16.1792449986558.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמרו",
+      "gloss": "А рековте"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "כי",
+      "gloss": "туку"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "סוס",
+      "gloss": "на коњ"
+    },
+    {
+      "surface": "ננוס",
+      "gloss": "ќе бегаме"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "תנוסון",
+      "gloss": "ќе побегнете"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и"
+    },
+    {
+      "surface": "קל",
+      "gloss": "на лесно"
+    },
+    {
+      "surface": "נרכב",
+      "gloss": "ќе јаваме"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "יקלו",
+      "gloss": "ќе бидат брзи"
+    },
+    {
+      "surface": "רדפיכם",
+      "gloss": "гонителите ваши"
+    }
+  ],
+  "timestamp": "2026-10-19T22:46:26.565884690Z",
+  "model": "glm-5.3"
+}

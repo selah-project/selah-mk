@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Валаам",
+      "rationale": "Јахве му се обраќа директно на Валаам со повик да се врати кај Балак."
+    }
+  ],
+  "translation": "И Јахве стави збор во устата на Валаам и рече: Врати се кај Балак, и така зборувај.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "827d8d384cf6703db65926099897bda5585567b16d0d56a8621c3b17fc313b51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/23\/5-8.1792445035373.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "стави"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "збор"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "во устата"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "на Валаам"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "врати се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "и така"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "зборувај"
+    }
+  ],
+  "timestamp": "2026-10-19T21:23:55.373739609Z",
+  "model": "glm-5.3"
+}

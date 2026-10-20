@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 1:2",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "преку",
+      "rationale": "македонскиот глагол „премини“ бара предлог, хебрејскиот עבר го носи во себе"
+    },
+    {
+      "kind": "you",
+      "subject": "Јехошуа",
+      "rationale": "директен говор на Јахве упатен кон Јехошуа"
+    },
+    {
+      "kind": "invitation",
+      "subject": "стани, премини",
+      "rationale": "повик — императиви што го повикуваат Јехошуа на дело"
+    }
+  ],
+  "translation": "„Моше, слугата мој, умре; а сега стани, премини ⟨преку⟩ ⟨את⟩ овој Јарден — ти и сиот овој народ — во земјата што јас им ја давам на нив, на синовите Јисраелови.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "30b15dc5f2f1deb881c888d1939f98d478454c1c548751c06f65420249dfcb96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/1\/1-4.1792445906610.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слугата мој"
+    },
+    {
+      "surface": "מת",
+      "gloss": "умре"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "קום",
+      "gloss": "стани"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "премини"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "овој Јарден"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "овој Јарден"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сиот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "давам"
+    },
+    {
+      "surface": "להם",
+      "gloss": "на нив"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T21:38:26.611253710Z",
+  "model": "glm-5.3"
+}

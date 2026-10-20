@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 34:7",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בן מאה ועשרים",
+      "rationale": "букв. 'син на сто и дваесет години' — идиом за возраст"
+    },
+    {
+      "kind": "crux",
+      "subject": "לחה",
+      "rationale": "букв. 'свежина\/влага' — традиционално 'природната сила' (KJV) vs 'влажноста' (YLТ); можеби на забите или на телото"
+    }
+  ],
+  "translation": "А Моше беше на сто и дваесет години кога умре; окото не му заматнее, ни свежината му не исчезна.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "03f4fddf3f8c4eb367c85ded4bf2314bddad1e38aa2eb2110b57cdca35216597",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/34\/5-8.1792445861439.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "а Моше"
+    },
+    {
+      "surface": "בן",
+      "gloss": "на (стар)"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и дваесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "кого умре"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כהתה",
+      "gloss": "заматне"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "неговото око"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "נס",
+      "gloss": "исчезна"
+    },
+    {
+      "surface": "לחה",
+      "gloss": "свежината"
+    }
+  ],
+  "timestamp": "2026-10-19T21:37:41.440594162Z",
+  "model": "glm-5.3"
+}

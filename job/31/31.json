@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 31:31",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "буквално 'кој ќе даде' — хебрејска фраза за желба, 'е да\/да барем'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ли не се наситуваме",
+      "rationale": "KJV\/JPS читаат какоolieње со месо; ASV\/BSB читаат 'кој не беше наситен од храната негова'"
+    }
+  ],
+  "translation": "Ако мажите на шаторот мој не рекоа: Кој би дал од месото негово? — не се наситуваме.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "978cb73166ca33ae3fae577c40a94eacf6946182135cea536004f8a1075a4088",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/31\/30-31.1792458436182.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "рекоа"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "мажите"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "на шаторот мој"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "би дал"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "од месото негово"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "се наситуваме"
+    }
+  ],
+  "timestamp": "2026-10-20T01:07:16.183462033Z",
+  "model": "glm-5.3"
+}

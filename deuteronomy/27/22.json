@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Израел",
+      "rationale": "Колективниот одговор Амен е директен повик кон народот."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Помошниот глагол е додаден на македонски."
+    }
+  ],
+  "translation": "Проклет е оној што легнува со сестра својата, ќерка на татко свој или ќерка на мајка своја, и ќе рече сето ⟨е⟩ народот: Амен.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f0b9ed73f2e24eecdc97b062386948405a9fea757f1763f843b2dd64430dbd7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/27\/21-24.1792445721838.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклет"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "легнува"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "сестра својата"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерка"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "на татко свој"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерка"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "на мајка своја"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и ќе рече"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    }
+  ],
+  "timestamp": "2026-10-19T21:35:21.840341649Z",
+  "model": "glm-5.3"
+}

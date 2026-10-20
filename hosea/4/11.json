@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "срце",
+      "rationale": "לב е целото внатрешно битие — разум, волја, чувство — не само чувството"
+    }
+  ],
+  "translation": "Блудот, и виното, и младото вино го одземаат срцето.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "61fd4fa7e45da5a249ce1a742f6a4b5f09e252b4f90ba37b927373d011f5b48a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/hosea\/4\/9-12.1792452191156.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "Блудот"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и виното"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "и младото вино"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "го одземаат"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срцето"
+    }
+  ],
+  "timestamp": "2026-10-19T23:23:11.157352628Z",
+  "model": "glm-5.3"
+}

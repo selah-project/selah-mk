@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 5:12",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Не е Тој",
+      "rationale": "לא הוא — дословно „не е тој\/тоа не е тој“, значи „нема такво нешто, тој не постои\/не делува“"
+    }
+  ],
+  "translation": "Излагаа против Јахве и рекоа: Не е Тој, и зло нема да дојде врз нас, и меч и глад нема да видиме.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d581c71825f6cfcabc96d1fd7c8efb59ff22f7d25e74fcf77d8d9cc995580cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/5\/9-12.1792450470729.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחשו",
+      "gloss": "Излагаа"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "против Јахве"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е Тој"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "да дојде"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "врз нас"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "и меч"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "и глад"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "да видиме"
+    }
+  ],
+  "timestamp": "2026-10-19T22:54:30.730141730Z",
+  "model": "glm-5.3"
+}

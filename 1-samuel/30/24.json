@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 30:24",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חלק \/ יחלקו",
+      "rationale": "корен חלק „дел\/да дели“ три пати во стихот — парономазија што македонскиот ја губи."
+    },
+    {
+      "kind": "measurement",
+      "subject": "еднакво делење на пленот",
+      "rationale": "стилот воспоставува правило за поделба — бројно израмнување на учесниците."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ומי ישמע לכם",
+      "rationale": "риторичко прашање до слушателите што ги повикува да застанат зад правилото."
+    }
+  ],
+  "translation": "И кој би ве послушал за ова нешто? Како што е делот на оној што слегува во битката, така и делот на оној што седи кај ⟨товарите⟩ — заедно ќе делат.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "1db2dee95d7aac94700f307a771e0cbf0ab7ea87ae576d2707799530cc40cd75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/30\/21-24.1792448046535.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "и-кој"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "би-послушал"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ве"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "за-зборот"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "како-делот"
+    },
+    {
+      "surface": "הירד",
+      "gloss": "што-слегува"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "во-битката"
+    },
+    {
+      "surface": "וכחלק",
+      "gloss": "така-и-како-делот"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "што-седи"
+    },
+    {
+      "surface": "על",
+      "gloss": "кај"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "товарите"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заедно"
+    },
+    {
+      "surface": "יחלקו",
+      "gloss": "ќе-делат"
+    }
+  ],
+  "timestamp": "2026-10-19T22:14:06.540639576Z",
+  "model": "glm-5.3"
+}

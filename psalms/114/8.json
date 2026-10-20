@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מים...מים",
+      "rationale": "Двојно 'вода' на крајот од секоја половина — паралелизам што македонскиот го задржува"
+    }
+  ],
+  "translation": "што ја претвори карпата во езеро ⟨од⟩ вода, кремениот камен во извор на вода —",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "94de7dada0975aece852f59cb693a0c1413570e1594ab4acc430d500999295e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/114\/5-8.1792453928788.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "што ја претвори"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "карпата"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "во езеро"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "кремениот камен"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "во извор"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    }
+  ],
+  "timestamp": "2026-10-19T23:52:08.789238324Z",
+  "model": "glm-5.3"
+}

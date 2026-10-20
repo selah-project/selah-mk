@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 21:27",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שק",
+      "rationale": "'вреќа' за груба платнена облека од козина\/влакна; македонскиот нема еден збор за овој обреден предмет"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אט",
+      "rationale": "'тихо\/полека' — можеби и 'покорно', бојкосан од тагата; одбран е физичкиот опис"
+    }
+  ],
+  "translation": "И биде, кога чу Ахав ⟨את⟩ тие зборови, дека ги раздра облеките свои, и стави вреќа на телото свое, и постеше, и лежеше во вреќа, и одеше тихо.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "977dcc9e3f4d10df9d2f858a83d3cf8d6755b0eaf067c115eb69c1bee39f6f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/21\/25-28.1792448944632.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "кога чу"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тие зборови"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "зборовите"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "и ги раздра"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "облеките свои"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "и стави"
+    },
+    {
+      "surface": "שק",
+      "gloss": "вреќа"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "телото свое"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "и постеше"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "и лежеше"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "во вреќа"
+    },
+    {
+      "surface": "ויהלך",
+      "gloss": "и одеше"
+    },
+    {
+      "surface": "אט",
+      "gloss": "тихо"
+    }
+  ],
+  "timestamp": "2026-10-19T22:29:04.633620037Z",
+  "model": "glm-5.3"
+}

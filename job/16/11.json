@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 16:11",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ירטני",
+      "rationale": "ירט се јавува само тука во Танах; буквално 'ме стркала наназад\/ме фрли челно'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Ел",
+      "rationale": "текстот вели אל — сила\/Бог — а не Јахве; според некои читања тоа продолжение на 'непријателот' од ст. 9"
+    }
+  ],
+  "translation": "Ел ме предаде на изопачениот, и во рацете на безбожниците ме фрли главата надолу.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0bc6e80a233778cebfd09369971cd969523c4b6f19a18bc1f94bb19fd494c97a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/16\/9-12.1792455031185.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסגירני",
+      "gloss": "ме предаде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "עויל",
+      "gloss": "изопачениот"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и во"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "рацете"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожниците"
+    },
+    {
+      "surface": "ירטני",
+      "gloss": "ме фрли главата надолу"
+    }
+  ],
+  "timestamp": "2026-10-20T00:10:31.185921111Z",
+  "model": "glm-5.3"
+}

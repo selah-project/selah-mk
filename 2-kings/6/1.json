@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 6:1",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тесно за нас",
+      "rationale": "букв. „тесно е од него“ (ממנו); македонскиот бара насоченост кон нас"
+    },
+    {
+      "kind": "you",
+      "subject": "до Елиша",
+      "rationale": "директен говор на синовите на пророците упратен кон Елиша"
+    }
+  ],
+  "translation": "И рекоа синовите на пророците на Елиша: Еве, молиме, местото каде што ние живееме таму пред тебе е тесно за нас.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "ec4418d02451f2c11171621883be98d05d20a2646d11941f87f9b0c06bdf6039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/6\/1-4.1792449146523.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "на пророците"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Елиша"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молиме"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "местото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "каде што"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ние"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "живееме"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред тебе"
+    },
+    {
+      "surface": "צר",
+      "gloss": "тесно"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "за нас"
+    }
+  ],
+  "timestamp": "2026-10-19T22:32:26.524160291Z",
+  "model": "glm-5.3"
+}

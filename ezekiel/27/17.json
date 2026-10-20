@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 27:17",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פנג (пнаг)",
+      "rationale": "Зборот се јавува само тука во Танах; значењето е непознато, затоа го пренесуваме по звук."
+    },
+    {
+      "kind": "crux",
+      "subject": "מערבך",
+      "rationale": "„Твојата трговија\/стока“ — дали значи дека ја даваа како плаќање за твојата роба (KJV) или дека ти ја продаваа (YLT)."
+    }
+  ],
+  "translation": "Јуда и земјата на Јисраел — тие беа твоите трговци: во пченица од Минит, и пнаг, и мед, и масло, и цори — тие ги даваа за твојата стока.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "332b4a14755d7a8a9173d6a2d9ada812b92fa8c05fd028dcc0117ee378e2b6bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/27\/17-20.1792451748305.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Јуда"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "и земјата"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "רכליך",
+      "gloss": "твоите трговци"
+    },
+    {
+      "surface": "בחטי",
+      "gloss": "во пченица"
+    },
+    {
+      "surface": "מנית",
+      "gloss": "од Минит"
+    },
+    {
+      "surface": "ופנג",
+      "gloss": "и пнаг"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "и мед"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "и масло"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "и цори"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "дааваа"
+    },
+    {
+      "surface": "מערבך",
+      "gloss": "твојата стока"
+    }
+  ],
+  "timestamp": "2026-10-19T23:15:48.306129330Z",
+  "model": "glm-5.3"
+}

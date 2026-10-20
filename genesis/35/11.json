@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 35:11",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сум",
+      "rationale": "хебрејскиот нема копула — „Јас Ел Шадај“"
+    },
+    {
+      "kind": "invitation",
+      "subject": "роди и умножи се",
+      "rationale": "два императиви — заповед-благослов упатена директно на Јааков"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јааков",
+      "rationale": "Елохим му се обраќа лично со ветување"
+    }
+  ],
+  "translation": "И Елохим му рече: Јас сум Ел Шадај; роди и умножи се; народ и собор на народи ќе биде од тебе, и цареви од слабините твои ќе излегуваат.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "8ca4f03839b236cb80761e08b2932bfc0eec8520b69d78ced693d13e855d4623",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/35\/9-12.1792443017621.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шадај"
+    },
+    {
+      "surface": "פרה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "и умножи се"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "וקהל",
+      "gloss": "и собор"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "на народи"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "од тебе"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "и цареви"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "од слабините твои"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ќе излегуваат"
+    }
+  ],
+  "timestamp": "2026-10-19T20:50:17.623025683Z",
+  "model": "glm-5.3"
+}

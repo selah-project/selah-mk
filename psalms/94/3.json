@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עד מתי רשעים",
+      "rationale": "двоен повторен повик 'до кога безбожните' — задржан во ист ритам"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "директен обраќање кон Името"
+    },
+    {
+      "kind": "invitation",
+      "subject": "прашање-повик",
+      "rationale": "апелативното 'до кога?' те повикува во спорот"
+    }
+  ],
+  "translation": "До кога, Јахве, безбожните — до кога безбожните ќе ликуваат?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "638f4f9f613b653d88789ffe6543c752bf444e0bd8e571b2d37be6b6dfd67279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/94\/1-4.1792453788277.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "До"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожните"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожните"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "ќе ликуваат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:49:48.278174972Z",
+  "model": "glm-5.3"
+}

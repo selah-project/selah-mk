@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 15:11",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "беелим",
+      "rationale": "באלם: „меѓу боговите“ (KJV) наспроти „меѓу моќните“ — Ел во множина"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מי כמכה",
+      "rationale": "двојно повторување на прашањето — рефрен во песната"
+    }
+  ],
+  "translation": "Кој е како Тебе меѓу ⟨моќните⟩, Јахве? Кој е како Тебе, величествен во светоста, страшен во пофалбите, творител на чудеса?",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1ab465ffed77a72d930c0577bbcf47ead1e5b3eb2067358ed9b163c5cdf06dbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/15\/9-12.1792443499301.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "כמכה",
+      "gloss": "е како Тебе"
+    },
+    {
+      "surface": "באלם",
+      "gloss": "меѓу ⟨моќните⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "כמכה",
+      "gloss": "е како Тебе"
+    },
+    {
+      "surface": "נאדר",
+      "gloss": "величествен"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "во светоста"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "страшен"
+    },
+    {
+      "surface": "תהלת",
+      "gloss": "во пофалбите"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "творител"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "на чудеса"
+    }
+  ],
+  "timestamp": "2026-10-19T20:58:19.307245611Z",
+  "model": "glm-5.3"
+}

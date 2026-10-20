@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 7:15",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "македонскиот бара помошен глагол што хебрејскиот го изостава"
+    }
+  ],
+  "translation": "И тргнаа по нив до Јордан, и еве — целиот пат беше полн со облеки и предмети што Арам ги фрлил во својата наглост. И се вратија пратениците и му јавија на царот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "0650925f038af21d69307956d1da21e9ca7bb89c309b72b226877c6f7de52592",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/7\/13-16.1792449164204.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "и тргнаа"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "по нив"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Јордан"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ево"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целниот"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "пат"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "беше полн"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "со облеки"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "и предмети"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "ги фрлил"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "בהחפזם",
+      "gloss": "во својата наглост"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "и се вратија"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "пратениците"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "и јавија"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "на царот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:32:44.206472123Z",
+  "model": "glm-5.3"
+}

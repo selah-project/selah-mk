@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 18:6",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до мажите-пратеници",
+      "rationale": "Директна наредба до тројцата мажи од секое племе."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנה \/ פה",
+      "rationale": "Два збора за „тука“ во еден стих — овде (кај мене) и тука (пред Јахве); македонскиот разликува „овде\/тука“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "жреб",
+      "rationale": "Фрлање жреб — мерење на наследството со камења-жребови."
+    }
+  ],
+  "translation": "И вие запишете ја ⟨את⟩ земјата во седум дела, и донесете ми овде, а јас ќе ви фрлам жреб тука пред Јахве, Елохим нашиот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ceeb10fb4939a390aa614310b3b655bfca931bcbfad8ed3b1dee96c3f3a1a4b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/18\/5-8.1792446194385.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "И вие"
+    },
+    {
+      "surface": "תכתבו",
+      "gloss": "запишете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седум"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "дела"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "и донесете"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "овде"
+    },
+    {
+      "surface": "ויריתי",
+      "gloss": "а јас ќе фрлам"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "жреб"
+    },
+    {
+      "surface": "פה",
+      "gloss": "тука"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохим нашиот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:43:14.387016645Z",
+  "model": "glm-5.3"
+}

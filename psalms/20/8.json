@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се доверуваат",
+      "rationale": "Хебрејскиот именски стих нема глагол — македонскиот бара глагол за јасност."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלה\/ואלה",
+      "rationale": "Рефренско повторување „ овие … и овие“ спроти „а ние“ — хиазам на доверба."
+    }
+  ],
+  "translation": "Оние ⟨се доверуваат⟩ на колени, и оние на коњи, а ние во името на Јахве Елохим наши ќе спомнуваме.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "407b48d910194a22cdae93bf36cd16b5a136ef15bcee0f67f64355c84fbc1ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/20\/5-8.1792453100897.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Оние"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "на колени"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "и оние"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "на коњи"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "а ние"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "во името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохим наши"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "ќе спомнуваме"
+    }
+  ],
+  "timestamp": "2026-10-19T23:38:20.898618476Z",
+  "model": "glm-5.3"
+}

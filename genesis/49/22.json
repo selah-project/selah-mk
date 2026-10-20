@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בן\/בנות",
+      "rationale": "син-плодоносен и 'ќерките' (гранките) — игра син\/ќерки, изгубена во македонскиот"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלי עין",
+      "rationale": "'крај извор' (עין = окото\/извор) наспроти чтението 'соублажен поглед'; двосмисленоста на עין е во самиот збор"
+    }
+  ],
+  "translation": "Јосеф ⟨е⟩ син-плодоносен, син-плодоносен крај изворот; ќерките чекораат по ѕидот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "93b0d21c5b4cb20d6cfd0ba103f7a3d38581c723a1d9718ddd685f799721e13c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/49\/21-24.1792443295605.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "плодоносен"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "плодоносен"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "крај"
+    },
+    {
+      "surface": "עין",
+      "gloss": "изворот"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ќерките"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "чекораат"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "по"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ѕидот"
+    }
+  ],
+  "timestamp": "2026-10-19T20:54:55.614027227Z",
+  "model": "glm-5.3"
+}

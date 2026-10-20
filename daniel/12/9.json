@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот пасив бара помошен глагол што хебрејскиот го нема"
+    },
+    {
+      "kind": "mystery",
+      "subject": "зборовите се затворени и запечатани",
+      "rationale": "текстот е намерно запечатан до одредено време"
+    },
+    {
+      "kind": "secret",
+      "subject": "סתמים וחתמים",
+      "rationale": "двојна слика на тајност: запушено и запечатано"
+    }
+  ],
+  "translation": "И рече: Оди, Даниел, зашто затворени и запечатани се ⟨се⟩ зборовите до времето на крајот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b44b2635239d137cacfac27e5e6baf129b38b4cf47cc9b3e39024b5e9739bb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/12\/9-12.1792456277813.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Оди"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "затворени"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "и запечатани"
+    },
+    {
+      "surface": "הדבררים",
+      "gloss": "зборовите"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עת",
+      "gloss": "времето"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "крајот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:31:17.813867708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 11:10",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יהוה יהיה שמע בינותינו",
+      "rationale": "буквално „Јахве нека биде слушач меѓу нас“ — клетвена формула; преведувачите велат „сведок“ (KJV, JPS)."
+    },
+    {
+      "kind": "crux",
+      "subject": "אם לא",
+      "rationale": "клетвена формула „ако не...“: YLT ја задржува буквално, KJV\/ASV ја преведуваат како потврда „навистина така ќе направиме“."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨на⟩",
+      "rationale": "конструктот бара сврзувачки збор на македонски."
+    }
+  ],
+  "translation": "И рекоа старешините ⟨на⟩ Гилад на Јефтај: Јахве ⟨нека⟩ слуша меѓу нас — ако не го направиме според зборот твој, така.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c1cbff1d83a31e289fbdb0d55a46ebd363cb9d5aee62e2bca56cc949732406fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/11\/9-12.1792446514604.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И рекоа"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старешините"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Јефтај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨нека⟩"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слуша"
+    },
+    {
+      "surface": "בינותינו",
+      "gloss": "меѓу нас"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "според зборот твој"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "направиме"
+    }
+  ],
+  "timestamp": "2026-10-19T21:48:34.605283388Z",
+  "model": "glm-5.3"
+}

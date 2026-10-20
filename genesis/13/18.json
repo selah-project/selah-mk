@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 13:18",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨својот⟩ · ⟨се⟩",
+      "rationale": "присвојна и сврзна клитика што хебрејскиот не ги изговара"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלני ממרא",
+      "rationale": "дабови\/теребинти\/рамнина — преведувачите се делат; буквално: дабовите (силните дрвја) на Мамре"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жртвеник",
+      "rationale": "מזבח е олтар за жртвување; македонскиот збор го задржува жртвениот поим"
+    }
+  ],
+  "translation": "И Аврам го постави ⟨својот⟩ шатор, дојде и се насели кај дабовите на Мамре, кои ⟨се⟩ во Хеврон, и подигна таму жртвеник на Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a8fa77bc53bbf674a7418ef8198eb6bbd1e521ea7789b53b23fda592963fc0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/13\/17-18.1792442492833.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאהל",
+      "gloss": "го постави шаторот"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "се насели"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "кај дабовите"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "на Мамре"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кои"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "во Хеврон"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "подигна"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жртвеник"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T20:41:32.844289080Z",
+  "model": "glm-5.3"
+}

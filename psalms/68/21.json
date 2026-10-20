@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 68:21",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "хебрејскиот нема глагол — именска реченица"
+    },
+    {
+      "kind": "substitution",
+      "subject": "излези од смртта",
+      "rationale": "תוצאות е колективен множински 'излези\/изводи'; значи патеки на избавување од смрт"
+    }
+  ],
+  "translation": "Ел е за нас Ел на спасенија, и на Јахве, Адонај — ⟨се⟩ излезите од смртта.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7d1ce227a1f20f3019b18c287bbf851593961d95f40d6f997cd7aca082101515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/68\/21-24.1792453455629.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "за нас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "למושעות",
+      "gloss": "на спасенија"
+    },
+    {
+      "surface": "וליהוԽ",
+      "gloss": "и на Јахве"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "למות",
+      "gloss": "на смртта"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "излезите"
+    }
+  ],
+  "timestamp": "2026-10-19T23:44:15.629907821Z",
+  "model": "glm-5.3"
+}

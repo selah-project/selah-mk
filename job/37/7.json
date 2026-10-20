@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 37:7",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעשהו",
+      "rationale": "'делото негово' (Елово, машко) — ASV\/JPS читаат 'сите луѓе што тој ги направи'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כל אדם \/ כל אנשי",
+      "rationale": "двоен 'секој човек \/ сите луѓе' — повик-одговор во стихот"
+    }
+  ],
+  "translation": "Ја запечатува раката на секој човек, за да знаат сите луѓе делото негово.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ac2f44f5656edef6eb03721cbce1c76effa3f616fea0182d734371e0d3f53ae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/37\/5-8.1792455278566.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "раката"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "יחתום",
+      "gloss": "ја запечатува"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "за да знаат"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "луѓе"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "делото негово"
+    }
+  ],
+  "timestamp": "2026-10-20T00:14:38.567271346Z",
+  "model": "glm-5.3"
+}

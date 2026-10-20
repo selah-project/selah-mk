@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 20:22",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот рефлексив го бара"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לערך\/ערכו",
+      "rationale": "повторен корен ערך 'реди\/подготви' — поставија редот таму каде што го беа редиле"
+    }
+  ],
+  "translation": "И се зацврсти народот, луѓето Јисраелови, и додаде ⟨се⟩ да подготви битка на местото каде што беа подготвиле таму во првиот ден.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2cfd7ad3b8a24e62c4957b5a7f07a7d1c8e3511e523fb81eb9401246e7654539",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/20\/21-24.1792446628790.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "и се зацврсти"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "איש",
+      "gloss": "луѓето"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелови"
+    },
+    {
+      "surface": "ויספו",
+      "gloss": "и додаде"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "да подготви"
+    },
+    {
+      "surface": "млхмх",
+      "gloss": "битка"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "на местото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "каде што"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "беа подготвиле"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "првиот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:50:28.791787022Z",
+  "model": "glm-5.3"
+}

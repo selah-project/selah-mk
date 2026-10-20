@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 24:6",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "да ги иштинам",
+      "rationale": "נתש е буквално „да ги искорнам\/иштинам“ — иста земјоделска слика како „посадам“."
+    }
+  ],
+  "translation": "И Ќе ги ставам очите Свои врз нив за добро, и ќе ги вратам на оваа земја, и ќе ги градам, и нема да ги разурнам, и ќе ги посадам, и нема да ги иштинам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e587f57d315a69bf8baad981e5b9e3a62b7747c442afb814f99996c4f3b7a4ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/24\/5-8.1792450802468.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "и Ќе ги ставам"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очите Свои"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "врз нив"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "за добро"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "и ќе ги вратам"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "ובניתים",
+      "gloss": "и ќе ги градам"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "да ги разурнам"
+    },
+    {
+      "surface": "ונטעתים",
+      "gloss": "и ќе ги посадам"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "да ги иштинам"
+    }
+  ],
+  "timestamp": "2026-10-19T23:00:02.471838970Z",
+  "model": "glm-5.3"
+}

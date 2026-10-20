@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "obadiah 1:18",
+  "book": "obadiah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула; сликата е именска — дом = оган"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אש\/להבה\/לקש\/ודלקו",
+      "rationale": "верига оган-пламен-плева-запалување, три изречени метафори што се една слика"
+    }
+  ],
+  "translation": "И домот на Јааков ⟨е⟩ оган, и домот на Јосеф пламен, а домот на Есав плева; и ќе се запалат во нив и ќе ги изедат, и нема да има останат од домот на Есав, зашто Јахве зборува.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "61d36e7f790cc162024a69dcc04dcf0cb725ce46b19f090b9ccef5089137ec4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/obadiah\/1\/18-19.1792458294001.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И ќе биде"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "на Јааков"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оган"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и домот"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "на Јосеф"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "пламен"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "а домот"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "на Есав"
+    },
+    {
+      "surface": "לקש",
+      "gloss": "плева"
+    },
+    {
+      "surface": "ודלקו",
+      "gloss": "и ќе се запалат"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "во нив"
+    },
+    {
+      "surface": "ואכלום",
+      "gloss": "и ќе ги изедат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "да има"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "останат"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "од домот"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "на Есав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборува"
+    }
+  ],
+  "timestamp": "2026-10-20T01:04:54.002093515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 3:19",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "Сврзник додаден во македонскиот."
+    },
+    {
+      "kind": "measurement",
+      "subject": "родослов",
+      "rationale": "Именување на синовите и сестрата — бројчена структура на листата."
+    },
+    {
+      "kind": "crux",
+      "subject": "Зерубавел",
+      "rationale": "Зерубавел е син на Педаја тука, а во Езра 3:2 син на Шеалтиел — позната генеалошка тешкотија."
+    }
+  ],
+  "translation": "И синовите на Педаја ⟨се⟩ Зерубавел и Шими. И син ⟨на⟩ Зерубавел: Мешулам, и Хананја, и Шеломит сестра им.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d441a7b1d2903a43143979383fa29da12645cdc39cbcf82fde7ac14156c42565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/3\/17-20.1792456807699.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синовите"
+    },
+    {
+      "surface": "פדיה",
+      "gloss": "на Педаја"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Зерубавел"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "и Шими"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "И син"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "на Зерубавел"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешулам"
+    },
+    {
+      "surface": "וחנניה",
+      "gloss": "и Хананја"
+    },
+    {
+      "surface": "ושלמית",
+      "gloss": "и Шеломит"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "сестра им"
+    }
+  ],
+  "timestamp": "2026-10-20T00:40:07.699809339Z",
+  "model": "glm-5.3"
+}

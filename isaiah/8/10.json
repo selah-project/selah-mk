@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עצו עצה \/ דברו דבר",
+      "rationale": "Инфинитивен апсолутивен: глагол+именка од ист корен — „советувајте совет, зборете збор“"
+    },
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Хебрејскиот ја изостава копулата пред אל"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמנו אל",
+      "rationale": "„Ел со нас“ — звучи како Имануел од 8:8, намерно ехо"
+    }
+  ],
+  "translation": "Насоветувајте совет, и ⟨ќе⟩ биде разурнат; зборете збор, и нема да се одржи, зашто со нас ⟨е⟩ Ел.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "466d7526568a79bc32309342ad3bb77d881c946ad1234e0a48ac62489a84c388",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/8\/9-12.1792449613693.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "Насоветувајте"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "совет"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "и ⟨ќе⟩ биде разурнат"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "зборете"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "збор"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "да се одржи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "со нас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨е⟩ Ел"
+    }
+  ],
+  "timestamp": "2026-10-19T22:40:13.695829726Z",
+  "model": "glm-5.3"
+}

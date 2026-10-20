@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 40:6",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 40,
+  "translation": "И дојде Јермијаху кај Гедалија, синот на Ахикам, во Мицпа, и остана ⟨את⟩ со него меѓу народот што преостана во земјата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "86c225f3f225906cd17ad16549c5228f41293277f330f9e2bb4b5cbae21c4577",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/40\/5-8.1792451061352.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и дојде"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јермијаху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "גדליה",
+      "gloss": "Гедалија"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ахикам"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "во Мицпа"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и остана"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ со него",
+      "marks": "со него"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "што преостана"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:04:21.354284687Z",
+  "model": "glm-5.3"
+}

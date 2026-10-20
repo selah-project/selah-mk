@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 27:3",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "двете жени",
+      "rationale": "именоње на жените со припадност — списочникска точност на домаќинството"
+    }
+  ],
+  "translation": "И поживеа Давид кај Ахиш во Гат — тој и мажите негови, секој маж со домот свој — Давид и двете жени негови: Ахиноам Јизреелката и Авигеја, жената на Навал Кармелката.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "527976c3c2d06e0af59fec4758d4ad651b778cfebf7d4266e8a548d0d226bce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/27\/1-4.1792448040467.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и поживеа"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עם",
+      "gloss": "кај"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Ахиш"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "во Гат"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "и мажите негови"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој маж"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "со домот свој"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "и двете"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "жени негови"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ахиноам"
+    },
+    {
+      "surface": "היזרעאלית",
+      "gloss": "Јизреелката"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "и Авигеја"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жената"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "на Навал"
+    },
+    {
+      "surface": "הכרמלית",
+      "gloss": "Кармелката"
+    }
+  ],
+  "timestamp": "2026-10-19T22:14:00.478537389Z",
+  "model": "glm-5.3"
+}

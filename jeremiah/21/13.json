@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 21:13",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "на жителките на долината (Ерусалим\/Сион)",
+      "rationale": "Директна адреса до населението на Jerusalem во женски род еднина."
+    },
+    {
+      "kind": "alternative",
+      "subject": "карпо на рамнината",
+      "rationale": "צור המישר можеби е личба — Karpo-Ravnina — епитет што стои како втор vocатив, не обичен опис."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחת \/ העמק",
+      "rationale": "Сликата на „слегување“ (навалување) игра против нивната доверба дека се во долина под карпа — недостижни."
+    }
+  ],
+  "translation": "Еве Ме против тебе, жителко на долината, карпо на рамнината — изрека на Јахве — вие што велите: „Кој ќе слези против нас? И кој ќе влезе во нашите живеалишта?“",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8da9f4f90fc9529e13a11df371ade0dbfcc531f6a67c5857d6187853851b5f5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/21\/13-14.1792450681897.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Еве Ме"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "против тебе"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "жителко"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "на долината"
+    },
+    {
+      "surface": "צור",
+      "gloss": "карпо"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "на рамнината"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "што велат"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ќе слези"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "против нас"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и кој"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ќе влезе"
+    },
+    {
+      "surface": "במעונותינו",
+      "gloss": "во нашите живеалишта"
+    }
+  ],
+  "timestamp": "2026-10-19T22:58:01.897997361Z",
+  "model": "glm-5.3"
+}

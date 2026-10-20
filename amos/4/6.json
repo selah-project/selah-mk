@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 4:6",
+  "book": "amos",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "чистота на забите",
+      "rationale": "נקיון שנים — дословно 'чистота на забите', ироничен заостаток за глад"
+    },
+    {
+      "kind": "addition",
+      "subject": "вие",
+      "rationale": "подметот во 'а вие не се вративте' е подразбиран во хебрејскиот"
+    }
+  ],
+  "translation": "И исто така Јас ви дадов чистота на забите во сите ваши градови и недостиг на леб во сите ваши места — а вие не се вративте кај Мене, вели Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "01788a73c3911aba3f095390bfb732025a645c717b7074fc86890dd3e1b34069",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/amos\/4\/5-8.1792452381492.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "и исто така"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дадов"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "נקיון",
+      "gloss": "чистота"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "на забите"
+    },
+    {
+      "surface": "вכל",
+      "gloss": "во сите"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "вашите градови"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "и недостиг"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "на леб"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во сите"
+    },
+    {
+      "surface": "מקומתיכם",
+      "gloss": "вашите места"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "се вративте"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "кај Мене"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:26:21.493431528Z",
+  "model": "glm-5.3"
+}

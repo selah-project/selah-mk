@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 48:33",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הידד",
+      "rationale": "триfold повторување на истиот збор הידד — гасењето на победниот вик се слуша во самиот ритам; македонскиот може само да го повтори „вик“"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема глагол-сврска во ונאספה и во последната негација"
+    }
+  ],
+  "translation": "И собрана ⟨е⟩ радоста и веселието од плодното поле и од земјата Моав, и вино од точилата Јас престанав: нема да гази газач со вик; викот — не ⟨е⟩ тој вик!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "57163ed55904db948701e9c08562a34c4d7d8b336cf9da856f1f11600a5523d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/48\/33-36.1792451118573.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונאספה",
+      "gloss": "и собрана ⟨е⟩"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радоста"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "и веселието"
+    },
+    {
+      "surface": "מכרמל",
+      "gloss": "од плодното поле"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "и од земјата"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "מיקבים",
+      "gloss": "од точилата"
+    },
+    {
+      "surface": "השבתי",
+      "gloss": "Јас престанав"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ќе гази"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "со вик"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "викот"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "тој вик"
+    }
+  ],
+  "timestamp": "2026-10-19T23:05:18.574011891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 3:17",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "גם תמול גם שלשם",
+      "rationale": "Двојното 'и вчера и предвчера' е хебрејски израз за 'одамна, отсекогаш'."
+    },
+    {
+      "kind": "you",
+      "subject": "старешините на Јисраел",
+      "rationale": "Авнер им се обраќа директно на старешините ('барале… над вас')."
+    }
+  ],
+  "translation": "И зборот на Авнер беше со старешините на Јисраел, велејќи: и вчера и предвчера барате ⟨את⟩ Давид за цар над вас.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "424e995d0d37f3e3e017e33cda1da598fcdedb20354438fe2546854126fd3d48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/3\/17-20.1792448125238.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "И зборот"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "на Авнер"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старешините"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "вчера"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "предвчера"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "бевте"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "барајќи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давид"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "за цар"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "над вас"
+    }
+  ],
+  "timestamp": "2026-10-19T22:15:25.239900983Z",
+  "model": "glm-5.3"
+}

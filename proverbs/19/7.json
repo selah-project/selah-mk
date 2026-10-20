@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מרדף אמרים לא המה",
+      "rationale": "труден крај: „гони зборови — а тие ги нема“ (KJV) vs „го бара со зборови, тие не се тука“ (BSB) vs JPS „се свртуваат против него“"
+    },
+    {
+      "kind": "elision",
+      "subject": "אף כי",
+      "rationale": "акцесивна конструкција „исто така колку“ споена во „а уште повеќе“"
+    }
+  ],
+  "translation": "Сите браќа на сиромавиот го мразат, а уште повеќе неговите пријатели се оддалечиле од него — ги гони со зборови, а тие ги нема.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f45880f55fe88e537138ea8f0c89b986e33915e4ec5c7c3e59e736c14ca7e073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/19\/5-8.1792454570820.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "браќата на"
+    },
+    {
+      "surface": "רש",
+      "gloss": "сиромавиот"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "го мразат"
+    },
+    {
+      "surface": "אף",
+      "gloss": "а уште повеќе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "неговите пријатели"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "се оддалечиле"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од него"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "гони"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "зборови"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ги има"
+    }
+  ],
+  "timestamp": "2026-10-20T00:02:50.821852343Z",
+  "model": "glm-5.3"
+}

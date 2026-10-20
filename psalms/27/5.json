@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יסתרני\/בסתר",
+      "rationale": "коренot סתר се повторува: „скрие — во скришното место“, играта е делумно видлива и на македонски."
+    },
+    {
+      "kind": "crux",
+      "subject": "בסכה",
+      "rationale": "„колиба од зелени гранки“ — традицијата вели „павилјон“ или „шатор“; изборот е сукот-колиба."
+    }
+  ],
+  "translation": "Зашто ќе ме скрие во својата колиба, во денот на злото ќе ме сокрие во скришното место на шаторот свој; на карпа ќе ме издигне.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bfb86ccae671cc6f02ad03ad3f9e8963d96f8e6ab210d7fbd68bf39bd0fb6ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/27\/5-8.1792453170389.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "ќе ме скрие"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "во својата колиба"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "на злото"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "ќе ме сокрие"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "во скришното место"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "на шаторот свој"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "на карпа"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "ќе ме издигне"
+    }
+  ],
+  "timestamp": "2026-10-19T23:39:30.389642067Z",
+  "model": "glm-5.3"
+}

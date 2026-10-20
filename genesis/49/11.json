@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 49:11",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סותה",
+      "rationale": "единствено појавување во Танах — 'облека-покривка', преведено како 'наметката'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עירה \/ בני אתנו",
+      "rationale": "двојно магаре: ждребе и син на магарицата — сликата на изобилство што врзување е безопасно."
+    }
+  ],
+  "translation": "Го врза ⟨את⟩ ждребето за лозата, и ⟨את⟩ синот на магарицата за лозата-изборна; пере ја облеката своја во вино, а наметката своја во крв од грозје.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2164fdd11ecf67f5c9632677dd9104733faf7d941dec63a106b45759bb6ebd87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/49\/10-12.1792447657054.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אסרי",
+      "gloss": "го врза"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "за лозата"
+    },
+    {
+      "surface": "עירה",
+      "gloss": "ждребето"
+    },
+    {
+      "surface": "ולשרקה",
+      "gloss": "и за лозата-изборна"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синот"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "на магарицата"
+    },
+    {
+      "surface": "כבס",
+      "gloss": "пере"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "во вино"
+    },
+    {
+      "surface": "לבשו",
+      "gloss": "облеката своја"
+    },
+    {
+      "surface": "ובדם",
+      "gloss": "а во крв"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "од грозје"
+    },
+    {
+      "surface": "סותה",
+      "gloss": "наметката"
+    }
+  ],
+  "timestamp": "2026-10-19T22:07:37.060734520Z",
+  "model": "glm-5.3"
+}

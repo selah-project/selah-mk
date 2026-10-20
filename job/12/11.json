@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "читателот",
+      "rationale": "прашање со очекуван одговор 'да' — слика за испитување на зборовите како вкус"
+    }
+  ],
+  "translation": "Не ги испробува ли увото зборовите, и непцето ја вкусува храната за себе?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ff3b4df072ff2e545b0f9cf9949b11f9eb09ee997cd08f68424c37cda5ca1a7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/12\/9-12.1792454987286.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "не ли"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "увото"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "зборовите"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "испробува"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "и непцето"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "храната"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "вкусува"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за себе"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:47.287151114Z",
+  "model": "glm-5.3"
+}

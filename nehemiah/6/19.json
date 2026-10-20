@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 6:19",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טוב\/טוביה",
+      "rationale": "неговите 'добрини' (טובתיו) одѕвонуваат на самото име Товија ('Јахве е добар') — иронија изгубена во преводот."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ליראני",
+      "rationale": "причинителен инфинитив 'за да ме исплаши' — намерно застрашување, не почит."
+    }
+  ],
+  "translation": "Исто, за неговите добрини зборуваа пред мене, а моите зборови му ги изнесуваа нему; писма праќаше Товија за да ме уплаши.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "24fc815b533fe01c398896930b70aa99cd90edf7eaf31c40822b416a4f8ee411",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/6\/17-19.1792456577236.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "исто"
+    },
+    {
+      "surface": "טובתיו",
+      "gloss": "неговите добрини"
+    },
+    {
+      "surface": "היו",
+      "gloss": "зборуваа"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "кажуваа"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред мене"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "а моите зборови"
+    },
+    {
+      "surface": "היו",
+      "gloss": "беа"
+    },
+    {
+      "surface": "מוציאים",
+      "gloss": "изнесуваа"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "אגרות",
+      "gloss": "писма"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "праќаше"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Товија"
+    },
+    {
+      "surface": "ליראני",
+      "gloss": "за да ме уплаши"
+    }
+  ],
+  "timestamp": "2026-10-20T00:36:17.237912410Z",
+  "model": "glm-5.3"
+}

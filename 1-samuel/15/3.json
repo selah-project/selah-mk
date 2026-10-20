@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "прогласи за уништување",
+      "rationale": "החרים — ḥerem: посветување за целосна уништување, не само 'разори'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעלל ועד יונק",
+      "rationale": "'детенце — доенче' пар речиси синоними во градација, како и паровите животни."
+    },
+    {
+      "kind": "invitation",
+      "subject": "оди и удри",
+      "rationale": "Двоен императив директно упатен на Шаул."
+    }
+  ],
+  "translation": "Сега оди и удри ⟨את⟩ Амалек, и прогласи ⟨את⟩ се што е негово за уништување; нема да поштедиш ништо од него, туку убивај — од маж до жена, од детенце до доенче, од вол до јагне, од камила до магаре.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/15\/1-4.1792446872417.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Сега"
+    },
+    {
+      "surface": "לך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "и удри"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амалек"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "и прогласи за уништување"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "се што е негово"
+    },
+    {
+      "surface": "כל",
+      "gloss": "се"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לו",
+      "gloss": "е негово"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "да поштедиш"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "од него"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "туку убивај"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "од маж"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "од детенце"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "доенче"
+    },
+    {
+      "surface": "משור",
+      "gloss": "од вол"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "שה",
+      "gloss": "јагне"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "од камила"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "магаре"
+    }
+  ],
+  "timestamp": "2026-10-19T21:54:32.418867347Z",
+  "model": "glm-5.3"
+}

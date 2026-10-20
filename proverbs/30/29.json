@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 30:29",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מיטיבי\/מיטבי",
+      "rationale": "повторен партицип од יטב — двата реда се споени со ист збор, задржано со ист израз"
+    },
+    {
+      "kind": "measurement",
+      "subject": "три… четири",
+      "rationale": "бројачка формула на Агур: три-и-четири"
+    }
+  ],
+  "translation": "Три се оние што одат добро во чекор, и четири што одат добро во одење.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "82c9688febfadef7e834a4b6436f2035da790c32aeda74d28568ab78124b6d12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/30\/29-32.1792454795059.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "מיטיבי",
+      "gloss": "одат добро"
+    },
+    {
+      "surface": "צעד",
+      "gloss": "во чекор"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "и четири"
+    },
+    {
+      "surface": "מיטבי",
+      "gloss": "одат добро"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "во одење"
+    }
+  ],
+  "timestamp": "2026-10-20T00:06:35.059621223Z",
+  "model": "glm-5.3"
+}

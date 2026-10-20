@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "осамените височини",
+      "rationale": "שפיים значи 'голина, оголен рид' — местото на идолското богослужење."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "височини",
+      "rationale": "гласот на височините (место на неверството) сега е плач — истиот простор, спротивен звук."
+    }
+  ],
+  "translation": "Глас на осамените височини се чуе — плач и молби на синовите Јисраелови, зашто го искривија ⟨את⟩ патот свој, заборавија ⟨את⟩ Јахве, Елохим свој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b784688fd9d9aa06084eb4c945503b29b14d3e0338284b34cf5f45782a316826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/3\/21-24.1792450420386.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "осамените височини"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "се чуе"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "плач"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "молби"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелови"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "го искривија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "патот свој"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "патот свој"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "заборавија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве, Елохим свој"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Елохим свој"
+    }
+  ],
+  "timestamp": "2026-10-19T22:53:40.387678368Z",
+  "model": "glm-5.3"
+}

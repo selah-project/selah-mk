@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сиромашниот",
+      "rationale": "דл е 'виснат', слаб, изнемоштен — потесно од 'сиромашен'"
+    }
+  ],
+  "translation": "Среќен ⟨е⟩ оној што постапува мудро спроти сиромашниот; во ден на зло ќе го избави Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9b758854654f0c2f66c9f531cba1d38d7b1310124a6734e7a98832ed23f0fa47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/41\/1-4.1792453270266.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "среќен"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "што постапува мудро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "דל",
+      "gloss": "сиромашниот"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во ден"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "на зло"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "ќе го избави"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:41:10.267142931Z",
+  "model": "glm-5.3"
+}

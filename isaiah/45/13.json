@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 45:13",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "во цедек",
+      "rationale": "בצדדק 'во цедек\/праведност' (KJV) наспроти 'во победа' (JPS, насочување на самогласките)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העירתיו \/ עירי",
+      "rationale": "корен עור 'разбуди' и עיר 'град' звучат скоро исто — оној што е разбуден ќе го гради градот"
+    }
+  ],
+  "translation": "Јас го разбудив во цедек, и сите негови патишта ќе ги направам прави; тој ќе го гради градот мој и прогонството мое ќе го отпушти — не за цена и не за мито, вели Јахве Цеваот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "9e62b5db0250147545135f847ad71328911d10f98a2dbd09f1ceabb96b31fc1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/45\/13-16.1792450124246.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "העירתהו",
+      "gloss": "го разбудив"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "во цедек"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сите"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "неговите патишта"
+    },
+    {
+      "surface": "אישר",
+      "gloss": "ќе направам прави"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ќе гради"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "градот мој"
+    },
+    {
+      "surface": "וגלותי",
+      "gloss": "и прогонството мое"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ќе отпушти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "за цена"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "בשחד",
+      "gloss": "за мито"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:48:44.248660071Z",
+  "model": "glm-5.3"
+}

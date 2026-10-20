@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 38:4",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כרכבו",
+      "rationale": "'Раб\/венец околу жртвеникот' — некои преведуваат 'искичување одозгора' (KJV 'compass')."
+    },
+    {
+      "kind": "measurement",
+      "subject": "до неговата половина",
+      "rationale": "Решетката достига до половината од жртвеникот."
+    }
+  ],
+  "translation": "И му направи на жртвеникот решетка од мрежа, дело од бакар, под неговиот раб оддолу до неговата половина.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "6addf33f52fd59438ef8a2c488b684adfc2a8754075e2434d1c1566c42292545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/38\/1-4.1792443977498.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И му направи"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "на жртвеникот"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "решетка"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "од мрежа"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "бакар"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "כרכבו",
+      "gloss": "неговиот раб"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "оддолу"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "неговата половина"
+    }
+  ],
+  "timestamp": "2026-10-19T21:06:17.501741024Z",
+  "model": "glm-5.3"
+}

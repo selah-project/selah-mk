@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "во срцето на морињата",
+      "rationale": "בלב ימים — 'срце на морињата' значи 'средиште\/длабочина'; задржано буквално."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נירא \/ בהמיר",
+      "rationale": "Страв спроти промена — целата песна игра со мрдање против непоместеноста (ст. 6, 7)."
+    }
+  ],
+  "translation": "Затоа нема да се плашиме кога ќе ⟨се⟩ измени земјата и кога планините ќе ⟨се⟩ лизгаат во срцето на морињата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e381cb8fb4f044d1d19f379d27980836baee6048f2d738c22d0e88aa35a92f92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/46\/1-4.1792453333002.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "затоа (на)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "ќе се плашиме"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "ќе ⟨се⟩ измени"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "и кога ќе ⟨се⟩ лизгаат"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "планините"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "во срцето"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "на морињата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:42:13.003177188Z",
+  "model": "glm-5.3"
+}

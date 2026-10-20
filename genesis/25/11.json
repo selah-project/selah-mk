@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "Беер-Лахај-Рои",
+      "rationale": "името значи 'Извор на Живиот што ме гледа' — чувано како име, не преведено"
+    }
+  ],
+  "translation": "И било по смртта на Аврахам — и го благослови Елохим ⟨את⟩ Јицхак, синот негов. И живееше Јицхак кај Беер-Лахај-Рои.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "de05087e2ce424be23747e2d43c6088eb990d1b5c91fc9e32be64c963da95786",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/25\/9-12.1792442795980.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и било"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смртта"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "на Аврахам"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "и го благослови"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јицхак"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Јицхак"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот негов"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и живееше"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Јицхак"
+    },
+    {
+      "surface": "עם",
+      "gloss": "кај"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беер"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "-Лахај"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "-Рои"
+    }
+  ],
+  "timestamp": "2026-10-19T20:46:36.007968814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 15:21",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשלום",
+      "rationale": "„во спокој\/мир“ — дали значи додека е безбеден, или „ненадејно“; преведувачите се делат"
+    }
+  ],
+  "translation": "Глас на стравови ⟨е⟩ во ушите негови; во спокој разурнувачот ќе дојде врз него.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "94b187575137ce243e55ab4ac0ed5d27c0f2005ba5f00940da84c0415fafbcac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/15\/21-24.1792455001366.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "פחדים",
+      "gloss": "на стравови"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "во ушите негови"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "во спокој"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "разурнувачот"
+    },
+    {
+      "surface": "יבואנו",
+      "gloss": "ќе дојде врз него"
+    }
+  ],
+  "timestamp": "2026-10-20T00:10:01.367113899Z",
+  "model": "glm-5.3"
+}

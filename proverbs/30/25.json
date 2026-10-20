@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот нема копула — глаголот в4 во преводот носи предикат"
+    }
+  ],
+  "translation": "Мравките ⟨се⟩ народ не силен, а подготвуваат во лето храната своја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b20a2793d8e7190392732e592dc13d0bc7f0f8535555ce7aa04fba50fe474cb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/30\/25-28.1792454769208.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "мравките"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עז",
+      "gloss": "силен"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "а подготвуваат"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "во лето"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "храната своја"
+    }
+  ],
+  "timestamp": "2026-10-20T00:06:09.208979228Z",
+  "model": "glm-5.3"
+}

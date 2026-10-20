@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 20:34",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ביד חזקה…",
+      "rationale": "Тројната формула од Излез 15 повторена буквално, сега свртена кон суд наменет на самиот Израел."
+    }
+  ],
+  "translation": "И ќе ве изведам ⟨את⟩ вас од народите, и ќе ве соберам ⟨את⟩ вас од земјите во кои бевте расфрлени во нив, со силна рака и со испружена мишка и со излеан гнев.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e1e647a4e008bf21d9dcaff0656403b2a6b70eae36fe96cbbd69081d11b36008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/20\/33-36.1792451653999.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "И ќе ве изведам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "וקבצתי",
+      "gloss": "и ќе ве соберам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "земјите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "во кои"
+    },
+    {
+      "surface": "נפוצתם",
+      "gloss": "бевте расфрлени"
+    },
+    {
+      "surface": "בם",
+      "gloss": "во нив"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "со рака"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "силна"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "и со мишка"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "испружена"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "и со гнев"
+    },
+    {
+      "surface": "שפוכה",
+      "gloss": "излеан"
+    }
+  ],
+  "timestamp": "2026-10-19T23:14:14.000808538Z",
+  "model": "glm-5.3"
+}

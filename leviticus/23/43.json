@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 23:43",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Македонскиот бара копула; хебрејскиот ја нема (אני יהוה אלהיכם)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "населив",
+      "rationale": "הושבתי е каузатив од ישב — 'направив да седат\/пребиваат'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בסכות",
+      "rationale": "Некои читаат 'во Сукот' како место во Египет (Числа 33:5), но 'во колиби' одговара на стих 42."
+    }
+  ],
+  "translation": "за да знаат поколенијата ваши дека во колиби Γסכותך населив ⟨את⟩ синовите на Јисраел кога ⟨את⟩ ги изведов од земјата Мицраим; јас сум Јахве Елохим ваши.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d1b6a9ef5a7434d3bcd68141cbbafa241fac0cd0ae29cd8505abf6465b79ebb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/23\/41-44.1792444504087.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знаат"
+    },
+    {
+      "surface": "דרתיכם",
+      "gloss": "поколенијата ваши"
+    },
+    {
+      "surface": "כי",
+      "gloss": " дека"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "во колиби"
+    },
+    {
+      "surface": "הושבתי",
+      "gloss": "населив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синовите на Јисраел"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "בהוציאי",
+      "gloss": "когога изведов"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ги"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елохим ваши"
+    }
+  ],
+  "timestamp": "2026-10-19T21:15:04.094293089Z",
+  "model": "glm-5.3"
+}

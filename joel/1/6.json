@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joel 1:6",
+  "book": "joel",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "без број",
+      "rationale": "Стихот мери народот со бројка — безбројност — и го опишува со anatomija на лав."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שניו\/שני",
+      "rationale": "Коренот שן (заб) се повторува во knock — 'забите негови заби лав' — повторы загубен во македонскиот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לביא",
+      "rationale": "לביא е лавица (посурова од лав), не само 'лав' како во некои традиции."
+    }
+  ],
+  "translation": "Зашто народ се качи на земјата моја, моќен и ⟨е⟩ без број; забите негови — заби на лав, и мелечки на лавица има ⟨тој⟩.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "eb19395cae460333275cc61b3c8eeb117bc76aacfc17371649ddbb54cb86eb24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joel\/1\/5-8.1792452320779.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "се качи"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "земјата моја"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "моќен"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и ⟨е⟩ без"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "број"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "забите негови"
+    },
+    {
+      "surface": "שני",
+      "gloss": "заби"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "лав"
+    },
+    {
+      "surface": "ומתלעות",
+      "gloss": "и мелечки"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "лавица"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨го⟩ има"
+    }
+  ],
+  "timestamp": "2026-10-19T23:25:20.780599919Z",
+  "model": "glm-5.3"
+}

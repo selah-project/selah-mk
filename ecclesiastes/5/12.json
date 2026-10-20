@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רעה … לרעתו",
+      "rationale": "„Зло“ на почетокот и „за неговото зло“ на крајот — ист корен רע го обвиткува стихот, хијазам на лошата судбина."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חולה",
+      "gloss": "придавка „болешливо“",
+      "rationale": "Причаст од חלה, „што го тачи како болест“ — JPS „големо зло“, ние ја чуваме сликата."
+    }
+  ],
+  "translation": "Има зло болешливо што го видов под сонцето: богатство чувано за неговиот господар — за неговото зло.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4632ec4aaa2098b83ecc721b2b13f6a0616dadb8765a466c0c091d42c1aeb6c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/5\/9-12.1792455679332.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "болешливо"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "го видов"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцето"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "чувано"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "за неговиот господар"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "за неговото зло"
+    }
+  ],
+  "timestamp": "2026-10-20T00:21:19.333838738Z",
+  "model": "glm-5.3"
+}

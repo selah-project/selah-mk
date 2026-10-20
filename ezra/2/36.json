@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 2:36",
+  "book": "ezra",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "почеток на списокот на свештениците",
+      "rationale": "Број напишан со зборови, како хебрејскиот."
+    }
+  ],
+  "translation": "Свештениците: синовите на Једаја, од домот на Јешуа, деветстотини седумдесет и три.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "57dc5f16f76c06e04f221486c0c9b0bd6a614c2112ba034fc13df331994b772e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezra\/2\/33-36.1792456279599.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "Свештениците"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Једаја"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "од домот"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Јешуа"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "девет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотини"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "седумдесет"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "и три"
+    }
+  ],
+  "timestamp": "2026-10-20T00:31:19.600696676Z",
+  "model": "glm-5.3"
+}

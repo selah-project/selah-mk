@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Моше",
+      "rationale": "Јахве му говори директно на Моше во второ лице — ветување за идното дело"
+    }
+  ],
+  "translation": "И ќе ја испружам ⟨את⟩ раката Своја и ќе го поразам ⟨את⟩ Мицраим со сите Мои чудеса што ќе ги направам меѓу него; а потоа тој ќе ве пушти ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2005100f72f4c77e74267f87ec30189fb5e0dbda32230829456b792831c36db5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/3\/17-20.1792443396826.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "И ќе ја испружам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "раката"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "раката Своја"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "и ќе го поразам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мицраим"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "со сите"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "Мои чудеса"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ќе ги направам"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "меѓу него"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "а"
+    },
+    {
+      "surface": "כן",
+      "gloss": "потоа"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "тој ќе пушти"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ве",
+      "marks": "вас"
+    }
+  ],
+  "timestamp": "2026-10-19T20:56:36.851292509Z",
+  "model": "glm-5.3"
+}

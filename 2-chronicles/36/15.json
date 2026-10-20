@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 36:15",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השכם ושלוח",
+      "rationale": "букв. 'стана рано и испраќа' — идиом за неуморно, постојано испраќање"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ביד מלאכיו",
+      "rationale": "букв. 'пеку рака на пратениците свои' — 'пеку' стои наместо 'пеку рака'"
+    }
+  ],
+  "translation": "И Јахве, Елохим на татковците нивни, испраќаше кај нив преку пратениците свои — стана рано и испраќаше — зашто поштеде народот свој и живеалиштето свое.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8fd75fa6591a7f4e30f9e8aa317af573ad33a5c5a2f5545d17328d4b3b60cd67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/36\/13-16.1792457945639.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "и испраќаше"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "татковците нивни"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "кај нив"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "пеку"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "пратениците свои"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "стана рано"
+    },
+    {
+      "surface": "ושלוח",
+      "gloss": "и испраќаше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "поштеде"
+    },
+    {
+      "surface": "על",
+      "gloss": "кон"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народот свој"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и кон"
+    },
+    {
+      "surface": "מעונו",
+      "gloss": "живеалиштето свое"
+    }
+  ],
+  "timestamp": "2026-10-20T00:59:05.641040634Z",
+  "model": "glm-5.3"
+}

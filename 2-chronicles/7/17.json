@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 7:17",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ходи пред",
+      "rationale": "לפני е 'пред лицето' — буквално 'пред Моето лице'"
+    },
+    {
+      "kind": "elision",
+      "subject": "חקי ומשפטי",
+      "rationale": "хебрејскиот има само два именски пара без глагол; македонскиот бара глагол 'да пазиш' на крајот"
+    }
+  ],
+  "translation": "А ти, ако одиш пред Мене, како што одеше Давид, татко ти, и ако правиш сè што ти заповедав, и го пазиш она што го пазиш — моите наредби и моите судови,",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2dddcb1eadcdc9f7842a8d4fb48ce28d2f696cbfd6ddcc2c5aaf4ead0e37e03f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/7\/17-20.1792457448179.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред Мене"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "одеше"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "татко ти"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "и да правиш"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "ти заповедав"
+    },
+    {
+      "surface": "וחקי",
+      "gloss": "моите наредби"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "моите судови"
+    },
+    {
+      "surface": "תשמור",
+      "gloss": "да пазиш"
+    }
+  ],
+  "timestamp": "2026-10-20T00:50:48.180337775Z",
+  "model": "glm-5.3"
+}

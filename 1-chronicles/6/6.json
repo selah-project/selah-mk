@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "rodoslovie",
+      "rationale": "продолжение на листата на поколенија"
+    }
+  ],
+  "translation": "Јоах, синот негов; Идо, синот негов; Зерах, синот негов; Јеатрај, синот негов.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5658c6265166edcaf929a5ffad7d701dd9f00b30a1817adeab50313f39113b62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/6\/5-8.1792456849194.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "Јоах"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот негов"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "Идо"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот негов"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот негов"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "Јеатрај"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот негов"
+    }
+  ],
+  "timestamp": "2026-10-20T00:40:49.195073710Z",
+  "model": "glm-5.3"
+}

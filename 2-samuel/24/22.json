@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 24:22",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот е именска реченица без копула"
+    },
+    {
+      "kind": "you",
+      "subject": "до Давид",
+      "rationale": "Аравна му се обраќа на царот со понуда"
+    }
+  ],
+  "translation": "И рече Аравна на Давид: Нека земе и нека принесе господарот мој, царот, она што е добро во очите негови; еве, говедата ⟨се⟩ за сепалена жртва, а гребалата и опремата на говедата ⟨се⟩ за дрва.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "eef23091f1960a4a3cb001a5ece3a77b5eaa80131300db4cd2e7f250f6a1ce02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/24\/21-24.1792448509576.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Аравна"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "нека земе"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "и нека принесе"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господарот мој"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "она што е добро"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "во очите негови"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "еве"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "говедата"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "за сепалена жртва"
+    },
+    {
+      "surface": "והמרגים",
+      "gloss": "а гребалата"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "и опремата"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "на говедата"
+    },
+    {
+      "surface": "לעצים",
+      "gloss": "за дрва"
+    }
+  ],
+  "timestamp": "2026-10-19T22:21:49.577942105Z",
+  "model": "glm-5.3"
+}

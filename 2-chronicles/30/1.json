@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 30:1",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨порака⟩",
+      "rationale": "хебрејскиот вели само „испрати низ“; објектот е подразбиран"
+    },
+    {
+      "kind": "substitution",
+      "subject": "песах",
+      "rationale": "פסח е задржан како песах, не „Велигден“ или „Пасха“ на традиционалниот начин"
+    },
+    {
+      "kind": "measurement",
+      "subject": "покана",
+      "rationale": "стиховите носат повик до сите — покана до цел народ"
+    }
+  ],
+  "translation": "И Хизкијаху испрати ⟨порака⟩ низ цел Јисраел и Јехуда, и напиша и писма до Ефраим и Манаше, да дојдат во домот на Јахве во Јерушалаим, да прават песах за Јахве, Елохим на Јисраел.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "82adde529565cb408ab5347a4164ad69f0939b7edb167d3900c6489abd01e9ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/30\/1-4.1792457825466.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "испрати"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хизкијаху"
+    },
+    {
+      "surface": "על",
+      "gloss": "низ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "и Јехуда"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и исто така"
+    },
+    {
+      "surface": "אגרות",
+      "gloss": "писма"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "напиша"
+    },
+    {
+      "surface": "על",
+      "gloss": "до"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраим"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "и Манаше"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "да дојдат"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "во Јерушалаим"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да прават"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "песах"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-20T00:57:05.467376647Z",
+  "model": "glm-5.3"
+}

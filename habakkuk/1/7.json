@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема глагол-сврзница, македонскиот бара"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושאתו",
+      "rationale": "„неговото издигнување“\/„величественост“ (KJV dignity) наспроти „неговото кревање“ — ист збор значи и лепрозна краста"
+    },
+    {
+      "kind": "substitution",
+      "subject": "суд",
+      "rationale": "משפטו може да значи и „правило\/закон“ (JPS law) — Калдејците сами си се закон"
+    }
+  ],
+  "translation": "Страшен ⟨е⟩ и ℕужасен тој — неговиот суд и неговото издигнување од него самиот излегуваат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "547d8f9fac122dc5605a508cfadacbc5242deb7f338d5dadf9e692987d96aac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/habakkuk\/1\/5-8.1792452587351.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "страшен"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "и ℕужасен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од него самиот"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "неговиот суд"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "и неговото издигнување"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излегуваат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:29:47.352786177Z",
+  "model": "glm-5.3"
+}

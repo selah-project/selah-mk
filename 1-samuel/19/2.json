@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 19:2",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "те молам",
+      "rationale": "נא е благ поручен делче што бара мека наредба"
+    },
+    {
+      "kind": "idiom",
+      "subject": "השמר",
+      "gloss-rationale": "буквално 'огради се' (שמר — ограда со трње), рендерирано како 'чувај се'"
+    }
+  ],
+  "translation": "И Јонатан му јави на Давид, велејќи: бара Шаул, татко ми, да те убие; а сега, те молам, чувај се наутро и седни во скривалиште и скриј се.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "8aa75d55e958161244f0b5750fd14d1a199e0a0c6a110c5ab9cfb236f7ad040f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/19\/1-4.1792447873543.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "И јави"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Јонатан"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "бара"
+    },
+    {
+      "surface": "шאул",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "татко ми"
+    },
+    {
+      "surface": "להמיתך",
+      "gloss": "да те убие"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "чувај се"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молам"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "наутро"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "и седни"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "во скривалиште"
+    },
+    {
+      "surface": "ונחבאת",
+      "gloss": "и скриј се"
+    }
+  ],
+  "timestamp": "2026-10-19T22:11:13.544417690Z",
+  "model": "glm-5.3"
+}

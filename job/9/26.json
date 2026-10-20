@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 9:26",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עם אניות אבה",
+      "rationale": "„поминаа со бродови од папирус“ наспроти „поминаа како бродови“ — עим буквално значи „со“"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אכל",
+      "rationale": "може и „плен“ — орел се фрла врз плен, но зборот е буквално „храна“"
+    }
+  ],
+  "translation": "Поминаа како бродови од папирус, како орел што се фрла врз храната.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4801450eb48f99f045c3af83460d9b6faffe4507bc4d9480dc0e2b91a1342361",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/9\/25-28.1792454929105.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלפו",
+      "gloss": "Поминаа"
+    },
+    {
+      "surface": "עם",
+      "gloss": "како"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "бродови"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "од папирус"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "како орел"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "што се фрла"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "врз"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "храната"
+    }
+  ],
+  "timestamp": "2026-10-20T00:08:49.106319159Z",
+  "model": "glm-5.3"
+}

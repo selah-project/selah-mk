@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": " refrainot",
+      "rationale": "Четворното повторување „ки леолам хасдо“ гради литургиско скалило: сите — Јисраел — Ахарон — оние што Го страхуваат Јахве"
+    },
+    {
+      "kind": "you",
+      "subject": "до оние што Го страхуваат Јахве",
+      "rationale": "Директен повик кон побожните"
+    }
+  ],
+  "translation": "Нека речат сега оние што Го страхуваат Јахве: зашто навеки ⟨трае⟩ хеседот ⟨Мu⟩.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3c25990045a90f821ca2b854677a058eee5ccc8c201918ed0faf2d728f337cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/118\/1-4.1792453957843.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Нека речат"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сега"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "оние што Го страхуваат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навеки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседот ⟨Мu⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T23:52:37.844400793Z",
+  "model": "glm-5.3"
+}

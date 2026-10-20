@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבן ואבן",
+      "rationale": "Буквално „камен и камен“ — два тежински камења, поголем за купување, помал за продавање; македонскиот мора да додаде смисла."
+    },
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "Хебрејскиот нема копула; македонскиот бара ⟨се⟩."
+    }
+  ],
+  "translation": "Одвратност за Јахве ⟨се⟩ камен и камен, и ваги на измама — не ⟨се⟩ добри.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ab643a5f95b9cdf83f94fc9e279b2f8ffca203d0efdbdd61a83f4b8eeae0ae8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/20\/21-24.1792454628154.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "одвратност"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "за Јахве"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камен"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "и камен"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "и ваги"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "на измама"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "се добри"
+    }
+  ],
+  "timestamp": "2026-10-20T00:03:48.155233948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 31:14",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "шаторот на сведоштвото",
+      "rationale": "אהל מועד буквално ’шатор на состанок\/назначено време‘ — ’на сведоштвото‘ е традиционален превод"
+    },
+    {
+      "kind": "you",
+      "subject": "Моше",
+      "rationale": "Јахве му говори директно на Моше со повелби"
+    }
+  ],
+  "translation": "И рече Јахве на Моше: Еве, се ближат твоите дни да умреш; повикај ⟨את⟩ Јехошуа и застанете во шаторот на сведоштвото, и Јас ќе го заповедам. И отиде Моше и Јехошуа, и застанаа во шаторот на сведоштвото.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f8cefc62ed7eac38a8bde6cc1d55b02abc2c7721250949ce82a14d2f7a1febd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/31\/13-16.1792445838560.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "се ближат"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "твоите дни"
+    },
+    {
+      "surface": "למות",
+      "gloss": "да умреш"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "повикај"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јехошуа"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "והתיצבו",
+      "gloss": "и застанете"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "во шаторот"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на сведоштвото"
+    },
+    {
+      "surface": "ואצונו",
+      "gloss": "и Јас ќе го заповедам"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "И отиде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "и Јехошуа"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "и застанаа"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "во шаторот"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на сведоштвото"
+    }
+  ],
+  "timestamp": "2026-10-19T21:37:18.562037474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "голотија открил",
+      "rationale": "ערות גלה — 'откри голотија' е стандарден заветски евфемизам за сексуален однос."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות יומתו",
+      "rationale": "Инфинитив-апсолутен: 'смрт да умрат'."
+    }
+  ],
+  "translation": "И човек што ќе легне со ⟨את⟩ жената на татко си — голотијата на татко си открил — смрт да умрат двајцата, крвта нивна е врз нив.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a844ce22b4fa34641a2fe568b760467669534102fd89196864f1a58e13bb24e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/20\/9-12.1792444412337.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "И човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ќе легне"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жената на татко си"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жената"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "на татко си"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "голотијата"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "на татко си"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "открил"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрт"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "да умрат"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "двајцата"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "крвта нивна"
+    },
+    {
+      "surface": "בם",
+      "gloss": "врз нив"
+    }
+  ],
+  "timestamp": "2026-10-19T21:13:32.342734558Z",
+  "model": "glm-5.3"
+}

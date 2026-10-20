@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 18:4",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "по стотици и по илјади",
+      "rationale": "излегување на војската по бројни единици"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אל יד השער",
+      "rationale": "буквално „кон раката на портата“ — крај портата, при работ на портата"
+    }
+  ],
+  "translation": "И им рече царот: Што е добро во вашите очи, тоа ќе го направам. И застана царот крај портата, и сите народи излегоа по стотици и по илјади.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c4ed79bcfc5e7bf4f572444922e534972c207ff6cff72c88b5b61a9131597514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/18\/1-4.1792448350102.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "е добро"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "во вашите очи"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ќе го направам"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и застана"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "крај"
+    },
+    {
+      "surface": "יד",
+      "gloss": "раб"
+    },
+    {
+      "surface": "השער",
+      "gloss": "на портата"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сите"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народи"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "излегоа"
+    },
+    {
+      "surface": "למאות",
+      "gloss": "по стотици"
+    },
+    {
+      "surface": "ולאלפים",
+      "gloss": "и по илјади"
+    }
+  ],
+  "timestamp": "2026-10-19T22:19:10.105234378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Елион",
+      "rationale": "עליון е титула 'Највисокиот', задржана како име според звучниот принцип"
+    }
+  ],
+  "translation": "да го извиткува правото на човекот спроти лицето на Елион —",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5047c71056e8c3eaa159ad36b996425ee09a8f74987f72255ae9a475137d3617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/3\/33-36.1792455609877.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "да го извиткува"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правото"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "на човекот"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "на Елион"
+    }
+  ],
+  "timestamp": "2026-10-20T00:20:09.878781728Z",
+  "model": "glm-5.3"
+}

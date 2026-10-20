@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нема да се скине",
+      "rationale": "לא…ינתק е буквално „нема да биде откинат“ — македонскиот бара сврзан глагол"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "1→2→3",
+      "rationale": "скалата еден\/два\/троструки развива низ 9–12 во згора космолошка структура на приќа"
+    }
+  ],
+  "translation": "И ако го совлада едниот, двата ќе стојат спроти него; а конецот троструки набрзина нема да се скине.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "da31e3970c32c59c4f9f012eaedb32f6b05f7cec520d2046e0f09b862f94130b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/4\/9-12.1792455666113.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "го совлада"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "едниот"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "двата"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ќе стојат"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "спроти него"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "а конецот"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "троструки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "набрзина"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "ќе се скине"
+    }
+  ],
+  "timestamp": "2026-10-20T00:21:06.114801635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 4:3",
+  "book": "ruth",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "продаде",
+      "rationale": "מכרה се чита или какоperfect 'продаде' или како 'продава' (намерава да продаде) — ЈПС и КЈВ се разделуваат тука"
+    },
+    {
+      "kind": "you",
+      "subject": "до откупувачот",
+      "rationale": "обраќање на Воаз до роднината во присуство на старешините"
+    }
+  ],
+  "translation": "И му рече на откупувачот: Парче нива што е на нашиот брат, на Елимелек, го продаде Ноеми, таа што се врати од нивата Моав.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f9f10f41f90983eba33f5e91f718cbea656441d54503a322e36385173b5c96e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ruth\/4\/1-4.1792455549213.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "на откупувачот"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "парче"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "нива"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לאחינו",
+      "gloss": "на нашиот брат"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "на Елимелек"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "продаде"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Ноеми"
+    },
+    {
+      "surface": "השבה",
+      "gloss": "таа што се врати"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "од нивата"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    }
+  ],
+  "timestamp": "2026-10-20T00:19:09.214414187Z",
+  "model": "glm-5.3"
+}

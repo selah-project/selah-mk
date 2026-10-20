@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 21:15",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "дено ви врз дено ви",
+      "rationale": "חולי поврзува болеста со текот на времето — мерка на страдањето."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חליים \/ מחלה \/ החלי",
+      "rationale": "Коренот חלה се повторува трипати во еден стих, што го врзува Detail-от на казната."
+    }
+  ],
+  "translation": "а ти — со многу болести, со болест на цревата твои, додека излезат цревата твои од болеста, дено ви врз дено ви",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "270b1372386bdb0e525b25a281ff27f89f3e0f1a81a0b28b0c138fc987c6f5ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/21\/13-16.1792457694188.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "בחליים",
+      "gloss": "со болести"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многу"
+    },
+    {
+      "surface": "במחלה",
+      "gloss": "со болест"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "на цревата твои"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "излезат"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "цревата твои"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "болеста"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дено ви"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дено ви"
+    }
+  ],
+  "timestamp": "2026-10-20T00:54:54.190116550Z",
+  "model": "glm-5.3"
+}

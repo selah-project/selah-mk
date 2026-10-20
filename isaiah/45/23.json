@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 45:23",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשבעתי \/ תשבע",
+      "rationale": "клетвата (шева) на почетокот се повторува во заколнувањето на секој јазик — коренот שבע ги поврзува"
+    }
+  ],
+  "translation": "Кај себе се заколнав: од устата ми во праведност излезе слово и нема да се врати, дека мене ќе падне на колено секое колено, ќе се заколне секој јазик.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "d8abf4e963898c70c2c03225f104d787dae45d16d992388ac19f7f3aefe7fc9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/45\/21-24.1792450141972.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "кај себе"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "се заколнав"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излезе"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "од устата ми"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "во праведност"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "да се врати"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "תכרע",
+      "gloss": "ќе падне на колено"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секое"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "колено"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ќе се заколне"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "јазик"
+    }
+  ],
+  "timestamp": "2026-10-19T22:49:01.973375531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 5:18",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "44.760",
+      "rationale": "Точен број на војници — бројот вели што вели хебрејскиот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "хајл",
+      "rationale": "חיל е сила\/храброст\/војска — задржан како haил-поим, не сведен само на 'храбри'."
+    }
+  ],
+  "translation": "Синовите на Реувен и Гадитите и половината од племето Менаше — од синовите на хајл, мажи што носат штит и меч и што ја напнуваат лукот, извежбани во војна — четириесет и четири илјади и седумстотини и шеесет, оние што излегуваа во војска.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fe7e7f0a27bae188c36cb8b96d1e45feabf0e57fa8c9350e44ffd41051d42b3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/5\/17-20.1792456884832.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовите на"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "וגדי",
+      "gloss": "и Гадитите"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "и половината од"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "племето"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите на"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "хајл"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "мажи"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "што носат"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "штит"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "и меч"
+    },
+    {
+      "surface": "ודרכי",
+      "gloss": "и што ја напнуваат"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лукот"
+    },
+    {
+      "surface": "ולמודי",
+      "gloss": "извежбани во"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "војна"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четириесет"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "и четири"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и седум"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотини"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "и шеесет"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "они што излегуваа во"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "војска"
+    }
+  ],
+  "timestamp": "2026-10-20T00:41:24.833010544Z",
+  "model": "glm-5.3"
+}

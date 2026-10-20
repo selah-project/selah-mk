@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хеседи",
+      "rationale": "חסד не се преведува сам — 'љубовна добрина' е само приближение"
+    },
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "хебрејскиот presents זכר како императив без поврзувачки глагол"
+    }
+  ],
+  "translation": "Сети се на милостите свои, Јахве, и на своите хеседи, зашто тие се ⟨од⟩ вечност.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f7ebeadd221aa1a9245f9ca19263a00eaddb9c85ee6c267665cbf89101b3ed0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/25\/5-8.1792453074784.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Сети се"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "на милостите свои"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "и на своите хеседи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "од вечност"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие"
+    }
+  ],
+  "timestamp": "2026-10-19T23:37:54.785504288Z",
+  "model": "glm-5.3"
+}

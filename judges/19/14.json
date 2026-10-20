@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 19:14",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот го нема глаголот „да е“ во оваа придавска реченица"
+    },
+    {
+      "kind": "idiom",
+      "subject": "им зајде сонцето",
+      "rationale": "буквално „сонцето влезе за нив“ — зајдување на сонцето"
+    }
+  ],
+  "translation": "И поминаа понатаму и одеа, и им зајде сонцето крај Гивата, што ⟨е⟩ на Бинјамин.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "26878f60e183d9b8844bb88e2b9af0f88b3a38f74be6821d52ba23aae5cc29b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/19\/13-16.1792446607989.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "И поминаа понатаму"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "и одеа"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "и им зајде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцето"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "крај"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Гивата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לבנימן",
+      "gloss": "на Бинјамин"
+    }
+  ],
+  "timestamp": "2026-10-19T21:50:07.990686616Z",
+  "model": "glm-5.3"
+}

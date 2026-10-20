@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "רוח тука е наклонетост\/подбив кај народите — 'духот' во смисла на вообичаен гнев, не ветер ниту Дух."
+    },
+    {
+      "kind": "alternative",
+      "subject": "разбуди",
+      "rationale": "ויער буквално 'разбуди' (како од сон) — задржано буквално; традиционално 'поттикна'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "על יד כושים",
+      "rationale": "Буквално 'врз раката на Кушитите' — идиом 'крај\/до', сличен на рака под рака."
+    }
+  ],
+  "translation": "И Јахве разбуди против Јехорам ⟨את⟩ руахот на Плиштимците и Арапите што се крај Кушитите",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "270b1372386bdb0e525b25a281ff27f89f3e0f1a81a0b28b0c138fc987c6f5ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/21\/13-16.1792457694188.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "разбуди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Јехорам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руахот на Плиштимците"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руахот"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "на Плиштимците"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "и Арапите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "על",
+      "gloss": "крај"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рака"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "Кушитите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:54:54.190286139Z",
+  "model": "glm-5.3"
+}

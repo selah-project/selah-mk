@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 1:22",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот нема копула кај „воздивовите многубројни“"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "стихот е директен обрт кон Елохим\/Јахве — молитва за одмазда врз непријателите"
+    }
+  ],
+  "translation": "Нека дојде сета нивната злоба пред Тебе, и постапи со нив како што постапи со мене поради сите мои престапи, зашто моите воздивови ⟨се⟩ многубројни и срцето мое е болно.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c2b80fac926c5eb96fbc8b3a9bab9972ff4da01577434f25f4d5a5c1c4473632",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/1\/21-22.1792455490404.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבא",
+      "gloss": "нека дојде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сета"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "нивната злоба"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред Тебе"
+    },
+    {
+      "surface": "ועולל",
+      "gloss": "и постапи"
+    },
+    {
+      "surface": "למו",
+      "gloss": "со нив"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "עוללת",
+      "gloss": "постапи"
+    },
+    {
+      "surface": "לי",
+      "gloss": "со мене"
+    },
+    {
+      "surface": "על",
+      "gloss": "поради"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "мои престапи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "многубројни"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "моите воздивови"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "и срцето мое"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "болно"
+    }
+  ],
+  "timestamp": "2026-10-20T00:18:10.405439193Z",
+  "model": "glm-5.3"
+}

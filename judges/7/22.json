@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 7:22",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "צררתה",
+      "rationale": "Церера се јавува само тука во Танах; местоположба несигурна."
+    },
+    {
+      "kind": "crux",
+      "subject": "שפת אבל מחולה",
+      "rationale": "שפת буквално 'усна', тука 'раб\/граница' на Авел-Мехола."
+    }
+  ],
+  "translation": "И засвирија триста ⟨три стотини⟩ шофара, и Јахве го постави ⟨את⟩ мечот на секој човек врз ближниот негов, и врз сиот логор; и побегна логорот до Бет-ха-Шита, кон Церера, до работ на Авел-Мехола, кај Тават.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "8699ab3f9bafa683adfbd66a3ac3ee0b966786419dd34a1a2f0cf0bc64631a3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/7\/21-24.1792446417106.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתקעו",
+      "gloss": "И засвирија"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотини"
+    },
+    {
+      "surface": "השופרות",
+      "gloss": "шофарите"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "и постави"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мечот"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мечот"
+    },
+    {
+      "surface": "איש",
+      "gloss": "на секој човек"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "врз ближниот негов"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "и врз сиот"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логор"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "и побегна"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логорот"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "השטה",
+      "gloss": "ха-Шита"
+    },
+    {
+      "surface": "צררתה",
+      "gloss": "Церера"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "до работ на"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Авел"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Мехола"
+    },
+    {
+      "surface": "על",
+      "gloss": "кај"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "Тават"
+    }
+  ],
+  "timestamp": "2026-10-19T21:46:57.107847685Z",
+  "model": "glm-5.3"
+}

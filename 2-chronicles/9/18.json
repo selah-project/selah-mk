@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 9:18",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "наслони",
+      "rationale": "יד буквално е „раце“; станува збор за наслони за раце на престолот."
+    },
+    {
+      "kind": "measurement",
+      "subject": "шест скалила",
+      "rationale": "Стихот брои и мери: шест скалила, два лавова."
+    },
+    {
+      "kind": "crux",
+      "subject": "מאחזים",
+      "rationale": "Причесниотpassiv „фатени\/прицврстени“ — нејасно дали се однесува на подножјето или на скалилата."
+    }
+  ],
+  "translation": "и шест скалила ⟨за⟩ престолот, и подножје од злато ⟨за⟩ престолот, прицврстено, и наслони од оваа и од оваа страна на местото за седење, и два лавови што стојат крај наслоните.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "01129f42fc0b3da6765dd5221d2d6a527dde3cd827aedd4ecef30445c64d3b7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/9\/17-20.1792457478883.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישש",
+      "gloss": "и шест"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "скалила"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "⟨за⟩ престолот"
+    },
+    {
+      "surface": "וכבש",
+      "gloss": "и подножје"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "од злато"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "⟨за⟩ престолот"
+    },
+    {
+      "surface": "מאחזים",
+      "gloss": "прицврстено"
+    },
+    {
+      "surface": "וידות",
+      "gloss": "и наслони"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "од оваа"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "и од оваа"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "местото"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "за седење"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "лавови"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "што стојат"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "крај"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "наслоните"
+    }
+  ],
+  "timestamp": "2026-10-20T00:51:18.883783933Z",
+  "model": "glm-5.3"
+}

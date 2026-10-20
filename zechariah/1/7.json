@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 1:7",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "датум",
+      "rationale": "Прецизно бројане: ден, месец (Шеват), година на Даријавош."
+    },
+    {
+      "kind": "addition",
+      "subject": "тоа е",
+      "rationale": "הוא е заменска копула во хебрејскиот, македонскиот бара „тоа е“ за апозицијата."
+    }
+  ],
+  "translation": "На дваесеттиот и четвртиот ден од единаесеттиот месец — тоа е месецот Шеват — во втората година на Даријавош, беше слово од Јахве кон Зехарија, синот на Берехја, синот на Идо, пророкот, велејки:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b47d37d8edb5edd02935e6e7236a29661474fd9b8b36d8fa39f3db2a41df2789",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/1\/6-7.1792458324856.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "На денот"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "дваесеттиот"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "и четвртиот"
+    },
+    {
+      "surface": "לעשתי",
+      "gloss": "од единаесеттиот"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "месец"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тоа е"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "месецот"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "Шеват"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "во годината"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "втората"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "на Даријавош"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Зехарија"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "на Берехја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "עדוא",
+      "gloss": "на Идо"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "порокот"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејки"
+    }
+  ],
+  "timestamp": "2026-10-20T01:05:24.857245692Z",
+  "model": "glm-5.3"
+}

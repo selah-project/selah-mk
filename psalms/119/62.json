@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדק останува цедек според D2, не 'праведност' сама"
+    }
+  ],
+  "translation": "На половина од ноќта ќе станам да Ти оддам благодарност за судовите на Твојот цедек.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e444bba5aa249d029a8be610aad1dc0f13a0206eda6a5444bf22799cbdfac3a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/61-64.1792454006451.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "на половина од"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноќта"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ќе станам"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "да оддам благодарност"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "судовите на"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "Твојот цедек"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:26.452405017Z",
+  "model": "glm-5.3"
+}

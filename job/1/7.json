@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "сатаната",
+      "rationale": "Јахве директно ја поставува прашањето на сатаната."
+    },
+    {
+      "kind": "substitution",
+      "subject": "шетање",
+      "rationale": "משוט од корен 'да плови\/бича море' — ретка слика на брзо движење напред-назад по земјата."
+    }
+  ],
+  "translation": "И рече Јахве кон сатаната: Од каде доаѓаш? И одговори сатаната ⟨את⟩ Јахве и рече: Од шетање по земјата и од проштанување по неа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b61aea21236c7caf7ce09edca0c4f7e0a2c7373347756c03600e975fba37f913",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/1\/5-8.1792454832658.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "сатаната"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Од каде"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "доаѓаш"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "И одговори"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "сатаната"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "Од шетање"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "по земјата"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "и од проштанување"
+    },
+    {
+      "surface": "בה",
+      "gloss": "по неа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:07:12.660418342Z",
+  "model": "glm-5.3"
+}

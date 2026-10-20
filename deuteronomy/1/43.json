@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מרו את פי יהוה",
+      "rationale": "Буквално ' го омражија устата на Јахве' — идиом за бунт против заповедта."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ותזדו",
+      "rationale": "Од זיד 'да врие, да биде дрско\/надмено' — реткорен што носи слика на вриење од ароганција."
+    }
+  ],
+  "translation": "И ви зборував, но не послушавте, туку се побунивте против ⟨את⟩ устата на Јахве, и постапивте дрско, и се качивте на планината.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "44f53345cdaabfbc8209d279cd2e4fb1382db032652a05e1db828a68791e358e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/1\/41-44.1792445290668.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "и ви зборував"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "послушавте"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "се побунивте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "устата"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "постапивте дрско"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "и се качивте"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "на планината"
+    }
+  ],
+  "timestamp": "2026-10-19T21:28:10.669719276Z",
+  "model": "glm-5.3"
+}

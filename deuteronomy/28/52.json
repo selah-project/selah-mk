@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 28:52",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "והצר...והצר",
+      "rationale": "повторување на 'ќе те стесни' на почетокот и во средината — опколување што се дуплира како војската"
+    }
+  ],
+  "translation": "и ќе те стесни во сите твои порти, додека не паднат бедемите твои високи и утврдени, во кои ти се надеваш, во сета твоја земја; и ќе те стесни во сите твои порти, во сета твоја земја што ти ја даде Јахве, Елохим твојот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d9c1070918b948b1ffb6befc271e49ab0d5a64565aab3762e173bb32455e82f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/28\/49-52.1792445755026.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצר",
+      "gloss": "и ќе те стесни"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во сите"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "твои порти"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "רדת",
+      "gloss": "не паднат"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "бедемите твои"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "високи"
+    },
+    {
+      "surface": "והבצרות",
+      "gloss": "и утврдени"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "во кои"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "се надеваш"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "во нив"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во сета"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "твојата земја"
+    },
+    {
+      "surface": "והצר",
+      "gloss": "и ќе те стесни"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во сите"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "твои порти"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во сета"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "твојата земја"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твојот"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-10-19T21:35:55.027931237Z",
+  "model": "glm-5.3"
+}

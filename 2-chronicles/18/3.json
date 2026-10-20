@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 18:3",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨сме⟩",
+      "rationale": "хебрејскиот елиптично вели само „и со тебе во војната“ — глаголот е додаден"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כמוני כמוך וכעמך עמי",
+      "rationale": "напоредна рамнотеж „како јас — како ти, како твојот народ — мојот народ“, одѕив на 1 Сам 27:12"
+    }
+  ],
+  "translation": "И рече Ахав, царот на Јисраел, на Јехошуа, царот на Јуда: Дали ќе одиш со мене во Рамот Гилад? И рече му: Како што сум јас, така си и ти; и народот мој е како твојот народ, и со тебе ⟨ сме ⟩ во војната.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2c2d761bb9e2a0804c12ef98992ba61f43b54c578b4ead2620dcce9be90f42a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/18\/1-4.1792457614441.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахав"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јуда"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "Дали ќе одиш"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "со мене"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Рамот"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилад"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "како што сум јас"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "така си и ти"
+    },
+    {
+      "surface": "וכעמך",
+      "gloss": "и како твојот народ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народот мој"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "и со тебе"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "во војната"
+    }
+  ],
+  "timestamp": "2026-10-20T00:53:34.442631739Z",
+  "model": "glm-5.3"
+}

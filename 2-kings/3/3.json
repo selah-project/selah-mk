@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "остана прилепен",
+      "rationale": "דבק е 'залепи се' — слика на прилепување кон гревовите што македонскиот ја задржува"
+    },
+    {
+      "kind": "addition",
+      "subject": "на грев",
+      "rationale": "хебрејскиот hифил החטיא е еден глагол 'направи да згреши'; македонскиот го разглобува"
+    }
+  ],
+  "translation": "Само на гревовите на Јеровоам, синот на Неват, со кои го наведе ⟨את⟩ Јисраел на грев, остана прилепен; не отстапи од нив.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "19fe0c2000f7dbb73d8737987b8ccb91540b4e43538241518ec9b61ec9f597f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/3\/1-4.1792449094918.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Само"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "на гревовите"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Јеровоам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "на Неват"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "со кои"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "наведе на грев"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јисраел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "остана прилепен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "סר",
+      "gloss": "отстапи"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "од нив"
+    }
+  ],
+  "timestamp": "2026-10-19T22:31:34.919921330Z",
+  "model": "glm-5.3"
+}

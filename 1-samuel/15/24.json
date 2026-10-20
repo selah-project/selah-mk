@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 15:24",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פי יהוה",
+      "rationale": "Буквално „устата на Јахве“ — македонскиот бара „словото\/заповедта“."
+    },
+    {
+      "kind": "idiom",
+      "subject": "שמע בקול",
+      "rationale": "„слуша во гласот на“ = послуша, покори се — чувам буквалната слика."
+    }
+  ],
+  "translation": "И Шаул рече на Шемуел: Згрешив, зашто го престапив ⟨את⟩ словото на Јахве и ⟨את⟩ твоите зборови, зашто се уплашив од ⟨את⟩ народот и послушав во нивниот глас.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6a4ce2c35245304daf488040292fe26c4891de0f1a0324a78843323e76997d3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/15\/21-24.1792446876338.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "згрешив"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "престапив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "словото"
+    },
+    {
+      "surface": "פי",
+      "gloss": "словото (устата)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "твоите зборови"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "твоите зборови"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "се уплашив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "и послушав"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "во нивниот глас"
+    }
+  ],
+  "timestamp": "2026-10-19T21:54:36.339527508Z",
+  "model": "glm-5.3"
+}

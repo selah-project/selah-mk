@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "тие се",
+      "rationale": "הנה е истакната заменка, македонскиот бара и копула"
+    },
+    {
+      "kind": "measurement",
+      "subject": "седум години",
+      "rationale": "броење на години — седум двапати"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבע",
+      "rationale": "„седум“ се повторува шест пати во стихот — рефренот се губи во природниот македонски ред"
+    }
+  ],
+  "translation": "Седум крави добри — седум години ⟨тие⟩ се; и седум класја добри — седум години ⟨тие⟩ се; еден сон ⟨е⟩ тој.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3c62cc1bca92a98f6bbdbee56730f533e913673a24b99e1daca77152506db55b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/41\/25-28.1792443112740.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "Седум"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "крави"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "добри"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седум"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и седум"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "класја"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "добри"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седум"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "сон"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    }
+  ],
+  "timestamp": "2026-10-19T20:51:52.744331575Z",
+  "model": "glm-5.3"
+}

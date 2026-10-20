@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידלק",
+      "rationale": "Коренот значи 'пламти': бедниот пламти\/горки — или нечесниот го гони пламтејќи; две традиционални читања."
+    },
+    {
+      "kind": "substitution",
+      "subject": "бедниот",
+      "rationale": "עני — пригнетен, сиромашен во душа и во околности."
+    }
+  ],
+  "translation": "Во арогантноста на нечесниот бедниот гори; нека бидат фатени во злосторничките замисли што ги намислија.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/10\/1-4.1792452938618.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "во арогантноста"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "на нечесниот"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "гори"
+    },
+    {
+      "surface": "עני",
+      "gloss": "бедниот"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "нека бидат фатени"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "во злосторничките замисли"
+    },
+    {
+      "surface": "זו",
+      "gloss": "што"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "намислија"
+    }
+  ],
+  "timestamp": "2026-10-19T23:35:38.618893118Z",
+  "model": "glm-5.3"
+}

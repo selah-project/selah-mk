@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 29:32",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "седумдесет · сто · двесте",
+      "rationale": "точна бројка на жртвите по видови"
+    },
+    {
+      "kind": "substitution",
+      "subject": "елени",
+      "rationale": "אילים според D4 е «елени»; традицијата вели «овни»"
+    }
+  ],
+  "translation": "И беше бројот на сепалениците што ги донесе соборот: говеда седумдесет, елени сто, јагниња двесте — за сепаленица на Јахве, сите овие.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "69abf1dc7e1f4639869cf5ed4aa7214240b5a18246e4d872bbec3f5559bd70a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/29\/29-32.1792457800735.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "бројот"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "на сепалениците"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ги донесе"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "соборот"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "говеда"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "седумдесет"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "елени"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "јагниња"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двесте"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "за сепаленица"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    }
+  ],
+  "timestamp": "2026-10-20T00:56:40.736646019Z",
+  "model": "glm-5.3"
+}

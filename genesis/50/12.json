@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "им",
+      "rationale": "македонскиот го бара предметот на наредбата; хебрејскиот צום е свртен кон нив"
+    }
+  ],
+  "translation": "И синовите негови му направија така, како што им наредил.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9042361f1e8eb44f2125d2309b6dfccdc9bb5d6c8bd95e50eda40fece25621ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/50\/9-12.1792443323647.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "и направија"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синовите негови"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "צום",
+      "gloss": "им наредил"
+    }
+  ],
+  "timestamp": "2026-10-19T20:55:23.655824844Z",
+  "model": "glm-5.3"
+}

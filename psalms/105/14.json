@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "караше",
+      "rationale": "יוכח е „расправаше\/обвинуваше“ — „кара“ е најблискиот еден збор"
+    }
+  ],
+  "translation": "Не допушти човек да ги потиснува, и караше за нив цареви.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9bcd5fa945c956f216e73e64353d732b6dd67505ae7714aa05e78c7dc51889dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/105\/13-16.1792453848231.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "допушти"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "да ги потиснува"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "и караше"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "за нив"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "цареви"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:48.232303563Z",
+  "model": "glm-5.3"
+}

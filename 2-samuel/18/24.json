@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 18:24",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "меѓу двете порти",
+      "rationale": "двојниот број на портите е точен топографски податок — Давид меѓу внатрешната и надворешната порта"
+    }
+  ],
+  "translation": "А Давид седеше меѓу двете порти. И отиде стражарот на покривот над портата, при ѕидот, и ги подигна ⟨את⟩ очите свои и виде — а еве, еден човек трча сам.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "cf93e87ca20eaabcd1acbc4ab3747aaa5a9188b559b6940a0b258d76eef56c6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/18\/21-24.1792448328978.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "А Давид"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "седеше"
+    },
+    {
+      "surface": "בין",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двете"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "порти"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "И отиде"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "стражарот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "גג",
+      "gloss": "покривот"
+    },
+    {
+      "surface": "השער",
+      "gloss": "над портата"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ѕидот"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "и ги подигна"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "очите свои"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "очите свои"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и виде"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "а еве"
+    },
+    {
+      "surface": "איש",
+      "gloss": "еден човек"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "трча"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "сам"
+    }
+  ],
+  "timestamp": "2026-10-19T22:18:48.981666627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 54:16",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרש\/משחית",
+      "rationale": "хиазам: создателот на алат и разурнувачот — обата создадени од Јахве, паралелен строеж אנכי בראתי… ואנכי בראתי"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כלי",
+      "rationale": "'сад\/алат' — воен контекст сугерира 'оружје', но зборот е општ 'направа'"
+    }
+  ],
+  "translation": "Ете, Јас го создадов ковачот што дува во оган од ќумур и што вади алат за своето дело; и Јас го создадов разурнувачот за рушење.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "07029e31779e38e20ce40c5d90e7c0bc6d56c8d23c6e669cd8b4f80e4e214651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/54\/13-16.1792450236037.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ете"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "го создадов"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ковачот"
+    },
+    {
+      "surface": "נפח",
+      "gloss": "дува"
+    },
+    {
+      "surface": "באש",
+      "gloss": "во оган"
+    },
+    {
+      "surface": "פחם",
+      "gloss": "од ќумур"
+    },
+    {
+      "surface": "ומוציא",
+      "gloss": "и што вади"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "алат"
+    },
+    {
+      "surface": "למעשהו",
+      "gloss": "за своето дело"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "и Јас"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "го создадов"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "разурнувачот"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "за рушење"
+    }
+  ],
+  "timestamp": "2026-10-19T22:50:36.039856003Z",
+  "model": "glm-5.3"
+}

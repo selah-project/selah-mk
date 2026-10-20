@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 2:9",
+  "book": "malachi",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשאים פנים",
+      "rationale": "Буквално „кренате лица“ — хебрејски израз за пристрасност\/фаворизирање."
+    },
+    {
+      "kind": "elision",
+      "subject": "אינכם",
+      "rationale": "Хебрејската негација со партиципата е предадена само со „не“."
+    }
+  ],
+  "translation": "И исто така јас ве направив ⟨את⟩ вас презрени и понизени пред сите луѓе, според тоа што вие не ги пазите ⟨את⟩ патиштата мои и гледате лица во Тората.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0f55e91eead03bf26917e2f572149bf92f7791d5599a0f8edf5e6a3b93faed60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/malachi\/2\/9-12.1792452870339.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "И исто така"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "направив"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "נבזים",
+      "gloss": "презрени"
+    },
+    {
+      "surface": "ושפלים",
+      "gloss": "и понизени"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "пред сите"
+    },
+    {
+      "surface": "העם",
+      "gloss": "луѓе"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "според тоа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "ги пазите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "патиштата"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "патиштата мои"
+    },
+    {
+      "surface": "ונשאים",
+      "gloss": "и кренате"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лица"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "во Тората"
+    }
+  ],
+  "timestamp": "2026-10-19T23:34:30.339762391Z",
+  "model": "glm-5.3"
+}

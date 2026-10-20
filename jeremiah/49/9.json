@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 49:9",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דים",
+      "rationale": "'нивната доволност' — дали крадците крадат колку што им треба, или разоруваат 'до крај'; преводите се делат."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוללות \/ דים",
+      "rationale": "поредица асонации на кратки 'о\/у' звуци во прашалните редови, изгубена во превод."
+    }
+  ],
+  "translation": "Ако берачи на грозје дојдоа кај тебе, ⟨не⟩ќе остават ли olovki? Ако крадци ноќе, тие разоруваат до доволно.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0300278fb040b790c5ae0e3d3a6232a7f7179eb3e875e9634d854d197dce0cb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/49\/9-12.1792451229227.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "בצרים",
+      "gloss": "берачи на грозје"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дојдоа"
+    },
+    {
+      "surface": "לך",
+      "gloss": "кај тебе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישארו",
+      "gloss": "ќе остават"
+    },
+    {
+      "surface": "עוללות",
+      "gloss": "олушки"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "גנבים",
+      "gloss": "крадци"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ноќе"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "разоруваат"
+    },
+    {
+      "surface": "דים",
+      "gloss": "до доволно"
+    }
+  ],
+  "timestamp": "2026-10-19T23:07:09.227743944Z",
+  "model": "glm-5.3"
+}

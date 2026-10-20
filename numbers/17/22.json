@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 17,
+  "translation": "И Моше ги положи ⟨את⟩ прачките пред Јахве, во шаторот на сведоштвото.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "25ee73993f97657849a70c545a02f6d2f1a9d8af04d1de72cb9cecabdd592a04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/17\/21-24.1792444925479.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "ги положи"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "прачките"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "прачките"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "во шаторот"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "на сведоштвото"
+    }
+  ],
+  "timestamp": "2026-10-19T21:22:05.481234419Z",
+  "model": "glm-5.3"
+}

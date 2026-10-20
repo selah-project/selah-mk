@@ -1,0 +1,146 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 47:6",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Македонскиот бара копула; хебрејскиот ја има како הוא само нагласено.",
+      "kind_note": null
+    },
+    {
+      "kind": "addition",
+      "subject": "ги",
+      "rationale": "Клитички заменски објект додаден на македонски кај ושמתם."
+    },
+    {
+      "kind": "you",
+      "subject": "до Јосеф",
+      "rationale": "Фараон му дава наредба директно на Јосеф."
+    }
+  ],
+  "translation": "Земјата Мицраим е пред тебе — во најдоброто од земјата насели ⟨את⟩ татко ти и ⟨את⟩ браќата ти; нека живеат во земјата Гошен. А ако знаеш, и ако има меѓу нив способни луѓе, постави ги за старешини над добитокот што е мој.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "de91aa49e0887abd0345def5187086bef1cf4696be0404be5e348d1a1f070434",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/47\/5-8.1792443269267.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред тебе"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨е⟩"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "во најдоброто"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "הושב",
+      "gloss": "насели"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "татко ти"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "татко ти"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "браќата ти"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "и браќата ти"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "нека живеат"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Гошен"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "А ако"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаеш"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "и ако има"
+    },
+    {
+      "surface": "בם",
+      "gloss": "меѓу нив"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "луѓе"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "способни"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "постави ги"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "за старешини"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "над добитокот"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לי",
+      "gloss": "е мој"
+    }
+  ],
+  "timestamp": "2026-10-19T20:54:29.297730724Z",
+  "model": "glm-5.3"
+}

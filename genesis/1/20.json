@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישרצו\/שרץ и עוף\/יעופף",
+      "rationale": "двојна парономасија: ист корен глагол+именка, делумно задржана со 'ројат\/рој'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "душа",
+      "rationale": "נפש е дишечко\/животно суштество, не бесмртна душа"
+    },
+    {
+      "kind": "substitution",
+      "subject": "рамнината",
+      "rationale": "רקיע — ист збор како во 1:17"
+    }
+  ],
+  "translation": "И рече Елохим: Нека ројат водите рој на жива душа, и птица нека лета над земјата, по лицето на рамнината на небото.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3d7ee85ee00b330d68da31cd2ba362a971dd108816d683c5d937666260e90550",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/1\/17-20.1792442387058.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "Нека ројат"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водите"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "рој"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "жива"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "и птица"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "нека лета"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "на рамнината"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "на небото"
+    }
+  ],
+  "timestamp": "2026-10-19T20:39:47.060865331Z",
+  "model": "glm-5.3"
+}

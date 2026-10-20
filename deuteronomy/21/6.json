@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "со скршен врат",
+      "rationale": "הערופה е причастие од ערף 'да го скрши вратот' — букв. 'скошиената', тука раскриено со хифенски опис."
+    },
+    {
+      "kind": "crux",
+      "subject": "во потокот",
+      "rationale": "נחל значи и 'поток' и 'суводолица\/долина' — KJV 'valley', BSB 'by the stream'."
+    }
+  ],
+  "translation": "И сите старешини на тој град, најблиски до прободениот, ќе ги измијат ⟨את⟩ рацете свои над јарницата со скршен врат во потокот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5100172d8d3cc7c5d7dfebd1ddd1efec1ff7763e7a64d8b22bbed8da8075b778",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/21\/5-8.1792445616124.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "И сите"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старешините на"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "најблиски"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "прободениот"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "ќе ги измијат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рацете свои"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "рацете свои"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "јарницата"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "со скршен врат"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "во потокот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:33:36.125382640Z",
+  "model": "glm-5.3"
+}

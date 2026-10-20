@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "маж",
+      "rationale": "גבר е силниот\/јунакот, не само „човек“ општо"
+    },
+    {
+      "kind": "crux",
+      "subject": "Тој го сака",
+      "rationale": "יחפץ — кој сака чии патишта: Јахве го сака патот на мажот (KJV\/JPS) или мажот го сака својот пат (некои преводи)"
+    }
+  ],
+  "translation": "Од Јахве чекорите на мажот се утврдени, и патот негов Тој го сака.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a13246e97a02c7faa3e9a509ae8ffa9dbb697ccf6ae0b306fdec14b5ea9e05e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/37\/21-24.1792453185334.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "Од Јахве"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "чекорите"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "на мажот"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "се утврдени"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "и патот негов"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "Тој го сака"
+    }
+  ],
+  "timestamp": "2026-10-19T23:39:45.335856397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душа",
+      "rationale": "нефеш е ближе до „грло\/животна сила“ — тука: мртов човек, покојник"
+    },
+    {
+      "kind": "crux",
+      "subject": "לנפש לא יטמא",
+      "rationale": "„за душа нека се не оскверни“ — дали значи за мртовец (KJV, JPS) или „за ниеден човек“ (ylt)"
+    },
+    {
+      "kind": "you",
+      "subject": "до Моше и свештениците",
+      "rationale": "директно обраќање: заповед до синовите на Ахарон"
+    }
+  ],
+  "translation": "И Јахве му рече на Моше: Кажи им на свештениците, синовите на Ахарон, и речи им: за ⟨една⟩ душа нека ⟨не⟩ се оскверни меѓу својот народ —",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a6508db9da17225b0f10434f35683c180c6502314d0992536520fa4b7174f560",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/21\/1-4.1792444414746.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Кажи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свештениците"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "на Ахарон"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и речи им"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "за душа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "нека се оскверни"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "меѓу својот народ"
+    }
+  ],
+  "timestamp": "2026-10-19T21:13:34.749452724Z",
+  "model": "glm-5.3"
+}

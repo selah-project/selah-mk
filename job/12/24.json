@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 12:24",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לב",
+      "rationale": "ASV „разум“; задржано букв. „срце“ — хебрејскиот центр на волја и ум."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהו ... דרך",
+      "rationale": "„празнина — без пат“: безобличност спроти исфатен пат, одек на Битие 1:2."
+    }
+  ],
+  "translation": "Им го одзема ⟨разумот⟩-срцето на главарите на народот на земјата и ги тера да лутаат во празнина, без пат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6cce5daa9ee4f23dd0efc89477366f23b0eabe562369eef9efcbe8ad2d0311d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/12\/21-24.1792454981605.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "Одзема"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срцето"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "на главарите"
+    },
+    {
+      "surface": "עם",
+      "gloss": "на народот"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "и ги тера да лутаат"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "во празнина"
+    },
+    {
+      "surface": "לא",
+      "gloss": "без"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пат"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:41.606305608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 48:37",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Хебрејскиот нема глагол-сврзка во именските реченици"
+    },
+    {
+      "kind": "crux",
+      "subject": "גרעה",
+      "rationale": "подстрижена\/издерена — од глаголот 'да оструга', 'да избричи'"
+    }
+  ],
+  "translation": "Зашто секоја глава ⟨е⟩ ќелава и секоја брада ⟨е⟩ подстрижена; на сите раце засеци и на слабините вреќа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "61e0f854671242ef005bd12ea553c13173121af00348f255f09ca200e2f3b2e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/48\/37-40.1792451098600.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секоја"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "глава"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "ќелава"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и секоја"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "брада"
+    },
+    {
+      "surface": "גרעה",
+      "gloss": "подстрижена"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "раце"
+    },
+    {
+      "surface": "גדדת",
+      "gloss": "засеци"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "слабините"
+    },
+    {
+      "surface": "שק",
+      "gloss": "вреќа"
+    }
+  ],
+  "timestamp": "2026-10-19T23:04:58.600791309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נקם ינקם",
+      "rationale": "\"одмазда ќе биде одмазден\" — лично казнет; LXX\/самар. читаат пасивно \"ќе биде казнет\""
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נקם ינקם",
+      "rationale": "инфинитивен апсолутив — несомна казна, како מות יומת во 17"
+    }
+  ],
+  "translation": "И ако удри човек ⟨את⟩ слугата свој или ⟨את⟩ слугината своја со стап, и умре под раката негова — одмазда ќе биде одмазден.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d5352c7f5f844fac632059f2264444e8979e24fa55031a1f48b238c59e18606d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/21\/17-20.1792443679883.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "удри"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слугата свој"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "слугата свој"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слугината своја"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "слугината своја"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "со стап"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "и умре"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "раката негова"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "одмазда"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "ќе биде одмазден"
+    }
+  ],
+  "timestamp": "2026-10-19T21:01:19.889215390Z",
+  "model": "glm-5.3"
+}

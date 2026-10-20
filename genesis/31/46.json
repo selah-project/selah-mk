@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "genesis 31:46",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לקטו אבנים \/ ויקחו אבנים",
+      "rationale": "двојно повторување: заповед да се соберат камења и веднаш извршување, класичен библиски паралелизам"
+    },
+    {
+      "kind": "alternative",
+      "subject": "על הגל",
+      "rationale": "בрз кормење врз\/кај купот; буквално 'врз'"
+    }
+  ],
+  "translation": "И Јааков им рече на браќата свој: Соберете камења. И зедоа камења и направија куп, и јадеа таму врз ⟨се⟩ купот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1f0c037b833ef00dd676d440f215e097187483bd586a204f844715eddedf67d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/31\/45-48.1792442956078.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "на браќата свој"
+    },
+    {
+      "surface": "לקטו",
+      "gloss": "Соберете"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "камења"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "зедоа"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "камења"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "направија"
+    },
+    {
+      "surface": "גל",
+      "gloss": "куп"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "јадеа"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "купот"
+    }
+  ],
+  "timestamp": "2026-10-19T20:49:16.081085531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "מחשכי ארץ",
+      "rationale": "Дословно „темнините на земјата“ — скриените краишта каде што никој не гледа; ние ги кадрираме како „мрачни места“."
+    }
+  ],
+  "translation": "Погледни кон заветот, зашто мрачните места на земјата се исполнија со живеалишта на насилство.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3e75c41b88e06c8b472ba8954393a62ef7c09a1fb584779e2e479e176987f910",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/74\/17-20.1792453570301.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Погледни"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "кон заветот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "се исполнија"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "мрачните места"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "живеалишта"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насилство"
+    }
+  ],
+  "timestamp": "2026-10-19T23:46:10.302798033Z",
+  "model": "glm-5.3"
+}

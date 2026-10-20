@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצביך",
+      "rationale": "KJV 'wealth' (имот) наспроти 'toil' (труд) — коренот значи болка\/труд, а во Песна 1:12 и производ"
+    },
+    {
+      "kind": "addition",
+      "subject": "со",
+      "rationale": "македонскиот бара предложка каи наситување со нешто"
+    }
+  ],
+  "translation": "Да не се наситат странци со силата твоя, и трудовите твои да не бидат во дом на туѓинец.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "acca78593eb1d357b2716333b43bdc368747b41848d9c367b11235b5f92645bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/5\/9-12.1792454314692.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "се наситат"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "странци"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "силата твоя"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "и трудовите твои"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во дом"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "на туѓинец"
+    }
+  ],
+  "timestamp": "2026-10-19T23:58:34.692884671Z",
+  "model": "glm-5.3"
+}

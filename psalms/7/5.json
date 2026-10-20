@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שולמי רע",
+      "rationale": "„им возвратив зло на мирните мои“ наспроти JPS „ако возвратив зло оној што ми стори зло“ — кој е мирен, кој злосторник."
+    },
+    {
+      "kind": "substitution",
+      "subject": "напразно",
+      "rationale": "ריקם буквално „празно\/празнично“ — недобиено, без причина."
+    }
+  ],
+  "translation": "Ако им возвратив зло на оние што беа во мир со мене, и го избавив непријателот свој напразно —",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fa6cabe524eb8ce65b1b736d8fc7760c35142e0a7ec8224f42d2e20b9181d70b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/7\/5-8.1792452975638.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "возвратив"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "на оние што беа во мир со мене"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "и го избавив"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "непријателот свој"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "напразно"
+    }
+  ],
+  "timestamp": "2026-10-19T23:36:15.639185515Z",
+  "model": "glm-5.3"
+}

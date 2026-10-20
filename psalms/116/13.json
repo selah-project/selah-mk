@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "cup of salvations",
+      "rationale": "ישועות е множина — 'спасенија'; повеќето преводи ја еднат во 'спасение'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשא\/ישועות",
+      "rationale": "асонанса меѓу 'ќе подигнам' и 'спасенија', делумно изгубена"
+    }
+  ],
+  "translation": "Чашата на спасенијата ќе ја подигнам и во Името на Јахве ќе повикам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f8f10062da369522955524945906256f81a0f23e824c8a9f9eff292dd6de4891",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/116\/13-16.1792453943195.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "Чашата"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "на спасенијата"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ќе ја подигнам"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "и во Името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ќе повикам"
+    }
+  ],
+  "timestamp": "2026-10-19T23:52:23.195611294Z",
+  "model": "glm-5.3"
+}

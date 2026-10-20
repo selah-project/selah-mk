@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 18:22",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ולכה",
+      "rationale": "партиклата в-л-ка нема чист македонски еквивалент и се губи во конструкцијата"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשורה מצאת",
+      "rationale": "KJV „нема вест подготвена“ vs ASV\/JPS „нема да добиеш награда за веста“ — בשורה може да значи и вест и награда за вест"
+    }
+  ],
+  "translation": "И уште еднаш рече Ахимаац, синот на Цадок, на Јоав: Да биде како било, нека трчам, те молам, и јас по Кушитот. И рече Јоав: Зошто ова ти да трчаш, синко мој — за тебе нема вест што ⟨се⟩ наоѓа?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "cf93e87ca20eaabcd1acbc4ab3747aaa5a9188b559b6940a0b258d76eef56c6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/18\/21-24.1792448328978.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "И додаде"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уште"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ахимаац"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "на Цадок"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Да биде"
+    },
+    {
+      "surface": "מה",
+      "gloss": "како било"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "нека трчам"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молам"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "Кушитот"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Зошто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "да трчаш"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синко мој"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "—"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "בשורה",
+      "gloss": "вест"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "што се наоѓа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:18:48.980527701Z",
+  "model": "glm-5.3"
+}

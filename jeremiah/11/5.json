@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 11:5",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "земја што тече со млеко и мед",
+      "rationale": "תבז חלב ודבש е доживеаната слика на изобилство, преведена буквално како идиом"
+    },
+    {
+      "kind": "you",
+      "subject": "Амен, Јахве",
+      "rationale": "Одговор на пророкот директно упатен до Јахве"
+    }
+  ],
+  "translation": "за да ја утврдам ⟨את⟩ заклетвата што им ја дадов на татковците ваши, да им дадам земја што тече со млеко и мед, како овој ден. И одговорив и реков: Амен, Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5264b9579088ec7f38f740d99cc3e2fe25cf798a1582ba31c9d6ffc6ee69347d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/11\/5-8.1792450579942.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "утврдам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "заклетвата"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "заклетвата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "се заколнив"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "на татковците ваши"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "да дадам"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ним"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "што тече"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "со млеко"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "и мед"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "како овој ден"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "ואען",
+      "gloss": "и одговорив"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и реков"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T22:56:19.942929195Z",
+  "model": "glm-5.3"
+}

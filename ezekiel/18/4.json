@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 18:4",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душа",
+      "rationale": "נפש е 'дишечко суштество, животна сила, грло' — 'душа' е традиционална, но не е точната слика"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לי הנה",
+      "rationale": "двоен нагласок 'Мои — Мои' — хебрејскиот репетитив, во македонскиот делумно задржан"
+    }
+  ],
+  "translation": "Ете, сите души се Мои; како душата на таткото, така и душата на синот — Мои се Мои; душата што згреши, таа ќе умре.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "37c954b77d810f2558a0a7017a85a33c382d44539968be6d59854323a5d712d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/18\/1-4.1792451572126.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ете"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הנפשות",
+      "gloss": "души"
+    },
+    {
+      "surface": "לי",
+      "gloss": "се Мои"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Мои"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "како душата"
+    },
+    {
+      "surface": "האב",
+      "gloss": "на таткото"
+    },
+    {
+      "surface": "וכנפש",
+      "gloss": "така и душата"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "на синот"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мои"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "се"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "душата"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "што згреши"
+    },
+    {
+      "surface": "היא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ќе умре"
+    }
+  ],
+  "timestamp": "2026-10-19T23:12:52.127515689Z",
+  "model": "glm-5.3"
+}

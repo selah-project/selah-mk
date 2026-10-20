@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ילכדנו",
+      "rationale": "Литерално „ќе го уловат во стапица” — слика од ловечка мрежа."
+    },
+    {
+      "kind": "substitution",
+      "subject": "чест грев",
+      "rationale": "חטאת може да значи и грев и казна за грев; земено „грев”."
+    },
+    {
+      "kind": "addition",
+      "subject": "тој",
+      "rationale": "Подмет додаден — глаголот יתמך е во пасив без изричен подмет."
+    }
+  ],
+  "translation": "Неговите беззаконија ќе го фатат ⟨את⟩ нечесниот, и со јажињата на гревот свој ⟨тој⟩ е задржан.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b802cf376f5e998710d0f74f02db44d05d94574c1cb2773fb7516b6370b71688",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/5\/21-23.1792454320857.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "Неговите беззаконија"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "ќе го фатат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нечесниот"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "нечесниот"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "и со јажињата на"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "гревот негов"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "е задржан"
+    }
+  ],
+  "timestamp": "2026-10-19T23:58:40.857751923Z",
+  "model": "glm-5.3"
+}

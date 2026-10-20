@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "македонскиот бара помошен глагол што хебрејскиот го нема"
+    },
+    {
+      "kind": "substitution",
+      "subject": "закон",
+      "rationale": "תורה се чува како Тора, не како „закон“"
+    }
+  ],
+  "translation": "Една Тора ќе биде ⟨е⟩ за домородецот и за странецот што престојува меѓу вас.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5848b63ae38dea267daa8a2fe41a1bcedfbba8abb5adbc345a51aff5971f70b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/12\/49-51.1792443497263.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "Една"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "за домородецот"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "и за странецот"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "што престојува"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "меѓу вас"
+    }
+  ],
+  "timestamp": "2026-10-19T20:58:17.266510090Z",
+  "model": "glm-5.3"
+}

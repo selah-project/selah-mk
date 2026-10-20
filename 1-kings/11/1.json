@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "хетски жени",
+      "rationale": "хебрејскиот става придавка החתיות на крајот; македонскиот бара именка"
+    }
+  ],
+  "translation": "И царот Шломо сакаше многу туѓи жени, и ⟨את⟩ ќерката на фараонот — моавки, амонки, едомки, цидонки, хетски жени.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b241f353cc1a0426e58394d62b0e8045655584f8d89797b259e33eb2d05c323d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/11\/1-4.1792448764713.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "и царот"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "сакаше"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жени"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "туѓи"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "многу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ќерката на фараонот"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерката"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараонот"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "моавки"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "амонки"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "едомки"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "цидонки"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "хетски жени"
+    }
+  ],
+  "timestamp": "2026-10-19T22:26:04.714444887Z",
+  "model": "glm-5.3"
+}

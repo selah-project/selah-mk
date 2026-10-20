@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדקך е цедек — не се преведува само со 'праведни', коренот се чува"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ואקימה",
+      "rationale": "причателен од קום: букв. 'и ќе го устојам (заклетвата)'; 'извршувам' е улога, не слика"
+    }
+  ],
+  "translation": "Се заколнив и ⟨го⟩ извршувам — да ги пазам твоите праведни судови.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e4be5865587e246529232cae052f1e6369426b9193540936774286dfc547db87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/105-108.1792454018331.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבעתי",
+      "gloss": "Се заколнив"
+    },
+    {
+      "surface": "ואקימה",
+      "gloss": "и извршувам"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "да пазам"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "судови"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "твоите праведни (цедек)"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:38.332167534Z",
+  "model": "glm-5.3"
+}

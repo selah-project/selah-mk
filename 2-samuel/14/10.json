@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והבאתו",
+      "rationale": "перфект („и ти го донесе“) наметнат како заповед; преводите се делат меѓу заповед и услов"
+    }
+  ],
+  "translation": "И рече царот: оној што ти зборува нешто — доведи го кај мене, и нема веќе да додаде да те допре.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b1802e3378ad2be28406f9b4f91b7775b657e4cff246c88d03f7a3dcf2f4eb18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/14\/9-12.1792448224450.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "оној што зборува"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "до тебе"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "доведи го"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "кај мене"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "да додаде"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "веќе"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "да допре"
+    },
+    {
+      "surface": "בך",
+      "gloss": "те"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:04.451790289Z",
+  "model": "glm-5.3"
+}

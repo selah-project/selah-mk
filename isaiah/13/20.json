@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 13:20",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨со стадата⟩",
+      "rationale": "ירבצу значи легнување на добиток положен на страна; македонскиот бара предмет"
+    },
+    {
+      "kind": "measurement",
+      "subject": "довека · од род до род",
+      "rationale": "двојна временска мера за вечна напуштеност"
+    }
+  ],
+  "translation": "Нема да биде населена довека и нема да се населува од род до род; Арапин нема таму шатор да крева и пастири нема таму да лежат ⟨со стадата⟩.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e6f1528e78f732d87ce9a35fae03f5db992620ec926562a3c27205aedf901714",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/13\/17-20.1792449691372.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Нема"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "да биде населена"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "довека"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "да се населува"
+    },
+    {
+      "surface": "עד",
+      "gloss": "од"
+    },
+    {
+      "surface": "דור",
+      "gloss": "род"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "до род"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "шатор да крева"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "Арапин"
+    },
+    {
+      "surface": "ורעים",
+      "gloss": "и пастири"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "ירבצу",
+      "gloss": "да лежат"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    }
+  ],
+  "timestamp": "2026-10-19T22:41:31.377149831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хеседот",
+      "rationale": "חסד останува хесед — верност во заветот, не само „добрина“"
+    },
+    {
+      "kind": "idiom",
+      "subject": "היטבת חסדך האחרון מן הראשון",
+      "rationale": "буквално „го направи подобар хеседот твој последниот од првиот“ — споредба со מן"
+    }
+  ],
+  "translation": "И тој рече: Благословена си ти од Јахве, ќерко моја — го надмина хеседот твој последниот од првиот, што не отиде по младичите, ни по сиромашни ни по богати.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5ad07fb4d443009a91fc14b91094c8ce705cc209cff39ba028e2d246c041f243",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ruth\/3\/9-12.1792455566446.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и-рече"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "благословена"
+    },
+    {
+      "surface": "את",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "од-Јахве"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ќерко-моја"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "го-надмина-доброто"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседот-твој"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "последниот"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "првиот"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "да-не"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "одиш"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "младичите"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ни"
+    },
+    {
+      "surface": "דל",
+      "gloss": "сиромашен"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ни"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "богат"
+    }
+  ],
+  "timestamp": "2026-10-20T00:19:26.446932841Z",
+  "model": "glm-5.3"
+}

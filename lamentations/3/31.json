@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "יזנח",
+      "rationale": "זנח е редок корен во Танах; 'отфрла\/занемари' е речиси единственото поле на неговата употреба."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Адонај",
+      "rationale": "אדני тука е Име на Бога — Адонај, не 'Господ'."
+    }
+  ],
+  "translation": "Зашто Адонај не отфрла засекогаш.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5d51e442541d7b16619391804d868acaa74cdb5ff59829202d618b7afd3f88e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/3\/29-32.1792455610708.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "отфрла"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "засекогаш"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    }
+  ],
+  "timestamp": "2026-10-20T00:20:10.709080280Z",
+  "model": "glm-5.3"
+}

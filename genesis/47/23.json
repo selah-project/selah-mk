@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 47:23",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "народот",
+      "rationale": "Јосеф им се обраќа директно на египетскиот народ."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרע \/ וזרעתם",
+      "rationale": "Именката „семе“ и глаголот „посејте“ — ист корен, парономазија."
+    }
+  ],
+  "translation": "И Јосеф им рече на народот: Еве, денес ⟨את⟩ ве купив вас и ⟨את⟩ вашата земја за Фараон; еве ви семе — и посејте ја ⟨את⟩ земјата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "bf3f40d7eca66694789e66df893918a6e0f79f9cc5762ba3e0926ba158ac96bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/47\/21-24.1792443272168.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "הן",
+      "gloss": "еве"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "купив"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ве"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "вашата земја"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "вашата земја"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "за Фараон"
+    },
+    {
+      "surface": "הא",
+      "gloss": "ево"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "семе"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "и посејте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T20:54:32.176891440Z",
+  "model": "glm-5.3"
+}

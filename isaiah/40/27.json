@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 40:27",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Јааков\/Јисраел",
+      "rationale": "Директно обраќање до Јааков и Јисраел со нивните зборови на жалост."
+    },
+    {
+      "kind": "crux",
+      "subject": "משפטי יעבור",
+      "rationale": "'Правдата моја поминува (зад Бога)' — односно 'мине од Бога незабележана' или 'е прескокната'; преводите се делат."
+    }
+  ],
+  "translation": "Зошто велиш, Јааков, и зборуваш, Јисраел: Скриена е патеката моја од Јахве, и од Елохим мој правдата моја поминува?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "4ed5a8a75c1138f24818ae728454db3d6ffed338b7444420449e6176c4be466c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/40\/25-28.1792450038766.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Зошто"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "велиш"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "и зборуваш"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "Скриена е"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "патеката моја"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "од Јахве"
+    },
+    {
+      "surface": "ומאלהי",
+      "gloss": "и од Елохим мој"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "правдата моја"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "поминува"
+    }
+  ],
+  "timestamp": "2026-10-19T22:47:18.767639764Z",
+  "model": "glm-5.3"
+}

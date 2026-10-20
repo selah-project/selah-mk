@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 6:2",
+  "book": "song-of-songs",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "да пасе",
+      "rationale": "לרעות е пастирски глагол — сликата е паѓање меѓу градините како стадо меѓу цвеќиња"
+    }
+  ],
+  "translation": "Возљубениот мој слезе во градината своја, во лејките на мирисите, да пасе во градините и да бере лилиња.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "86deea1028d5d6cf7d803e3b0354d532e5706514d306058ad9f26c30b015fbb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/song-of-songs\/6\/1-4.1792455464737.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "возљубениот мој"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "слезе"
+    },
+    {
+      "surface": "לגנו",
+      "gloss": "во градината своја"
+    },
+    {
+      "surface": "לערוגות",
+      "gloss": "во лејките"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "на мирисите"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "да пасе"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "во градините"
+    },
+    {
+      "surface": "וללקט",
+      "gloss": "и да бере"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "лилиња"
+    }
+  ],
+  "timestamp": "2026-10-20T00:17:44.739061221Z",
+  "model": "glm-5.3"
+}

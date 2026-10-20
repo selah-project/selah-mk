@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 6:29",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Македонскиот бара сврзенчински е за именската реченица"
+    },
+    {
+      "kind": "crux",
+      "subject": "נחר",
+      "rationale": "KJV чита 'изгорени се мевовите' (од חרר), ASV\/JPS 'дуваат силно' — глаголот е мрачен"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מאשתם",
+      "rationale": "Необична форма за 'оган' (אש + наставка), се јавува само тука"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נמאס\/מאס",
+      "rationale": "Одбивното сребро во 30 следи по истата коренска игра"
+    }
+  ],
+  "translation": "Мевот глочи, оган ⟨е⟩ оловото; напразно топи, топење — и злите не се откинаа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "80d4d6ee42ff02ee4912cc582599749c605c23a459553b778d670232c6710280",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/6\/29-30.1792450451930.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחר",
+      "gloss": "глочи"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "мевот"
+    },
+    {
+      "surface": "מאשתם",
+      "gloss": "оган"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "оловото"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "напразно"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "топи"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "топење"
+    },
+    {
+      "surface": "ורעים",
+      "gloss": "и злите"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נתקו",
+      "gloss": "се откинаа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:54:11.931057017Z",
+  "model": "glm-5.3"
+}

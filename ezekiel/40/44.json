@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezekiel 40:44",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שרים",
+      "rationale": "„Пејачи“ (KJV, YLT) наспроти „стражари“ (JPS, со прескокнување на едно писмо); буквално е од коренот שיר — пеат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כתף",
+      "gloss": "„Рамо“ — страна на портата",
+      "rationale": "ר"
+    }
+  ],
+  "translation": "И надвор од внатрешната порта — одаи за пејачите во внатрешниот двор, кај рамото на северната порта, а лицата им се кон југ; и една кај рамото на источната порта, со лице кон север.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8a76652744a8e2412e3621de2d5484d9a31c6c7b5b325e757af8cfe2f74075a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/40\/41-44.1792452035625.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומחוצה",
+      "gloss": "и надвор"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "од портата"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "внатрешната"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "одаи"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "за пејачите"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "во дворот"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "внатрешниот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кој"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "рамото"
+    },
+    {
+      "surface": "שער",
+      "gloss": "на портата"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "северната"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "а лицата им"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "кон"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "југ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "една"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "рамото"
+    },
+    {
+      "surface": "שער",
+      "gloss": "на портата"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "источната"
+    },
+    {
+      "surface": "פני",
+      "gloss": "со лице"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "кон"
+    },
+    {
+      "surface": "הצפן",
+      "gloss": "север"
+    }
+  ],
+  "timestamp": "2026-10-19T23:20:35.626523715Z",
+  "model": "glm-5.3"
+}

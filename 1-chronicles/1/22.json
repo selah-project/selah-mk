@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עיבל",
+      "rationale": "Хроника вели Евал; Битие 10:28 има עובל (Овал) — разлика меѓу двете списоци."
+    }
+  ],
+  "translation": "и ⟨את⟩ Евал, и ⟨את⟩ Авимаел, и ⟨את⟩ Шева.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a5fcb20369ee24b939fe7c956a1b9fcaaa899a87c8d93a81f587166346ffd4fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/1\/21-24.1792456772255.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Евал"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Евал"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Авимаел"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Авимаел"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Шева"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шева"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:32.255980070Z",
+  "model": "glm-5.3"
+}

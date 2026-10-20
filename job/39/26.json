@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 39:26",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "יאבר",
+      "rationale": "Глаголот אבר ('да лета високо') се јавува само тука во Танахот"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јов",
+      "rationale": "Бог го прашува Јов директно — реторичко прашање"
+    },
+    {
+      "kind": "invitation",
+      "subject": "прашање",
+      "rationale": "Реторичките прашања го повлекуваат слушателот во аргументот"
+    }
+  ],
+  "translation": "Дали по твоето разумување лета соколот, дали ги шири крилјата кон југот?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2434cbbe391d2d827f50cab2df87e543657c7a0f3c5297e730cd3716553b6a8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/39\/25-28.1792455374688.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המבינתך",
+      "gloss": "по твоето разумување"
+    },
+    {
+      "surface": "יאבר",
+      "gloss": "лети"
+    },
+    {
+      "surface": "נץ",
+      "gloss": "соколот"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "шири"
+    },
+    {
+      "surface": "כנפו",
+      "gloss": "крилјата"
+    },
+    {
+      "surface": "לתימן",
+      "gloss": "кон југот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:16:14.688888441Z",
+  "model": "glm-5.3"
+}

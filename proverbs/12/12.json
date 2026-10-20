@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨плод⟩",
+      "rationale": "יתן вели само „дава“; „плод“ се подразбира и е додаден."
+    },
+    {
+      "kind": "crux",
+      "subject": "מצוד",
+      "rationale": "„Мрежа\/опсадна кула\/plen“ — KJVS „мрежа на злите“, JPS „плен“; двосмислен збор."
+    }
+  ],
+  "translation": "Посакува злотворот мрежа на злите, а коренот на праведните дава ⟨плод⟩.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0515d51e99208262472f592aff6a1f772cb943d75aba443c523cbfbe4bda4475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/12\/9-12.1792454444701.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "Посакува"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "злотворот"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "мрежа"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "на злите"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "а коренот"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "на праведните"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дава"
+    }
+  ],
+  "timestamp": "2026-10-20T00:00:44.702338198Z",
+  "model": "glm-5.3"
+}

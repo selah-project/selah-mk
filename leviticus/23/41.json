@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 23:41",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "седум дена",
+      "rationale": "Одредениот број на дена на празникот."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וחגתם \/ תחגו",
+      "rationale": "Истиот корен חגג во облици на молитвена одредница и несовршен — повторување што го врзува стихот."
+    }
+  ],
+  "translation": "И ќе го празнувате ⟨את⟩ празникот за Јахве седум дена во годината — наредба за вечност за поколенијата ваши; во месецот седми ќе го празнувате ⟨את⟩ него.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d1b6a9ef5a7434d3bcd68141cbbafa241fac0cd0ae29cd8505abf6465b79ebb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/23\/41-44.1792444504087.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחגתם",
+      "gloss": "и ќе празнувате"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "празникот"
+    },
+    {
+      "surface": "חג",
+      "gloss": "празник"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Јахве"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седум"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дена"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "во годината"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "наредба"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "за вечност"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "за поколенијата ваши"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "во месецот"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седми"
+    },
+    {
+      "surface": "תחגו",
+      "gloss": "ќе празнувате"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него"
+    }
+  ],
+  "timestamp": "2026-10-19T21:15:04.090748107Z",
+  "model": "glm-5.3"
+}

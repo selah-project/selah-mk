@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עודני",
+      "rationale": "'ме опколија' (од עוד, повтори\/свити) наспроти 'ме ограбија' (KJV, од עדה); хебрејскиот корен е свиткување\/заградување"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חבלי",
+      "rationale": "חבל значи и јаже и удел\/област — слика на стегнатост што македонскиот губи"
+    }
+  ],
+  "translation": "Јажињата на безбожниците ме опколија — Твојата Тора не ја заборавив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e444bba5aa249d029a8be610aad1dc0f13a0206eda6a5444bf22799cbdfac3a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/61-64.1792454006451.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "јажињата на"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожниците"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "ме опколија"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Твојата Тора"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "заборавив"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:26.452206022Z",
+  "model": "glm-5.3"
+}

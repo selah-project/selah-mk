@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 12:30",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "три илјади",
+      "rationale": "број на Бинјаминовците што дојдоа кај Давид"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמרים משמרת",
+      "rationale": "корен שמר повторен — глагол и именка од ист корен, тешко е да се пренесе"
+    },
+    {
+      "kind": "crux",
+      "subject": "чувaa стражата",
+      "rationale": "שׁמרים משמרת: буквално „чувaa стража\/чуварство“ — ASV\/BSG читаат „верност“ (лојалност), што е толкување а не буквалност"
+    }
+  ],
+  "translation": "И од синовите Бинјаминови, браќата на Шаул, три илјади; а до сега мнозинството од нив ја чуваа стражата на домот на Шаул.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "721468fea0e62d791f5415c9137fe995e84cddddca962d41856c50249c760be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/12\/29-32.1792457017429.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "И од"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинјаминови"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "браќата"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "на Шаул"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "а до"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "сега"
+    },
+    {
+      "surface": "מרביתם",
+      "gloss": "мнозинството од нив"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "ја чуваа"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "стражата"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "на Шаул"
+    }
+  ],
+  "timestamp": "2026-10-20T00:43:37.430924754Z",
+  "model": "glm-5.3"
+}

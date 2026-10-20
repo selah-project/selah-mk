@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "job 38:41",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צידו",
+      "rationale": "'добычка\/лов' (KJV 'food', ASV\/JPS 'prey') — зборот е лов, дивеч."
+    },
+    {
+      "kind": "substitution",
+      "subject": "гавран",
+      "rationale": "עורב секогаш гавран, не 'врана'."
+    },
+    {
+      "kind": "you",
+      "subject": "прашање кон Јов",
+      "rationale": "Реторичко прашање од виорот — Јахве го повикува Јов да одговори."
+    }
+  ],
+  "translation": "Кој му приготвува на гавранот ⟨את⟩ добычката негова, кога младенците негови викаат кон Ел, лутаат без храна?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2bd907de136a917c7042a288fe18c3298454a3c8002be7b7cb97eb88caad0dbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/38\/41-41.1792455343545.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "приготвува"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "на гавранот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "добычката"
+    },
+    {
+      "surface": "צידו",
+      "gloss": "добычката негова"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "младенците негови"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ישועו",
+      "gloss": "викаат"
+    },
+    {
+      "surface": "יתעו",
+      "gloss": "лутаат"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "храна"
+    }
+  ],
+  "timestamp": "2026-10-20T00:15:43.545749332Z",
+  "model": "glm-5.3"
+}

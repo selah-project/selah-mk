@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 39:14",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "да се шегува со нас",
+      "rationale": "לצחק — 'да се потсмева\/да се шегува\/да прави блуд'; за Eveиг раѓање ова е eveфемизам за сексуално насилство"
+    },
+    {
+      "kind": "you",
+      "subject": "до луѓето од домот",
+      "rationale": "директен говор на жената до слугите"
+    }
+  ],
+  "translation": "таа ги повика луѓето од домот свој и им рече, велејќи: Видете, ни доведе ⟨се⟩ човек Евреин да се шегува со нас — дојде кај мене да легне со мене, а јас извикав со глас голем.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "54877a68fb321a3495a04e72fbf193ec6592ef6b7543c833484d00082d31deef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/39\/13-16.1792443091277.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "и ги повика"
+    },
+    {
+      "surface": "לאנשי",
+      "gloss": "луѓето од"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "домот свој"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "и им рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Видете"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ни доведе"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Евреин"
+    },
+    {
+      "surface": "לצחק",
+      "gloss": "да се шегува"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "со нас"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "кај мене"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "да легне"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "со мене"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "а јас извикав"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "со глас"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голем"
+    }
+  ],
+  "timestamp": "2026-10-19T20:51:31.278075701Z",
+  "model": "glm-5.3"
+}

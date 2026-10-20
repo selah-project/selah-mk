@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "четиринаесеттиот ден",
+      "rationale": "Точен датум на пазарот — број на ден и месец"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בערב\/בערבות",
+      "rationale": "„навечер“ и „во рамнините“ — сличен звук во хебрејскиот, чиста случка но слушлива"
+    }
+  ],
+  "translation": "И се разбија во логор синовите на Јисраел во Гилгал, и го направија ⟨את⟩ пазарот на четиринаесеттиот ден од месецот, навечер, во рамнините на Јерихо.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "662836b8102c407828ef7febc216b2e30182917de1914aaf2292651067490d66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/5\/9-12.1792445913259.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "се разбија во логор"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "во Гилгал"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "направија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пазарот"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "пазарот"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "четири"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наесет"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "од месецот"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "навечер"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "во рамнините на"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Јерихо"
+    }
+  ],
+  "timestamp": "2026-10-19T21:38:33.260389839Z",
+  "model": "glm-5.3"
+}

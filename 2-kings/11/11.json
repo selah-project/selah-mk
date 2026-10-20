@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הרצים",
+      "rationale": "буквално „трчачите“ — кралската стража-курiri; традиционално „стражата“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כתף... כתף",
+      "rationale": "рамо–рамо: хијазм на двете страни на домот, симетрија на стражата."
+    }
+  ],
+  "translation": "И трчачите застанаа, секој со своите оружја во раката своја, од рамото на домот десно до рамото на домот лево, кон жртвеникот и кон домот, околу царот наоколу.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "ff8e7e442f8e4a0f09177127b412e769bcb7d3900ae6b43d8cb9ed4634246e89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/11\/9-12.1792449256321.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "и застанаа"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "трчачите"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "со своите оружја"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "во раката своја"
+    },
+    {
+      "surface": "мכתף",
+      "gloss": "од рамото"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "десно"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "рамото"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "лево"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "кон жртвеникот"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "и кон домот"
+    },
+    {
+      "surface": "על",
+      "gloss": "околу"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколу"
+    }
+  ],
+  "timestamp": "2026-10-19T22:34:16.323391772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ки מה עשיתי לך",
+      "rationale": "„зашто што ти направив?“ — прашално или реторички: „види што ти направив“ (повикот е во фрлањето на наметката, не во зборовите)"
+    },
+    {
+      "kind": "you",
+      "subject": "до Елијаху",
+      "rationale": "Елиша му се обраќа директно на Елијаху со молба"
+    }
+  ],
+  "translation": "И ги остави ⟨את⟩ говедата и потрча по Елијаху, и рече: Дај да го целивам татко ми и мајка ми, па ќе одам по тебе. А тој му рече: Оди, врати се, зашто што ти направив?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "443e89d8bb7451f94f12a0c7ea4cf933e574a4525abd4f069d24891f5e0ac907",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/19\/17-20.1792449004765.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "и ги остави"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "говедата"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "говедата"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "и потрча"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Елијаху"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "да го целивам"
+    },
+    {
+      "surface": "נא",
+      "gloss": "дај"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "татко ми"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "и мајка ми"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "па ќе одам"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "по тебе"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "а тој рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "врати се"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ти направив"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-10-19T22:30:04.769744313Z",
+  "model": "glm-5.3"
+}

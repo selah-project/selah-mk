@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "себе",
+      "rationale": "македонскиот бара објект кај „зад”, хебрејскиот има само наставката во אחריו"
+    }
+  ],
+  "translation": "И Лот им излезе на прагот, и вратата ја затвори зад себе.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "4d5966a59c0ee2a681308d53bf33eb234f5f296a019bb8e96b412d38a719326d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/19\/5-8.1792442612839.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "излезе"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "кај нив"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лот"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "на прагот"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "и вратата"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ја затвори"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "зад себе"
+    }
+  ],
+  "timestamp": "2026-10-19T20:43:32.840950992Z",
+  "model": "glm-5.3"
+}

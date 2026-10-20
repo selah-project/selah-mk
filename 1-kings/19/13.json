@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 19:13",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот бара помошен глагол кај „до него глас“"
+    },
+    {
+      "kind": "you",
+      "subject": "до Елијаху",
+      "rationale": "гласот го повикува Елијаху по име со директно прашање"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "мантра на повторување",
+      "rationale": "стих 13 го повторува буквално стих 10 — прашањето на Јахве втор пат"
+    }
+  ],
+  "translation": "И бидејќи Елијаху го чу тоа, го завитка лицето во својот плашт, излезе и застана на влезот од пештерата; и еве, до него ⟨се⟩ јави глас и рече: Што правиш тука, Елијаху?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6c89fcf01dbb56d6bcf0dd5ba297cce3bf430e11a7ff22afe2c2574e374644b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/19\/13-16.1792448994145.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "бидејќи чу"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Елијаху"
+    },
+    {
+      "surface": "וילט",
+      "gloss": "завитка"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицето свое"
+    },
+    {
+      "surface": "באדרתו",
+      "gloss": "во плаштот свој"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "излезе"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "застана"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "на влезот"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "од пештерата"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и еве"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "до него"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "לך",
+      "gloss": "правиш"
+    },
+    {
+      "surface": "פה",
+      "gloss": "тука"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Елијаху"
+    }
+  ],
+  "timestamp": "2026-10-19T22:29:54.146487966Z",
+  "model": "glm-5.3"
+}

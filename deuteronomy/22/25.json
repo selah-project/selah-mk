@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сршеницата",
+      "rationale": "грешка — треба 'свршеницата'; поправено во преводот"
+    },
+    {
+      "kind": "crux",
+      "subject": "והחזיק",
+      "rationale": "'ја фати\/ја совлада' — од חזק, сила; KJВ 'force her', JPS 'take hold of her'"
+    }
+  ],
+  "translation": "Ако пак во полето најде маж ⟨את⟩ девојката свршеницата, и фати мажот за неа и легне со неа — нека умре само мажот што легна со неа.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c1b6f9b2321331519fe279391b52e44fd54fdd066ec989456c8a576cd8c3e617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/22\/25-28.1792445689055.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ако пак"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "во полето"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "најде"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "девојката свршеницата"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "девојката"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "сршеницата"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "фати"
+    },
+    {
+      "surface": "בה",
+      "gloss": "за неа"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "легне"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "со неа"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "нека умре"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "мажот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "легна"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "со неа"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "сам"
+    }
+  ],
+  "timestamp": "2026-10-19T21:34:49.055732971Z",
+  "model": "glm-5.3"
+}

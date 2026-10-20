@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 7:5",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "самрак",
+      "rationale": "נשף е време на вечерниот поветарец — самрак\/сумрак, не ноќ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩ во „и ете“",
+      "rationale": "хебрејскиот והנה носи само покажување, македонскиот бара сврзник"
+    }
+  ],
+  "translation": "И станaа во самрак да влезат во логорот на Арам, и влегоа до крајот на логорот на Арам, и ете — немаше таму човек.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "66bb0eb6efa151f93d665b6e9dccb94fd85aeac346f71261276feee1aeab7444",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/7\/5-8.1792449199483.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "станаа"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "во самрак"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "да влезат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "логорот"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "влегоа"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "крајот"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "логорот"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ете"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немаше"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    }
+  ],
+  "timestamp": "2026-10-19T22:33:19.483821488Z",
+  "model": "glm-5.3"
+}

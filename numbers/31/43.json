@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 31:43",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "хебрејскиот ותהי е повеќе од копула — 'стана\/се случи', но македонскиот бара глагол"
+    },
+    {
+      "kind": "measurement",
+      "subject": "бројот",
+      "rationale": "337.500 овци и кози — бројките стојат целосно напишани, како во хебрејскиот"
+    }
+  ],
+  "translation": "И беше половината на општината од стадото: триста илјади и триесет илјади, седум илјади и петстотини.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "07ca5b06e9cfa61f078acfb466a06749e552f8c498ebcce68ccd9d4230382f75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/31\/41-44.1792445170703.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "половината"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "на општината"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "стадото"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "триста"
+    },
+    {
+      "surface": "мאות",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "и триесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седум"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "и пет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотини"
+    }
+  ],
+  "timestamp": "2026-10-19T21:26:10.704773125Z",
+  "model": "glm-5.3"
+}

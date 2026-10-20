@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 15:13",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема ропско слово; хаја овде е предикат"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לב ... אחרי",
+      "rationale": "'срце по некого' — наклонетост, верност; буквално 'срцето е зад Авшалом'"
+    }
+  ],
+  "translation": "И дојде известувачот кај Давид, велејќи: Срцето на мажите Јисраелови ⟨е⟩ по Авшалом.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/15\/13-16.1792448249613.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и дојде"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "известувачот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "היה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срцето"
+    },
+    {
+      "surface": "איש",
+      "gloss": "на мажите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелови"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:29.613954950Z",
+  "model": "glm-5.3"
+}

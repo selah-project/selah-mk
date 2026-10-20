@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 34:16",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Елиху кон Јов",
+      "rationale": "двоен повик — слушни, приклони ухо — директен апел до слушателот"
+    },
+    {
+      "kind": "idiom",
+      "subject": "האזינה",
+      "rationale": "буквално 'расшири уво' — раширување на увото со рака за да се чуе"
+    }
+  ],
+  "translation": "И ако имаш разбирање, слушни ја ова, приклони-ухо кон гласот на моите зборови.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3e81c30d735c885e4109c776cf315727eed44b727340578d589d817d0196cd21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/34\/13-16.1792455260472.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разбирање"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "слушни ја"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "приклони-ухо"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "кон гласот"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "на моите зборови"
+    }
+  ],
+  "timestamp": "2026-10-20T00:14:20.473717370Z",
+  "model": "glm-5.3"
+}

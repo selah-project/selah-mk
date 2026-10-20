@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "стаса",
+      "rationale": "יחמץ е „да закисне\/ферментира“ — тесто што не успеало да нарасне"
+    }
+  ],
+  "translation": "И народот го крева ⟨את⟩ тестото свое, уште откако не стаса, пределните корита свои завиткани во наметките свои врз рамениците свои.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "dee89cab50acc11b6e2a9a7235c4cad3cc5547e49e720e6db3e5656404e824fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/12\/33-36.1792443518151.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "го крева"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тестото свое"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "тестото свое"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "уште откако не"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "стаса"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "пределните корита свои"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "завиткани"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "во наметките свои"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "рамениците свои"
+    }
+  ],
+  "timestamp": "2026-10-19T20:58:38.155237026Z",
+  "model": "glm-5.3"
+}

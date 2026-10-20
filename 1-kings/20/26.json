@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ויפקד את ארם",
+      "rationale": "мобилизација\/попис на војската."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לתשובת השנה",
+      "rationale": "буквално „на враќањето на годината“ — времесна одредница за крајот на годината, не „пролет“."
+    }
+  ],
+  "translation": "И биде на свртувањето на годината, и Бен-Хадад го попиша ⟨את⟩ Арам, и се качи во Афека на војна против Јисраел.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "dda7015237efff6b35ac886273246967713e63c84c99c8763a843ebac5d11006",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/20\/25-28.1792449017223.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "на свртувањето"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "на годината"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "и попиша"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Хадад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Арам"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "и се качи"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "во Афека"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "на војна"
+    },
+    {
+      "surface": "עם",
+      "gloss": "против"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T22:30:17.227589853Z",
+  "model": "glm-5.3"
+}

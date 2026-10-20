@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כשמך … כן",
+      "rationale": "споредба име–похвала со заедничко כ…כן, паралелизам задржан во македонскиот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "цедек останува непреведен — праведност\/право, еден корен."
+    }
+  ],
+  "translation": "Како името твое, Елохим, така и похвалата твоја — до краиштата на земјата; цедек ја исполни десницата твоја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7520bed6636c57f2bb25c0bab25bf7f36d6f75cd794f2c7a01afa28da7b3a100",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/48\/9-12.1792453329244.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "како името твое"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "похвалата твоја"
+    },
+    {
+      "surface": "על",
+      "gloss": "до"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "краиштата"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ја исполни"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "десницата твоја"
+    }
+  ],
+  "timestamp": "2026-10-19T23:42:09.245469894Z",
+  "model": "glm-5.3"
+}

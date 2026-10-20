@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מנ הסערה",
+      "rationale": "Одговорено 'на' Јов — македонскиот бара предложен падеж што хебрејскиот го нема."
+    },
+    {
+      "kind": "you",
+      "subject": "Јов",
+      "rationale": "Јахве му се обраќа на Јов — почеток на божјиот говор од бурата."
+    }
+  ],
+  "translation": "И одговори Јахве на ⟨את⟩ Јов од бурата и рече:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "344d278c01c6060805fe77398ac8f5f5321abed23c42d570bd16aac7c240e821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/38\/1-4.1792455296756.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "одговори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јов"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Јов"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "од"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "бурата"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-10-20T00:14:56.756578612Z",
+  "model": "glm-5.3"
+}

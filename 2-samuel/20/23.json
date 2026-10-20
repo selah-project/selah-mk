@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 20:23",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨беаше⟩",
+      "rationale": "списокот на должности нема глагол; македонскиот бара копула"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכרי והפלתי",
+      "rationale": "Керитејци и Пелетејци — чија гарда: странци (Критјци?) или Израилци; имињата се оставаат транслитерирани"
+    },
+    {
+      "kind": "measurement",
+      "subject": "список на должности",
+      "rationale": "официален список на управни функции на царството"
+    }
+  ],
+  "translation": "И Јоав ⟨беаше⟩ над целата војска на Јисраел, а Бенаја синот на Јехојада над Керитејците и над Пелетејците.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "f23f03b26b43d6965d91580b567b05980f41a1d782a80f5b67c164994f2f107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/20\/21-24.1792448416668.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "и Јоав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целата"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "војска"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "а Бенаја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "на Јехојада"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הכרי",
+      "gloss": "Керитејците"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "הפלתי",
+      "gloss": "Пелетејците"
+    }
+  ],
+  "timestamp": "2026-10-19T22:20:16.720081761Z",
+  "model": "glm-5.3"
+}

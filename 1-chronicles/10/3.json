@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויחל",
+      "rationale": "корен חול — 'трепереше\/се вртеше во мака': KJV 'беше ранет', JPS 'беше во ангsty'; избирам 'беше во мака' како поблиску до сликата на извртување"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המורים בקשת",
+      "rationale": "буквално 'стрелците со лак' — учесник од ירה 'да стрелка', задржана сликата"
+    }
+  ],
+  "translation": "И тежна битката врз Шаул, и го најдоа стрелците со лакот, и беше во мака ⟨од⟩ стрелците.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9c23600ae5933edb999d17cf4f40ae530b2cf8686f77d17c64653be93dd2501b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/10\/2-3.1792458579213.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "И тежна"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "битката"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "и го најдоа"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "стрелците"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "со лакот"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "и беше во мака"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "стрелците"
+    }
+  ],
+  "timestamp": "2026-10-20T01:09:39.213896619Z",
+  "model": "glm-5.3"
+}

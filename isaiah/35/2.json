@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 35:2",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פרח תפרח",
+      "rationale": "Инфинитивен апсолутен — бесконечно повторување 'цветајќи ќе процвета', интензитет загубен во еден глагол."
+    },
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "Македонскиот бара членченце 'го' кај видат + accusative клитика."
+    }
+  ],
+  "translation": "Цветајќи ќе процвета и ќе зарадува, дури и со радост и пеене; славата на Ливан ќе ⟨ѝ⟩ биде дадена, убавината на Кармел и Шарон — тие ќе го видат славата на Јахве, убавината на Елохим нашиот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "5ee87909dddb49cae05685bd3052db40e8e1d4e76ad247954a8e52d4e7d18a19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/35\/1-4.1792449943941.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרח",
+      "gloss": "цветајќи"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "ќе процвета"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "и ќе зарадува"
+    },
+    {
+      "surface": "אף",
+      "gloss": "дури и"
+    },
+    {
+      "surface": "גילת",
+      "gloss": "со радост"
+    },
+    {
+      "surface": "ורנן",
+      "gloss": "и пеене"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славата"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "на Ливан"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ќе биде дадена"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨ѝ⟩"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "убавината"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "на Кармел"
+    },
+    {
+      "surface": "והשרון",
+      "gloss": "и Шарон"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ќе го видат"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "убавината"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "на Елохим нашиот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:45:43.944453436Z",
+  "model": "glm-5.3"
+}

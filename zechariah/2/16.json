@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "на земјата светата",
+      "rationale": "'адмат хакодеш' — 'на светата земја' или (хебрејски гласни) 'во светата земја'"
+    }
+  ],
+  "translation": "И Јахве ќе наследи ⟨את⟩ Јуда како дел Свой на земјата светa, и повторно ќе го избере Јерушалаим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "388487df2e78417945281c8ea2ebe3a3394fb147bdf3db5208a12c7a875f9b0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/2\/13-16.1792452694780.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "и ќе наследи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јуда"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуда"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "делот Негов"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "светата"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "и ќе избере"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повторно"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Јерушалаим"
+    }
+  ],
+  "timestamp": "2026-10-19T23:31:34.781158209Z",
+  "model": "glm-5.3"
+}

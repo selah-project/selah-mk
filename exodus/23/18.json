@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "врз квасно",
+      "rationale": "על חמץ — букв. 'врз кисело\/квасно': со квасен леб (KJV) наспроти букв. 'на кисело нешто' (YLT)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "мас на жртвата",
+      "rationale": "חלב חגי букв. 'маст на мојот празник' — можно е 'жртва од празникот' наместо 'празник' самиот"
+    }
+  ],
+  "translation": "Да не жртвуваш врз квасно ⟨את⟩ крвта на жртвата моја, и маста од празникот мој да не престојува до утрината.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "62b24199962a811747ff5d2728526c7f5b115435ef9b37156accf5b4ede11b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/23\/17-20.1792443689641.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Да не"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "жртвуваш"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "квасно"
+    },
+    {
+      "surface": "דם",
+      "gloss": "крвта"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "на жртвата моја"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "престојува"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "маста"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "од празникот мој"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "утрината"
+    }
+  ],
+  "timestamp": "2026-10-19T21:01:29.644674292Z",
+  "model": "glm-5.3"
+}

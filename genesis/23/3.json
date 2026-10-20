@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מעל פני",
+      "rationale": "Буквално „од врз лицето на“ — македонскиот само „од“."
+    },
+    {
+      "kind": "you",
+      "subject": "кон синовите на Хет",
+      "rationale": "Аврахам им се обраќа на Хетите — говорот започнува во стих 4."
+    }
+  ],
+  "translation": "И стана Аврахам од лицето на мртовецот свој, и проговори кон синовите на Хет, велејки:",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "76da426a409e03a75f5be6fde419f10f5bd6faa6bc76dfdaa3ff6fd250d0df6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/23\/1-4.1792442643952.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето на"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "мртовецот свој"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и проговори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите на"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хет"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејки"
+    }
+  ],
+  "timestamp": "2026-10-19T20:44:03.954626322Z",
+  "model": "glm-5.3"
+}

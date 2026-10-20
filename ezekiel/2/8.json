@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 2:8",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Езекиил",
+      "rationale": "низ од императиви упатени директно до човечкиот син"
+    },
+    {
+      "kind": "invitation",
+      "subject": "слушај… јади",
+      "rationale": "повик-забрана: слушај, отвори, јади — вовлекува читателот во чинови"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרי \/ המרי",
+      "rationale": "коренот мрј (бунт) во еден стих двапати, четврт пат во одделокот"
+    }
+  ],
+  "translation": "И ти, човечки сине, слушај ⟨את⟩ она што јас ти го говорам; не биди бунтовен како домот бунтовен! Отвори го твојата уста и јади ⟨את⟩ она што јас ти давам!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b0cce414d053f980845e9253dc2771b226228dd5efc47b32b721c7bf7b7dc2e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/2\/5-8.1792451328598.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "И ти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечки"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слушај"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "она што јас ти го говорам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "она што"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "говорам"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "биди"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "бунтовен"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "како домот"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "бунтовниот"
+    },
+    {
+      "surface": "פצה",
+      "gloss": "Отвори"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "твојата уста"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "и јади"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "она што јас ти давам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "она што"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "давам"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-10-19T23:08:48.599565264Z",
+  "model": "glm-5.3"
+}

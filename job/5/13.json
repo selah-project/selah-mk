@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 5:13",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נמהרה",
+      "rationale": "KJV 'is carried headlong' (брзо е понесен) наспроти LXX\/Вулгата 'се посрамува' — јадовскиот корен значи тече\/брза."
+    },
+    {
+      "kind": "substitution",
+      "subject": "извиткани",
+      "rationale": "נפתלים — букв. 'извиткани, преплетени', слика на морална искривеност, не само 'лукави'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "lucavost\/izvitkani",
+      "rationale": "хебрејскиот пар ערמה\/פתל ја држи сликата на преплетување и смотанување во мрежа."
+    }
+  ],
+  "translation": "Ги фаќа мудрите во нивната лукавост, и советот на извитканите брзо се стркала.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c7d2aec0790f3f4feb2a623ec8498f6c0e9d95f0edbddc968efc20ed0c53fcff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/5\/13-16.1792454884304.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכד",
+      "gloss": "Ги фаќа"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрите"
+    },
+    {
+      "surface": "בערמם",
+      "gloss": "во нивната лукавост"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "и советот"
+    },
+    {
+      "surface": "נפתלים",
+      "gloss": "на извитканите"
+    },
+    {
+      "surface": "נמהרה",
+      "gloss": "брзо се стркала"
+    }
+  ],
+  "timestamp": "2026-10-20T00:08:04.304528015Z",
+  "model": "glm-5.3"
+}

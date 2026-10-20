@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 18:12",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מחנה דן",
+      "rationale": "'Логор на Дан' — топоним роден од настанот, значењето е проѕирно во хебрејскиот."
+    },
+    {
+      "kind": "alternative",
+      "subject": "אחרי קרית יערים",
+      "rationale": "'Зад\/западно од Киријат-Јеарим' — некои преведуваат 'западно', бидејќи 'зад' во библискиот начин на гледање значи запад."
+    }
+  ],
+  "translation": "И се искачија и се логораа кај Киријат-Јеарим во Јуда; затоа го нарекоа тоа место Махане-Дан, до овој ден — еве, зад Киријат-Јеарим.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "60f8cf03329e9e4147f01c00d639b2a2193894546c8e789c481117419dca8e70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/18\/9-12.1792446565039.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "И се искачија"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и се логораа"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "кај Киријат"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Јеарим"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "во Јуда"
+    },
+    {
+      "surface": "על",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "го нарекоа"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "местото"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "Махане"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "овој ден"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "зад"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Киријат"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Јеарим"
+    }
+  ],
+  "timestamp": "2026-10-19T21:49:25.041599913Z",
+  "model": "glm-5.3"
+}

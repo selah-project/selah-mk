@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 16:3",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "Хебрејскиот нема копула; македонскиот ја бара."
+    },
+    {
+      "kind": "crux",
+      "subject": "мкорתיך",
+      "rationale": "Хапакс во множина: „потоци\/изворишта“ како место на потекло наспроти традиционалното „живеалиште“."
+    }
+  ],
+  "translation": "и кажи: Така вели Адонај Јахве на ⟨את⟩ Јерушалаим: Потоците твои и родот твој ⟨се⟩ од земјата на Хананеецот; татко ти — Амореец, а мајка ти — Хетејка.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "02571a2b4194ea0a33b19d8862d080d37c80ca8b47edaa0d958153893f6516ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/16\/1-4.1792451476476.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "и кажи"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "на Јерушалаим"
+    },
+    {
+      "surface": "מכרתיך",
+      "gloss": "Потоците твои"
+    },
+    {
+      "surface": "ומלדתיך",
+      "gloss": "и родот твој"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "на Хананеецот"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "татко ти"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Амореец"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "а мајка ти"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Хетејка"
+    }
+  ],
+  "timestamp": "2026-10-19T23:11:16.477808910Z",
+  "model": "glm-5.3"
+}

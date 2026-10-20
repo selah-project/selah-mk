@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 27:5",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראש",
+      "rationale": "הכהן ראש: „свештеник, глава“ — дали е „главен свештеник“ (KJV) или „свештеникот, воен началник“ (JPS); букв. стои „свештеникот, глава“."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨како⟩",
+      "rationale": "хебрејскиот става ראש (глава) апозитивно без сврзник."
+    },
+    {
+      "kind": "measurement",
+      "subject": "24.000",
+      "rationale": "број на војници во месечната делба"
+    }
+  ],
+  "translation": "Началник на третата војска за третиот месец — Бенајаху, син на Јехојада свештеникот, ⟨како⟩ глава; и над неговата делба дваесет и четири илјади.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "94387d202d325cb132713675be5619be152cd2f6f8fb26669100ff5487a2df2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/27\/5-8.1792457254348.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "началник"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "на војската"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третата"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "за месецот"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третиот"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Бенајаху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "на Јехојада"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "глава"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "неговата делба"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "дваесет"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "и четири"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјади"
+    }
+  ],
+  "timestamp": "2026-10-20T00:47:34.348563659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "втора אשר",
+      "rationale": "Серија од пет אЛЕФ-ТАВ обележани објекти — нагласен стек на она што огнот го проголтува."
+    },
+    {
+      "kind": "substitution",
+      "subject": "лиже",
+      "rationale": "לחכה е буквално „лиже“ — оган што лиже, задржано наместо „исуши“."
+    }
+  ],
+  "translation": "И падна оган од Јахве, и ги изеде ⟨את⟩ сепаленикот и ⟨את⟩ дрвата и ⟨את⟩ камењата и ⟨את⟩ правот, а ⟨את⟩ водата што беше во каналот ја лиже.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e73263b2b224ed270ab18371faed27b323945380c3fc4ae3262dbdbd1b3b0a08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/18\/37-40.1792448891662.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "и падна"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оган"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "и ги изеде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сепаленикот"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "сепаленикот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "дрвата"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дрвата"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "камењата"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "камењата"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "правот"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "правот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "а ⟨את⟩",
+      "marks": "водата"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "во каналот"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "ја лиже"
+    }
+  ],
+  "timestamp": "2026-10-19T22:28:11.664596013Z",
+  "model": "glm-5.3"
+}

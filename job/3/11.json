@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מרחם \/ מבטן",
+      "rationale": "два збора за утроба во еден стих — повторување што тага го турка напред."
+    },
+    {
+      "kind": "substitution",
+      "subject": "згаснав",
+      "rationale": "גוע буквално „да издивнам“; „згаснав“ ја дава сликата на здивот што запира."
+    }
+  ],
+  "translation": "Зошто не умрев во утробата? Зошто, откако излегов од стомакот, не згаснав?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ecfed7b6939c18312c618bd114b16097bd56db81b6e3a54b1d35f8248973ecc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/3\/9-12.1792454833164.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Зошто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "мреспект",
+      "gloss": ""
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "во утробата"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "умрев"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "од стомакот"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "излегов"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "не згаснав"
+    }
+  ],
+  "timestamp": "2026-10-20T00:07:13.165926350Z",
+  "model": "glm-5.3"
+}

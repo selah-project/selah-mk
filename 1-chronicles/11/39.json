@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "носач на оружјето",
+      "rationale": "כלי е 'опрема\/сетла' — носачот на сетлата на Јоав, не само оружје."
+    }
+  ],
+  "translation": "Целек Амонитот, Нахарај Беротитот, носачот на оружјето на Јоав, синот на Церуја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fac1682aa39c9ffd7eda8a89f8ffc186f3277879cd06c5757d9add8f542435e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/11\/37-40.1792456967078.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "Целек"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "Амонитот"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "Нахарај"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "Беротитот"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "носачот"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "на оружјето"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Церуја"
+    }
+  ],
+  "timestamp": "2026-10-20T00:42:47.079795805Z",
+  "model": "glm-5.3"
+}

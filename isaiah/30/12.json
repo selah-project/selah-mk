@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 30:12",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונלוז",
+      "rationale": "волунтатив 'изопаченост' или инфинитив 'да застраниш' — традицијата се дели"
+    }
+  ],
+  "translation": "Затоа така рече Светиот на Јисраел: Бидејќи го отфрливте ⟨во⟩ овој збор, и се потпревте на насилство и изопаченост, и на него се потпревте —",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "d9c3cdd6e72b7018789e5998f405807fc651f453f90483d284d48343a86c376b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/30\/9-12.1792449941504.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Затоа"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Светиот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Бидејќи"
+    },
+    {
+      "surface": "מאסכם",
+      "gloss": "го отфрливте"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "збор"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "ותבטחו",
+      "gloss": "се потпревте"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "на насилство"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "и изопаченост"
+    },
+    {
+      "surface": "ותשענו",
+      "gloss": "се потпревте"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на него"
+    }
+  ],
+  "timestamp": "2026-10-19T22:45:41.508833656Z",
+  "model": "glm-5.3"
+}

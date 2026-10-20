@@ -1,0 +1,165 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 15:29",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשורה",
+      "rationale": "конечната ה е локативна наставка, не член — македонскиот бара предлог ⟨во⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "списокот на градови",
+      "rationale": "попишување на освоените места — град по град, со Галилеја и цела земја Нафтали како збир"
+    }
+  ],
+  "translation": "Во времето на Пеках, царот на Јисраел, дојде Тиглат Пилесер, царот на Ашур, и ги зеде ⟨את⟩ Ајон и ⟨את⟩ Авел Бет-Мааха и ⟨את⟩ Јаноах и ⟨את⟩ Кедеш и ⟨את⟩ Хацор и ⟨את⟩ Гилад и ⟨את⟩ Галилеја — цела земја Нафтали — и ги прогони ⟨во⟩ Ашур.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "bf182c679f9fe47a9406b97e821457128be26e6ee48fffec8ee0b652ad850492",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/15\/29-32.1792449334472.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימי",
+      "gloss": "во времето"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "Пеках"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "תגלת",
+      "gloss": "Тиглат"
+    },
+    {
+      "surface": "פלאסר",
+      "gloss": "Пилесер"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "на Ашур"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и ги зеде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ајон"
+    },
+    {
+      "surface": "עיון",
+      "gloss": "Ајон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Авел Бет-Мааха"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Авел"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Јаноах"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "Јаноах"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Кедеш"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кедеш"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Хацор"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Хацор"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Гилад"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гилад"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Галилеја"
+    },
+    {
+      "surface": "הגלילה",
+      "gloss": "Галилеја"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цела"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафтали"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "и ги прогони"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "во Ашур"
+    }
+  ],
+  "timestamp": "2026-10-19T22:35:34.474216822Z",
+  "model": "glm-5.3"
+}

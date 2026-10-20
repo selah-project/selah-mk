@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 6:20",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "למינהו ×3",
+      "rationale": "трикратното „според видот свој“ — ритмичко повторување на списокот"
+    }
+  ],
+  "translation": "Од птицата според видот нејзин, и од добитокот според видот негов, од сите влекачи на земјата според видот нивни — по два од сè — ќе дојдат кај тебе, за да останат живи.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "3e4f4c6099f9308f44020e264da326772f39283a572f0d4b8a1b4c0b70cb4a0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/6\/17-20.1792447676016.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהעוף",
+      "gloss": "од птицата"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "според видот нејзин"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "добитокот"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "според видот негов"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од сите"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "влекачи"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "според видот нивни"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "по два"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од сè"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ќе дојдат"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "кај тебе"
+    },
+    {
+      "surface": "להחיות",
+      "gloss": "за да останат живи"
+    }
+  ],
+  "timestamp": "2026-10-19T22:07:56.020761282Z",
+  "model": "glm-5.3"
+}

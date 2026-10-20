@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 50:9",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨таа⟩",
+      "rationale": "хебрејскиот има само תלכד (женски) — македонскиот бара подмет"
+    },
+    {
+      "kind": "crux",
+      "subject": "חציו",
+      "rationale": "„стрелите негови“ — на непријателот или на Вавилон; JPS чита поинаку"
+    },
+    {
+      "kind": "alternative",
+      "subject": "мошне силни воини",
+      "rationale": "„собор на големи народи“ може да значи и „собор на моќни народи“"
+    }
+  ],
+  "translation": "Зашто ете, јас разбудувам и кревам против Вавилон собор од големи народи од земјата северна; и ќе се подредат спроти неа — од таму ⟨таа⟩ ќе биде фатена; стрелите се како на храбар вешт ⟨јунак⟩ — нема да се врати празен.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cd30bd39cc9dcdf3e39c21ba13c902a8dba2733121b373c16a1dc264771e6fb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/50\/9-12.1792451249023.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ете"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "разбудувам"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "и кревам"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "собор"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "големи"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "северна"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "и ќе се подредат"
+    },
+    {
+      "surface": "לה",
+      "gloss": "спроти неа"
+    },
+    {
+      "surface": "משם",
+      "gloss": "од таму"
+    },
+    {
+      "surface": "תלכד",
+      "gloss": "ќе биде фатена"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "стрелите"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "како храбар"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "вешт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ќе се врати"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "празен"
+    }
+  ],
+  "timestamp": "2026-10-19T23:07:29.023826150Z",
+  "model": "glm-5.3"
+}

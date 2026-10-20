@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 7:26",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "gloss": "хебрејскиот нема глагол-врска во втората половина; именска реченица"
+    },
+    {
+      "kind": "crux",
+      "subject": "ועצמים",
+      "gloss": "„моќни“ (KJV: силните мажи се убиени) vs. „многубројни“ — асва го носи двете значења"
+    }
+  ],
+  "translation": "Зашто многу прободени фрли таа, и сите убиени нејзини ⟨се⟩ моќни.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2c5021b10bc9669fdb40cefa6f00269b147edf41173dcd54d74b4455b74f7137",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/7\/25-27.1792454366691.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многу"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "прободени"
+    },
+    {
+      "surface": "הפילה",
+      "gloss": "фрли таа"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "моќни"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הרגיה",
+      "gloss": "убиени нејзини"
+    }
+  ],
+  "timestamp": "2026-10-19T23:59:26.692727212Z",
+  "model": "glm-5.3"
+}

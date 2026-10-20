@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מסח",
+      "rationale": "масах — во Танахот стои само тука; значење 'воен појас\/препрека' се реконструира од контекст"
+    },
+    {
+      "kind": "crux",
+      "subject": "масах",
+      "rationale": "KJV чита 'да не биде пробиен', ASV\/JPS 'како препрека', YLT 'соборен' — зборот е еднократен и нејасен"
+    }
+  ],
+  "translation": "и третина на портата Сур, и третина на портата зад трчачите; и вие ќе ја чувате ⟨את⟩ стражата на домот како препрека.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "098ecdd1aeadeb978df1622597a1639f8b85f034d8dfc876a958172ab2cf4a62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/11\/5-8.1792449242497.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "и третина"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "на портата"
+    },
+    {
+      "surface": "סור",
+      "gloss": "Сур"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "и третина"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "на портата"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "зад"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "трчачите"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "и ќе чувате"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стражата"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "стражата"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "како препрека"
+    }
+  ],
+  "timestamp": "2026-10-19T22:34:02.499726099Z",
+  "model": "glm-5.3"
+}

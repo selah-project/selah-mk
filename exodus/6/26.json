@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот е именска реченица без глагол"
+    },
+    {
+      "kind": "crux",
+      "subject": "על צבאתם",
+      "rationale": "„според нивните војски“ — букв. „над нивните војски“; војска или ред\/одреди"
+    }
+  ],
+  "translation": "Тоа ⟨се⟩ Ахарон и Моше, на кои Јахве им рече: Изведете ги ⟨את⟩ синовите Јисраелови од земјата Мицраим, според нивните војски.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "689f33bf5af3b1e4ab96bf325e77b2f3117236da145924433cf04301b21bd051",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/6\/25-28.1792443365549.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Тоа"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "и Моше"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "на кои"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "Изведете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синовите Јисраелови"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "על",
+      "gloss": "според"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "нивните војски"
+    }
+  ],
+  "timestamp": "2026-10-19T20:56:05.555969041Z",
+  "model": "glm-5.3"
+}

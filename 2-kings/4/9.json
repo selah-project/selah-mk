@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 4:9",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула; הוא е нагласено, македонскиот бара ⟨е⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "свесност",
+      "rationale": "ידעתי е 'знам' (сегашно совршено), 'знам сега' во традицијата"
+    }
+  ],
+  "translation": "И таа му рече на својот маж: Еве, те молам, знам дека ова е свет човек на Елохим, кој минува покрај нас постојано.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "5466244a943ad9442a68a231c0fd68c1830165fd0540e6b743de938a048b0146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/4\/9-12.1792449048559.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "својот маж"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молам"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "свет"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨е⟩"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "минува"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "покрај нас"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "постојано"
+    }
+  ],
+  "timestamp": "2026-10-19T22:30:48.560636557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 2:21",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "со",
+      "rationale": "македонскиот бара предложен пат пред „плот“; хебрејскиот има гола номинација"
+    },
+    {
+      "kind": "substitution",
+      "subject": "длабок сон",
+      "rationale": "תרדמה е длабока вода\/транс, подлабока од обичен сон"
+    },
+    {
+      "kind": "elision",
+      "subject": "тој",
+      "rationale": "заменката во „и тој заспа“ е додадена за јасност — хебрејскиот има само ויישן"
+    }
+  ],
+  "translation": "И Јахве Елохим фрли длабок сон врз човекот, и тој заспа; и зеде една од ребрата негови, и го затвори ⟨со⟩ плот место неа.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f140cd0774f5bb110bd3acd7ed3aec53bebda3d6b35a55e10dd6ed8102089fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/2\/21-24.1792442377691.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "фрли"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "длабок сон"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "заспа"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "зеде"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "од ребрата негови"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "го затвори"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плот"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "место неа"
+    }
+  ],
+  "timestamp": "2026-10-19T20:39:37.692671698Z",
+  "model": "glm-5.3"
+}

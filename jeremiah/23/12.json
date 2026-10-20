@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 23:12",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "на нивната посета",
+      "rationale": "פקדתם — 'посета\/дознавање\/казна' — посетата на Јахве што носи пресуда"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלקלקות",
+      "rationale": "удвојниот корен חלק-לקות 'мазко-лизгаво' — звучната играта се губи во македонскиот"
+    }
+  ],
+  "translation": "Затоа патот нивен ќе им биде како лизгави места во темнина; ќе бидат турнати и ќе паднат во него, зашто ќе наведам врз нив зло — годината на нивната посета, вели Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5baecef3a4577431dff609f2b59f58d1e61d01b99b0d57699f0237daaeda1d12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/23\/9-12.1792450705095.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "патот нивен"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כחלקלקות",
+      "gloss": "како лизгави места"
+    },
+    {
+      "surface": "באפלה",
+      "gloss": "во темнина"
+    },
+    {
+      "surface": "ידחו",
+      "gloss": "ќе бидат турнати"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "и ќе паднат"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во него"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ќе наведам"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "врз нив"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "годината"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "на нивната посета"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T22:58:25.097166765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 5:14",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "од присуството",
+      "rationale": "מפני буквално „од лицето на“ облакот; „од присуството“ го чува односот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "славата",
+      "rationale": "כבוד буквално е „тежина“; фигуративно — сјај, слава."
+    }
+  ],
+  "translation": "И свештениците не можеа да стојат за да служат од присуството на облакот, зашто славата на Јахве го наполни ⟨את⟩ домот на Елохим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "35b8603de196ff3a4011f1ba0ec10f4415f17b04d3cba9aaccba4cf81a8e2069",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/5\/13-14.1792457379604.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "можеа"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свештениците"
+    },
+    {
+      "surface": "לעמוד",
+      "gloss": "да стојат"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "да служат"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "од присуството"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "на облакот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "наполни"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "домот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    }
+  ],
+  "timestamp": "2026-10-20T00:49:39.605766296Z",
+  "model": "glm-5.3"
+}

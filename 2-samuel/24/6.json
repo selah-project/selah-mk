@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 24:6",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תחתים חדשי",
+      "rationale": "Тахтим-Ходши — непознато место, се чита и како „долната земја на Ходеш“"
+    }
+  ],
+  "translation": "Дојдоа во Гилад и во земјата Тахтим-Ходши, и дојдоа во Дан-Јаан, и наоколу до Цидон.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "64457e4ec994ba250abfd05a1ea22aa0a383c5b3787cd50b17a8827deeebff04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/24\/5-8.1792448490372.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "дојдоа"
+    },
+    {
+      "surface": "הגלעדה",
+      "gloss": "во Гилад"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "תחתים",
+      "gloss": "Тахтим"
+    },
+    {
+      "surface": "חדשי",
+      "gloss": "Ходши"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "дојдоа"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Јаан"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "наоколу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Цидон"
+    }
+  ],
+  "timestamp": "2026-10-19T22:21:30.373634764Z",
+  "model": "glm-5.3"
+}

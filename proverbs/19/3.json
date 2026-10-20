@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "се гневи",
+      "rationale": "יזעף буквално 'кипи, врие' — сликата на зовриена крв е изгубена"
+    },
+    {
+      "kind": "alternative",
+      "subject": "а против",
+      "rationale": "ועל може и 'а врз\/кај' — срцето се гневи насочено кон Јахве"
+    }
+  ],
+  "translation": "Лудоста на човекот му ја изопачува патеката негова, а против Јахве се гневи срцето негово.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8a24d07722e6482b14fd21664da9feea6d1a57470864bf4db479696f3fea60f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/19\/1-4.1792454567707.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "Лудоста"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на човекот"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "му ја изопачува"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "патеката негова"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "а против"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "יוזעף",
+      "gloss": "се гневи"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срцето негово"
+    }
+  ],
+  "timestamp": "2026-10-20T00:02:47.708510353Z",
+  "model": "glm-5.3"
+}

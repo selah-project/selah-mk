@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 35:3",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "добиток",
+      "rationale": "בהמה е сточен четроножен добиток, не 'катоци' во општа смисла."
+    }
+  ],
+  "translation": "И градовите ќе им бидат за живеење, а пасиштата нивни ќе бидат за добитокот нивни, и за имотот нивни, и за сите животни нивни.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ca51427f5a2cfd942f72823f44e1936f8443529e9833bc95f3b5835a10de0601",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/35\/1-4.1792445254878.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "И ќе бидат"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "градовите"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "за живеење"
+    },
+    {
+      "surface": "ומגרשיהם",
+      "gloss": "а пасиштата нивни"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ќе бидат"
+    },
+    {
+      "surface": "לבהמתם",
+      "gloss": "за добитокот нивен"
+    },
+    {
+      "surface": "ולרכשם",
+      "gloss": "и за имотот нивен"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "и за сите"
+    },
+    {
+      "surface": "חיתם",
+      "gloss": "животни нивни"
+    }
+  ],
+  "timestamp": "2026-10-19T21:27:34.879672392Z",
+  "model": "glm-5.3"
+}

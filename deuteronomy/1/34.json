@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "гласот на вашите зборови",
+      "rationale": "хебрејски 'кол диврејхем' — глас на зборовите, звучење на кажаното"
+    }
+  ],
+  "translation": "И чу Јахве ⟨את⟩ гласот на вашите зборови, и се разгневи, и се заколна, велејќи:",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5dc452bdaab97c29b94c3dff9d95f836b91d055c9d319ac542689dc77794cd1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/1\/33-36.1792445302752.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И чу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гласот"
+    },
+    {
+      "surface": "קול",
+      "gloss": "гласот"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "на вашите зборови"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "и се разгневи"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "и се заколна"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    }
+  ],
+  "timestamp": "2026-10-19T21:28:22.753610240Z",
+  "model": "glm-5.3"
+}

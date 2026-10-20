@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "плеќа",
+      "rationale": "שכם значи 'рамо\/плеќа' (место на товар); традицијата го чита како 'да им го свртиш грбот' (бегство), што е заклучок, не зборот."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ќе ги поставиш плеќа",
+      "rationale": "Дословно 'ќе ги ставиш како рамо' — слика на непријателот што свртува плеќа и бега."
+    },
+    {
+      "kind": "substitution",
+      "subject": "нишаниш",
+      "rationale": "כון е 'да поставиш право\/исправиш' — слика на нишанење, не стрелкање уште."
+    }
+  ],
+  "translation": "Зашто ќе ги поставиш плеќа, со твоите тетиви ќе нишаниш кон нивните лица.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0044df2dba283a55fb7ded3279a7420f3729d437ed36f52db4edb4d696940dbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/21\/13-14.1792453057715.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "ќе ги поставиш"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "плеќа"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "со твоите тетиви"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "ќе нишаниш"
+    },
+    {
+      "surface": "על",
+      "gloss": "кон"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "нивните лица"
+    }
+  ],
+  "timestamp": "2026-10-19T23:37:37.715994074Z",
+  "model": "glm-5.3"
+}

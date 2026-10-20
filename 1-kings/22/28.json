@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 22:28",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שוב תשוב",
+      "rationale": "Инфинитивен апсолутив пред конечниот глагол — „навистина да се вратиш“; буквата е удвојување за потврда."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Слушајте, народи, сите",
+      "rationale": "Повик до слушателите — последниот јавен повик на Микајаху."
+    },
+    {
+      "kind": "substitution",
+      "subject": "низ мене",
+      "rationale": "בי е буквално „во мене“; „низ мене“ ја носи сликата на говор како канал."
+    }
+  ],
+  "translation": "И рече Микајаху: Ако навистина се вратиш во мир, не зборувал Јахве низ мене. И рече: Слушајте, народи, сите!",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "46c7a989be45396f2f12da7e0ec0e7388384be2a5439b56948d2f2b6ebcf3c5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/22\/25-28.1792448955663.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Микајаху"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "навистина"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "се вратиш"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "во мир"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборувал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בי",
+      "gloss": "низ мене"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Слушајте"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "сите"
+    }
+  ],
+  "timestamp": "2026-10-19T22:29:15.664554232Z",
+  "model": "glm-5.3"
+}

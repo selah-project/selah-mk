@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וייטב לב",
+      "rationale": "буквално 'и стана добро срцето' — израз на радост, редот на предметите е обратен од стих 17"
+    }
+  ],
+  "translation": "И се зарадува срцето на свештеникот, и ги зеде ⟨את⟩ ефодот и ⟨את⟩ терафимите и ⟨את⟩ резбаниот идол, и отиде меѓу народот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9e33979c6ea12a25f981f4251d1c1da4c47b66b7fc3b2d1e40678cf429e4c6ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/18\/17-20.1792446584627.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "се зарадува"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срцето"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "на свештеникот"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ги зеде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ефодот"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ефодот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "терафимите"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "терафимите"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "резбаниот идол"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "резбаниот идол"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:49:44.629216498Z",
+  "model": "glm-5.3"
+}

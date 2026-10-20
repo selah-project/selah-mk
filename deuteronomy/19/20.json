@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 19:20",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא יספו עוד",
+      "rationale": "буквално 'нема да додаат уште' — хебрејскиот збор за 'продолжи' е 'додади', македонскиот вели 'нема веќе'"
+    },
+    {
+      "kind": "you",
+      "subject": "до заедницата",
+      "rationale": "општествената цел е превентива — паѓањето во страв кај оние што слушаат"
+    }
+  ],
+  "translation": "И преостанатите ќе чујат и ќе се уплацат, и нема веќе да додаваат да прават според ова зло нешто во средата своја.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ab4e65d3a425e3f948d1a6ca9018f26c24d8a0e31f939baf77914c7b109a76b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/19\/17-20.1792445581271.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "И преостанатите"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ќе чујат"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "и ќе се уплацат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "да додаваат"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да прават"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "веќе"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "според нешто"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "во средата своја"
+    }
+  ],
+  "timestamp": "2026-10-19T21:33:01.272693908Z",
+  "model": "glm-5.3"
+}

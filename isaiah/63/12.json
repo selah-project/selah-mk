@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 63:12",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מוליך לימין משה",
+      "rationale": "„го водеше по десната рака на Моше“ наспроти „ја испрати славната мишка да оди по десната рака на Моше“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שם עולם",
+      "rationale": "„име“ и „вечна“ — трајна споменка; повторувањето на עולם со 63:9 и 63:11."
+    }
+  ],
+  "translation": "Оној што одеше по десната рака на Моше, со мишката на славата Своја; Оној што ги расцепи водите пред нив, за да си направи себe име вечна?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bbdab2a86cd87b5b6ec99e36b4b7fc50cf5f43ab9a05a0e3102c13b9ed6189aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/63\/9-12.1792450292062.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מוליך",
+      "gloss": "Оној што одеше"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "по десната рака"
+    },
+    {
+      "surface": "משה",
+      "gloss": "на Моше"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "мишката"
+    },
+    {
+      "surface": "תפארתו",
+      "gloss": "на славата Своја"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "Оној што расцепи"
+    },
+    {
+      "surface": "מים",
+      "gloss": "водите"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "пред нив"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "за да направи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "себe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечна"
+    }
+  ],
+  "timestamp": "2026-10-19T22:51:32.064476650Z",
+  "model": "glm-5.3"
+}

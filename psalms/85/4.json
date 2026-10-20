@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жарот на лутината",
+      "rationale": "חֲרוֹן אַף буквално 'горење на ноздрите' — хебрејска слика за избувнат гнев, изгубена во македонскиот"
+    },
+    {
+      "kind": "alternative",
+      "subject": "се врати",
+      "rationale": "השיבות може да би и преносно: 'го врати' жарот — но без објект македонскиот бара возвратен глагол"
+    }
+  ],
+  "translation": "Го прибра сиот свој гнев, се врати од жарот на лутината своја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/85\/1-4.1792453647041.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Го прибра"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сиот"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "свој гнев"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "се врати"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "жарот"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "на лутината своја"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:27.042234108Z",
+  "model": "glm-5.3"
+}

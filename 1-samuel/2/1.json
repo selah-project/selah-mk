@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 2:1",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "хебрејскиот нема возвратна честичка кај עלץ и רחב"
+    },
+    {
+      "kind": "substitution",
+      "subject": "рогот",
+      "rationale": "קרן е рог — символ на сила и достоинство; задржана е буквата на сликата"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "песна на Хана",
+      "rationale": "серија кратки паралели: срце\/рог\/уста, типична хебрејска поезија на победа"
+    }
+  ],
+  "translation": "И се помоли Хана и рече: Возлути ⟨се⟩ срцето мое во Јахве, крената е рогот мој во Јахве, прошири ⟨се⟩ устата моја спроти непријателите мои, зашто се зарадував во спасението твое.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "de876f4b77ed6ae946f0fbcb09ebde86173e2e0da637a189c61241495c1bd821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/2\/1-4.1792446665343.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתפלל",
+      "gloss": "и се помоли"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Хана"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "עלץ",
+      "gloss": "возлути"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "срцето мое"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "во Јахве"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "крената е"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "рогот мој"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "во Јахве"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "прошири"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устата моја"
+    },
+    {
+      "surface": "על",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "непријателите мои"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "се зарадував"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "во спасението твое"
+    }
+  ],
+  "timestamp": "2026-10-19T21:51:05.343660034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "шофха",
+      "rationale": "שפכה 'цивка, излив' како назив за машкиот член се јавува само тука во Танах."
+    },
+    {
+      "kind": "crux",
+      "subject": "пцуа дака",
+      "rationale": "Сматано од рабинската традиција како стерилизиран или спречен; дословно 'расцепен-смачкан', слика повреда на тестисите."
+    }
+  ],
+  "translation": "Нема да влезе ранет-од-смачкување и отсечен-во-тивот во собранието на Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "eb4129bc2faeda18b5719cfc8cacc7f6a8d82ee068b1a311486b76b946c1cbea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/23\/1-4.1792445699394.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "да влезе"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "ранет"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "од-смачкување"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "и-отсечен"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "во-тивот"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "во собранието"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:34:59.396045345Z",
+  "model": "glm-5.3"
+}

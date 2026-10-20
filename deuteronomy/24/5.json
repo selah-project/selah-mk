@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 24:5",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "слободен",
+      "rationale": "נקי буквално 'невин, чист'; тука значи 'ослободен од должност'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "שנה אחת",
+      "rationale": "една година — определен рок за новоженец"
+    }
+  ],
+  "translation": "Кога човек ќе земе нова жена, нема да излезе во војска, ниту ќе му се наметне ⟨на него⟩ ни за каква работа: слободен ⟨нека⟩ биде за домот свој една година, и да ја насрами ⟨את⟩ жената своја што ја зел.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "76336aa17e4422a892c2b47a6f36f236a34b4dede648dba622af7f8f1ad0534d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/24\/5-8.1792445667940.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Кога"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ќе земе"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "нова"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "да излезе"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "во војска"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ниту"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ќе му се наметне"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ни за каква"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "работа"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "слободен"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "нека биде"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "за домот свој"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "и да ја насрами"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жената своја"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жената своја"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ја зел"
+    }
+  ],
+  "timestamp": "2026-10-19T21:34:27.940797834Z",
+  "model": "glm-5.3"
+}

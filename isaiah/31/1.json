@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 31:1",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "Хебрејскиот ги изоставува копулата и глаголот во клазите „зашто ⟨се⟩ многу“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שענו\/שעו",
+      "rationale": "коренот שׁען (потпира) и שׁעע (погледнува, исти согласки) — relied vs. looked, играта исчезнува во македонскиот"
+    }
+  ],
+  "translation": "Ој на оние што слегуваат во Мицраим за помош! На коњи се потпираат и на коленици се надеваат, зашто ⟨се⟩ многу, и на коњици, зашто ⟨се⟩ многу силни; но кон Светиот на Јисраел не погледнаа, и ⟨את⟩ Јахве не го побараа.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "f632ec8308c30b086a285f70b6e19320d059822ae3cb3da2015ceb73fa9b6cc1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/31\/1-4.1792449926153.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ој"
+    },
+    {
+      "surface": "הירדים",
+      "gloss": "на оние што слегуваат"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "во Мицраим"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "за помош"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "коњи"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "се потпираат"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "и се надеваат"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "коленици"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "רב",
+      "gloss": "многу"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "коњици"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "силни"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "שעו",
+      "gloss": "погледнаа"
+    },
+    {
+      "surface": "על",
+      "gloss": "кон"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Светиот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "го побараа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:45:26.155564714Z",
+  "model": "glm-5.3"
+}

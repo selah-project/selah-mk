@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 6:1",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "од",
+      "rationale": "конструктот הרי נחשת бара македонски предлог"
+    },
+    {
+      "kind": "measurement",
+      "subject": "четири коли",
+      "rationale": "броење: четири коли, двата рида"
+    }
+  ],
+  "translation": "И се вратив, и ги кренав очите мои, и видов, и еве — четири коли излегуваа од меѓу двата рида; а ридовите беа ридови ⟨од⟩ бронза.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e74576df6465bce55df924615bbce4714a64480a427a9b21afd0505228ca428d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/6\/1-4.1792452774577.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשב",
+      "gloss": "се вратив"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ги кренав"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очите мои"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "и видов"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и еве"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "коли"
+    },
+    {
+      "surface": "יצאות",
+      "gloss": "излегуваа"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "од меѓу"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двата"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "рида"
+    },
+    {
+      "surface": "וההרים",
+      "gloss": "а ридовите"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "ридови"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "бронза"
+    }
+  ],
+  "timestamp": "2026-10-19T23:32:54.577814371Z",
+  "model": "glm-5.3"
+}

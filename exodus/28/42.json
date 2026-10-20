@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 28:42",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מכנסי",
+      "rationale": "микнес — долни алишта; хебрејскиот е во двоина (две ногавици), македонскиот нема двоина"
+    }
+  ],
+  "translation": "И прави им долни алишта од лен за покривање на телото на срамот — од бедрата до стеговите да бидат.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1b12633f3b93c5e06ea52bb0623447b77a1a5292a2c5f0a557da790b396de6d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/28\/41-43.1792443798779.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "и прави"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "долни алишта"
+    },
+    {
+      "surface": "בד",
+      "gloss": "од лен"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "за покривање"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "телото"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "на срамот"
+    },
+    {
+      "surface": "ממתנים",
+      "gloss": "од бедрата"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "ירכים",
+      "gloss": "стеговите"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "да бидат"
+    }
+  ],
+  "timestamp": "2026-10-19T21:03:18.784152037Z",
+  "model": "glm-5.3"
+}

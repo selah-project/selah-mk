@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 45:21",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "швесто מצות",
+      "rationale": "буквално 'маци' — слатки\/бесквасни лебови; 'бесквасен леб' е опис, не звук"
+    },
+    {
+      "kind": "measurement",
+      "subject": "датум",
+      "rationale": "четиринаесетти ден од месецот — бројниот ред е во самиот стих"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבעות",
+      "rationale": "и 'седумица' и 'седмици' — тука седум дена, а зборот е ист како празникот Шавуот"
+    }
+  ],
+  "translation": "Во првиот, на четиринаесеттиот ден од месецот, ќе ви биде Песахот — празник од седум дена; бесквасен леб ќе се јаде.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "71fef6124124922a471a36a195be2d461eb7ba14c115d53cfe54d33f52cb6058",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/45\/21-24.1792452125494.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בראשון",
+      "gloss": "во првиот"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "на четири"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наесет"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "од месецот"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песахот"
+    },
+    {
+      "surface": "חג",
+      "gloss": "празник"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "седум"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дена"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "бесквасен леб"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ќе се јаде"
+    }
+  ],
+  "timestamp": "2026-10-19T23:22:05.495033423Z",
+  "model": "glm-5.3"
+}

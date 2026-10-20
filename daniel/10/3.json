@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "трите седмици дни",
+      "rationale": "бројње на времето на постот"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא בא אל פי",
+      "rationale": "„не влезе во устата моја“ — хебрејски начин да се рече „не консумирав“"
+    }
+  ],
+  "translation": "Леб пожелен не јадев, ни месо ни вино не влезе во устата моя, и со масло не се намачкав, додека не се исполнија трите седмици дни.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3aca032882614d295d1faee0573a2bd2d25aea6b0d8d6debb9afed6192c51bf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/10\/1-4.1792456172356.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Леб"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "пожелен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "јадев"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ни месо"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ни вино"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בא",
+      "gloss": "влезе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устата моя"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "и со масло"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "се намачкав"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "не се исполнија"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "трите"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "седмици"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дени"
+    }
+  ],
+  "timestamp": "2026-10-20T00:29:32.357554010Z",
+  "model": "glm-5.3"
+}

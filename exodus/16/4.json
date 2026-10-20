@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 16:4",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דבר יום ביומו",
+      "rationale": "Букв. „работа\/збор на ден во денот негов“ — „дневна количина“; KJV „a certain rate“"
+    },
+    {
+      "kind": "mystery",
+      "subject": "леб од небесата",
+      "rationale": "Најава на нешто невидено — што е овој леб сè уште не е откриено"
+    }
+  ],
+  "translation": "И рече Јахве на Моше: Еве, Јас ќе ви врнам леб од небесата, и нека излезе народот и да собираат колку за еден ден, во денот негов — за да го испитам дали ќе оди во Мојата Тора, или не.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "8af8f9c3a55ffaf8b44f5422e406409016e09f97bbeb1e2aba11aa076425aec6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/16\/1-4.1792443556578.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Еве, Јас"
+    },
+    {
+      "surface": "ממטיר",
+      "gloss": "ќе врнам"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и нека излезе"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "ולקטו",
+      "gloss": "и да собираат"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "колку"
+    },
+    {
+      "surface": "יום",
+      "gloss": "за еден ден"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "во денот негов"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "אנסנו",
+      "gloss": "го испитам"
+    },
+    {
+      "surface": "הילך",
+      "gloss": "дали ќе оди"
+    },
+    {
+      "surface": "בתורתי",
+      "gloss": "во Мојата Тора"
+    },
+    {
+      "surface": "אם",
+      "gloss": "или"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    }
+  ],
+  "timestamp": "2026-10-19T20:59:16.589834234Z",
+  "model": "glm-5.3"
+}

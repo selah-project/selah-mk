@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сум",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "addition",
+      "subject": "никој",
+      "rationale": "אפס е придавка\/прилог „крај, ништо повеќе“, проширено со „никој нема“"
+    }
+  ],
+  "translation": "за да знаат од изгревањето на сонцето и од западот дека никој нема освен Мене; Јас ⟨сум⟩ Јахве и нема друг.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a2319d47bf10e5600081d6627eb87009091f23f577112c5d2b1cfb5b64ecdd40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/45\/5-8.1792450135862.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знаат"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "од изгревањето"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "на сонцето"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "и од западот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "никој нема"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "освен Мене"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "друг"
+    }
+  ],
+  "timestamp": "2026-10-19T22:48:55.863186913Z",
+  "model": "glm-5.3"
+}

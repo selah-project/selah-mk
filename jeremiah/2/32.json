@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 2:32",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "денови без број",
+      "rationale": "Броење време — неизброиви денови на заборав."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "риторичко прашање",
+      "rationale": "Сликата девица\/невеста со накит спроти народот што го заборавил Јахве — срамот се губи во превод."
+    }
+  ],
+  "translation": "Заборава ли девица накитот свој, или невеста појасот свој? А народот мој мене ме заборави денови без број.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "682a3bce84006cc457d5550898c4cb8d713bcfe03b0235b67f1c64347c5601c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/2\/29-32.1792450418237.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "Заборава ли"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "девица"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "накитот свој"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "невеста"
+    },
+    {
+      "surface": "קשריה",
+      "gloss": "појасот свој"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "А народот мој"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "мене ме заборави"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "денови"
+    },
+    {
+      "surface": "אין",
+      "gloss": "без"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "број"
+    }
+  ],
+  "timestamp": "2026-10-19T22:53:38.238499222Z",
+  "model": "glm-5.3"
+}

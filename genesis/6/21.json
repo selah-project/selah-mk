@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 6:21",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מאכל\/יאכל\/לאכלה",
+      "rationale": "три форми на коренот אכל (јаде) во еден стих — храна\/се јаде\/за јадење; македонскиот го губи тројното повторување"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ја⟩ · ⟨таа⟩",
+      "rationale": "хебрејскиот не ја изрекува именската фраза за храната како предмет во вториот дел"
+    }
+  ],
+  "translation": "И ти земи за себе од сета храна што се јаде, и собери ⟨ја⟩ кај себе; и ⟨таа⟩ ќе биде за тебе и за нив за јадење.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3947e8d9366035b5c148ca6650227557417e0bb1c52013a453a423bdbcfdf029",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/6\/21-22.1792442426529.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "и ти"
+    },
+    {
+      "surface": "קח",
+      "gloss": "земи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за себе"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од сета"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "храна"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "се јаде"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "и собери"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "кај тебе"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за тебе"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "и за нив"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "за јадење"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:26.530610322Z",
+  "model": "glm-5.3"
+}

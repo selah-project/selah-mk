@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 10:19",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וזנבתם",
+      "rationale": "од корен за 'опашка\/заден дел': 'напаѓајте ги одзада' наспроти 'истребувајте ги заостанатите' (KJV)"
+    },
+    {
+      "kind": "you",
+      "subject": "до војската",
+      "rationale": "директен говор на Јехошуа до војниците"
+    }
+  ],
+  "translation": "А вие не стојте; гонете ги непријателите ваши и задевајте ги ⟨את⟩ одзади; не давајте им да влезат во градовите нивни, зашто Јахве, Елохим вашиот, ги даде во раката ваша.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3ad32088330da79b6e7acf6dbf391c509a699a8de7c731ddd8a46b22dc209c47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/10\/17-20.1792445999582.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "А вие"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "стојте"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "гонете"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ги"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "непријателите ваши"
+    },
+    {
+      "surface": "וזנבתם",
+      "gloss": "и задевајте ги"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתנום",
+      "gloss": "давајте им"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "да влезат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "градовите нивни"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "ги даде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елохим вашиот"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "во раката ваша"
+    }
+  ],
+  "timestamp": "2026-10-19T21:39:59.583314004Z",
+  "model": "glm-5.3"
+}

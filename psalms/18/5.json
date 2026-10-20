@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "безделнија",
+      "rationale": "בליעל е 'без вредност, расипаност'; дел од традицијата го зема како лично име Велиал (JPS)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חבלי\/נחלי",
+      "rationale": "парономасија: чел-маvet наспроти нахал — 'јажиња' и 'потоци', сличен звук"
+    }
+  ],
+  "translation": "Опколија ме јажињата на смртта, и потоците на безделнијата ме уплашија.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ba9860e17bc2d3b95092939356ff36087dcf98587ed75d1aacf106c838a4c4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/18\/5-8.1792453018892.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "опколија ме"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "јажињата на"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смртта"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "и потоците на"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "безделнијата"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "ме уплашија"
+    }
+  ],
+  "timestamp": "2026-10-19T23:36:58.892566010Z",
+  "model": "glm-5.3"
+}

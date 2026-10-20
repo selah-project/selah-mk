@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בי נשבעו",
+      "rationale": "„се заколнаа во мене“ (KJV) наспроти „колнат во моето име“ (ASV\/JPS: корат ме со клетва)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מהוללי",
+      "rationale": "од הלל во пољском значењу — лудуваат, беснеат против мене, не „фалат“."
+    }
+  ],
+  "translation": "Цел ден ме корат непријателите мои, лудите против мене во ⟨мене⟩ се заколнаа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0227110c390adaaa7c5e2a70efd5b076ef0c501814819534098c7735f020551f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/102\/9-12.1792453801595.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Цел"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ме корат"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "непријателите мои"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "лудите против мене"
+    },
+    {
+      "surface": "בי",
+      "gloss": "во ⟨мене⟩"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "се заколнаа"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:01.595788018Z",
+  "model": "glm-5.3"
+}

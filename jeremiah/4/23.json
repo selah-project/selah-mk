@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תהו ובהו",
+      "rationale": "истиот пар зборови како Битие 1:2 — Еремија гледа уништување како враќање на пред-создадениот хаос"
+    }
+  ],
+  "translation": "Гледав ⟨את⟩ земјата — и ете, пустина и празнина; и кон неботата — и немаше ⟨се⟩ нивната светлина.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "44991b70e1a80e420e03ded1518dd0680e1c006394d7166d16f7ea5b788f741d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/4\/21-24.1792450371630.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "гледав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ете"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "пустина"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "и празнина"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и кон"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небата"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и немаше"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "нивната светлина"
+    }
+  ],
+  "timestamp": "2026-10-19T22:52:51.631407872Z",
+  "model": "glm-5.3"
+}

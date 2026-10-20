@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 7:23",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Хебрејска синтагма „зашто-ако“ = „туку само“; дословно би завело."
+    },
+    {
+      "kind": "invitation",
+      "subject": "שמעו בקולי",
+      "rationale": "Императив директно упатен до народот — повик на послушание."
+    },
+    {
+      "kind": "you",
+      "subject": "населението на Јудеја во Ерусалим",
+      "rationale": "Обраќање преку пророчката реч до Јисраел како народ."
+    }
+  ],
+  "translation": "туку само овој збор ⟨את⟩ им заповедав, велејќи: Слушајте го гласот мој, и Јас ќе бидам вам Елохим, а вие ќе ми бидете народ; и одете по целиот пат што ќе ви го заповедам, за да ви биде добро.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8a803c1d405f5b1d7a019403cebc581b1361f7aeda2e06d93631bdaae9d60753",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/7\/21-24.1792450521768.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "туку"
+    },
+    {
+      "surface": "אם",
+      "gloss": "само"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "овој збор"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "овој збор"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "заповедав"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ им"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Слушајте"
+    },
+    {
+      "surface": "бקולי",
+      "surface_note": "",
+      "gloss": "го гласот мој"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "и Јас ќе бидам"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "а вие"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ќе бидете"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "и одете"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по целиот"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "пат"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "ќе заповедам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨со вас⟩ ви"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ви биде добро"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    }
+  ],
+  "timestamp": "2026-10-19T22:55:21.770521214Z",
+  "model": "glm-5.3"
+}

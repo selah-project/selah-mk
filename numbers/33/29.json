@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 33:29",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "itinerar",
+      "rationale": "Ова е дел од списокот на логорувања во пустињата — станица по станица на патувањето."
+    }
+  ],
+  "translation": "И тргнаа од Митка, и се логоруваа во Хашмона.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c94a383950128e85aaf2d92bd8cfbbb79c7f7f13635b790d9107d5239b3a5f96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/33\/29-32.1792445215420.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И тргнаа"
+    },
+    {
+      "surface": "ממתקה",
+      "gloss": "од Митка"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и се логоруваа"
+    },
+    {
+      "surface": "בחשמנה",
+      "gloss": "во Хашмона"
+    }
+  ],
+  "timestamp": "2026-10-19T21:26:55.421075322Z",
+  "model": "glm-5.3"
+}

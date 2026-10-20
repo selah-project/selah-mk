@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 15:29",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "што дише",
+      "rationale": "נשמה е здив\/дах — 'сиот што дише' како идиом за 'ниеден жив'"
+    },
+    {
+      "kind": "addition",
+      "subject": "тој",
+      "rationale": "македонскиот бара подмет — хебрејскиот го има во завршетокот на глаголот"
+    }
+  ],
+  "translation": "И бидејќи стана цар, тој ги порази ⟨את⟩ целиот дом на Јаровам; не остави ниеден што дише на Јаровам, додека не го истреби, според зборот на Јахве, што го зборува преку раката на слугата свој Ахија Шилонецот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "af75ddac257919acf2995c6294cf714d52f54733920620d819af96331caa0b64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/15\/29-32.1792448916708.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "כמלכו",
+      "gloss": "бидејќи стана цар"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ги порази"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "целиот дом на Јаровам"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Јаровам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "остави"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ниеден"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "што дише"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "на Јаровам"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "השמדו",
+      "gloss": "не го истреби"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "според зборот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "го зборува"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "преку раката"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "на слугата свој"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ахија"
+    },
+    {
+      "surface": "השילני",
+      "gloss": "Шилонецот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:28:36.709933977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בלתי אם",
+      "rationale": "двоен негатив 'освен ако' — рендериран како едно 'ако не'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "реченици-прашања",
+      "rationale": "низата прашања 3:3–6 ја тераат публиката самата да заклучи"
+    }
+  ],
+  "translation": "Дали ќе одат двама заедно, ако не се договориле?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "64c45bbf4869bdfa2c7d03960363dfce92ca8aaf04a119e88d65abe56f324c69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/amos\/3\/1-4.1792452356836.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Дали ќе одат"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двама"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заедно"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ако не"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "се договориле"
+    }
+  ],
+  "timestamp": "2026-10-19T23:25:56.837876913Z",
+  "model": "glm-5.3"
+}

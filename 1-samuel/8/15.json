@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "дворjani",
+      "rationale": "סריסים буквално 'евнуси', но и 'дворски службеници' — традицијата се двои (KJV 'officers' vs geneva 'Eunuches')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "род",
+      "rationale": "זרע буквално 'семе' — и жито и потомство; 'род' ги поврзува двете."
+    },
+    {
+      "kind": "measurement",
+      "subject": "десеткува",
+      "rationale": "עשר — глагол 'да одземеш десетина', опис на кралскиот данок."
+    }
+  ],
+  "translation": "И вашиот род и вашите лозја ќе десеткува, и ќе даде на дворjanите свои и на слугите свои.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "23b143ef79b8b28a06835b93331d0e8cc9f9d5ab43b3fc136c9d9dd7ee694a55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/8\/13-16.1792446717634.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "вашиот род"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "вашите лозја"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ќе десеткува"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "и ќе даде"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "на дворjanите свои"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "и на слугите свои"
+    }
+  ],
+  "timestamp": "2026-10-19T21:51:57.635283635Z",
+  "model": "glm-5.3"
+}

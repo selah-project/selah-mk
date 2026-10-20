@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "באף",
+      "rationale": "буквално 'во носот\/ноздрите' — хебрејски израз за гнев; задржано како 'во гневот'"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "музичка пауза, останува како 'села'"
+    },
+    {
+      "kind": "you",
+      "subject": "молитвеникот до Ел",
+      "rationale": "прашања упатени директно кон Бога во жалбата"
+    }
+  ],
+  "translation": "Заборавил ли Ел да милува? Затворил ли во гневот своите милости? Села.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d4b3d2e99f2d2b57edd740449bc57f0279cafcba5428c4109c3e96397acfc9a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/77\/9-12.1792453583664.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "заборавил ли"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "да милува"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ли"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "затворил"
+    },
+    {
+      "surface": "באף",
+      "gloss": "во гневот"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "своите милости"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "села"
+    }
+  ],
+  "timestamp": "2026-10-19T23:46:23.665307843Z",
+  "model": "glm-5.3"
+}

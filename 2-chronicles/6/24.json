@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 6:24",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ינגף",
+      "rationale": "Глаголот значи „да набоде\/да го фати рог“ — за Бог како оној што поразува; дадено општо „биде поразен“."
+    }
+  ],
+  "translation": "И ако биде поразен народот твој Јисраел пред непријател, зашто згрешиле кон тебе, и се вратат и го признаат ⟨את⟩ Името твое, и се молат и те молат пред тебе во оваа куќа —",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1743845ebee4d2a33fae10f1646de824c15cb5fd09f6bdcfd476f621bd22b62a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/6\/21-24.1792457451347.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "ינגף",
+      "gloss": "биде поразен"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "народот твој"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "непријател"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "יחטאו",
+      "gloss": "згрешиле"
+    },
+    {
+      "surface": "לך",
+      "gloss": "кон тебе"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "и се вратат"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "и го признаат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Името твое"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Името твое"
+    },
+    {
+      "surface": "והתפללו",
+      "gloss": "и се молат"
+    },
+    {
+      "surface": "והתחננו",
+      "gloss": "и те молат"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред тебе"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во куќата"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "оваа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:50:51.348582744Z",
+  "model": "glm-5.3"
+}

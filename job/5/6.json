@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עפר\/אדמה",
+      "rationale": "прав и земја како паралелен двој-член, слика за нешто што не 'никнува' само од себе"
+    }
+  ],
+  "translation": "Зашто не излегува неволјата од правот, ниту од земјата никне мака.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cd89e6dfbe519c368bfbd48065e8c136443ef44df7eef1d231aaca536fde33cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/5\/5-8.1792454871207.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излегува"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "од правот"
+    },
+    {
+      "surface": "און",
+      "gloss": "неволја"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "нииту од земјата"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "никне"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "мака"
+    }
+  ],
+  "timestamp": "2026-10-20T00:07:51.208796085Z",
+  "model": "glm-5.3"
+}

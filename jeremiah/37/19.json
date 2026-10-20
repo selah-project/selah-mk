@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 37:19",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "хебрејскиот нема глагол 'сум' во прашањето"
+    },
+    {
+      "kind": "you",
+      "subject": "до Цидкијаху",
+      "rationale": "Иронично прашање упатено на царот за лажните пророци"
+    }
+  ],
+  "translation": "А каде се вашите пророци што ви пророкуваа, велејќи: Нема да дојде царот на Вавел против вас и против оваа земја?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a5afa1b7765980d84d08d67233e6a4eaa066ba1815bcbcc1c6ac04cb06575291",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/37\/17-20.1792450973920.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיו",
+      "gloss": "а каде"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "вашите пророци"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "пророкуваа"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "да дојде"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавел"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "против вас"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и против"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    }
+  ],
+  "timestamp": "2026-10-19T23:02:53.921607489Z",
+  "model": "glm-5.3"
+}

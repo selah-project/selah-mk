@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 2:37",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "двете",
+      "rationale": "ידיך е двоина (две раце) — македонскиот ја носи бројноста со „двете“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "надежите",
+      "rationale": "מבטחיך е „заштитите\/утврдувањата на доверба“ — „надеж“ е најблиското еден-збор-ослободување"
+    },
+    {
+      "kind": "alternative",
+      "subject": "овдешност",
+      "rationale": "מאת זה може да значи и „од ова (место\/сојузник)“ — преводите се делат меѓу место и лице"
+    }
+  ],
+  "translation": "И од ⟨את⟩ овоий ќе излезеш, а двете твои раце на главата твоја, зашто Јахве го отфрли ⊃упатството⟨⟩ твоето, и нема да успееш преку нив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "013c75bd8009218c23ddaf1145c06b9b20e7c258fe01033abb3a4540eec14d58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/2\/37-37.1792450365283.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "И"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "од ⟨את⟩",
+      "marks": "овој"
+    },
+    {
+      "surface": "זה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "ќе излезеш"
+    },
+    {
+      "surface": "וידיך",
+      "gloss": "а двете твои раце"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "главата твоја"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "го отфрли"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "במבטחיך",
+      "gloss": "надежите твои"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "תצליחי",
+      "gloss": "да успееш"
+    },
+    {
+      "surface": "להם",
+      "gloss": "преку нив"
+    }
+  ],
+  "timestamp": "2026-10-19T22:52:45.284313785Z",
+  "model": "glm-5.3"
+}

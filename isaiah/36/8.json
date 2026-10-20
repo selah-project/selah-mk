@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 36:8",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התערב",
+      "rationale": "од коренот 'мешати\/заложување': 'дај заложници' (KJV) наспроти 'склучи облог\/договор' (JPS)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "две илјади коњи",
+      "rationale": "прекумерна понуда — исмејување на слабоста на Јудеја да даде и јавачи"
+    }
+  ],
+  "translation": "А сега заложете ⟨се⟩ молам со ⟨את⟩ господарот мој, царот на Ашур, и ќе ти дадам две илјади коњи — ако можеш да ставиш за тебе јавачи на нив.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "41d676a5ef2f3a0e6b03ec7bfe7ae42995ac5b051b28f26855d4c9caf65334d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/36\/5-8.1792449976897.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А сега"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "заложете"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨со⟩",
+      "marks": "господарот мој, царот на Ашур"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господарот мој"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "на Ашур"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ќе ти дадам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "две илјади"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "коњи"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "тוכל",
+      "gloss": "можеш"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "да ставиш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за тебе"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "јавачи"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "на нив"
+    }
+  ],
+  "timestamp": "2026-10-19T22:46:16.901371589Z",
+  "model": "glm-5.3"
+}

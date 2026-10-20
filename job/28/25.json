@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 28:25",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "רוח останува руах — ветар, здив, Дух во еден збор"
+    },
+    {
+      "kind": "measurement",
+      "subject": "тежина и мерка",
+      "rationale": "стихот брои и мери — тежина за ветрот, мерка за водите"
+    }
+  ],
+  "translation": "за да ⟨ѝ⟩ даде тежина на руахот, а водите ги измери со мерка.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "09c05d7896406b54fcd6bc1e3d974545d24802afc21fb0a1318dbb421e429958",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/28\/25-28.1792455175253.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "за да направи"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "на руахот"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "тежина"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "а водите"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "измери"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "со мерка"
+    }
+  ],
+  "timestamp": "2026-10-20T00:12:55.254211212Z",
+  "model": "glm-5.3"
+}

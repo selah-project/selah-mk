@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 34:24",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יצאי שער עירו",
+      "rationale": "фразата се повторува дословно двапати — македонскиот го задржува повторувањето заради ритамот на казна."
+    }
+  ],
+  "translation": "И послушаа Хамор и Шхем, синот негов, сите што излегуваа низ портата на градот негов; и се обрезаа сите машки, сите што излегуваа низ портата на градот негов.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "23860be52fcba231d83b894d1860d109c6890593c93c0c1549e60c6c94b6adef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/34\/21-24.1792443059591.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "и послушаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Хамор"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шхем"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот негов"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "што излегуваа"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "на градот негов"
+    },
+    {
+      "surface": "וימלו",
+      "gloss": "и се обрезаа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "машки"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "што излегуваа"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "на градот негов"
+    }
+  ],
+  "timestamp": "2026-10-19T20:50:59.597366557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "шеол",
+      "rationale": "שאול не е пекол, туку местото на мртвите"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבושה\/יבשו",
+      "rationale": "истиот корен בוש за молителот и за безбожните — огледална правда"
+    }
+  ],
+  "translation": "Јахве, нека не се посрамам, зашто те повикав; нека се посрамат безбожните, нека занемат во шеолот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9b59587d797f302d4a591541f55483600804e5612d4c188375668f3d7f0833de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/31\/17-20.1792453140279.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нека не"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "се посрамам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "те повикав"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "нека се посрамат"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожните"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "нека занемат"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "во шеолот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:39:00.279864285Z",
+  "model": "glm-5.3"
+}

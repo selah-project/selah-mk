@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 23:20",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פלגשיהם",
+      "rationale": "букв. „наложниците нивни”; JPS чита „блуд со нив” — двата патa на гласање"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lovcите",
+      "rationale": "פילגש е „наложник\/любовник”, македонскиот збор го задржува сензуалниот тон"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרמת … זרמתם",
+      "rationale": "климактичко повторување — истата именка на крајот — што се губи ако се стегне"
+    }
+  ],
+  "translation": "И таа страстно ги пожитуваше lovците нивни, чие месо е како месото на магариња, и пролевањето на коњи — пролевањето нивно.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e8bced39adb3596534f00a4184fafed1cde2a15a62220c9996dbf1342702bb30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/23\/17-20.1792451708236.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעגבה",
+      "gloss": "и страстно ги пожитуваше"
+    },
+    {
+      "surface": "על",
+      "gloss": "ги"
+    },
+    {
+      "surface": "פלגשיהם",
+      "gloss": "lovците нивни"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чие"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "месо"
+    },
+    {
+      "surface": "חמורים",
+      "gloss": "на магариња"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "месото нивно"
+    },
+    {
+      "surface": "וזרמת",
+      "gloss": "и пролевањето"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "на коњи"
+    },
+    {
+      "surface": "זרמתם",
+      "gloss": "пролевањето нивно"
+    }
+  ],
+  "timestamp": "2026-10-19T23:15:08.237708353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "jeremiah 51:53",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מאתי",
+      "rationale": "предлог את (H854) 'од\/кај Мене', не објектниот маркер; внесено само како 'од Мене'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תעלה...מרום",
+      "rationale": "искачување кон височината — иронична слика: колку и да се качи, разурнувачите доаѓаат од самиот Јахве"
+    }
+  ],
+  "translation": "Дури и да се искачи Вавилон на небесата, и дури и да ја утврди височината на силата своја — ⟨את⟩ од Мене ќе дојдат разурнувачи врз него, вели Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ad7b4dfafeaf5916ec42dec905accf8f6c8e70bf73ccbcf545e7b6bc16ee3d8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/51\/53-56.1792451353950.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "дури и да"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "се искачува"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "на небесата"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "и дури и да"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "утврдува"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "височината"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "на силата своја"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ од Мене",
+      "marks": "од Мене"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ќе дојдат"
+    },
+    {
+      "surface": "שדדים",
+      "gloss": "разурнувачи"
+    },
+    {
+      "surface": "לה",
+      "gloss": "врз него"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:09:13.951296707Z",
+  "model": "glm-5.3"
+}

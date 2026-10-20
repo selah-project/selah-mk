@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 42:14",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "Хебрејскиот нема копула во 'כי קדש הנה'"
+    }
+  ],
+  "translation": "Кога ќе влезат свештениците, нема да излезат од светињата во надворешниот двор, туку таму ќе ги остават своите облеки со коишто служат, зашто тие ⟨се⟩ свети; ќе облечат други облеки и ќе пристапат кон она што е за народот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "72ea279afc917057bfb074b066c4b500967484d5743282bda2499e78a0becba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/42\/13-16.1792452091856.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "Кога ќе влезат"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свештениците"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема да"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "излезат"
+    },
+    {
+      "surface": "מהקדש",
+      "gloss": "од светињата"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "двор"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "надворешниот"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "и таму"
+    },
+    {
+      "surface": "יניחו",
+      "gloss": "ќе ги остават"
+    },
+    {
+      "surface": "בגדיהם",
+      "gloss": "своите облеки"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "со коишто"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "служат"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "во нив"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свето"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "ќе облечат"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "облеки"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "други"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "и ќе пристапат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "она што"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "е за народот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:21:31.857826290Z",
+  "model": "glm-5.3"
+}

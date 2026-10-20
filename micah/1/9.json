@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אנושה",
+      "rationale": "Од корен 'да биде немоќен, смртен': 'смртни\/неизлечиви се раните' (YLТ) наспроти 'раната е неизлечива' (традиција)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Хебрејскиот нема копула; македонскиот ја бара."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עד…עד…עд",
+      "rationale": "Тројното повторување 'до… до… до' гради скалило на приближување кон Јерушалаим."
+    }
+  ],
+  "translation": "Зашто неизлечиви се раните нејзини; зашто дојде до Јехуда, допре до портата на народот мој — до Јерушалаим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/micah\/1\/9-12.1792452520465.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "неизлечиви"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "раните нејзини"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "באה",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "допре"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народот мој"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    }
+  ],
+  "timestamp": "2026-10-19T23:28:40.466125191Z",
+  "model": "glm-5.3"
+}

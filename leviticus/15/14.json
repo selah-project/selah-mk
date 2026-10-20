@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 15:14",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "осмиот ден",
+      "rationale": "Точниот ден за жртвата е назначен."
+    },
+    {
+      "kind": "addition",
+      "subject": "состанокот",
+      "rationale": "אהל מועד буквално 'шатор на назначеното време'; традиционално 'шатор на состанокот'."
+    }
+  ],
+  "translation": "И во осмиот ден ќе земе за себе две грлица или две млади гулаби, и ќе дојде пред Јахве, до влезот на шаторот на состанокот, и ќе им ги даде ⟨את⟩ на свештеникот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9406a1cffd24ad17e6be974a859665d58ed65dd3744e4a22d647f56e636709bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/15\/13-16.1792444369412.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "И во… ден"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "осмиот"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ќе земе"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за себе"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "грлица"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "שני",
+      "gloss": "две"
+    },
+    {
+      "surface": "בני",
+      "gloss": "млади"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "гулаби"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "и ќе дојде"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "влезот"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "на шаторот"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на состанокот"
+    },
+    {
+      "surface": "ונתנם",
+      "gloss": "и ќе ги даде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:12:49.426495069Z",
+  "model": "glm-5.3"
+}

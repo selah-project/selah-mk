@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 13:37",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨А⟩",
+      "rationale": "Хебрејскиот ја испушта смената на subjekt; испуштен subjekt е Давид според 13:36"
+    },
+    {
+      "kind": "crux",
+      "subject": "subjekt на ויתאבל",
+      "rationale": "Давид жалеше за Авшалом (мнозинство) наспроти Талмај\/Гешур — хебрејскиот не го именува"
+    }
+  ],
+  "translation": "А Авшалом побегна и отиде кај Талмај, синот на Амихур, кралот на Гешур. ⟨А⟩ Давид жалеше за својот син сите дни.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7dd3ae543bb73036c7238b50354f8a8565df4db1fe51614c2d09091155da0dfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/13\/37-39.1792448206218.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "А Авшалом"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "побегна"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Талмај"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "עמיחור",
+      "gloss": "на Амихур"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "кралот"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "на Гешур"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "жалеше"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "својот син"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дни"
+    }
+  ],
+  "timestamp": "2026-10-19T22:16:46.219237068Z",
+  "model": "glm-5.3"
+}

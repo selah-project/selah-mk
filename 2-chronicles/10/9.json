@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 10:9",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨го⟩",
+      "rationale": "македонскиот бара клитички предметен заменски објект"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הקל מן העל",
+      "rationale": "буквално „направи полесен од јаремот“ — македонскиот „олесни го јаремот“"
+    }
+  ],
+  "translation": "И им рече: Што советувате, па да им ⟨го⟩ вратам зборот на овој народ што ми зборуваа велејќи: Олесни го ⟨את⟩ јаремот што го стави татко ти врз нас?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f88176b44a6d2a9f09a34db517896b256b1709b9215f0d40ba610adbec4bdba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/10\/9-12.1792457534753.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И им рече"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Што"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "советувате"
+    },
+    {
+      "surface": "ונשיב",
+      "gloss": "па да вратам"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "зборуваа"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "Олесни"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "העל",
+      "gloss": "јаремот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "стави"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "татко ти"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "врз нас"
+    }
+  ],
+  "timestamp": "2026-10-20T00:52:14.754596022Z",
+  "model": "glm-5.3"
+}

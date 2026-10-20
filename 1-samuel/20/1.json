@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "животот мој",
+      "rationale": "נפש е дишечко суштество, грло\/животна сила — 'душа' во македонската традиција носи друга тежина"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јонатан",
+      "rationale": "Давид директно се обраќа на Јонатан со прашања"
+    }
+  ],
+  "translation": "И побегна Давид од Навот во Рама, и дојде и рече пред Јонатан: Што направив? Што е вината моја и што е гревот мој пред татко ти, зашто бара ⟨את⟩ животот мој?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6d66e6609d243c353465cc473237776ac9c59b0fd7b2b14f5079b45416bfd90e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/20\/1-4.1792446953990.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "и побегна"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "од Навот"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "во Рама"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и дојде"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Јонатан"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "направив"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "вината моја"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и што"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "гревот мој"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "татко ти"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "бара"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "животот мој"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "животот мој"
+    }
+  ],
+  "timestamp": "2026-10-19T21:55:53.991323260Z",
+  "model": "glm-5.3"
+}

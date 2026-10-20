@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 41:25",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хеикалот",
+      "rationale": "ההיכал се пишува според хебрејскиот звук, а не како 'храм'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "тиморим",
+      "rationale": "תמרים овде е архитектонски палмов столб, задржан по звук, не 'палми' како дрва"
+    },
+    {
+      "kind": "crux",
+      "subject": "архитрав",
+      "rationale": "עב: 'затворени гејши\/греди' (KJV 'thick planks') наспроти 'архитрав' (YLТ); избран е архитектонскиот поим"
+    },
+    {
+      "kind": "measurement",
+      "subject": "опис на храмот",
+      "rationale": "стихот е дел од деталниот архитектонски опис на храмот на Езекиел"
+    }
+  ],
+  "translation": "И направено е на нив — на вратите на хеикалот — херувими и тиморим, како што се направени на ѕидовите; и дрвен архитрав имаше на лицето на предворието, однадвор.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e89f9fb8171a2b5c27f3df6d154d29e83855668c20ae2e59a0177ef31ce99d64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/41\/25-26.1792452025644.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשויה",
+      "gloss": "и направено е"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "на нив"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "вратите"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "на хеикалот"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "херувими"
+    },
+    {
+      "surface": "ותמרים",
+      "gloss": "и тиморим"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "се направени"
+    },
+    {
+      "surface": "לקירות",
+      "gloss": "на ѕидовите"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "и архитрав"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрвен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "на предворието"
+    },
+    {
+      "surface": "מהחוץ",
+      "gloss": "однадвор"
+    }
+  ],
+  "timestamp": "2026-10-19T23:20:25.644975839Z",
+  "model": "glm-5.3"
+}

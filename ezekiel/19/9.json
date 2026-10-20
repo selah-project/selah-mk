@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 19:9",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במצדות",
+      "rationale": "мрежи vs тврдини — KJV 'holds', ASV 'strongholds'; сликата е лав во мрежа, па 'мрежи'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בחחים",
+      "rationale": "буквално 'носни прстени' — прстени за носот\/усните на лавот, преведено како 'окови'"
+    },
+    {
+      "kind": "you",
+      "subject": "планините на Јисраел",
+      "rationale": " lamentацијата се обраќа кон Израел"
+    }
+  ],
+  "translation": "И го ставија во кафез со окови, и го доведоа кај царот на Вавилон; го воведоа во мрежи, за да не се слуша гласот негов повеќе на планините на Јисраел.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ce4ef1f07c7b09577ca57c1d543810ef4d8cd6acbd7069a8f8679c6092765cff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/19\/9-12.1792451567321.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "и го ставија"
+    },
+    {
+      "surface": "בסוגר",
+      "gloss": "во кафез"
+    },
+    {
+      "surface": "בחחים",
+      "gloss": "со окови"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "и го доведоа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "на Вавилон"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "го воведоа"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "во мрежи"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "се слуша"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "гласот негов"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "планините"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T23:12:47.322311271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישוב\/ישוב",
+      "rationale": "Истиот глагол שׁוב повторен — „дали се враќа и не се враќа“ — игра што го носи целиот елан на стихот (и го најавува backsliding-мотивот во 8:5)."
+    },
+    {
+      "kind": "crux",
+      "subject": "היפלו\/אם како прашања",
+      "rationale": "Хебрејскиот нема прашалки; ולא и אם тука се читаат како реторички прашања (како LXX и JPS), а не како тврдења."
+    },
+    {
+      "kind": "you",
+      "subject": "до народот",
+      "rationale": "Јахве му наложува на Еремија да им го прашае ова на луѓето — директен повик."
+    }
+  ],
+  "translation": "И ќе им речеш: Вака рече Јахве: Дали паѓаат и не стануваат? Дали се враќа и не се враќа?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7ead3dc54f29b85c3152caf1608472c3fe47d6f0ff29a9e053dc93b66b485668",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/8\/1-4.1792450505920.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "И ќе им речеш"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Вака"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "Дали паѓаат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "стануваат"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Дали"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "се враќа"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "се враќа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:55:05.922280657Z",
+  "model": "glm-5.3"
+}

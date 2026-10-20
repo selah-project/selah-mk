@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסед е еден збор — милост, верност, љубов заедно; оставен е како хесед"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ме бараат",
+      "rationale": "ירדפוני буквално 'ме гонаат\/г殷aat' — гонење свртено кон добро; 'следат' е претивно"
+    },
+    {
+      "kind": "substitution",
+      "subject": "за долги денови",
+      "rationale": "לארך ימים е 'за должина на денови', не нужно 'засекогаш'"
+    }
+  ],
+  "translation": "Само добро и хесед ⟨ќе⟩ ме бараат сите денови на животот мој, и ⟨ќе⟩ останам во домот на Јахве за долги денови.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "437b3805d8dd14efde3cf52258f186cd44e8aaff39de9897338cf7b3111e3449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/23\/5-6.1792453054940.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Само"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "и хесед"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "⟨ќе⟩ ме бараат"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "денове"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "на животот мој"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "и ⟨ќе⟩ останам"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "за долги"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "денови"
+    }
+  ],
+  "timestamp": "2026-10-19T23:37:34.941370954Z",
+  "model": "glm-5.3"
+}

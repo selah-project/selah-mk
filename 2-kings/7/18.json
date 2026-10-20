@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 7:18",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "цени",
+      "rationale": "Стихот брои мерки и тежини: сати јачмен и брашно за шекел — исполнување на зборот од 7:1."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סאתים \/ וסאה \/ בשקל ×2",
+      "rationale": "Двојно повторување на мерките и шекелот го грубо ја потврдува точноста на пророштвото."
+    }
+  ],
+  "translation": "И биде како што зборуваше човекот на Елохим на царот, велејќи: две сати јачмен за шекел, и сата фино брашно за шекел ќе биде утре во ова време, на портата на Шомрон.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c86cc20ac854095577d0f95a5b38cdaedb21d9b9dea0ae1bf4c05199dcb1a0c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/7\/17-20.1792449187008.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "како што зборуваше"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "две сати"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "јачмен"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "за шекел"
+    },
+    {
+      "surface": "וסאה",
+      "gloss": "и сата"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "фино брашно"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "за шекел"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "во ова време"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "утре"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "на портата"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "на Шомрон"
+    }
+  ],
+  "timestamp": "2026-10-19T22:33:07.009264484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 30:18",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבד תאבדון",
+      "rationale": "инфинитивен апсолут — „загинувајќи ќе загинете“; македонскиот го дава со „сосема ќе загинете“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "нема да ги продолжите деновите",
+      "rationale": "мерење на животниот век"
+    }
+  ],
+  "translation": "ве известувам денес дека сосема ќе загинете; нема да ги продолжите деновите свои на земјата низ која ти поминуваш ⟨את⟩ Јарден за да влезеш таму да ја поседнеш.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "965050add94972e57b1a8194578138a08fe5de8138585eef10a6d78fefcd29a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/30\/17-20.1792445818893.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגדתי",
+      "gloss": "ве известувам"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ве"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "сосема"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "ќе загинете"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תאריכן",
+      "gloss": "да ги продолжите"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "денovите"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "поминуваш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јарден"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Јарден"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "за да влезеш"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "таму"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "да ја поседнеш"
+    }
+  ],
+  "timestamp": "2026-10-19T21:36:58.894642485Z",
+  "model": "glm-5.3"
+}

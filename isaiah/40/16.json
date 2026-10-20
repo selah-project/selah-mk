@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩ \/ ⟨се⟩",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара"
+    },
+    {
+      "kind": "substitution",
+      "subject": "паленица",
+      "rationale": "עולה е 'она што се качува' — целосна изгорена жртва; 'паленица' го чува огнот, не искачувањето"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אין די ... אין די",
+      "rationale": "повтореното 'нема доволно' — балансиран паралелизам"
+    }
+  ],
+  "translation": "И Ливан не е доволен за палење, и неговите животни не се доволни за паленица.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "3fc8a823deaa516ab678914f33ce538d2f1607201e1a99423619026b04dad2a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/40\/13-16.1792450031846.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "И Ливан"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не е"
+    },
+    {
+      "surface": "די",
+      "gloss": "доволен"
+    },
+    {
+      "surface": "בער",
+      "gloss": "за палење"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "и неговите животни"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не се"
+    },
+    {
+      "surface": "די",
+      "gloss": "доволни"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "за паленица"
+    }
+  ],
+  "timestamp": "2026-10-19T22:47:11.847799188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 11:43",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "заспа со татковците свои",
+      "rationale": "וישכב עם אבתיו — идиом за смрт, буквално „легна со своите татковци“"
+    },
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "пасивен помошен глагол додаден за македонскиот пасив"
+    }
+  ],
+  "translation": "И заспа Шеломо со татковците свои, и беше погребан во градот на Давид, таткото свој; и зацари се Рехавам, синот негов, наместо него.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "cbc5686352073280db1da9c26e022bc6c1af21427e447e8dcb73cda7b4cdadbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/11\/41-43.1792448807316.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "И заспа"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "татковците свои"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "и беше погребан"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "во градот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "таткото свој"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и зацари се"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот негов"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "наместо него"
+    }
+  ],
+  "timestamp": "2026-10-19T22:26:47.318215669Z",
+  "model": "glm-5.3"
+}

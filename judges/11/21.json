@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 11:21",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויירש",
+      "rationale": "Коренот ירש (наследи\/истера) се повторува низ 11:21–24 како клуч на целата беседа на Jeftај"
+    }
+  ],
+  "translation": "И Јахве, Елохим на Јисраел, го предаде ⟨את⟩ Сихон и ⟨את⟩ сиот негов народ во рака на Јисраел, и ги поразија, и Јисраел ја наследи ⟨את⟩ сета земја на Еморејците, жителите на таа земја.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "392848abc3df1bcd4c2519dad73afc454bcf86b689baa7463272e55eacac7c01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/11\/21-24.1792446488586.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "и го предаде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сихон"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Сихон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сиот негов народ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сиот"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "негов народ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "во рака на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "и ги поразија"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "и наследи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сета земја на Еморејците"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сета"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "на Еморејците"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "жителите"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "таа"
+    }
+  ],
+  "timestamp": "2026-10-19T21:48:08.587000150Z",
+  "model": "glm-5.3"
+}

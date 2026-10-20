@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "на (царот на Јисраел)",
+      "rationale": "хебрејската конструкција מלך ישראל бара македонски предлог"
+    },
+    {
+      "kind": "you",
+      "subject": "Земете… вратете",
+      "rationale": "царот им се обраќа директно на приставите"
+    }
+  ],
+  "translation": "И рече царот на Јисраел: Земете ⟨את⟩ Микајаху и вратете го кај Амон, началникот на градот, и кај Јоаш, синот на царот,",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bec203580591608400fb71907a4b07676a3da3b203fd8cb5494f71e3763efcf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/18\/25-28.1792457579170.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Земете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Микајаху"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Микајаху"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "и вратете го"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Амон"
+    },
+    {
+      "surface": "שר",
+      "gloss": "началникот"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "на градот"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и кај"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Јоаш"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:52:59.171231771Z",
+  "model": "glm-5.3"
+}

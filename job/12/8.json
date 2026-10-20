@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 12:8",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "до пријателите на Јов",
+      "rationale": "Продолжение на повикот: земјата и морските риби како сведоци."
+    }
+  ],
+  "translation": "Или разговарај со земјата, и ќе те поучи; и ќе ти раскажат рибите на морето.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ab3fe6ce5d017790bb3156c419c36a41f696271f0388e72caa4113038210daa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/12\/5-8.1792454966351.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "разговарај"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "со земјата"
+    },
+    {
+      "surface": "ותרך",
+      "gloss": "и ќе те поучи"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "и ќе ти раскажат"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "рибите"
+    },
+    {
+      "surface": "הים",
+      "gloss": "на морето"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:26.352833435Z",
+  "model": "glm-5.3"
+}

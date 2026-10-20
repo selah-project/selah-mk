@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 41:4",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "седум",
+      "rationale": "бројот седум се повторува во целиот сон — структурна одлика"
+    }
+  ],
+  "translation": "И кравите лоши на изглед и сушни на месо ги изедоа ⟨את⟩ седумте крави убави на изглед и дебелите — и Паро се разбуди.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "6d938f74896f3c86dd9c00b3cdf63a9a2fe050a179641f018aa71f219d311d6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/41\/1-4.1792443111153.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "и ги изедоа"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "кравите"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "лоши"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "на изглед"
+    },
+    {
+      "surface": "ודקת",
+      "gloss": "и сушни"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "на месо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "седумте крави убави на изглед и дебелите"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седумте"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "крави"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "убави"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "на изглед"
+    },
+    {
+      "surface": "והבריאת",
+      "gloss": "и дебелите"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "и се разбуди"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    }
+  ],
+  "timestamp": "2026-10-19T20:51:51.159829297Z",
+  "model": "glm-5.3"
+}

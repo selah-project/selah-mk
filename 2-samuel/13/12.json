@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 13:12",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "не ме понижавај",
+      "rationale": "תענני (полел на ענה): 'не ме силувај' (KJV) наспроти 'не ме понижавај\/угнетувај' — двата слоја се во хебрејскиот глагол"
+    },
+    {
+      "kind": "you",
+      "subject": "од Тамара до Амнон",
+      "rationale": "директен молбен говор — Таmara се обраќа на Амнон со 'брату мој'"
+    }
+  ],
+  "translation": "А таа му рече: Не, брату мој, не ме понижавај, зашто така не се прави во Јисраел; не прави ⟨את⟩ оваа беззаконија.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "1efb8c193e72ffc27e359ce7d87017acce244ff323491bd3090365bdb786af98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/13\/9-12.1792448222443.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "А таа рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брату мој"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ме понижавај"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "се прави"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "во Јисраел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "прави"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "беззаконијата"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "беззаконија"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:02.444798862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 11:11",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Шеломо",
+      "rationale": "директен говор на Јахве упатен до Шеломо."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרע אקרע",
+      "rationale": "инфинитивен апсолутен — „откинувајќи ке откинам“; интензивноста се губи во македонскиот."
+    }
+  ],
+  "translation": "И рече Јахве на Шеломо: „Затоа што беше ова кај тебе и не го одржа мојот завет и моите наредби што ти ги заповедав — ке ја откинам ⟨את⟩ царството од тебе и ке ја дадам на слугата твоја.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "cbbaa254da38dde57fdbe0764f7cd7ed41105a68d24dddb63df3f28ab3342a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/11\/9-12.1792448707384.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "на Шеломо"
+    },
+    {
+      "surface": "יען",
+      "gloss": "затоа што"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "кај тебе"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "го одржа"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "мојот завет"
+    },
+    {
+      "surface": "וחקתי",
+      "gloss": "и моите наредби"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "заповедав"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "ке откинам"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "откинам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "царството"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "царството"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "од тебе"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "и ке ја дадам"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "на слугата твоја"
+    }
+  ],
+  "timestamp": "2026-10-19T22:25:07.386694275Z",
+  "model": "glm-5.3"
+}

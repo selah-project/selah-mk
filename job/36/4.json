@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 36:4",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара"
+    },
+    {
+      "kind": "crux",
+      "subject": "תמים דעות",
+      "rationale": "множина „знаења“ со придавка „совршен“ — KJV\/JPS: „оној совршен во знаењето е со тебе“ (Елиху за себе), или опис на зборот"
+    }
+  ],
+  "translation": "Зашто навистина не ⟨е⟩ лага зборот мој — совршен во знаење е тој што е со тебе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "24e5b87c4aed1074e52d143d36c2a5464aab640f76850493d0b42587f76621a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/36\/1-4.1792455322177.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "навистина"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лага"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "зборот мој"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "совршен"
+    },
+    {
+      "surface": "דעות",
+      "gloss": "во знаење"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "со тебе"
+    }
+  ],
+  "timestamp": "2026-10-20T00:15:22.178727078Z",
+  "model": "glm-5.3"
+}

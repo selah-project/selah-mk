@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 59:6",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "Директен обрnut кон Јахве, Елохим Цеваот."
+    },
+    {
+      "kind": "crux",
+      "subject": "לפקד",
+      "rationale": "'Посети' со непријателска намера — 'да казни' (KJV\/JPS) против буквалното 'да посети\/прегледа'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "немој да помилуваш",
+      "rationale": "חנן е 'да се наклони кон милост' — македонскиот го носи преку помилува."
+    }
+  ],
+  "translation": "А Ти, Јахве, Елохим Цеваот, Елохим на Јисраел, разбуди ⟨се⟩ за да ги посетиш сите народи; немој да помилуваш никакви предавници на злото. Села.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f347719d37e4f95602fba4adaaf996d74f44c6efe14066355257547031ebde19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/59\/5-8.1792453401445.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "разбуди"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "за да посетиш"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "немој"
+    },
+    {
+      "surface": "תחן",
+      "gloss": "да помилуваш"
+    },
+    {
+      "surface": "כל",
+      "gloss": "никакви"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "предавници на"
+    },
+    {
+      "surface": "און",
+      "gloss": "злото"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-10-19T23:43:21.446703605Z",
+  "model": "glm-5.3"
+}

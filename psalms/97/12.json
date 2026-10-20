@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "споменот на Неговата светост",
+      "rationale": "לזכר קדשו: 'спомен на светоста' (KJV) наспроти 'светото Му име\/спомен-име' (ASV\/JPS)."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Радувајте се",
+      "rationale": "Императив упатен кон праведните."
+    }
+  ],
+  "translation": "Радувајте се, праведни, во Јахве, и славете го споменот на Неговата светост!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "927b376d02f29de565236965f5d916cc01d82418d9d6cdc0649839662faf4bae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/97\/9-12.1792453758467.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Радувајте се"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведни"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "во Јахве"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "и славете"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "го споменот"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "на Неговата светост"
+    }
+  ],
+  "timestamp": "2026-10-19T23:49:18.468403439Z",
+  "model": "glm-5.3"
+}

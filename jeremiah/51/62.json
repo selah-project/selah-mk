@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "jeremiah 51:62",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Јахве, во молитва",
+      "rationale": "Стихот е директно обраќање кон Јахве како сведоштво пред слушателите."
+    },
+    {
+      "kind": "substitution",
+      "subject": "исечеш",
+      "rationale": "להכרית е буквално да се отсече; „искорени“ го губи физичкиот слик на сечење."
+    },
+    {
+      "kind": "addition",
+      "subject": "си",
+      "rationale": "Македонскиот помошен глагол што хебрејскиот перфект го носи сам."
+    }
+  ],
+  "translation": "и ќе речеш: „Јахве, Ти си зборувал за ова место да го исечеш, за да не има во него жител — од човек до добиток, зашто пустош вечен ќе биде.“",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0625115290ce06b6c71558b6b901016160b59d01e8e4b488420d896573f35751",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/51\/61-64.1792451355127.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "и ќе речеш"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "си зборувал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "за"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "местото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "להכריתו",
+      "gloss": "да го исечеш"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "за да не"
+    },
+    {
+      "surface": "היות",
+      "gloss": "има"
+    },
+    {
+      "surface": "בו",
+      "gloss": "во него"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "жител"
+    },
+    {
+      "surface": "למאדם",
+      "gloss": "од човек"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "добиток"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "пустош"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечен"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ќе биде"
+    }
+  ],
+  "timestamp": "2026-10-19T23:09:15.128837855Z",
+  "model": "glm-5.3"
+}

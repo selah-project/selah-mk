@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "книгата на живите",
+      "rationale": "ספר חיים е книга на живите (на оние што живеат), не доцна доктрина за книгата на животот"
+    },
+    {
+      "kind": "measurement",
+      "subject": "запишани",
+      "rationale": "стихот говори за запишување и бришење од список — слика на сметководство на животите"
+    }
+  ],
+  "translation": "Да бидат избришани од книгата на живите, и со праведните нека не бидат запишани.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "47865d8ec3d4b9028876d8ffb565712845c9506c7c941151964d2ec4f4dc58b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/69\/29-32.1792453509702.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "да бидат избришани"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "од книгата"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "на живите"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "и со"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведните"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нека не"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "бидат запишани"
+    }
+  ],
+  "timestamp": "2026-10-19T23:45:09.703076344Z",
+  "model": "glm-5.3"
+}

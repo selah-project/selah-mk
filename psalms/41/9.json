@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דבר בליעל",
+      "rationale": "'Реч\/работа на белијал' — KJV 'evil disease', YLT 'a thing of Belial', ја чувам буквата: реч на белијал"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Хебрејскиот нема глагол-сврска; македонскиот бара 'е'"
+    }
+  ],
+  "translation": "Излеана е врз него ⟨е⟩ реч на белијал, и оној што легнал нема да стане повеќе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fd4a393a7a8fb0e0c383820ad07bde823acd1d499ac584924b4a22bac82110a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/41\/9-12.1792453263227.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "на белијал"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "излеана е"
+    },
+    {
+      "surface": "בו",
+      "gloss": "врз него"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и оној што"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "легнал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "да стане"
+    }
+  ],
+  "timestamp": "2026-10-19T23:41:03.228117376Z",
+  "model": "glm-5.3"
+}

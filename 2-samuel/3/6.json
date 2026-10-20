@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 3:6",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויהי בהיות",
+      "rationale": "Хебрејскиот временски околносен израз 'И биде, при постоењето на војната' — македонскиот со 'додека траеше'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "се зацврстуваше",
+      "rationale": "מתחזק е хитпалел-интензив 'прави себе си силен' — положбена моќ во домот на Шаул"
+    }
+  ],
+  "translation": "И биде, додека траеше војната меѓу домот на Шаул и домот на Давид, Авнер се зацврстуваше во домот на Шаул.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e1b392a5a7285ac24cf02330a62137c448872bfc67e49c51806a005d72ca8293",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/3\/5-8.1792448102775.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "додека траеше"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "војната"
+    },
+    {
+      "surface": "בין",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "на Шаул"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и меѓу"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "ואבנר",
+      "gloss": "Авнер"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨се⟩"
+    },
+    {
+      "surface": "מתחזק",
+      "gloss": "зацврстуваше"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "на Шаул"
+    }
+  ],
+  "timestamp": "2026-10-19T22:15:02.776928139Z",
+  "model": "glm-5.3"
+}

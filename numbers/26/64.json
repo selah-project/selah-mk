@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 26:64",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "два пописа",
+      "rationale": "Споредување на два пописа — оној во Синај и овој во Моав; никој од првите не останал."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא היה איש",
+      "rationale": "Дословно 'не беше човек'; македонскиот израз 'немаше ниеден човек'."
+    }
+  ],
+  "translation": "Меѓу овие немаше ниеден човек од преброените од Моше и Ахарон свештеникот, кои ги преброија ⟨את⟩ синовите на Јисраел во пустињата Синај.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "cd2ab79db3fb1258a1a5247b90e630801b8db99bc6d3c4f7f993399afdbd59b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/26\/61-64.1792445097586.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאלה",
+      "gloss": "меѓу овие"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "имаше"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ниеден човек"
+    },
+    {
+      "surface": "מפקודי",
+      "gloss": "од преброените"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "и Ахарон"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кои"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "ги преброија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синовите на Јисраел"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "во пустињата"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синај"
+    }
+  ],
+  "timestamp": "2026-10-19T21:24:57.587623903Z",
+  "model": "glm-5.3"
+}

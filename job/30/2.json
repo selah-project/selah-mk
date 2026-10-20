@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 30:2",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כלח",
+      "rationale": "Ретка збор 'зрелост\/цврстина': KJV 'старост изгина во нив', други 'живоста\/силата им исчезна'."
+    }
+  ],
+  "translation": "И силата на нивните раце — зошто ⟨ми е⟩? На нив изгина зрелата возраст.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "398f25acbcee001d712b7d65b23c489fc208a49cb4e4a4071a862bf085ad5c9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/30\/1-4.1792455198295.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "И"
+    },
+    {
+      "surface": "כח",
+      "gloss": "силата"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "на нивните раце"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "на нив"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "изгина"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "зрелата возраст"
+    }
+  ],
+  "timestamp": "2026-10-20T00:13:18.296394293Z",
+  "model": "glm-5.3"
+}

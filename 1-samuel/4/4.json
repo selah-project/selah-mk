@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 4:4",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨луѓе⟩",
+      "rationale": "хебрејскиот вели само „народот испрати“ — објектот е додаден за читливост"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישב הכרבים",
+      "rationale": "букв. „што седи [над] керубимите“ — „меѓу“ (LXX, KJV) наспроти „врз“; хебрејскиот не има предлог"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישב",
+      "rationale": "букв. „седи“ — глагол на престолување, не „пребива“"
+    }
+  ],
+  "translation": "И народот испрати ⟨луѓе⟩ во Шило, и понесоа одтаму ⟨את⟩ ковчегот на заветот на Јахве Цеваот, кој седат меѓу керубимите; и таму беа двајцата синови на Ели, со ковчегот на заветот на Елохим — Хофни и Пинхас.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b1811a1e6475bbe0c29eb0b3b344ba97a30b90b15e387ca7e8a2292698d266ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/4\/1-4.1792446748217.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "и испрати"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "во Шило"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "и понесоа"
+    },
+    {
+      "surface": "משם",
+      "gloss": "одтаму"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчегот"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчегот"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "на заветот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "кој седат"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "меѓу керубимите"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "и таму"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двајцата"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на Ели"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчегот"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "на заветот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Хофни"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "и Пинхас"
+    }
+  ],
+  "timestamp": "2026-10-19T21:52:28.219005194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 8:12",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בוש ... יבשו",
+      "rationale": "коренот „срам“ се повторува — „да се постидат... не се постидуваат“ — и македонскиот го чува со повторување"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Да се постидат",
+      "rationale": "хебрејскиот може да биде и констатација „постидени се“ (JPS: shall be put to shame)"
+    }
+  ],
+  "translation": "Да се постидат, зашто гнасотија направија; па дури и да се постидат — не сакаат, за срам не знаат; затоа ќе паднат меѓу паднатите, во времето на нивната посета ќе се спотаат, рече Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e3707db63a101073d60ee5b71878724098842e1b65345fa399c7d50c846fae53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/8\/9-12.1792450483852.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבשו",
+      "gloss": "Да се постидат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "гнасотија"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направија"
+    },
+    {
+      "surface": "גם",
+      "gloss": "па дури и"
+    },
+    {
+      "surface": "בוש",
+      "gloss": "да се постидат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "сакаат"
+    },
+    {
+      "surface": "והכלם",
+      "gloss": "за срам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знаат"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ќе паднат"
+    },
+    {
+      "surface": "בנפלים",
+      "gloss": "меѓу паднатите"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "во времето"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "на нивната посета"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ќе се спотаат"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T22:54:43.854341675Z",
+  "model": "glm-5.3"
+}

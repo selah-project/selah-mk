@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 50:14",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל חץ",
+      "rationale": "'кон\/врз стрелата' — букв. 'немојте да имате милост кон стрелата'; традицијата: 'не поштедувајте стрели'"
+    },
+    {
+      "kind": "you",
+      "subject": "до војниците — народите повикани против Вавилон",
+      "rationale": "директни заповеди во множина"
+    }
+  ],
+  "translation": "Подредете ⟨се⟩ против Вавилон наоколу, сите што го напнувате лакот; фрлајте кон неа, немојте да поштедите стрела, зашто кон Јахве згреши.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "db6c30e9d5606f7b73904b918f89e75d68e669856f9c4938aad45726f7506f86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/50\/13-16.1792451235641.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערכו",
+      "gloss": "подредете"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "што го напнувате"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лакот"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "фрлајте"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "кон неа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "немојте"
+    },
+    {
+      "surface": "תחמלו",
+      "gloss": "да поштедите"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "стрела"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "кон Јахве"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "згреши"
+    }
+  ],
+  "timestamp": "2026-10-19T23:07:15.642732994Z",
+  "model": "glm-5.3"
+}

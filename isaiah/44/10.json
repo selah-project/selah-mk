@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל",
+      "rationale": "според контекстот тоа е бог на народите, затоа со мала буква — не Ел како Име на Бога на Јисраел"
+    },
+    {
+      "kind": "invitation",
+      "subject": "прашање до читателот",
+      "rationale": "риторичкото прашање го повикува читателот самиот да суди за идолите"
+    }
+  ],
+  "translation": "Ко обликува бог, и леен идол што ништо не користи?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "568802be28bbe9a40bc47a03890735dc4eade70cf24bd44470cb9a3a3cdc4a35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/44\/9-12.1792450098103.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ко"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "обликува"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бог"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "и леен идол"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "леен"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "за ништо"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "не користи"
+    }
+  ],
+  "timestamp": "2026-10-19T22:48:18.104650964Z",
+  "model": "glm-5.3"
+}

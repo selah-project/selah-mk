@@ -1,0 +1,146 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 21:8",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Михал",
+      "rationale": "хебрејскиот вели מיכל (Михал), но 1 Сам 18:19 вели дека Мераб ги родила на Адриел; некои рабини читаат 'Мераб', други 'Михал ги воспитала' — KJV вели 'brought up for'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ги",
+      "rationale": "додаден македонски клитички директен објект што хебрејскиот го носи преку את"
+    }
+  ],
+  "translation": "И зема царот ⟨את⟩ двата сина на Рицпа, ќерката на Аја, што му ги роди на Шаул — ⟨את⟩ Армони и ⟨את⟩ Мефивошет — и ⟨את⟩ петте синови на Михал, ќерката на Шаул, што му ги роди на Адриел, синот на Барзилај Мехолатецот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "db170475e941c4b7028a8470325fff169b3ae594ffa0c6de3171f89af7c610af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/21\/5-8.1792448427867.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "и зема"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "двата сина"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двата"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сина"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "на Рицпа"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерката"
+    },
+    {
+      "surface": "איה",
+      "gloss": "на Аја"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "на Шаул"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Армони"
+    },
+    {
+      "surface": "ארמני",
+      "gloss": "Армони"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Мефивошет"
+    },
+    {
+      "surface": "מפבשת",
+      "gloss": "Мефивошет"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "петте сина"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "петте"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "на Михал"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерката"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "на Шаул"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "на Адриел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "на Барзилај"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "Мехолатецот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:20:27.869270969Z",
+  "model": "glm-5.3"
+}

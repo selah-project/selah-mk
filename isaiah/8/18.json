@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 8:18",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до слушателот",
+      "rationale": "хенех — „ете Мене“ — директен показален глас кон публиката"
+    },
+    {
+      "kind": "secret",
+      "subject": "знаци и чудеса",
+      "rationale": "Исаија и децата негови се запечатиени знаци во Јисраел — поврзано со запечатувањето на сведоштвото во 8:16"
+    }
+  ],
+  "translation": "Ете Мене и децата што ми ги даде Јахве за знаци и за чудеса во Јисраел, од Јахве Цеваот, Кој пребива на планината Цион.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e832904571fae8121561e3eba20d8ef95608fe040f17ce25c89e5ae9e27d3d58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/8\/17-20.1792449634815.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ете"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мене"
+    },
+    {
+      "surface": "והילדים",
+      "gloss": "и децата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לאתות",
+      "gloss": "за знаци"
+    },
+    {
+      "surface": "ולמופתים",
+      "gloss": "и за чудеса"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "во Јисраел"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "од"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "השכן",
+      "gloss": "Кој пребива"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на планината"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    }
+  ],
+  "timestamp": "2026-10-19T22:40:34.817302082Z",
+  "model": "glm-5.3"
+}

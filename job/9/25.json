@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 9:25",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "хебрејскиот нема сврзен копула за споредбата"
+    }
+  ],
+  "translation": "А деновите мои се полесни од трчач; побегнаа и не видоа добро.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4801450eb48f99f045c3af83460d9b6faffe4507bc4d9480dc0e2b91a1342361",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/9\/25-28.1792454929105.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והימי",
+      "gloss": "А деновите мои"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "се полесни"
+    },
+    {
+      "surface": "מני",
+      "gloss": "од"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "трчач"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "побегнаа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "видоа"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добро"
+    }
+  ],
+  "timestamp": "2026-10-20T00:08:49.106126872Z",
+  "model": "glm-5.3"
+}

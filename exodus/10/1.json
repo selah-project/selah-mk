@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "отежнав",
+      "rationale": "הכבדתי буквално „го направив тежко“ — стацијата на тврдост против Фараон"
+    },
+    {
+      "kind": "substitution",
+      "subject": "срце",
+      "rationale": "לב е целата внатрешност — волја, ум, чувства — не само орган"
+    }
+  ],
+  "translation": "И рече Јахве на Моше: Оди кај Фараон, зашто Јас му го отежнав ⟨את⟩ срцето и ⟨את⟩ срцето на слугите негови, за да ги ставам ⟨את⟩ знаците Мои овие во средина негова.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1a89ea37e7c821724c294bf08cc9d67f68240694cbebc06b24780dc4241f2ffd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/10\/1-4.1792443450019.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Оди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "го отежнав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срцето"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срцето негово"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "срцето на слугите"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срцето"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "на слугите негови"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ставам"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "знаците Мои"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "во средина негова"
+    }
+  ],
+  "timestamp": "2026-10-19T20:57:30.022932872Z",
+  "model": "glm-5.3"
+}

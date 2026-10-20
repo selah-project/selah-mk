@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 3:22",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הפרשדנה",
+      "rationale": " се јавува само тука во Танах; значи аналниот отвор \/ содржината на цревата"
+    },
+    {
+      "kind": "substitution",
+      "subject": "изметот",
+      "rationale": "буквално „аналниот отвор“; преведувачите се колебаат меѓу измет, црева и 'излезе одзад'"
+    }
+  ],
+  "translation": "И влезе и држачот по острицата, и салото се затвори зад острицата, зашто не го извлече мечот од стомакот негов — и излезе изметот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "80695756eb6671e51e906369ccb6372d328ff1ae9f06802024d15732c3ed593d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/3\/21-24.1792446311431.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "влезе"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "הנצב",
+      "gloss": "држачот"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "по"
+    },
+    {
+      "surface": "הלהב",
+      "gloss": "острицата"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "се затвори"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "салото"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "зад"
+    },
+    {
+      "surface": "הלהב",
+      "gloss": "острицата"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "го извлече"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "мечот"
+    },
+    {
+      "surface": "מבטנו",
+      "gloss": "од стомакот негов"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и излезе"
+    },
+    {
+      "surface": "הפרשדנה",
+      "gloss": "изметот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:45:11.432365055Z",
+  "model": "glm-5.3"
+}

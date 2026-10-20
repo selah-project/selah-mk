@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zephaniah 3:9",
+  "book": "zephaniah",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שכם אחד",
+      "rationale": "буквално 'со едно рамо\/плече' — KJV традицијата 'со една согласност' против буквата на хебрејскиот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "усна",
+      "rationale": "שפה значи 'усна' а по_implikacija 'јазик'; буквата на делото е усна."
+    }
+  ],
+  "translation": "Зашто тогаш ќе им свртам на народите чиста усна, за да Го повикаат сите во Името на Јахве, да Му служат со едно рамо.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "347d5c9c62fbd7f714dec636ba516060211290c361390daea79dbe3de5fba12b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zephaniah\/3\/9-12.1792452675644.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тогаш"
+    },
+    {
+      "surface": "אהפך",
+      "gloss": "ќе свртам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "усна"
+    },
+    {
+      "surface": "ברורה",
+      "gloss": "чиста"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "да повикаат"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "сите"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "во Името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "לעבדו",
+      "gloss": "да Му служат"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "рамо"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "едно"
+    }
+  ],
+  "timestamp": "2026-10-19T23:31:15.645500248Z",
+  "model": "glm-5.3"
+}

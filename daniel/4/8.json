@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 4:8",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "височината и крајот",
+      "rationale": "видението го мери дрвото: до небото нагоре, до крајот на сета земја настрана"
+    }
+  ],
+  "translation": "Порасна дрвото и се зацврсти, и височината негова допираше до небото, и погледот негов — до крајот на сета земја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5b6b82d0d76c587f7d1aafae76f1ec3e8b512a028d7709b12ec51facfd46efc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/4\/5-8.1792456052194.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבה",
+      "gloss": "порасна"
+    },
+    {
+      "surface": "אילנא",
+      "gloss": "дрвото"
+    },
+    {
+      "surface": "ותקף",
+      "gloss": "и се зацврсти"
+    },
+    {
+      "surface": "ורומה",
+      "gloss": "и височината негова"
+    },
+    {
+      "surface": "ימטא",
+      "gloss": "допираше"
+    },
+    {
+      "surface": "לשמיא",
+      "gloss": "до небото"
+    },
+    {
+      "surface": "וחזותה",
+      "gloss": "и погледот негов"
+    },
+    {
+      "surface": "לסוף",
+      "gloss": "до крајот"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на сета"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "земја"
+    }
+  ],
+  "timestamp": "2026-10-20T00:27:32.195872968Z",
+  "model": "glm-5.3"
+}

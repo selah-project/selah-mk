@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 118:15",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "има",
+      "rationale": "Хебрејскиот нема глагол 'има' — именската реченица го бара во македонскиот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חיל",
+      "rationale": "חיל е 'сила\/војска\/храброст' — 'јунаштво' го држи воениот призвук."
+    }
+  ],
+  "translation": "Глас на радосни извици и на спасение ⟨има⟩ во шаторите на праведните: десната рака на Јахве дела јунаштво.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/118\/13-16.1792453975471.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "радосни извици"
+    },
+    {
+      "surface": "וישועה",
+      "gloss": "и спасение"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "во шаторите"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "на праведните"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "десната рака"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "дела"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "јунаштво"
+    }
+  ],
+  "timestamp": "2026-10-19T23:52:55.472454297Z",
+  "model": "glm-5.3"
+}

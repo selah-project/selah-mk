@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 7:35",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משחת",
+      "rationale": "KJV\/ASJ додаат „дел“ („portion of the anointing“); хебрејскиот вели само „ова е помазанието“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "огнени приноси",
+      "rationale": "אשה — принос изгорен во оган, не само „сепалувана жртва“"
+    }
+  ],
+  "translation": "Ова е помазанието на Ахарон и помазанието на синовите негови, од огнените приноси на Јахве, во денот кога ги приближи ⟨את⟩ нив да свештеничат пред Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e4c1f5bd048a04432ba0d321b3366c8f0767b0fa3cf9c28afa5821fb34902c0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/7\/33-36.1792444077922.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "помазание"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "на Ахарон"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "и помазание"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "на синовите негови"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "од огнените приноси"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "ги приближи"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ги",
+      "marks": "нив"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "да свештеничат"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:07:57.928761939Z",
+  "model": "glm-5.3"
+}

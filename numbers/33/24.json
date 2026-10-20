@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 33:24",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "патувачка станица",
+      "rationale": "Список на логорувања — бројење на станиците во пустињата."
+    }
+  ],
+  "translation": "И тргнаа од планината Шафер и се логорија во Харада.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f07c1e9bc41459ba80b4039bc3b5911fb01270cb614dec4688c59a0668a2cbb0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/33\/21-24.1792445209241.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И тргнаа"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "од планината"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "Шафер"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "се логорија"
+    },
+    {
+      "surface": "בחרדה",
+      "gloss": "во Харада"
+    }
+  ],
+  "timestamp": "2026-10-19T21:26:49.243430838Z",
+  "model": "glm-5.3"
+}

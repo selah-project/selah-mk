@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 29,
+  "translation": "И ќе го заколеш ⟨את⟩ волот пред Јахве, на влезот од шаторот на состанокот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0c08fc337118253f740951b22bea98bfa6ef2d862f10c884b3957824189adacb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/29\/9-12.1792443799702.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "и ќе го заколеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "волот"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "волот"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "на влезот"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "од шаторот"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на состанокот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:03:19.705555040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 11:20",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפеш е 'животна сила, здив' — не бессмртна душа"
+    },
+    {
+      "kind": "crux",
+      "subject": "מפח נפש",
+      "rationale": "'испуштање на душата' (YLT буквално) наспроти 'давање на духот' (KJV) — буквалната слика е издишување на животот"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ומנוס אבד מנהם",
+      "rationale": "'бегството загина од нив' = немаат каде да побегнат; буквално задржано"
+    }
+  ],
+  "translation": "А очите на безбожниците ќе згаснат, и бегство од нив загина, а надежта нивна — испуштање на ⟨душата⟩.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bc62d85a8cddea47d71ca00ffc477c64651bc787b67151bcd7378b1207abcd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/11\/17-20.1792454986859.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "а очите"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "на безбожниците"
+    },
+    {
+      "surface": "תכלינה",
+      "gloss": "ќе згаснат"
+    },
+    {
+      "surface": "ומנוס",
+      "gloss": "и бегство"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "загина"
+    },
+    {
+      "surface": "מנהם",
+      "gloss": "од нив"
+    },
+    {
+      "surface": "ותקותם",
+      "gloss": "а надежта нивна"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "испуштање"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "на душата"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:46.860272919Z",
+  "model": "glm-5.3"
+}

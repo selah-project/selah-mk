@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бееше",
+      "rationale": "хебрејскиот нема копула"
+    }
+  ],
+  "translation": "И си отиде Елијаху да се покаже пред Ахав — а гладот беше жесток во Шомрон.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6b7c8114fc51d4576d7234da909e7e1be40515d42fbd3f299ad679e35e6f7320",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/18\/2-3.1792458026780.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И си отиде"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Елијаху"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "да се покаже"
+    },
+    {
+      "surface": "אל",
+      "gloss": "пред"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахав"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "а гладот"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "жесток ⟨бееше⟩"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "во Шомрон"
+    }
+  ],
+  "timestamp": "2026-10-20T01:00:26.780572619Z",
+  "model": "glm-5.3"
+}

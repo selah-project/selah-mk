@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "плете",
+      "rationale": "חשב е букв. да ткае\/плете — сликата на ткаење зло е задржана"
+    }
+  ],
+  "translation": "Пропаст плете јазикот твој, како изострен брич, кој прави измама.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f53f127600fa1f91334ca755f7b424bccba594c7ab4464e288652a14083aeb69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/52\/1-4.1792453347624.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Пропаст"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "плете"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "јазикот твој"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "како брич"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "изострен"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кој прави"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "измама"
+    }
+  ],
+  "timestamp": "2026-10-19T23:42:27.625470726Z",
+  "model": "glm-5.3"
+}

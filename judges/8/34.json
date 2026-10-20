@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 8:34",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "својот",
+      "rationale": "македонскиот бара придрожна детерминација, хебрејскиот ја има наставката"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכרו\/לא זכרו",
+      "rationale": "'не се сеќаваа' — клучен збор на книгата Судии, повторуван во секое отпадништво"
+    }
+  ],
+  "translation": "И не се сеќаваа синовите на Јисраел на ⟨את⟩ Јахве, Елохим својот, што ги избавуваше ⟨את⟩ нив од рака на сите непријатели нивни наоколу.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a2474b97b7277b52bb7b605dbb6e4284280bc694a97b6079539f26435249bbdf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/8\/33-35.1792446382213.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "сеќаваа се"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Елохим својот"
+    },
+    {
+      "surface": "המציל",
+      "gloss": "што ги избавуваше"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ нив",
+      "marks": "нив"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "од рака"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на сите"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "непријатели нивни"
+    },
+    {
+      "surface": "מסבив",
+      "gloss": "наоколо"
+    }
+  ],
+  "timestamp": "2026-10-19T21:46:22.214556487Z",
+  "model": "glm-5.3"
+}

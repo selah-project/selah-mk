@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 1:15",
+  "book": "ruth",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "боговите",
+      "rationale": "אלהיה тука се однесува на моавските богови, па со мала буква — не Елохим на Јахве"
+    }
+  ],
+  "translation": "И рече: Ете, твојата снаа се врати кон својот народ и кон своите богови — врати се ти по твојата снаа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "eae86b0c522789f89934bcdddb2fe26b76f5850a1e28b3edde38b28b8a2e2f9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ruth\/1\/13-16.1792455566003.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ете"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "се врати"
+    },
+    {
+      "surface": "יבמתך",
+      "gloss": "твојата снаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "својот народ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и кон"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "своите богови"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "врати се"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "יבמתך",
+      "gloss": "твојата снаа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:19:26.004355101Z",
+  "model": "glm-5.3"
+}

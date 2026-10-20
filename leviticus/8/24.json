@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 8:24",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "хiasm на крвта",
+      "rationale": "крвта оди на човекот (уво, рака, нога) па обратно на олтарот — движење меѓу посветениот и олтарот"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויזרק",
+      "rationale": "„попрска“ наспроти „фрли\/прсна“ (ЈПС „dashed“); глаголот е ист со прскањето од жртвеникот"
+    }
+  ],
+  "translation": "И ги приближи ⟨את⟩ синовите на Ахарон, и стави Моше од крвта на врвот на увото нивното десно, и на палецот од раката нивна десна, и на палецот од ногата нивна десна, и попрска Моше ⟨את⟩ крвта врз олтарот наоколу.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "72a34b1889a708fb80fb356fc6db6fdb32bc7e701b59fc50a39ecfdb0d3cec70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/8\/21-24.1792444203837.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "И ги приближи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синовите на Ахарон"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "на Ахарон"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и стави"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "крвта"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "врвот"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "увото нивното"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "десно"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "палецот"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "раката нивна"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "десна"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "палецот"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "ногата нивна"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "десна"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "и попрска"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "крвта"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "крвта"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "олтарот"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколу"
+    }
+  ],
+  "timestamp": "2026-10-19T21:10:03.840245961Z",
+  "model": "glm-5.3"
+}

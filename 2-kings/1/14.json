@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата моја",
+      "rationale": "נפש е грло\/животна сила, не бесмртна душа"
+    },
+    {
+      "kind": "you",
+      "subject": "до Илија",
+      "rationale": "капетанот директно му се обраќа на човекот Божји"
+    },
+    {
+      "kind": "idiom",
+      "subject": "во очите твои",
+      "rationale": "хебрејски idiom 'во очите на' = во твое видување"
+    }
+  ],
+  "translation": "Еве, оган слезе од небото и ги изеде ⟨את⟩ двата старешини на педесетте први и ⟨את⟩ нивните педесет; а сега нека биде скапа душата моја во очите твои.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1db1edec7485df1ec8ac49d6a9c142a120896837d553afb1d62f5770bd1e9d7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/1\/14-15.1792458059847.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "слезе"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оган"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небото"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "и ги изеде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "двата старешини на педесетте први"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двата"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "старешини"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "на педесетте"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "први"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "нивните педесет"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "нивните педесет"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "нека биде скапа"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата моја"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "во очите твои"
+    }
+  ],
+  "timestamp": "2026-10-20T01:00:59.848287373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула во втората реченица"
+    }
+  ],
+  "translation": "И сладка е светлината, и е добро за очите да гледаат ⟨את⟩ сонцето.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "080f883d4fb00876a0c9c80f446adfb93005ca02fcd78b417e32b6f2714db9ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/11\/5-8.1792455788305.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "и сладка"
+    },
+    {
+      "surface": "האור",
+      "gloss": "светлината"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "и добро"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "за очите"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "да гледаат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сонцето"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцето"
+    }
+  ],
+  "timestamp": "2026-10-20T00:23:08.306441155Z",
+  "model": "glm-5.3"
+}

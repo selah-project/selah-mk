@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 38:19",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חי חי",
+      "rationale": "удвоен повик „живиот, живиот“ — спротивност на шеолот од претходниот стих."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨за⟩",
+      "rationale": "хебрејскиот אל пред אמתך е дативен „кон\/за“; македонскиот бара мала предлог-врска."
+    }
+  ],
+  "translation": "Живиот, живиот — тој те фали, како јас денес; таткото на синовите ќе ја објави твојата верност.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e42248b4e11e36e1eec30d070329c790124e1c7b6c6fb9559c520eea99a7e4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/38\/17-20.1792450005910.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Живиот"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живиот"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "יודך",
+      "gloss": "те фали"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "како јас"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "אב",
+      "gloss": "таткото"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "на синовите"
+    },
+    {
+      "surface": "יודיע",
+      "gloss": "ќе ја објави"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨за⟩"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "твојата верност"
+    }
+  ],
+  "timestamp": "2026-10-19T22:46:45.911759597Z",
+  "model": "glm-5.3"
+}

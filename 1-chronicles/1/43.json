@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 1:43",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот бара сврзник во релативната реченица"
+    },
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "measurement",
+      "subject": "список на цареви",
+      "rationale": "почеток на списокот на едомските цареви со имиња и градови"
+    }
+  ],
+  "translation": "И овие ⟨се⟩ царевите што царуваа во земјата Едом, пред да царува цар над синовите Јисраелови: Бела, синот на Беор, а името на градот му ⟨беше⟩ Динхава.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f8bc117251654fe37e7267fe37e8a13563b90e405d5489420e4f02955bd28d55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/1\/41-44.1792456773556.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "и овие"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "царевите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "мלכו",
+      "gloss": "царуваа"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "да царува"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "над синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Беор"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а името"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "на градот му"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "Динхава"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:33.557464939Z",
+  "model": "glm-5.3"
+}

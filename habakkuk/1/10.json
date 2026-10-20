@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 1:10",
+  "book": "habakkuk",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויצבר עפר",
+      "rationale": "букв. „и насипа прав“ — насипување опсаден насип пред тврдината."
+    },
+    {
+      "kind": "hapax",
+      "subject": "יתקלס",
+      "rationale": "пассив на קלס — речено само тука во Танах."
+    }
+  ],
+  "translation": "И тој се потсмева над царевите, и кнезовите му ⟨се⟩ потсмевалиште; тој се смее на секоја тврдина, нафрла прав и ⟨ја⟩ заробува.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "174a7df9aabb8509ca348d35d8bd9110670b027d09b98329007cd69e748d0a54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/habakkuk\/1\/9-12.1792452584987.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "И тој"
+    },
+    {
+      "surface": "במלכים",
+      "gloss": "над царевите"
+    },
+    {
+      "surface": "יתקלס",
+      "gloss": "се потсмева"
+    },
+    {
+      "surface": "ורזנים",
+      "gloss": "и кнезовите"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "потсмевалиште"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на секоја"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "тврдина"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "се смее"
+    },
+    {
+      "surface": "ויצבר",
+      "gloss": "нафрла прав"
+    },
+    {
+      "surface": "עפר",
+      "gloss": ""
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "и ⟨ја⟩ заробува"
+    }
+  ],
+  "timestamp": "2026-10-19T23:29:44.988674253Z",
+  "model": "glm-5.3"
+}

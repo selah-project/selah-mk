@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "нема да го вратам",
+      "rationale": "לא אשיבנו: KJV\/ASV додаваат „казната“; JPS\/YLТ буквално „нема да го вратам“ — ја чув буквата"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨него⟩",
+      "rationale": "македонскиот барá објект кај „вратам“, хебрејскиот го има во наставката -נו"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "три… и за четири",
+      "rationale": "нумеричка рамка 3+4, рефрен низ целото поглавје — бројот расте, судот е сигурен"
+    }
+  ],
+  "translation": "Така вели Јахве: За три бунтови на Дамаск и за четири нема да го вратам ⟨него⟩, зашто ги сомнаа ⟨את⟩ Галаад со железни трлачи.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "556b396dade6b4c5de378a20456f8a43db9a81aca80b568114318f8b13d623cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/amos\/1\/1-4.1792452347226.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "על",
+      "gloss": "За"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "бунтови"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "на Дамаск"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и за"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четири"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "да го вратам ⟨него⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "ги сомнаа"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "со железни трлачи"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Галаад"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Галаад"
+    }
+  ],
+  "timestamp": "2026-10-19T23:25:47.227771585Z",
+  "model": "glm-5.3"
+}

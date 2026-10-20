@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 15:11",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "во својата невиност",
+      "rationale": "לתמם букс. „во нивната целост\/едноставност“; מאתים איש е бројка со איש како броен прилог"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ништо",
+      "rationale": "כל דבר букс. „секоја работа\/нешто“ — со ולא значи „ништо воопшто“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "двеста души",
+      "rationale": "Прецизен број на придружници"
+    }
+  ],
+  "translation": "И со ⟨את⟩ Афшалом отидоа двеста души од Јерушалаим, поканети, и одеа во својата невиност, и не знаеја ништо.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2f9b65b202d8697f061b683cabc6f35670a5f11505bf6137667edfca4e58158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/15\/9-12.1792448241750.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨со⟩ ⟨את⟩",
+      "marks": "Афшалом"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Афшалом"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "оздоа"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двеста"
+    },
+    {
+      "surface": "איש",
+      "gloss": "души"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "од Јерушалаим"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "поканети"
+    },
+    {
+      "surface": "והלכים",
+      "gloss": "и одеа"
+    },
+    {
+      "surface": "לתמם",
+      "gloss": "во својата невиност"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знаеја"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ништо"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "(од ништо)"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:21.752140973Z",
+  "model": "glm-5.3"
+}

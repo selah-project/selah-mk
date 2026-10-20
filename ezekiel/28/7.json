@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 28:7",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "светлина",
+      "rationale": "יפעה е сјај\/блескот; 'светлина' го задржува живописот на зборот."
+    }
+  ],
+  "translation": "затоа, еве Ме, Јас доведувам врз тебе странци, насилници меѓу народите, и тие ќе ги извлечат своите мечеви врз убавината на твојата мудрост, и ќе ја осквернат твојата светлина.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c6d64305b394125e266ebc9c699602790a8c614fbf09aa73164c54f213c801e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/28\/5-8.1792451821886.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ево Ме"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "Јас доведувам"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "врз тебе"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "странци"
+    },
+    {
+      "surface": "עריצי",
+      "gloss": "насилници"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "меѓу народите"
+    },
+    {
+      "surface": "והריוו",
+      "gloss": "и ќе ги извлечат"
+    },
+    {
+      "surface": "חרבותם",
+      "gloss": "своите мечеви"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "убавината"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "на твојата мудрост"
+    },
+    {
+      "surface": "וחללו",
+      "gloss": "и ќе ја осквернат"
+    },
+    {
+      "surface": "יפעתך",
+      "gloss": "твојата светлина"
+    }
+  ],
+  "timestamp": "2026-10-19T23:17:01.887252631Z",
+  "model": "glm-5.3"
+}

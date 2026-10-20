@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "надеж",
+      "rationale": "מבט буквално значи очекување, она што се гледа напред"
+    }
+  ],
+  "translation": "И ќе се уплашат и ќе се посрамат од Куш, надежта нивна, и од Мицраим, славата нивна.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "36cb4e4d39e0566383440ad6d994b155340167b150a18ee3bf1b3dfa1f65452d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/20\/5-6.1792449789121.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "ќе се уплашат"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "ќе се посрамат"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "од Куш"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "надежта нивна"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "славата нивна"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:09.122611129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 7:1",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 7,
+  "translation": "И биде зборот на Јахве до мене, велејќи:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3f93cb63e11e37f7d7419fa7d2616817fe54506fcf6ca6782464e241ad0688a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/7\/1-4.1792451439517.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    }
+  ],
+  "timestamp": "2026-10-19T23:10:39.517972987Z",
+  "model": "glm-5.3"
+}

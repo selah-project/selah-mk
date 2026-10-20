@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "го оживеа",
+      "rationale": "יחיה е причинско од חיה (живее) — „оживе\/врати во живот“; традиционалните преводи „обнови“ го губат глаголот на животот."
+    },
+    {
+      "kind": "crux",
+      "subject": "המלוא",
+      "rationale": "Мило — насип\/тераса во Јерушалаим; не се преведува, се пишува како име."
+    }
+  ],
+  "translation": "И го изгради градот наоколку, од Мило па до околината; а Јоав го оживеа ⟨את⟩ остатокот од градот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bf42fe82564cd90bb7094ae0b6525e82e59150da7fd1cb154340ca67bd9ca598",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/11\/5-8.1792456983715.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "И го изгради"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "наоколку"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Мило"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "па до"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "околината"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "а Јоав"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "го оживеа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "остатокот од градот"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "остатокот"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "од градот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:43:03.716390149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 13:7",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תדברו… תדברו",
+      "rationale": "паралелизам со повторен глагол — двоен удар врз говорот"
+    },
+    {
+      "kind": "you",
+      "subject": "до трите пријатели",
+      "rationale": "реторичко прашање упатено директно кон нив"
+    }
+  ],
+  "translation": "Дали за Ел ќе говорите неправда и за Него ќе говорите превара?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9453e0ce58502f6b4905bb723c0d53c66c8ba6ac61f4174513ce3790c919ebe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/13\/5-8.1792454949240.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הַלְאֵל",
+      "gloss": "за Ел"
+    },
+    {
+      "surface": "תְּדַבְּרוּ",
+      "gloss": "ќе говорите"
+    },
+    {
+      "surface": "עַוְלָה",
+      "gloss": "неправда"
+    },
+    {
+      "surface": "וְלוֹ",
+      "gloss": "и за Него"
+    },
+    {
+      "surface": "תְּדַבְּרוּ",
+      "gloss": "ќе говорите"
+    },
+    {
+      "surface": "רְמִיָּה",
+      "gloss": "превара"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:09.241244216Z",
+  "model": "glm-5.3"
+}

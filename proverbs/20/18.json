@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 20:18",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "упатства",
+      "rationale": "תחבולות е буквално 'кормилење' (рачекање јажиња) — 'стратегии', 'лука' или 'упатства'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "планове",
+      "rationale": "стихот е за планирање и советување пред војна"
+    }
+  ],
+  "translation": "Со совет се утврдуваат плановите, и со упатства води војна.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "748b86903346a29a87c3c9293d10a3738c5cd48239d46e83f3222714a58e2b75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/20\/17-20.1792454624237.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "плановите"
+    },
+    {
+      "surface": "בעצה",
+      "gloss": "Со совет"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "се утврдуваат"
+    },
+    {
+      "surface": "ובתחבלות",
+      "gloss": "со упатства"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "води"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "војна"
+    }
+  ],
+  "timestamp": "2026-10-20T00:03:44.238806205Z",
+  "model": "glm-5.3"
+}

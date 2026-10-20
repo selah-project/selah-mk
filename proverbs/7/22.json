@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 7:22",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וכעכס",
+      "rationale": "'глуждалка\/окова' (KJV: 'како безумник во окови') наспроти масоретскиот текст 'како окова до казната на безумникот'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨синџири⟩",
+      "rationale": "Македонскиот бара именка; хебрејскиот има само 'како окован'."
+    }
+  ],
+  "translation": "Оде по неа наеднаш, како вол што оди на колење, и како окован во ⟨синџири⟩ — на казната на безумникот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2edb5ac9898e9bf0e8987e5b05ee9734674af8989e1bd60be6c8e01629e1ebd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/7\/21-24.1792454374958.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "оде"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "по неа"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "наеднаш"
+    },
+    {
+      "surface": "כשור",
+      "gloss": "како вол"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "колење"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "оди"
+    },
+    {
+      "surface": "וכעכס",
+      "gloss": "и како окован во"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "казната"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "на безумникот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:59:34.959302164Z",
+  "model": "glm-5.3"
+}

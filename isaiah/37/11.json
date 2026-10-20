@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 37:11",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואתה תנצל",
+      "rationale": "хебрејскиот е тврдење ('а ти ќе бидеш избавен!'), но традицијата го чита како прашање ('и ти ли ќе се избавиш?')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "осветувајќи ги на уништување",
+      "rationale": "חרם — посветување на целосно уништување; еден збор за повеќе македонски"
+    },
+    {
+      "kind": "you",
+      "subject": "до Хизкија",
+      "rationale": "реторички напад упатен директно до Хизкија"
+    }
+  ],
+  "translation": "Ене, ти си чул што направија царевите на Ашур на сите земји, осветувајќи ги на уништување — и ти ли ќе бидеш избавен?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "58a2d0b98f488fcc482ba781196e6d88a694931f50e6ace27ff4aa848dfffddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/37\/9-12.1792450009422.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ене"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "си чул"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направија"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царевите"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на сите"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "земји"
+    },
+    {
+      "surface": "лהחרימם",
+      "gloss": "осветувајќи ги"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "и ти"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "ќе бидеш избавен"
+    }
+  ],
+  "timestamp": "2026-10-19T22:46:49.423388134Z",
+  "model": "glm-5.3"
+}

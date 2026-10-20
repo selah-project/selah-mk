@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 4:4",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "осакати",
+      "rationale": "ויפסח буквално „и куцање стана“ — стана куц; дадено по смисла"
+    },
+    {
+      "kind": "crux",
+      "subject": "доилката",
+      "rationale": "אמנתו — „таа што го одгледуваше“, неговата nurturing-мајка; преведувачите даваат „дadилка“ или „гувернанта“"
+    }
+  ],
+  "translation": "А Јехонатан, синот на Шаул, имаше син обезположен на нозете; тој беше на пет години кето доjde веста за Шаул и Јехонатан од Изреел, и доилката негова го подигна и побегна; и во нејзината журба да бега, тој падна и осакати; а името му беше Мефивошет.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "dc27d0b8428cea1b88cd4cc8b5cb9ee2e05f7a68bd59b38dd3951746b09ae726",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/4\/1-4.1792448112809.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וליהונתן",
+      "gloss": "а на Јехонатан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "обезположен"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "на нозете"
+    },
+    {
+      "surface": "בן",
+      "gloss": "на"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "кога доjde"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "веста"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "за Шаул"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "и Јехонатан"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "од Изреел"
+    },
+    {
+      "surface": "ותשאהו",
+      "gloss": "и го подигна"
+    },
+    {
+      "surface": "אמנתו",
+      "gloss": "доилката негова"
+    },
+    {
+      "surface": "ותנס",
+      "gloss": "и побегна"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "בחפזה",
+      "gloss": "во журбата"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "да бега"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "па падна"
+    },
+    {
+      "surface": "ויפסח",
+      "gloss": "и осакати"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "а името негово"
+    },
+    {
+      "surface": "מפיבשת",
+      "gloss": "Мефивошет"
+    }
+  ],
+  "timestamp": "2026-10-19T22:15:12.828757047Z",
+  "model": "glm-5.3"
+}

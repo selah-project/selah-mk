@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула — придавката стои како исказ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "цедек-праведност",
+      "rationale": "צדקה е еден корен со 'праведност'; според D2 се чува цедек"
+    }
+  ],
+  "translation": "Возвишен е Јахве, зашто обитава на височина; го наполни Цион со суд и цедек-праведност.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "fb5901210a8f6706374bde8db17df9462fe2c2a8e5312b29cdb43041556eb3fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/33\/5-8.1792449927267.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "возвишен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "обитава"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "на височина"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "го наполни"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "и цедек-праведност"
+    }
+  ],
+  "timestamp": "2026-10-19T22:45:27.268087655Z",
+  "model": "glm-5.3"
+}

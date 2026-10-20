@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 27:24",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "гнев",
+      "rationale": "קצף е буквално „откинato парче\/треперка“, слика за избувнат гнев"
+    },
+    {
+      "kind": "measurement",
+      "subject": "незавршениот попис",
+      "rationale": "броењето не е довршено и бројот не е запишан — фактот е ставен во запис"
+    }
+  ],
+  "translation": "Јоав, син на Церујах, почна да брои, но не заврши; и се раствори гнев врз Јисраел поради ова — и бројот не влезе во бројот на делата на деновите на царот Давид.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d44c3f86e2255064eabe4b207ef8a3bce6b027e08e559ae62aae922be2758b12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/27\/21-24.1792457259323.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "на Церујах"
+    },
+    {
+      "surface": "החל",
+      "gloss": "почна"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "да брои"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "заврши"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "поради ова"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "гнев"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "влезе"
+    },
+    {
+      "surface": "המספר",
+      "gloss": "бројот"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "во бројот"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "на делата"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "на деновите"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-20T00:47:39.324515740Z",
+  "model": "glm-5.3"
+}

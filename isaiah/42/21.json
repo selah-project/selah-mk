@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדק נоси еден корен — не се раствора во 'правда' сама"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Тора",
+      "rationale": "תורה се чува како Тора, не 'закон' сама"
+    },
+    {
+      "kind": "crux",
+      "subject": "заради својот цедек",
+      "rationale": "למעען צדקו — чија правда: Јахвева или на народот; традицијата се дели"
+    }
+  ],
+  "translation": "Јахве сакаше заради својот цедек — ќе ја возвеличи Тора и ќе ја прослави.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e65b8dd7afb4d1a26416ee62cd4fe54059084c041ae9035f1d21ca5f8c235eab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/42\/21-24.1792450102865.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "сакаше"
+    },
+    {
+      "surface": "למען",
+      "gloss": "заради"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "својот цедек"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "ќе ја возвеличи"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "и ќе ја прослави"
+    }
+  ],
+  "timestamp": "2026-10-19T22:48:22.866163565Z",
+  "model": "glm-5.3"
+}

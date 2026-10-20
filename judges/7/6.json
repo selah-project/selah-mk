@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 7:6",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "триста мажи",
+      "rationale": "броење: бројот на оние што лижеа е триста"
+    },
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "хебрејскиот нема глагол „да е“ во оваа структура, македонскиот бара"
+    }
+  ],
+  "translation": "И бројот на оние што лижеа со раката своја до устата своја беше триста мажи; а сиот останат народ клекна на колениците свои да пие вода.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "6337701ab14eab8413441eb524757598cec4fd6a2d4f4c1dde3e8dd8f0c370e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/7\/5-8.1792446378598.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "бројот"
+    },
+    {
+      "surface": "המלקקים",
+      "gloss": "на оние што лижеа"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "со раката своја"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "устата своја"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сто"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мажи"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "а сиот"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "останат"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "клекна"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ברכיהם",
+      "gloss": "колениците свои"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "да пие"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    }
+  ],
+  "timestamp": "2026-10-19T21:46:18.599551040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 5:9",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "девирот",
+      "rationale": "הדביר е највнатрешниот дел на светилиштето; дадено по звученето како „девир“, не „светиња“"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויאריכו",
+      "rationale": "„ги издолжија“ — или „беа толку долги“ (ASV\/JPS); хебрејскиот causative вели дека прачките биле издолжени"
+    },
+    {
+      "kind": "measurement",
+      "subject": "до ден-денес",
+      "rationale": "хроничарот го бележи траењето на состојбата до негово време"
+    }
+  ],
+  "translation": "И ги издолжија ⟨се⟩ носачките прачки, и главите на прачките се виделе од ковчегот, пред девирот — а надвор не се гледале; и ⟨тој⟩ беше таму до ден-денес.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9aa70dd20b0b1dd4f1b8af9e804409546115661b11745f43ca68522b6ccaf07b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/5\/9-12.1792457403435.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאריכו",
+      "gloss": "ги издолжија"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "носачките прачки"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "се виделе"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главите"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "на прачките"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ковчегот"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "פני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "девирот"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "се гледале"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "надвор"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден-денес"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    }
+  ],
+  "timestamp": "2026-10-20T00:50:03.436078303Z",
+  "model": "glm-5.3"
+}

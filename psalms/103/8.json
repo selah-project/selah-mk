@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ארך אפים",
+      "rationale": "букв. „долги ноздри“ = бавен на гнев; на македонски „долг на носот“ со објаснување, инаку идиомот се губи."
+    },
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула — учесникот е придавка, македонскиот бара „е“."
+    }
+  ],
+  "translation": "Смилостив и милостив е Јахве, долг на носот ⟨即 гневен⟩ и многу во хесед.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/103\/5-8.1792453813855.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Смилостив"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "и милостив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "долг"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "на носот"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "и многу"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "во хесед"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:13.856396352Z",
+  "model": "glm-5.3"
+}

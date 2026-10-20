@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 51:22",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש\/אשה",
+      "rationale": "Игра маж\/жена (איש\/אשה) како во Битие 2:23, изгубена на македонски."
+    }
+  ],
+  "translation": "и со тебе ќе разбијам маж и жена, и со тебе ќе разбијам старец и дете, и со тебе ќе разбијам младич и девојка.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "798c93bb06821c716befebabd5488a6ae35623f5d38faae096cc37770bd7ae08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/51\/21-24.1792451287946.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפצתי",
+      "gloss": "и ќе разбијам"
+    },
+    {
+      "surface": "בך",
+      "gloss": "со тебе"
+    },
+    {
+      "surface": "איש",
+      "gloss": "маж"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "и жена"
+    },
+    {
+      "surface": "ונפצתי",
+      "gloss": "и ќе разбијам"
+    },
+    {
+      "surface": "בך",
+      "gloss": "со тебе"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "старец"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "и дете"
+    },
+    {
+      "surface": "ונפצתי",
+      "gloss": "и ќе разбијам"
+    },
+    {
+      "surface": "בך",
+      "gloss": "со тебе"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "младич"
+    },
+    {
+      "surface": "ובתולה",
+      "gloss": "и девојка"
+    }
+  ],
+  "timestamp": "2026-10-19T23:08:07.947333052Z",
+  "model": "glm-5.3"
+}

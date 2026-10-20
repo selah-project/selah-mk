@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 30:7",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בבקר בבקר",
+      "rationale": "Двојно повторување 'утро утро' — ритмичка инсистенција на секојдневноста"
+    }
+  ],
+  "translation": "И ќе покади на него Ахарон мириса тамјан од мириси секое утро, секое утро — кога ги подредува ⟨את⟩ светилките, ќе го покади.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "8b6e00aac884210ceacd4f25a5f108db61ed176ab43c081fe6b915267a3f4691",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/30\/5-8.1792443812841.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "И ќе покади"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "тамјан"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "мириси"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "утро"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "утро"
+    },
+    {
+      "surface": "בהיטיבו",
+      "gloss": "кога подредува"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "светилките"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "светилките"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "ќе го покади"
+    }
+  ],
+  "timestamp": "2026-10-19T21:03:32.846178019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "штити ги",
+      "rationale": "ותסך букв. 'покрива\/оградува' — сликата на шит како покривка, не воен штит."
+    },
+    {
+      "kind": "elision",
+      "subject": "עלי׮ו",
+      "rationale": "Предлогот 'над\/врз' се топи во македонскиот клитички 'ги'."
+    }
+  ],
+  "translation": "И нека се радуваат сите што се засолнуваат во Тебе, довека нека пеат радосно; и штити ги, и нека ликуваат во Тебе оние што го сакаат Името Твое.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2ac9312f959b215aba426f7f5f1ae5c226a181a8bd26f24b424fd4ddd39310cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/5\/9-12.1792452948485.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "и нека се радуваат"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "што се засолнуваат"
+    },
+    {
+      "surface": "בך",
+      "gloss": "во Тебе"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "довека"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "нека пеат радосно"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "и штити ги"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ги"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "и нека ликуваат"
+    },
+    {
+      "surface": "בך",
+      "gloss": "во Тебе"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "оние што сакаат"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Името Твое"
+    }
+  ],
+  "timestamp": "2026-10-19T23:35:48.486755322Z",
+  "model": "glm-5.3"
+}

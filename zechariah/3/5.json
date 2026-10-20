@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 3:5",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨тука⟩",
+      "rationale": "עמד е само „стоеше“; македонскиот бара прилог за местото"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צניף...הצניף הטהור",
+      "rationale": "точна повторна рамка: заповедта и извршувањето се исти збор по збор"
+    }
+  ],
+  "translation": "И реков: нека стават чиста навивка на главата негова; и ставија чистата навивка на главата негова, и го облекоа со облеки; а ангелот на Јахве стоеше ⟨тука⟩.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "981141e3321e5c7471106dcbf81fa9936e502b3420e1962eff597cc75482c4e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/3\/5-8.1792452719251.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И реков"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "нека стават"
+    },
+    {
+      "surface": "צניף",
+      "gloss": "навивка"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чиста"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "главата негова"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "и ставија"
+    },
+    {
+      "surface": "הצניף",
+      "gloss": "навивката"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "чистата"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "главата негова"
+    },
+    {
+      "surface": "וילבשהו",
+      "gloss": "и го облекоа"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "со облеки"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "а ангелот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стоеше"
+    }
+  ],
+  "timestamp": "2026-10-19T23:31:59.252318755Z",
+  "model": "glm-5.3"
+}

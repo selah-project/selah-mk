@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 5:3",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "три дена",
+      "rationale": " патот се мери: три дена пат во пустината"
+    },
+    {
+      "kind": "crux",
+      "subject": "да нè погоди",
+      "rationale": "יפגענו букв. „да нè снајде“ — некои читаат: да не н‹ казни Елохим, други да не нападне фараонот"
+    }
+  ],
+  "translation": "И рекоа: Елохим на Евреите се сретна со нас; да одиме, молиме, пат од три дена во пустината и да принесеме жртва на Јахве, нашиот Елохим, да не би да нè погоди со помор или со меч.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "47519202fa80e6a97bcc4075527e65ad1c3c121bbc62df2f421108ac0a4eebc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/5\/1-4.1792443396708.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И рекоа"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Евреите"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "се сретна"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "со нас"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "да одиме"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молиме"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пат"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "од три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дена"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "во пустината"
+    },
+    {
+      "surface": "ונזבחה",
+      "gloss": "и да принесеме жртва"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "нашиот Елохим"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не би"
+    },
+    {
+      "surface": "יפגענו",
+      "gloss": "да нè погоди"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "со помор"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "со меч"
+    }
+  ],
+  "timestamp": "2026-10-19T20:56:36.721373272Z",
+  "model": "glm-5.3"
+}

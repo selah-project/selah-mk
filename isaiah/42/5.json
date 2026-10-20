@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 42:5",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душа-здив",
+      "rationale": "נשמה е здив, животен дах; споено со црта за да се чува сликата"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "хебрејскиот објектен маркер нема македонски对应"
+    }
+  ],
+  "translation": "Така вели Ел Јахве, што ги создаде ⟨את⟩ небесата и ги шири нив, што ја рашири ⟨את⟩ земјата и она што излегува од неа, што дава душа-здив на народот што ⟨е⟩ на неа и руах на оние што одат по неа:",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7294204b0af95baeca3f0942f42341d00ef6d8221416a49022d49af7a8c48344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/42\/5-8.1792450084276.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "што создаде"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "ונוטיהם",
+      "gloss": "и ги шири нив"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "што рашири"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "וצאצאיה",
+      "gloss": "и она што излегува од неа"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "што дава"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "душа-здив"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "на народот"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на неа"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "и руах"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "на оние што одат"
+    },
+    {
+      "surface": "בה",
+      "gloss": "по неа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:48:04.277438572Z",
+  "model": "glm-5.3"
+}

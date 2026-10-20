@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 1:11",
+  "book": "haggai",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חֹרֶב \/ חָרֵב",
+      "rationale": "Сушата (Став 11) ги дели согласките со 'разурнатиот' дом (Став 9) — причина и последица во еден корен."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ועל ×7",
+      "rationale": "Седумкратното 'и врз' гради натрупувачка листа-закана; македонскиот го чува ритамот."
+    }
+  ],
+  "translation": "И повикав суша врз земјата, и врз планините, и врз житото, и врз младото вино, и врз маслото, и врз она што изнесува почвата, и врз човекот, и врз добитокот, и врз сè дело на рацете.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3559b18aa1d248de7a5905fc9c49bc5e7ae14d6e8791e730f3ea0c8c052470a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/haggai\/1\/9-12.1792452728687.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקרא",
+      "gloss": "И повикав"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "суша"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "планините"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "житото"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "младото вино"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "маслото"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "изнесува"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "почвата"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "добитокот"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и врз"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сè"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "дело"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "на рацете"
+    }
+  ],
+  "timestamp": "2026-10-19T23:32:08.688976252Z",
+  "model": "glm-5.3"
+}

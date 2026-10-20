@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפרצו",
+      "rationale": "„да се размножат“ (од break out, процветаат) наспроти „нема да имаат доволно\/проливаат“; избирам размножување како последица на блудот"
+    },
+    {
+      "kind": "crux",
+      "subject": "לשמר",
+      "gloss-крижно": "рачна грешка"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הזנו",
+      "rationale": "זנה е и буквален блуд и идолопоклонство — двата слоја важат во Ошеа"
+    }
+  ],
+  "translation": "И ќе јадат, а нема да се наситат; блуд прават, а нема да се размножат, зашто го оставија ⟨את⟩ Јахве, ⟨за⟩ да не пазат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "61fd4fa7e45da5a249ce1a742f6a4b5f09e252b4f90ba37b927373d011f5b48a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/hosea\/4\/9-12.1792452191156.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "И ќе јадат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "да се наситат"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "блуд прават"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "да се размножат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "го оставија"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "да пазат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:23:11.157196799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 1:27",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם מאת",
+      "rationale": "Условното אם со מאת („од“) се предава како прашаше 'Дали од…' — сосema дословно би дало 'ако од господарот мој…', што би збунело."
+    },
+    {
+      "kind": "you",
+      "subject": "до Давид",
+      "rationale": "Натан директно го прашува царот — реторичко прашање со обвинителен тон."
+    }
+  ],
+  "translation": "Дали од ⟨את⟩ господарот мој, царот, станала е оваа работа, и не му ⟨се⟩ јавил ⟨את⟩ на слугата свој кој ќе седне на престолот на господарот мој, царот, по него?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e0b35e2ff16ad281eb331f8fc5edfcc6b58259e4beea55d604ccd517a359a17f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/1\/25-28.1792448532591.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Дали"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ од"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господарот мој"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "станала"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "работата"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "јавил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "на слугата свој"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "на слугата свој"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ќе седне"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "престолот"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господарот мој"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "по него"
+    }
+  ],
+  "timestamp": "2026-10-19T22:22:12.594160977Z",
+  "model": "glm-5.3"
+}

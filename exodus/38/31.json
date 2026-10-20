@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סביב…סביב",
+      "rationale": "Двојното 'наоколу' гради прстен — завршувачки ритам на сметката"
+    }
+  ],
+  "translation": "и ⟨את⟩ постаментите на дворот наоколу, и ⟨את⟩ постаментите на портата на дворот, и ⟨את⟩ сите колци на мишканот, и ⟨את⟩ сите колци на дворот наоколо.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d2c16a773016f9048fd6ad5eaf8efca658c334f27a0b8763d36eeecb7ffbfb00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/38\/29-31.1792443933004.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩ постаментите"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "постаментите"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "на дворот"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩ постаментите"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "постаментите"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "на дворот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩ сите"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "колци"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "на мишканот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩ сите"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "колци"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "на дворот"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколу"
+    }
+  ],
+  "timestamp": "2026-10-19T21:05:33.013756262Z",
+  "model": "glm-5.3"
+}

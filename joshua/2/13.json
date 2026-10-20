@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душите наши",
+      "rationale": "נפש е дишечко суштество, животна сила — не бесмртна душа во подоцнежна смисла."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רחב \/ והחיתם",
+      "rationale": "играта име-дело: Рахав бара 'да се остават живи' — корен חיה одекнува во нејзината приказна."
+    }
+  ],
+  "translation": "и да ги оставите живи ⟨את⟩ татко ми и ⟨את⟩ мајка ми и ⟨את⟩ браќата мои и ⟨את⟩ сестрите мои и ⟨את⟩ сè што е нивно, и да ги избавите ⟨את⟩ душите наши од смрт.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "63373f8dddbe3773b4d3b96054d551194ce89e272db505046d3ad8edfbe62511",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/2\/13-16.1792445921638.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "и да ги оставите живи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "татко ми"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "татко ми"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "мајка ми"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "мајка ми"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "браќата мои"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "браќата мои"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сестрите мои"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "сестрите мои"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сè што е нивно"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им е"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "и да ги избавите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "душите наши"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "душите наши"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "од смрт"
+    }
+  ],
+  "timestamp": "2026-10-19T21:38:41.639318854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 28:25",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אחד \/ שבעה",
+      "rationale": "еден пат наспроти седум — бројната спротивност е дел од ритамот на клетвата"
+    },
+    {
+      "kind": "substitution",
+      "subject": "непријатели",
+      "rationale": "אויב од коренот 'да мрази'; 'оние што те мразат' е потолiteralно"
+    }
+  ],
+  "translation": "Јахве ќе те предаде на пораз пред твоите непријатели — по еден пат ќе излезеш против нив, а по седум пати ќе побегнеш пред нив; и ќе бидеш за ужас за сите царства на земјата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "bbe3bbc5c6b538b1869f331d03ae3bcc2d74d7f3e909b32e113ec1a0756f2ac3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/28\/25-28.1792445739793.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתנך",
+      "gloss": "ќе те предаде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "на пораз"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "твоите непријатели"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "по еден пат"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ќе излезеш"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "против нив"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "а по седум"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "пати"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "ќе побегнеш"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пред нив"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "и ќе бидеш"
+    },
+    {
+      "surface": "לזעוה",
+      "gloss": "за ужас"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "за сите"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "царства"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T21:35:39.793994771Z",
+  "model": "glm-5.3"
+}

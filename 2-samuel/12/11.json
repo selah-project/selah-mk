@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 12:11",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "пред очите на оваа сонце",
+      "rationale": "Хебрејски идиом за 'на отворено, јавно'; буквата 'сонцето' е задржана."
+    }
+  ],
+  "translation": "Така вели Јахве: Еве, Јас кревам против тебе зло од домот твој, и Јас ќе ги земам ⟨את⟩ жените твои пред очите твои и ќе им ги дадам на ближните твои, и тој ќе лежи со жените твои пред очите на оваа сонце.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6356cf0eb645372d040b72acc73c6be74b1655d3acbc9901e87d698bc5d4eaa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/12\/9-12.1792448236634.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ево Ме"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "кревам"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "против тебе"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "од домот твој"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "и ќе ги земам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жените твои"
+    },
+    {
+      "surface": "נשיך",
+      "gloss": "жените твои"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "пред очите твои"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "и ќе им ги дадам"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "на ближните твои"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "и ќе лежи"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "נשיך",
+      "gloss": "жените твои"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "пред очите"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "на сонцето"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:16.636795706Z",
+  "model": "glm-5.3"
+}

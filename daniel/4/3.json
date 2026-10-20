@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 4:3",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "наредба",
+      "rationale": "טעם буквално 'вкус; пресуда' — аргамски збор за кралски указ"
+    }
+  ],
+  "translation": "И од мене беше издадена наредба да се доведат пред мене сите мудреци на Вавилон, за да ми го објават толкувањето на сонот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cd60afccff17247915ce9450c25d1383108fcf3d652232b475ca5377265e2eb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/4\/1-4.1792456039795.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומני",
+      "gloss": "и од мене"
+    },
+    {
+      "surface": "שים",
+      "gloss": "издадена"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "наредба"
+    },
+    {
+      "surface": "להנעלה",
+      "gloss": "да се доведат"
+    },
+    {
+      "surface": "קדמי",
+      "gloss": "пред мене"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "мудреци"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "на Вавилон"
+    },
+    {
+      "surface": "די",
+      "gloss": "за"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "толкувањето"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "на сонот"
+    },
+    {
+      "surface": "יהודענני",
+      "gloss": "да ми го објават"
+    }
+  ],
+  "timestamp": "2026-10-20T00:27:19.796441559Z",
+  "model": "glm-5.3"
+}

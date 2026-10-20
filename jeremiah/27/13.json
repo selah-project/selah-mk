@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 27:13",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Седекија и Јуда",
+      "rationale": "Реторичко прашање упатено директно на царот и народот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דבר",
+      "rationale": "Истиот корен דבר значи и „помор“ и „говореше“ — игра на зборови изгубена во преводот."
+    }
+  ],
+  "translation": "Зошто ќе умрете ти и народот твој, со меч, со глад и со помор, како што говореше Јахве за народот што не ќе му служи ⟨את⟩ на царот на Вавилон?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "991f2449ecf4ad3dc2b9acf02475d511e4026d6e87cf6cfc40ff5334cfac17cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/27\/13-16.1792450813719.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Зошто"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "ќе умрете"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "и народот твој"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "со меч"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "со глад"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "и со помор"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говореше"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "за"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "народот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "служи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "царот"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "на Вавилон"
+    }
+  ],
+  "timestamp": "2026-10-19T23:00:13.721304683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 35:7",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кого бегаше",
+      "rationale": "сама грешка: треба 'кога бегаше' — инфинитивната конструкција בברחו е 'во бегството свое'"
+    },
+    {
+      "kind": "crux",
+      "subject": "Ел-Беит-Ел",
+      "rationale": "'Ел-Беит-Ел' (Ел-Бетел) vs 'Беит-Ел' — дали го нарече местото или го повика Ел таму; повеќето: 'го нарече местото Ел-Беит-Ел'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שם...שם",
+      "rationale": "повторување 'таму...таму' ја врзува изградбата со откровението"
+    }
+  ],
+  "translation": "И подигна таму жртвеник, и го нарече местото Ел-Беит-Ел, зашто таму му се открија Елохим кое бегаше од лицето на брат си.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "07b642e7fe5075446b211f6422c64af696391c1aa64af62765bbaeb5a529c2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/35\/5-8.1792443042574.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "и подигна"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жртвеник"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и го нарече"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "местото"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Беит-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "נגלו",
+      "gloss": "му се открија"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "кого бегаше"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "од лицето"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "на брат си"
+    }
+  ],
+  "timestamp": "2026-10-19T20:50:42.575583018Z",
+  "model": "glm-5.3"
+}

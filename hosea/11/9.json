@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 11:9",
+  "book": "hosea",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפי",
+      "rationale": "буквално 'носот\/ноздрите мои' — слика на гневен здив, стана 'гневот свој'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨сум⟩",
+      "rationale": "хебрејскиот нема копула во 'свет во средината твоја'"
+    },
+    {
+      "kind": "crux",
+      "subject": "нема да влезам во градот",
+      "rationale": "KJV 'во градот' буквално; ASV\/JPS\/BSB додаваат 'со гнев\/во бес' од контекст"
+    }
+  ],
+  "translation": "Нема да го извршам жарот на гневот свој, нема да се вратам да разурнам ⟨го⟩ Ефраим, зашто Ел сум јас, а не човек — свет ⟨сум⟩ во средината твоја, и нема да влезам ⟨како непријател⟩ во градот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9bae756fadcab15ae3185187d41e0eb0d4afcde43d5a70e9bfe5eef4be34d884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/hosea\/11\/9-11.1792452265994.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "да извршам"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "жарот"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "на гневот свој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "да се вратам"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "да разурнам"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "сум јас"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "во средината твоја"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "свет"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "да влезам"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "во градот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:24:25.995498800Z",
+  "model": "glm-5.3"
+}

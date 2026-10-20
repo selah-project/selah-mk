@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "Овде אתם е предлогот H854 „со нив“, не обележувачот на предмет ⟨את⟩; преведено како „со нив“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לחם",
+      "rationale": "לחם е храна\/леб; оставено „леб“ како најбуквалната слика."
+    }
+  ],
+  "translation": "И станаа старешините на неговиот дом кај него, да го дигнат од земјата, но тој не сакаше и не јаде леб ⟨את⟩ со нив.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "51a362bdc68aa2fd8c96065d3a7ca1e269553b70e42d035441100a831c806a37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/12\/17-20.1792448222337.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "И станаа"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старешините"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "на неговиот дом"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "кај него"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "да го дигнат"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "сакаше"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "јаде"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ со нив"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:02.339683679Z",
+  "model": "glm-5.3"
+}

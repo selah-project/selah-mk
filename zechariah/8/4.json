@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 8:4",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "од множество денови",
+      "rationale": "KJV „for very age“ го преведува причината; хебрејскиот буквално вели „од изобилство дни“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "денови",
+      "rationale": "Долгиот живот се мери со број на денови — „множество денови“ како мерка на старост."
+    }
+  ],
+  "translation": "Така вели Јахве Цеваот: Уште ќе седат старци и стари жени по улиците на Јерушалаим, и секој човек со стапот свој во раката своја, од множество денови.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3a2c8374e37c82e1025bde167ef50f2099857d57a3621cdc3975604d93fe2a15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/8\/1-4.1792452812491.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Уште"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ќе седат"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "старци"
+    },
+    {
+      "surface": "וזקנות",
+      "gloss": "и стари жени"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "по улиците"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и секој човек"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "со стапот свој"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "во раката своја"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "од множество"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "денови"
+    }
+  ],
+  "timestamp": "2026-10-19T23:33:32.492248724Z",
+  "model": "glm-5.3"
+}

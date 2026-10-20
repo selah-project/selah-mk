@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 19:5",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עלתה על לבי",
+      "rationale": "буквално 'се качи на срцето мое' — македонскиот вели 'ми дојде на срцете\/умот'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עלות",
+      "rationale": "'о́ла' — принос што целосно се качува во чад; 'сепаленик' е традиционалниот збор, буквата 'качување' се губи."
+    }
+  ],
+  "translation": "и изградија ⟨את⟩ височините на Ваал за да ги горат ⟨את⟩ синовите свои во оган, сепалениња за Ваал — што не го заповедав, ниту зборував, ниту ми дојде на срцето.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "23314a8bcd3fbc9250ad058690d71fb05f250234e3b0043c601ac9dd5646eb00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/19\/5-8.1792450751542.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "и изградија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "височините"
+    },
+    {
+      "surface": "במות",
+      "gloss": "височините"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "на Ваал"
+    },
+    {
+      "surface": "לשרף",
+      "gloss": "за да горат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синовите свои"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "синовите свои"
+    },
+    {
+      "surface": "באש",
+      "gloss": "во оган"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "сепалениња"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "за Ваал"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "заповедав"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ниту"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "зборував"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ниту"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "срцето мое"
+    }
+  ],
+  "timestamp": "2026-10-19T22:59:11.544568295Z",
+  "model": "glm-5.3"
+}

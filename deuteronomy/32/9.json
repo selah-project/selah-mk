@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלק\/חבל",
+      "rationale": "дел и јаже (мерна жица) — паралелизам на мерки, изгубен во македонскиот"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חבל",
+      "rationale": "може и 'парче земја' (област измерена со јаже); задржана буквата слика 'јаже'"
+    }
+  ],
+  "translation": "Зашто дел на Јахве ⟨е⟩ народот негов; Јааков — јаже на наследството негово.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "84704971e5f4610be27062eddd43f82b1ba82dd58b84246afd1c5d91eb7770f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/32\/9-12.1792445824186.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "дел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народот негов"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "јаже"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "наследството негово"
+    }
+  ],
+  "timestamp": "2026-10-19T21:37:04.187510882Z",
+  "model": "glm-5.3"
+}

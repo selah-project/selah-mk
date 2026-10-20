@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 20:21",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "неговата",
+      "rationale": "македонскиот бара посесивна придавка каде хебрејскиот има само наставката"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחיל",
+      "rationale": "од יחל: 'да чека\/да се надева' (KJV 'no man look for') наспроти 'да издржи\/трае' (ASV, JPS)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על כן",
+      "rationale": "два збора — 'врз тоа' — како еден сврзник 'затоа'"
+    }
+  ],
+  "translation": "Нема преживеан од ⟨неговата⟩ храна; затоа неговото добро нема да трае.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3714a0e51d74a7b38e8f0d9b31c34c02b4d63855425ba10ac6919cf1e2ad1a62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/20\/21-24.1792455067494.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "преживеан"
+    },
+    {
+      "surface": "לאכלו",
+      "gloss": "од ⟨неговата⟩ храна"
+    },
+    {
+      "surface": "על",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "затоа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "нема да трае"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "неговото добро"
+    }
+  ],
+  "timestamp": "2026-10-20T00:11:07.495570135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 14:24",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "предо-",
+      "rationale": "ירבה\/ירחק буквално „надминува\/оддалечува“ — македонскиот го изразува со префикс за степен"
+    },
+    {
+      "kind": "elision",
+      "subject": "שאתו — предметот",
+      "rationale": "хебрејскиот суфикс се однесува на десетакот од ст. 22, македонскиот „го“ е послаб"
+    }
+  ],
+  "translation": "И ако патот ти е предолг, ако не можеш да го понесеш, зашто местото што ќе го избере Јахве, твојот Елохим, да го стави името Свое таму, е предалеку од тебе — кога Јахве, твојот Елохим, ќе те благослови:",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9f5fa4d4e7042bf1b5b4f102bb65fea618a0615844d291d29dc1b99a1929c48d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/14\/21-24.1792445507032.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "е предолг"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "од тебе"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "патот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "можеш"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "да го понесеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "е предалеку"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "од тебе"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "местото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ќе го избере"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "да го стави"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името Свое"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "ќе те благослови"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    }
+  ],
+  "timestamp": "2026-10-19T21:31:47.034439369Z",
+  "model": "glm-5.3"
+}

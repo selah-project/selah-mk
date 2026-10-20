@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 24:7",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "од потокот на Мицраим до реката Перат",
+      "rationale": "географска одредница што го мери опсегот на вавилонската власт."
+    },
+    {
+      "kind": "idiom",
+      "subject": "не додека повеќе",
+      "rationale": "לא הוסיף עוד буквално „не додаде повеќе“ — идиом за „не стори веќе никогаш“."
+    }
+  ],
+  "translation": "И не додека повеќе царот на Мицраим да излегува од земјата своја, зашто царот на Вавилон зеде од потокот на Мицраим до реката Перат сè што било на царот на Мицраим.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "25500331242e159b87f49990c25ba157964d768134811039ff73771d5f0b73d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/24\/5-8.1792449492226.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "הסיף",
+      "gloss": "додека повеќе"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "на Мицраим"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "да излегува"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "од земјата своја"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "зеде"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "на Вавилон"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "од потокот"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "на Мицраим"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "реката"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Перат"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "било"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "на Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-19T22:38:12.229025842Z",
+  "model": "glm-5.3"
+}

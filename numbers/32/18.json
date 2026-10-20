@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 32:18",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 32,
+  "translation": "Нема да се вратиме кон домовите наши, додека не наследат синовите на Јисраел, секој наследството свое.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3bf25416e13566a7fe89994856c4ab055f8e0ac42ff067642f9c3bd922b86ea9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/32\/17-20.1792445195437.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "да се вратиме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "домовите наши"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека не"
+    },
+    {
+      "surface": "התנחל",
+      "gloss": "наследат"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "наследството свое"
+    }
+  ],
+  "timestamp": "2026-10-19T21:26:35.437974244Z",
+  "model": "glm-5.3"
+}

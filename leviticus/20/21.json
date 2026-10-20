@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула во именската реченица"
+    },
+    {
+      "kind": "crux",
+      "subject": "נדה",
+      "rationale": "нечистост\/менструална нечистост наспроти одбивност; KJv 'unclean thing'"
+    }
+  ],
+  "translation": "И човек што ќе ја зеде ⟨את⟩ жената на брат си — тоа ⟨е⟩ нечистост; го откри голотата на брат си; без деца ќе бидат.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e14a1039dc239b2937f5292bd610b030b0e57aa514206f92ed9d36e7c971896c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/20\/21-24.1792444438003.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "И човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ќе зеде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жената на брат си"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жената"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "на брат си"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "нечистост"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "голотата"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "на брат си"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "го откри"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "без деца"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ќе бидат"
+    }
+  ],
+  "timestamp": "2026-10-19T21:13:58.004538433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 30:7",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מבטא",
+      "rationale": "'неразумен изговор' (KJV\/ASV) наспроти 'јасен изговор' (JPS) — ретка во Tanakh"
+    },
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "хебрејскиот нема копула; македонскиот бара"
+    }
+  ],
+  "translation": "И ако таа биде за маж, а нејзините обети ⟨се⟩ на неа, или неразумен изговор на нејзините усни, што го сврзала врз својата нефеш —",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "4a336e517f8796b22247bdf8afb6a7f4508ff0a9dfc38574848fbfa0fc3695df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/30\/5-8.1792445165116.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ако"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "биде"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "за маж"
+    },
+    {
+      "surface": "ונדריה",
+      "gloss": "а нејзините обети"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на неа"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מבטא",
+      "gloss": "неразумен изговор"
+    },
+    {
+      "surface": "שפתיה",
+      "gloss": "на нејзините усни"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "го сврзала"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "својата нефеш"
+    }
+  ],
+  "timestamp": "2026-10-19T21:26:05.117296084Z",
+  "model": "glm-5.3"
+}

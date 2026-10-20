@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 14:39",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מות ימות",
+      "rationale": "бесконечна апсолутива — „смрт ќе умре“, удвојување задржано во македонскиот"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "клетва „жив е Јахве“ — македонскиот ја дава со „Кога живее“"
+    }
+  ],
+  "translation": "„Кога живее Јахве, што го спасува ⟨את⟩ Јисраел — ако е во Јонатан, синот ми, тој смрт ќе умре.“ И никој не му одговори од целиот народ.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "04f74b327bb112abd6bfe82b0b2a80183f22db432c416ab665017e63e4c70fa2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/14\/37-40.1792446896022.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Кога"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живее"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "המושיע",
+      "gloss": "што спасува"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јисраел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "כי",
+      "gloss": "— ако"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "е"
+    },
+    {
+      "surface": "ביונתן",
+      "gloss": "во Јонатан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синот ми"
+    },
+    {
+      "surface": "כי",
+      "gloss": "сигурно"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрт"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ќе умре"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "И никој не"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "му одговори"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од целиот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-10-19T21:54:56.023187954Z",
+  "model": "glm-5.3"
+}

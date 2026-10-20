@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 13:14",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨им е⟩",
+      "rationale": "Хебрејскиот вели само „битката — пред и позади“; македонскиот бара сврзувачки глагол"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פנים",
+      "rationale": "Буквално „лице“; како придавка на битката значи „однапред“"
+    }
+  ],
+  "translation": "И се сврте Јехуда, и ете — битката ⟨им е⟩ напред и позади; и извикаа кон Јахве, а свештениците свиреа на трубите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "40cd89af7af7c49e1179eeecfb7db93607eed353918f85d83f124c35ee587978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/13\/13-16.1792457530725.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "се сврте"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ете"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨им⟩"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "битката"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "напред"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "и позади"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "и извикаа"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "кон Јахве"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "а свештениците"
+    },
+    {
+      "surface": "מחצצרים",
+      "gloss": "свиреа"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "на трубите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:52:10.726014995Z",
+  "model": "glm-5.3"
+}

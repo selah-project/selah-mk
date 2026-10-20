@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 37:7",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השלח",
+      "rationale": "партицип 'што ве испраќа' vs свршен 'што ве испрати' — македонскиот избира минато по контекст"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨мене⟩",
+      "rationale": "заменката е дуплирана за јасност на релативната реченица"
+    }
+  ],
+  "translation": "Така вели Јахве, Елохим на Јисраел: Така ќе му кажете на царот на Јехуда, што ве испрати мене кај ⟨мене⟩ да ме прашате: Еве, војската на Паро, што излезе вам на помош, ќе се врати во својата земја, во Мицраим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2f7b31a09fd8b400ed6a68ae6ca127a2e7f6dc87d28e45734f4b19d3ed30a71b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/37\/5-8.1792450928045.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ќе кажете"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Јехуда"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "што ве испрати"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "кај мене"
+    },
+    {
+      "surface": "לדרשני",
+      "gloss": "да ме прашате"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "војската"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "на Паро"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "што излезе"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "на помош"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ќе се врати"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "во својата земја"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "во Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-19T23:02:08.046756505Z",
+  "model": "glm-5.3"
+}

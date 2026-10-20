@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מלמעלה החרס",
+      "rationale": "„возвишението Херес“ (местно име, ASV\/JPS) наспроти „пред сонцето да изгрее“ (KJV) или „кога сонцето беше високо“ (Geneva); хебрејскиот буквално е „од качувањето на Херес\/сонцето“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "време",
+      "rationale": "времето на враќање е одредено според положбата на сонцето."
+    }
+  ],
+  "translation": "И се врати Гидеон, синот на Јоаш, од битката, од возвишението Херес.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3aec9b2c8072b1107719897c1a9c270380584bdc29dbadd7be2a1c6fefb8b9a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/8\/13-16.1792446418786.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и се врати"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Гидеон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Јоаш"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "битката"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "од возвишението"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "Херес"
+    }
+  ],
+  "timestamp": "2026-10-19T21:46:58.787508729Z",
+  "model": "glm-5.3"
+}

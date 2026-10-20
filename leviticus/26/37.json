@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 26:37",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "отпор",
+      "rationale": "תקומה е буквално 'устојство\/способност да се исправиш', 'отпор' е најблиската една зборова форма."
+    },
+    {
+      "kind": "crux",
+      "subject": "еден врз брата свој",
+      "rationale": "באחיו — 'врз брата свој' (спотукање меѓу себе) наспроти традиционалното 'еден на друг'."
+    }
+  ],
+  "translation": "И ќе се споткаат еден врз брата свој, како пред лице на меч, а никој не гони; и нема да има за вас отпор пред непријателите ваши.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "02c5a1f5edea30e44c437818746424d85aa9b875f67556dbcff420a8f388cda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/26\/37-40.1792444546632.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "ќе се споткаат"
+    },
+    {
+      "surface": "איש",
+      "gloss": "еден"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "врз брата свој"
+    },
+    {
+      "surface": "כמפני",
+      "gloss": "како пред лице на"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "и гони"
+    },
+    {
+      "surface": "אין",
+      "gloss": "никој не"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ќе има"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    },
+    {
+      "surface": "תקומה",
+      "gloss": "отпор"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "непријателите ваши"
+    }
+  ],
+  "timestamp": "2026-10-19T21:15:46.633193222Z",
+  "model": "glm-5.3"
+}

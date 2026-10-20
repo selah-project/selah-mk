@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 65:8",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תשחיתהו \/ השחית",
+      "rationale": "Истиот глагол שחת во говорот и во ветењето — паралела задржан со „уништувај\/уништам“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "мошт",
+      "rationale": "תירוש е свеж сок од грозје пред ферментација — „ново вино“ е традиционално, „мошт“ е најблиску."
+    }
+  ],
+  "translation": "Така вели Јахве: Како што се наоѓа мошт во гроздот, и некој ќе рече: Не го уништувај, зашто благослов ⟨е⟩ во него — така ќе направам заради слугите мои, да не уништам сè.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e7bd88e3842ec1d01587d8263bf059ee9b902f0d72dd433d5c487aa5e1dde629",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/65\/5-8.1792450354107.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "се наоѓа"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "мошт"
+    },
+    {
+      "surface": "באשכול",
+      "gloss": "во гроздот"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и ќе рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "го уништувај"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "благослов"
+    },
+    {
+      "surface": "בו",
+      "gloss": "во него"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ќе направам"
+    },
+    {
+      "surface": "למען",
+      "gloss": "заради"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слугите мои"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "да не"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "уништам"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "сè"
+    }
+  ],
+  "timestamp": "2026-10-19T22:52:34.109131545Z",
+  "model": "glm-5.3"
+}

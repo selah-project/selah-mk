@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשברו",
+      "rationale": "שבר буквално 'крши\/тргува со жито' — овде 'купувајте храна', како и во Второзаконие 2:28"
+    }
+  ],
+  "translation": "Храна купувајте од нив за сребро и јадете; и исто така вода купувајте од нив за сребро и пијте.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5dc1972f40ea857d7469fe562033be4c4cdf44cc71ef397159c659e566bc8f9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/2\/5-8.1792445310948.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "Храна"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "купувајте"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "од ⟨את⟩ нив"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "за сребро"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "и јадете"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и исто така"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "купувајте"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "од ⟨את⟩ нив"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "за сребро"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "и пијте"
+    }
+  ],
+  "timestamp": "2026-10-19T21:28:30.949907838Z",
+  "model": "glm-5.3"
+}

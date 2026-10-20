@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויחזק",
+      "rationale": "буквално „стана силен\/јак“ — „превладеа“ кај традицијата; зачувана сликата на сила."
+    },
+    {
+      "kind": "measurement",
+      "subject": "попис",
+      "rationale": "исполнение на заповедта за бројење на народот."
+    }
+  ],
+  "translation": "И зборот на царот се зацврсти спроти Јоав и спроти заповедниците на војската; и излезеа Јоав и заповедниците на војската пред царот, да го пребројат ⟨את⟩ народот, ⟨את⟩ Јисраел.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "f4111468f13fb10dfd6227c011b60d6c70e7e977581a6a2d23579809c0621d6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/24\/1-4.1792448536386.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "И се зацврсти"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и спроти"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "заповедниците"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "на војската"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и излезеа"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "и заповедниците"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "на војската"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "да пребројат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "го народот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јисраел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T22:22:16.389750671Z",
+  "model": "glm-5.3"
+}

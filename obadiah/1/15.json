@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "obadiah 1:15",
+  "book": "obadiah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עשית \/ יעשה",
+      "rationale": "истиот корен повторен: „како што направи — ќе биде направено“, одмаздата е огледало"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ישוב בראשך",
+      "rationale": "„ќе се врати на главата твоја“ — хебрејски идиом за возврат на делото, задржан буквално"
+    }
+  ],
+  "translation": "Зашто близу е денот на Јахве врз сите народи; како што ти направи, така ќе ти биде направено; враќањето твое ќе се врати на главата твоја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d57030e1d0da87ec8e30231ff60e1c74c6490beda45873ea389893a9fa41a09e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/obadiah\/1\/13-16.1792452463551.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "близу е"
+    },
+    {
+      "surface": "יום",
+      "gloss": "денот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ти направи"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ќе биде направено"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "враќањето твое"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ќе се врати"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "на главата твоја"
+    }
+  ],
+  "timestamp": "2026-10-19T23:27:43.553389075Z",
+  "model": "glm-5.3"
+}

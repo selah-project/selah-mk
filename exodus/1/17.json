@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бабите",
+      "rationale": "המילדת — жените што примаат пород, букв. 'оnes-кои-раѓаат'; 'баба' е македонскиот збор за таа улога"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ги оставија живи",
+      "rationale": "ותחיין е причинително 'направија да живеат'; букв. 'ги оживеаа'"
+    }
+  ],
+  "translation": "И се побојаа бабите од ⟨את⟩ Елохим и не направија како што им зборуваше царот на Мицраим, туку ги оставија живи ⟨את⟩ децата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ea07d7968f57a30b9380d67d89bfccbd3c5e31ebc71db162550a6f8f99b9c54b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/1\/17-20.1792443332498.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "и се побојаа"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "бабите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елохим"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направија"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборуваше"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "им"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "на Мицраим"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "туку ги оставија живи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "децата"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "децата"
+    }
+  ],
+  "timestamp": "2026-10-19T20:55:32.503762120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 14:4",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "хебрејскиот нема копула; македонскиот бара 'беше'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מבקש",
+      "rationale": "кој бара — Шимшон можност против Плиштим, или Јахве повод против Плиштим; традицијата се дели"
+    }
+  ],
+  "translation": "А татко му и мајка му не знаеја дека тоа беше ⟨е⟩ од Јахве, зашто можност бараше против Плиштим; а во тоа време Плиштим владееја над Јисраел.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7c572bb9a0075784a0d00c9f267c3f9abe02f81642b998ee765ab485666ab484",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/14\/2-4.1792447803693.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביו",
+      "gloss": "а татко му"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "и мајка му"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знаеја"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "од Јахве"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "можност"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "бараше"
+    },
+    {
+      "surface": "מפלשתים",
+      "gloss": "против Плиштим"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "а во време"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштим"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "владееше"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "над Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T22:10:03.700067923Z",
+  "model": "glm-5.3"
+}

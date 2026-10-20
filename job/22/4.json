@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 22:4",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המיראתך",
+      "rationale": "'твојот страв (од него)' како KJV\/JPS, наспроти Genevan 'страв од тебе' — хебрејскиот 'יראתך е двосмислен за преведувачите."
+    },
+    {
+      "kind": "you",
+      "subject": "до Јов",
+      "rationale": "Елифаз се обраќа директно на Јов со прашања."
+    }
+  ],
+  "translation": "Дали од стравот твој те изобличува, дека влегува со тебе во суд?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8fc5ab1d839753eca683b85835ee639ebad44e799dfc2355db64e85071ff0917",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/22\/1-4.1792455085920.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המיראתך",
+      "gloss": "од стравот твој"
+    },
+    {
+      "surface": "יכיחך",
+      "gloss": "те изобличува"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "влегува"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "со тебе"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "во суд"
+    }
+  ],
+  "timestamp": "2026-10-20T00:11:25.921166637Z",
+  "model": "glm-5.3"
+}

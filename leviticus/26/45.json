@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 26:45",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "заветот на првите",
+      "rationale": "ברית ראשנים дословно 'завет на првите\/првите предци'; KJВ додава 'нивните предци'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Елохим",
+      "rationale": "לאלהים како 'да им бидам Елохим' — Името не се заменува со 'Бог'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "להם ... להם",
+      "rationale": "двојно 'им' — запамтам ЗА нив, да бидам НИМ Бог — рамнотежа изгубена"
+    }
+  ],
+  "translation": "Ќе им го запамтам заветот на првите, што ги изведов ⟨את⟩ од земјата Мицраим пред очите на народите, за да им бидам Елохим — јас Јахве.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "80c72a2b405ad72c60fa7b22a60c77ca4bfc5f1ba4012414a4af45de1b68cc98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/26\/45-46.1792444534435.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "Ќе запамтам"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "заветот"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "на првите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ги изведов"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "од земјата Мицраим"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "пред очите"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "на народите"
+    },
+    {
+      "surface": "להית",
+      "gloss": "да бидам"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:15:34.437235973Z",
+  "model": "glm-5.3"
+}

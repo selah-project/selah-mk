@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 9:35",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "хебрејска限制构 „не најдоа… освен“ — македонски „не… ништо освен“"
+    }
+  ],
+  "translation": "И отидоа да ја погребат, но не најдоа во неа ништо освен черепот, и стапалата, и дланките на рацете.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "195f7a8a5469420232826c48a271aaf97612aa5415a4db170792b5617dc071c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/9\/33-36.1792449266672.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "И отидоа"
+    },
+    {
+      "surface": "לקברה",
+      "gloss": "да ја погребат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "најдоа"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во неа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ништо освен"
+    },
+    {
+      "surface": "אם",
+      "gloss": "освен"
+    },
+    {
+      "surface": "הגלגלת",
+      "gloss": "черепот"
+    },
+    {
+      "surface": "והרגלים",
+      "gloss": "и стапалата"
+    },
+    {
+      "surface": "וכפות",
+      "gloss": "и дланките"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "на рацете"
+    }
+  ],
+  "timestamp": "2026-10-19T22:34:26.674612764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 37:15",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עליהם",
+      "rationale": "„врз нив“ — врз што? облаците од contexto; македонскиот бараacusžен предмет „ги“"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אור",
+      "rationale": " букв. „светлина“ — громот е implication, не зборот"
+    }
+  ],
+  "translation": "Дали знаеш како Елоах ги поставува, и ја прави да засвети светлината на облакот свој?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8f2d6ac9930f7c890f8d93283c82a9027694557f29b444edcd63cf91a1d23f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/37\/13-16.1792455293112.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התדע",
+      "gloss": "дали знаеш"
+    },
+    {
+      "surface": "בשום",
+      "gloss": "поставува"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоах"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ги"
+    },
+    {
+      "surface": "והופיע",
+      "gloss": "и прави да засвети"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светлината"
+    },
+    {
+      "surface": "עננו",
+      "gloss": "на облакот свој"
+    }
+  ],
+  "timestamp": "2026-10-20T00:14:53.113604314Z",
+  "model": "glm-5.3"
+}

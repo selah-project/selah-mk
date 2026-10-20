@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 6:2",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נוקשת \/ נלכדת",
+      "rationale": "два различни глагола за 'уловен во стапица' и 'фатен', со повторување на целата фраза — паралелизам што го задржав"
+    },
+    {
+      "kind": "addition",
+      "subject": "си",
+      "rationale": "македонскиот бара сврзан рефлексив, хебрејскиот има само пасивен particip"
+    },
+    {
+      "kind": "you",
+      "subject": "уловен си",
+      "rationale": "продолжува директниот обрат кон ученикот од 6:1"
+    }
+  ],
+  "translation": "уловен си во стапица од зборовите на устата своја, фатен си во зборовите на устата своја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "919b228c06ee50d05ed6d41fc55a6edbf23eff6c0d4d90ade1b7eda4afa14a4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/6\/1-4.1792454355617.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נוקשת",
+      "gloss": "уловен си во стапица"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "во зборовите"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "на устата своја"
+    },
+    {
+      "surface": "נלכדת",
+      "gloss": "фатен си"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "во зборовите"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "на устата своја"
+    }
+  ],
+  "timestamp": "2026-10-19T23:59:15.618852104Z",
+  "model": "glm-5.3"
+}

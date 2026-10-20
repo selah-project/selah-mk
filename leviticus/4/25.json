@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "македонскиот бара зачуван рефлексивен показател кај «ќе стави», хебрејскиот го нема"
+    }
+  ],
+  "translation": "И свештеникот ќе земе од крвта на жртвата за грев со прстот свој и ќе стави ⟨се⟩ на роговите на жртвеникот за сепаленомост, а ⟨את⟩ крвта нејзина ќе ја излее кај основата на жртвеникот за сепаленомост.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f3de7bc05e6a09352645a24e433fe137da922cc9cdf8fa7bdd64fe6a44ff8020",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/4\/25-28.1792444087843.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "И ќе земе"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "од крвта"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "на жртвата за грев"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "со прстот свој"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "и ќе стави"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "роговите"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "на жртвеникот"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "за сепаленомост"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "крвта нејзина"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "крвта нејзина"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ќе ја излее"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "основата"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "на жртвеникот"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "за сепаленомост"
+    }
+  ],
+  "timestamp": "2026-10-19T21:08:07.844324577Z",
+  "model": "glm-5.3"
+}

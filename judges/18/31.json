@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 18:31",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "сите денови",
+      "rationale": "времетраењето на идолопоклонството е одредено со постоењето на домот на Елохим во Шило"
+    }
+  ],
+  "translation": "И си го поставија ⟨את⟩ идолот на Миха, кој го беше направил, сите дни додека домот на Елохим беше во Шило.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "932b68771e84a1e354da2a64074dbe688fd4744a6aeacc5f1241843a1e1872c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/18\/29-31.1792446560641.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "поставија"
+    },
+    {
+      "surface": "להם",
+      "gloss": "си"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "идолот на Миха"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "идолот"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "на Миха"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кој"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "беше направил"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "денови"
+    },
+    {
+      "surface": "היות",
+      "gloss": "додека беше"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "во Шило"
+    }
+  ],
+  "timestamp": "2026-10-19T21:49:20.642427230Z",
+  "model": "glm-5.3"
+}

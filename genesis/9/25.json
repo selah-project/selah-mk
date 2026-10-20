@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Проколнат да е Кенаан",
+      "rationale": "Проклетството паѓа на Кенаан, а не на Хам — познат раскорак меѓу преведувачите."
+    },
+    {
+      "kind": "idiom",
+      "subject": "роб на робови",
+      "rationale": "עבד עבדים — суперлатив: најнизок роб; буквално задржано."
+    }
+  ],
+  "translation": "И рече: Проколнат да е Кенаан, роб на робови нека биде на браќата свои.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "27204ea4fb7a74f502d72646453072f00b985e7a6468aacc58c4051f88a7e5e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/9\/25-28.1792442442597.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "Проколнат"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "роб"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "на робови"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "нека биде"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "на браќата свои"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:42.597997100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "зборот",
+      "rationale": "македонскиот бара член; хебрејскиот нема член туку конструктивна врска"
+    }
+  ],
+  "translation": "И биде зборот на Јахве до Јона вторпат, велејки:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1598c608c54b2c3303f31bc4961b6b3ff43b1815d2272faab2a9adeb44f79505",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jonah\/3\/1-4.1792452450496.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Јона"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "вторпат"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејки"
+    }
+  ],
+  "timestamp": "2026-10-19T23:27:30.497411344Z",
+  "model": "glm-5.3"
+}

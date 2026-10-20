@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 11:34",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "таква",
+      "rationale": "хебрејскиот само_implicira дека станува збор за водата од нечистиот сад"
+    },
+    {
+      "kind": "alternative",
+      "subject": "вода",
+      "rationale": "според некои читања מים овде е водата од садот според стих 33, според други — секоја вода што доаѓа врз храна"
+    }
+  ],
+  "translation": "Од сета храна што се јаде — онаа на која дојде таква вода — ќе биде нечиста, и секој пијалок што се пие во секој ⟨таков⟩ сад ќе биде нечист.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "7177376377b55fd0164de6f05abbbf3bcf6fd7f8370f989078bdca4d31d7d619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/11\/33-36.1792444174284.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Од сета"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "храна"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "се јаде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "таа на која"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "врз неа"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ќе биде нечиста"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и секој"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "пијалок"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "се пие"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во секој"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "сад"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ќе биде нечист"
+    }
+  ],
+  "timestamp": "2026-10-19T21:09:34.286220173Z",
+  "model": "glm-5.3"
+}

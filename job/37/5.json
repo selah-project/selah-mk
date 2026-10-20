@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 37:5",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чудесно",
+      "rationale": "נפלאות е именка 'чуда' во множина, македонскиот бара прилог"
+    },
+    {
+      "kind": "mystery",
+      "subject": "што не ги знаеме",
+      "rationale": "делата на Ел се над човечкото знаење — стихот ја изјавува скриената страна"
+    }
+  ],
+  "translation": "Ел громи со гласот свој чудесно, правејќи големи нешта што не ги знаеме.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ac2f44f5656edef6eb03721cbce1c76effa3f616fea0182d734371e0d3f53ae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/37\/5-8.1792455278566.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "громи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "со гласот свој"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "чудесно"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "правејќи"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "големи нешта"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "ги знаеме"
+    }
+  ],
+  "timestamp": "2026-10-20T00:14:38.566892148Z",
+  "model": "glm-5.3"
+}

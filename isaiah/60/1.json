@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to Zion",
+      "rationale": "two feminine imperatives open the chapter, summoning the addressee to rise and shine"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אורי\/אורך",
+      "rationale": "the imperative 'shine' (אורי) echoes 'your light' (אורך), root אור three times with זרח, sun-rising imagery"
+    }
+  ],
+  "translation": "Стани, засвети, зашто дојде светлината твоја, и славата на Јахве над тебе изгреа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "91bf5f6dbb3a6bec6b81062e753b9d77763f8fdf85e70d112d8b24a4d6dee0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/60\/1-4.1792450344131.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Стани"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "засвети"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "светлината твоја"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "и славата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "над тебе"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "изгреа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:52:24.132342097Z",
+  "model": "glm-5.3"
+}

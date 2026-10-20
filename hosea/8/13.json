@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 8:13",
+  "book": "hosea",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הבהבי",
+      "rationale": "хапакс легоменон — 'подароци (во жртва)'; значењето е несигурно"
+    },
+    {
+      "kind": "crux",
+      "subject": "хебהавим",
+      "rationale": "KJV 'sacrifices of mine offerings' (мн.) наспроти един. 'gift'; несигурна форма"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצרים",
+      "rationale": "Мицраим се задржува како име, не се преведува како Египет"
+    }
+  ],
+  "translation": "Жртвите на подароците — колат месо и го јадат, Јахве не ги прими; сега ќе го запомни ⟨неговото⟩ беззаконие нивно и ќе ги посети гревовите нивни: тие — во Мицраим ќе се вратат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d532d7ad060efe1ecd558a908edcfab5e23df5d0d59e92a736c475e2f71b1fab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/hosea\/8\/13-14.1792452182661.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "Жртвите"
+    },
+    {
+      "surface": "הבהבי",
+      "gloss": "на подароците"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "колат"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "месо"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "и го јадат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "רצם",
+      "gloss": "ги прими"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сега"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "ќе го запомни"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "беззаконие нивно"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "и ќе ги посети"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "гревовите нивни"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "во Мицраим"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ќе се вратат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:23:02.661825386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 22:30",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גֹדֵר גָדֵר",
+      "rationale": "Инфинитивна апсолутна: „ѕид кревајќи ѕид“ — повторување на коренот גדר."
+    },
+    {
+      "kind": "crux",
+      "subject": "во процепот",
+      "rationale": "בַּפֶּרֶץ — „во процепот\/на местото на пробивот“; традицијата го чита како дупка во ѕидот од напад."
+    },
+    {
+      "kind": "mystery",
+      "subject": "и не најдов",
+      "rationale": "Одбиеност на молбата — никој не застанал во процепот."
+    }
+  ],
+  "translation": "И побарав од нив човек што ѕид крева ѕид и стои во процепот пред Мене заради земјата, за да не ја разурнам — и не најдов.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a745521b10d02e13b6e53539280c786b31ac28f31c0491f002fed31f64aba619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/22\/29-31.1792451613469.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבקש",
+      "gloss": "И побарав"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "од нив"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ѕид крева"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ѕид"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "и стои"
+    },
+    {
+      "surface": "בפרץ",
+      "gloss": "во процепот"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред Мене"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "заради"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "за да не"
+    },
+    {
+      "surface": "שחתה",
+      "gloss": "ја разурнам"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "најдов"
+    }
+  ],
+  "timestamp": "2026-10-19T23:13:33.469888740Z",
+  "model": "glm-5.3"
+}

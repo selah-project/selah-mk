@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 5:16",
+  "book": "song-of-songs",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ממתקים \/ מחמדים",
+      "rationale": "пар множински апстракти со наставката -ים што римуваат — слаткост\/пожелност, звукот се губи"
+    },
+    {
+      "kind": "you",
+      "subject": "до ќерките на Јерушалаим",
+      "rationale": "директно обраќање на крајот од песната за љубениот"
+    },
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Хебрејскиот нема копула"
+    }
+  ],
+  "translation": "Неговото непце ⟨е⟩ сладости, и сето него — пожелности; ова е мојот љубен и ова е мојот пријател, ќерки на Јерушалаим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1efefcdf6a883c2c097881099c4b572768f305ab049f4ecebff6618b5b3c62a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/song-of-songs\/5\/13-16.1792455456114.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכו",
+      "gloss": "неговото непце"
+    },
+    {
+      "surface": "ממתקים",
+      "gloss": "сладости"
+    },
+    {
+      "surface": "וכלו",
+      "gloss": "и сето него"
+    },
+    {
+      "surface": "מחמדים",
+      "gloss": "пожелности"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "мојот љубен"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "и ова"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "мојот пријател"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ќерки"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    }
+  ],
+  "timestamp": "2026-10-20T00:17:36.115975945Z",
+  "model": "glm-5.3"
+}

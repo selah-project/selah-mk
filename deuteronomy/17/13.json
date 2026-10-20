@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "да држат надмено",
+      "rationale": "יזידון е од זוּד 'врие', сликовно 'да не вриштат од ароганција'; букв. 'да не вриjat повеќе'"
+    }
+  ],
+  "translation": "И сиот народ ќе чуее и ќе се бои, и нема да држат повеќе надмено.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "fb93a644399278cbc3bdd3864d21705c0f3d2b167c4a49d46b7b6e2d1e874288",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/17\/13-16.1792445604256.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "И сиот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ќе чуеат"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "и ќе се бои"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "да држат надмено"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    }
+  ],
+  "timestamp": "2026-10-19T21:33:24.256904127Z",
+  "model": "glm-5.3"
+}

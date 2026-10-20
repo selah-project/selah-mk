@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 28:26",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "громови",
+      "rationale": "קלות е множина од קול (гласови); тука громовите како гласови — буквално 'гласовите'"
+    },
+    {
+      "kind": "crux",
+      "subject": "блесокот громови",
+      "rationale": "לחזיז קלות: делумно хапакс структура — 'блесок на громовите' или 'громовите што блескаат'"
+    }
+  ],
+  "translation": "Кога правеше на дождот закон и пат на блесокот громови.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d3ce50673b9620bb8e619b5707357356e49d7909c12b36c867ad6714f4a574ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/28\/26-27.1792458437642.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעשתו",
+      "gloss": "Кога правеше"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "на дождот"
+    },
+    {
+      "surface": "חק",
+      "gloss": "закон"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "и пат"
+    },
+    {
+      "surface": "לחזיז",
+      "gloss": "на блесокот"
+    },
+    {
+      "surface": "קלות",
+      "gloss": "громови"
+    }
+  ],
+  "timestamp": "2026-10-20T01:07:17.642758114Z",
+  "model": "glm-5.3"
+}

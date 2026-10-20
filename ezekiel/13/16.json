@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 13:16",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חזון שלום \/ ואין שלום",
+      "rationale": "повторот 'видение за мир — а мир нема' е ироничен контраст, срцевината на реченицата против лажните пророци"
+    }
+  ],
+  "translation": "пороците на Јисраел што пророкуваат за Јерушалаим и гледаат видение за мир нему, а мир нема — изрека на Адонај Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6f915cd1ddd834bc3742177b888654d6785d0782ef5b6cc575c933924d69516d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/13\/13-16.1792451489173.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נביאי",
+      "gloss": "пороците"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "што пророкуваат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "за"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    },
+    {
+      "surface": "והחזים",
+      "gloss": "и гледаат"
+    },
+    {
+      "surface": "לה",
+      "gloss": "нему"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "видение"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "за мир"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "а нема"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "мир"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:11:29.175002228Z",
+  "model": "glm-5.3"
+}

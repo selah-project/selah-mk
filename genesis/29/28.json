@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "подмет на ויתן",
+      "rationale": "хебрејскиот не го именува давачот — Лаван (како во 29:24, 29); македонскиот трпи безименско „даде“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבע",
+      "rationale": "истиот збор во 29:27 — седмица на свршувачина и седум години служба, огледална структура"
+    }
+  ],
+  "translation": "И Јааков направи така, и ја исполни седмицава на оваа; и му ја даде ⟨את⟩ Рахел, ќерка си, нему за жена.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5f99937680c877da0d0177d693a0febc0ae76547d2520857aa172deb2fb6d335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/29\/25-28.1792442876991.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И направи"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "и ја исполни"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седмицава"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "на оваа"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рахел"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ќерка си"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жена"
+    }
+  ],
+  "timestamp": "2026-10-19T20:47:56.996453263Z",
+  "model": "glm-5.3"
+}

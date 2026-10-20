@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 11:22",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "останаа",
+      "rationale": "хебрејскиот нема именска реченица со эксплицитен глагол — копулата е додадена"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נותר\/נשארו",
+      "rationale": "два различни корени за 'остана' во еден стих, повторување со варијација"
+    }
+  ],
+  "translation": "Не останаа Анакими во земјата на синовите Јисраелови — само во Аза, во Гат и во Ашдод останаа.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e8cfe5ade3d5b313c28555380f135d5fae1130c9131752b66f9e5c7ec6832145",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/11\/21-23.1792446072589.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "останаа"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "Анакими"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "בעזה",
+      "gloss": "во Аза"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "во Гат"
+    },
+    {
+      "surface": "ובאשדוד",
+      "gloss": "и во Ашдод"
+    },
+    {
+      "surface": "נשארו",
+      "gloss": "останаа"
+    }
+  ],
+  "timestamp": "2026-10-19T21:41:12.589923355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רע עין",
+      "rationale": "„зло око“ — идиом за скржав, завидлив човек."
+    }
+  ],
+  "translation": "Загрижен за богатство е човек со зло око, и не знае дека оскудица ќе го снајде.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d0b790fbd55f352791bbf4a66c2b18053e78c1e4fca3890fb69f98d74ac99f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/28\/21-24.1792454776486.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "загрижен"
+    },
+    {
+      "surface": "להון",
+      "gloss": "за богатство"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "עין",
+      "gloss": "око"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "оскудица"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "ќе го снајде"
+    }
+  ],
+  "timestamp": "2026-10-20T00:06:16.487364791Z",
+  "model": "glm-5.3"
+}

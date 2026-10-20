@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 15:28",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "премислува",
+      "rationale": "הגה е буквално мрморење\/фрлање звук — сликовит глагол изгубен во апстрактната глоса"
+    }
+  ],
+  "translation": "Срцето на праведниот премислува за да одговори, а устата на безбожниците пролева злоба.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "de6cbe6260b3f3f5d0194cbd567b9cf491168bb0acac71ac5239b751476c1b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/15\/25-28.1792454527861.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "срцето"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "на праведниот"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "премислува"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "за да одговори"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "а устата"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "на безбожниците"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "пролева"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "злоба"
+    }
+  ],
+  "timestamp": "2026-10-20T00:02:07.863556638Z",
+  "model": "glm-5.3"
+}

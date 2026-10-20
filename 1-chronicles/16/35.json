@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 16:35",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הושיענו \/ ישענו",
+      "rationale": "игра на коренот ישע: 'спаси не' и 'спасението наше'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Спаси не",
+      "rationale": "Директен повик-молитба упатен кон Елохим"
+    }
+  ],
+  "translation": "И кажете: Спаси не, Елохиме на спасението наше, и собери не, и избави не од народите, за да благодариме на светото име твое, за да се фалиме во фалата твоја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "97220f65115438fc6742e52f26e638852c51772784fb7f203cc84cc9086bc315",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/16\/33-36.1792457054217.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "и кажете"
+    },
+    {
+      "surface": "הושיענו",
+      "gloss": "спаси не"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохиме на"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "спасението наше"
+    },
+    {
+      "surface": "וקבצנו",
+      "gloss": "и собери не"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "и избави не"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "за да благодариме"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "на името"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "светото твое"
+    },
+    {
+      "surface": "להשתבח",
+      "gloss": "за да се фалиме"
+    },
+    {
+      "surface": "בתהלתך",
+      "gloss": "во фалата твоја"
+    }
+  ],
+  "timestamp": "2026-10-20T00:44:14.218806119Z",
+  "model": "glm-5.3"
+}

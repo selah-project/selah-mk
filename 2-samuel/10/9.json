@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 10:9",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פני המלחמה",
+      "rationale": "'лице на битката' — навистина 'фронт на бојот'; задржана буквалната слика"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בחורי \/ בחור",
+      "rationale": "корен בחר 'избира' и 'избрани млади?' — повтор на истиот корен во еден стих"
+    }
+  ],
+  "translation": "И виде Јоав дека лицето на битката беше спроти него, напред и одзада; па избра од сите избрани меѓу Јисраел и ги подреди спроти Арам.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "8eebf12e4a91924ac82a487f94f9b05d103bfadeba2d6d16feef6b9b48e03179",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/10\/9-12.1792448149556.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И виде"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "спроти него"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "на битката"
+    },
+    {
+      "surface": "מפנים",
+      "gloss": "напред"
+    },
+    {
+      "surface": "ומאחור",
+      "gloss": "и одзада"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "па избра"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од сите"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "избраните"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "меѓу Јисраел"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "и ги подреди"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    }
+  ],
+  "timestamp": "2026-10-19T22:15:49.557920701Z",
+  "model": "glm-5.3"
+}

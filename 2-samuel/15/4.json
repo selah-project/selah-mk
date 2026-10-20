@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 15:4",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "והצדקתיו",
+      "rationale": "корен צדק (цедек) — 'би го оправдал', истиот корен на правдост; играта со судот (משפט) и правдата останува во македонскиот само делумно"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Кој би ме поставил",
+      "rationale": "може и како желба: 'Дано некој ме постави' — хебрејскиот прашалник носи и желба и потценување на царот"
+    }
+  ],
+  "translation": "И рече Авшалом: Кој би ме поставил за судија во земјата! Тогаш кај мене би дошел секој човек што има спор и суд, па јас би го оправдал.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "201f4dd1f5cdecb50786c1c5aaef4ab79a5359058b0639d0182326c31740a719",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/15\/1-4.1792448282967.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "ישימני",
+      "gloss": "би ме поставил"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "за судија"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "кај мене"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "би дошел"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "има"
+    },
+    {
+      "surface": "לו",
+      "gloss": "тој"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "спор"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "и суд"
+    },
+    {
+      "surface": "והצדקתיו",
+      "gloss": "би го оправдал"
+    }
+  ],
+  "timestamp": "2026-10-19T22:18:02.968844666Z",
+  "model": "glm-5.3"
+}

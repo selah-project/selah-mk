@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשחרך",
+      "rationale": "од שחר — 'зори'; буквално 'те зорам', значи те барам рано наутро"
+    },
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפש е грло, здив, животна сила — не одделна 'душа'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ועיף",
+      "rationale": "'изморена' ја опишува земјата (како во повеќето преводи) или телото — двата читања постојат"
+    },
+    {
+      "kind": "you",
+      "subject": "до Елохим",
+      "rationale": "директна молитва кон Елохим"
+    }
+  ],
+  "translation": "Елохим, Ел мој си Ти, ќе Те барам наутро; жедна за Тебе е душата моја, копнее за Тебе телото мое, во земја сува и изморена, без вода.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/63\/1-4.1792453459783.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ел мој"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си Ти"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "ќе Те барам наутро"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "жедна е"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за Тебе"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата моја"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "копнее"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за Тебе"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "телото мое"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земја"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "сува"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "и изморена"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    }
+  ],
+  "timestamp": "2026-10-19T23:44:19.784184276Z",
+  "model": "glm-5.3"
+}

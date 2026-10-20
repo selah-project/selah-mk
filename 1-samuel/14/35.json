@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתו החל",
+      "rationale": "или 'него почна да гради' (првиот жртвеник што Шаул го изгради) или, како YLT, 'со него почна' — жртвеникот како почеток на градење жртвеници"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויבן \/ לבנות",
+      "rationale": "коренot בנה се повторува: 'изгради… да гради' — повторувањето го истакнува првенството"
+    }
+  ],
+  "translation": "И Шаул изгради жртвеник за Јахве; ⟨את⟩ него почна да гради жрттвеник за Јахве.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7cfc32342f75de7eefb0b4a1fe01cd740a7d761113f124e06367fe259a58c17e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/14\/33-36.1792446916949.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "И изгради"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жртвеник"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Јахве"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него (жртвеникот)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "почна"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "да гради"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жртвеник"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:55:16.950280251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 34:11",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ги",
+      "rationale": "објектна клитика додадена за глаголот 'изврши'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "на фараонот",
+      "rationale": "לפרעה може и 'против фараонот' — знаците се извршени против него"
+    }
+  ],
+  "translation": "во сите знаци и чудесата што го прати Јахве да ги изврши во земјата Мицраим, на фараонот и на сите негови слуги и на целата негова земја.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0db6e1526da7621f66aa2c649e33a57a1fae8f6a7fd768fcfdd7abb1c6fdec8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/34\/9-12.1792445951422.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "во сите"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "знаци"
+    },
+    {
+      "surface": "והמופתים",
+      "gloss": "и чудесата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "го прати"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да ги изврши"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "на фараонот"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "и на сите"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "негови слуги"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "и на целата"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "негова земја"
+    }
+  ],
+  "timestamp": "2026-10-19T21:39:11.423112561Z",
+  "model": "glm-5.3"
+}

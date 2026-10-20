@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 11:18",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "нивните постапки",
+      "rationale": "Јахве му открива на пророкот скриени заговори —的知识 непосреден поттик за стих 19."
+    }
+  ],
+  "translation": "И Јахве ме извести, па знаев; тогаш ми ги покажа нивните постапки.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "890b04e897cbc46d2a1b6f2d94160063d9662159f2bc995aa9d3cd7473a5d86c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/11\/17-20.1792450596765.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "И Јахве"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ме извести"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "па знаев"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тогаш"
+    },
+    {
+      "surface": "הראיתני",
+      "gloss": "ми ги покажа"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "нивните постапки"
+    }
+  ],
+  "timestamp": "2026-10-19T22:56:36.766220029Z",
+  "model": "glm-5.3"
+}

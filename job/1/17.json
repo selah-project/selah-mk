@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 1:17",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "одреди",
+      "rationale": "ראשים буквално „глави“; воена метафора за одреди (KJB: bands)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "со острицата на мечот",
+      "rationale": "לפי חרב буквално „по устата на мечот“ — 화ebрејска идиома за острицата"
+    }
+  ],
+  "translation": "Уште овој збореше, а овој дојде и рече: Калдејците поставија три одреди и навалија врз камилите, ги зедоа, а ⟨את⟩ слугите ги погодоа со острицата на мечот; и ја се спасив само јас сам да ти го кажам.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fd6d8951f1538ad98551daea738b9056ecb2d7360d5930618c0ac843ec918a67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/1\/17-20.1792454823357.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "уште"
+    },
+    {
+      "surface": "זה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "збореше"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "а овој"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Калдејците"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "поставија"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "одреди"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "и навалија"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "камилите"
+    },
+    {
+      "surface": "ויקחום",
+      "gloss": "ги зедоа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "слугите"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "слугите"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "ги погодоа"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "со острицата"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "на мечот"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "и ја се спасив"
+    },
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "сам"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "да кажам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-10-20T00:07:03.358373598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 4:7",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Хебрејскиот нема копула; именска реченица."
+    },
+    {
+      "kind": "crux",
+      "subject": "ראשית חכמה",
+      "rationale": "„Главното е мудрост” наспроти „почетокот на мудроста”; констракт без глагол."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קנה\/קנינך",
+      "rationale": "Игрa на коренот קנה — набави\/стекнување — трикратна повторка."
+    }
+  ],
+  "translation": "Главното ⟨е⟩ мудрост — набави мудрост, и со сето свое стекнување набави разум.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cd9419f502958688fd0ea0b697c6bad33ee7ca2b6d4e0b770f35d3df457c15c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/4\/5-8.1792454334577.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Главното"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "набави"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "и со сото"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "своето стекнување"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "набави"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разум"
+    }
+  ],
+  "timestamp": "2026-10-19T23:58:54.578308004Z",
+  "model": "glm-5.3"
+}

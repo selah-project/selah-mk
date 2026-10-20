@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 26:16",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בני מות",
+      "rationale": "дословно „синови на смртта“ = заслужуваат смрт; задржано дословно"
+    },
+    {
+      "kind": "you",
+      "subject": "до Авнер и војниците",
+      "rationale": "директен обрат со осуда и заповед „види“"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩ \/ сврзници",
+      "rationale": "македонскиот бара копула и помошни глаголски форми"
+    }
+  ],
+  "translation": "Не е добро ова нешто што го стори. Жив е Јахве — вие сте синови на смртта, што не го чувавте господарот свој, помазаникот на Јахве. А сега види каде е копјето на царот и ⟨את⟩ садот за вода што беше крај главата негова.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b0992ff3bee5fa1455f6dc2c2358ca3cf52d4cd8d48bd0d869f16ab4720425c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/26\/13-16.1792447941146.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "е добро"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "нештото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "го стори"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив е"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "— зашто"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "מות",
+      "gloss": "на смртта"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сте вие"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמרתם",
+      "gloss": "чувавте"
+    },
+    {
+      "surface": "על",
+      "gloss": "го"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "господарот свој"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "помазаникот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "види"
+    },
+    {
+      "surface": "אי",
+      "gloss": "каде"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "копјето"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "садот за вода"
+    },
+    {
+      "surface": "צפחת",
+      "gloss": "садот за вода"
+    },
+    {
+      "surface": "המים",
+      "gloss": "за вода"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "крај главата негова"
+    }
+  ],
+  "timestamp": "2026-10-19T22:12:21.151308234Z",
+  "model": "glm-5.3"
+}

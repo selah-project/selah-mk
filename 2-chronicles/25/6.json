@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "плата",
+      "rationale": "Сто илјади луѓе за сто таланти сребро — платата е бројчена."
+    },
+    {
+      "kind": "alternative",
+      "subject": "јунаци на хајл",
+      "rationale": "חיל значи сила\/војска\/богатство; традиционално «храброст», но зборот е повеќезначен."
+    }
+  ],
+  "translation": "И најми од Јисраел сто илјади јунаци на хајл за сто таланти сребро.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5681a1be4c246aa526f9d1c2fd7594b1bf1623433f96e5a00bbd222a22b251bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/25\/5-8.1792457702281.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "И најми"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "од Јисраел"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "јунаци"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "на хајл"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "за сто"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "таланти"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    }
+  ],
+  "timestamp": "2026-10-20T00:55:02.282516452Z",
+  "model": "glm-5.3"
+}

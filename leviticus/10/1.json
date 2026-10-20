@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 10:1",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "Хебрејскиот нема помошен глагол во релативната реченица"
+    },
+    {
+      "kind": "crux",
+      "subject": "туѓ оган",
+      "rationale": "אש זרה: „туѓ\/стран оган“ — пренесувачите се делат меѓу „стран“, „непокорен“ и „неовластен“ (BSB)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "мангалница",
+      "rationale": "מחתה — сад за жар\/јаглен; букв. „жарник“"
+    }
+  ],
+  "translation": "И зедоа синовите на Ахарон, Надав и Авиу, секој својата мангалница, и ставија во нив оган, и ставија врз него кадило, и принесоа пред Јахве туѓ оган, што не им ⟨беше⟩ заповедал.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "582195237295acbea347a68e31c12f9e9633e618ef3b72694fd01e2dbc77d9b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/10\/1-4.1792444221672.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "И зедоа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "на Ахарон"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Надав"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "и Авиу"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој"
+    },
+    {
+      "surface": "מחתתו",
+      "gloss": "својата мангалница"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "и ставија"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "во нив"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оган"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "и ставија"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "врз него"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "кадило"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "и принесоа"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оган"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "туѓ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповедал"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ним"
+    }
+  ],
+  "timestamp": "2026-10-19T21:10:21.675250750Z",
+  "model": "glm-5.3"
+}

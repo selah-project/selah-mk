@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Давид",
+      "rationale": "Гласот на Јоав, пренесен преку гласници, директно му се обраќа на Давид."
+    },
+    {
+      "kind": "crux",
+      "subject": "גם לכדתי",
+      "rationale": "Јоав тврди дека веќе го зеде градот на водите — спротивно на „водоснабдувањето“ кај некои преводи; конструкцијата е совршен, не иден."
+    }
+  ],
+  "translation": "И прати Јоав гласници кај Давид и рече: Се борев против Рава, па зедов ⟨את⟩ градот на водите.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e4df2acf68517df4f446a3fd0efaafab4d58812b1106f94969726030bcae43c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/12\/25-28.1792448223667.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И прати"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "гласници"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "Се борев"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "против Рава"
+    },
+    {
+      "surface": "גם",
+      "gloss": "па"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "зедов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "градот на водите"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "המים",
+      "gloss": "на водите"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:03.669114834Z",
+  "model": "glm-5.3"
+}

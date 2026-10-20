@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezekiel 33:33",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨таа⟩",
+      "rationale": "хебрејскиот има женски сврзан придав од претходниот стих (словото\/песната); македонскиот бара предмет"
+    },
+    {
+      "kind": "elision",
+      "subject": "היה",
+      "rationale": "минато-иденски „имал да биде“ — македонските верзии обично велат „имало“; буквално „беши“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בוא…באה",
+      "rationale": "игра на повторување: „кога ќе дојде — доаѓа“ го задржуваме"
+    }
+  ],
+  "translation": "И кога ⟨таа⟩ ќе дојде — еве, доаѓа — тогаш ќе знаат дека пророк имал ⟨да биде⟩ меѓу нив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "77273e578ea9d0006a84dc8f0376b18b7baf76846041aa89ac041cac467e8500",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/33\/33-33.1792451845023.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "И кога ⟨таа⟩ ќе дојде"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "еве"
+    },
+    {
+      "surface": "באה",
+      "gloss": "доаѓа"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ќе знаат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "היה",
+      "gloss": "имал ⟨да биде⟩"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "меѓу нив"
+    }
+  ],
+  "timestamp": "2026-10-19T23:17:25.023495379Z",
+  "model": "glm-5.3"
+}

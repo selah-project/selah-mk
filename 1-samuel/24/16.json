@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וירא\/וירב",
+      "rationale": "„види“ и „води парница“ се речиси хомофонни во хебрејскиот — звучна врска меѓу гледањето и застапувањето."
+    },
+    {
+      "kind": "alternative",
+      "subject": "וישפטני",
+      "rationale": "Буквално „и нека ме суди“ — може да значи и „нека ме оправда“ во овој контекст."
+    },
+    {
+      "kind": "you",
+      "subject": "до Саул",
+      "rationale": "Завршницата на Давидовиот говор, упатена кон Саул."
+    }
+  ],
+  "translation": "И нека биде Јахве судија, и нека суди меѓу мене и тебе, и нека види и ја поведе ⟨את⟩ мојата парница, и нека ме ослободи од раката твоја.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e4dcc5c4ac3be39a5aae070f65a31cf6004fc5746311398fed654aa00e979630",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/24\/13-16.1792447917829.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и нека биде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "судија"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "и нека суди"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "меѓу мене"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "и меѓу тебе"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и нека види"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "и нека ја поведе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мојата парница"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "мојата парница"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "и нека ме ослободи"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "од раката твоја"
+    }
+  ],
+  "timestamp": "2026-10-19T22:11:57.831429106Z",
+  "model": "glm-5.3"
+}

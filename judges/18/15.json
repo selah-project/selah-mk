@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 18:15",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "прашале за мир",
+      "rationale": "вASKал лешалом — поздрав\/прашање за благосостојба, буквално 'прашаа му за мир'"
+    }
+  ],
+  "translation": "И сврнаа натаму, и влегоа во домот на младичот Левит, домот на Мивха, и го прашаа за ⟨неговиот⟩ мир.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f056fcc5844fb8a4c9c4930eeeb174a7c17cc49fd6855c45b1de90c4cd1b0a98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/18\/13-16.1792446577605.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסורו",
+      "gloss": "И сврнаа"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "натаму"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и влегоа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "на младичот"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Левит"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "на Мивха"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "и го прашаа"
+    },
+    {
+      "surface": "לו",
+      "gloss": "го"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "за ⟨неговиот⟩ мир"
+    }
+  ],
+  "timestamp": "2026-10-19T21:49:37.606290814Z",
+  "model": "glm-5.3"
+}

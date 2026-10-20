@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "прти го лебот",
+      "rationale": "שלח לחמך: традицијата „фрли го лебот“; буквално „прати“ — слика за трговија или доброчинство, преведувачите се делат."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Прати",
+      "rationale": "заповед упатена на читателот — повик за дело без одложување."
+    }
+  ],
+  "translation": "Прати го лебот свој на лицето на водите, зашто во мноштвото на деновите ќе го најдеш.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d138aca0704de1a9db0eef7ca0039ec2e27ef3e5e234cc7b7c29d720e593ddd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/11\/1-4.1792455765353.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Прати"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "лебот свој"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "המים",
+      "gloss": "на водите"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "во мноштвото"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "на деновите"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "ќе го најдеш"
+    }
+  ],
+  "timestamp": "2026-10-20T00:22:45.354333157Z",
+  "model": "glm-5.3"
+}

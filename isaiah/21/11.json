@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 21:11",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מה מלילה ... מה מליל",
+      "rationale": "Прашањето се повторува буквално двапати — инсистирање, задржано во повторувањето."
+    },
+    {
+      "kind": "crux",
+      "subject": "דומה",
+      "rationale": "„Дума“ — арапско место\/племе, но и „тишина“ на хебрејски; дали е име или игра на зборови."
+    },
+    {
+      "kind": "invitation",
+      "subject": "прашањето до стражарот",
+      "rationale": "Повтореното прашање го повикува читателот во ноќта на чекањето."
+    }
+  ],
+  "translation": "Товар за Дума. Кон мене вика од Сеир: Стражо, што од ноќта? Стражо, што од ноќта?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "57878eca1b3aa738706909bb55e4ff59290939101f10add5d90986cf7df15de3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/21\/9-12.1792449807532.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Товар"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "за Дума"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "кон мене"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "вика"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "од Сеир"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Стражо"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "מלילה",
+      "gloss": "од ноќта"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Стражо"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "מליל",
+      "gloss": "од ноќта"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:27.535743941Z",
+  "model": "glm-5.3"
+}

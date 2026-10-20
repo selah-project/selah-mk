@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 23:24",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ден⟩",
+      "rationalle": "",
+      "rationale": "хебрејскиот вели буквално на еден од месецот — македонскиот бара именката ден"
+    },
+    {
+      "kind": "crux",
+      "subject": "תרועה",
+      "rationale": "трубене\/провик — воен повик или радосна врева; рогови не се споменати во самиот стих"
+    },
+    {
+      "kind": "measurement",
+      "subject": "седмиот месец, првиот ден",
+      "rationale": "прецизно датирање на празникот"
+    },
+    {
+      "kind": "you",
+      "subject": "до синовите Јисраелови",
+      "rationale": "заповед упатена на Моше да им каже на синовите Јисраелови"
+    }
+  ],
+  "translation": "Говори на синовите Јисраелови, велејки: Во седмиот месец, на првиот ⟨ден⟩ од месецот, ќе ви биде шабатон — спомен на трубене, свиков свет.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0b5a7c6260cfd5973932dfb029cafecb76a24edc37dbfee79c4162ad8af31a8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/23\/21-24.1792444513896.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелови"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејки"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "во месецот"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седмиот"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "на првиот"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "од месецот"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "шабатон"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "спомен"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "на трубене"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "свиков"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свет"
+    }
+  ],
+  "timestamp": "2026-10-19T21:15:13.901347005Z",
+  "model": "glm-5.3"
+}

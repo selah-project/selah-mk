@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 15:1",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "стана",
+      "rationale": "македонскиот бара помошен глагол за инцептивното מלך (зацари се)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "осумнаесеттата година",
+      "rationale": "датирање на владеењето според годините на Јаровоам"
+    }
+  ],
+  "translation": "И во годината осумнаесетта на царот Јаровоам, синот на Неват, стана цар Авијам над Јуда.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c0f4239ded6e08c0e1169d925b23011f5dee3cf3e75656d8b60d0865aa02fa4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/15\/1-4.1792448852896.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "и во годината"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "осум"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "наесет"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Јаровоам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Неват"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "стана цар"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Авијам"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуда"
+    }
+  ],
+  "timestamp": "2026-10-19T22:27:32.897279850Z",
+  "model": "glm-5.3"
+}

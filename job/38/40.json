@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "job 38:40",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "скривалиштето",
+      "rationale": "סכה е колиба\/колибка од гранки — слика на лав што чека скриен меѓу гранките."
+    },
+    {
+      "kind": "you",
+      "subject": "до Јов",
+      "rationale": "прашањето продолжува — може ли Јов да го нахрани лавот што лежи во заседа?"
+    }
+  ],
+  "translation": "Кога се приклекнуваат во дувлата, седат во скривалиштето за заседа?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "053b7bac583f82af32c71f671b8ea84d97fb4177a0497b3ae4b63baadb7a7160",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/38\/37-40.1792455356616.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Кога"
+    },
+    {
+      "surface": "ישחו",
+      "gloss": "се приклекнуваат"
+    },
+    {
+      "surface": "במעונות",
+      "gloss": "во дувлата"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "седат"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "во скривалиштето"
+    },
+    {
+      "surface": "למו",
+      "gloss": "за"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "заседа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:15:56.617739269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 28:11",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על שמת",
+      "rationale": "'врз\/според имињата' — дали каменот се гравира со имиња или според нивниот број\/ред."
+    },
+    {
+      "kind": "substitution",
+      "subject": "окови",
+      "rationale": "משבצות е 'оправи\/филигрански окови' за вклопување на камен; сликата е задржана."
+    },
+    {
+      "kind": "measurement",
+      "subject": "двата камена",
+      "rationale": "Точен број на камењата за ефодот."
+    }
+  ],
+  "translation": "Дело на резбар во камен, гравури на печат — така ќе ги издлабиш ⟨את⟩ двата камена, според имињата на синовите Јисраел; вклопени во златни окови ќе ги направиш ⟨את⟩ нив.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a455dad548e83e8729fdf79d3c1b001a7fad2a6efdd7d17575ac4f890142bdf7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/28\/9-12.1792443755503.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעשה",
+      "gloss": "Дело"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "на резбар"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "во камен"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "гравури"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "на печат"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "така ќе ги издлабиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "двата камена"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "двата"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "камена"
+    },
+    {
+      "surface": "על",
+      "gloss": "според"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "имињата"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "вклопени"
+    },
+    {
+      "surface": "משבצות",
+      "gloss": "во окови"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златни"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ќе ги направиш"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ нив"
+    }
+  ],
+  "timestamp": "2026-10-19T21:02:35.506242339Z",
+  "model": "glm-5.3"
+}

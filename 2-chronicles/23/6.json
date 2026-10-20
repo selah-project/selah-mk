@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 23:6",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "копула што хебрејскиот ја испушта: קדש המה е именска реченица"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "хебрејскиот израз „зашто ако\/само“ е рендериран како „освен“"
+    }
+  ],
+  "translation": "и никој да не влегува во домот на Јахве освен свештениците и оние што служат од левитите — тие нека влезат, зашто ⟨се⟩ свети; а сиот народ нека ја пази стражата на Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8f7d7655baeacddefe05aca29c2d1aea656b8be5652894a7ccccf09ca12fd9c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/23\/5-8.1792457654305.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "влегува"
+    },
+    {
+      "surface": "בית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אם",
+      "gloss": "освен"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свештениците"
+    },
+    {
+      "surface": "והמשרתים",
+      "gloss": "и оние што служат"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "од левитите"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "нека влезат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свети"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "а сиот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "нека пази"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "стражата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    }
+  ],
+  "timestamp": "2026-10-20T00:54:14.306307095Z",
+  "model": "glm-5.3"
+}

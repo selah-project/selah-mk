@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 34:16",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "му (и ⟨му⟩ врати)",
+      "rationale": "Македонскиот бара дативен клитик за индиректниот објект 'царот'."
+    },
+    {
+      "kind": "addition",
+      "subject": "го (го вршат)",
+      "rationale": "Акцентскиот клитик го поврзува објектот со глаголот, хебрејскиот ред на зборовите го прави тоа со 'הם עשים'."
+    }
+  ],
+  "translation": "И го внесе Шафан ⟨את⟩ книгата кај царот, и му врати уште на царот збор, велејќи: Сè што беше дадено во раката на слугите твои — тие го вршат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3c681aeb6429150d91ff40b2b16e6450e15d0fa0ce7eaef39a56fe8730c33174",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/34\/13-16.1792457862118.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и внесе"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Шафан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "книгата"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "книгата"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и врати"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уште"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "царот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "збор"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "беше дадено"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "во раката"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "на слугите твои"
+    },
+    {
+      "surface": "הם",
+      "gloss": "тие"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "го вршат"
+    }
+  ],
+  "timestamp": "2026-10-20T00:57:42.119656531Z",
+  "model": "glm-5.3"
+}

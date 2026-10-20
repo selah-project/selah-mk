@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 10:32",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "седмата година",
+      "rationale": "број на годината — шемита, седмата годишна одморна година"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כל יד",
+      "rationale": "буквално 'секоја рака' — рака како слика за должник и негова моќ"
+    }
+  ],
+  "translation": "и народите на земјата што носат ⟨את⟩ стоката и секакво жито во денот на шабат за продавање — нема да земаме од нив во шабат и во свет ден, и ќе ја напуштиме ⟨את⟩ седмата година и должното од секоја рака.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d850f33b412746a5425c069feb65e5fbccc615975dbd3e593e35dfdff88df0d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/10\/29-32.1792456675116.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמי",
+      "gloss": "и народите"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "המביאים",
+      "gloss": "што носат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стоката"
+    },
+    {
+      "surface": "המקחות",
+      "gloss": "стоката"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и секакво"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "жито"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "на шабат"
+    },
+    {
+      "surface": "למכור",
+      "gloss": "за продавање"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "нема да земаме"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "од нив"
+    },
+    {
+      "surface": "בשבת",
+      "gloss": "во шабат"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "и во"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свет ден"
+    },
+    {
+      "surface": "ונטש",
+      "gloss": "ќе ја напуштиме"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "седмата година"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "годината"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "седмата"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "и должното"
+    },
+    {
+      "surface": "כל",
+      "gloss": "од секоја"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рака"
+    }
+  ],
+  "timestamp": "2026-10-20T00:37:55.118062131Z",
+  "model": "glm-5.3"
+}

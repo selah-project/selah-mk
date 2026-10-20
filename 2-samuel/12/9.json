@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 12:9",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Давид",
+      "rationale": "Натановата реч непосредно му се обраќа на Давид."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הכית\/הרגת",
+      "rationale": "Двоен глагол за убиство — 'погоди' и 'уби' — Давид уби со меч на Амонците и двете пати."
+    }
+  ],
+  "translation": "Зошто го презре ⟨את⟩ словото на Јахве, правејќи зло во Неговите очи? ⟨את⟩ Урија Хетејецот го уби со меч, а ⟨את⟩ жената негова ја зеде за жена себеси, и ⟨את⟩ него го уби со меч од синовите Амонови.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "6356cf0eb645372d040b72acc73c6be74b1655d3acbc9901e87d698bc5d4eaa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/12\/9-12.1792448236634.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "презре"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "словото на Јахве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "правејќи"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "во Неговите очи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Урија Хетејецот"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урија"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Хетејецот"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "уби"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "со меч"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "жената негова"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жената негова"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "зеде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себеси"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жена"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ него"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "го уби"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "со меч"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амонови"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:16.635962361Z",
+  "model": "glm-5.3"
+}

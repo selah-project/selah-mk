@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקדני",
+      "gloss": "'посети ме' · 'обрати се кон мене' · 'грижи се за мене' — פקד има двојна насока: милост и казна"
+    },
+    {
+      "kind": "substitution",
+      "subject": "обрати се кон мене",
+      "rationale": "хифил од פקד е причинско 'направи да бидам посетен\/изброен'"
+    },
+    {
+      "kind": "you",
+      "subject": "обраќање до Јахве",
+      "gloss": "директна молитва, императиви"
+    }
+  ],
+  "translation": "Помни ме, Јахве, во благоволението кон народот твој, обрати се кон мене во спасението твое!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c97acf7b309a65bd50d82d14ecca4a928e612d4104ddb5879a7055030dbe54d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/106\/1-4.1792453881896.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Помни ме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "во благоволението"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "народот твој"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "обрати се кон мене"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "во спасението твое"
+    }
+  ],
+  "timestamp": "2026-10-19T23:51:21.897339657Z",
+  "model": "glm-5.3"
+}

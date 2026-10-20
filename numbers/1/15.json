@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "список",
+      "rationale": "Именување на поглаварот на племето Нефтали во пописот."
+    }
+  ],
+  "translation": "За Нефтали — Ахира, синот на Енан.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b7cded9ddfaf92860216f3a10e403838892aa2248a781cc1fc823dc22b543ce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/1\/13-16.1792444566249.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "За Нефтали"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Ахира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот на"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Енан"
+    }
+  ],
+  "timestamp": "2026-10-19T21:16:06.251384872Z",
+  "model": "glm-5.3"
+}

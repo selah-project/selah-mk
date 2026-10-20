@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 18:5",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "дваесет и две илјади мажи",
+      "rationale": "бројка на поразените, дадена целосно како во хебрејскиот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Арам-Дармешек",
+      "gloss": "Арамам Дармешек",
+      "rationale": "העבדים е во множина — «слуги», не «стражи»"
+    }
+  ],
+  "translation": "И дојде Арам-Дармешек да му помогне на Хададезер, царот на Цова, а Давид порази во Арам дваесет и две илјади мажи.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c6ed613fd6c065d2f47d03d3924fd2b838966767b468137ce4efba83e0146f94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/18\/5-8.1792457151454.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и дојде"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "דרמשק",
+      "gloss": "Дармешек"
+    },
+    {
+      "surface": "לעזור",
+      "gloss": "да помогне"
+    },
+    {
+      "surface": "להדדעזר",
+      "gloss": "на Хададезер"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Цова"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "а порази"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "во Арам"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "дваесет"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и две"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мажи"
+    }
+  ],
+  "timestamp": "2026-10-20T00:45:51.455776021Z",
+  "model": "glm-5.3"
+}

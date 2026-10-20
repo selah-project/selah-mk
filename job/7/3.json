@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 7:3",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ништожност",
+      "rationale": "שוא е 'празнина, суета, ништо' — македонскиот бара именка, а хебрејскиот збор е слика на празно."
+    },
+    {
+      "kind": "addition",
+      "subject": "беа",
+      "rationale": "Македонскиот бара помошен глагол во пасивните конструкции; хебрејскиот има причинителен хифил 'нáхал' — 'направи да наследи'."
+    }
+  ],
+  "translation": "така ми беа дадени во наследство месеци на ништожност, и ноќи на мака ми беа одмерени.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "42ca64289736c8d89e102b49281d6c690ce4d0e4bf9d8cabe25e93464da8be57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/7\/2-3.1792458449443.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "הנחלתי",
+      "gloss": "ми беа дадени во наследство"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "ירחי",
+      "gloss": "месеци"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "на ништожност"
+    },
+    {
+      "surface": "ולילות",
+      "gloss": "и ноќи"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "на мака"
+    },
+    {
+      "surface": "מנו",
+      "gloss": "ми беа одмерени"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    }
+  ],
+  "timestamp": "2026-10-20T01:07:29.444331789Z",
+  "model": "glm-5.3"
+}

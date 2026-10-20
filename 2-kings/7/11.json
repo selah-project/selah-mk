@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "тоа",
+      "rationale": "Хебрејскиот нема предмет кај ויגידו — „го соопштија ⟨тоа⟩“"
+    },
+    {
+      "kind": "crux",
+      "subject": "подмет на ויקרא",
+      "rationale": "KJV\/ASV читаат „тој ги повика портарите“ (портарите како предмет), JPS\/BSB „портарите извикаа“ — хебрејскиот е двосмислен"
+    }
+  ],
+  "translation": "И портарите извикаа, и го соопштија ⟨тоа⟩ внатре, во домот на царот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dfafccee2b56bebd306b7b87488d2d3d8fef53844cada931b2a61f6b13b7745e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/7\/10-11.1792458137198.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и извикаа"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "портарите"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "и го соопштија"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "внатре"
+    }
+  ],
+  "timestamp": "2026-10-20T01:02:17.199375276Z",
+  "model": "glm-5.3"
+}

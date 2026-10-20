@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צדקה...צדקה",
+      "rationale": "Повторување: цедек се гони и цедек се наоѓа — палindrome на наградата, изгубено ако се преведе различно."
+    },
+    {
+      "kind": "substitution",
+      "subject": "чест",
+      "rationale": "כבוד е буквално 'тежина', значи сјај и слава."
+    },
+    {
+      "kind": "elision",
+      "subject": "מִן во ימצא",
+      "rationale": "Хебрејскиот имплицитно 'наоѓа живот'; македонскиот додавки не бара додатен збор."
+    }
+  ],
+  "translation": "Кој го гони цедекот и хеседот, ќе најде живот — цедек и чест.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fd65c157d470685326a28cb0a39faf5395728b49cec7e0b6409d8328ba072e86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/21\/21-24.1792454605649.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "го гони"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедекот"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "и хеседот"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ќе најде"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живот"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "и чест"
+    }
+  ],
+  "timestamp": "2026-10-20T00:03:25.649950203Z",
+  "model": "glm-5.3"
+}

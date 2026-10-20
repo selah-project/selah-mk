@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחדו\/פחד...פחד",
+      "rationale": "тројно повторување на коренот פחד — страв без страв — ритмички грозд што македонскиот само делумно носи"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ништожноста",
+      "rationale": "און е „ништожност\/беззаконие“; vo v5 избрано ништожност за да се чува буквата на зборот"
+    },
+    {
+      "kind": "addition",
+      "subject": "ги",
+      "rationale": "македонски кратки заменски клитики додадени кај глаголите со преоден објект"
+    }
+  ],
+  "translation": "Таму ги обзеде страв — страв што не постоеше, зашто Елохим ги расфрла коските на оној што логорува спроти тебе; ти ги посрами, зашто Елохим ги отфрли.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4ae5ba47359a7ca23ff0be077b054b90ad6fb7b3fcadfb023cfecbdbfea61895",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/53\/5-7.1792453377124.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ги обзеде страв"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "страв"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "постоеше"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "страв"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "расфрла"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "коските"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "што логорува спроти тебе"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "ги посрами"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "ги отфрли"
+    }
+  ],
+  "timestamp": "2026-10-19T23:42:57.125146137Z",
+  "model": "glm-5.3"
+}

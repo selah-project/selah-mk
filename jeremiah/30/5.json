@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩\/сврзник",
+      "rationale": "хебрејскиот כי е отворен сврзник; македонскиот бара целосна конструкција"
+    },
+    {
+      "kind": "you",
+      "subject": "до Израел и Јуда",
+      "rationale": "гласот е сведоштво дадено на народот"
+    }
+  ],
+  "translation": "Зашто така вели Јахве: Глас на трепет човме, страв — и нема мир.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1ec5461b271904f7c91e3b10b413869960708e3f1848cb908368c97992272ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/30\/5-8.1792450885411.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "трепет"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "човме"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "страв"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    }
+  ],
+  "timestamp": "2026-10-19T23:01:25.412415302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 38:16",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הבה נא",
+      "rationale": "Хебрејски поттик „дај, те молам“ — македонски „Ајде, те молам“."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אבוא אליך",
+      "rationale": "„Да влезам кај тебе“ — евфемизам за телесен однос, задржан буквално."
+    }
+  ],
+  "translation": "И се наклони кон неа при патот и рече: Ајде, те молам, нека влезам кај тебе — зашто не знаеше дека таа е снаата неговата. А таа рече: Што ќе ми дадеш за да влезеш кај мене?",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "39f3f4d102a9eefca9b32bc00c98176d4cde190203eed19d45444ac5ca17b3d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/38\/13-16.1792443096330.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "се наклони"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "кон неа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "патот"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Ајде"
+    },
+    {
+      "surface": "נא",
+      "gloss": "те молам"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "нека влезам"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "кај тебе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знаеше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "снаата неговата"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "таа е"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "а таа рече"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Што"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ќе ми дадеш"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "כי",
+      "gloss": "за да"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "влезеш"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "кај мене"
+    }
+  ],
+  "timestamp": "2026-10-19T20:51:36.333699599Z",
+  "model": "glm-5.3"
+}

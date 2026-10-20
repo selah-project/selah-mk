@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 9:30",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "רוח останува руах — здив\/ветер\/Дух во еден збор."
+    },
+    {
+      "kind": "crux",
+      "subject": "ותמשך",
+      "rationale": "„Се воздржуваше\/протегаше“ — од נמשך: трпение (KJV forbear) или протегање на милоста (JPS)."
+    }
+  ],
+  "translation": "И се воздржуваше над нив многу години, и сведочеше против нив со Твојот руах, преку раката на Твоите пророци — а тие не приклонија уво; па ги предаде во рака на народите на земјите.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2825f76281587be41acbd6ca1e5e42f998e57ff0bee1f5c62d61f8a02ff73f16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/9\/29-32.1792456700767.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמשך",
+      "gloss": "и се воздржуваше"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над нив"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "многу"
+    },
+    {
+      "surface": "ותעד",
+      "gloss": "и сведочеше"
+    },
+    {
+      "surface": "בם",
+      "gloss": "против нив"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "со Твојот руах"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "преку раката"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "на Твоите пророци"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "приклонија уво"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "па ги предаде"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "во рака"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "на народите"
+    },
+    {
+      "surface": "הארצת",
+      "gloss": "на земјите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:38:20.768703124Z",
+  "model": "glm-5.3"
+}

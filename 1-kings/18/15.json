@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 18:15",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפניו",
+      "rationale": "Буквално 'пред неговото лице' = 'во присуство на'; македонскиот го стеснува во 'пред кого'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "Клетва: 'Жив е Јахве' — формула на заклетва, не опис."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אראה \/ אליהו",
+      "rationale": "Коренot ראה ('да се покажам') одекнува со името Ели-јаху ('мојот Бог е Јахве') — во македонскиот се губи."
+    }
+  ],
+  "translation": "И рече Елијаху: Жив е Јахве Цеваот, пред кого стојам ⟨јас⟩, дека денес ќе му ⟨се⟩ покажам!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "29303ac1f9f8f93f91d603f3e2272c33bd3b462a909a328b173f3fa6f332761f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/18\/14-15.1792458038315.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Елијаху"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив е"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "пред кого"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "стојам"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пред ⟨неговото⟩ лице"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ќе се покажам"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "нему"
+    }
+  ],
+  "timestamp": "2026-10-20T01:00:38.315860627Z",
+  "model": "glm-5.3"
+}

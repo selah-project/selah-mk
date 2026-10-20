@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 62:12",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Барана",
+      "rationale": "דרושה е passive participle feminine „бараната\/пребараната“ — преведена како име на градот"
+    },
+    {
+      "kind": "measurement",
+      "subject": "давање имиња",
+      "rationale": "стихот е чин на именување: народот и градот добиваат нови имиња"
+    }
+  ],
+  "translation": "И ќе ги наречат нив: народ свет, откупените на Јахве; а тебе ќе те наречат Барана, град не напуштен.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ad2358ce4624816b15fb009e656e446101a8e1ac322b1403fbbbb8e577dc2ca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/62\/9-12.1792450302592.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקראו",
+      "gloss": "И ќе ги наречат"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ним"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "свет"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "откупените"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "а тебе"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ќе те наречат"
+    },
+    {
+      "surface": "דרושה",
+      "gloss": "Барана"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נעזבה",
+      "gloss": "напуштен"
+    }
+  ],
+  "timestamp": "2026-10-19T22:51:42.593949734Z",
+  "model": "glm-5.3"
+}

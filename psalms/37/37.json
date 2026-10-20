@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Македонскиот бара сврзник; хебрејскиот го нема"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Набљудувај и гледај",
+      "rationale": "Императиви упатени кон читателот"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחרית לאיש שלום",
+      "rationale": "„крај за човекот на мирот“ (KJV) или „иднина за човекот на мирот“ (JPS)"
+    }
+  ],
+  "translation": "Набљудувај го совршениот и гледај го правиот, зашто крајот на човекот ⟨е⟩ мир.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "10ffa8087773e2267d981a8ce2b7177710c8479a881122a141ddfcc64e99a39b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/37\/37-40.1792453199070.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Набљудувај"
+    },
+    {
+      "surface": "תם",
+      "gloss": "совршениот"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и гледај"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "правиот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "крајот"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "на човекот"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    }
+  ],
+  "timestamp": "2026-10-19T23:39:59.070987941Z",
+  "model": "glm-5.3"
+}

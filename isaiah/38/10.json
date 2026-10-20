@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 38:10",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בדמי",
+      "rationale": "KJV „во отсекувањето на дните“ vs ASV\/JPS „на половината од дните“ — коренот דמה значи смирување\/престанок"
+    },
+    {
+      "kind": "crux",
+      "subject": "פקדתי",
+      "rationale": "„посетен\/изброен\/лишен“ — повеќекратни значења на пקד; избрано „одземен“ по смисла"
+    }
+  ],
+  "translation": "Јас реков: во смирувањето на дните свои ќе отидам во портите на шеол; одземен сум од остатокот на годините свои.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "393e3593fef042dabaa66e7aee36224055d85f1a4cf129efeac267d2a01dd5cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/38\/9-12.1792450006607.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Јас"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "реков"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "во смирувањето"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "на дните свои"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "ќе отидам"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "во портите"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "на шеол"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "одземен сум"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "од остатокот"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "на годините свои"
+    }
+  ],
+  "timestamp": "2026-10-19T22:46:46.608289206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 12:2",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בית המרי",
+      "rationale": "Повторување на 'дом бунтовен' на почетокот и крајот — инклузија што го врамува стихот."
+    },
+    {
+      "kind": "you",
+      "subject": "до Езекиил",
+      "rationale": "Директен обрат кон 'син човечки', повторувачката титула во книгата."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מרי",
+      "rationale": "Буквално 'горчина', фигуративно 'бунтов'; одбран е фигуративниот особинок."
+    }
+  ],
+  "translation": "Сину човечки, сред дом бунтовен ти седиш; тие имаат очи за да гледаат, а не гледаа; уши имаат тие за да слушаат, а не слушаа — зашто дом бунтовен се тие.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "edfd80d8afee4625d7790b5a55e77e23bf51c9fc736b5bdc58e85c39205c0b38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/12\/1-4.1792451499089.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сину"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечки"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "сред"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "бунтовен"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "седиш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кои"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "очи"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имаат тие"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "за да гледаат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "гледаа"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "уши"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имаат тие"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "за да слушаат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слушаа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "бунтовен"
+    },
+    {
+      "surface": "הם",
+      "gloss": "се тие"
+    }
+  ],
+  "timestamp": "2026-10-19T23:11:39.090237750Z",
+  "model": "glm-5.3"
+}

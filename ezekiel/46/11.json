@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 46:11",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ефа\/хин",
+      "rationale": "точни количества: ефа жито за вол и за овен, хин масло за секоја ефа"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מתת ידו",
+      "rationale": "буквално 'дар на раката негова' — онолку колку што раката може да даде"
+    }
+  ],
+  "translation": "И во празниците и во определените времиња минхата нека биде: ефа за вол и ефа за овен, а за јагнињата — дар според раката негова, и масло, хин за ефа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e464b1efdf259a2468d20b1cc404e25685bd10747235db0238fa721e5d4a6475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/46\/9-12.1792452169751.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחגים",
+      "gloss": "И во празниците"
+    },
+    {
+      "surface": "ובמועדים",
+      "gloss": "и во определените времиња"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "нека биде"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "минхата"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ефа"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "за вол"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "и ефа"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "за овен"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "а за јагнињата"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "дар"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "според раката негова"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "и масло"
+    },
+    {
+      "surface": "הין",
+      "gloss": "хин"
+    },
+    {
+      "surface": "לאיפה",
+      "gloss": "за ефа"
+    }
+  ],
+  "timestamp": "2026-10-19T23:22:49.752829189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Глаголот „радуваат” се повторува само со црта за вториот дел; хебрејскиот елиптички, македонскиот Needs dash."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לאמ cheats",
+      "rationale": "כחש буквално „откажување\/изневерување” — „лаги” е вообичаеното, но зборот носи и „вероломство”."
+    }
+  ],
+  "translation": "Со злото свое го радуваат царот, и со лагите свои — старешините.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "abe1c559178e2b65b2256ebbbe35a4c6b324685f05d2e38ce21b3603d94dccc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/hosea\/7\/1-4.1792452248900.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "со злото свое"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "радуваат"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "и со лагите свои"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "старешините"
+    }
+  ],
+  "timestamp": "2026-10-19T23:24:08.901718746Z",
+  "model": "glm-5.3"
+}

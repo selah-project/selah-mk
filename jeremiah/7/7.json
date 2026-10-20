@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "למן עולם",
+      "rationale": "буквално «од вечност (мината)», македонскиот бара насока на времето"
+    },
+    {
+      "kind": "addition",
+      "subject": "тогаш",
+      "rationale": "воведено за глаголот со вав-консекутив што се потпира на условот од ст. 5–6"
+    }
+  ],
+  "translation": "тогаш Јас ќе ве населам ⟨את⟩ на местово, во земјата што им ја дадов на татковците ваши, од вечност до вечност.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "58b02c60bb11cf2a72f75dba882ae06d5ba5ef151d3d87d0bc84b79f03fd0a7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/7\/5-8.1792450472113.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "и ќе ве населам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас (вие)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "на местово"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "им ја дадов"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "на татковците ваши"
+    },
+    {
+      "surface": "למן",
+      "gloss": "од"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечност"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечност"
+    }
+  ],
+  "timestamp": "2026-10-19T22:54:32.114305769Z",
+  "model": "glm-5.3"
+}

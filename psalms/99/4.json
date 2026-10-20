@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועז מלך",
+      "rationale": "„и сила на цар“ — без зависен генитив; се чита како „силниот цар“ (ЈПС) или во сврзаност со стилот на стих 1–2"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משפט…משפט",
+      "rationale": "повторување на „суд“ на почеток и во средината — рамнотежа на стихот што македонскиот ја задржува"
+    }
+  ],
+  "translation": "И сила на цар што го љуби судот: ти ја утврди правноста, суд и праведност во Јааков изврши ти.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/99\/1-4.1792453778315.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "и сила"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "љуби"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "утврди"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "правност"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "и праведност"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "во Јааков"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "изврши"
+    }
+  ],
+  "timestamp": "2026-10-19T23:49:38.316477008Z",
+  "model": "glm-5.3"
+}

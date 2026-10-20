@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 40:27",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "сто лакти",
+      "rationale": "растојание од капија до капија кон југ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרך הדרום",
+      "rationale": "повторено двапати во еден стих — придржано е буквално"
+    }
+  ],
+  "translation": "И капија за внатрешниот двор кон југот; и измери од капија до капија кон југот — сто лакти.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1ce135a48876d6e43241e71c6675dd72d1db4a92e12c6ac3696ed14e84e1e6be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/40\/25-28.1792452005055.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושער",
+      "gloss": "и капија"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "за внатрешниот"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "двор"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "кон"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "југот"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "и измери"
+    },
+    {
+      "surface": "משער",
+      "gloss": "од капија"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "השער",
+      "gloss": "капијата"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "кон"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "југот"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "лакти"
+    }
+  ],
+  "timestamp": "2026-10-19T23:20:05.056259114Z",
+  "model": "glm-5.3"
+}

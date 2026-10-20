@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 39:7",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "македонскиот глагол бара повратна честичка за „да се смее на“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "гонител",
+      "rationale": "נוגש е т„ој што гони и наплаќа данок — погонувач на робови; „гонител“ ги држи двата нијанса"
+    }
+  ],
+  "translation": "Смее ⟨се⟩ на вревата во градот; викањето на гонителот не го слуша.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "424b97368bbd02bfc44704596e477e791ffc4686d34782949bd1295ba1f91140",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/39\/5-8.1792455378971.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישחק",
+      "gloss": "смее"
+    },
+    {
+      "surface": "להמון",
+      "gloss": "на вревата"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "во градот"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "викањето"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "на гонителот"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "го слуша"
+    }
+  ],
+  "timestamp": "2026-10-20T00:16:18.972157533Z",
+  "model": "glm-5.3"
+}

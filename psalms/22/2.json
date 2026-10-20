@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "рев",
+      "rationale": "שאגה е рев како лав, татнеж — длабок нечовечки звук, не тивко плачење."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלי אלי",
+      "rationale": "Двоен повик кон Ел — повторување што носи очај и интимност."
+    },
+    {
+      "kind": "you",
+      "subject": "до Ел",
+      "rationale": "Директен обраќајkopње кон Бога."
+    }
+  ],
+  "translation": "Ел мой, Ел мой, зошто ме остави? Далеку од спасението мое, зборовите на мојот рев.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/22\/1-4.1792453106713.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Ел мой"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ел мой"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "ме остави"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "Далеку"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "од спасението мое"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "зборовите"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "на мојот рев"
+    }
+  ],
+  "timestamp": "2026-10-19T23:38:26.714361139Z",
+  "model": "glm-5.3"
+}

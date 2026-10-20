@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 65:19",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גיל\/שוש",
+      "rationale": "истите корени за радост од 65:18 се свртени кон Јахве — Т Тој се радува како што се радуваат тие"
+    }
+  ],
+  "translation": "И Јахве ќе се весели во Јерушалаим и ќе се радува во народот свој, и нема повеќе да се чуе во неа глас плач и глас вик.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cfa0544f317e76b0f275071bab4df302d851693681ada1023b677c6e8c6d10d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/65\/17-20.1792450334396.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגלתי",
+      "gloss": "и ќе се весели"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "во Јерушалаим"
+    },
+    {
+      "surface": "וששתי",
+      "gloss": "и ќе се радува"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "во народот свој"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "да се чуе"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во неа"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "плач"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "и глас"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "вик"
+    }
+  ],
+  "timestamp": "2026-10-19T22:52:14.399036857Z",
+  "model": "glm-5.3"
+}

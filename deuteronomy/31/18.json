@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 31:18",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הסתר אסתיר",
+      "rationale": "инфинитивен апсолутизам — „скривајќи ќе скријам“ — нагласена сигурност на скривањето"
+    },
+    {
+      "kind": "secret",
+      "subject": "hистар паним — сокриено лице",
+      "rationale": "одсуството на лицето на Јахве како одземена присутност, клучна слика во стиховите 17–18"
+    }
+  ],
+  "translation": "А јас сосема ќе го скријам лицето мое во оној ден, заради сето злото што го направи, зашто се сврте кон други елохим.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b0eb6752801d553ddaf7f5879390eb4997bc9f5dd9cdaa46eca16e31e86fdb7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/31\/17-20.1792445840563.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "а јас"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "скривање"
+    },
+    {
+      "surface": "אסתיר",
+      "gloss": "ќе скријам"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето мое"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оној"
+    },
+    {
+      "surface": "על",
+      "gloss": "заради"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "злото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "го направи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "се сврте"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "елохим"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "други"
+    }
+  ],
+  "timestamp": "2026-10-19T21:37:20.563837046Z",
+  "model": "glm-5.3"
+}

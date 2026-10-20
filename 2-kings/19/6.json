@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 19:6",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "мене (збор)",
+      "rationale": "македонскиот бара директен предмет пред глаголот; אתי носи ⟨את⟩ со наставка 1.лице"
+    },
+    {
+      "kind": "substitution",
+      "subject": "господар",
+      "rationale": "אדניכם за човек — точно според табелата D1, не Адонај"
+    },
+    {
+      "kind": "you",
+      "subject": "до слугите на Хизкијаху",
+      "rationale": "Јешајаху им се обраќа директно на пратениците"
+    }
+  ],
+  "translation": "И им рече Јешајаху: Така ќе им кажете на вашиот господар: Така вели Јахве: Не плаши се од зборовите што ги чу, со кои момците на царот на Ашур ⟨את⟩ мене ме изругаа.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "44ffc4f3c25a5f289a3a32de156a38380a29d8bb588ad69fb5bc5518f71c5fb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/19\/5-8.1792449410378.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Јешајаху"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "ќе им кажете"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "вашиот господар"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "плаши се"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "од"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "зборовите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "чу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "со кои"
+    },
+    {
+      "surface": "גדפו",
+      "gloss": "ме изругаа"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "момците"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "на Ашур"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мене"
+    }
+  ],
+  "timestamp": "2026-10-19T22:36:50.379194480Z",
+  "model": "glm-5.3"
+}

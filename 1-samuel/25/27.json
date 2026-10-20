@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 25:27",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ברכה",
+      "rationale": "„Благослов“ е и „дар“ — тука значи дарот-благослов што Авигаил го носи; преведувачите се делат меѓу „gift“ и „blessing“. "
+    }
+  ],
+  "translation": "И сега, оваа благослов што ти ја донесе слугинката твоја на господарот свој — нека им се даде на младите што одат по нозете на господарот мој.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "193b1b23fad23c9a764039782d4f7707d74ef1f55606b09075641da6cd0586e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/25\/25-28.1792447944359.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "и сега"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "благослов"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "донесе"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "слугинката твоја"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "на господарот свој"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "нека се даде"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "на младите"
+    },
+    {
+      "surface": "המתהלכים",
+      "gloss": "што одат"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "по нозете"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "на господарот мој"
+    }
+  ],
+  "timestamp": "2026-10-19T22:12:24.365996914Z",
+  "model": "glm-5.3"
+}

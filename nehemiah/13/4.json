@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 13:4",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולפני",
+      "gloss": "'поради ова' (пред овие настани) vs причинско 'заради ова' — временска големина, не причина"
+    }
+  ],
+  "translation": "А поради ова Елијашив свештеникот беше поставен над одаите во домот на нашиот Елохим, близок роднина на Товија.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "82e74346f050f7983a14ff82b45861843a0229ec55164d5445f98464f7dcdfab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/13\/1-4.1792456753047.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "а поради"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Елијашив"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "беше поставен"
+    },
+    {
+      "surface": "בלשכת",
+      "gloss": "над одаите"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "на нашиот Елохим"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "близок роднина"
+    },
+    {
+      "surface": "לטוביה",
+      "gloss": "на Товија"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:13.049615095Z",
+  "model": "glm-5.3"
+}

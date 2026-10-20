@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 1:19",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חיות",
+      "rationale": "רbare придавка 'живи\/енергични' — овде со сликата на животната сила, букв. 'живи-силни'"
+    },
+    {
+      "kind": "crux",
+      "subject": "живи-силни",
+      "rationale": "חיות: 'енергични' (KJV 'lively'), 'животни' (како ѕверови) или 'живи'; букв. слика е 'полни со живот'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rodija",
+      "rationale": "поправи: глосата треба 'родија' — וילדו значи 'и родија'"
+    },
+    {
+      "kind": "secret",
+      "subject": "одговорот на бабите",
+      "rationale": "бабите го сокриваат вистинскиот повод (стравот од Елохим) и даваат друго објаснување пред Паро"
+    }
+  ],
+  "translation": "И рекоа бабите на Паро: зашто не ⟨се⟩ како Мицраиките жените Еврејки, зашто тие се живи-силни — уште пред да дојде бабата кај нив, тие веќе родија.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "ea07d7968f57a30b9380d67d89bfccbd3c5e31ebc71db162550a6f8f99b9c54b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/1\/17-20.1792443332498.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "и рекоа"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "бабите"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כנשים",
+      "gloss": "како жените"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Мицраиките"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "Еврејките"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "живи-силни"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "уште пред"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "да дојде"
+    },
+    {
+      "surface": "אלהן",
+      "gloss": "кај нив"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "бабата"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "rodija"
+    }
+  ],
+  "timestamp": "2026-10-19T20:55:32.507889169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 5:14",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "седум пати",
+      "rationale": "бројот на потопувања е броен и структурно важен"
+    }
+  ],
+  "translation": "И слезе и се потопи во Јарден седум пати, според зборот на човекот Елохим; и се врати телото негово како телото на мало момче, и се очисти.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "d68f7b120adcb60107dd17bd4de0339554e4ce5d7a7c8e8e889dd7101faff6a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/5\/13-16.1792449164827.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "и слезе"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "и се потопи"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "во Јарден"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седум"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "пати"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "според зборот"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и се врати"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "телото негово"
+    },
+    {
+      "surface": "כבשר",
+      "gloss": "како телото"
+    },
+    {
+      "surface": "נער",
+      "gloss": "момче"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "мало"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "и се очисти"
+    }
+  ],
+  "timestamp": "2026-10-19T22:32:44.829685876Z",
+  "model": "glm-5.3"
+}

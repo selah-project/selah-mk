@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 9:36",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сме",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנה אנחנו עבדים",
+      "rationale": "двоен refrain „ево ние робови“ — повторување за акутност"
+    }
+  ],
+  "translation": "Еве, ние денес сме робови, а земјата што им ја даде на нашите татковци за да јадат ⟨את⟩ нејзиниот плод и ⟨את⟩ нејзиното добро — еве, ние сме робови на неа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "312c281a512d87c77cca641c60289677f61b5d9d584a10fe5e581e18eb3ed82a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/9\/33-36.1792456657303.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ние"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "робови"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "а земјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "им ја даде"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "на нашите татковци"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "за да јадат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нејзиниот плод"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "нејзиниот плод"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "нејзиното добро"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "нејзиното добро"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ние"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "робови"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на неа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:37:37.304499361Z",
+  "model": "glm-5.3"
+}

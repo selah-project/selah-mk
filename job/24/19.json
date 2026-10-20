@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 24:19",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "шеол",
+      "rationale": "שאול не е пекол ниту казна; местото на мртвите, оставено како шеол"
+    },
+    {
+      "kind": "elision",
+      "subject": "глагол кај שאול",
+      "rationale": "хебрејскиот го испушта глаголот — шеол 'ги краде' оние што згрешиле, како што сушата ги краде снежните води; именска реченица задржана"
+    }
+  ],
+  "translation": "Суша и жега ги крадат водите од снег; шеол — оние што згрешиле.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "413a27be091c0d8942678c66a29ee6385c11d96b0bd12cf7b2ce050ce76ee944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/24\/17-20.1792455086897.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ציה",
+      "gloss": "суша"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "חם",
+      "gloss": "жега"
+    },
+    {
+      "surface": "יגזלו",
+      "gloss": "ги крадат"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "водите од"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "снег"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "шеол"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "они што згрешиле"
+    }
+  ],
+  "timestamp": "2026-10-20T00:11:26.898831475Z",
+  "model": "glm-5.3"
+}

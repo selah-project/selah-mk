@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 23:12",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "во совршенство",
+      "rationale": "מכלול 'совршеност\/сја' — буквалната слика 'облечени во совршенство' е задржана наместо 'раскошно облечени'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכלול",
+      "rationale": "зборот се јавува речиси само тука во оваа употреба како облека"
+    }
+  ],
+  "translation": "По синовите Ашур копнееше — намесници и великодостојници, соседи, облечени во совршенство, коњаници што јаваат коњи, млади мажи на пожелување — сите тие.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dc21e0187a7ca853f35db5e16754a7d74f43eac680d31f9ed9ca6c7f9bc4aac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/23\/9-12.1792451647019.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "По"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "עגבה",
+      "gloss": "копнееше"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "намесници"
+    },
+    {
+      "surface": "וסגנים",
+      "gloss": "и великодостојници"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "соседи"
+    },
+    {
+      "surface": "לבשי",
+      "gloss": "облечени"
+    },
+    {
+      "surface": "מכלול",
+      "gloss": "во совршенство"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "коњаници"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "што јаваат"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "коњи"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "млади мажи"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "на пожелување"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "сите тие"
+    }
+  ],
+  "timestamp": "2026-10-19T23:14:07.021054402Z",
+  "model": "glm-5.3"
+}

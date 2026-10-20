@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 29:2",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨го⟩ \/ ⟨тоа⟩",
+      "rationale": "Македонскиот бара предмет и сврзник што хебрејскиот ги испушта."
+    },
+    {
+      "kind": "crux",
+      "subject": "כאריאל",
+      "rationale": "„Како Ариел“ — или повторно името, или „како огниште на жртвеник“ (градот ќе стане жртва на оган); задржано буквално."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תאניה ואניה",
+      "rationale": "Рима\/игра на зборови тагата-стенењето, делично пренеслива и на македонски."
+    }
+  ],
+  "translation": "И ќе ⟨го⟩ ставам во теснина Ариел, и ќе биде ⟨тоа⟩ тага и стенење; и ќе ми биде како Ариел.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "217386adc6eda6c3d147d3479c38d8cb6d699a62d33bf4d1013a8dd528243e47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/29\/1-4.1792449914218.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והציקותי",
+      "gloss": "ќе ставам во теснина"
+    },
+    {
+      "surface": "לאריאל",
+      "gloss": "Ариел"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "תאניה",
+      "gloss": "тага"
+    },
+    {
+      "surface": "ואניה",
+      "gloss": "стенење"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "כאריאל",
+      "gloss": "како Ариел"
+    }
+  ],
+  "timestamp": "2026-10-19T22:45:14.221012586Z",
+  "model": "glm-5.3"
+}

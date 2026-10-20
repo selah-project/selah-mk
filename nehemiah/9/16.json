@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "го вкочанија вратот свој",
+      "rationale": "ויקשו את ערפם — букв. 'го направија тврд ⟨את⟩ тилот'; ערף е тил, задниот дел на вратот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "се надуле",
+      "rationale": "הזידו — од זוד 'врие', преносно 'беа дрски\/надуени'"
+    }
+  ],
+  "translation": "Но тие и нашите татковци се надуле, и го вкочанија ⟨את⟩ вратот свој, и не послушаа во твоите заповеди.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ad5aa74b501354e5c5559b9518269c92666a5586cf26d15d6de05129678ce5a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/9\/13-16.1792456649818.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "но тие"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "и нашите татковци"
+    },
+    {
+      "surface": "הזידу",
+      "gloss": "се надуле"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "и вкочанија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "вратот свој"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "вратот свој"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "послушаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "твоите заповеди"
+    }
+  ],
+  "timestamp": "2026-10-20T00:37:29.820577015Z",
+  "model": "glm-5.3"
+}

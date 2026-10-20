@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 7:2",
+  "book": "hosea",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובל יאמרו",
+      "rationale": "„И не си велат” (негација на обичај) наспроти JPS „и нека не велат” (забрана); сегашниот опис е повеќето читање."
+    },
+    {
+      "kind": "addition",
+      "subject": "го \/ ги",
+      "rationale": "Македонскиот двоен предметен клитички залог што хебрејскиот го носи во конструкцијата."
+    }
+  ],
+  "translation": "И не си велат во срцата: сето нивно зло Јас го помнам; сега нивните дела ги опколија, спроти лицето Мое беа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "abe1c559178e2b65b2256ebbbe35a4c6b324685f05d2e38ce21b3603d94dccc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/hosea\/7\/1-4.1792452248900.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "велат"
+    },
+    {
+      "surface": "ללבבם",
+      "gloss": "во срцата свои"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сето"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "нивното зло"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "Јас помнам"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сега"
+    },
+    {
+      "surface": "סבבום",
+      "gloss": "ги опколија"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "нивните дела"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "היו",
+      "gloss": "беа"
+    }
+  ],
+  "timestamp": "2026-10-19T23:24:08.901595187Z",
+  "model": "glm-5.3"
+}

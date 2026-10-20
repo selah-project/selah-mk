@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 45:17",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до браќата на Јосеф",
+      "rationale": "Фараон directives накажани преку Јосеф до браќата — повеќе императиви."
+    },
+    {
+      "kind": "substitution",
+      "subject": "добиток",
+      "rationale": "בעיר е стока\/добиток за носење товар, не само 'говеда'."
+    }
+  ],
+  "translation": "И Фараон рече на Јосеф: Кажи им на браќата ти: Ова направете — натоварте ги ⟨את⟩ добитокот ваш и одете, влезете во земјата Кенаан —",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "85b59f09f521293df9aa691ac84718562a7c4315f97853f3a3f08c4ee78481c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/45\/17-20.1792443262716.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Кажи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "браќата ти"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направете"
+    },
+    {
+      "surface": "טענו",
+      "gloss": "натоварте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "добитокот ваш"
+    },
+    {
+      "surface": "בעירכם",
+      "gloss": "добитокот ваш"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "и одете"
+    },
+    {
+      "surface": "באו",
+      "gloss": "влезете"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    }
+  ],
+  "timestamp": "2026-10-19T20:54:22.721074980Z",
+  "model": "glm-5.3"
+}

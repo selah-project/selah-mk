@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 107:38",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "македонскиот го бара клитикото за објект кај 'добитокот'"
+    }
+  ],
+  "translation": "И ги благослови, и се умножија мошне, и добитокот нивни не го намали.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0a76bb418e8ac9b7fcc85f1f000cf59f3a68eece92414ddbfee56ba39d3661e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/107\/37-40.1792453864879.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "и ги благослови"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "и се умножија"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "мошне"
+    },
+    {
+      "surface": "ובהמתם",
+      "gloss": "и добитокот нивни"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "го намали"
+    }
+  ],
+  "timestamp": "2026-10-19T23:51:04.880243169Z",
+  "model": "glm-5.3"
+}

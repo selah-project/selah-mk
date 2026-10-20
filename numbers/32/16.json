@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 32:16",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לטפנו \/ טף",
+      "rationale": "„нашите мали деца“ — збор што значи „патека\/семејство“ употребен за малечките, задржано сликовно"
+    }
+  ],
+  "translation": "И му пријдоа и рекоа: оградишта за стадата ќе изградиме тука за нашиот добиток, и градови за нашите деца.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "3a29fbc8cdf84ceac309a812ce094a344d02affbc3b6fab5fe33059a49294397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/32\/14-16.1792447763646.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגשו",
+      "gloss": "И му пријдоа"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоа"
+    },
+    {
+      "surface": "גדרת",
+      "gloss": "оградишта"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "за стадата"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "ќе изградиме"
+    },
+    {
+      "surface": "למקננו",
+      "gloss": "за нашиот добиток"
+    },
+    {
+      "surface": "פה",
+      "gloss": "тука"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "и градови"
+    },
+    {
+      "surface": "לטפנו",
+      "gloss": "за нашите деца"
+    }
+  ],
+  "timestamp": "2026-10-19T22:09:23.652153327Z",
+  "model": "glm-5.3"
+}

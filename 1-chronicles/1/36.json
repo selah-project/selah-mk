@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Тимна и Амалек",
+      "rationale": "во Битие 36:12 Тимна е наложница на Елифаз и мајка на Амалек, а тука стои како „син“ во списокот"
+    }
+  ],
+  "translation": "Синовите на Елифаз: Теман, Омар, Цфи, Гатам, Кназ, Тимна и Амалек.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "58bfa9bacaa49ccf42583cec363483557f06b36985c4fa19cf5e74c1b6e79422",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/1\/33-36.1792456779278.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовите"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "на Елифаз"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Теман"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "и Омар"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "Цфи"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "и Гатам"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кназ"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "и Тимна"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "и Амалек"
+    }
+  ],
+  "timestamp": "2026-10-20T00:39:39.278946962Z",
+  "model": "glm-5.3"
+}

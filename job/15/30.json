@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "на устата неговата",
+      "rationale": "פיו буквално „неговата уста“ — на безбожникот или на Елохим; традицијата често го чита како Божјата уста."
+    },
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "רוח се чува како руах — здив\/ветер\/Дух во еден збор."
+    }
+  ],
+  "translation": "Не ќе се оддели од темнината; пламенот ќе го исуши изданокот негов, и ќе биде однесен со руах на устата неговата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a8bcaa390c87ce71762439cbb59e98dc614e067ab78b1cb4c970a6b4c74fa02f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/15\/29-32.1792455027555.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ќе се оддели"
+    },
+    {
+      "surface": "מני",
+      "gloss": "од"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "темнината"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "изданокот негов"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "ќе го исуши"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "пламенот"
+    },
+    {
+      "surface": "ויסור",
+      "gloss": "и ќе биде однесен"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "со руах"
+    },
+    {
+      "surface": "фיו",
+      "gloss": "на устата неговата"
+    }
+  ],
+  "timestamp": "2026-10-20T00:10:27.556093266Z",
+  "model": "glm-5.3"
+}

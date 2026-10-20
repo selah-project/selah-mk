@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Хебрејскиот нема глагол; „таа — градот Давидов“ е именска реченица."
+    }
+  ],
+  "translation": "И го зеде Давид ⟨את⟩ тврдината Цион — таа ⟨е⟩ градот на Давид.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e1e995a1de823661c902b10a55c0fdbca04190d70e80966317b243d9b8a4e588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/5\/5-8.1792448086487.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "И го зеде"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тврдината"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "тврдината"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "היא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-10-19T22:14:46.488748029Z",
+  "model": "glm-5.3"
+}

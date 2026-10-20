@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 44:24",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Тори",
+      "rationale": "תורתי е „Моето Тора\/поуки“, не „закон“"
+    }
+  ],
+  "translation": "И во спор тие ќе застанат да судат — со Моите судови ќе пресудуваат; и ⟨את⟩ Моите Тори и ⟨את⟩ Моите наредби во сите Мои определени празници ќе ги пазат, и ⟨את⟩ Моите шабати ќе ги осветуваат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7ab6c9c89820e84f6d4d11774b0556f74dd025635a126514b61ea4e8abfd18a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/44\/21-24.1792452067497.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "И во"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "спор"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ќе застанат"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "да судат"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "со Моите судови"
+    },
+    {
+      "surface": "ושפטהו",
+      "gloss": "ќе пресудуваат"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Моите Тори"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Моите Тори"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Моите наредби"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "Моите наредби"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во сите"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "Мои определени празници"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ќе ги пазат"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Моите шабати"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "Моите шабати"
+    },
+    {
+      "surface": "יקדשו",
+      "gloss": "ќе ги осветуваат"
+    }
+  ],
+  "timestamp": "2026-10-19T23:21:07.498998312Z",
+  "model": "glm-5.3"
+}

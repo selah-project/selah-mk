@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "לצדק е даден како цел на владеењето — „за цедек“ — не како придавка на царот, како во повеќето преводи."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימלך מלך",
+      "rationale": "истиот корен מלך двапати — „цар ќе царува“ — повторувањето се губи во преводите со „ regal“"
+    }
+  ],
+  "translation": "Ете, цар ќе царува за цедек, и кнезовите за суд ќе владеат.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "05fcd370f2b52b8a124c7aa18890659c4680642e1a15d7bf4beb4076bdae0ce1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/32\/1-4.1792449945629.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ете"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "за цедек"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ќе царува"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "и кнезовите"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "за суд"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "ќе владеат"
+    }
+  ],
+  "timestamp": "2026-10-19T22:45:45.630698936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "брат за неволја се раѓа",
+      "rationale": "יולד пасив 'се раѓа' — некои преведуваат 'е роден' како намера, други како судбина."
+    }
+  ],
+  "translation": "Во секое време другарот љуби, и брат за неволја се раѓа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8db65f0a543b42cbc2ca31b833896623203c0200c30ba7d4ae3dda3fd37d4705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/17\/17-20.1792454574883.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Во секое"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "љуби"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "другарот"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "и брат"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "за неволја"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "се раѓа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:02:54.884376311Z",
+  "model": "glm-5.3"
+}

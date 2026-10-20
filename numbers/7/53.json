@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 7:53",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот ги нема глаголот ⟨е⟩ во оваа номинална реченица"
+    },
+    {
+      "kind": "measurement",
+      "subject": "жртвени броеви",
+      "rationale": "бројот на секој вид жртва е наброен: два, пет, пет, пет"
+    }
+  ],
+  "translation": "И за жртва на мирните принесувања: два вола, пет елени, пет јариња, пет јагиња на една година — ова ⟨е⟩ жртвата на Елишама, синот на Амиуд.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "18c1efa408c04988c53a80acfadcf5b7c39eec59cbae4805606937c87a790bea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/7\/53-56.1792444689346.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "и за жртва"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "на мирните"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "волови"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "елени"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "јариња"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "јагиња"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "една година"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "жртвата"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Елишама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "на Амиуд"
+    }
+  ],
+  "timestamp": "2026-10-19T21:18:09.346958665Z",
+  "model": "glm-5.3"
+}

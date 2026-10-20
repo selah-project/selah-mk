@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "окото нека не жали",
+      "rationale": "Hebrew 'да не жали окото' = не<gloss id=\"97\" tail>т<gloss id=\"99\" tail>р<gloss id=\"101\" tail>г<gloss id=\"103\" tail>а за предметите."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ствари",
+      "rationale": "כלים значи опрема, садови, имот — 'ствари\/имот'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Хебрејскиот ги става локусот 'ваше тоа е' без глагол; македонскиот бара копула."
+    }
+  ],
+  "translation": "И окото ваше нека не жали за ништо од стварите ваши, зашто доброто на целата земја Мицраим ваше ⟨е⟩.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "85b59f09f521293df9aa691ac84718562a7c4315f97853f3a3f08c4ee78481c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/45\/17-20.1792443262716.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "И окото ваше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "нали"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "стварите ваши"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "доброто"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на целата"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земја"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ваше"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨е⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T20:54:22.724823178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 46:9",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Израел",
+      "rationale": "Императив „Помнете“ упатен кон слушателите"
+    },
+    {
+      "kind": "crux",
+      "subject": "אפס כמוני",
+      "rationale": "„и нема ништо како мене“ — констатација дека ништо не Му е еднакво"
+    }
+  ],
+  "translation": "Помнете ⟨ ги ⟩ првите нешта одамна, зашто јас сум Ел и нема друг, Елохим — и нема ништо како мене.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "8555de819c89b8125b99c8ab018794a5c6154e0a44f7933e68869a4a3433192a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/46\/9-12.1792450139298.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Помнете"
+    },
+    {
+      "surface": "ראשנות",
+      "gloss": "првите нешта"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "одамна"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "друг"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "и нема ништо"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "како мене"
+    }
+  ],
+  "timestamp": "2026-10-19T22:48:59.298763094Z",
+  "model": "glm-5.3"
+}

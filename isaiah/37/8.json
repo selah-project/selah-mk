@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "како",
+      "rationale": "македонскиот бара начин за учеството во состојба 'најде го како војува'"
+    }
+  ],
+  "translation": "И се врати Равшаке, и го најде ⟨את⟩ царот ашурски како војува против Ливна, зашто чу дека кренал од Лахиш.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "2ca2338badd94f8b47809a6d61a4c5f6f781f3ab8078952206cfafe550a56284",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/37\/5-8.1792450019526.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и се врати"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Рав-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "шаке"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "и го најде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "царот ашурски"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "војува"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Ливна"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "кренал"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "од Лахиш"
+    }
+  ],
+  "timestamp": "2026-10-19T22:46:59.529688467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שממה\/חרבה",
+      "rationale": "двојно завршување со рима пустина\/запустени — пустош на земјата и градовите, звучната рамнотежа се губи во преводот"
+    }
+  ],
+  "translation": "А ⟨את⟩ вас ќе ве растерам меѓу народите и ќе го извлечам мечот по вас; и ќе биде земјата ваша пустина, и градовите ваши ќе бидат запустени.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1a60109d385c2524203e8f8993a72028f14591c3e3cdd3df314f22158dba0f2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/26\/33-36.1792444542722.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "ќе ве растерам"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "меѓу народите"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "и ќе го извлечам"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "по вас"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мечот"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "земјата ваша"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "пустина"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "и градовите ваши"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ќе бидат"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "запустени"
+    }
+  ],
+  "timestamp": "2026-10-19T21:15:42.724001970Z",
+  "model": "glm-5.3"
+}

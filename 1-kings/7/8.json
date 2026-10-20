@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 7:8",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מבית לאולם",
+      "rationale": "буквално 'од домот кон тремот' — дали другиот двор е 'во' домот (KJV 'within') или 'зад' него."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Шеломо",
+      "rationale": "хебрејскиот звук на името, не традиционалното 'Соломон'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨имаше⟩",
+      "rationale": "хебрејскиот е без глагол 'има' — македонскиот бара глаголска градба."
+    }
+  ],
+  "translation": "И неговиот дом, каде што живееше ⟨таму⟩ ⟨имаше⟩ друг двор, зад домот, до тремот — какво ова дело беше; и дом направи за ќерката на Фараон, кого Шеломо ја зеде, како овој трем.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "80774aa0fc9c3e3325445f167fc38a2066a4e349aecdf7eb791a0d16eb22e95e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/7\/5-8.1792448653325.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביתו",
+      "gloss": "И неговиот дом"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "каде што"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "живееше"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨таму⟩"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "двор"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "друг"
+    },
+    {
+      "surface": "мבית",
+      "gloss": "зад домот"
+    },
+    {
+      "surface": "לאולם",
+      "gloss": "до тремот"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "какво дело"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и дом"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "за ќерката"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "на Фараон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кого"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ја зеде"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "כאולם",
+      "gloss": "како трем"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    }
+  ],
+  "timestamp": "2026-10-19T22:24:13.327080083Z",
+  "model": "glm-5.3"
+}

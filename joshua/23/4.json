@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 23:4",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "заодот на сонцето",
+      "rationale": "מבוא השמש — буквално „влезот\/залезот на сонцето“, односно запад"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Видете",
+      "rationale": "императив со кој Јехошуа ги повикува слушателите"
+    },
+    {
+      "kind": "measurement",
+      "subject": "од Јарден до Големото море",
+      "rationale": "просторна одредница на наследството"
+    }
+  ],
+  "translation": "Видете, јас ви разредив ⟨את⟩ овие народи што останаат за наследство на вашите племиња, од Јарден па сите народи што ги истробав, до Големото море, заодот на сонцето.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "8c2f9da2dec990b34a449ef06ca44ce1e4510c6ac9bb0075ecde4b755cf3c926",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/23\/1-4.1792446240555.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Видете"
+    },
+    {
+      "surface": "הפלתי",
+      "gloss": "разредив"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "овие народи"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "што останаат"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "за наследство"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "на вашите племиња"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Јарден"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "па сите"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "ги истробав"
+    },
+    {
+      "surface": "והים",
+      "gloss": "и морето"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "Големото"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "заодот"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "на сонцето"
+    }
+  ],
+  "timestamp": "2026-10-19T21:44:00.556817007Z",
+  "model": "glm-5.3"
+}

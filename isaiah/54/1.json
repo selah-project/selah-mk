@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 54:1",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "неродна",
+      "rationale": "Ставот ја повикува бездетната жена со императиви — пеј, изби, викај."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רני\/רנה",
+      "rationale": "Истиот корен רנן во императивот и во именката — повторување што го врска повикот со песната."
+    },
+    {
+      "kind": "substitution",
+      "subject": "болова",
+      "rationale": "חלה е свиткување\/труд — македонското 'болова' го задржува сливот на породилните болки."
+    }
+  ],
+  "translation": "Пеј, неродна, што не роди; изби во песна и викај, ти што не болова, зашто повеќе се синовите на запустената отколку синовите на омажената, вели Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "74e26d779e80194a9a4fa85403d49b70e77891d0fd5ff2581ee35a6d8190a6df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/54\/1-4.1792450223154.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רני",
+      "gloss": "Пеј"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "неродна"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "פצחי",
+      "gloss": "изби во песна"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "песна"
+    },
+    {
+      "surface": "וצהלי",
+      "gloss": "и викај"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "болова"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "שוממה",
+      "gloss": "на запустената"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "отколку синовите"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "на омажената"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T22:50:23.155486783Z",
+  "model": "glm-5.3"
+}

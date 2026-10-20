@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המצוה והחקים",
+      "rationale": "„заповедта и прописите“ — традиционалните читања: JPS „услови и одредби“, KJV „според законот и обичајот“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "отворената",
+      "rationale": "הגלוי буквално „откриената\/голотата“ — непечaten примерок од документот."
+    }
+  ],
+  "translation": "И зедов ⟨את⟩ книгата за купувањето — ⟨את⟩ запечатаната, со заповедта и прописите, и ⟨את⟩ отворената.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9b7130a7a1fb998a91b06686f9feb93646dac819e4c468f281bb9b957b223478",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/32\/9-12.1792450846279.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "и зедов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "книгата за купувањето"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книгата"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "за купувањето"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "запечатаната"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "запечатаната"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "заповедта"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "и прописите"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "отворената"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "отворената"
+    }
+  ],
+  "timestamp": "2026-10-19T23:00:46.281324537Z",
+  "model": "glm-5.3"
+}

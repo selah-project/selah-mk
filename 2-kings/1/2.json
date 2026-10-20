@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 1:2",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨соба⟩",
+      "rationale": "בעליתו е 'горната (соба)' — македонскиот бара именката."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨бееше⟩",
+      "rationale": "хебрејскиот релативен ред нема копула."
+    },
+    {
+      "kind": "substitution",
+      "subject": "богот",
+      "rationale": "אלהי со мал б за лажниот бог на Екрон — не Елохим, туку обичен бог."
+    }
+  ],
+  "translation": "И Ахазија падна низ решетката во горната ⟨соба⟩ што ⟨бееше⟩ во Шомрон, и се разболе, и прати гласници, и им рече: Одете, прашувајте кај Баал-Зевув, богот на Екрон, дали ќе оздравеам од оваа болест.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "d4da3ecf09d8dbc7bdf118ca2bc3fa1fec0e9896447a31ce38e7567052c5a331",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/1\/1-4.1792449100325.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "падна"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "Ахазија"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "низ"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "решетката"
+    },
+    {
+      "surface": "בעליתו",
+      "gloss": "во горната ⟨соба⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "во Шомрон"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "и се разболе"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и прати"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "гласници"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и им рече"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Одете"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "прашувајте"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "кај Баал-"
+    },
+    {
+      "surface": "זבוב",
+      "gloss": "Зевув"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "богот"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "на Екрон"
+    },
+    {
+      "surface": "אם",
+      "gloss": "дали"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ќе оздравеам"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "од болест"
+    },
+    {
+      "surface": "זה",
+      "gloss": "оваа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:31:40.327346927Z",
+  "model": "glm-5.3"
+}

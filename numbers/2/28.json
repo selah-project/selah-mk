@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 2:28",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨од нив⟩",
+      "rationale": "Хебрејскиот кажува само ‘и преброените нивни’"
+    },
+    {
+      "kind": "measurement",
+      "subject": "41.500",
+      "rationale": "Бројот на војската на Ашер, напишан со цели зборови како хебрејскиот"
+    }
+  ],
+  "translation": "и неговата војска и преброените ⟨од нив⟩ — четириесет и една илијада и петстотини.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a26588904bf7f11957b1aa1b613ef6586b68311a94ea9d85df61f08b703f5844",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/2\/25-28.1792444590721.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "и неговата војска"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "и преброените"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "една"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "и четириесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илијади"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "и пет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотини"
+    }
+  ],
+  "timestamp": "2026-10-19T21:16:30.723412801Z",
+  "model": "glm-5.3"
+}

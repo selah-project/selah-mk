@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "мשבת",
+      "rationale": "инфинитивната конструкција „од седењето во Шхем“ — буквално „да не седат во Шхем“"
+    }
+  ],
+  "translation": "И Авимелех седнаше во Арума, а Зевул ги протера ⟨את⟩ Гаал и ⟨את⟩ братата негови од седењето во Шхем.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "013d7fd54006395a363c44bd2f157341aea92eebc0d17cbb668ec2292a311a83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/9\/41-44.1792446462042.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "седнаше"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "во Арума"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "ги протера"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Зевул"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гаал"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Гаал"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "братата негови"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "братата негови"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "од седењето"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "во Шхем"
+    }
+  ],
+  "timestamp": "2026-10-19T21:47:42.042785966Z",
+  "model": "glm-5.3"
+}

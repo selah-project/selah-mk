@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 2:18",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "раката на Елохим",
+      "rationale": "יד е слика за моќ и покровителство, не телесен орган"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טובה … לטובה",
+      "rationale": "Двојно 'добро' во еден стих — добрата рака на Елохим и доброто дело — повторување видливо и во македонскиот"
+    },
+    {
+      "kind": "addition",
+      "subject": "дело",
+      "rationale": "לטובה е само 'за доброто'; 'дело' е додадено за читливост"
+    }
+  ],
+  "translation": "И им ја објавив ⟨את⟩ раката на Елохим мојот, дека е добра врз мене, а и зборовите на царот што ми ги рече; и рекоа: Да станеме и да градиме! И ги зацврстија рацете свои за доброто дело.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9e33d046a47d82ea6f36e9c7c3feda24e8101225ff898250dfcfc3785a1a93cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/2\/17-20.1792456495783.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "И објавив"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "раката"
+    },
+    {
+      "surface": "יד",
+      "gloss": "раката"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "на Елохим мојот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "дека"
+    },
+    {
+      "surface": "היא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "врз мене"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "а и"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "зборовите"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоа"
+    },
+    {
+      "surface": "נקום",
+      "gloss": "Да станеме"
+    },
+    {
+      "surface": "ובנינו",
+      "gloss": "и да градиме"
+    },
+    {
+      "surface": "ויחזקו",
+      "gloss": "И ги зацврстија"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "рацете свои"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "за доброто"
+    }
+  ],
+  "timestamp": "2026-10-20T00:34:55.784318294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "возвратам",
+      "rationale": "ואשלמה од שלם — 'да им го вратам цело', воздадам; когатив 'ќе им го платам'"
+    }
+  ],
+  "translation": "А ти, Јахве, смилувај ми се и подигни ме, и ќе им возвратам ним.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "fd4a393a7a8fb0e0c383820ad07bde823acd1d499ac584924b4a22bac82110a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/41\/9-12.1792453263227.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "смилувај ми се"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "и подигни ме"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "ќе им возвратам"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ним"
+    }
+  ],
+  "timestamp": "2026-10-19T23:41:03.228430920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 28:22",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עשר ... אעשרנו",
+      "rationale": "инфинитивен апсолутен — „десет delejќи ќе десетам“ — сигурност на давањето десеттина, тешко предвидливо на македонски"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "Јааков се обраќа директно кон Јахве: „ќе ти го десетам“"
+    }
+  ],
+  "translation": "и овој камен што го поставив за спомен-столб ќе биде дом на Елохим; и од сето она што ќе ми дадеш — десет делењќи ќе ти го десетам.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "17b557a53ce02ef6c3953f7a4cc97edeb32aa9a24b3784e647edbce45966ca7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/28\/21-22.1792442858677.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאבן",
+      "gloss": "и овој камен"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овој"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "го поставив"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "за спомен-столб"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и од сето"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ќе дадеш"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десет делејќи"
+    },
+    {
+      "surface": "אעשרנו",
+      "gloss": "ќе го десетам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-10-19T20:47:38.678657281Z",
+  "model": "glm-5.3"
+}

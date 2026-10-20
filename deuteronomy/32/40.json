@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אשא ידי",
+      "rationale": "кревање рака кон небо — свечена заклетвена поза"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חי אנכי",
+      "rationale": "формулата на заклетва „Жив сум јас“ — Јахве се колне во себеси, нема повисок"
+    }
+  ],
+  "translation": "Зашто ја кревам кон небесата раката своја и велам: Жив јас, навеки!",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1587efc7bb06a7ec286b79766b3718ac91eb5701e7edb39f3647766155d4c912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/32\/37-40.1792445822986.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "кревам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "раката своја"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "и велам"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "навеки"
+    }
+  ],
+  "timestamp": "2026-10-19T21:37:02.987504762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רבה",
+      "rationale": "«Раба» — «голем\/значаен» како придавка за Цидон; некои го читаат како самостојна одредница «големиот Цидон» наспроти помали места со исто име"
+    },
+    {
+      "kind": "measurement",
+      "subject": "границата",
+      "rationale": "Завршеток на списокот гранични точки на Асир"
+    }
+  ],
+  "translation": "и Еврон и Рехов и Хамон и Кана, до големиот Цидон.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "7e5af7e62833d735835827018f1a1157f9ec4dd88ca9dcf004c8197f1ff0e6a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/19\/25-28.1792446187500.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "и Еврон"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "и Рехов"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "и Хамон"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "и Кана"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Цидон"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "големиот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:43:07.501433832Z",
+  "model": "glm-5.3"
+}

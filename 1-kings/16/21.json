@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 16:21",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "македонскиот бара директен предмет со заменка, хебрејскиот ја носи во наставката на להמליכו"
+    },
+    {
+      "kind": "measurement",
+      "subject": "половина",
+      "rationale": "стихот го дели народот на две половини"
+    }
+  ],
+  "translation": "Тогаш народот Јисраел се раздели на половина: половината од народот беше зад Тивни, синот на Гинат, за да го воведат ⟨е⟩ како цар, а половината зад Омри.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "06155c771c8de5e0cb8f0d4ea817baa203d6fecccb8bb7a4301e79946d661f61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/16\/21-24.1792448919380.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тогаш"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "се раздели"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "לחצי",
+      "gloss": "на половина"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "половината"
+    },
+    {
+      "surface": "העם",
+      "gloss": "од народот"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "зад"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Тивни"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "на Гинат"
+    },
+    {
+      "surface": "להמליכו",
+      "gloss": "за да го воведат како цар"
+    },
+    {
+      "surface": "והחצי",
+      "gloss": "а половината"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "зад"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Омри"
+    }
+  ],
+  "timestamp": "2026-10-19T22:28:39.381876635Z",
+  "model": "glm-5.3"
+}

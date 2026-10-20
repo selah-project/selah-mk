@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 10:2",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד е оставено како 'хесед' — еден збор за верност-добрина, не само 'милост'."
+    },
+    {
+      "kind": "elision",
+      "subject": "ביד",
+      "rationale": "Хебрејскиот 'пеку раката на' е слеен во 'пеку' во македонскиот."
+    }
+  ],
+  "translation": "И рече Давид: Ќе сторам хесед со Ханун, синот на Нахаш, како што стори татко ми… како што татко му стори хесед со мене. И Давид испрати да го утешат преку слугите негови за татко му. И дојдоа слугите Давидови во земјата на синовите Амонови.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "335ae3ebed060cd4537d3415e3503f73cbaaad6c0c9e77a50136ad84a49638cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/10\/1-4.1792448204786.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "Ќе сторам"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Ханун"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Нахаш"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "стори"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "татко му"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "со мене"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "И испрати"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לנחמו",
+      "gloss": "да го утешат"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "пеку"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "слугите негови"
+    },
+    {
+      "surface": "אל",
+      "gloss": "за"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "татко му"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "И дојдоа"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слугите"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидови"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амонови"
+    }
+  ],
+  "timestamp": "2026-10-19T22:16:44.789423333Z",
+  "model": "glm-5.3"
+}

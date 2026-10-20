@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שבלול",
+      "rationale": "Полжав — се јавува само тука во Танахот; сликата: се топи во сопствената слуз додека оди."
+    },
+    {
+      "kind": "crux",
+      "subject": "תמס יהלך",
+      "rationale": "Се топи-оди: или полжавот се растопува додека се движи, или човек поминува како нешто што се топи."
+    },
+    {
+      "kind": "substitution",
+      "subject": "мртвородено дете",
+      "rationale": "נפל е „она што падна“ — спонтан абортус, одбиено од мајката пред да види светлина."
+    }
+  ],
+  "translation": "Како полжав што се топи, така нека оди; како мртвородено дете на жена — не го видоа сонцето.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/58\/9-12.1792453401532.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "како"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "полжав"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "се топи"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "мртвородено дете"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "на жена"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "го видоа"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "сонцето"
+    }
+  ],
+  "timestamp": "2026-10-19T23:43:21.533439654Z",
+  "model": "glm-5.3"
+}

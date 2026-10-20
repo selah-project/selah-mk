@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 7:19",
+  "book": "ezra",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השלם",
+      "rationale": "„предај цели\/исполнети“ (ylt: make perfect) наспроти „предај“ (KJV\/JPS); коренот שלم носи целост"
+    },
+    {
+      "kind": "you",
+      "subject": "Ездра",
+      "rationale": "директна наредба од указот на Артаксеркс упатена до Ездра"
+    }
+  ],
+  "translation": "И садовите што ти се предадени за служба на домот на твојот Елохим, предај ги пред Елохим на Јерушалаим.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "963eaf0fd1fa088118e579cd4978cde17196d3d2fb590b6ad73a3343c64d4f44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezra\/7\/17-20.1792456395835.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאניא",
+      "gloss": "и садовите"
+    },
+    {
+      "surface": "די",
+      "gloss": "што"
+    },
+    {
+      "surface": "מתיהבין",
+      "gloss": "се предадени"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לפלחן",
+      "gloss": "за служба"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на домот"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "на твојот Елохим"
+    },
+    {
+      "surface": "השלם",
+      "gloss": "предај цели"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "пред"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "на Јерушалаим"
+    }
+  ],
+  "timestamp": "2026-10-20T00:33:15.836109784Z",
+  "model": "glm-5.3"
+}

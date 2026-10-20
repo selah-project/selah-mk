@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 12:22",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨беше⟩",
+      "rationale": "Копула додадена, хебрејскиот само вели חי (живо)"
+    },
+    {
+      "kind": "crux",
+      "subject": "מי יודע",
+      "rationale": "„Кој знае“ — отворена несигурност; традицијата често додавa „дали“ и ја претвора во надеж, а хебрејскиот останува двосмислен"
+    },
+    {
+      "kind": "mystery",
+      "subject": "מי יודע",
+      "rationale": "Давид гласно држи отворено прашање дали Јахве ќе се смилува — намерно нерешено"
+    }
+  ],
+  "translation": "И рече: Додека детето ⟨беше⟩ живо, постев и плачев, зашто реков: Кој знае? Јахве да ми се смилува, и детето ќе поживее.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dfde4022aeb08b15841ae608918401bac5723013a4fc497d7829c9b1b601fb23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/12\/21-22.1792458006119.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "Додека"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "детето"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живо"
+    },
+    {
+      "surface": "צמתי",
+      "gloss": "постев"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "и плачев"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "реков"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Кој"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "יחנני",
+      "gloss": "да ми се смилува"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "и ќе поживее"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "детето"
+    }
+  ],
+  "timestamp": "2026-10-20T01:00:06.120640696Z",
+  "model": "glm-5.3"
+}

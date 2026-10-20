@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 7:32",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ידות",
+      "rationale": "буквално „раце“ на тркалата — KJV\/ASV „оски“, задржано сликата „држки“"
+    },
+    {
+      "kind": "addition",
+      "subject": "беа",
+      "rationale": "македонскиот бара помошен глагол"
+    },
+    {
+      "kind": "measurement",
+      "subject": "висина на тркалото",
+      "rationale": "мерка: една и половина лакот"
+    }
+  ],
+  "translation": "И четирите тркала беа под рамките, а држките на тркалата — во подножјето; и висината на едното тркало една лакот и половина лакот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "7aa9eb00715aff3dd39edf6a0ecc6048e80fab1c215b20abe1a1f8d33ffec6a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/7\/29-32.1792448652641.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעת",
+      "gloss": "и четирите"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "тркала"
+    },
+    {
+      "surface": "למתחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "למסגרות",
+      "gloss": "рамките"
+    },
+    {
+      "surface": "וידות",
+      "gloss": "а држките"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "на тркалата"
+    },
+    {
+      "surface": "במכונה",
+      "gloss": "во подножјето"
+    },
+    {
+      "surface": "וקומת",
+      "gloss": "и висината"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "на тркалото"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "едното"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "една лакот"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "и половина"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "лакот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:24:12.643348272Z",
+  "model": "glm-5.3"
+}

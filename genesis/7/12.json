@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "четириесет дена и четириесет ноќи",
+      "rationale": "точна бројка на траењето на дождот"
+    }
+  ],
+  "translation": "И дождот беше врз земјата четириесет дена и четириесет ноќи.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "1517930cbdce0b6e78836d467255734e92ce3af7268d11c0762735b8f7cc4483",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/7\/9-12.1792442430674.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "дождот"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четириесет"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дена"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "и четириесет"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноќи"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:30.676185351Z",
+  "model": "glm-5.3"
+}

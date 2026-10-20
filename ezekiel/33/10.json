@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 33:10",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "дека",
+      "rationale": "македонскиот бара сврзник меѓу 'велите' и содржината на говорот"
+    },
+    {
+      "kind": "you",
+      "subject": "до Езекиил, за домот на Јисраел",
+      "rationale": "директна наредба до синот човечки"
+    },
+    {
+      "kind": "invitation",
+      "subject": "како ќе живееме?",
+      "rationale": "прашањето на народот е реторичка кратенка што ја отвора одговорната изрека во 33:11"
+    }
+  ],
+  "translation": "И ти, сину човечки, кажи на домот на Јисраел: Вака велите вие: 我们的…",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f49f1015348bd111c0937e45081377b928f615b36e8a8015f196e231b5c777db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/33\/9-12.1792451925190.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "И ти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сину"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечки"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "кажи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Вака"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "велите"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дека"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "Нашите бунтови"
+    },
+    {
+      "surface": "וחטאתינו",
+      "gloss": "и нашите гревови"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "се врз нас"
+    },
+    {
+      "surface": "ובם",
+      "gloss": "и во нив"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ние"
+    },
+    {
+      "surface": "נמקים",
+      "gloss": "се топиме"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "а како"
+    },
+    {
+      "surface": "נחיה",
+      "gloss": "ќе живееме"
+    }
+  ],
+  "timestamp": "2026-10-19T23:18:45.191060185Z",
+  "model": "glm-5.3"
+}

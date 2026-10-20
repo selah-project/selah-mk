@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 3:3",
+  "book": "nahum",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לגויה \/ בגויתם",
+      "rationale": "Игра на зборовите гвија — гвијотам: 'телата ... во нивните тела', звукова рамка на стихот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וברק",
+      "rationale": "Буквално 'и светкавица' — сликата е копјето што светка како молња."
+    }
+  ],
+  "translation": "коњаник што се качува, и блесок на меч, и светкавица на копје, и мноштво заклани, и тежина на трупови; и нема крај на телата — се спотацкуваат во нивните тела.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ee5b0555edae6d22289bfdcae4a156201340551aba4dfb5d5b1b5754d31c8cf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nahum\/3\/1-4.1792452640892.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרש",
+      "gloss": "коњаник"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "што се качува"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "и блесок"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "на меч"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "и светкавица"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "на копје"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "и мноштво"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "заклани"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "и тежина"
+    },
+    {
+      "surface": "פגר",
+      "gloss": "на трупови"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "крај"
+    },
+    {
+      "surface": "לגויה",
+      "gloss": "на телата"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "се спотацкуваат"
+    },
+    {
+      "surface": "בגויתם",
+      "gloss": "во нивните тела"
+    }
+  ],
+  "timestamp": "2026-10-19T23:30:40.893545628Z",
+  "model": "glm-5.3"
+}

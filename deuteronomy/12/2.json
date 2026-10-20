@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 12:2",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבד תאבדון",
+      "rationale": "Инфинитивен апсолутен — повторен ист строј, македонскиот го дава со прилоз 'целосно'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "богови",
+      "rationale": "אלהיהם за идолите на народите се мали букви, не Елохим"
+    }
+  ],
+  "translation": "Целосно ќе ги уништите ⟨את⟩ сите места кајшто народите што вие ќе ги истиснете им служеле таму ⟨את⟩ на нивните богови — на високите планини и на ридовите, и под секое зелено дрво.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c95a845d91546d0fddaa56306d1a8dcb889d1538fff03de1eae7ba857884b7aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/12\/1-4.1792445547152.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "целосно"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "ќе ги уништите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите места"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "места"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кајшто"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "им служеле"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "ירשים",
+      "gloss": "ќе ги истиснете"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "на нивните богови"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "на нивните богови"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "на нивните богови"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "планините"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "високите"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ридовите"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "и под"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секое"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "зелено"
+    }
+  ],
+  "timestamp": "2026-10-19T21:32:27.153643653Z",
+  "model": "glm-5.3"
+}

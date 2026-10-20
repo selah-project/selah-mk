@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 1:13",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема глагол-сврзка кај ונגה לאש"
+    },
+    {
+      "kind": "crux",
+      "subject": "היא",
+      "rationale": "таа — што се движи: огнот или изгледот; преводите се делат"
+    }
+  ],
+  "translation": "И likenesата на живите суштества, изгледот им како жарки од оган што горат, како изглед на факли — таа се движи помеѓу живите суштества, и сјај ⟨е⟩ на огнот, и од огнот излегува молња.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a8c9e0f160dee78bde790bcb57615d5c22af6796f99575ccc28fe8336271aff2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/1\/13-16.1792451310395.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "И подобието"
+    },
+    {
+      "surface": "החיות",
+      "gloss": "на живите суштества"
+    },
+    {
+      "surface": "מראיהם",
+      "gloss": "нивниот изглед"
+    },
+    {
+      "surface": "כגחלי",
+      "gloss": "како жарки"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оган"
+    },
+    {
+      "surface": "בערות",
+      "gloss": "што горат"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "како изглед"
+    },
+    {
+      "surface": "הלפדים",
+      "gloss": "на факлите"
+    },
+    {
+      "surface": "היא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "מתהלכת",
+      "gloss": "се движи"
+    },
+    {
+      "surface": "בין",
+      "gloss": "помеѓу"
+    },
+    {
+      "surface": "החיות",
+      "gloss": "живите суштества"
+    },
+    {
+      "surface": "ונגה",
+      "gloss": "и сјај"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "на огнот"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огнот"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "излегува"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "молња"
+    }
+  ],
+  "timestamp": "2026-10-19T23:08:30.395696003Z",
+  "model": "glm-5.3"
+}

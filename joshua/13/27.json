@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 13:27",
+  "book": "joshua",
+  "lang": "mk",
+  "chapter": 13,
+  "translation": "и во долината Бет ха-Рам и Бет Нимра, и Сукот, и Цафон — остатокот од царството на Сихон, царот на Хешвон: ⟨土地⟩",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "aa81e4bc1f6ed07e7f0f47dbaea13e1af424f658a7ea6cafa4a119ac84d2ba6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/joshua\/13\/25-28.1792446080280.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובעמק",
+      "gloss": "и во долината"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "ха-Рам"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и Бет"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "Нимра"
+    },
+    {
+      "surface": "וסכות",
+      "gloss": "и Сукот"
+    },
+    {
+      "surface": "וצפון",
+      "gloss": "и Цафон"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "остатокот"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "од царството"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "на Сихон"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "на Хешвон"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Јарден"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "и границата"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "крајот"
+    },
+    {
+      "surface": "ים",
+      "gloss": "на морето"
+    },
+    {
+      "surface": "כנרת",
+      "gloss": "Кинерет"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "спротивната страна"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "на Јарден"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "кон исток"
+    }
+  ],
+  "timestamp": "2026-10-19T21:41:20.281582569Z",
+  "model": "glm-5.3"
+}

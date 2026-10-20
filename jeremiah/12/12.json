@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 12:12",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשר",
+      "rationale": "„тело\/месо“ буквално — „секој човек“ како слободен превод; ние го чуваме зборот таков каков што е."
+    },
+    {
+      "kind": "measurement",
+      "subject": "од крај до крај на земјата",
+      "rationale": "просторна мерка на тоталност — целата земја од еден до друг крај."
+    }
+  ],
+  "translation": "На сите голи ридови во пустината дојдоа разурнувачи, зашто мечот на Јахве јаде — од крај на земјата до крај на земјата нема мир за ниедно тело.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1569b722d48746dd5808517ab5af8bee91e20db1beed9eeb2356b376e1a815e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/12\/9-12.1792450569533.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "שפים",
+      "gloss": "голи ридови"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "во пустината"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дојдоа"
+    },
+    {
+      "surface": "שדדים",
+      "gloss": "разурнувачи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мечот"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "јаде"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "од крај"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "крај"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "за ниедно"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тело"
+    }
+  ],
+  "timestamp": "2026-10-19T22:56:09.535014598Z",
+  "model": "glm-5.3"
+}

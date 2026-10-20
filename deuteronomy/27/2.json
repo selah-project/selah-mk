@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 27:2",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": " дека",
+      "rationale": "Хебрејскиот користи вау-консекутивум без сврзник; македонскиот бара сврзник за последицата."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשיד",
+      "rationale": "Вар — варен варовник што врие кога се гаси; „малтер“ е функционално, но го губи живото значење на коренот."
+    }
+  ],
+  "translation": "И ќе биде во денот кога ќе преминете ⟨את⟩ Јарден, кон земјата што Јахве, Елохим твој, ти ја дава, дека ќе подигнеш за себе големи камења и ќе ги ⟨את⟩ измалтериш со малтер.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "94e96fb1ff8c31bc936b16b303a1d667fa8d0dbbd8893b8e4cf7c9e1d6634fe5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/27\/1-4.1792445707596.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И ќе биде"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кога"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "ќе преминете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јарден"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Јарден"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дава"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "והקמת",
+      "gloss": "ќе подигнеш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за себе"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "камења"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "големи"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "ќе измалтериш"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ги",
+      "marks": "камењата"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "со малтер"
+    }
+  ],
+  "timestamp": "2026-10-19T21:35:07.597174237Z",
+  "model": "glm-5.3"
+}

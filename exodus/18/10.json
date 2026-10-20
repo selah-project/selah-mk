@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Паро",
+      "rationale": "פרעה — 'Паро' по хебрејскиот звук наспроти вообичаеното 'фараон'"
+    },
+    {
+      "kind": "addition",
+      "subject": "нека е",
+      "rationale": "македонскиот бара копула во благословот"
+    }
+  ],
+  "translation": "И рече Јитро: Благословен нека е Јахве, што ве избави ⟨את⟩ од раката на Мицраим и од раката на Паро; тој што го избави ⟨את⟩ народот изпод раката на Мицраим.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "be8a523eac23e3989da38a0874d638fcdf67d467020eeb4ffbbeb2ede2eb7d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/18\/9-12.1792443595550.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Јитро"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Благословен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "избави"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ве",
+      "marks": "ве (вас)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "од раката"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "на Мицраим"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "и од раката"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "на Паро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "избави"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "изпод"
+    },
+    {
+      "surface": "יד",
+      "gloss": "раката"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "на Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-19T20:59:55.556213935Z",
+  "model": "glm-5.3"
+}

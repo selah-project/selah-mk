@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אי מזה",
+      "rationale": "двоен прашалник 'каде-од ова', букв. 'каде од тоа'"
+    }
+  ],
+  "translation": "И Давид му рече: Од каде доаѓаш? А тој му рече: Од логорот на Јисраел избегав.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b2523e5605e8c22103e24a4a1d85cd601631615a91282690b91f717fd1a73c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/1\/1-4.1792448034963.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Од каде"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "оттаму"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "доаѓаш"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "Од логорот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "избегав"
+    }
+  ],
+  "timestamp": "2026-10-19T22:13:54.984175328Z",
+  "model": "glm-5.3"
+}

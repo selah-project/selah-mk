@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 40:10",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "простории",
+      "rationale": "תאים букв. „ќелии\/соби“; тука простории до портата"
+    },
+    {
+      "kind": "measurement",
+      "subject": "три и три, една мерка",
+      "rationale": "број и мерка на просториите и столбовите"
+    }
+  ],
+  "translation": "И просториите на портата кон исток — три од едната и три од другата страна; една мерка за трите, и една мерка за столбовите од едната и од другата страна.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "76f5ee42bbef492dccbfc26f2ce9efabf819932a6a42836847267b2fe2080f5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/40\/9-12.1792451994859.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאי",
+      "gloss": "и просториите"
+    },
+    {
+      "surface": "השער",
+      "gloss": "на портата"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "кон"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "исток"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "од едната"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "и три"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "од другата"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "мерка"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "לשלשתם",
+      "gloss": "за трите"
+    },
+    {
+      "surface": "ומדה",
+      "gloss": "и мерка"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "за столбовите"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "од едната"
+    },
+    {
+      "surface": "ומפו",
+      "gloss": "и од другата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:19:54.860470981Z",
+  "model": "glm-5.3"
+}

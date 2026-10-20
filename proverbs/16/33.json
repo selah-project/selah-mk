@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨нејзин⟩",
+      "rationale": "македонскиот бара посесивна заменка; хебрејскиот ја има само наставката во משפטו"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ждрепка",
+      "rationale": "הגורל буквално е камче — ждрепка е звукот на фрлањето, не обичниот „избор“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ждрепката",
+      "rationale": "стибот го опишува инструмент за одредување судби — броење\/ждрепка"
+    }
+  ],
+  "translation": "Во недрата се фрла ⟨את⟩ ждрепката, но од Јахве е целиот ⟨нејзин⟩ суд.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3cd67df8c2b1466b247e47f0a57072167f5bc2c2a8d284b67124f5a90e28a1d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/16\/33-33.1792454521312.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "Во недрата"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "се фрла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ждрепката"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ждрепката"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "но од Јахве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "⟨нејзин⟩ суд"
+    }
+  ],
+  "timestamp": "2026-10-20T00:02:01.313129542Z",
+  "model": "glm-5.3"
+}

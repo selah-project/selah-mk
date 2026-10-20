@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 6:28",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот нема копула"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סרי סוררים",
+      "rationale": "игра на коренот סור — отстапници што се бунтуваат, повторување изгубено во преводот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "бакар",
+      "rationale": "נחשת е бакар\/бронза — метафора за скаменет不听 (нечувствителен) народ во оган на топење"
+    }
+  ],
+  "translation": "Сите тие се отстапници што се бунтуваат, што одат какуќари — бакар и железо се; сите тие се разурнувачи, тие.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3afea11171e9d0d6248c345904a8f8a9f2b6a83d07bcf7a2440548539adb12d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/6\/28-28.1792458224916.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "сите"
+    },
+    {
+      "surface": "סרי",
+      "gloss": "отстапници"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "што се бунтуваат"
+    },
+    {
+      "surface": "הלכי",
+      "gloss": "што одат"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "какуќари"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "бакар"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "и железо"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "сите"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "разурнувачи"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие"
+    }
+  ],
+  "timestamp": "2026-10-20T01:03:44.916688744Z",
+  "model": "glm-5.3"
+}

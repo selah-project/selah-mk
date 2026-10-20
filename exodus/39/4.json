@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "македонскиот бара помошен глагол кај пасивниот חֻבָּר — хебрејскиот го нема."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חֹבְרֹת \/ חֻבָּר",
+      "rationale": "игра на коренот חבר — 'споени\/споено' — ист корен двапати во еден стих."
+    }
+  ],
+  "translation": "Раменици му направија, споени; на двата негови краја ⟨беше⟩ споено.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b8924eb63c20d9764fda55356ca317894b0758e7cc28c3ab2316f192ee2636b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/39\/1-4.1792443998924.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "раменици"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направија"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "споени"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двата"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "негови краја"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "споено"
+    }
+  ],
+  "timestamp": "2026-10-19T21:06:38.930933510Z",
+  "model": "glm-5.3"
+}

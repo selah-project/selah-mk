@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 8:24",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бев родена",
+      "rationale": "חוללתי од корен 'вртам\/треперам': 'бев измачена\/родена', букв. 'бев завртена' — ја губи сликата на раѓање со треперење."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "באין … באין",
+      "rationale": "Повторен негатив 'кога-немаше' гради паралелизам меѓу бездните и изворите, што македонскиот го задржува со повторување."
+    }
+  ],
+  "translation": "Кога немаше бездни, бев родена; кога немаше извори, тешки од вода.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "dbcde02e519fd5e2eb6957bbc6c17f10aa788801e3b1fb8918f88abf55e75f85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/8\/21-24.1792454386787.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "Кога немаше"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "бездни"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "бев родена"
+    },
+    {
+      "surface": "באין",
+      "gloss": "кога немаше"
+    },
+    {
+      "surface": "מעינות",
+      "gloss": "извори"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "тешки"
+    },
+    {
+      "surface": "מים",
+      "gloss": "од вода"
+    }
+  ],
+  "timestamp": "2026-10-19T23:59:46.788694108Z",
+  "model": "glm-5.3"
+}

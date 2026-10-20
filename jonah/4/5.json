@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 4:5",
+  "book": "jonah",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מקדם",
+      "rationale": "буквално «од исток\/од напред» — просторна а не само временска насока"
+    },
+    {
+      "kind": "measurement",
+      "subject": "социјална чекање",
+      "rationale": "Јона седи «додека да види» — гледање напред кон непознат исход"
+    }
+  ],
+  "translation": "И излезе Јона од градот, и седна источно од градот, и си направи таму колиба, и седна под неа во сенка, додека да види што ќе биде со градот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0e885026ef46f46e4231db1b89a3594b4d3d33fe362c6b588dd6e370fb65d332",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jonah\/4\/5-8.1792452507917.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и излезе"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Јона"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градот"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и седна"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "источно"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "од градот"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и направи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "си"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "סכה",
+      "gloss": "колиба"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и седна"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "под неа"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "во сенка"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "да"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "види"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "со градот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:28:27.917800788Z",
+  "model": "glm-5.3"
+}

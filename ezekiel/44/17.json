@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 44:17",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨кон⟩",
+      "rationale": "וביתה е насочен accusative ('домоту') што бара македонски предлог"
+    },
+    {
+      "kind": "measurement",
+      "subject": "свештеничката облека",
+      "rationale": "стихот пропишува точна облека за служба — правило, не наратив"
+    }
+  ],
+  "translation": "И ќе биде: кога ќе влезат во портите на внатрешниот двор, облека од лен ќе облечат, и волна да не се крева врз нив додека служат во портите на внатрешниот двор и ⟨кон⟩ домот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "06c358cd774e2f9c911cb052df60b7d94f2af56b3c5dcc12f5c25485e31122aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/44\/17-20.1792452063331.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И ќе биде"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "кога ќе влезат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "портите"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "на дворот"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "внатрешниот"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "облека"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "од лен"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "ќе облечат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "се крева"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "врз нив"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "волна"
+    },
+    {
+      "surface": "בשרתם",
+      "gloss": "додека служат"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "во портите"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "на дворот"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "внатрешниот"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "и ⟨кон⟩ домот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:21:03.331860953Z",
+  "model": "glm-5.3"
+}

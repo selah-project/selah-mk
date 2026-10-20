@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בעבים",
+      "rationale": "хебрејскиот инструментал „во облаци“ е даден како „облаци“ во македонскиот"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המכסה \/ המכין \/ המצמיח",
+      "rationale": "три партиципи со ה- — триpartитна химнографска структура за дејствијата на Елохим"
+    }
+  ],
+  "translation": "Оној што го покрива ⟨со⟩ облаци небото, што подготвува дожд за земјата, што прави трева да никнува по планините.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "197f8a025a94d4651a5cf12482eb14957af0c5edf2fc3d77d11688bba581a8f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/147\/5-8.1792454225005.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "што го покрива"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небото"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "облаци"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "што подготвува"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "за земјата"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "дожд"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "што прави да никнува"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "по планините"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "трева"
+    }
+  ],
+  "timestamp": "2026-10-19T23:57:05.007222764Z",
+  "model": "glm-5.3"
+}

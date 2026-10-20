@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "приклонија ги ушите",
+      "rationale": "הטו אזנם — буквално „ги наведоа увото“, идиом за внимание\/послушност"
+    }
+  ],
+  "translation": "И не слушнаа и не ги приклонија ⟨את⟩ ушите свои да се вратат од злото свое, за да не кадат на други богови.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "39ec2f5d65db2f19a406fa4708ce109f38380bab8370d5ef5b45809204f599c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/44\/5-8.1792451157665.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слушнаа"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ги приклонија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ушите свои"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "ушите свои"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "да се вратат"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "од злото свое"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "за да не"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "кадат"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "на богови"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "други"
+    }
+  ],
+  "timestamp": "2026-10-19T23:05:57.666298871Z",
+  "model": "glm-5.3"
+}

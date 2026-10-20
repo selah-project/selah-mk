@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 7:16",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ќе стојат⟩",
+      "rationale": "хебрејскиот става еден глагол ונאמן на чело, македонскиот бара помошник за двата подмети."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עד עולם … עד עולם",
+      "rationale": "двојното 'до век' ја рамнозвучи заветната ветеница."
+    }
+  ],
+  "translation": "И твојот дом и твоето царство ⟨ќе стојат⟩ до век пред тебе; твојот престол ќе биде утврден до век.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "bae71cb18a95e60b73fabc575f3a3296ce7f1885291d8ccaac33a9c12f9d01e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/7\/13-16.1792448159077.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונאמן",
+      "gloss": "И ⟨ќе стојат⟩"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "твојот дом"
+    },
+    {
+      "surface": "וממלכתך",
+      "gloss": "и твоето царство"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "век"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред тебе"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "твојот престол"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "утврден"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "век"
+    }
+  ],
+  "timestamp": "2026-10-19T22:15:59.080388905Z",
+  "model": "glm-5.3"
+}

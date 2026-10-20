@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара"
+    }
+  ],
+  "translation": "Близу си Ти, Јахве, и сите заповеди твои ⟨се⟩ вистина.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "095bfc6b39d8c6e216e1e9ef7ab9b851811cace04c81f0bdcaa2b77d9df919ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/149-152.1792454020690.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "близу"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сите"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "заповеди твои"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "⟨се⟩ вистина"
+    }
+  ],
+  "timestamp": "2026-10-19T23:53:40.690873565Z",
+  "model": "glm-5.3"
+}

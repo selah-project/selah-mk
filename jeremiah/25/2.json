@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 25:2",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "על",
+      "rationale": "על со зборување може да значи и „за“ и „кон“; преведувачите се делат (KJV „unto“, YLT „concerning“)."
+    }
+  ],
+  "translation": "што го зборуваше Јирмијаху пророкот на ситеот народ Јудин и на сите жители на Јерушалаим, велејќи:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ef0b438427d48d1b731d5f63ed8bedc4b97f0cdc64287cf38dbc35063f527fe5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/25\/1-4.1792450781455.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зборуваше"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јирмијаху"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкот"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудин"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жители"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "на Јерушалаим"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    }
+  ],
+  "timestamp": "2026-10-19T22:59:41.456276422Z",
+  "model": "glm-5.3"
+}

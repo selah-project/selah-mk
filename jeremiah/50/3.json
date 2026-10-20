@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 50:3",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "своја",
+      "rationale": "притворен посесивен суфикс на ארצה — 'нејзината земја', македонскиот бара редредба"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מאדם ועד בהמה",
+      "gloss": "",
+      "rationale": "букв. 'од човек до добиток' — формулата за тотална испразнетост, задржана буквално"
+    }
+  ],
+  "translation": "Зашто против неа ќе се качи народ од север; тој ќе ја претвори ⟨את⟩ земјата своја во пустелија, и нема да има жител во неа; од човек до добиток — се разбегаа, заминаа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d55672d5650b3836775db1dff3fe2beb61d8864d98793a5e56edc185d94e72d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/50\/1-4.1792451296721.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ќе се качи"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "против неа"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "од север"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "ќе ја претвори"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата своја"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "земјата своја"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "во пустелија"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе има"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "жител"
+    },
+    {
+      "surface": "בה",
+      "gloss": "во неа"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "од човек"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "добиток"
+    },
+    {
+      "surface": "נדו",
+      "gloss": "се разбегаа"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "заминаа"
+    }
+  ],
+  "timestamp": "2026-10-19T23:08:16.723157141Z",
+  "model": "glm-5.3"
+}

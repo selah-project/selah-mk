@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 41:19",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תדהר",
+      "rationale": "tidhár — дрво што се јавува само тука и во Исаија 60:13; нејасно дали е自知: костен, даб или ела."
+    },
+    {
+      "kind": "crux",
+      "subject": "ברוש",
+      "rationale": "кипарис наспроти ела\/бор — преведувачите се делат."
+    },
+    {
+      "kind": "crux",
+      "subject": "ותאשור",
+      "rationale": "ташур — дрво од кедарски вид (штимpania?), KJV 'box tree', JPS 'larch'; неизвесно."
+    },
+    {
+      "kind": "hapax",
+      "subject": "עץ שמן",
+      "rationale": "'маслено дрво' — најчесто маслина, но буквата е 'дрво на масло'."
+    }
+  ],
+  "translation": "Ќе дадам во пустината кедар, акација и мирта, и маслиново дрво; ќе ставам во Арава кипарис, тидхар и ташур — заедно.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1dd69b9946b1e84e1da1668d608c391d0605bd864541c24bfb2ab8bb154cd85f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/41\/18-19.1792458170668.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "Ќе дадам"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "во пустината"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "кедар"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "акација"
+    },
+    {
+      "surface": "והדס",
+      "gloss": "и мирта"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "и дрво"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "маслиново"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ќе ставам"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "во Арава"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "кипарис"
+    },
+    {
+      "surface": "תדהר",
+      "gloss": "тидхар"
+    },
+    {
+      "surface": "ותאשור",
+      "gloss": "и ташур"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заедно"
+    }
+  ],
+  "timestamp": "2026-10-20T01:02:50.670238740Z",
+  "model": "glm-5.3"
+}

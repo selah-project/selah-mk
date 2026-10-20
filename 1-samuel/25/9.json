@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 25:9",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וינוחו",
+      "rationale": "буквално 'и починаа\/се смирија' — овде идиом за замолчување, како во сите постојни преводи"
+    }
+  ],
+  "translation": "И дојдоа момчињата на Давид и зборуваа со Навал според сите тие зборови во името на Давид, и замолкнаа.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "733366f2509fa6d2418fbb48c99b903674ab00955dfd548eca02aeca49b6062a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/25\/9-12.1792447901780.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "и дојдоа"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "момчињата на"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "и зборуваа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "со"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Навал"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "според сите"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "зборови"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тие"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "во името на"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וינוחו",
+      "gloss": "и замолкнаа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:11:41.781278555Z",
+  "model": "glm-5.3"
+}

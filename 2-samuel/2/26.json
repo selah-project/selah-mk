@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 2:26",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "мечот ќе јаде",
+      "rationale": "хебрејска слика: מечот јаде — убива; задржано буквално."
+    },
+    {
+      "kind": "you",
+      "subject": "Авнер до Јоав",
+      "rationale": "директен повик меѓу војсководците, реторичко прашање да престане братоубиството."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרה",
+      "rationale": "истиот корен како Мара\/горчина — горчливиот крај на граѓанската војна."
+    }
+  ],
+  "translation": "И повика Авнер кон Јоав и рече: Дали засекогаш ќе јаде мечот? Не знаеш ли дека горчина ќе биде на крајот? И до кога нема да им кажеш на луѓето да се вратат од зад нивните браќа?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a519031aaff2febfcb8e9df1ae132b4e4d33b507c72a82d28497ee2aa2e04a1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/2\/25-28.1792448089895.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "повика"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнер"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "הלנצח",
+      "gloss": "засекогаш"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ќе јаде"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мечот"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתה",
+      "gloss": "знаеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": " дека"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "горчина"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "באחרונה",
+      "gloss": "на крајот"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "кажеш"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "на луѓето"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "да се вратат"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "од зад"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "нивните браќа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:14:49.896692786Z",
+  "model": "glm-5.3"
+}

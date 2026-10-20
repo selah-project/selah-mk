@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Море на трските",
+      "rationale": "ים סוף буквално „море на трската (папирус)“ — не „Црвено море“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "маршрутата",
+      "rationale": "Стиховите 10–12 се список на станици — мерниот запис на патувањето."
+    }
+  ],
+  "translation": "И тргнаа од Елим и се разбија крај Морето на трските.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b101526cf2285cc686a8221a513c002cecaaa88bcf8ba56102d82993b875a0ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/33\/9-12.1792445211833.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И тргнаа"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "од Елим"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и се разбија"
+    },
+    {
+      "surface": "על",
+      "gloss": "крај"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Морето"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "на трските"
+    }
+  ],
+  "timestamp": "2026-10-19T21:26:51.836335445Z",
+  "model": "glm-5.3"
+}

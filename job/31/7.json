@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 31:7",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מאום",
+      "rationale": "' лоша дамка \/ флека \/ малformation ' — само тука во Танах на овој облик; ' лоша дамка ' ја чува сликата на нечистотија"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨некаква⟩",
+      "rationale": "хебрејскиот нема член пред מאום; македонскиот го бара"
+    }
+  ],
+  "translation": "ако чекорот mi се сви од патот, и срцето ми отиде по очите мои, и на дланите ми се прилепи ⟨некаква⟩ лоша дамка —",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "261fe6b7d806e813c43cc06aa5e06211f41b606622cf4a28a0bfb71044cf1664",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/31\/5-8.1792455204225.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "се сви"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "чекорот mi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "од"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "патот"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "по"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очите мои"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "срцето ми"
+    },
+    {
+      "surface": "ובכפי",
+      "gloss": "и на дланите ми"
+    },
+    {
+      "surface": "дבק",
+      "gloss": "се прилепи"
+    },
+    {
+      "surface": "מאום",
+      "gloss": "лоша дамка"
+    }
+  ],
+  "timestamp": "2026-10-20T00:13:24.226757730Z",
+  "model": "glm-5.3"
+}

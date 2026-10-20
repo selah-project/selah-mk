@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "помазаникот",
+      "rationale": "משיח — за цар\/свештеник се вели 'помазаник', не 'Месија'"
+    },
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "македонскиот го бара кратката заменска форма за објектот"
+    }
+  ],
+  "translation": "Штитот наш, види, Елохим, и погледни го лицето на помазаникот твој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e6c8cc7d871f0aa3b67593935998350e009bd1525591d60cd78812ebb8273999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/84\/9-12.1792453648844.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "штитот наш"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "види"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "и погледни"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето на"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "помазаникот твој"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:28.844900969Z",
+  "model": "glm-5.3"
+}

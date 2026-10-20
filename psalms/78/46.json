@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 78:46",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "гризачот",
+      "rationale": "חסיל е 'гризачот', вид скакулца; традицијата вели 'гасеница'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסיל\/ארבה",
+      "rationale": "два различни хебрејски збора за скакулци во паралелизам, македонскиот мора да ги разликува описно."
+    }
+  ],
+  "translation": "И му го даде родот нивни на гризачот, и трудот нивен на скакулците.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "443bf8ca71b1f028567b17303501973058ccde2ee3ae484620eee65c5da116cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/78\/45-48.1792453615576.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И му го даде"
+    },
+    {
+      "surface": "לחסיל",
+      "gloss": "на гризачот"
+    },
+    {
+      "surface": "יבולם",
+      "gloss": "родот нивни"
+    },
+    {
+      "surface": "ויגיעם",
+      "gloss": "трудот нивен"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "на скакулците"
+    }
+  ],
+  "timestamp": "2026-10-19T23:46:55.577299847Z",
+  "model": "glm-5.3"
+}

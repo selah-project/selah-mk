@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 29:2",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "хебрејскиот ја нема формата 'to be'; македонскиот бара ⟨беше⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "והנה ... והנה",
+      "rationale": "двојно 'еве' ја гради сцената на гледањето, задржано"
+    }
+  ],
+  "translation": "И погледна, и еве кладенец во полето, и еве таму три стада овци и кози лежеле крај него, зашто од тој кладенец ги напојуваа стадата; а каменот, голем, беше на устата на кладенецот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "88cdc77a943aa860db681d237a37805e37f2daf1409a330cff71fac38c087f2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/29\/1-4.1792442872773.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и погледна"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и еве"
+    },
+    {
+      "surface": "באר",
+      "gloss": "кладенец"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "во полето"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и еве"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "עדרי",
+      "gloss": "стада"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "овци и кози"
+    },
+    {
+      "surface": "רבצים",
+      "gloss": "лежеле"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "крај него"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "кладенецот"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "ги напојуваа"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "стадата"
+    },
+    {
+      "surface": "והאבן",
+      "gloss": "а каменот"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "голем"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устата"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "на кладенецот"
+    }
+  ],
+  "timestamp": "2026-10-19T20:47:52.779044492Z",
+  "model": "glm-5.3"
+}

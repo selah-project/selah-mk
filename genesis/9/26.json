@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למו",
+      "rationale": "Множинско „на нив“ — на Шем (и потомството); еднина „на него“ е втората лекција."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Елохим на Шем",
+      "rationale": "אלהי е статус конструктус — „Елохим-на“; македонскиот го бара наставниот „на“."
+    }
+  ],
+  "translation": "И рече: Благословен да е Јахве, Елохим на Шем, и нека биде Кенаан роб на нив.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "27204ea4fb7a74f502d72646453072f00b985e7a6468aacc58c4051f88a7e5e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/9\/25-28.1792442442597.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Благословен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и нека биде"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "роб"
+    },
+    {
+      "surface": "למו",
+      "gloss": "на нив"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:42.598699620Z",
+  "model": "glm-5.3"
+}

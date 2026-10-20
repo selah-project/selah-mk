@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצא אשור",
+      "rationale": "'излезе Ашур' (Ашур како личност) наспроти 'излезе во Асирија' (Нимрод како подмет); хебрејскиот вели Ашур како подмет"
+    },
+    {
+      "kind": "crux",
+      "subject": "רחבת עיר",
+      "rationale": "construct 'улиците-на-градот' (ylt) наспроти лично име Реховот-Ир (jps\/asv); задржано како име со спојка"
+    }
+  ],
+  "translation": "Од таа земја излезе Ашур ⟨во⟩ и ги градеше ⟨את⟩ Ниневеја и ⟨את⟩ Реховот-Ир и ⟨את⟩ Келах.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "a263bebc2c780847166af15c82db826ef1d547a43ed3e8226502ae4df3c532ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/10\/9-12.1792442510340.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Од"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "таа"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излезе"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "и ги градеше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ниневеја"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ниневеја"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Реховот-Ир"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Реховот"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ир"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Келах"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Келах"
+    }
+  ],
+  "timestamp": "2026-10-19T20:41:50.349895112Z",
+  "model": "glm-5.3"
+}

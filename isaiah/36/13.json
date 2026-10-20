@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 36:13",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "јазик",
+      "rationale": "יהודית е прилог „на јудејски“; македонскиот бара именката"
+    },
+    {
+      "kind": "you",
+      "subject": "до луѓето на Ерусалим на ѕидот",
+      "rationale": "директен повик „Слушајте“ до слушателите на ѕидината"
+    }
+  ],
+  "translation": "И застана Равшакеј и повика со голем глас на јудејски јазик, и рече: Слушајте ги ⟨את⟩ зборовите на големиот цар, царот на Ашур.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "a5c0a0767553c57025230e79412b86ab375c25c98a768553ed9cf08d15ccd5c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/36\/13-16.1792450048049.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "И застана"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Рав-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "шакеј"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и повика"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "со глас"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голем"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "на јудејски"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Слушајте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зборовите"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "зборовите"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "големиот"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "на Ашур"
+    }
+  ],
+  "timestamp": "2026-10-19T22:47:28.050390057Z",
+  "model": "glm-5.3"
+}

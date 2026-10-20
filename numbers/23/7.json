@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 23:7",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ארה\/זעמה",
+      "rationale": "два глагола за проколнување во паралелен ред — проколни\/разгневи — рефрен што продолжува во стих 8."
+    },
+    {
+      "kind": "mystery",
+      "subject": "притча",
+      "rationale": "משל — пророчки Oracle во слики, говор што доаѓа не од Валаам туку од ставениот збор (ст. 5)."
+    }
+  ],
+  "translation": "И ја подигна својата притча и рече: Од Арам ме доведе Балак, царот на Моав, од планините на исток: Дојди, проколни ми го Јааков, и дојди, разгневи го Јисраел.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "827d8d384cf6703db65926099897bda5585567b16d0d56a8621c3b17fc313b51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/23\/5-8.1792445035373.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "и ја подигна"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "својата притча"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "ме доведе"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "на Моав"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "од планините"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "на исток"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "дојди"
+    },
+    {
+      "surface": "ארה",
+      "gloss": "проколни"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "го Јааков"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "и дојди"
+    },
+    {
+      "surface": "זעמה",
+      "gloss": "разгневи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "го Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T21:23:55.374168048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 26:6",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "кој",
+      "rationale": "מחריד е причастие („тremеличка“); македонскиот бара лицска придавка со релативизатор."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ѕверови",
+      "rationale": "חיה е букв. „животно\/жива“ — тука лоша ѕверска сила, не само „животно“."
+    }
+  ],
+  "translation": "И ќе дам мир во земјата, и ќе лежите, и нема ⟨кој⟩ да ве плаши; и ќе ги запрам ѕверовите лоши од земјата, и меч нема да помине низ вашата земја.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "870d0c3724ce02db0aea13fe0b82dfd693986f615f07c0d759671d188980ccba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/26\/5-8.1792444520713.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "и ќе дам"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "ושכבתם",
+      "gloss": "и ќе лежите"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "кој да ве плаши"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "и ќе запрам"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ѕверови"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "лоши"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "и меч"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ќе помине"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "низ вашата земја"
+    }
+  ],
+  "timestamp": "2026-10-19T21:15:20.714679331Z",
+  "model": "glm-5.3"
+}

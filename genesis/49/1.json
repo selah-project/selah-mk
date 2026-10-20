@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨нека⟩ ⟨се⟩",
+      "rationale": "македонскиот бара помошен залог каде хебрејскиот има едноставен нифал"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקרא \/ ויקרא",
+      "rationale": "и-ви-кра — „повика“ наспроти „ја-кри“ — „ќе снајде“; повторување на коренот крај почетокот и крајот на стихот, изгубено во македонски"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Соберете се",
+      "rationale": "повик кон слушателите — сините на Јааков"
+    }
+  ],
+  "translation": "И Јааков ги повика синовите свои и рече: Соберете се, ⟨нека⟩ ви ⟨се⟩ соопшти ⟨את⟩ она што ќе ве снајде во последните дни.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "72ca4e87614fbb65035eed2c182194a3c9bc74cb9711d58a04ecc2bd0e4e299d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/49\/1-4.1792443293587.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и повика"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синовите свои"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "соберете се"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "и ќе изјавам"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "она што ќе ве снајде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "она што"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ќе снајде"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "во крајот"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "на дните"
+    }
+  ],
+  "timestamp": "2026-10-19T20:54:53.591812996Z",
+  "model": "glm-5.3"
+}

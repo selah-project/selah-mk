@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "superscription",
+      "rationale": "Насловот на псалмот е дел од хебрејскиот текст и се преведува, не се испушта"
+    }
+  ],
+  "translation": "На раководителот, на гудала. Псалм на Давид.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2a36bc2a0bee8f8154aa229e500fe67ac96f77f6f4bb574fa6d5ac0ccb4ea75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/61\/1-4.1792453411361.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "на раководителот"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "гудала"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-10-19T23:43:31.362032323Z",
+  "model": "glm-5.3"
+}

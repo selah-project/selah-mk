@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 49:18",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "до Сион",
+      "rationale": "Императиви 'Кревај... и гледај' — директен повик до адресатот да види што Елохим прави."
+    },
+    {
+      "kind": "idiom",
+      "subject": "חי אני",
+      "rationale": "Буквално 'Жив сум јас' — заклетвена формула на Јахве, задржана буквално."
+    },
+    {
+      "kind": "substitution",
+      "subject": "препашеш",
+      "rationale": "ותקשרים буквално 'врзуваш\/опашуваш' — сликата на невеста што ги врзува накитите на себе."
+    }
+  ],
+  "translation": "Кревај ги очите твои наоколку и гледај: сите тие се собрани, доаѓаат кај тебе. Жив сум јас, вели Јахве — дека сите нив како накит ќе облечеш и ќе ги препашеш како невеста.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "731b60d89bade3a78ee1bbb6d6513c52d30c0293282c1249de9b12712026b0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/49\/17-20.1792450191879.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאי",
+      "gloss": "Кревај"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколку"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ги очите твои"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "и гледај"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "сите тие"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "се собрани"
+    },
+    {
+      "surface": "באו",
+      "gloss": "доаѓаат"
+    },
+    {
+      "surface": "לך",
+      "gloss": "кај тебе"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Жив"
+    },
+    {
+      "surface": "אני",
+      "gloss": "сум јас"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "сите нив"
+    },
+    {
+      "surface": "כעדי",
+      "gloss": "како накит"
+    },
+    {
+      "surface": "תלבשי",
+      "gloss": "ќе облечеш"
+    },
+    {
+      "surface": "ותקשרים",
+      "gloss": "и ќе ги препашеш"
+    },
+    {
+      "surface": "ככלה",
+      "gloss": "како невеста"
+    }
+  ],
+  "timestamp": "2026-10-19T22:49:51.880722274Z",
+  "model": "glm-5.3"
+}

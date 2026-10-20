@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 20:7",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויחי",
+      "rationale": "хебрејскиот велит „оживеа“ наместо само „оздраве“ — спротивставено на смртната болест од 20:1"
+    }
+  ],
+  "translation": "И рече Јешаја: земете плочка од смокви; и зедоа и ја ставија на раниот — и оживеа.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "3eae1c460f6e6b72680ed04a18185fc3887462980c27ba63c3501742e5ccf956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/20\/5-8.1792449433629.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Јешаја"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "земете"
+    },
+    {
+      "surface": "דבלת",
+      "gloss": "плочка"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "од смокви"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "и зедоа"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "и ставија"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "раната"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "и оживеа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:37:13.631424352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "тај",
+      "rationale": "Во вториот глагол македонскиот бара_subject — кој ја доближува минхата; хебрејскиот сврзен објект не го именува"
+    },
+    {
+      "kind": "alternative",
+      "subject": "свештеникот како subject",
+      "rationale": "והקריבה може да значи и 'нека ти ја приближи (свештеникот)' — многу преводи го оставаат без предмет"
+    }
+  ],
+  "translation": "И принеси ⟨את⟩ минхата што се прави од овие нешта, за Јахве, и приближѝ ја до свештеникот, и тој ќе ја доближи до жртвеникот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c75b2ac7c8e7d06a18af146ba6ca459dd8201666554765e0773637978f4c79dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/2\/6-8.1792447711588.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "и принеси"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "минхата"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "минхата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "се прави"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "од овие нешта"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Јахве"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "и приближѝ ја"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "и доближи ја"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жртвеникот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:08:31.592124481Z",
+  "model": "glm-5.3"
+}

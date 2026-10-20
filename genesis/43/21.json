@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 43:21",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "на секој човек",
+      "rationale": "איש distributive: 'сребро на човек' = на секој од нас"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמתחת",
+      "rationale": "торбата се повторува три пати во еден стих — повторувањето на истата именка"
+    }
+  ],
+  "translation": "И биде кога стигнавме до преноќиштето и ги отворивме ⟨את⟩ торбите наши — и ете, сребро на секој човек во устата на торбата негова, среброто наше со тежината негова — и го вративме ⟨את⟩ него во раката наша.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "528a826fbbbbcc0efff19f40f6292e331a987eb2c04d6d02115ce91639a812b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/43\/21-24.1792443202580.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "стигнавме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המלון",
+      "gloss": "преноќиштето"
+    },
+    {
+      "surface": "ונפתחה",
+      "gloss": "и ги отворивме"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "торбите наши"
+    },
+    {
+      "surface": "אמתחתינו",
+      "gloss": "торбите наши"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ете"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    },
+    {
+      "surface": "איש",
+      "gloss": "на секој човек"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "во устата"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "на торбата негова"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "среброто наше"
+    },
+    {
+      "surface": "במשקלו",
+      "gloss": "со тежината негова"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "и го вративме"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "во раката наша"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "во раката наша"
+    }
+  ],
+  "timestamp": "2026-10-19T20:53:22.604872203Z",
+  "model": "glm-5.3"
+}

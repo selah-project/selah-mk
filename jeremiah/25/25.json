@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זמרי",
+      "rationale": "Цимри: според некои рабини и LXX се чита како 'Луди' (לודים) — име на арапско племе; оди со списакот на цареви што ќе пијат од чашата."
+    }
+  ],
+  "translation": "и ⟨את⟩ сите цареви на Цимри, и ⟨את⟩ сите цареви на Елам, и ⟨את⟩ сите цареви на Мадај;",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "abf10deba5f2a998d2fc8ecaffd498b5a32083ca9d98292cbaf989259260935b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/25\/25-28.1792450786983.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сите"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "цареви"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Цимри"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сите"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "цареви"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Елам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сите"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "цареви"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Мадај"
+    }
+  ],
+  "timestamp": "2026-10-19T22:59:46.984144918Z",
+  "model": "glm-5.3"
+}

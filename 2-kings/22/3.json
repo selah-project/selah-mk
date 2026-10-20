@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 22:3",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "осумнаесеттата година",
+      "rationale": "датирање на настанот според годината на царувањето"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שפן",
+      "rationale": "истиот согласен корен како 'карпест јазовец', но тука е лично име и се пишува како име"
+    }
+  ],
+  "translation": "И беше во осумнаесеттата година на царот Јошијаху, царот го испрати ⟨את⟩ Шафан, син на Ацалијау, син на Мешулам, писарот, во домот на Јахве, велејќи:",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "3e294aacb01d9b49569345410a3b82cf495368854f803515a88bdf02a1d6c199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/22\/1-4.1792449488023.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "בשמנה",
+      "gloss": "во осум"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "наесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "на царот"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Јошијаху"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "испрати"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шафан"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Шафан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אצליהו",
+      "gloss": "Ацалијау"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешулам"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "писарот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    }
+  ],
+  "timestamp": "2026-10-19T22:38:08.026460491Z",
+  "model": "glm-5.3"
+}

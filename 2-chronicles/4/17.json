@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 4:17",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעבי",
+      "rationale": "Редок збор: 'густа глина\/густа земја' (2 Лет. 4:17 е единственото место) — преведувачите колебаат меѓу 'глина', 'густа почва' и 'густомат'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "лење на бронза",
+      "rationale": "Опис на леење на садови во одредена географска област — дел од описот на храмските мерења и предмети."
+    }
+  ],
+  "translation": "Во околината на Јарден ги изли царот, во густата земја, меѓу Сукот и меѓу Цередата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5acb737a7fc1abf950578a72ce9356f2b0ceb64e0951c3547bac25653c5fff75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/4\/17-20.1792457384630.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "во околината"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "на Јарден"
+    },
+    {
+      "surface": "יצצם",
+      "gloss": "ги изли"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "בעבי",
+      "gloss": "во густата"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земја"
+    },
+    {
+      "surface": "בין",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Сукот"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и меѓу"
+    },
+    {
+      "surface": "צרדתה",
+      "gloss": "Цередата"
+    }
+  ],
+  "timestamp": "2026-10-20T00:49:44.631136270Z",
+  "model": "glm-5.3"
+}

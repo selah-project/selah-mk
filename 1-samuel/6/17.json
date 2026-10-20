@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 6:17",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "тумори",
+      "rationale": "טחור е хемороиди\/отоци — преводите колебаат меѓу 'тумори', 'отоци', 'хемороиди'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "пет града",
+      "rationale": "пребројување: пет города, еден тумор за секој"
+    }
+  ],
+  "translation": "И ова се златните тумори што Плиштимците ги вратија како вина-дар за Јахве: за Ашдод еден, за Аза еден, за Ашкелон еден, за Гат еден, за Екрон еден.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e5075d8ddb2c2a68d8b798c197b2e8de8aed73db5b0e23f5ab14dfc5ba63a5b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/6\/17-20.1792446760831.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И ова"
+    },
+    {
+      "surface": "טחרי",
+      "gloss": "тумори"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "златните"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "ги вратија"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштимците"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "вина-дар"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Јахве"
+    },
+    {
+      "surface": "לאשדוד",
+      "gloss": "за Ашдод"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "לעזה",
+      "gloss": "за Аза"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "לאשקלון",
+      "gloss": "за Ашкелон"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "לגת",
+      "gloss": "за Гат"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    },
+    {
+      "surface": "לעקרון",
+      "gloss": "за Екрон"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "еден"
+    }
+  ],
+  "timestamp": "2026-10-19T21:52:40.831688179Z",
+  "model": "glm-5.3"
+}

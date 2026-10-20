@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 38:18",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Јов",
+      "rationale": "заповедта „кажи“ е директен повик кон Јов"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Кажи, ако ги знаеш",
+      "rationale": "предизвик-повик кон соговорникот да одговори"
+    }
+  ],
+  "translation": "Дали размисли до широчините на земјата? Кажи, ако ги знаеш ⟨את⟩ сите нив!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9e643179b9135a159247403e5a36e60695eb707c42ff6bc14b55482612dc3ab1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/38\/17-20.1792455269007.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התבננת",
+      "gloss": "дали размисли"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "רחבי",
+      "gloss": "широчините"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "кажи"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаеш"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "сите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:14:29.007885611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חשך\/יחשיך\/כחשיכה",
+      "rationale": "три кратни истиот корен 'мрак' во еден стих —repeat што македонскиот може само делумно да ја пренесе"
+    },
+    {
+      "kind": "substitution",
+      "subject": "пред Тебе",
+      "rationale": "ממך буквално 'од Тебе'; мракот не може да се скрие ОД Јахве — 'пред Тебе' ја дава истата слика во македонски"
+    }
+  ],
+  "translation": "па и мракот не се затемнува пред Тебе, и ноќта како денот свети: како темното, така и светлото.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f780a204476d2dae71f13954eb3899ac85b0761bd4cef2b576a1da1fa58dfd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/139\/9-12.1792454132505.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "па и"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "мракот"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "се затемнува"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "пред Тебе"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "и ноќта"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "како денот"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "свети"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "како темното"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "така и светлото"
+    }
+  ],
+  "timestamp": "2026-10-19T23:55:32.506152771Z",
+  "model": "glm-5.3"
+}

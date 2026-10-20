@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 43:7",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "во",
+      "rationale": "хебрејскиот вели само 'влегоа земја Мицраим'; македонскиот бара предлог"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויבאו…ויבאו",
+      "rationale": "повторен глагол 'влегоа' на почеток и крај — рамка на непослушноста"
+    }
+  ],
+  "translation": "И влегоа во земјата Мицраим, зашто не го послушаа гласот на Јахве; и влегоа до Тахпанхес.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "49f36c35806e72bc5204f6f8dc911c782beada782e2534627dee5f6c9ddd849d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/43\/5-8.1792451036079.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "И влегоа"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "го послушаа"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "glasot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и влегоа"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "תחפנחס",
+      "gloss": "Тахпанхес"
+    }
+  ],
+  "timestamp": "2026-10-19T23:03:56.080963102Z",
+  "model": "glm-5.3"
+}

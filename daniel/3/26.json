@@ -1,0 +1,146 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 3:26",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Шадрах, Мешах и Авед Него",
+      "rationale": "Кралот ги повикува по име — директен повик со императив."
+    },
+    {
+      "kind": "invitation",
+      "subject": "излезете и дојдете",
+      "rationale": "Двоен императив — повик да излезат од огнот."
+    }
+  ],
+  "translation": "Тогаш Навуходоносор се приближи до уствата на огнената печ што гореше; одговори и рече: Шадрах, Мешах и Авед Него, слугите на Елохим Всишниот, излезете и дојдете! Тогаш излегоа Шадрах, Мешах и Авед Него од сред огнот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c9a579dad25a879e2de132a0c186c01a149bf74db04dcafaa810cae694a93521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/3\/25-28.1792456075526.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Тогаш"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "се приближи"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Навуходоносор"
+    },
+    {
+      "surface": "לתרע",
+      "gloss": "до уствата"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "на печта"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "огнената"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "што гореше"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "одговори"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "Шадрах"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Мешах"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "и Авед"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Него"
+    },
+    {
+      "surface": "עבדוהי",
+      "gloss": "слугите"
+    },
+    {
+      "surface": "די",
+      "gloss": "на"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "עליא",
+      "gloss": "Всишниот"
+    },
+    {
+      "surface": "פקו",
+      "gloss": "излезете"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "и дојдете"
+    },
+    {
+      "surface": "באדין",
+      "gloss": "Тогаш"
+    },
+    {
+      "surface": "נפקין",
+      "gloss": "излегоа"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "Шадрах"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Мешах"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "и Авед"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Него"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "גוא",
+      "gloss": "сред"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "огнот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:27:55.528273892Z",
+  "model": "glm-5.3"
+}

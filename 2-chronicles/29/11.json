@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 29:11",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשלו",
+      "rationale": "שָׁלָה: 'не бивајте немарни\/не се измамете' — преводите се делат меѓу 'негледање' и 'измама'"
+    },
+    {
+      "kind": "you",
+      "subject": "левитите и свештениците",
+      "rationale": "директен говор на Езекија до синовите Аронови и левитите"
+    },
+    {
+      "kind": "invitation",
+      "subject": "не бевајте",
+      "rationale": "забелешка со повик за дејство"
+    }
+  ],
+  "translation": "Синови мои, сега не бевајте, зашто во вас Јахве избра да стојат пред Него, да Му служат и да Му бидат служители и кадителни.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a7f3b3fe272ddfa13621d46cddc865d631220f08554a31983900edf4d92e5534",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/29\/9-12.1792457773492.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови мои"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сега"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשלו",
+      "gloss": "бевајте"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "во вас"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "избра"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "да стојат"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пред Него"
+    },
+    {
+      "surface": "לשרתו",
+      "gloss": "да Му служат"
+    },
+    {
+      "surface": "ולהיות",
+      "gloss": "и да бидат"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Му"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "служители"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "и кадителни"
+    }
+  ],
+  "timestamp": "2026-10-20T00:56:13.492922369Z",
+  "model": "glm-5.3"
+}

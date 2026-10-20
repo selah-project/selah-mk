@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 16:13",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨си⟩",
+      "rationale": "Хебрејскиот нема копула во „אתה אל ראי“"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחרי ראי",
+      "rationale": "Букв. „по оној што ме гледа“ — преведувачите се делат: „гледав по него“ (KJV) или „го видов оној што ме гледа“ (JPS)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ראי",
+      "rationale": "ראי (видение\/оној што гледа) се јавува само тука и во името на кладенецот во 16:14"
+    }
+  ],
+  "translation": "И таа го нарече името на Јахве што и зборуваше: Ти ⟨си⟩ Ел-Рои; зашто рече: Зарем и тука го видов оној што ме гледа?",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5269a0ad2441ac4d32d9e6c91b754361a547f1504ddfe81ed4e405b14717fcf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/16\/13-16.1792442566304.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "И таа го нарече"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "што зборуваше"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "нејзе"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Рои (на видението)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "рече"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "зарем и"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "тука"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "го видов"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "оној што ме гледа"
+    }
+  ],
+  "timestamp": "2026-10-19T20:42:46.317221028Z",
+  "model": "glm-5.3"
+}

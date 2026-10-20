@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 26:24",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": " рака",
+      "rationale": "יד 'рака' е хебрејска идиома за моќ\/заштита — буквата 'рака' се чува, сликата се губи"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨го⟩",
+      "rationale": "клитичкиот објект е додаден за глаголот 'да дадат'"
+    }
+  ],
+  "translation": "Но раката на Ахикам син Шафан беше со ⟨את⟩ Јермјаху, за да не ⟨го⟩ дадат ⟨את⟩ него во рака на народот, за да го убијат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "28c68054f803527cf0f46ee1e578653df8b485e69bed8e4748e33727e67a6965",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/26\/21-24.1792450768838.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Но"
+    },
+    {
+      "surface": "יד",
+      "gloss": "раката"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "на Ахикам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Шафан"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "את",
+      "gloss": "со ⟨את⟩",
+      "marks": "Јермјаху"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јермјаху"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "за да не"
+    },
+    {
+      "surface": "תת",
+      "gloss": "дадат"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "во рака"
+    },
+    {
+      "surface": "העם",
+      "gloss": "на народот"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "за да го убијат"
+    }
+  ],
+  "timestamp": "2026-10-19T22:59:28.840268212Z",
+  "model": "glm-5.3"
+}

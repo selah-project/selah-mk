@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 2:19",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беше",
+      "rationale": "Арамејскиот пасив גלי нема помошен глагол; македонскиот бара „беше“."
+    },
+    {
+      "kind": "secret",
+      "subject": "רזה",
+      "rationale": "Тајната е откриена во ноќен видение — скриеното станува познато."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדין ... אדין",
+      "rationale": "Двојното „тогаш“ (אדין) гради чек-структура: откривање — благослов."
+    }
+  ],
+  "translation": "Тогаш на Даниел во видение на ноќта тајната беше откриена. Тогаш Даниел го благослови ⟨את⟩ Елах на небесата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e918295a2ea7caf78b7d8661394d138d18122464b3659741c6312c9046e3c1c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/2\/18-19.1792458493510.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Тогаш"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "на Даниел"
+    },
+    {
+      "surface": "בחזוא",
+      "gloss": "во видение"
+    },
+    {
+      "surface": "די",
+      "gloss": "на"
+    },
+    {
+      "surface": "ליליא",
+      "gloss": "ноќта"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "тајната"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "беше откриена"
+    },
+    {
+      "surface": "אדין",
+      "gloss": "Тогаш"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "го благослови"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "Елах"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "на небесата"
+    }
+  ],
+  "timestamp": "2026-10-20T01:08:13.510871030Z",
+  "model": "glm-5.3"
+}

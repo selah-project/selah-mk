@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 28:22",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "престапи",
+      "rationale": "למעול — буквално 'да покрие\/дејствува тајно', значи вероломство кон заветот; JPS 'act treacherously'"
+    },
+    {
+      "kind": "addition",
+      "subject": "уште повеќе",
+      "rationale": "ויוסף 'додаде' — идиом за 'продолжи уште повеќе'"
+    }
+  ],
+  "translation": "И во времето на стеснувањето негово уште повеќе престапи кон Јахве — тој, царот Ахаз.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "031377ad0499ba6ff6041194d59a2a85601f74ce06e035188c44fcec9cc68d0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/28\/21-24.1792457766361.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובעת",
+      "gloss": "и во времето"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "на стеснувањето"
+    },
+    {
+      "surface": "לו",
+      "gloss": "негово"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "уште повеќе"
+    },
+    {
+      "surface": "למעול",
+      "gloss": "престапи"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "кон Јахве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    }
+  ],
+  "timestamp": "2026-10-20T00:56:06.362114041Z",
+  "model": "glm-5.3"
+}

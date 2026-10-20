@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 19:23",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה לי ולכם",
+      "rationale": "буквално „што мене и вам“ = македонската идиома „што мене со вас“."
+    },
+    {
+      "kind": "crux",
+      "subject": "לשטן",
+      "rationale": "שטן тука е обична именка „противник\/обвинува“; овде е дадено звукот „сатан“ за да се чува коренот, наместо „противник“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היום",
+      "rationale": "„денес“ се повторува четири пати во стихот — ритам на итноста на Давидовиот одговор."
+    }
+  ],
+  "translation": "И рече Давид: Што мене со вас, синовите на Церуја, зашто ми станувате денес сатан? Денес ќе се убие човек во Јисраел? Зарем не знам дека денес јас сум крал над Јисраел?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "56483ec93623095d4788b3315167d2165a1cbc5bcc96a0fba010b716492ceb11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/19\/21-24.1792448439189.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Што"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "со вас"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Церуја"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "станувате"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "לשטן",
+      "gloss": "сатан"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Денес"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ќе се убие"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "во Јисраел"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨Зарем⟩"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "крал"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T22:20:39.195942583Z",
+  "model": "glm-5.3"
+}

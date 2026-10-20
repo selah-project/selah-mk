@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 9:11",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "донесе",
+      "rationale": "נשא е буквално „подигна\/крева“, тука во смисла на снабдување и пренос"
+    },
+    {
+      "kind": "crux",
+      "subject": "ברושים",
+      "rationale": "чемпрес наспроти бор\/емања — дрво со несигурна идентификација"
+    },
+    {
+      "kind": "measurement",
+      "subject": "дваесет града",
+      "rationale": "бројот на градови дадени на Хирам е броен целосно"
+    }
+  ],
+  "translation": "Хирам, царот на Цор, му донесе на ⟨את⟩ Шеломо дрва од кедар и дрва од чемпрес и злато, за сè што посакуваше; тогаш царот Шеломо му даде на Хирам дваесет града во земјата Галил.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "83c105468cb03b4b62e29e5cfd3777ca43e5ea82f11da8090585f6c89da39106",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/9\/9-12.1792448721710.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חירם",
+      "gloss": "Хирам"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цор"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "донесе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шеломо"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "дрва"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "кедар"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "и дрва"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "чемпрес"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "и злато"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "за сè"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "што посакуваше"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тогаш"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "לחירם",
+      "gloss": "на Хирам"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "дваесет"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "града"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "во земјата"
+    },
+    {
+      "surface": "הגליל",
+      "gloss": "Галил"
+    }
+  ],
+  "timestamp": "2026-10-19T22:25:21.712344293Z",
+  "model": "glm-5.3"
+}

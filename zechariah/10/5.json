@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 10:5",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "што",
+      "rationale": "хебрејскиот нема релативна честица; македонскиот бара „што“ за да се поврзе учестволот"
+    },
+    {
+      "kind": "crux",
+      "subject": "חוצות",
+      "rationale": "„надворешности\/улици“ — надворешни простори; традицијата дели меѓу „улиците“ и „надвор“"
+    }
+  ],
+  "translation": "И ќе бидат како јунаци што газат во калта на улиците во војната, и ќе се борат, зашто Јахве е со нив, и ќе ги посрамат јавачите на коњи.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9673acada831d6f6b8a432867083438694cd5935c0468f51ebe476f7e49a291b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/10\/5-8.1792452792357.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "и ќе бидат"
+    },
+    {
+      "surface": "כגברים",
+      "gloss": "како јунаци"
+    },
+    {
+      "surface": "בוסים",
+      "gloss": "газат"
+    },
+    {
+      "surface": "בטיט",
+      "gloss": "во калта"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "на улиците"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "во војната"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "и ќе се борат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "со нив"
+    },
+    {
+      "surface": "והבישו",
+      "gloss": "и ќе ги посрамат"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "јавачите"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "на коњи"
+    }
+  ],
+  "timestamp": "2026-10-19T23:33:12.358299790Z",
+  "model": "glm-5.3"
+}

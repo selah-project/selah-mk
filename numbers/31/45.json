@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "магариња",
+      "rationale": "Број на запленет добиток: триесет илјади и петстотини магариња."
+    }
+  ],
+  "translation": "и магариња триесет илјади и петстотини",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "4d832c671a2dde3ff783d6dc793b8aa0805c72d699d5c1dd282495e27361688a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/31\/45-48.1792445173821.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "и магариња"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "триесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "и пет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотини"
+    }
+  ],
+  "timestamp": "2026-10-19T21:26:13.822302144Z",
+  "model": "glm-5.3"
+}

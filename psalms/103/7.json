@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דרכים\/עלילות",
+      "rationale": "„патишта“ (начин на дејство) спротивставено на „дела“ (exploits) — Моше добива познато, народот видено."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨а⟩",
+      "rationale": "хебрејскиот нема сврзник пред вториот член, македонскиот бара спрега."
+    }
+  ],
+  "translation": "Ги запознава своите патишта со Моше, ⟨а⟩ на синовите Јисраелови — своите дела.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/103\/5-8.1792453813855.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Ги запознава"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "своите патишта"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "со Моше"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелови"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "своите дела"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:13.856258684Z",
+  "model": "glm-5.3"
+}

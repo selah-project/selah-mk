@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 16:12",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעוני",
+      "rationale": "'во неволјата моја' против традиционалното 'на измамата моја\/злото што ми е сторено' — несогласување дали станува збор за страдање или вина"
+    }
+  ],
+  "translation": "Може Јахве да погледне на неволјата моја, и Јахве да ми врати добро наместо понижувањето негово овој ден.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "fa3ea732bc9e47d22f162419bc3012e6a4957ca7ff8eb8c494de33f640ce2ff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/16\/9-12.1792448299003.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "Може"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "да погледне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "на неволјата моја"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "и да врати"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добро"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "наместо"
+    },
+    {
+      "surface": "קללתו",
+      "gloss": "понижувањето негово"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денот"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    }
+  ],
+  "timestamp": "2026-10-19T22:18:19.005725701Z",
+  "model": "glm-5.3"
+}

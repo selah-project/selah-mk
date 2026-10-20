@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 2:1",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨еден⟩",
+      "rationale": "хебрејскиот вели само „ден“; македонскиот бара член или број"
+    },
+    {
+      "kind": "substitution",
+      "subject": "пред",
+      "rationale": "על значи буквално „врз\/спроти“, во овој контекст е поставување во присуство"
+    },
+    {
+      "kind": "crux",
+      "subject": "сатаната",
+      "rationale": "השטן со член — „противникот“ како функција, не още личност со име"
+    }
+  ],
+  "translation": "И се случи ⟨еден⟩ ден, и дојдоа синовите на Елохим да застанат пред Јахве, и дојде и сатаната меѓу нив да застане пред Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "cf9a90cd27c919e61e5f805101570ce0608272af93015226d9f070f033045f42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/2\/1-4.1792454862323.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и се случи"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨еден⟩ ден"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и дојдоа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "להתיצב",
+      "gloss": "да застанат"
+    },
+    {
+      "surface": "על",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "и дојде"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "сатаната"
+    },
+    {
+      "surface": "בתכם",
+      "gloss": "меѓу нив"
+    },
+    {
+      "surface": "להתיצב",
+      "gloss": "да застане"
+    },
+    {
+      "surface": "על",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-20T00:07:42.324107826Z",
+  "model": "glm-5.3"
+}

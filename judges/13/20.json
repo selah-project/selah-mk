@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 13:20",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בעלות \/ ויעל",
+      "rationale": "Истиот корен עלה: пламенот се издига и ангелот се вознесува — повторување изгубено во македонскиот."
+    },
+    {
+      "kind": "measurement",
+      "subject": "השמימה",
+      "rationale": "Двоината שמים останува како „небо“ — просторна насока кон висините."
+    }
+  ],
+  "translation": "И биде, кога пламенот се издигна од жртвеникот кон небото, ангелот на Јахве се вознесе во пламенот на жртвеникот; а Маноах и жена му гледаа и паднаа на лицата свои на земја.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5ce0e3c554e09bceb60a02bdb875403f132b3fea2aca8b4d24f1710aba7e8caf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/13\/17-20.1792446480506.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "кога се издигна"
+    },
+    {
+      "surface": "הלהב",
+      "gloss": "пламенот"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жртвеникот"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "кон небото"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "се вознесе"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ангелот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "בלהב",
+      "gloss": "во пламенот"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "на жртвеникот"
+    },
+    {
+      "surface": "ומנוח",
+      "gloss": "а Маноах"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "и жена му"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "гледаа"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "и паднаа"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "лицата свои"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "на земја"
+    }
+  ],
+  "timestamp": "2026-10-19T21:48:00.507901837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 7:1",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "са",
+      "rationale": "אתו тука е предлог со близност, македонскиот бара „са него“"
+    },
+    {
+      "kind": "crux",
+      "subject": "מצפון",
+      "rationale": "„од север“ наспроти читаната „јужно од него“ (מנגד\/מתיכן); согласноста зависи од географијата"
+    }
+  ],
+  "translation": "Утро рано стана Јерубаал, тоа е Гидеон, и сиот народ што беше ⟨את⟩ ⟨са⟩ него, и се утаборија кај Еин-Харод; а логорот на Мидијан му беше од север, под ридот на Морех, во долината.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "bac4f7d8a929995e390d1bb600574bcefaa15bd0778d0bc58bb3c6b14e1dab01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/7\/1-4.1792446377651.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "утро рано стана"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Јерубаал"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тоа е"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Гидеон"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сиот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨са⟩ него"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и се утаборија"
+    },
+    {
+      "surface": "על",
+      "gloss": "кај"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Еин"
+    },
+    {
+      "surface": "חרד",
+      "gloss": "Харод"
+    },
+    {
+      "surface": "ומחנה",
+      "gloss": "а логорот"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "на Мидијан"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "од север"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "под ридот"
+    },
+    {
+      "surface": "המורה",
+      "gloss": "на Морех"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "во долината"
+    }
+  ],
+  "timestamp": "2026-10-19T21:46:17.652044877Z",
+  "model": "glm-5.3"
+}

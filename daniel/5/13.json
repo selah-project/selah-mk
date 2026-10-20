@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 5:13",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Арамејскиот אנתה הוא е двоен заназначување на „ти“; македонскиот прашален облик бараше поткрепа со „е“"
+    },
+    {
+      "kind": "you",
+      "subject": "до Даниел",
+      "rationale": "Царот Валтасар му се обраќа директно на Даниел со прашање"
+    }
+  ],
+  "translation": "Тогаш Даниел беше внесен пред царот; одговори царот и рече на Даниел: Ти ли си ⟨е⟩ тој Даниел од синовите на прогонството на Јехуда, кого царот, татко ми, доведе од Јехуда?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0947c236fe496869cae8123fbf2bc3b3756d996c40d17f047f6479dff12a9e7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/5\/13-16.1792456108102.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "тогаш"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "העל",
+      "gloss": "беше внесен"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "пред"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "одговори"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "на Даниел"
+    },
+    {
+      "surface": "אנתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨е⟩"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "די",
+      "gloss": "што"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "גלותא",
+      "gloss": "на прогонството"
+    },
+    {
+      "surface": "די",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהוד",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "די",
+      "gloss": "кого"
+    },
+    {
+      "surface": "היתי",
+      "gloss": "доведе"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царот"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "татко ми"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "יהוד",
+      "gloss": "Јехуда"
+    }
+  ],
+  "timestamp": "2026-10-20T00:28:28.102875074Z",
+  "model": "glm-5.3"
+}

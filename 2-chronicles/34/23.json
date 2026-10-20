@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 34:23",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до пратениците на царот",
+      "rationale": "Хулда им говори директно на испратаниците, а пораката е за 'човекот' — царот"
+    }
+  ],
+  "translation": "И таа им рече: Вака вели Јахве, Елохим на Јисраел: Кажете му на човекот што ве пратил кај мене:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3ef4e8d171edb17148a8056a187317150f64be6cbf29e4c1282866484c01d801",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/34\/21-24.1792457914539.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и таа рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כה",
+      "gloss": "вака"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "кажете"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "му на човекот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ве пратил"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "кај мене"
+    }
+  ],
+  "timestamp": "2026-10-20T00:58:34.540718525Z",
+  "model": "glm-5.3"
+}

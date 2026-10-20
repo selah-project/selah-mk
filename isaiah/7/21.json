@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ќе одгледа",
+      "rationale": "יחיה е причинско од 'да живее' — 'ќе одржи во живот', букв. 'ќе оживее'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "две овци и кози",
+      "rationale": "бројот на стадото е сочуван: една јуница и две овци"
+    }
+  ],
+  "translation": "И ќе биде во тој ден: човек ќе одгледа јуница од говедата и две овци и кози.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "85073350a8c0d5da1c6ec0b8ea2a0e0060e10127b9001d99e876af1548692401",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/7\/21-24.1792449641212.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ќе одгледа"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "јуница"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "говеда"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "и две"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "овци и кози"
+    }
+  ],
+  "timestamp": "2026-10-19T22:40:41.213559904Z",
+  "model": "glm-5.3"
+}

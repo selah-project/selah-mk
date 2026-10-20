@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "директна молитва — просьба за казна во мера, не во гнев."
+    },
+    {
+      "kind": "substitution",
+      "subject": "гнев",
+      "rationale": "буквално 'во носот твој' — אף е нос\/ноздра, пренесено гнев."
+    },
+    {
+      "kind": "crux",
+      "subject": "במשפט",
+      "rationale": "'со суд' (според право) vs 'со мера' (JPS 'in measure') — פן תמעטני тера читање 'во мера'."
+    }
+  ],
+  "translation": "Казни ме, Јахве, само со суд, не во гневот свој, за да не ме умалиш.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "93273d961e0ece9667e215f449193c52e7cd634457e66cadb78ef9de3b0cf20c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/10\/21-24.1792450547108.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסרני",
+      "gloss": "Казни ме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "со суд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "во гневот свој"
+    },
+    {
+      "surface": "פן",
+      "gloss": "за да не"
+    },
+    {
+      "surface": "תמעטני",
+      "gloss": "ме умалиш"
+    }
+  ],
+  "timestamp": "2026-10-19T22:55:47.110723728Z",
+  "model": "glm-5.3"
+}

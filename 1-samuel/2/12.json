@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בני בליעל",
+      "rationale": "буквално 'синови на безвредност' — безкорисни\/расипани луѓе"
+    },
+    {
+      "kind": "addition",
+      "subject": "Го",
+      "rationale": "македонскиот бара кратка заменска честица при знаење со објект"
+    }
+  ],
+  "translation": "А синовите на Илаја беа синови на Велијал; не Го знаеја ⟨את⟩ Јахве.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/2\/9-12.1792446634440.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "а синовите"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на Илаја"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "на Велијал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "Го знаеја"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T21:50:34.441992790Z",
+  "model": "glm-5.3"
+}

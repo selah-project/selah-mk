@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 14:32",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Тората",
+      "rationale": "תורת овде значи 'упатство\/закон за случаи', но според D2 се задржува формата Тора"
+    },
+    {
+      "kind": "substitution",
+      "subject": "цараат",
+      "rationale": "צרעת не е moderna лепра; транслитерира како цараат за да се задржи опсегот на значењето"
+    },
+    {
+      "kind": "substitution",
+      "subject": "удар",
+      "gloss-rationale": "",
+      "rationale": "נגע буквално 'удар\/ранa' — погодена кожна болест"
+    }
+  ],
+  "translation": "Ова е Тората на оној во кого има удар на цараат, чија рака не стига за очистувањето негово.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e2cd7ce35c96e09522fd259e70279ac4a68cdb64f800767eaf69433ef3225fc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/14\/29-32.1792444236678.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тората"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "на оној"
+    },
+    {
+      "surface": "בו",
+      "gloss": "во кого"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "удар"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "цараат"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чија"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "стига"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "раката"
+    },
+    {
+      "surface": "בטהרתו",
+      "gloss": "за очистувањето негово"
+    }
+  ],
+  "timestamp": "2026-10-19T21:10:36.680725823Z",
+  "model": "glm-5.3"
+}

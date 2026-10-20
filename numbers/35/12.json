@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 35:12",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גואל",
+      "rationale": "буквално 'откупувач\/искупител' (роднина-откупувач); 'крвнот одмазник' е улога, не облик; алтернативно 'роднината-откупувач'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "למשפט",
+      "rationale": "משפט е 'суд\/право\/пресуда', македонскиот бараш именска градација"
+    }
+  ],
+  "translation": "И градовите да ви бидат за засолниште од крвниот одмазник, и да не умре убиецот додека не застане пред заедницата на суд.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9ceeb1c87cf123bb8c17e200ee0c9efadc9b5b5f04b8eee99a568daa30fbc83b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/35\/9-12.1792445238574.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "И да бидат"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "градовите"
+    },
+    {
+      "surface": "למקלט",
+      "gloss": "за засолниште"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "од крвниот одмазник"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "умре"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "убиецот"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "не застане"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "заедницата"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "на суд"
+    }
+  ],
+  "timestamp": "2026-10-19T21:27:18.575711418Z",
+  "model": "glm-5.3"
+}

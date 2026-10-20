@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 4:8",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זרעי\/יקצרהו",
+      "rationale": "сеат\/жнаат — земјоделската метафора: што посееш, тоа и пожнеш"
+    },
+    {
+      "kind": "substitution",
+      "subject": "него го жнаат",
+      "rationale": "суфиксът הу враќа 'го' на посеаното — 'жнаат го ( своето дело )', не 'истото' како во KJV"
+    }
+  ],
+  "translation": "Како што видов: орачите на беззаконието и сејачите на мака — него го жнаат.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "651daa9554ff663b765f401e04b5a09d155f23b9e7c5d81a545cd120ce53e323",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/4\/5-8.1792454855421.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видов"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "орачите на"
+    },
+    {
+      "surface": "און",
+      "gloss": "беззаконието"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "и сејачите на"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "мака"
+    },
+    {
+      "surface": "יקצרהו",
+      "gloss": "него го жнаат"
+    }
+  ],
+  "timestamp": "2026-10-20T00:07:35.422253925Z",
+  "model": "glm-5.3"
+}

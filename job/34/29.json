@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 34:29",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחד",
+      "rationale": "„исто\/заедно“ — дали значи дека Елохим постапува подеднакво со народ и човек, или дека гледа и на народ и на човек едновремено."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישקט",
+      "rationale": "буквално „да даде покој\/мир“ — македонскиот бара глагол со друга слика."
+    }
+  ],
+  "translation": "И кога тој смирува, кој тогаш може да осуди? И кога го скрива лицето, кој може да го погледне? Врз народ и врз човек — исто.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "32bf92ad5ff7e21a86bd4268cefa935960753f5a9cd2fc268e18e423684f0666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/34\/29-32.1792455322252.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "и тој"
+    },
+    {
+      "surface": "ישקט",
+      "gloss": "смирува"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "ירשע",
+      "gloss": "осуди"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "скрива"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "кој"
+    },
+    {
+      "surface": "ישורנו",
+      "gloss": "може да го погледне"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "врз"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "врз"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "исто"
+    }
+  ],
+  "timestamp": "2026-10-20T00:15:22.253296290Z",
+  "model": "glm-5.3"
+}

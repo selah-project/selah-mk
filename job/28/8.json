@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 28:8",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני שחץ",
+      "rationale": "Буквално „синовите на гордоста“ (јуначки ѕверови, KJV лавови) наспроти „горделивите ѕверови“ (JPS) — машината го чува буквализмот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "синовите на гордоста",
+      "rationale": "חץ е надменост, тука за дрските ѕверови — буквализмот е задржан"
+    }
+  ],
+  "translation": "Не ја изоделе синовите на гордоста, не поминал по неа лавот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8297eed3fe485dcd7ab9fa6e14f88d233b07233602ed65c18249473b8b237e36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/28\/5-8.1792455158917.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הדריכהו",
+      "gloss": "ја изоделе"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "на гордоста"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "поминал"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "по неа"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "лавот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:12:38.918766288Z",
+  "model": "glm-5.3"
+}

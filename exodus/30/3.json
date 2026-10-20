@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "венец",
+      "rationale": "זֵר е рабна мансарда\/листел, не круна — „венец“ по форма, „корница“ по предмет"
+    }
+  ],
+  "translation": "И ќе го обложиш ⟨את⟩ него со злато чисто: ⟨את⟩ покривот негов и ⟨את⟩ ѕидовите негови наоколу и ⟨את⟩ роговите негови; и ќе направиш за него венец од злато наоколу.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c1adbe715a292f985d482873e77ea895e49169ad141f650e3592857536c02aff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/30\/1-4.1792443816768.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "И ќе обложиш"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисто"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "покривот негов"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "покривот негов"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "ѕидовите негови"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "ѕидовите негови"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "роговите негови"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "роговите негови"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "и ќе направиш"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за него"
+    },
+    {
+      "surface": "זר",
+      "gloss": "венец"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколу"
+    }
+  ],
+  "timestamp": "2026-10-19T21:03:36.770500794Z",
+  "model": "glm-5.3"
+}

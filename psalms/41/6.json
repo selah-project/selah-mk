@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "„велат",
+      "rationale": "непрямата реч на македонски бара воведен глагол"
+    }
+  ],
+  "translation": "Непријателите мои велат зло за мене: „Кога ќе умре и името негово да пропадне?“",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f45fa4f4a0f912c1c808f8005b62c7353607d92c3cc69f7a076171bb18f6ed49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/41\/5-8.1792453280777.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "непријателите мои"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "велат"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мене"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ќе умре"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "и да пропадне"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името негово"
+    }
+  ],
+  "timestamp": "2026-10-19T23:41:20.778511734Z",
+  "model": "glm-5.3"
+}

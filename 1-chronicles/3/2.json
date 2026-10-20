@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 3:2",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "третиот · четвртиот",
+      "rationale": "пописен список по реден број"
+    }
+  ],
+  "translation": "третиот Авшалом, син на Мааха, ќерка на Талмај, царот на Гешур; четвртиот Адонија, син на Хагит.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c3795f4562fc399c747c35e08df0f25ecf74d5cc987341f4b77bad1d30c950c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/3\/1-4.1792456811060.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "третиот"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ќерка"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Талмај"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Гешур"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "четвртиот"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Адонија"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Хагит"
+    }
+  ],
+  "timestamp": "2026-10-20T00:40:11.061745388Z",
+  "model": "glm-5.3"
+}

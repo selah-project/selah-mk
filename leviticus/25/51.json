@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "leviticus 25:51",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפיהן",
+      "rationale": "буквално „според устата нивна“ — „уста“ како мерка\/според, идном во „според нив“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "откуп според годините",
+      "rationale": "пресметка: повеќе преостанати години → повисок откуп"
+    }
+  ],
+  "translation": "Ако уште многу има години, според нив да го врати откупот свој — од среброто на купувањето свое.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "125238ef727bdb1afe699b3eac5f861741687a04759881d9709f19a8507537f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/25\/49-52.1792444484299.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уште"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "многу"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "לפיהן",
+      "gloss": "според нив"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "да го врати"
+    },
+    {
+      "surface": "גאלתו",
+      "gloss": "откупот свој"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "од среброто"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "на купувањето свое"
+    }
+  ],
+  "timestamp": "2026-10-19T21:14:44.300567981Z",
+  "model": "glm-5.3"
+}

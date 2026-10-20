@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Го",
+      "rationale": "клитик за предметот што македонскиот императив го бара"
+    },
+    {
+      "kind": "invitation",
+      "subject": "до Јерушалаим и Цион",
+      "rationale": "двоен повик во императив — градот и гората се повикуваат да фалат"
+    }
+  ],
+  "translation": "Величај Го, Јерушалаим, ⟨את⟩ Јахве; фали Го твојот Елохим, Цион!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/147\/9-12.1792454209772.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Величај"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "фали Го"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    }
+  ],
+  "timestamp": "2026-10-19T23:56:49.773240547Z",
+  "model": "glm-5.3"
+}

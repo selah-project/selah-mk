@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חכמים\/וחכם · רעה\/ירוע",
+      "rationale": "коренска игра: 'мудри→мудар', а רעה (пасе\/дружи се) одекнува со רוע (-propаѓа) — созвучјето се губи"
+    },
+    {
+      "kind": "crux",
+      "subject": "ורעה",
+      "rationale": "буквално 'пчие\/ги пасе глупавите' (како пастир) — 'дружи се' е улога, сликата на пастир е изгубена"
+    }
+  ],
+  "translation": "Кој оди ⟨со⟩ ⟨את⟩ мудрите станува мудар, а кој се дружи со глупави ⟨ќе⟩ пропадне.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9f12e9deddf112db526c31462abd0a43af59dbbe6b903eddf374fc951026c0e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/13\/17-20.1792454511665.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мудрите"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрите"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "станува мудар"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "се дружи"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "со глупави"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "ќе пропадне"
+    }
+  ],
+  "timestamp": "2026-10-20T00:01:51.667168515Z",
+  "model": "glm-5.3"
+}

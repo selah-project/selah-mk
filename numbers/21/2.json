@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 21:2",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נתן תתן",
+      "rationale": "Инфинитивен апсолутен — 'давајќи даш', за потврда: 'навистина дадеш'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "уништам",
+      "rationale": "חרם е 'забрана\/посветување за уништување' — חерем, не само уништување."
+    }
+  ],
+  "translation": "И Јисраел даде завет на Јахве и рече: Ако навистина го дадеш ⟨את⟩ овој народ во раката моја, ќе ги уништам ⟨את⟩ градовите нивни.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "5a5565236b19cab88eba94ea7deea28af558303e9fb9ad29fdfd29f46756ddd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/21\/1-4.1792444992664.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "и даде завет"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "завет"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "давање"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "даш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "овој народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "во раката моја"
+    },
+    {
+      "surface": "והחרמתי",
+      "gloss": "ќе ги уништам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "градовите нивни"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "градовите нивни"
+    }
+  ],
+  "timestamp": "2026-10-19T21:23:12.665835432Z",
+  "model": "glm-5.3"
+}

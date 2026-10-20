@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 20:3",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמע … אל תיראו",
+      "rationale": "ехо на Шема (Втор. 6:4); повикот 'Слушај, Јисраел' во нов контекст"
+    },
+    {
+      "kind": "idiom",
+      "subject": "нека не омекне срцето",
+      "rationale": "אל ירך לבבכם — букв. 'нека не омекне' како восок"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Слушај, Јисраел",
+      "rationale": "повик-императив што го повикува народот"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јисраел",
+      "rationale": "свештеникот му се обраќа директно на народот"
+    }
+  ],
+  "translation": "И ќе им рече: Слушај, Јисраел, вие сте блиску денес до битка против непријателите ваши; нека не омекне срцето ваше, не плашете се, не брзајте и не треперете од нив.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "2ba94508e25b7e333030e7181e72cd544ec4105870041f07d14ce3b4ea974a51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/20\/1-4.1792445609130.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и ќе им рече"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ним"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Слушај"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "сте блиску"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "до битка"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "непријателите ваши"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нека не"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "омекне"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "срцето ваше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "плашете се"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תחפזו",
+      "gloss": "брзајте"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תערצו",
+      "gloss": "треперете"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "од нив"
+    }
+  ],
+  "timestamp": "2026-10-19T21:33:29.131227755Z",
+  "model": "glm-5.3"
+}

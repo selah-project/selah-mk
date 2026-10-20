@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 10:28",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Хебрејскиот нема копула"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תוחלת\/תקות",
+      "rationale": "Два синонимни збора за очекување во паралелните колона — македонскиот разликува „чекање“ и „надежда“"
+    }
+  ],
+  "translation": "Чекањето на праведните ⟨е⟩ радост, а надежта на безбожниците ќе загине.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "0e29458a76f48c159b943bcff127448addfbffeb2c9bad5c83c4cab8666725fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/10\/25-28.1792454395861.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "чекањето"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "на праведните"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радост"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "а надежта"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожниците"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ќе загине"
+    }
+  ],
+  "timestamp": "2026-10-19T23:59:55.862354308Z",
+  "model": "glm-5.3"
+}

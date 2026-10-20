@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "шест месеци",
+      "rationale": "точна временска мерка на воената окупација"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הכרית",
+      "rationale": "буквално 'да исече' — продолжува сликата на удирање од 11:15"
+    }
+  ],
+  "translation": "Зашто шест месеци остана таму Јоав и сите Јисраелци, додека не истреби секој мажки во Едом.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "703b0e48ff8657bc1adbed01aac2320fc23f5f2a4be4a7b9285925df463ecb71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/11\/13-16.1792448748816.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "шест"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "месеци"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "остана"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сите"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраелци"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додека не"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "истреби"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "мажки"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "во Едом"
+    }
+  ],
+  "timestamp": "2026-10-19T22:25:48.818345809Z",
+  "model": "glm-5.3"
+}

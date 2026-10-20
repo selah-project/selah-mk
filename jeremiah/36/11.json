@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 36:11",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מעל",
+      "rationale": "'од над' — буквално 'од върху свитокот', просторната слика е обична во македонскиот со 'од'."
+    }
+  ],
+  "translation": "И Микајаху, син на Гемарјаху, син на Шафан, ги чу ⟨את⟩ сите зборови на Јахве од свитокот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "37ceb5fcc7b1e41e5a52b841bdf3e146dfa8ccab3761c47b9abe54a007962ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/36\/9-12.1792450928563.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И ги чу"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "Микајаху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "на Гемарјаху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "на Шафан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сите зборови на Јахве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "зборовите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "свитокот"
+    }
+  ],
+  "timestamp": "2026-10-19T23:02:08.564843986Z",
+  "model": "glm-5.3"
+}

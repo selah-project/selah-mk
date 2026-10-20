@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 23:19",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "мимин",
+      "rationale": "'од десно\/од југ' — десната страна при гледање кон исток е југ."
+    },
+    {
+      "kind": "you",
+      "subject": "зифјаните му се обраќаат на Шаул",
+      "rationale": "директно соопштување со прашална реторика."
+    }
+  ],
+  "translation": "И се качуваа зифјаните кај Шаул во Гива, велейки: Зар Давид не се крие кај нас во тврдините, во Хореша, на ридот Хахила, што е од десната страна на Јешимон?",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "de06ce1e93c96e25459a33b314c237251cad6c0ca6a460ad8b56267119b63dbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/23\/17-20.1792447954033.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "се качуваа"
+    },
+    {
+      "surface": "זפים",
+      "gloss": "зифјаните"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "во Гива"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велейки"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "зар не"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "се крие"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "кај нас"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "во тврдините"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "во Хореша"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "на ридот"
+    },
+    {
+      "surface": "החכילה",
+      "gloss": "Хахила"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што е"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "од десната страна"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "Јешимон"
+    }
+  ],
+  "timestamp": "2026-10-19T22:12:34.035457850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "nehemiah 7:55",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "список на родовите",
+      "rationale": "Продолжение на попишната листа на родовите."
+    },
+    {
+      "kind": "crux",
+      "subject": "Сисера",
+      "rationale": "Исто име како хананскиот војсководец од Судии 4 — тука род на нетиними."
+    }
+  ],
+  "translation": "синовите на Баркос, синовите на Сисера, синовите на Темах,",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9f5fbc75c4e2ff9375e3b7b28f7598c9be38c9c829f3a5557c97eaaa2895d899",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/7\/53-56.1792456625705.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "на Баркос"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "на Сисера"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "на Темах"
+    }
+  ],
+  "timestamp": "2026-10-20T00:37:05.705864107Z",
+  "model": "glm-5.3"
+}

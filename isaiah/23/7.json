@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 23:7",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יבלוה רגליה",
+      "rationale": "KJV\/ASV читаат идно „њезините нозе ќе ја однесат“; JPS минато „нозете ја однесоа“ — хебрејскиот е двосмислен по време."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ликува",
+      "rationale": "עליזה е женски придев во еднина — женствено персонифициран град, не само „радосен“."
+    },
+    {
+      "kind": "you",
+      "subject": "до слушателите",
+      "rationale": "Реторичко прашање упатено директно со לכם „за вас“."
+    }
+  ],
+  "translation": "Еда ова е за вас ⟨таа што ликува⟩, чијашто древност е од деновите одамна? Нејзините нозе ќе ја однесат далеку да престојува.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b030b627e81fb13577fe4686e57f275d962c51a2c9c6d0b292258da7b19b67b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/23\/5-8.1792449799660.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "таа што ликува"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "од деновите"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "одамна"
+    },
+    {
+      "surface": "קדמתה",
+      "gloss": "нејзината древност"
+    },
+    {
+      "surface": "יבלוה",
+      "gloss": "ќе ја однесат"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "нејзините нозе"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "далеку"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "да престојува"
+    }
+  ],
+  "timestamp": "2026-10-19T22:43:19.662588903Z",
+  "model": "glm-5.3"
+}

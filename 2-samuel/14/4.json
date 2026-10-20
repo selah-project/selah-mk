@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 14:4",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על אפיה ארצה",
+      "rationale": "буквално «на носот свој на земја» — на лицето, падната на земја"
+    },
+    {
+      "kind": "crux",
+      "subject": "הושיעה",
+      "rationale": "од корен ישע: «спаси\/помогај, царю» — повик за помош, не теолошка позадина"
+    }
+  ],
+  "translation": "И рече жената ткоанка на царот, и падна на лицето свое на земја, и се поклони, и рече: Помогај, царю!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a887e94300c01e8730dbd1029c78f5eb973f69af4bce7190ddfd59668d057a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/14\/4-4.1792457982218.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "התקעית",
+      "gloss": "ткоанка"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "и падна"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אפיה",
+      "gloss": "лицето свое"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "на земја"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "и се поклони"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הושעה",
+      "gloss": "Помогај"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царю"
+    }
+  ],
+  "timestamp": "2026-10-20T00:59:42.219044466Z",
+  "model": "glm-5.3"
+}

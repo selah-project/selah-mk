@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 12:25",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "воен попис",
+      "rationale": "Список на бројот на вооружени мажи по племиња, шеснаесетта ставка во пописот кај Хеброн."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חלוצי צבא",
+      "rationale": "Буквално 'облечени во опрема за војска' — рендерирано како 'подготвени за војска'."
+    }
+  ],
+  "translation": "Од синовите Јехуда, носачи на штит и копје — шест илјади и осум стотини, подготвени за војска.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "d92af168d51f5de5c13f44151ec9e70448356a2d27a67f392f45a43b0cb53124",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/12\/25-28.1792456992759.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовите"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "носачи"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "штит"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "и копје"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "шест"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "и осум"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотини"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "подготвени"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "војска"
+    }
+  ],
+  "timestamp": "2026-10-20T00:43:12.760124094Z",
+  "model": "glm-5.3"
+}

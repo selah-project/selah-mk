@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "третата година",
+      "rationale": "стихот датира настанот според година на царување"
+    },
+    {
+      "kind": "crux",
+      "subject": "третата година",
+      "rationale": "Данаил 1:1 вели трета година на Јехојаким, а Еремија 25:1 четврта — позната несогласувачка меѓу датирањата"
+    }
+  ],
+  "translation": "Во третата година од царувањето на Јехојаким, царот на Јехуда, дојде Невухаднецар, царот на Вавел, во Јерушалаим и ја опседи.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a2edc38c8fb220bf83474c8b9c2f85fdff5255baf237d5aaed9956f61002fc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/1\/1-4.1792455960483.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "година"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "третата"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "од царувањето"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Јехојаким"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дојде"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Невухаднецар"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавел"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "и ја опседи"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "неа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:26:00.483686828Z",
+  "model": "glm-5.3"
+}

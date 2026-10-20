@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 32:15",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישמן...שמנת...כשית",
+      "rationale": "три глагола за дебелина во ред — градација: угои се, здебели, наталожи."
+    },
+    {
+      "kind": "crux",
+      "subject": "וינבל",
+      "rationale": "'го омаложи' наспроти 'стана безумен' — корен נבל носи и двете."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלוה",
+      "gloss-check": null,
+      "rationale": "'Елоах' — ретка едечна форма на Името, задржана како име, не како 'Бог'."
+    }
+  ],
+  "translation": "И Јешурун се угои и ритна — угои ⟨се⟩, се здебели, се наталожи — и го остави Елоах што го направил, и го омаложи Карпата на спасението негово.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "984ffc9bc2d68474341d88b613dbae9148e9cafd8928321bacbf4f5550c88c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/32\/13-16.1792445843261.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמן",
+      "gloss": "се угои"
+    },
+    {
+      "surface": "ישרון",
+      "gloss": "Јешурун"
+    },
+    {
+      "surface": "ויבעט",
+      "gloss": "и ритна"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "угои ⟨се⟩"
+    },
+    {
+      "surface": "עבית",
+      "gloss": "се здебели"
+    },
+    {
+      "surface": "כשית",
+      "gloss": "се наталожи"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "го остави"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоах"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "што го направил"
+    },
+    {
+      "surface": "וינבל",
+      "gloss": "го омаложи"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Карпата"
+    },
+    {
+      "surface": "ישעתו",
+      "gloss": "на спасението негово"
+    }
+  ],
+  "timestamp": "2026-10-19T21:37:23.262814011Z",
+  "model": "glm-5.3"
+}

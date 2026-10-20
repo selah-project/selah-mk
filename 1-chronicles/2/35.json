@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 2:35",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 2,
+  "translation": "И Шешан ја даде ⟨את⟩ ќерката своја на Јарха, слугата свој, за жена; и таа му роди ⟨את⟩ Атај.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e76c525b795bbad94390b5430f8f48126788b6524e3bac070f25ab5dd989caf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/2\/33-36.1792456804035.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И даде"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Шешан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ја"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ќерката своја"
+    },
+    {
+      "surface": "לירחע",
+      "gloss": "на Јарха"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "слугата свој"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жена"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Атај"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Атај"
+    }
+  ],
+  "timestamp": "2026-10-20T00:40:04.036226241Z",
+  "model": "glm-5.3"
+}

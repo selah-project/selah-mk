@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 30:13",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תעלה",
+      "rationale": "истиот збор значи и наводен канал и преврска; тука „преврска“ — преводот го избира значењето според контекстот на раната"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דן דינך",
+      "rationale": "игра на коренот דן — „да го суди твојот суд“ — повторувањето се губи во мазниот превод"
+    }
+  ],
+  "translation": "Нема кој да го суди твојот суд за раната; за преврска нема — нема лекови за тебе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "99297e10cd8919fe9d434c72cf7f0c844a03727ca62dde7d34ca55c9554d468d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/30\/13-16.1792450864942.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "דן",
+      "gloss": "да суди"
+    },
+    {
+      "surface": "דינך",
+      "gloss": "твојот суд"
+    },
+    {
+      "surface": "למזור",
+      "gloss": "за раната"
+    },
+    {
+      "surface": "רפאות",
+      "gloss": "лекови"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "за преврска"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за тебе"
+    }
+  ],
+  "timestamp": "2026-10-19T23:01:04.943502180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 1:2",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בכו תבכה",
+      "rationale": "Инфинитив апсолутен — „плаче-плаче“ — дуплирање што го влече плачот; македонскиот го носи со „и“."
+    },
+    {
+      "kind": "addition",
+      "subject": "таа",
+      "rationale": "Македонскиот бара подмет кај „плаче таа“; хебрејскиот го има во завршните наставки."
+    }
+  ],
+  "translation": "Плаче и плаче таа ноќе, и солзите ѝ се на образите; нема утешител за неа меѓу сите што ја сакаа — сите нејзини пријатели ја издаа, и станале ѝ непријатели.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9f3d9a904525dee1a3f9eb2475fa53f53d00376f398bbede518c33fc6a6fdf7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/1\/1-4.1792455520853.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכו",
+      "gloss": "плаче"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "и-плаче"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ноќе"
+    },
+    {
+      "surface": "ודמעתה",
+      "gloss": "и-солзите-нејзини"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "образите"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "לה",
+      "gloss": "за-неа"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "утешител"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "меѓу-сите"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "што-ја-сакаа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "רעיה",
+      "gloss": "пријатели-нејзини"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ја-издаа"
+    },
+    {
+      "surface": "בה",
+      "gloss": "неа"
+    },
+    {
+      "surface": "היו",
+      "gloss": "станаа"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ѝ"
+    },
+    {
+      "surface": "לאיבים",
+      "gloss": "непријатели"
+    }
+  ],
+  "timestamp": "2026-10-20T00:18:40.854211580Z",
+  "model": "glm-5.3"
+}

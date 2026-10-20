@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לדבר לשלום",
+      "rationale": "хебрејски 'да зборуваат на него на мир' = да му говорат пријателски"
+    }
+  ],
+  "translation": "И браќата му видове дека татко им го сака ⟨את⟩ него повеќе од сите браќа негови, и го намразија ⟨את⟩ него, и не можеа да му зборуваат на мир.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "72b6973ed3bb683749f37a9efc5286c33fb0be434f30b0084174ae02a374dd18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/37\/1-4.1792443059276.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "и видове"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "браќата негови"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "сака"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "татко им"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "повеќе од сите"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "браќа негови"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "и го намразија"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "можеа"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "да му зборуваат"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "на мир"
+    }
+  ],
+  "timestamp": "2026-10-19T20:50:59.286862234Z",
+  "model": "glm-5.3"
+}

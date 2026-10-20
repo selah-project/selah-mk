@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 6:5",
+  "book": "zechariah",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "руах",
+      "rationale": "רוחות значи и „ветрови“ и „духови“; руски\/англиски преводи се делат тука — ние го чуваме зборот руах."
+    },
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "Македонскиот бара сврзник кај именската реченица."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מהתיצב",
+      "rationale": "Инфинитивен конструкт од יצב во.hitpaел — стојење\/претставување пред Адон."
+    }
+  ],
+  "translation": "И одговори ангелот и ми рече: Овие ⟨се⟩ четири руах на небесата, што излегуваат од стоењето пред господарот на целата земја.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7df23a8c6f971657e148a061574fec0d51f6c80c97112701353658eaabe3b0df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/6\/5-8.1792452800841.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и одговори"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ангелот"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "רחות",
+      "gloss": "руах"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "на небесата"
+    },
+    {
+      "surface": "יוצאות",
+      "gloss": "што излегуваат"
+    },
+    {
+      "surface": "מהתיצב",
+      "gloss": "од стоењето"
+    },
+    {
+      "surface": "על",
+      "gloss": "пред"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "господарот"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на целата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земја"
+    }
+  ],
+  "timestamp": "2026-10-19T23:33:20.842367747Z",
+  "model": "glm-5.3"
+}

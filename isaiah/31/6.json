@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 31:6",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "повик за враќање",
+      "rationale": "императив שובו директно ги повикува синовите на Јисраел да се вратат"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јисраел",
+      "rationale": "обраќање до синовите на Јисраел"
+    }
+  ],
+  "translation": "Вратите се кон Оној од кого длабоко отстапија, синови на Јисраел.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "82bb8e1adb93bf805abb941e20304ed448a56e58bf6dd27476c9b8ddc03bffd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/31\/5-8.1792449909982.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "Вратите се"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "кон Оној од"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "длабоко"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "отстапија"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    }
+  ],
+  "timestamp": "2026-10-19T22:45:09.983900679Z",
+  "model": "glm-5.3"
+}

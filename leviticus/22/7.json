@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨тој⟩ ⟨е⟩",
+      "rationale": "хебрејскиот испушта подмет и копула: וטהר е само 'и чист'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "леб",
+      "rationale": "לחם значи храна воопшто, не само леб"
+    }
+  ],
+  "translation": "и кога ќе зајде сонцето, ⟨тој⟩ ⟨е⟩ чист, и потоа да јаде од светите работи, зашто леб негов ⟨е⟩ тоа.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "8afa8e7a38b7d6ffdf1ec2f6d8d55753b2210cab5166a741214e3ea697c78057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/22\/5-8.1792444398735.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "и кога ќе зајде"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцето"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "и чист"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "и потоа"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "да јаде"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "светите работи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "леб негов"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тоа"
+    }
+  ],
+  "timestamp": "2026-10-19T21:13:18.738659552Z",
+  "model": "glm-5.3"
+}

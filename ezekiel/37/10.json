@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 37:10",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "војска",
+      "rationale": "חיל е сила, војска, богатство; избрана сликата на војска"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאד מאד",
+      "rationale": "двојно повторување „многу многу“ — задржано дословно"
+    }
+  ],
+  "translation": "И пророштував како што ми беше заповедано, и руахот влезе во нив, и оживеаа, и застанаа на нозете свои — војска многу, многу голема.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "84121e6dd3155f9c599a7f538d87a10f69da80d0a74a9246ab8bf29f844f3e6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/37\/9-12.1792451971875.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנבאתי",
+      "gloss": "И пророштував"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "ми беше заповедано"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "и влезе"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "во нив"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "руахот"
+    },
+    {
+      "surface": "ויחיו",
+      "gloss": "и оживеаа"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "и застанаа"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "нозете свои"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "војска"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голема"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    }
+  ],
+  "timestamp": "2026-10-19T23:19:31.876304234Z",
+  "model": "glm-5.3"
+}

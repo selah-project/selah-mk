@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רחיט",
+      "rationale": "רחיט (панел, како корито) се јавува само тука во целиот Танах"
+    },
+    {
+      "kind": "crux",
+      "subject": "ברותים",
+      "rationale": "чемпрес наспроти ела\/бор — разните преводи се делат токму на ова дрво"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот нема глагол-врска; македонскиот бара „се“"
+    }
+  ],
+  "translation": "Гредите на нашата куќа ⟨се⟩ кедри, а нашите панели ⟨се⟩ чемпреси.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b962f4b176a2c7c42b5c55bb0b73850add73fa6675c2ab6983b1cb36e1713a16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/song-of-songs\/1\/17-17.1792455403998.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "Гредите"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "на нашата куќа"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "кедри"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "нашите панели"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "чемпреси"
+    }
+  ],
+  "timestamp": "2026-10-20T00:16:43.999133492Z",
+  "model": "glm-5.3"
+}

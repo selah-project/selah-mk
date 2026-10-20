@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הגה",
+      "rationale": "Именката се јавува само тука во Танах — мрмореење\/вздив; преводите се делат помеѓу 'вздив', 'мисла' и 'приказна'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "деновите\/годините",
+      "rationale": "Стихот ги мери животните денови и години против Твојата јарост."
+    }
+  ],
+  "translation": "Зашто сите наши денови се свртеа во Твојата јарост; ги потрошевме годините наши како взив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e8d35c5276801861d77025b06d962e2cbdd4216f10d07a46f999dedc0d1c6252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/90\/9-12.1792453709499.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "наши денови"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "се свртеа"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "во Твојата јарост"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "ги потрошевме"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "годините наши"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "како"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "взив"
+    }
+  ],
+  "timestamp": "2026-10-19T23:48:29.500060376Z",
+  "model": "glm-5.3"
+}

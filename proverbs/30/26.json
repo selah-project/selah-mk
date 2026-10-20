@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 30:26",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "карпест јазовец",
+      "rationale": "שפן е хиракс (карпест јазовец), не зајак — традицијата минато низ „зајак“"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨се⟩",
+      "rationale": "хебрејскиот нема копула"
+    }
+  ],
+  "translation": "Карпестите јазовци ⟨се⟩ народ не моќен, а ставаат во карпата домот свој.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b20a2793d8e7190392732e592dc13d0bc7f0f8535555ce7aa04fba50fe474cb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/30\/25-28.1792454769208.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפנים",
+      "gloss": "карпестите јазовци"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "моќен"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "а ставаат"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "во карпата"
+    },
+    {
+      "surface": "ביתם",
+      "gloss": "домот свој"
+    }
+  ],
+  "timestamp": "2026-10-20T00:06:09.209181083Z",
+  "model": "glm-5.3"
+}

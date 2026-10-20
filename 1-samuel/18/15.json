@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויגר",
+      "rationale": "גור — 'страшува\/се држи настрана'; некои преводи: 'го почитуваше со страв' vs 'се плашеше'"
+    }
+  ],
+  "translation": "И Шаул виде дека тој дејствува многу мудро, и се плашеше од него.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "4e4b14f2836feb455bdd817b3ffdfc37829c269a7813f5690645f4c833be3912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/18\/13-16.1792446972910.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "виде"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "да"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "дејствува мудро"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "се плашеше"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "од него"
+    }
+  ],
+  "timestamp": "2026-10-19T21:56:12.911499871Z",
+  "model": "glm-5.3"
+}

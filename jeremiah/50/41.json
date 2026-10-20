@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "jeremiah 50:41",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "краиштата на земјата",
+      "rationale": "ירכתי е буквално 'крак\/заден дел', фигуративно најоддалечените делови"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יערו מירכתי",
+      "rationale": "игра меѓу עור (буди) и ירכה (краишта) — асонанса изгубена во преводот"
+    }
+  ],
+  "translation": "Ете, народ доаѓа од север, и голем гој, и многу кралеви ќе бидат разбудени од краиштата на земјата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "22529a4aa78b625975bacc5724d3aaa47317826c49d3153e04d2392c9676087f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/50\/41-44.1792451295574.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ете"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "доаѓа"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "од север"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "и гој"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голем"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "и многу кралеви"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многу"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "ќе бидат разбудени"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "од краиштата"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на земјата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:08:15.574792267Z",
+  "model": "glm-5.3"
+}

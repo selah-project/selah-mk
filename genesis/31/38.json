@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 31:38",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "дваесет години",
+      "rationale": "број на годините служба кај Лаван"
+    },
+    {
+      "kind": "addition",
+      "subject": "овци-мајки",
+      "rationale": "רחל е женско јагне од стадо; сложенка за да се види женскиот род"
+    }
+  ],
+  "translation": "Ова дваесет години јас сум со тебе; твоите овци-мајки и твоите кози не фрлија мртов плод, а јарците на твоето стадо не ги изедов.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "89cbf779b6fa314303680a5dcbcc667100bd052c7cb490bf29eb43c456eea18f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/31\/37-40.1792442925615.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "дваесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "јас"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "со тебе"
+    },
+    {
+      "surface": "רחליך",
+      "gloss": "твоите овци-мајки"
+    },
+    {
+      "surface": "ועזיך",
+      "gloss": "и твоите кози"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכלו",
+      "gloss": "фрлија мртов плод"
+    },
+    {
+      "surface": "ואילי",
+      "gloss": "а јарците"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "на твоето стадо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "изедов"
+    }
+  ],
+  "timestamp": "2026-10-19T20:48:45.617166550Z",
+  "model": "glm-5.3"
+}

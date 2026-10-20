@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jonah 1:12",
+  "book": "jonah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до морнарите",
+      "rationale": "Јона им заповеда директно на морнарите со императиви."
+    },
+    {
+      "kind": "addition",
+      "subject": "ќе",
+      "gloss": "",
+      "rationale": "Македонскиот иденtimestamp се изразува со честичка „ќе“; хебрејскиот imperfective ја носи иднината сам."
+    }
+  ],
+  "translation": "И им рече: Кренете ме и фрлете ме во морето, и морето ќе се смири од вас — зашто јас знам дека поради мене е оваа голема бура врз вас.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "27ecf72afd82bbba95c18210a05a1b117c81fcfef6b83d53c8f449dabf9cdfdc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jonah\/1\/9-12.1792452443845.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и им рече"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "שאוני",
+      "gloss": "кренете ме"
+    },
+    {
+      "surface": "והטילני",
+      "gloss": "и фрлете ме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "הים",
+      "gloss": "морето"
+    },
+    {
+      "surface": "וישתק",
+      "gloss": "и ќе се смири"
+    },
+    {
+      "surface": "הים",
+      "gloss": "морето"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "од вас"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "כי",
+      "gloss": " дека"
+    },
+    {
+      "surface": "בשלי",
+      "gloss": "поради мене"
+    },
+    {
+      "surface": "הסער",
+      "gloss": "бурата"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "големата"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "врз вас"
+    }
+  ],
+  "timestamp": "2026-10-19T23:27:23.846597221Z",
+  "model": "glm-5.3"
+}

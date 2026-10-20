@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "Хебрејскиот номинален изрек без глагол-сврзка; македонскиот додава ⟨е⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חפץ עשה",
+      "rationale": "Сврзано „посакал-сторил“ — волјата и делото во една линија, спроти немите идоли од стих 4."
+    }
+  ],
+  "translation": "А нашиот Елохим ⟨е⟩ во небесата — сè што посакал, сторил.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "80ac09966d24a74ffa4fcbea3480205d886b56e155f1cf2c46148ec88c69fb48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/115\/1-4.1792453958128.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "А нашиот Елохим"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "во небесата"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "посакал"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сторил"
+    }
+  ],
+  "timestamp": "2026-10-19T23:52:38.128997769Z",
+  "model": "glm-5.3"
+}

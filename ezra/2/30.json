@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "на",
+      "rationale": "Македонскиот бара предлог во именската конструкција"
+    }
+  ],
+  "translation": "Синовите на Магбиш — сто педесет и шест.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a014fb8a5a030dc83f370f3a023c1406f6883c2cf8cc8359cd378208b35084cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezra\/2\/29-32.1792456289713.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовите"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "на Магбиш"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "педесет"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "и шест"
+    }
+  ],
+  "timestamp": "2026-10-20T00:31:29.714107861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 29:12",
+  "book": "1-chronicles",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "хебрејскиот нема копула; македонскиот ја бара"
+    },
+    {
+      "kind": "substitution",
+      "subject": "присуство твое",
+      "rationale": "מלפניך буквално „од лицето твое“ — хебрејски идiom за од присуството на Бога"
+    },
+    {
+      "kind": "measurement",
+      "subject": "сила и моќ",
+      "rationale": "стихот набројува атрибути на Јахве — riches, слава, сила, моќ — списочна структура"
+    }
+  ],
+  "translation": "И богатството и славата ⟨се⟩ од присуството твое, и ти владееш со сè, и во раката твоја е сила и моќ, и во раката твоја е да направиш голем и да зацврстиш сè.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "55dfc7ad67d5d63e7a3d82b3c65883bf3255456dc23a1ef3d52575a3ed3f3756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/29\/12-12.1792458540845.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעשר",
+      "gloss": "и богатството"
+    },
+    {
+      "surface": "והכבוד",
+      "gloss": "и славата"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "од присуството твое"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "и ти"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "владееш"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "со сè"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "и во раката твоја"
+    },
+    {
+      "surface": "כח",
+      "gloss": "сила"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "и моќ"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "и во раката твоја"
+    },
+    {
+      "surface": "לגדל",
+      "gloss": "да направиш голем"
+    },
+    {
+      "surface": "ולחזק",
+      "gloss": "и да зацврстиш"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "сè"
+    }
+  ],
+  "timestamp": "2026-10-20T01:09:00.845605247Z",
+  "model": "glm-5.3"
+}

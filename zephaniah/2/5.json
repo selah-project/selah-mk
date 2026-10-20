@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 2:5",
+  "book": "zephaniah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "така што",
+      "rationale": "македонскиот бара сврзник што хебрејскиот го Implицитно"
+    },
+    {
+      "kind": "you",
+      "subject": "до жителите на морскиот брег",
+      "rationale": "стихот директно им се обраќа на Керетим и на земјата на Плиштим"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרתים \/ כרת",
+      "rationale": "името Керетим (ст. 5) римува со כרת „ливади“ (ст. 6) — народот ќе биде заменет со ливади"
+    }
+  ],
+  "translation": "Ој на жителите на приморската област, народу Керетим — слово на Јахве против вас: Ханан, земјо на Плиштим, јас ќе те истребам, ⟨така што⟩ нема да остане жител.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "061070029fe53190c117967deeda02d981db13992484cb046daf42f2543ad383",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zephaniah\/2\/5-8.1792452678193.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ој"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "на жителите"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "на областа"
+    },
+    {
+      "surface": "הים",
+      "gloss": "приморската"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народу"
+    },
+    {
+      "surface": "כרתים",
+      "gloss": "Керетим"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "против вас"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Ханан"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земјо"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "на Плиштим"
+    },
+    {
+      "surface": "והאבדתיך",
+      "gloss": "ќе те истребам"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "жител"
+    }
+  ],
+  "timestamp": "2026-10-19T23:31:18.194260339Z",
+  "model": "glm-5.3"
+}

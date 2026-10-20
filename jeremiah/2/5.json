@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 2:5",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ההבל \/ ויהבלו",
+      "rationale": "игра на зборови: отидоа по хевел (суета) и сами хевелу (станаа суетни) — коренот е ист"
+    },
+    {
+      "kind": "you",
+      "subject": "до домот Јааков",
+      "rationale": "стихот е дел од обраќање кон домот Јааков од 2:4"
+    },
+    {
+      "kind": "invitation",
+      "subject": "מה מצאו",
+      "rationale": "реторичко прашање до слушателите"
+    }
+  ],
+  "translation": "Така вели Јахве: Што за неправда најдоа вашите татковци во мене, дека се оддалечија од мене, и отидоа по суетата, и станаа суетни?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a04595fcdd32c7fcdaa0f21c0771d3e08e3f15cd167eb6a9f39497d10e0b0e24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/2\/5-8.1792450436337.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "најдоа"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ваши татковци"
+    },
+    {
+      "surface": "בי",
+      "gloss": "во мене"
+    },
+    {
+      "surface": "עול",
+      "gloss": "неправда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "се оддалечија"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "од мене"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "и отидоа"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "ההבל",
+      "gloss": "суетата"
+    },
+    {
+      "surface": "ויהבלו",
+      "gloss": "станаа суетни"
+    }
+  ],
+  "timestamp": "2026-10-19T22:53:56.337723549Z",
+  "model": "glm-5.3"
+}

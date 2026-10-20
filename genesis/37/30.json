@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "свои",
+      "rationale": "посесивната заменка е во хебрејската наставка -יו"
+    },
+    {
+      "kind": "idiom",
+      "subject": "каде ќе одам?",
+      "rationale": "אנה אני בא — букв. 'камо да одам'; реторичко прашање на очај, не бара насока"
+    }
+  ],
+  "translation": "И се врати кон браќата свои и рече: Детето го нема — а јас, каде ќе одам?",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "692fc290941d03bb23df236d8ec60075afe942876746287f4a2ad1221c28fab8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/37\/29-32.1792443080749.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и-се-врати"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "браќата-свои"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и-рече"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "детето"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "го-нема"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а-јас"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "каде"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ќе-одам"
+    }
+  ],
+  "timestamp": "2026-10-19T20:51:20.751382580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 1:25",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "глас над пространството",
+      "rationale": "гласот доаѓа од скриен извор над видливото — тука почнува она што е над сето видено"
+    },
+    {
+      "kind": "substitution",
+      "subject": "пространство",
+      "rationale": "רקיע е истуриена плоча- кубе; македонскиот нема еден збор за неа"
+    }
+  ],
+  "translation": "И стана ⟨се слушна⟩ глас над пространството што ⟨беше⟩ над нивните глави — кога застанаа, ги спуштија своите крила.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ee05e68a8820a2037bc05bce7ec4f404e57c4f9627ed5261a155671c17f08b99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/1\/25-28.1792451350184.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "стана"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "над"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "пространството"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "нивните глави"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "кога застанаа"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ги спуштија"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "своите крила"
+    }
+  ],
+  "timestamp": "2026-10-19T23:09:10.185488761Z",
+  "model": "glm-5.3"
+}

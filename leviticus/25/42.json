@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ние\/ги",
+      "rationale": "македонскиот бара директен објект со сврзување; хебрејскиот го има само אתם"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבדי\/ממכרת עבד",
+      "rationale": "коренот עבד рамкира два пати во еден стих — слугите Мои не се продаваат како слуги"
+    }
+  ],
+  "translation": "Зашто Мои слуги се тие, што ги изведов ⟨את⟩ од земјата Мицраим; нема да се продаваат со продажба на слуга.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0cbf453f429bb9c268be295e009ff9c12a8f20e278a7b5816376636f9b04e5c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/25\/41-44.1792444469706.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Мои слуги"
+    },
+    {
+      "surface": "הם",
+      "gloss": "тие"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ги изведов"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "нив"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "да се продаваат"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "со продажба"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "на слуга"
+    }
+  ],
+  "timestamp": "2026-10-19T21:14:29.708313664Z",
+  "model": "glm-5.3"
+}

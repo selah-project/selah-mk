@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "во очите на Јахве",
+      "rationale": "хебрејскиот идиом בעיני — букв. „во очите“, значи „во очите\/според судот на“"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "македонскиот бара сврзник во односната реченица"
+    }
+  ],
+  "translation": "И правеше Јоаш она што ⟨е⟩ право во очите на Јахве сите дни на Јехојада свештеникот.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e9d9cadb6c6c72a9f813e7eed94591a6a6a4effbbe88cf89a6ebb192233216fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/24\/1-4.1792457680292.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И правеше"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Јоаш"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "право"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "во очите на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "денови на"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Јехојада"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    }
+  ],
+  "timestamp": "2026-10-20T00:54:40.292884499Z",
+  "model": "glm-5.3"
+}

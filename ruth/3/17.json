@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 3:17",
+  "book": "ruth",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "шест мери",
+      "rationale": "Бројот шест мерки јачмен е изброен."
+    },
+    {
+      "kind": "you",
+      "subject": "до Рута",
+      "rationale": "Боаз ѝ зборува на Рута преку пренесен збор: не оди празна кај свекрва ти."
+    }
+  ],
+  "translation": "И таа рече: Овие шест мери јачмен ми даде, зашто рече: Не оди празна кај свекрва ти.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c246af5472162a8f82a3e7300a2982195e9c92da23c38d161befbd3b371e9825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ruth\/3\/17-18.1792455521692.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И таа рече"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "мери јачмен"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "Овие"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "оди"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "празна"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кај"
+    },
+    {
+      "surface": "חמותך",
+      "gloss": "свекрва ти"
+    }
+  ],
+  "timestamp": "2026-10-20T00:18:41.693245154Z",
+  "model": "glm-5.3"
+}

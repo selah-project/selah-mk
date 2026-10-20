@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "mk",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש איש",
+      "rationale": "Двојното „човек човек“ е хебрејски начин за кажување „секој поединечно“; во македонскиот се претвора во „секој човек“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "במחנה \/ מחוץ למחנה",
+      "rationale": "Спротивставувањето внатре\/надвор од логорот е的结构ното јадро на стихот — спротивноста минува и низ македонскиот."
+    }
+  ],
+  "translation": "Секој човек од домот на Јисраел што ќе заколе вол или јагне или коза, во логорот, или што ќе заколе надвор од логорот,",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "099d492f34fa04e734d9a1ad81d559d49e38d47b540d08250c582873476ab5ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/17\/1-4.1792444385072.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Секој човек"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "од домот на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ќе заколе"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вол"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "јагне"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "עז",
+      "gloss": "коза"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "во логорот"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ќе заколе"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "надвор"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "од логорот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:13:05.074472273Z",
+  "model": "glm-5.3"
+}

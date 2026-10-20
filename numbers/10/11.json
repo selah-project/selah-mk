@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 10:11",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ден⟩",
+      "rationale": "Хебрејскиот вели само „на дваесеттиот од месецот“ — зборот ден е додаден за јасност."
+    },
+    {
+      "kind": "measurement",
+      "subject": "датум",
+      "rationale": "Прецизно датирање: втора година, втор месец, дваесетти ден."
+    }
+  ],
+  "translation": "И беше во втората година, во вториот месец, на дваесеттиот ⟨ден⟩ од месецот, дека облакот се подигна од мишканот на сведоштвото.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9152fec1d34acf5463d5e34546881be49ed75b311e9cd7ba45889f20dbfabae1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/10\/9-12.1792444746868.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "во годината"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "втората"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "во месецот"
+    },
+    {
+      "surface": "השני",
+      "gloss": "вториот"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "на дваесеттиот"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "од месецот"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "се подигна"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "облакот"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "мишканот"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "на сведоштвото"
+    }
+  ],
+  "timestamp": "2026-10-19T21:19:06.869657966Z",
+  "model": "glm-5.3"
+}

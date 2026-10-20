@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 16:5",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להלחם",
+      "rationale": "хебрејскиот вели „да се борат“ — некои преведуваат „да го совладаат“ според контекстот; го видовираме буквaлно"
+    }
+  ],
+  "translation": "Тогаш се качи Рецин, царот на Арам, и Пеках, синот на ремалиевиот, цар на Јисраел, против Јерушалаим, за војна; ⟨а⟩ го опколија Ахаз, но не можеа да го совладаат.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e8b90a5dce277b41538a13f38f3e909650aa19247dae68f9f35e0a9c2212ba3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/16\/5-8.1792449363387.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогаш"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "се качи"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Рецин"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "ופקח",
+      "gloss": "и Пеках"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Ремалију"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалаим"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "за војна"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "го опколија"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "можеа"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "да се борат"
+    }
+  ],
+  "timestamp": "2026-10-19T22:36:03.388238143Z",
+  "model": "glm-5.3"
+}

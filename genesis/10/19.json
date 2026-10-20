@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 10:19",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "границата",
+      "rationale": "Опис на граница со крајни точки — географско мерење."
+    },
+    {
+      "kind": "idiom",
+      "subject": "באכה",
+      "rationale": "'во твоето одење' — хебрејски израз за насока на пат, преведен како 'кога одиш кон'."
+    }
+  ],
+  "translation": "И беше границата на Кенаанецот од Цидон, кога одиш кон Герар, до Аза; кога одиш кон Содом и Гомора и Адма и Цевоим, до Леша",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "bc613200da5eb1e09cbc1b28970cb6bfa0959dc458ac71ee07ab0c6f4f0b80ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/10\/17-20.1792442496449.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границата"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "на Кенаанецот"
+    },
+    {
+      "surface": "מצידן",
+      "gloss": "од Цидон"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "кога одиш"
+    },
+    {
+      "surface": "גררה",
+      "gloss": "кон Герар"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Аза"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "кога одиш"
+    },
+    {
+      "surface": "סדמה",
+      "gloss": "кон Содом"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "и Гомора"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "и Адма"
+    },
+    {
+      "surface": "וצבים",
+      "gloss": "и Цевоим"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "לשע",
+      "gloss": "Леша"
+    }
+  ],
+  "timestamp": "2026-10-19T20:41:36.458652625Z",
+  "model": "glm-5.3"
+}

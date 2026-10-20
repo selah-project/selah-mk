@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 8:18",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מלפני",
+      "rationale": "буквално „од лицето на“ — хебрејски израз за бегство од присуство, не само пространствено"
+    },
+    {
+      "kind": "you",
+      "subject": "народот",
+      "rationale": "Шemuел му го објавува ова на народот како директно предупредување"
+    }
+  ],
+  "translation": "И ќе завикате во тој ден од лицето на царот вашиштом што си го избравте, и Јахве нема да ве одговори ⟨את⟩ во тој ден.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "9db9c251df353233c2242dd569ea4f8d7081413830894ed2f15b5432def2974a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/8\/17-20.1792446719430.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזעקתם",
+      "gloss": "и ќе завикате"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оној"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "од лицето на"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "царот вашишт"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "избравте"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "себе си"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ќе одговори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вие"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оној"
+    }
+  ],
+  "timestamp": "2026-10-19T21:51:59.431405026Z",
+  "model": "glm-5.3"
+}

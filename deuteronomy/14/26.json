@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 14:26",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душата",
+      "rationale": "נפש е живото-сила, аппетит, не една „душа“ во подоцнежна смисла"
+    },
+    {
+      "kind": "crux",
+      "subject": "שכר",
+      "rationale": "опиен (алхолен) напиток — разни традицинни преводи го омекнуваат, текстот директно го дозволува"
+    }
+  ],
+  "translation": "и ќе го дадеш среброто за сè што посакува душата ти — за говеда, за овци и кози, за вино, за опиен напиток — и за сè што ќе побара од тебе душата твоја; и ќе јадеш таму, пред Јахве, твојот Елохим, и ќе се радуваш ти и домот твој.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "0ac361f683dffbec73775b20dc5311311e5e47d79aefa64ec91087f35f13fc5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/14\/26-28.1792447796490.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "и ќе го дадеш"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "среброто"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "за сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "посакува"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "душата ти"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "за говеда"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "за овци и кози"
+    },
+    {
+      "surface": "וביין",
+      "gloss": "за вино"
+    },
+    {
+      "surface": "ובשכר",
+      "gloss": "за опиен напиток"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "и за сè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תשאלך",
+      "gloss": "ќе побара од тебе"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "душата твоја"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "и ќе јадеш"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "и ќе се радуваш"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "и домот твој"
+    }
+  ],
+  "timestamp": "2026-10-19T22:09:56.491182963Z",
+  "model": "glm-5.3"
+}

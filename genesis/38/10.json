@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וירע בעיני יהוה",
+      "rationale": "буквално „бе зло во очите на Јахве“ — хебрејски израз за неодобрување."
+    },
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "македонскиот клитички додаток кон предметот на אשר עשה."
+    }
+  ],
+  "translation": "И беше зло во очите на Јахве она што го направи, па го усмрти и ⟨את⟩ него.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "728ea4c03aec7648d7e71e56510b6ced529350819451d3582a7efaff8d84647d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/38\/9-12.1792443090605.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "И беше зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "во очите на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "она што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "го направи"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "па усмрти"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него"
+    }
+  ],
+  "timestamp": "2026-10-19T20:51:30.606897848Z",
+  "model": "glm-5.3"
+}

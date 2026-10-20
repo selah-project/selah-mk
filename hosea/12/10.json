@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сум",
+      "rationale": "Хебрејскиот нема глагол „сум“; македонскиот бара копула."
+    },
+    {
+      "kind": "substitution",
+      "subject": "шатори",
+      "rationale": "אהלים е множина од „шатор“ — слика на пустинскиот живот по Излезот, не „куќи“."
+    }
+  ],
+  "translation": "А Јас сум Јахве, твојот Елохим, од земјата Мицраим; уште ќе те вратам да престојуваш во шатори, како во деновите на одредениот празник.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "80e2c9bd12540df068d94b2119aa471aa93d58499d856da8b09f83710d002745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/hosea\/12\/9-12.1792452271666.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "А Јас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твојот Елохим"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уште"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "ќе те вратам да престојуваш"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "во шатори"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "како во деновите"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на одредениот празник"
+    }
+  ],
+  "timestamp": "2026-10-19T23:24:31.666760514Z",
+  "model": "glm-5.3"
+}

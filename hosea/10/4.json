@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 10:4",
+  "book": "hosea",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראש",
+      "rationale": "отровно растение — 'пелин' (Wycliffe\/Geneva), 'омага' (KJV hemlock) или отровна ’рж; видот на растението не е сигурен"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברו דברים",
+      "rationale": "корен דבר двапати — 'зборуваат зборови' — празно мноштво зборови спроти празните клетки"
+    }
+  ],
+  "translation": "Зборуваат зборови, колнат се лажно кога склопуваат завет, а судот никнува како отровна ’рж на браздите на нивата.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "514d2d64ced78773a04c33ef7a321166b6b8152e320c2ce463615df8dfe7ec7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/hosea\/10\/1-4.1792452329047.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "зборуваат"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "зборови"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "колнат се (проклетства)"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "лажно"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "склопуваат"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завет"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "никнува"
+    },
+    {
+      "surface": "כראש",
+      "gloss": "како отровна ’рж"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "судот"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "браздите"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "нивата"
+    }
+  ],
+  "timestamp": "2026-10-19T23:25:29.048051337Z",
+  "model": "glm-5.3"
+}

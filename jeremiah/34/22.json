@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 34:22",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "македонскиот бара директен предмет со наставка -го"
+    },
+    {
+      "kind": "substitution",
+      "subject": "заробат",
+      "rationale": "ולכדו — 'фаќаат\/заземаат' (како во стапица), заробување е улогата"
+    }
+  ],
+  "translation": "Еве, јас заповедам, вели Јахве, и ќе ги вратам кон овој град, и ќе војуваат против него, и ќе го заробат, и ќе го запалат во оган; а ⟨את⟩ градовите на Јудеја ќе ги предадам на опустошение, без жител.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "4712c5b8bef20a79dd83c10b7f47fb5ffd0394c79b648bdc855551ec31050022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/34\/21-22.1792450910321.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Еве, јас"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "заповедам"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "и ќе ги вратам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овој"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "и ќе војуваат"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "против него"
+    },
+    {
+      "surface": "ולכדוה",
+      "gloss": "и ќе го заробат"
+    },
+    {
+      "surface": "ושרפה",
+      "gloss": "и ќе го запалат"
+    },
+    {
+      "surface": "באש",
+      "gloss": "во оган"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "градовите"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "градовите"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудеја"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ќе ги предадам"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "на опустошение"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "без"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "жител"
+    }
+  ],
+  "timestamp": "2026-10-19T23:01:50.322393919Z",
+  "model": "glm-5.3"
+}

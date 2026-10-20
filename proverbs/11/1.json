@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "камен без недостаток",
+      "rationale": "שלמה е 'целосен' — станува збор за тежински камен што не е потточен, не за морален поим"
+    },
+    {
+      "kind": "elision",
+      "subject": "⟨е⟩\/сврзник",
+      "rationale": "хебрејскиот нема глагол — именски исказ, двете половини стојат рамнодушно една до друга"
+    }
+  ],
+  "translation": "Мерачки на измама — одвратност за Јахве, а камен без недостаток — Неговото благоволение.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "63d83c8e6d48e81c570f6aa8664cb0f6a93bb39b9ba2312fbfca03e5d2e79420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/11\/1-4.1792454435291.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "мерачки"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "измама"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "одвратност"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "а камен"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "без недостаток"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "Неговото благоволение"
+    }
+  ],
+  "timestamp": "2026-10-20T00:00:35.292111830Z",
+  "model": "glm-5.3"
+}

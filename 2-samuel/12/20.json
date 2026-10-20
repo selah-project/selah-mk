@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 12:20",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "gloss-context": "",
+      "rationale": "Хебрејскиот не ги означува возвратните заменки во „се измие \/ се намаза \/ се поклони“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויבא ... ויבא",
+      "rationale": "Двојното „влезе“ — во домот на Јахве и во домот свој — ја гради рамнотежата жалост\/жivot."
+    }
+  ],
+  "translation": "И стана Давид од земјата, и се измие, и се намаза, и ја смени облеката своја, и влезе во домот на Јахве, и се поклони, и влезе во домот свој, и побара, и му ставија леб, и јаде.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "51a362bdc68aa2fd8c96065d3a7ca1e269553b70e42d035441100a831c806a37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/12\/17-20.1792448222337.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "и се измие"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "и се намаза"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "и ја смени"
+    },
+    {
+      "surface": "שמלתו",
+      "gloss": "облеката своја"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и влезе"
+    },
+    {
+      "surface": "בית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "и се поклони"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и влезе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "домот свој"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "и побара"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "и ставија"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леб"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "и јаде"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:02.341085370Z",
+  "model": "glm-5.3"
+}

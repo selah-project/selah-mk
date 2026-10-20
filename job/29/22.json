@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 29:22",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישנו",
+      "rationale": "Од שנה 'втори\/повторуваат': 'не одговараа' (KJV) наспроти 'не менеа ништо' (YLT)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברי \/ מלתי",
+      "rationale": "Два збора за 'збор' во паралелизам, слика на реч што капе како роса."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ништо⟩",
+      "rationale": "Дополнет објект што хебрејскиот го испушта во негацијата."
+    }
+  ],
+  "translation": "По мојот збор не повторуваа ⟨ништо⟩, и мојата реч капеше врз нив.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7b002f39b6acedbde80a406aaa2141a9f5320b89b8ee8a83198e769d419fcce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/29\/21-24.1792455144029.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "мојот збор"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "повторуваа"
+    },
+    {
+      "surface": "ועלימו",
+      "gloss": "врз нив"
+    },
+    {
+      "surface": "תטף",
+      "gloss": "капеше"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "мојата реч"
+    }
+  ],
+  "timestamp": "2026-10-20T00:12:24.029765517Z",
+  "model": "glm-5.3"
+}

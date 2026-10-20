@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 30:7",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "реваат",
+      "rationale": "ינהקו е глас на гладен магаре — 'реваат' ги губи магарешките гласови."
+    },
+    {
+      "kind": "crux",
+      "subject": "יספחו",
+      "rationale": "'се gathering собираат' (KJV) наспроти 'се дробат\/толнат'; избрав собирање под закрила."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נהק\/ספח",
+      "rationale": "двата глаголи се гласовни и физски слики на деградација, паралелизам што македонскиот не може целосно да го пренесе."
+    }
+  ],
+  "translation": "Меѓу грмушките реваат, под бодликот се стискаат заедно.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3e283dcd27359b971c36abb8df37e3fb458a49dc7496d52452750b9d6dad5f3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/30\/5-8.1792455186963.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בין",
+      "gloss": "меѓу"
+    },
+    {
+      "surface": "שיחים",
+      "gloss": "грмушките"
+    },
+    {
+      "surface": "ינהקו",
+      "gloss": "реваат"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "חרול",
+      "gloss": "бодликот"
+    },
+    {
+      "surface": "יספחו",
+      "gloss": "се стискаат заедно"
+    }
+  ],
+  "timestamp": "2026-10-20T00:13:06.963813561Z",
+  "model": "glm-5.3"
+}

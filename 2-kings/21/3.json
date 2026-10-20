@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 21:3",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשרה",
+      "rationale": "Ашера како божица\/предмет — „Ашера“ vs „шума\/гај“ (традицијата) vs „столб“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "возвишенија",
+      "rationale": "הבמות буквално „возвишенија“, места за идолско богослужба"
+    }
+  ],
+  "translation": "И се врати и ги изгради ⟨את⟩ возвишенијата што ги уништи Хизкијау, татко му, и подигна жртвеници за Ваал, и направи Ашера, како што направи Ахав, царот на Јисраел, и се поклони на сета војска на небесата, и им служеше ⟨את⟩ ним.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "82f8e157cec26c82461cc6eb3327af91726a2b5d7465903b05a1a25eb5fd2eb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/21\/1-4.1792449462400.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "се врати"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ги изгради"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "возвишенијата"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "возвишенијата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "уништи"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкијау"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "татко му"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "подигна"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "жртвеници"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "за Ваал"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "направи"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "Ашера"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахав"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "се поклони"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на сета"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "војска"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "на небесата"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "служеше"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ним"
+    }
+  ],
+  "timestamp": "2026-10-19T22:37:42.403045432Z",
+  "model": "glm-5.3"
+}

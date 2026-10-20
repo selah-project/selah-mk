@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бееше",
+      "rationale": "хебрејскиот ја испушта копулата кај „името на едната Хана“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חנה\/פנינה",
+      "rationale": "контрастот на имињата и повторувањето „деца \/ немаше деца“ е стилски јамб во хебрејскиот"
+    }
+  ],
+  "translation": "И тој имаше две жени: името на едната ⟨бееше⟩ Хана, а името на втората Пенина; и Пенина имаше деца, а Хана немаше деца.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "1526a3718eeb1adf31a5ab9614213e1b59046a2d1c8f3c30d7108ab220d3b947",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/1\/1-4.1792446668278.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "И тој имаше"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жени"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "на едната"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Хана"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а името"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "на втората"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Пенина"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и имаше"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "на Пенина"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "деца"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "а на Хана"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немаше"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "деца"
+    }
+  ],
+  "timestamp": "2026-10-19T21:51:08.278990899Z",
+  "model": "glm-5.3"
+}

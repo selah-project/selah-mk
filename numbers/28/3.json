@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 28:3",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨е⟩",
+      "rationale": "Хебрејскиот го нема глаголот „е“ — номинална реченица со демонстратив."
+    },
+    {
+      "kind": "measurement",
+      "subject": "два на ден",
+      "rationale": "Прецизна мера: број и возраст на јагнињата."
+    },
+    {
+      "kind": "substitution",
+      "subject": "всепалеж",
+      "rationale": "עלה буквално „оној што се качува“ — принос што целосно се крева во чад."
+    }
+  ],
+  "translation": "И кажи им: Ова ⟨е⟩ огнениот принос што ќе ⟨го⟩ приближувате на Јахве: јагниња, едногодишни, без недостаток, два на ден, како секојдневна всепалеж.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "c5b90edf946f889fa14d15da624c04cc5724aa28e13f03e1958766bb81328d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/28\/1-4.1792445098423.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "и кажи"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "огнениот принос"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "ќе приближувате"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "јагниња"
+    },
+    {
+      "surface": "בני",
+      "gloss": "едногодишни"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "без недостаток"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "на ден"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "всепалеж"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "секојдневен"
+    }
+  ],
+  "timestamp": "2026-10-19T21:24:58.424301659Z",
+  "model": "glm-5.3"
+}

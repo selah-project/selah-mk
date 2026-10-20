@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 40:35",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שכן \/ משכן",
+      "rationale": "глаголот шахан ('се всели') и именката мишкан ('становиште') се ист корен — облакот 'мишкан-ува' врз мишканот"
+    },
+    {
+      "kind": "mystery",
+      "subject": "Моше не можеше да влезе",
+      "rationale": "славата го затвора шаторот и за Моше — текстот не објаснува, само констатира"
+    }
+  ],
+  "translation": "И Моше не можеше да влезе во шаторот на состанокот, зашто облакот се задржа на него, и славата на Јахве го исполни ⟨את⟩ мишканот.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9f3a652aec463f31a8271c7a924f62f3542e8541878e2a74360ac3c7552d7180",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/40\/33-36.1792444044117.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "можеше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "да влезе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шаторот"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на состанокот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "се задржа"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "облакот"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "и славата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Јахве"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "го исполни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мишканот"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "мишканот"
+    }
+  ],
+  "timestamp": "2026-10-19T21:07:24.118906491Z",
+  "model": "glm-5.3"
+}

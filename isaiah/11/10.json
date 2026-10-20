@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 11:10",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מנוחתו",
+      "rationale": "„неговиот одмор\/место за одмор“ — некои читаат „неговото живеалиште“ или дури „неговиот гроб“ (LXX)"
+    },
+    {
+      "kind": "addition",
+      "subject": "ќе биде",
+      "rationale": "כבוד е именка „слава“; македонскиот бара придевска конструкција"
+    }
+  ],
+  "translation": "И ќе биде во оној ден: коренот на Јишај, што стои за знаме на народите — него ќе го бараат племињата, и неговиот одмор ќе биде славен.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "40ad29122bc801ab7c835e82fd8e3a800f1174ce92c6bcc5b7ddf1f553f906dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/11\/9-12.1792449730496.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оној"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "коренот"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "на Јишај"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стои"
+    },
+    {
+      "surface": "לנס",
+      "gloss": "за знаме"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "на народите"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "него"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "племињата"
+    },
+    {
+      "surface": "ידרשו",
+      "gloss": "ќе бараат"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "неговиот одмор"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славен"
+    }
+  ],
+  "timestamp": "2026-10-19T22:42:10.498577318Z",
+  "model": "glm-5.3"
+}

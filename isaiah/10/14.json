@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 10:14",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨та⟩",
+      "rationale": "македонскиот член на „земјата“ — хебрејскиот член ה е веќе во הארץ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לחיל",
+      "rationale": "חיל е „силa\/војска\/богатство“; одбран е еден видлив пресек"
+    }
+  ],
+  "translation": "И мојата рака најде како гнездо богатство меѓу народите, и како што се собираат напуштени јајца, јас ја собрав цела⟨та⟩ земја; и немало ниеден што замавна со крило, што отвори уста или зацвркуши.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "b75d33f570d7a6303becc7380b986ccad6eae46cf37694e23ffe00f7654e4796",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/10\/13-16.1792449672813.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמצא",
+      "gloss": "и најде"
+    },
+    {
+      "surface": "כקן",
+      "gloss": "како гнездо"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "мојата рака"
+    },
+    {
+      "surface": "לחיל",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "на народите"
+    },
+    {
+      "surface": "וכאסף",
+      "gloss": "и како што се собираат"
+    },
+    {
+      "surface": "ביצים",
+      "gloss": "јајца"
+    },
+    {
+      "surface": "עזבות",
+      "gloss": "напуштени"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цела"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "אני",
+      "gloss": "јас"
+    },
+    {
+      "surface": "אספתי",
+      "gloss": "собрав"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "имало"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "замавна"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "со крило"
+    },
+    {
+      "surface": "ופצה",
+      "gloss": "отвори"
+    },
+    {
+      "surface": "פה",
+      "gloss": "уста"
+    },
+    {
+      "surface": "ומצפצף",
+      "gloss": "зацвркуши"
+    }
+  ],
+  "timestamp": "2026-10-19T22:41:12.814840773Z",
+  "model": "glm-5.3"
+}

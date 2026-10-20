@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "пратеници \/ руахот",
+      "rationale": "Без збор-редослед во хебрејскиот: или „прави руахот свои пратеници“ (како LXX и Heb 1:7) или „прави пратениците свои руахот“ — буквално оставено двосмислено"
+    },
+    {
+      "kind": "substitution",
+      "subject": "руахот",
+      "rationale": "רוחות — руах во множина; не само „ветрови“, не „духови“ во подоцнежна смисла"
+    }
+  ],
+  "translation": "Што ги прави пратениците свои руахот, слугите свои — пламенен оган.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/104\/1-4.1792453825826.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Што ги прави"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "пратениците свои"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "руахот"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "слугите свои"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оган"
+    },
+    {
+      "surface": "להט",
+      "gloss": "пламенен"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:25.827549129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 20:19",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨него⟩",
+      "rationale": "македонскиот го бара директниот објект кај יבנהו"
+    }
+  ],
+  "translation": "Зашто ги смачка, ги напушти бедните; дом грабнал и нема да го изгради ⟨него⟩.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ef7b4c9907781c4ab63d798a9d8684c5fee8e078794e313c084374e5e96d3587",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/20\/17-20.1792455067759.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "רצץ",
+      "gloss": "ги смачка"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "ги напушти"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "бедните"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "грабнал"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "יבנהו",
+      "gloss": "да го изгради"
+    }
+  ],
+  "timestamp": "2026-10-20T00:11:07.760597180Z",
+  "model": "glm-5.3"
+}

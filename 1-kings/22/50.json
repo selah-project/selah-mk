@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-kings 22:50",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до Јехошафат",
+      "rationale": "Директен говор на Ахазјаху упатен кон Јехошафат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אבה",
+      "rationale": "Буквално „да дише по“ нешто, т.е. да биде согласен — „не сакаше“ го губи сликовниот глагол."
+    }
+  ],
+  "translation": "Тогаш рече Ахазјаху, синот на Ахав, на Јехошафат: нека одат моите слуги со твоите слуги во бродовите; но Јехошафат не сакаше.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "e920bff9dc800c7fe1971a508456b3c5e064b5537f12b8f3c09dfa751281cdfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/22\/49-52.1792449056318.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогаш"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ахазјаху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "на Ахав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Јехошафат"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "нека одат"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "моите слуги"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "твоите слуги"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "во бродовите"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "сакаше"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Јехошафат"
+    }
+  ],
+  "timestamp": "2026-10-19T22:30:56.319608402Z",
+  "model": "glm-5.3"
+}

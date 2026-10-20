@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "го немаше, зашто Елохим го зеде",
+      "rationale": "ואיננו כי לקח — „и го нема, зашто го зеде“: дали умрел, или бил земен без смрт; текстот не вели."
+    },
+    {
+      "kind": "mystery",
+      "subject": "земањето на Ханох",
+      "rationale": "Текстот е намерно воздржан — не вели каде ни како, ни дали умрел."
+    },
+    {
+      "kind": "idiom",
+      "subject": "одеше со Елохим",
+      "rationale": "Повторено од ст. 22 — букв. „се движеше со\/пред Елохим“."
+    }
+  ],
+  "translation": "И одеше Ханох со ⟨את⟩ Елохим, и го немаше, зашто Елохим го зеде ⟨את⟩ него.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "b4b7b2767f247edb2fc70815d4befd8c896b68012d61e82cf6ea2246c9f7525c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/5\/21-24.1792442452585.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "И одеше"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханох"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елохим"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "и го немаше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "зеде"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    }
+  ],
+  "timestamp": "2026-10-19T20:40:52.589561133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 26:33",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "пет ќерки на Цлофхад",
+      "rationale": "Список на имиња — ќерките што подоцна ќе бараат наследство."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Хебрејскиот израз „ki im“ е даден како „туку само“."
+    }
+  ],
+  "translation": "А Цлофхад, син на Хефер, немаше синови, туку само ќерки; а имињата на ќерките на Цлофхад беа: Махла и Ноа, Хогла, Милка и Тирца.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "9ccbc5941ad122852f86dbe93023bf1cece35e6f2b3e40097deb566126482121",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/26\/33-36.1792445085271.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצלפחד",
+      "gloss": "Цлофхад"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Хефер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היו",
+      "gloss": "имаше"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "כי",
+      "gloss": "туку"
+    },
+    {
+      "surface": "אם",
+      "gloss": "само"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ќерки"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "имињата"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ќерките"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Цлофхад"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Махла"
+    },
+    {
+      "surface": "ונעה",
+      "gloss": "Ноа"
+    },
+    {
+      "surface": "חגלה",
+      "gloss": "Хогла"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Милка"
+    },
+    {
+      "surface": "ותרצה",
+      "gloss": "Тирца"
+    }
+  ],
+  "timestamp": "2026-10-19T21:24:45.271913329Z",
+  "model": "glm-5.3"
+}

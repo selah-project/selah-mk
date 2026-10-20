@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 10:8",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובאחת",
+      "rationale": "„во едно“ (заедно) наспроти читање „ва-Барад“ (град) или „еден (Бог)“ — преводите се делат тука"
+    },
+    {
+      "kind": "crux",
+      "subject": "יבערו",
+      "rationale": "корен בער: „тупат\/глупават се“ или „горат (жртва пред дрвото)“ — двата приема постојат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ништожности",
+      "rationale": "הבל е здив\/пареа — ништожност, празнина; „идоли“ би било толкување"
+    }
+  ],
+  "translation": "И во едно ⟨се⟩ тупат и лудуваат: поука на ништожности — дрво ⟨е⟩ тоа.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3de59caafb89fa41a15557fd268c4eaef4097bcb65b90b88d8b024fab11557bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/10\/5-8.1792450548942.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאחת",
+      "gloss": "и во едно"
+    },
+    {
+      "surface": "יבערו",
+      "gloss": "тупат"
+    },
+    {
+      "surface": "ויכסלו",
+      "gloss": "и лудуваат"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "поука"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ништожности"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тоа"
+    }
+  ],
+  "timestamp": "2026-10-19T22:55:48.944009943Z",
+  "model": "glm-5.3"
+}

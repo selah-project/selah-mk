@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 48:5",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ги⟩",
+      "rationale": "македонскиот бара директен предмет кај „наредиле“, хебрејскиот го нема"
+    },
+    {
+      "kind": "substitution",
+      "subject": "идол",
+      "rationale": "עצב е „обликован лик“, а и „болка“ — друг корен, истогласен"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јаков\/Јисраел",
+      "rationale": "директен обрат кон упорниот народ"
+    }
+  ],
+  "translation": "И ти објавив од тогаш; уште пред да дојде, ти дадов да слушнеш — да не речеш: „Мојот идол ги направи, и мојот резан лик и мојот излеан лик ⟨ги⟩ наредиле.“",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "8b6113ccaf0aac0671ffce9bd14cd038c81859b948a1c859f31ab10162d7ce65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/48\/5-8.1792450170488.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "и објавив"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "од тогаш"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "уште пред"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "да дојде"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "ти дадов да слушнеш"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "речеш"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "мојот идол"
+    },
+    {
+      "surface": "עשם",
+      "gloss": "ги направи"
+    },
+    {
+      "surface": "ופסלי",
+      "gloss": "и мојот резан лик"
+    },
+    {
+      "surface": "ונסכי",
+      "gloss": "и мојот излеан лик"
+    },
+    {
+      "surface": "צום",
+      "gloss": "наредиле"
+    }
+  ],
+  "timestamp": "2026-10-19T22:49:30.489382712Z",
+  "model": "glm-5.3"
+}

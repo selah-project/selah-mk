@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "човекот од десницата Твоја",
+      "rationale": "איש ימינך: буквално „човек на Твојата десница“ — или царот, или народот; синот човечки останува без подоцнежно толкување."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨си⟩",
+      "rationale": "Македонскиот бара означување на врската меѓу глаголот и לך."
+    }
+  ],
+  "translation": "Нека биде раката Твоја врз човекот од десницата Твоја, врз синот човечки што го зацврсти⟨си⟩ себеси.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "6d83465c25002a10c00071672b9e0500428c68a6fb2586f2190e797e97e2935d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/80\/17-20.1792453640745.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "нека биде"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "раката Твоја"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "од десницата Твоја"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечки"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "зацврсти"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себеси"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:20.746442390Z",
+  "model": "glm-5.3"
+}

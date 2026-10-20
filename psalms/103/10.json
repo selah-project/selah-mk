@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "гревови \/ беззаконија",
+      "rationale": "חטא и עון — два различни хебрејски збора за грев и кривица, задржани како два збора"
+    }
+  ],
+  "translation": "Не според гревовите наши стори со нас, ни според беззаконијата наши ни возврати.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/103\/9-12.1792453810525.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "според гревовите наши"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сторси"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "со нас"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "според беззаконијата наши"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "возврати"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ни"
+    }
+  ],
+  "timestamp": "2026-10-19T23:50:10.525689908Z",
+  "model": "glm-5.3"
+}

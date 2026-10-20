@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "четири пати",
+      "rationale": "Бројот на обидите е значаен — петтиот (ст. 5) е со отворено писмо."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כדבר הזה",
+      "rationale": "Повторување на истата фраза на почетокот и на крајот — вклучена рамка."
+    }
+  ],
+  "translation": "И ми пратиле со истата порака четири пати, а јас им возвратив ⟨את⟩ истата порака.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "427da38ace9d10f0a00ec35036e2d7748a9cfb82c3cbd834ea4213686dc582f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/6\/1-4.1792456613757.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "И ми пратиле"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "со пораката"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "оваа"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "пати"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "а јас им возвратив"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "истата порака"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "истата порака"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "оваа"
+    }
+  ],
+  "timestamp": "2026-10-20T00:36:53.759112353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 7:8",
+  "book": "amos",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "да поминам покрај него",
+      "rationale": "עבור לו: „да поминам покрај\/да го поштедам“ (ЈПС) наспроти буквално „да прејдам“"
+    },
+    {
+      "kind": "you",
+      "subject": "до Амос",
+      "rationale": "Бог директно го прашува пророкот"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אנך",
+      "rationale": "само во Амос 7 — повторен трипати во ова видение"
+    }
+  ],
+  "translation": "И ми рече Јахве: Што гледаш, Амос? А јас реков: Анах. И рече Адонај: Еве, јас ставам анах во средината на мојот народ Јисраел — нема повеќе да додавам да поминам покрај него.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "017278a1acea0664c26e2371618b79c16cd1963aff64f0cfa7194ee702fbaf1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/amos\/7\/5-8.1792452442842.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И ми рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Што"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "гледаш"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "Амос"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "А реков"
+    },
+    {
+      "surface": "אנך",
+      "gloss": "анах"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Еве"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ставам"
+    },
+    {
+      "surface": "אנך",
+      "gloss": "анах"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "во средината"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "на мојот народ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Јисраел"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "да додавам"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "עבור",
+      "gloss": "да поминам"
+    },
+    {
+      "surface": "לו",
+      "gloss": "покрај него"
+    }
+  ],
+  "timestamp": "2026-10-19T23:27:22.843602350Z",
+  "model": "glm-5.3"
+}

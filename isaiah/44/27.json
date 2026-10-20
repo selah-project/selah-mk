@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 44:27",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "бездната",
+      "rationale": "директен говор кон бездната и нејзините реки"
+    }
+  ],
+  "translation": "што му вели на бездната: „Исуши се!“ и реките твои ќе ги исушам;",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "006ac0daa57af6a0823b38da88c03a5109e91d0f6e8e8c4ec7b1c0bb6e2b73a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/44\/25-28.1792450117151.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "што му вели"
+    },
+    {
+      "surface": "לצולה",
+      "gloss": "на бездната"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "Исуши се"
+    },
+    {
+      "surface": "ונהרתיך",
+      "gloss": "и реките твои"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "ќе ги исушам"
+    }
+  ],
+  "timestamp": "2026-10-19T22:48:37.153670383Z",
+  "model": "glm-5.3"
+}

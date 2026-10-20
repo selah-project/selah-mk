@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מחיל אל חיל",
+      "rationale": "истиот збор חיל повторен — 'од сила кон сила', скалилна градба зачувана"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨тие⟩",
+      "rationale": "подмет на глаголот додаден; хебрејскиот го испушта"
+    }
+  ],
+  "translation": "Одат од сила кон сила — ⟨тие⟩ ќе се јават пред Елохим во Цион.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "7c26eed9bb9dc138c7e5a43ae00b8c0c9dfb838360c3a120f890190b9f9b63eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/84\/5-8.1792453675407.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "одат"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "од сила"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "сила"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ќе се јават"
+    },
+    {
+      "surface": "אל",
+      "gloss": "пред"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "во Цион"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:55.408311535Z",
+  "model": "glm-5.3"
+}

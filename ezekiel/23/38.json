@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezekiel 23:38",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טמאו \/ חללו",
+      "rationale": "два различни глаголи за обредна нечистота и обесветување, во македонскиот делумно се покриваат"
+    }
+  ],
+  "translation": "Уште и ова ми направија: го осквернија ⟨את⟩ светилиштето мое во тој ден, и ⟨את⟩ шабатите мои ги обесветија.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bb35a8f3ae852229e5dbfa8bd287b55223b028a4270c4ad6b6aae9972dc4f24a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/23\/37-40.1792451735395.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "уште"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "овоа"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направија"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "осквернија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "светилиштето мое"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "светилиштето мое"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "шабатите мои"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "шабатите мои"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "обесветија"
+    }
+  ],
+  "timestamp": "2026-10-19T23:15:35.395982228Z",
+  "model": "glm-5.3"
+}

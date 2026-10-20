@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 9:27",
+  "book": "deuteronomy",
+  "lang": "mk",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אל תפן",
+      "rationale": "Буквално „не свртувај лице кон“; предадено како „не обраќај внимание“."
+    },
+    {
+      "kind": "you",
+      "subject": "Јахве",
+      "rationale": "Молитва — директен повик до Бога: „Сети се“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רשעו",
+      "rationale": "„злоба“ за רֶשַׁע — морален пораз, неправда."
+    }
+  ],
+  "translation": "Сети се на слугите свои, на Аврахам, на Јицхак и на Јааков; не обраќај внимание на тврдоглавоста на овој народ, ни на злобата негова, ни на гревот негов.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "0f667da9868df5d2c4efd041c1ffea21370debbbe7b0b9c79486bdd44a92e7ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/9\/25-28.1792445474101.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Сети се"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "на слугите свои"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "на Аврахам"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "на Јицхак"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "и на Јааков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תפן",
+      "gloss": "обраќај внимание"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "קשי",
+      "gloss": "тврдоглавоста"
+    },
+    {
+      "surface": "העם",
+      "gloss": "на народот"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ни на"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "злобата негова"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ни на"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "гревот негов"
+    }
+  ],
+  "timestamp": "2026-10-19T21:31:14.102354281Z",
+  "model": "glm-5.3"
+}

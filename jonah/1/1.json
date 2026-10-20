@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "било",
+      "rationale": "македонскиот бара помошниот глагол кај ויהи („и стана\/биде“)"
+    }
+  ],
+  "translation": "И било слово од Јахве кон Јона, синот на Амитаи, велејќи:",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a98d519c2fa335203127eaaf28ec894ecebff3f3a5cd68fc4aa20334c5f721d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jonah\/1\/1-4.1792452421020.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И било"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "од Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Јона"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "на Амитаи"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    }
+  ],
+  "timestamp": "2026-10-19T23:27:01.021123971Z",
+  "model": "glm-5.3"
+}

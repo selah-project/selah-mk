@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 13:27",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שרשי רגלי",
+      "rationale": "буквално „корените на нозете“ — петите\/стапалата; KJV „пети“, ASV „налисници“"
+    },
+    {
+      "kind": "crux",
+      "subject": "תתחקה",
+      "rationale": "„врежуваш\/обележуваш граница“ — од коренот за врежување; JPS „црташ линија“, KJV „ставаш печат“"
+    },
+    {
+      "kind": "elision",
+      "subject": "белег",
+      "rationale": "глаголот תתחקה го преведов со глагол+именска додадена во загради за јасност"
+    }
+  ],
+  "translation": "и ги ставаш нозете мои во клада, и ги надгледуваш сите мои патеки; на стапалата на нозете мои ⟨врежуваш⟩ белег.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a19bf99b0ecbeada3beee6f96cdb5e47e2840b88ab5f001312090bbd3a3eb530",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/13\/25-28.1792454975886.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשם",
+      "gloss": "и ги ставаш"
+    },
+    {
+      "surface": "בסד",
+      "gloss": "во клада"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "нозете мои"
+    },
+    {
+      "surface": "ותשמור",
+      "gloss": "и ги надгледуваш"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сите"
+    },
+    {
+      "surface": "ארחותי",
+      "gloss": "патеки мои"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שרשי",
+      "gloss": "стапалата"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "на нозете мои"
+    },
+    {
+      "surface": "תתחקה",
+      "gloss": "⟨врежуваш⟩ белег"
+    }
+  ],
+  "timestamp": "2026-10-20T00:09:35.887040260Z",
+  "model": "glm-5.3"
+}

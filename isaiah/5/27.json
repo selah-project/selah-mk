@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 5:27",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ינום \/ יישן",
+      "rationale": "две зблика за сон (дреме\/спие) — параномаја задржана со два зблика"
+    }
+  ],
+  "translation": "Нема уморен ни кривнат во него; нема да дреме ни да спие; и нема да биде отпуштен појасот на бедрата негови, ни да се скрши ременот на обувките негови.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "86f9a95b5c9a74562f9ffbafde7287c5ec95782e93a78535d90ab710ff81dad7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/5\/25-28.1792449675340.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Нема"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "уморен"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ни"
+    },
+    {
+      "surface": "כושל",
+      "gloss": "кривнат"
+    },
+    {
+      "surface": "בו",
+      "gloss": "во него"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "дреме"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "спие"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и ни"
+    },
+    {
+      "surface": "נפתח",
+      "gloss": "отпуштен"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "појасот"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "на бедрата негови"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и ни"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "скршен"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "ременот"
+    },
+    {
+      "surface": "נעליו",
+      "gloss": "на обувките негови"
+    }
+  ],
+  "timestamp": "2026-10-19T22:41:15.342561624Z",
+  "model": "glm-5.3"
+}

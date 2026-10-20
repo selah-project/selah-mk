@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 20:24",
+  "book": "2-chronicles",
+  "lang": "mk",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "немаше",
+      "gloss": "копула за егзистенцијалната construction ואין"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פליטה",
+      "gloss": "букв. извадок\/спасен остаток — конкретно: бегалец"
+    }
+  ],
+  "translation": "А Јудеја дојде до набљудувачницата кон пустињата, и се свртеа кон множеството — и еве, трупови фрлени на земјата, и немаше бегалец.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e85d8ab729b4f12cc0190d3957ffb1b1c9f02a4488c74a73d9b63121727a1208",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/20\/21-24.1792457660457.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "а Јудеја"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дојде до"
+    },
+    {
+      "surface": "על",
+      "gloss": "до"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "набљудувачницата"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "кон пустињата"
+    },
+    {
+      "surface": "ויפנו",
+      "gloss": "и се свртеа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кон"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "множеството"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "и еве"
+    },
+    {
+      "surface": "פגרים",
+      "gloss": "трупови"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "фрлени"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "на земјата"
+    },
+    {
+      "surface": "ו אין",
+      "gloss": "и немаше"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "бегалец"
+    }
+  ],
+  "timestamp": "2026-10-20T00:54:20.458594837Z",
+  "model": "glm-5.3"
+}

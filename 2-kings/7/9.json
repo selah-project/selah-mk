@@ -1,0 +1,147 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 7:9",
+  "book": "2-kings",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא כן",
+      "rationale": "буквално „не така“ — идиом за „не е право“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "вина",
+      "rationale": "עוון е извртеност\/зло, тука казна за вина што ќе ги стигне"
+    },
+    {
+      "kind": "you",
+      "subject": "до другарите",
+      "rationale": "обраќање на лепрозните меѓу себе со императив „одете“"
+    }
+  ],
+  "translation": "И си рекоа еден на друг: не е така — не правиме ⟨се⟩ право денес; ден на добра вест е овој ден, а ние молчиме; ако чекаме до светлината на утрото, ќе нè стигне вина; а сега да одиме и да влеземе и да го известиме домот на царот.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "f83fd481bd16c2de971c566aadd909b4cb021e4067f6a9494737b8f1928de09c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/7\/9-12.1792449160310.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и си рекоа"
+    },
+    {
+      "surface": "איש",
+      "gloss": "еден"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "друг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ние"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "правиме"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денес"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "на добра вест"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "а ние"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "молчиме"
+    },
+    {
+      "surface": "וחכינו",
+      "gloss": "и чекаме"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светлината"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "на утрото"
+    },
+    {
+      "surface": "ומצאנו",
+      "gloss": "ќе нè стигне"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "вина"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "одете"
+    },
+    {
+      "surface": "ונבאה",
+      "gloss": "да влеземе"
+    },
+    {
+      "surface": "ונגידה",
+      "gloss": "да известиме"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царот"
+    }
+  ],
+  "timestamp": "2026-10-19T22:32:40.311561285Z",
+  "model": "glm-5.3"
+}

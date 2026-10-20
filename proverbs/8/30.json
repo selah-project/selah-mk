@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 8:30",
+  "book": "proverbs",
+  "lang": "mk",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמון",
+      "rationale": "познатиот јазол: „мајстор-градител“ (LXX, Rashi) наспроти „дете доенче“ (JPS, од корен אמן „дои“) — и двете од истиот согласенски облик"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שעשעים",
+      "rationale": "двоен корен שעשע — звучна игра „шашуим“, наслада-разонода, што се повторува во 8:31"
+    }
+  ],
+  "translation": "тогаш бев крај него, мајстор-градител, и бев наслада ден по ден, играјќи пред него во секое време;",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "f01ec9c24aad581e52a50cf7f4499d75f2cace7d10af198898225ad9df0a3e8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/8\/29-32.1792454418625.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "и бев"
+    },
+    {
+      "surface": "אצלו",
+      "gloss": "крај него"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "мајстор-градител"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "и бев"
+    },
+    {
+      "surface": "שעשעים",
+      "gloss": "наслада"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "משחקת",
+      "gloss": "играјќи"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пред него"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во секое"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    }
+  ],
+  "timestamp": "2026-10-20T00:00:18.626436415Z",
+  "model": "glm-5.3"
+}

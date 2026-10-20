@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "изневери",
+      "rationale": "כחש значи „да лаже\/изневери“ — месото „одбива“ да го даде своето масло"
+    },
+    {
+      "kind": "you",
+      "subject": "до Јахве",
+      "rationale": "обраќање кон Јахве Адонај започнато во 21"
+    }
+  ],
+  "translation": "Колената ми се спотакнаа од постот, и месото мое изневери ⟨од⟩ дебелината.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "435c461fed7a48b2b615472f9cc58d672b82cf4e97ebaacf493f1e4ed725e059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/109\/21-24.1792453915032.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "колената ми"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "се спотакнаа"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "од постот"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "и месото мое"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "изневери"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "⟨од⟩ дебелината"
+    }
+  ],
+  "timestamp": "2026-10-19T23:51:55.036163946Z",
+  "model": "glm-5.3"
+}

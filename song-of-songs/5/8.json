@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 5:8",
+  "book": "song-of-songs",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "до ќерките на Јерушалаим",
+      "rationale": "директен повик со заклетва кон слушателките"
+    },
+    {
+      "kind": "crux",
+      "subject": "מה תגידו לו",
+      "rationale": "прашање ('што ќе му кажете?') или услов ('кажете му дека') — традицијата се дели"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שחולת אהבה",
+      "rationale": "буквално 'излижена\/износена од љубов' — болеста како трошење на телото"
+    }
+  ],
+  "translation": "Заколнив ⟨את⟩ ве, ќерки на Јерушалаим: ако го најдете ⟨את⟩ мојот драг, што ќе му кажете? — дека љубовно болна сум јас.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "b4111710938a3607345c034ee20276c6407f36ae66f274aae2594f83da376343",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/song-of-songs\/5\/5-8.1792455486648.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Заколнив"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ве"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ќерки"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "на Јерушалаим"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "го најдете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мојот драг"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "мојот драг"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ќе кажете"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "שחולת",
+      "gloss": "љубовно болна"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "од љубов"
+    },
+    {
+      "surface": "אני",
+      "gloss": "сум јас"
+    }
+  ],
+  "timestamp": "2026-10-20T00:18:06.649733778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "lamentations 3:62",
+  "book": "lamentations",
+  "lang": "mk",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עלי … עלי",
+      "rationale": "Повторот на 'спроти мене' на крајот од двата дела на стихот — реден паралелизам."
+    }
+  ],
+  "translation": "Усните на оние што станаа спроти мене, и нивното мрморење спроти мене целиот ден.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "df6ccbbaf5df2fe497ff6011edaa8819e8bcad35a6a879137c3f6b39a142de40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/3\/61-64.1792455606064.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "Усните"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "на оние што станаа"
+    },
+    {
+      "surface": "והגיונם",
+      "gloss": "и мрморењето нивно"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "спроти мене"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целиот"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    }
+  ],
+  "timestamp": "2026-10-20T00:20:06.064869024Z",
+  "model": "glm-5.3"
+}

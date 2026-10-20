@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 7:5",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "разделување на луѓето",
+      "rationale": "стихот е класификација на народот според начинот на пиење"
+    },
+    {
+      "kind": "you",
+      "subject": "Гидон",
+      "rationale": "Јахве му се обраќа директно на Гидон со наредба за одвојување"
+    }
+  ],
+  "translation": "И го симна ⟨את⟩ народот до водата, и рече Јахве на Гидон: секој што ќе лиже со јазикот свој од водата, како што лиже кучето, ⟨את⟩ него стави го настрана; а секој што ќе клекне на колениците свои да пие —",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "6337701ab14eab8413441eb524757598cec4fd6a2d4f4c1dde3e8dd8f0c370e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/7\/5-8.1792446378598.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויורד",
+      "gloss": "и го симна"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водата"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Гидон"
+    },
+    {
+      "surface": "כל",
+      "gloss": "секој"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ילק",
+      "gloss": "ќе лиже"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "со јазикот свој"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водата"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како што"
+    },
+    {
+      "surface": "ילק",
+      "gloss": "лиже"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "кучето"
+    },
+    {
+      "surface": "תציג",
+      "gloss": "стави го"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ него",
+      "marks": "⟨את⟩ + него"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "настрана"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "а секој"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יכרע",
+      "gloss": "ќе клекне"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "колениците свои"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "да пие"
+    }
+  ],
+  "timestamp": "2026-10-19T21:46:18.599339474Z",
+  "model": "glm-5.3"
+}

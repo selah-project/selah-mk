@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 37:4",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "чувајте го словото на Јахве",
+      "rationale": "заповед упатена директно на коските — глагол во императив"
+    },
+    {
+      "kind": "you",
+      "subject": "исушените коски",
+      "rationale": "директен обраќање на неживи коски — апел што го отвора видението"
+    }
+  ],
+  "translation": "И ми рече: пророчкувај врз овие коски и кажи им: исушените коски, чувајте го словото на Јахве!",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "1c399e9c78506042a1113dc1c8c0a8868f76c6c7895890eefdd5d57653f05254",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/37\/1-4.1792451979806.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И ми рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пророчкувај"
+    },
+    {
+      "surface": "על",
+      "gloss": "врз"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "коските"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и кажи"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "коските"
+    },
+    {
+      "surface": "היבשות",
+      "gloss": "исушените"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чувајте"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:19:39.808031850Z",
+  "model": "glm-5.3"
+}

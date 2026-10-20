@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 41:13",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "во мојата целиност",
+      "rationale": "JPS чита 'поради мојата целиност' — תמימות како причина, не како сфера"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בתמי\/תמכת",
+      "rationale": "алитерација на t-m-k и t-m, изгубена на македонски"
+    }
+  ],
+  "translation": "А јас во мојата целиност ме поддржуваш, и ме поставуваш пред твоето лице за навек.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3593f26d5df36ed03f4821da3686baaf04a5bb73a37c85932cce938e7107cb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/41\/13-14.1792453237911.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а јас"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "во мојата целиност"
+    },
+    {
+      "surface": "תמכת",
+      "gloss": "поддржуваш"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ме"
+    },
+    {
+      "surface": "ותציבני",
+      "gloss": "и ме поставуваш"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред твоето лице"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "за навек"
+    }
+  ],
+  "timestamp": "2026-10-19T23:40:37.911883303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 106:45",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד е една реч што ги носи милоста, верноста и љубовта; оставено како хесед"
+    },
+    {
+      "kind": "crux",
+      "subject": "se покaja",
+      "rationale": "וינחם: 'се покаја\/сожали' (KJV) или 'најде утеха' (YLT) — коренот значи силно дишење, воздив"
+    }
+  ],
+  "translation": "И се сети за ⟨них⟩ својот завет, и се покаја според множеството на својот хесед.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "8d38226ea90447e28c4d75e77dead21ce453c9ce894defcd55aab3eb22cae58d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/106\/45-48.1792453877391.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "се сети"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨за нив⟩"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "својот завет"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "се покаја"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "според множеството"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "својот хесед"
+    }
+  ],
+  "timestamp": "2026-10-19T23:51:17.392240596Z",
+  "model": "glm-5.3"
+}

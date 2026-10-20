@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 7:9",
+  "book": "song-of-songs",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "за",
+      "rationale": "македонскиот бара предлог пред објектот на фаќање; хебрејскиот користи ב…"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמר\/סנסנים",
+      "rationale": "сликата на палма и нејзините врвни гранчиња како единствена метафора за телото"
+    }
+  ],
+  "translation": "Реков: Ќе се качам на палмата, ќе се фатам за нејзините гранчиња; па нека бидат градите твои како гроздовите на лозата, и мирисот на носот твој како јаболка.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "2184022e642cde1860baa9f1e65f0b069d3fd6eddbb4bfcea15fdffc0da6ce1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/song-of-songs\/7\/9-12.1792455427833.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Реков"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "Ќе се качам"
+    },
+    {
+      "surface": "בתמר",
+      "gloss": "на палмата"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ќе се фатам"
+    },
+    {
+      "surface": "בסנסניו",
+      "gloss": "за нејзините гранчиња"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "па нека бидат"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сега"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "градите твои"
+    },
+    {
+      "surface": "כאשכלות",
+      "gloss": "како гроздовите"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "на лозата"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "и мирисот"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "на носот твој"
+    },
+    {
+      "surface": "כתפוחים",
+      "gloss": "како јаболка"
+    }
+  ],
+  "timestamp": "2026-10-20T00:17:07.834113149Z",
+  "model": "glm-5.3"
+}

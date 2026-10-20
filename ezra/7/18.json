@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 7:18",
+  "book": "ezra",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "למעבד … תעבדון",
+      "rationale": "игра на коренот עבד (да правиш — правете) во крајната реченица, делумно зачувана"
+    }
+  ],
+  "translation": "А што ти и твоите браќа ќе ви изгледа добро да направите со остатокот од среброто и златото, според волјата на вашиот Елохим направете.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "963eaf0fd1fa088118e579cd4978cde17196d3d2fb590b6ad73a3343c64d4f44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezra\/7\/17-20.1792456395835.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "а што"
+    },
+    {
+      "surface": "די",
+      "gloss": "што"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "твоите браќа"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "изгледа добро"
+    },
+    {
+      "surface": "בשאר",
+      "gloss": "со остатокот"
+    },
+    {
+      "surface": "כספא",
+      "gloss": "од среброто"
+    },
+    {
+      "surface": "ודהבה",
+      "gloss": "и златото"
+    },
+    {
+      "surface": "למעבד",
+      "gloss": "да направите"
+    },
+    {
+      "surface": "כרעות",
+      "gloss": "според волјата"
+    },
+    {
+      "surface": "אלהכם",
+      "gloss": "на вашиот Елохим"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "направете"
+    }
+  ],
+  "timestamp": "2026-10-20T00:33:15.835940545Z",
+  "model": "glm-5.3"
+}

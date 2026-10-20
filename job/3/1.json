@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 3,
+  "translation": "По тоа Јов го отвори ⟨את⟩ својата уста и го проколна ⟨את⟩ својот ден.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "49b0db4e71e4397a1ad67c7edba9773d430144d901673ae76c48146c8c508694",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/3\/1-4.1792454829241.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тоа"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "отвори"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Јов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "својата уста"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "својата уста"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "и го проколна"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "својот ден"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "својот ден"
+    }
+  ],
+  "timestamp": "2026-10-20T00:07:09.242334353Z",
+  "model": "glm-5.3"
+}

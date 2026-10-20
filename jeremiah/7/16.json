@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 7:16",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот глагол бара возвратна честичка кај חתפלל"
+    },
+    {
+      "kind": "crux",
+      "subject": "рина",
+      "rationale": "רנה значи 'врисок\/плач' — радост или жалост; преведувачите се колебаат меѓу 'вика' и 'плачна песна'"
+    },
+    {
+      "kind": "you",
+      "subject": "до Еремија",
+      "rationale": "Јахве му забранува на пророкот да се моли — директен говор кон Еремија"
+    }
+  ],
+  "translation": "А ти не моли ⟨се⟩ за овој народ и не подигнувај за нив рина и молитва, и не застапувај кај мене, зашто јас не те слушам тебе.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "5f9e774992878bfe237ebcc6768fe68f0826444fbd77f45950ef6f9ba37eaecb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/7\/16-16.1792458242061.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "моли ⟨се⟩"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "за"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "подигнувај"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "за нив"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "рина"
+    },
+    {
+      "surface": "ותפלה",
+      "gloss": "и молитва"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "застапувај"
+    },
+    {
+      "surface": "בי",
+      "gloss": "кај мене"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "не сум"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слушам"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "тебе"
+    }
+  ],
+  "timestamp": "2026-10-20T01:04:02.062403258Z",
+  "model": "glm-5.3"
+}

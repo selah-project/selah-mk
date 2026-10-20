@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלמות",
+      "rationale": "Хапакс: 'треви (портулак)' според JPS, 'белушка од јајце' според KJV\/ASV — преводот е несигурен."
+    },
+    {
+      "kind": "hapax",
+      "subject": "חלמות",
+      "rationale": "Зборот се јавува само тука во Танах."
+    },
+    {
+      "kind": "substitution",
+      "subject": "плунка",
+      "rationale": "בריר е плунка или изметок; сликата е одвратност од безвкусната храна."
+    }
+  ],
+  "translation": "Дали ⟨се⟩ јаде безкусно нешто без сол? Дали има вкус во плунката на тревите?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "bc15c18360dae2cf19fcd8580154c190ebe68ae9cf2a15c4e2c0f0a8f6275a7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/6\/5-8.1792454842274.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "Дали се јаде"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "безкусно нешто"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "сол"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Дали"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "вкус"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "во плунката"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "на тревите"
+    }
+  ],
+  "timestamp": "2026-10-20T00:07:22.274961366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "היכל יהוה ×3",
+      "rationale": "Тројно повторување на храмската лозинка — ритамски рефрен што го носи целата иронија на стихот"
+    },
+    {
+      "kind": "crux",
+      "subject": "המה — тие се",
+      "rationale": "Дали „тие“ се зборовите на лагата или самите градби\/луѓе; преводите се делат меѓу „ова е храмот“ и „такви се тие“"
+    }
+  ],
+  "translation": "Не полагајте доверка во лажните зборови, велејќи: Храм на Јахве, храм на Јахве, храм на Јахве — тие се.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "c08a3ae0e5e7275241ba019f1ce5004e3b1c89172a6d7145828c29977594b657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/7\/1-4.1792450503954.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "полагајте доверка"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨себе⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "зборови"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "лажните"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "храм"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "храм"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "храм"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тие се"
+    }
+  ],
+  "timestamp": "2026-10-19T22:55:03.956134806Z",
+  "model": "glm-5.3"
+}

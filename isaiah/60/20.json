@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 60:20",
+  "book": "isaiah",
+  "lang": "mk",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "нема да заоѓа",
+      "rationale": "יבוא буквално „нема да дојде“ — преводите се делат: „да заоѓа“ (KJV\/JPS) наспроти „да дојде“; контекстот е заоѓање"
+    },
+    {
+      "kind": "alternative",
+      "subject": "нема да се собира",
+      "rationale": "יאסף буквално „да се собере\/да се земе“ — можно и „да се сокрие“"
+    }
+  ],
+  "translation": "Твоето сонце повеќе нема да заоѓа, и твојата месечина нема да се собира; зашто Јахве ќе ти биде вечна светлина, и ќе се исполнат деновите на твојата жалост.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "9a1ab610082a180e5a7e0ea04dca150bbf2d16d8506f28a5222b330f1a4ed16e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/60\/17-20.1792450357282.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "нема да заоѓа"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повеќе"
+    },
+    {
+      "surface": "שמשך",
+      "gloss": "твоето сонце"
+    },
+    {
+      "surface": "וירחך",
+      "gloss": "и твојата месечина"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "нема да се собира"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ќе биде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "за светлина"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечна"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "и ќе се исполнат"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "деновите"
+    },
+    {
+      "surface": "אבלך",
+      "gloss": "на твојата жалост"
+    }
+  ],
+  "timestamp": "2026-10-19T22:52:37.284001136Z",
+  "model": "glm-5.3"
+}

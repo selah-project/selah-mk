@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 19:6",
+  "book": "numbers",
+  "lang": "mk",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "шни толаат",
+      "rationale": "буквално „црвениот црв“ (бојата од инсектот кермес); македонската традиција вели „црвена волна“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "три предмети",
+      "rationale": "кедрово дрво, изоп и црвена волна — набројување на утврдени состојки за ритуалот"
+    }
+  ],
+  "translation": "И свештеникот нека земи кедрово дрво и изоп и црвена волна, и нека ги фрли ⟨се⟩ во средината на горењето на кравата.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "e70f3ed59731a28b354395c39521a65554b80d7f87bfc453e077213f9b29416e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/19\/5-8.1792444956704.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "и нека земе"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеникот"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "кедрово"
+    },
+    {
+      "surface": "ואזוב",
+      "gloss": "и изоп"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "и црвена"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "волна (од црвениот црв)"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "и нека фрли"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "средината"
+    },
+    {
+      "surface": "שרפת",
+      "gloss": "на горењето"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "на кравата"
+    }
+  ],
+  "timestamp": "2026-10-19T21:22:36.705441200Z",
+  "model": "glm-5.3"
+}

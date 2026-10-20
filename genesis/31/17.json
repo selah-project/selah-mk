@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "mk",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ги крена",
+      "rationale": "וישא 'ги подигна\/крена' — кревање на децата на камилите"
+    }
+  ],
+  "translation": "И Јааков стана, и ги крена ⟨את⟩ синовите свои и ⟨את⟩ жените свои на камилите.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "93367398b5382931a5259cd7a5738d0f05c3f002f2211fd032c21391df57c5f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/31\/17-20.1792442936409.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "стана"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ги крена"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синовите свои"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синовите свои"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "жените свои"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "жените свои"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "камилите"
+    }
+  ],
+  "timestamp": "2026-10-19T20:48:56.410466221Z",
+  "model": "glm-5.3"
+}

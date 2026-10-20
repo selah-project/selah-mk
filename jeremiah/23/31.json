@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 23:31",
+  "book": "jeremiah",
+  "lang": "mk",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הלקחים לשונם",
+      "rationale": "дословно 'што го земаат јазикот свој' — 'го ползат' (КЈВ) наспроти 'го мазнат' (корен לקח како glaднење во други места)."
+    },
+    {
+      "kind": "elision",
+      "subject": "נאם",
+      "rationale": "самостојно 'изрека' без име — лажниот пророк ја имитира формулата, но Името недостасува."
+    }
+  ],
+  "translation": "Еве Ме спроти пророците, вели Јахве, што го ползат јазикот свој и велат: изрека.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ccf7f777b8db279835cadbeb8b2ddc034448e9053fabd42f17fc7d59eb4d586b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/23\/29-32.1792450713065.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "еве Ме"
+    },
+    {
+      "surface": "על",
+      "gloss": "спроти"
+    },
+    {
+      "surface": "הנביאם",
+      "gloss": "пороците"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "вели"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הלקחים",
+      "gloss": "што го ползат"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "јазикот свој"
+    },
+    {
+      "surface": "וינאמו",
+      "gloss": "и велат"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    }
+  ],
+  "timestamp": "2026-10-19T22:58:33.066612133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "седум месеци",
+      "rationale": "погребувањето е измерено — седум месеци, одѕив на седумте години од стих 9."
+    }
+  ],
+  "translation": "И домот на Јисраел ќе ги погребе — за да ја очисти ⟨את⟩ земјата — седум месеци.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "a20fed10eef06847e563bf34198401139798c7dc96a259654d5e6f8a4fca7730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/39\/9-12.1792451956533.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "ќе ги погребе"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домот"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Јисраел"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "очиристи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седум"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "месеци"
+    }
+  ],
+  "timestamp": "2026-10-19T23:19:16.535315339Z",
+  "model": "glm-5.3"
+}

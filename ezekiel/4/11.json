@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 4:11",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "шестина од хин",
+      "rationale": "течна мерка за водата — рационирање како во опсада"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨од⟩",
+      "rationale": "македонскиот бара предлог меѓу дропката и мерката"
+    }
+  ],
+  "translation": "И вода по мерка ќе пиеш — шестина ⟨од⟩ хин; од време до време ќе пиеш.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "68bd07354b3da894aa07455ecb1e1e28f515dd6611bde1ce205b3aed1fa3a727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/4\/9-12.1792451401373.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומים",
+      "gloss": "и вода"
+    },
+    {
+      "surface": "במשורה",
+      "gloss": "по мерка"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ќе пиеш"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "шестина"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "хин"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "од време"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ќе пиеш"
+    }
+  ],
+  "timestamp": "2026-10-19T23:10:01.374404840Z",
+  "model": "glm-5.3"
+}

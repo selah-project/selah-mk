@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 7:7",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Гидон и триста мажи",
+      "rationale": "Јахве директно ветува: „ќе ве спасам“, „во раката твоја“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "триста мажи",
+      "rationale": "бројот е носач на ветувањето — спасението преку малубројни"
+    }
+  ],
+  "translation": "И рече Јахве на Гидон: Со триста мажи што лижеа ќе ве спасам и ќе го дадам ⟨את⟩ Мадијан во раката твоја; а сите останати од народот нека си одат, секој на местото свое.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "6337701ab14eab8413441eb524757598cec4fd6a2d4f4c1dde3e8dd8f0c370e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/7\/5-8.1792446378598.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Гидон"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "со триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сто"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "мажи"
+    },
+    {
+      "surface": "המלקקים",
+      "gloss": "што лижеа"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ќе ве спасам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "и ќе го дадам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мадијан"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мадијан"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "во раката твоја"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "а сите"
+    },
+    {
+      "surface": "העם",
+      "gloss": "останати од народот"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "нека си одат"
+    },
+    {
+      "surface": "איש",
+      "gloss": "секој"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "на местото свое"
+    }
+  ],
+  "timestamp": "2026-10-19T21:46:18.599757508Z",
+  "model": "glm-5.3"
+}

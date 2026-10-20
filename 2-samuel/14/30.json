@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 14:30",
+  "book": "2-samuel",
+  "lang": "mk",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אל ידי",
+      "rationale": "буквално 'до мојата рака' — земјата до раката, т.е. соседна; 'до мојата' го губи телесниот лик"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חלקה",
+      "rationale": "буквално 'гладкост, удел' — 'нива' е улогата, не обликот"
+    }
+  ],
+  "translation": "И рече на слугите свои: Видете, нивата на Јоав е до мојата, и нему таму има јачмен; одете и запалете ја со оган. И слугите на Авшалом ја запалија ⟨את⟩ нивата со оган.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "710448d17b8d4717ee44cbda0634c000e92969ac307d487380ea63124f1db1a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/14\/29-32.1792448272914.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "слугите свои"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "видете"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "нивата"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "мојата"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "и нему"
+    },
+    {
+      "surface": "שם",
+      "gloss": "таму"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "јачмен"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "одете"
+    },
+    {
+      "surface": "והוצתיה",
+      "gloss": "и запалете ја"
+    },
+    {
+      "surface": "באש",
+      "gloss": "со оган"
+    },
+    {
+      "surface": "ויצתו",
+      "gloss": "и запалија"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слугите на"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нивата"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "нивата"
+    },
+    {
+      "surface": "באש",
+      "gloss": "со оган"
+    }
+  ],
+  "timestamp": "2026-10-19T22:17:52.916167533Z",
+  "model": "glm-5.3"
+}

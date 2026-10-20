@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 21:13",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "се",
+      "rationale": "македонскиот го бара возвратниот глагол; хебрејскиот нема"
+    }
+  ],
+  "translation": "И го испратија ⟨се⟩ целата сборна заедница и зборуваа со синовите на Венијамин, кои беа во карпата Римон, и им извикаа мир.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "807d2d89fca0e93892c8e323c964475833ccdf46011164260cc592867b92497d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/21\/13-16.1792446640415.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ги испратија"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целата"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "сборна заедница"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "зборуваа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "со"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовите на"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Венијамин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кои"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "во карпата"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Римон"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "извикаа"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    }
+  ],
+  "timestamp": "2026-10-19T21:50:40.416293534Z",
+  "model": "glm-5.3"
+}

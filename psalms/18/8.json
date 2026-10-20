@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חרה לו",
+      "rationale": "дословно 'му загреа\/му пламна' — идиом за гнев, задржан со 'разгоре во него гнев'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "געש\/רעש\/רגז",
+      "rationale": "три различни хебрејски глаголи за тресење натрупани во еден стих — катастрофична акумулација"
+    }
+  ],
+  "translation": "И се раздвижи и се затресе земјата, и основите на планините се разнишаа и се затресоа, зашто разгоре во него гнев.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "ba9860e17bc2d3b95092939356ff36087dcf98587ed75d1aacf106c838a4c4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/18\/5-8.1792453018892.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "и се раздвижи"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "и се затресе"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "и основите на"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "планините"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "се разнишаа"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "и се затресоа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "разгоре"
+    },
+    {
+      "surface": "לו",
+      "gloss": "во него"
+    }
+  ],
+  "timestamp": "2026-10-19T23:36:58.893059551Z",
+  "model": "glm-5.3"
+}

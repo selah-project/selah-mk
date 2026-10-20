@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 1:51",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "кајом",
+      "rationale": "„уште денес“ — KJV\/ASV\/JPS „first\/first of all“; букв. „како денес“, заколнување уште денес"
+    },
+    {
+      "kind": "addition",
+      "subject": "дека нема",
+      "rationale": "македонскиот бара воведна реченица за заколнувањето, хебрејскиот има само אם"
+    }
+  ],
+  "translation": "И ги известија Шломо, векувајќи: Еве, Адонија се плаши од царот Шломо, и еве, фати се за роговите на олтарот, велеше: Нека ми се заколне уште денес царот Шломо дека нема да го убие ⟨את⟩ слугата свој со меч.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "fe0f6e8b22efe7528923b5ba13af46455edf6be4fc7d7c3abc22c6da205efe2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/1\/49-52.1792448522521.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ги известија"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велувајќи"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "eve"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Адонија"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "се плаши"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "царот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и еве"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "фати се"
+    },
+    {
+      "surface": "בקרנות",
+      "gloss": "за роговите"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "на олтарот"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велеше"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "да се заколне"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "уште денес"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царот"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "אם",
+      "gloss": "дека нема"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "да го убие"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слугата свој"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "слугата свој"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "со меч"
+    }
+  ],
+  "timestamp": "2026-10-19T22:22:02.523035369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "храна",
+      "rationale": "שאר букв. значи „плоть\/месо“, тука во смисла на храна"
+    },
+    {
+      "kind": "substitution",
+      "subject": "брачна должност",
+      "rationale": "ענה — брачно\/полово општење; букв. „нејзината должност“"
+    }
+  ],
+  "translation": "Ако друга ⟨се⟩ земе за себе, нејзината храна, нејзината облека и нејзината брачна должност нема да ѝ ги намали.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "f981f1c98672136fce8ef7a7c6e6289319c4739b3781e50d63afefdda5d0100c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/21\/9-12.1792443671754.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "друга"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "земе"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за себе"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "нејзината храна"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "нејзината облека"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "и нејзината брачна должност"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "ќе намали"
+    }
+  ],
+  "timestamp": "2026-10-19T21:01:11.755663199Z",
+  "model": "glm-5.3"
+}

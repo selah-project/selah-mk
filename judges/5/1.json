@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 5:1",
+  "book": "judges",
+  "lang": "mk",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "двојката на глаголот",
+      "rationale": "македонскиот бара пар глагол за „и пееа… и Барак“, хебрејскиот има еден"
+    }
+  ],
+  "translation": "И пееа Девора и Барак, синот на Авиноам, во тој ден, велејќи:",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "3018506c9f8040a749e9dd8915207c788457d81a0ddd3ca9193c2197fc41c612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/judges\/5\/1-4.1792446336909.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשר",
+      "gloss": "и пееа"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Девора"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "и Барак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синот"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "на Авиноам"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во тој ден"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "во тој ден"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "велејќи"
+    }
+  ],
+  "timestamp": "2026-10-19T21:45:36.909623124Z",
+  "model": "glm-5.3"
+}

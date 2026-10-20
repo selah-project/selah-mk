@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 13:22",
+  "book": "1-samuel",
+  "lang": "mk",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "со",
+      "rationale": "את со Шаул е релативна употреба — „народот што (бееше) со Шаул“, предлогот е додаден во однос на елис."
+    },
+    {
+      "kind": "addition",
+      "subject": "ни",
+      "rationale": "хебрејскиот има само вав-сврзник „и копје“, македонскиот бара „ни“ за негативното набројување"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נמצא\/ותמצא",
+      "rationale": "игра на зборови: не се нашол кај народот — се нашло кај Шаул и Јонатан"
+    }
+  ],
+  "translation": "И било во денот на битката — не се нашол меч ни копје во рака на сиот народот што бил ⟨со⟩ Шаул и ⟨со⟩ Јонатан; а се нашло кај Шаул и кај Јонатан, синот негов.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "111a58291dbceec4f9d1b88737a4eb0d61cff0f4ec7c038d92434fafb1def012",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/13\/22-23.1792447811526.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И било"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во денот"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "на битката"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "се нашол"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "ни копје"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "во рака"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на сиот"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шаул"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Јонатан"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Јонатан"
+    },
+    {
+      "surface": "ותמצא",
+      "gloss": "а се нашло"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "кај Шаул"
+    },
+    {
+      "surface": "וליונתן",
+      "gloss": "и кај Јонатан"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синот негов"
+    }
+  ],
+  "timestamp": "2026-10-19T22:10:11.529518574Z",
+  "model": "glm-5.3"
+}

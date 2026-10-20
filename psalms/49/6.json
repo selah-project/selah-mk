@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עקבי",
+      "rationale": "'на петите мои' (KJV, ASV) наспроти 'на моите срамнители' (JPS, YLT од עקב како ковчег за заседа)"
+    }
+  ],
+  "translation": "Зошто да се плашам во деновите на зло, кога беззаконието на петите мои ќе ме опколи?",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "63e10de462bb6e8e97396804c2f7b13371307327f9d91e9facfe5c4c8d3f26f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/49\/5-8.1792453310678.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "да се плашам"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "во деновите"
+    },
+    {
+      "surface": "רע",
+      "gloss": "на зло"
+    },
+    {
+      "surface": "עון",
+      "gloss": "беззаконието"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "на петите мои"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "ќе ме опколи"
+    }
+  ],
+  "timestamp": "2026-10-19T23:41:50.680169103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "mk",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "е",
+      "rationale": "хебрејскиот нема копула во 'טוב יום'"
+    },
+    {
+      "kind": "crux",
+      "subject": "הסתופף",
+      "rationale": "корен 'да стоиш на праг' — традицијата 'вратар', букв. 'да чекам на прагот'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מדור",
+      "rationale": "буквално 'пребивање\/живеење', дадено како глаголска конструкција"
+    },
+    {
+      "kind": "measurement",
+      "subject": "илјада",
+      "rationale": "споредување преку бројка"
+    }
+  ],
+  "translation": "Зашто еден ден во дворовите твои е подобар од илјада; јас избрав да стојам на прагот во домот на Елохим мојот, отколку да живеам во шаторите на беззаконието.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "e6c8cc7d871f0aa3b67593935998350e009bd1525591d60cd78812ebb8273999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/84\/9-12.1792453648844.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "е подобар"
+    },
+    {
+      "surface": "יום",
+      "gloss": "еден ден"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "во дворовите твои"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "од илјада"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "избрав"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "да стојам на прагот"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "во домот"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "отколку да живеам"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "во шаторите на"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "беззаконието"
+    }
+  ],
+  "timestamp": "2026-10-19T23:47:28.845061967Z",
+  "model": "glm-5.3"
+}

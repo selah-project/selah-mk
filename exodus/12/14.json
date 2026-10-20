@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "mk",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חגג\/חג",
+      "rationale": "глаголот „ да празнува“ и именката „празник“ се ист корен — повторување три пати во еден стих"
+    },
+    {
+      "kind": "invitation",
+      "subject": "תחגהו",
+      "rationale": "заповед во императив: празнувајте го — повик што важи низ поколенијата"
+    }
+  ],
+  "translation": "И овој ден ќе ви биде ⟨е⟩ за спомен; и ќе го празнувате ⟨את⟩ него празник за Јахве — низ вашите поколенија, вечна наредба: празнувајте го.",
+  "provenance": {
+    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
+    "user-sha256": "d771f4f7cfc17c459b829d496b6ef16c26dc32bd0110da486313f39fedd425be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/12\/13-16.1792443550799.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и ќе биде"
+    },
+    {
+      "surface": "היום",
+      "gloss": "овој ден"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "за спомен"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "и ќе празнувате"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "חג",
+      "gloss": "празник"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Јахве"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "низ вашите поколенија"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "наредба"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечна"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "празнувајте го"
+    }
+  ],
+  "timestamp": "2026-10-19T20:59:10.801156475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "mk",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "2172",
+      "rationale": "број од пописот, напишан цели со зборови како хебрејскиот"
+    }
+  ],
+  "translation": "Синовите на Парош — две илјади сто седумдесет и два.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3faa8a65fb958e6202d4ce2d60438797229cfe7ffd8e8f727c1cbd9e4cfa07e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/nehemiah\/7\/5-8.1792456580193.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовите на"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Парош"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "две илјади"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "седумдесет"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    }
+  ],
+  "timestamp": "2026-10-20T00:36:20.194673148Z",
+  "model": "glm-5.3"
+}

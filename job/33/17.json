@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 33:17",
+  "book": "job",
+  "lang": "mk",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "од силниот",
+      "rationale": "גבר е 'силен маж\/јунак'; преводите често генерализираат на 'човек', со што се губи спротивката אדם\/גבר."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדם … גבר",
+      "rationale": "два збора за човек во еден стих — обичен човек и силен маж — сликата на гордоста паѓа и на силните."
+    }
+  ],
+  "translation": "за да го одврати човекот од делото, и гордоста од силниот да ја покрие.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "3cd23454b2aa2a0891e94a601ab8c6e94937f82c27733765c568264499387708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/33\/17-20.1792455238821.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להסיר",
+      "gloss": "за да го одврати"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човекот"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "од делото"
+    },
+    {
+      "surface": "וגוה",
+      "gloss": "и гордоста"
+    },
+    {
+      "surface": "מגבר",
+      "gloss": "од силниот"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "да ја покрие"
+    }
+  ],
+  "timestamp": "2026-10-20T00:13:58.821921757Z",
+  "model": "glm-5.3"
+}

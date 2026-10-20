@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 15:8",
+  "book": "ezekiel",
+  "lang": "mk",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעלו מעל",
+      "rationale": "глагол и именка од ист корен: „вероломно извршија вероломство“ — звукот се повторува, на македонски се губи"
+    },
+    {
+      "kind": "substitution",
+      "subject": "вероломно",
+      "rationale": "מעל е покривање\/таенprevарам — неверност кон заветот, не обичен преступ"
+    }
+  ],
+  "translation": "И ќе ја направам ⟨את⟩ земјата пустиња, зашто вероломно постапија — изрека на Адонај Јахве.",
+  "provenance": {
+    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
+    "user-sha256": "396a7e06042617fabdb20be131a463ccf1daa57beaf3a16d48e250191381f8aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/15\/5-8.1792451502466.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "И ќе направам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земјата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земјата"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "пустиња"
+    },
+    {
+      "surface": "יען",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "вероломно постапија"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "вероломство"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-10-19T23:11:42.467456411Z",
+  "model": "glm-5.3"
+}

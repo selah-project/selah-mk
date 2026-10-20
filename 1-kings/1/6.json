@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "mk",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨мајка му⟩",
+      "rationale": "хебрејскиот вели само 'го роди' — субјектот е подразбиран."
+    },
+    {
+      "kind": "substitution",
+      "subject": "не го огорчи",
+      "rationale": "עצב буквално 'да ги повреди\/да огорчи' — еден глагол за целиот однос татко–син."
+    }
+  ],
+  "translation": "И татко му не го огорчи ниеден од своите дни, кажувајќи: Зошто така направи? И тој беше многу убав по облик, и ⟨мајка му⟩ го роди ⟨את⟩ него по Авшалом.",
+  "provenance": {
+    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
+    "user-sha256": "125f51d37982b445ba9b65e316efa7f3b9cace9beb9bf84d25d2aa20ad1723a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/1\/5-8.1792448515981.json",
+    "code": "e236f7c33-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "го огорчи"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "татко му"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ниеден од своите дни"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажувајќи"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "зошто"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "така"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "направи"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тој"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "убав"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "по облик"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "многу"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "го роди"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    }
+  ],
+  "timestamp": "2026-10-19T22:21:55.982499306Z",
+  "model": "glm-5.3"
+}
