@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "mk",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "פנו לכם",
-      "rationale": "буквално „свртете за себе“ — хебрејски рефлексив со ל, македонски нема таков облик"
-    },
-    {
-      "kind": "crux",
-      "subject": "ים סוף",
-      "rationale": "„море на трска“ (трскично) против традиционалното „Црвено Море“"
-    },
-    {
-      "kind": "you",
-      "subject": "свртете · тргнете",
-      "rationale": "заповед упатена директно на Јисраел"
-    }
-  ],
-  "translation": "А вие свртете се ⟨за себе⟩ и тргнете кон пустината, по патот кон морето на трска.",
-  "provenance": {
-    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
-    "user-sha256": "1a59b30a94d253d021eb356becdd19e6923a2b7631175478be3d57ea8eb32cb5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/1\/38-40.1792447802610.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "А вие свртете се и тргнете ⟨се⟩ кон пустината, по патот кон Трскеното море.",
   "tokens": [
     {
       "surface": "ואתם",
@@ -43,14 +17,14 @@
     },
     {
       "surface": "לכם",
-      "gloss": "⟨за себе⟩"
+      "gloss": "⟨се⟩"
     },
     {
       "surface": "וסעו",
-      "gloss": "и тргнете"
+      "gloss": "тргнете"
     },
     {
-      "surface": "המидбרה",
+      "surface": "המדברה",
       "gloss": "кон пустината"
     },
     {
@@ -59,13 +33,13 @@
     },
     {
       "surface": "ים",
-      "gloss": "морето"
+      "gloss": "море"
     },
     {
       "surface": "סוף",
-      "gloss": "на трска"
+      "gloss": "Трскено"
     }
   ],
-  "timestamp": "2026-10-19T22:10:02.615483514Z",
+  "timestamp": "2026-10-20T03:37:51.518267349Z",
   "model": "glm-5.3"
 }

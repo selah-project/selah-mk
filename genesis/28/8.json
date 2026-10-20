@@ -5,17 +5,45 @@
   "book": "genesis",
   "lang": "mk",
   "chapter": 28,
-  "translation": "",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "7ca369c9dbee31948ee48fbc0bf297dac8775f5999c67d7758fb1d66874e5d74",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/28\/5-8.1792442873929.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
-  "tokens": [],
-  "timestamp": "2026-10-19T20:47:53.936835699Z",
+  "translation": "И Есав виде дека ќерките на Кенаан се лоши во очите на Јицхак, татко му.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И виде"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дека"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "се лоши"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ќерките"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "на Кенаан"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "во очите"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "на Јицхак"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "татко му"
+    }
+  ],
+  "timestamp": "2026-10-20T03:56:56.838808148Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "exodus",
   "lang": "mk",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "тест",
-      "rationale": "חתן означува татко на сопругата (свекар) — 'тест' е најблискиот македонски збор за роднинската врска на Јитро со Моше."
-    }
-  ],
-  "translation": "И Моше го послуша гласот на својот тест, и направи сè што рече.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "85a8c5fa058ad4f40a39c13d40b4c4cb6914fd8dd8ad14fda21132dae84ff053",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/18\/21-24.1792443582547.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И Моше го послуша гласот на свoјот таст, и направи сè она што го беше рекол.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "и го послуша"
+      "gloss": "послуша"
     },
     {
       "surface": "משה",
@@ -33,15 +17,15 @@
     },
     {
       "surface": "לקול",
-      "gloss": "гласот"
+      "gloss": "гласот на"
     },
     {
       "surface": "חתנו",
-      "gloss": "на својот тест"
+      "gloss": "свoјот таст"
     },
     {
       "surface": "ויעש",
-      "gloss": "и направи"
+      "gloss": "направи"
     },
     {
       "surface": "כל",
@@ -53,9 +37,9 @@
     },
     {
       "surface": "אמר",
-      "gloss": "рече"
+      "gloss": "беше рекол"
     }
   ],
-  "timestamp": "2026-10-19T20:59:42.556075379Z",
+  "timestamp": "2026-10-20T03:45:05.244184239Z",
   "model": "glm-5.3"
 }

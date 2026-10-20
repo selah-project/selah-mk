@@ -5,36 +5,20 @@
   "book": "ezekiel",
   "lang": "mk",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ме нахрани",
-      "rationale": "Хебрејскиот хифил „направи да јадам“ — причинителен глагол предаден со „нахрани“."
-    }
-  ],
-  "translation": "И ја отворив устата своја, и тој ме нахрани со ⟨את⟩ оваа свитка.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "441a10aeac71e664c0f8b87082e1e091dda593eea6bd9db38bfaa21af70de85e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/3\/1-4.1792451332792.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И ја отворив ⟨את⟩ мојата уста, и тој ме нахрани со ⟨את⟩ свитоков овој.",
   "tokens": [
     {
       "surface": "ואפתח",
-      "gloss": "и отворив"
+      "gloss": "и ја отворив"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "устата своја"
+      "marks": "мојата уста"
     },
     {
       "surface": "פי",
-      "gloss": "устата моја"
+      "gloss": "мојата уста"
     },
     {
       "surface": "ויאכלני",
@@ -43,17 +27,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "оваа свитка"
+      "marks": "свитоков овој"
     },
     {
       "surface": "המגלה",
-      "gloss": "свитката"
+      "gloss": "свитоков"
     },
     {
       "surface": "הזאת",
-      "gloss": "оваа"
+      "gloss": "овој"
     }
   ],
-  "timestamp": "2026-10-19T23:08:52.793140932Z",
+  "timestamp": "2026-10-20T03:50:38.988636971Z",
   "model": "glm-5.3"
 }

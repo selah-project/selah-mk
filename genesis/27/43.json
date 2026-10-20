@@ -5,44 +5,23 @@
   "book": "genesis",
   "lang": "mk",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "до Јааков",
-      "rationale": "Ривках директно му заповеда на синот: 'слушни', 'стани', 'побегни' — низ од императиви"
-    },
-    {
-      "kind": "you",
-      "subject": "до Јааков",
-      "rationale": "директен обращт на мајката кон помладиот син"
-    }
-  ],
-  "translation": "И сега, сине мой, слушни ⟨го⟩ гласот мој: стани, побегни за себеси кај Лаван, брата ми, во Харан.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "30e3b7463dc8852537d35a6d5e148de7c9eaf37daab8a5b36b2cd207e33b6300",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/27\/41-44.1792442899817.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "А сега, сину мој, послушај го гласот мој: стани, побегни кај Лаван, брата ми, во Харан.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "И сега"
+      "gloss": "а сега"
     },
     {
       "surface": "בני",
-      "gloss": "сине мой"
+      "gloss": "сину мој"
     },
     {
       "surface": "שמע",
-      "gloss": "слушни"
+      "gloss": "послушај"
     },
     {
       "surface": "בקלי",
-      "gloss": "гласот мој"
+      "gloss": "го гласот мој"
     },
     {
       "surface": "וקום",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "за себеси"
+      "gloss": "за себе"
     },
     {
       "surface": "אל",
@@ -73,6 +52,6 @@
       "gloss": "во Харан"
     }
   ],
-  "timestamp": "2026-10-19T20:48:19.819201953Z",
+  "timestamp": "2026-10-20T03:57:10.136369305Z",
   "model": "glm-5.3"
 }

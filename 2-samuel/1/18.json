@@ -5,35 +5,14 @@
   "book": "2-samuel",
   "lang": "mk",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "קשת",
-      "rationale": "'лак' — дали значи песна за лукот (наслов на жалопојката) или учење стрелаштво; преводите се делат"
-    },
-    {
-      "kind": "substitution",
-      "subject": "הישר",
-      "rationale": "'Правиот' — сопствено име на книгата, задржано како Јашар"
-    }
-  ],
-  "translation": "и рече да ⟨се⟩ учат синовите Јудини ⟨за⟩ лаковите — ете, напишано е во книгата Јашар.",
-  "provenance": {
-    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
-    "user-sha256": "845876f381a87efc6f2700bd4bdf2403f0e678f7fb4045ee817a1158b244f83f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/1\/17-20.1792448014963.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И рече да ⟨се⟩ учат синовите Јехуда ⟨за⟩ лакот — еве, напишана ⟨е⟩ во книгата Јашар.",
   "tokens": [
     {
       "surface": "ויאמר",
       "gloss": "и рече"
     },
     {
-      "surface": "лלמד",
+      "surface": "ללמד",
       "gloss": "да учат"
     },
     {
@@ -42,19 +21,19 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Јудини"
+      "gloss": "Јехуда"
     },
     {
       "surface": "קשת",
-      "gloss": "лаковите"
+      "gloss": "лакот"
     },
     {
       "surface": "הנה",
-      "gloss": "ете"
+      "gloss": "ево"
     },
     {
       "surface": "כתובה",
-      "gloss": "напишано е"
+      "gloss": "напишана"
     },
     {
       "surface": "על",
@@ -69,6 +48,6 @@
       "gloss": "Јашар"
     }
   ],
-  "timestamp": "2026-10-19T22:13:34.965406910Z",
+  "timestamp": "2026-10-20T03:32:27.377378281Z",
   "model": "glm-5.3"
 }

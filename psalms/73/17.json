@@ -5,31 +5,15 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 73,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מקדשי אל",
-      "rationale": "множина „светилишта“ со свештеничка множина, задржана буквално"
-    }
-  ],
-  "translation": "Сè додека не влезев во светилиштата на Ел — тогаш сфатив ⟨за⟩ нивниот крај.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "d31432a85700b1e047adc134f4595a8af7363556d66597757182c6ded057e1f7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/73\/17-20.1792453534184.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Сè додека не влезев во светилиштата на Ел — тогаш ја разбрав ⟨нивната⟩ последна судбина.",
   "tokens": [
     {
       "surface": "עד",
-      "gloss": "додека"
+      "gloss": "сè додека"
     },
     {
       "surface": "אבוא",
-      "gloss": "влезев"
+      "gloss": "не влезев"
     },
     {
       "surface": "אל",
@@ -41,17 +25,17 @@
     },
     {
       "surface": "אל",
-      "gloss": "Ел"
+      "gloss": "на Ел"
     },
     {
       "surface": "אבינה",
-      "gloss": "сфатив"
+      "gloss": "ја разбрав"
     },
     {
       "surface": "לאחריתם",
-      "gloss": "нивниот крај"
+      "gloss": "нивната последна судбина"
     }
   ],
-  "timestamp": "2026-10-19T23:45:34.184981659Z",
+  "timestamp": "2026-10-20T04:32:23.132132758Z",
   "model": "glm-5.3"
 }

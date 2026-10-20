@@ -5,28 +5,7 @@
   "book": "song-of-songs",
   "lang": "mk",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "моја",
-      "rationale": "придавката при обраќањето е додадена; хебрејскиот вели само אהבה"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נעמת \/ נעימות",
-      "rationale": "коренот נעם (пријатност) одекнува со името Ноеми — убавото не се пренесува"
-    }
-  ],
-  "translation": "Колку си убава и колку си пријатна, љубов моя, во насладите!",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "a181a055b19fd07dfd587e8d08275d42b2f1ad3a7756503aa6fd1450fcc04779",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/song-of-songs\/7\/5-8.1792455450634.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Колку си убава и колку си пријатна, љубов меѓу насладите!",
   "tokens": [
     {
       "surface": "מה",
@@ -50,9 +29,9 @@
     },
     {
       "surface": "בתענוגים",
-      "gloss": "во насладите"
+      "gloss": "меѓу насладите"
     }
   ],
-  "timestamp": "2026-10-20T00:17:30.636066019Z",
+  "timestamp": "2026-10-20T04:33:17.397425981Z",
   "model": "glm-5.3"
 }

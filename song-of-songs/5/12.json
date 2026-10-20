@@ -5,37 +5,11 @@
   "book": "song-of-songs",
   "lang": "mk",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨се⟩",
-      "rationale": "хебрејскиот нема копула"
-    },
-    {
-      "kind": "crux",
-      "subject": "מלאת",
-      "rationale": "'полнота\/исполнета дупка (очна шуплина)' — букв. 'седнати во полнот' наспроти 'добро поставени' (KJV) или 'како накит' (BSB)"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "רחצות ... ישבות",
-      "rationale": "женски причестени participles во пар — 'измиени ... седнати', ритмички паралелизам изгубен во превод"
-    }
-  ],
-  "translation": "Очите му ⟨се⟩ како гулабици над потоците на води, измиени во млеко, седнати во полнот.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "683dc488b1be97ca2072cb6d26549d713d2e61ac8ac4bfa757045f65556c416f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/song-of-songs\/5\/9-12.1792455437469.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Неговите очи се како гулабици крај потоците на водата, измиени во млеко, седат во полнота.",
   "tokens": [
     {
       "surface": "עיניו",
-      "gloss": "очите му"
+      "gloss": "неговите очи"
     },
     {
       "surface": "כיונים",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "על",
-      "gloss": "над"
+      "gloss": "крај"
     },
     {
       "surface": "אפיקי",
       "gloss": "потоците"
     },
     {
-      "surface": "мים",
-      "gloss": "на води"
+      "surface": "מים",
+      "gloss": "на водата"
     },
     {
       "surface": "רחצות",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "ישבות",
-      "gloss": "седнати"
+      "gloss": "седат"
     },
     {
       "surface": "על",
@@ -71,9 +45,9 @@
     },
     {
       "surface": "מלאת",
-      "gloss": "полнот"
+      "gloss": "полнота"
     }
   ],
-  "timestamp": "2026-10-20T00:17:17.471057477Z",
+  "timestamp": "2026-10-20T04:33:19.201284437Z",
   "model": "glm-5.3"
 }

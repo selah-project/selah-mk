@@ -5,23 +5,7 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 106,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨את⟩",
-      "rationale": "מעשיו носи суфикс без одделен את; одбележано согласно правилото за обележје на предметот"
-    }
-  ],
-  "translation": "Побрзаа, заборавија ⟨את⟩ делата негови, не чекаа на советот негов.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "6057f115937366e718ba43b3c279106224f51f088d9364b8175cbc3144ec018d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/106\/13-16.1792453874345.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Побрзаа, ги заборавија ⟨את⟩ делата негови, не чекаа на советот негов.",
   "tokens": [
     {
       "surface": "מהרו",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "מעשיו",
-      "gloss": "⟨את⟩ делата негови"
+      "gloss": "делата негови"
     },
     {
       "surface": "לא",
@@ -48,6 +32,6 @@
       "gloss": "на советот негов"
     }
   ],
-  "timestamp": "2026-10-19T23:51:14.346168570Z",
+  "timestamp": "2026-10-20T04:28:45.281604409Z",
   "model": "glm-5.3"
 }

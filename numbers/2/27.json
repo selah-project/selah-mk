@@ -5,36 +5,15 @@
   "book": "numbers",
   "lang": "mk",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨е⟩",
-      "rationale": "Хебрејскиот го нема глаголот ‘да е’"
-    },
-    {
-      "kind": "substitution",
-      "subject": "покрај него",
-      "rationale": "עליו буквално ‘врз\/над него’ — за логорување значи ‘до него’"
-    }
-  ],
-  "translation": "И што логорува покрај него — племето Ашер; и князот на синовите на Ашер ⟨е⟩ Пагиел, син на Охран.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "a26588904bf7f11957b1aa1b613ef6586b68311a94ea9d85df61f08b703f5844",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/2\/25-28.1792444590721.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И оние што логоруваат до него ⟨се⟩ племето Ашер, а старешина на синовите Ашерови ⟨е⟩ Пагиел, синот на Окран.",
   "tokens": [
     {
       "surface": "והחנים",
-      "gloss": "И што логорува"
+      "gloss": "И оние што логоруваат"
     },
     {
       "surface": "עליו",
-      "gloss": "покрај него"
+      "gloss": "до него"
     },
     {
       "surface": "מטה",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ונשיא",
-      "gloss": "и князот"
+      "gloss": "а старешина"
     },
     {
       "surface": "לבני",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "Ашер"
+      "gloss": "Ашерови"
     },
     {
       "surface": "פגעיאל",
@@ -62,13 +41,13 @@
     },
     {
       "surface": "בן",
-      "gloss": "син"
+      "gloss": "синот"
     },
     {
       "surface": "עכרן",
-      "gloss": "на Охран"
+      "gloss": "на Окран"
     }
   ],
-  "timestamp": "2026-10-19T21:16:30.723160166Z",
+  "timestamp": "2026-10-20T04:24:11.179075779Z",
   "model": "glm-5.3"
 }

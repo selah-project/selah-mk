@@ -5,31 +5,15 @@
   "book": "lamentations",
   "lang": "mk",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "פרק",
-      "rationale": "корен значи „да откине\/искрши јарем“ — тука „да отргне\/искупи“; LXX\/традиција често „искупи“ како во Јов 5:20"
-    }
-  ],
-  "translation": "Робови владееа над нас — нема кој да нè отргне од раката нивна.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "9e4897c6c587e63c6fc9ff098eb02feddcb2cb6503c7cd2489c8e2ddd86242a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/lamentations\/5\/5-8.1792455627403.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Робови владееја над нас; нема кој да н⟨е⟩ избави од раката нивна.",
   "tokens": [
     {
       "surface": "עבדים",
-      "gloss": "робови"
+      "gloss": "Робови"
     },
     {
       "surface": "משלו",
-      "gloss": "владееа"
+      "gloss": "владееја"
     },
     {
       "surface": "בנו",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "פרק",
-      "gloss": "отргне"
+      "gloss": "да избави"
     },
     {
       "surface": "אין",
@@ -48,6 +32,6 @@
       "gloss": "од раката нивна"
     }
   ],
-  "timestamp": "2026-10-20T00:20:27.404255330Z",
+  "timestamp": "2026-10-20T04:18:19.451122316Z",
   "model": "glm-5.3"
 }

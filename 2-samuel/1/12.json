@@ -5,40 +5,19 @@
   "book": "2-samuel",
   "lang": "mk",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "четворното על",
-      "rationale": "citečkiot refrain „za... i za... i za... i za...“ gi nizа iminja vo žal — ritamot e čuvan so povtoruvanje na istiot predlog."
-    },
-    {
-      "kind": "substitution",
-      "subject": "жалеа",
-      "rationale": "ויספדו bukvalno:可再生能源 kidnuvaa kosata i udraa vo gradi — orientalski obred na žalost, vo mk so општ збор „жалеа“."
-    }
-  ],
-  "translation": "и жалеа, и плачеа, и постеа до вечерта — за Шаул и за Јонатан, синот негов, и за народот на Јахве, и за домот на Јисраел, зашто паднаа од меч.",
-  "provenance": {
-    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
-    "user-sha256": "5619cd07f1b0d571aa6e268bbb265290d7488c073bb5ca52860133e7f48b4dca",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/1\/9-12.1792448007621.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И жалеа, и плачеа, и постеа до вечерта за Шаул и за Јехонатан, синот му, и за народот на Јахве, и за домот на Јисраел, зашто паднаа од мечот.",
   "tokens": [
     {
-      "surface": "ויספдו",
-      "gloss": "и жалеа"
+      "surface": "ויספדו",
+      "gloss": "жалеа"
     },
     {
       "surface": "ויבכו",
-      "gloss": "и плачеа"
+      "gloss": "плачеа"
     },
     {
-      "surface": "ויצומו",
-      "gloss": "и постеа"
+      "surface": "ויצמו",
+      "gloss": "постеа"
     },
     {
       "surface": "עד",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "יהונתן",
-      "gloss": "Јонатан"
+      "gloss": "Јехонатан"
     },
     {
       "surface": "בנו",
-      "gloss": "синот негов"
+      "gloss": "синот му"
     },
     {
       "surface": "ועל",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "на Јахве"
+      "gloss": "Јахве"
     },
     {
       "surface": "ועל",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "на Јисраел"
+      "gloss": "Јисраел"
     },
     {
       "surface": "כי",
@@ -102,9 +81,9 @@
     },
     {
       "surface": "בחרב",
-      "gloss": "од меч"
+      "gloss": "од мечот"
     }
   ],
-  "timestamp": "2026-10-19T22:13:27.624866434Z",
+  "timestamp": "2026-10-20T03:32:25.413321859Z",
   "model": "glm-5.3"
 }

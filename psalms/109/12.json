@@ -5,39 +5,23 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 109,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "хесед",
-      "rationale": "חסד се чува како хесед — верноста-добрина што еден македонски збор не ја покрива"
-    }
-  ],
-  "translation": "Да нема кој да проявува хесед кон него, и да нема кој да милува сираците негови.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "2291f4c1bd47c6d462e720781b2d1a314f3d533a96dcc1668c2751505c8fa367",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/109\/9-12.1792453940730.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Не му биде кој ќе протегне хесед, ниту да биде кој ќе биде милостив кон сираците негови.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "да нема"
+      "gloss": "не"
     },
     {
       "surface": "יהי",
-      "gloss": "да има"
+      "gloss": "да биде"
     },
     {
       "surface": "לו",
-      "gloss": "кон него"
+      "gloss": "нему"
     },
     {
       "surface": "משך",
-      "gloss": "да проявува"
+      "gloss": "кој протегнува"
     },
     {
       "surface": "חסד",
@@ -45,21 +29,21 @@
     },
     {
       "surface": "ואל",
-      "gloss": "и да нема"
+      "gloss": "ниту"
     },
     {
       "surface": "יהי",
-      "gloss": "да има"
+      "gloss": "да биде"
     },
     {
       "surface": "חונן",
-      "gloss": "да милува"
+      "gloss": "милостив"
     },
     {
       "surface": "ליתומיו",
-      "gloss": "сираците негови"
+      "gloss": "кон сираците негови"
     }
   ],
-  "timestamp": "2026-10-19T23:52:20.730952206Z",
+  "timestamp": "2026-10-20T04:28:42.044869769Z",
   "model": "glm-5.3"
 }

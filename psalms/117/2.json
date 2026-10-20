@@ -5,36 +5,15 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 117,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "хесед",
-      "rationale": "хесед не е само милост — верност во заветна lojalност; оставено како хесед"
-    },
-    {
-      "kind": "addition",
-      "subject": "трае",
-      "rationale": "хебрејскиот е без глагол — ⟨трае⟩ е додадено за да се доврши мислата"
-    }
-  ],
-  "translation": "Зашто неговиот хесед над нас се покажа силeн, и верноста на Јахве <трае> до вечност; фалете Јах!",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "47d4805870e6a00f81db254929adb0d5d2f04abccace4400a4033b5496848f39",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/117\/1-2.1792453910400.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Зашто неговиот хесед превладеа над нас, и вистината на Јахве ⟨траи⟩ довека. Фалете Го Јах!",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Зашто"
+      "gloss": "зашто"
     },
     {
       "surface": "גבר",
-      "gloss": "се покажа силeн"
+      "gloss": "превладеа"
     },
     {
       "surface": "עלינו",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "ואמת",
-      "gloss": "и верноста"
+      "gloss": "и вистината"
     },
     {
       "surface": "יהוה",
-      "gloss": "Јахве"
+      "gloss": "на Јахве"
     },
     {
       "surface": "לעולם",
-      "gloss": "до вечност"
+      "gloss": "довека"
     },
     {
       "surface": "הללו",
@@ -65,6 +44,6 @@
       "gloss": "Јах"
     }
   ],
-  "timestamp": "2026-10-19T23:51:50.403904072Z",
+  "timestamp": "2026-10-20T04:29:28.699453534Z",
   "model": "glm-5.3"
 }

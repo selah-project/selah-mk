@@ -5,23 +5,7 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 119,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "пропаднал",
-      "rationale": "אבד е буквално „залутам се, загубам се“; „пропаднам“ е вообичаената нијанса"
-    }
-  ],
-  "translation": "Да не беше Тората твоя, насладата моја, тогаш би пропаднал во бедата своја.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "98a14759d8aca89bd024f0b466bc6ff453bc4b3f2100e74ee4425717a4540894",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/89-92.1792453988882.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Да не беше Тората твоја — задоволство мое, тогаш ќе пропаднев во неволјата своја.",
   "tokens": [
     {
       "surface": "לולי",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "שעשעי",
-      "gloss": "насладата моја"
+      "gloss": "задоволство мое"
     },
     {
       "surface": "אז",
@@ -41,13 +25,13 @@
     },
     {
       "surface": "אבדתי",
-      "gloss": "би пропаднал"
+      "gloss": "ќе пропаднев"
     },
     {
       "surface": "בעניי",
-      "gloss": "во бедата своја"
+      "gloss": "во неволјата своја"
     }
   ],
-  "timestamp": "2026-10-19T23:53:08.883568881Z",
+  "timestamp": "2026-10-20T04:29:22.002772811Z",
   "model": "glm-5.3"
 }

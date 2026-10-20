@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "mk",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "זמזמים",
-      "rationale": "Замзумим — име што се јавува само тука во Танах."
-    },
-    {
-      "kind": "measurement",
-      "subject": "народност и име",
-      "rationale": "стихот е етнографска белешка — кој живеел пред кого и како го викал."
-    }
-  ],
-  "translation": "Земја на рефáим се смета и таа; рефáим живееја во неа порано, а Амонците ги викаа замзумим.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "ec778812dd1f6f01b17555aa1361d39238f390a1e25663d5041e95a871bae6fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/2\/17-20.1792445282028.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Земја на рефaimите ⟨се⟩ смета и таа; рафаимите живееја во неа порано, а Амонците им велат замзумимци.",
   "tokens": [
     {
       "surface": "ארץ",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "רפאים",
-      "gloss": "на рефáим"
+      "gloss": "на рафаимите"
     },
     {
       "surface": "תחשב",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "רפאים",
-      "gloss": "рефáим"
+      "gloss": "рафаимите"
     },
     {
       "surface": "ישבו",
@@ -70,17 +49,17 @@
     },
     {
       "surface": "יקראו",
-      "gloss": "ги викаа"
+      "gloss": "им велат"
     },
     {
       "surface": "להם",
-      "gloss": "них"
+      "gloss": "ним"
     },
     {
       "surface": "זמזמים",
-      "gloss": "замзумим"
+      "gloss": "замзумимци"
     }
   ],
-  "timestamp": "2026-10-19T21:28:02.030089195Z",
+  "timestamp": "2026-10-20T03:39:18.666925493Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 119,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לעולם",
-      "rationale": "Хебрејскиот „לанапред скриен\/изчезнат“ значи временско 'за секогаш'; дадено како 'до веков'."
-    }
-  ],
-  "translation": "До веков няма да заборавам твоите наредби, зашто со нив ме оживи.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "134277dd293f18750098f9e80223d4b030993d4db6efc606d416f1c1af5ecc17",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/119\/93-96.1792453990317.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Засекогаш нема да ги заборавам Твоите поправки, зашто со нив Ти ме оживи.",
   "tokens": [
     {
       "surface": "לעולם",
-      "gloss": "до веков"
+      "gloss": "засекогаш"
     },
     {
       "surface": "לא",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "פקודיך",
-      "gloss": "твоите наредби"
+      "gloss": "Твоите поправки"
     },
     {
       "surface": "כי",
@@ -52,6 +36,6 @@
       "gloss": "ме оживи"
     }
   ],
-  "timestamp": "2026-10-19T23:53:10.317765985Z",
+  "timestamp": "2026-10-20T04:29:14.936968577Z",
   "model": "glm-5.3"
 }

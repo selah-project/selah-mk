@@ -5,23 +5,7 @@
   "book": "2-chronicles",
   "lang": "mk",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "легна со татковците свои",
-      "rationale": "хебрејски евфемизам за смрт на царот, задржан буквално"
-    }
-  ],
-  "translation": "Тој го изгради ⟨את⟩ Еilot и му го врати на Јехуда, откако царот легна со татковците свои.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "7d9a2d034a03135cab36b77fa342f1a2f32669433a2edb137ef85edcdcc7d896",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/26\/1-4.1792457778765.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Тој ја изгради ⟨את⟩ Еилот и ја врати на Јехуда, откако царот легна со татковците свои.",
   "tokens": [
     {
       "surface": "הוא",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "בנה",
-      "gloss": "го изгради"
+      "gloss": "ја изгради"
     },
     {
       "surface": "את",
@@ -42,7 +26,7 @@
     },
     {
       "surface": "וישיבה",
-      "gloss": "му го врати"
+      "gloss": "и ја врати"
     },
     {
       "surface": "ליהודה",
@@ -69,6 +53,6 @@
       "gloss": "татковците свои"
     }
   ],
-  "timestamp": "2026-10-20T00:56:18.765753843Z",
+  "timestamp": "2026-10-20T03:23:15.978983474Z",
   "model": "glm-5.3"
 }

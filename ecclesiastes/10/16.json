@@ -5,41 +5,15 @@
   "book": "ecclesiastes",
   "lang": "mk",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨е⟩",
-      "rationale": "предикативна копула што хебрејскиот ја испушта"
-    },
-    {
-      "kind": "you",
-      "subject": "до земјата",
-      "rationale": "директна кратка condolenza — „тешко тебе, земјо“"
-    },
-    {
-      "kind": "idiom",
-      "subject": "אי לך",
-      "rationale": "хебрејска complains формула, букв. „о, тебе“, преведена како македонска восклицција „тешко тебе“"
-    }
-  ],
-  "translation": "Тешко тебе, земјо, кога царот ти е момче, и старешините твои наутро јадат!",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "a7bef985286695657c9a47bf990373100c1b6cd74c5cd2aa10812e10914e0dea",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/10\/13-16.1792455750623.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Тешко тебе, земјо, кога царот ти ⟨е⟩ момче и старешините твои утрове јадат!",
   "tokens": [
     {
       "surface": "אי",
-      "gloss": "Тешко"
+      "gloss": "тешко"
     },
     {
       "surface": "לך",
-      "gloss": "ти"
+      "gloss": "тебе"
     },
     {
       "surface": "ארץ",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "שמלכך",
-      "gloss": "кога царот ти"
+      "gloss": "царот ти"
     },
     {
       "surface": "נער",
@@ -59,13 +33,13 @@
     },
     {
       "surface": "בבקר",
-      "gloss": "наутро"
+      "gloss": "утрове"
     },
     {
-      "surface": "יאכלу",
+      "surface": "יאכלו",
       "gloss": "јадат"
     }
   ],
-  "timestamp": "2026-10-20T00:22:30.624918536Z",
+  "timestamp": "2026-10-20T03:42:45.730575949Z",
   "model": "glm-5.3"
 }

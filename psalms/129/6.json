@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 129,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "биде",
-      "rationale": "помошниот глагол додаден на македонски"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יבש \/ יבוש",
-      "rationale": "истиот корен значи и 'да се суси' и 'да засрами' — сликата од ст. 5 продолжува во 6"
-    }
-  ],
-  "translation": "Нека бидат како тревата на покривите, што прежде да ⟨биде⟩ извадена, се́ суши.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "1c343390f858f8d7f7a50f537fd05a66a39f0fb326c675510ec2e78f0b160f5e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/129\/5-8.1792454096464.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Нека бидат како тревата по покривите, што пред ⟨да⟩ ⟨ја⟩ извлече, се суши:",
   "tokens": [
     {
       "surface": "יהיו",
-      "gloss": "нека бидат"
+      "gloss": "Нека бидат"
     },
     {
       "surface": "כחציר",
@@ -38,21 +17,21 @@
     },
     {
       "surface": "גגות",
-      "gloss": "на покривите"
+      "gloss": "по покривите"
     },
     {
       "surface": "שקדמת",
-      "gloss": "преждe да"
+      "gloss": "пред"
     },
     {
       "surface": "שלף",
-      "gloss": "биде извадена"
+      "gloss": "извлече"
     },
     {
       "surface": "יבש",
-      "gloss": "се́ суши"
+      "gloss": "се сушит"
     }
   ],
-  "timestamp": "2026-10-19T23:54:56.465284488Z",
+  "timestamp": "2026-10-20T04:29:49.719556118Z",
   "model": "glm-5.3"
 }

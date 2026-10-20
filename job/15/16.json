@@ -5,44 +5,23 @@
   "book": "job",
   "lang": "mk",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "אף כי како еден израз 'уште повеќе' — כי не се преведува посебно"
-    },
-    {
-      "kind": "idiom",
-      "subject": "пие беззаконија како вода",
-      "rationale": "хебрејската слика е буквална и се чува: човекот голта зло како што пие вода, секојдневно и без мислење"
-    }
-  ],
-  "translation": "Уште повеќе — гнасен и расипан е човекот, што пие беззаконија како вода!",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "c2da73cad3c57822a0f90ff034b844ea79b8cf9157f895dc6200e0541f372d0c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/15\/13-16.1792454965620.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Колку повеќе ⟨се⟩ гнаси и загаден човекот што пие беззаконието како вода!",
   "tokens": [
     {
       "surface": "אף",
-      "gloss": "Уште повеќе"
+      "gloss": "колку повеќе"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": " surely"
     },
     {
       "surface": "נתעב",
-      "gloss": "гнасен"
+      "gloss": "гнаси"
     },
     {
       "surface": "ונאלח",
-      "gloss": "и расипан"
+      "gloss": "загаден"
     },
     {
       "surface": "איש",
@@ -58,9 +37,9 @@
     },
     {
       "surface": "עולה",
-      "gloss": "беззаконија"
+      "gloss": "беззаконието"
     }
   ],
-  "timestamp": "2026-10-20T00:09:25.622376103Z",
+  "timestamp": "2026-10-20T04:10:58.495583035Z",
   "model": "glm-5.3"
 }

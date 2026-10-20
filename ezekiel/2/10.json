@@ -5,37 +5,16 @@
   "book": "ezekiel",
   "lang": "mk",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "плачови, уздах и 'ој",
-      "rationale": "קינים והגה והי — тажаленки, mrboreње\/прoмрмувување и 'ој; трите зборови се вресци на жалост"
-    },
-    {
-      "kind": "hapax",
-      "subject": "והי",
-      "rationale": "הֵי (од корен היה\/הווה) како меѓументка на жалост — повик 'ој'"
-    }
-  ],
-  "translation": "И ја разгори ⟨את⟩ пред мене, и ⟨е⟩ напишана напред и назад, и напишано на неа: плачови, уздах и 'ој.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "cc10daeca51f883c05a4f8cc4af48ece0f0d91eadc10effd19d7ef1dcc52dc39",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/2\/9-10.1792451305520.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И ја разлиста ⟨את⟩ пред мене, и таа беше напишана однапред и одзада, и напишано беше на неа: плачеви и стенење и охил.",
   "tokens": [
     {
-      "surface": "в.byIdיפרש",
-      "gloss": "И ја разгори"
+      "surface": "ויפרש",
+      "gloss": "разлиста"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩",
-      "marks": "неа (свитокот)"
+      "gloss": "⟨את⟩ ја",
+      "marks": "свитокот"
     },
     {
       "surface": "לפני",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "פנים",
-      "gloss": "напред"
+      "gloss": "однапред"
     },
     {
       "surface": "ואחור",
-      "gloss": "и назад"
+      "gloss": "и одзада"
     },
     {
       "surface": "וכתוב",
@@ -67,17 +46,17 @@
     },
     {
       "surface": "קנים",
-      "gloss": "плачови"
+      "gloss": "плачеви"
     },
     {
       "surface": "והגה",
-      "gloss": "уздах"
+      "gloss": "и стенење"
     },
     {
       "surface": "והי",
-      "gloss": "'ој"
+      "gloss": "и охил"
     }
   ],
-  "timestamp": "2026-10-19T23:08:25.521819588Z",
+  "timestamp": "2026-10-20T03:49:28.617152536Z",
   "model": "glm-5.3"
 }

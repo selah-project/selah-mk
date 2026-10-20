@@ -5,31 +5,15 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 72,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "יעבדוהו",
-      "rationale": "עבד значи „работи\/служи” — тука „служба” кон царот, не „робување” во негативна смисла."
-    }
-  ],
   "translation": "И ќе му се поклонат сите цареви; сите народи ќе му служат.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "63f0d56d1d04716c83a1a61f91f75b1d1f3ec7aedc1192ba97e512b5c85cdda1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/72\/9-12.1792453521293.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
   "tokens": [
     {
       "surface": "וישתחוו",
-      "gloss": "и ќе му се поклонат"
+      "gloss": "ќе се поклонат"
     },
     {
       "surface": "לו",
-      "gloss": "нему"
+      "gloss": "му"
     },
     {
       "surface": "כל",
@@ -48,10 +32,10 @@
       "gloss": "народи"
     },
     {
-      "surface": "יעבדוהу",
+      "surface": "יעבדוהו",
       "gloss": "ќе му служат"
     }
   ],
-  "timestamp": "2026-10-19T23:45:21.294172577Z",
+  "timestamp": "2026-10-20T04:32:06.627182916Z",
   "model": "glm-5.3"
 }

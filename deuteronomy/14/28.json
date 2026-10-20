@@ -5,27 +5,11 @@
   "book": "deuteronomy",
   "lang": "mk",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "три години",
-      "rationale": "сметање на циклусот на десетокот"
-    }
-  ],
-  "translation": "На крајот од три години ќе го изнесеш ⟨את⟩ целиот десяток од приносот твој во таа година, и ќе го оставиш во портите твои.",
-  "provenance": {
-    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
-    "user-sha256": "0ac361f683dffbec73775b20dc5311311e5e47d79aefa64ec91087f35f13fc5e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/14\/26-28.1792447796490.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "На крајот од три години ќе го изнесеш ⟨את⟩ целиот десеток од твојот род во таа година, и ќе го положиш во твоите порти.",
   "tokens": [
     {
       "surface": "מקצה",
-      "gloss": "на крајот од"
+      "gloss": "на крајот"
     },
     {
       "surface": "שלש",
@@ -37,12 +21,12 @@
     },
     {
       "surface": "תוציא",
-      "gloss": "ќе го изнесеш"
+      "gloss": "ќе изнесеш"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "целиот десяток"
+      "marks": "целиот десеток"
     },
     {
       "surface": "כל",
@@ -54,7 +38,7 @@
     },
     {
       "surface": "תבואתך",
-      "gloss": "приносот твој"
+      "gloss": "од твојот род"
     },
     {
       "surface": "בשנה",
@@ -66,13 +50,13 @@
     },
     {
       "surface": "והנחת",
-      "gloss": "и ќе го оставиш"
+      "gloss": "и ќе положиш"
     },
     {
       "surface": "בשעריך",
-      "gloss": "во портите твои"
+      "gloss": "во твоите порти"
     }
   ],
-  "timestamp": "2026-10-19T22:09:56.492025598Z",
+  "timestamp": "2026-10-20T04:57:49.436256091Z",
   "model": "glm-5.3"
 }

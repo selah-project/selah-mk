@@ -5,48 +5,27 @@
   "book": "job",
   "lang": "mk",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨е⟩",
-      "rationale": "хебрејскиот нема глагол 'да е' во втората половина на стихот"
-    },
-    {
-      "kind": "crux",
-      "subject": "ביד אל",
-      "rationale": "'во раката на Ел' — сила\/дело на Ел; преведувачите се делат меѓу 'рабата' буквално и 'силата' преносно"
-    }
-  ],
-  "translation": "Ќе ве поучам ⟨את⟩ во раката на Ел; она што ⟨е⟩ кај Шадај нема да го скриjам.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "674c6db14c7ce9f8951ccd277c2f694bb54a8948ae3ce99b9e668777f6b616d0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/27\/9-12.1792455172656.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ќе ве поучам ⟨את⟩ во раката на Ел; она што ⟨е⟩ кај Шадај, нема да го сокријам.",
   "tokens": [
     {
       "surface": "אורה",
-      "gloss": "ќе поучам"
+      "gloss": "Ќе ве поучам"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "вас"
+      "marks": "вие (директен предмет — ве)"
     },
     {
       "surface": "ביד",
-      "gloss": "во раката на"
+      "gloss": "во раката"
     },
     {
       "surface": "אל",
       "gloss": "Ел"
     },
     {
-      "surface": "אличר",
+      "surface": "אשר",
       "gloss": "она што"
     },
     {
@@ -59,13 +38,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "нема да"
+      "gloss": "нема"
     },
     {
       "surface": "אכחד",
-      "gloss": "скриjам"
+      "gloss": "да го сокријам"
     }
   ],
-  "timestamp": "2026-10-20T00:12:52.657391028Z",
+  "timestamp": "2026-10-20T04:11:36.380954390Z",
   "model": "glm-5.3"
 }

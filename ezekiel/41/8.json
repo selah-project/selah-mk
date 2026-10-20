@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "mk",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "אצילה",
-      "rationale": "Јавува само тука во Танах; значи „зглоб\/спој“ — KJV „great cubits“, JPS „to the joining“."
-    },
-    {
-      "kind": "crux",
-      "subject": "гобах савив савив",
-      "rationale": "KJV „височина“, ASV\/JPS „издигнат постамент“ — дали Езекиел гледа висина или платформа."
-    },
-    {
-      "kind": "measurement",
-      "subject": "темели",
-      "rationale": "Мерење: полн трскомер, шест лакти."
-    }
-  ],
-  "translation": "И видов ⟨на⟩ домот височина наоколку наоколу; темелите на страничните простории — полн трскомер шест лакти ⟨до⟩ спојот.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "b6856c6d0ff63df7b77f8a017819fe7cf5a86da3daf9c25783b44dc336b1095f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/41\/5-8.1792452089872.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И видов ⟨е⟩ височина на домот наоколу, наоколу — темелите на страниците: полн трскен-мерен-шест лакти до спојот.",
   "tokens": [
     {
       "surface": "וראיתי",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "גבה",
-      "gloss": "височина"
+      "gloss": "⟨е⟩ височина"
     },
     {
       "surface": "סביב",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "הצלעות",
-      "gloss": "на страничните простории"
+      "gloss": "на страниците"
     },
     {
       "surface": "מלו",
@@ -67,10 +41,10 @@
     },
     {
       "surface": "הקנה",
-      "gloss": "трскомерот"
+      "gloss": "трскен-мерен"
     },
     {
-      "surface": "шеш",
+      "surface": "שש",
       "gloss": "шест"
     },
     {
@@ -79,9 +53,9 @@
     },
     {
       "surface": "אצילה",
-      "gloss": "спојот"
+      "gloss": "до спојот"
     }
   ],
-  "timestamp": "2026-10-19T23:21:29.873886475Z",
+  "timestamp": "2026-10-20T03:52:56.012646160Z",
   "model": "glm-5.3"
 }

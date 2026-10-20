@@ -5,23 +5,7 @@
   "book": "1-chronicles",
   "lang": "mk",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "јунак",
-      "rationale": "גבור е „силен\/моќен воин“ — моќ, не само храброст."
-    }
-  ],
-  "translation": "И Куш роди ⟨את⟩ Nimрод — тој почна да биде јунак на земјата.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "9b5888fbf65f9e717aa460ff9a70779cb08c90f5c0943681bd3f83818a42d0fd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/1\/9-12.1792456764337.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И Куш го роди ⟨את⟩ Нимрод; тој почна да биде силник на земјата.",
   "tokens": [
     {
       "surface": "וכוש",
@@ -54,13 +38,13 @@
     },
     {
       "surface": "גבור",
-      "gloss": "јунак"
+      "gloss": "силник"
     },
     {
       "surface": "בארץ",
       "gloss": "на земјата"
     }
   ],
-  "timestamp": "2026-10-20T00:39:24.338659551Z",
+  "timestamp": "2026-10-20T03:12:27.217627088Z",
   "model": "glm-5.3"
 }

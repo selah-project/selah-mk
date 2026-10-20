@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "младенец на диви бикови",
-      "rationale": "буквално 'син на реемите'; בן е 'син', задржано сликата младо животно"
-    },
-    {
-      "kind": "crux",
-      "subject": "ראמים",
-      "rationale": "KJV 'unicorn' против 'wild ox'\/див бик; див бик е точното"
-    }
-  ],
-  "translation": "И ⟨ги⟩ застава да играат како телце — Ливан и Сирион како младенец на диви бикови.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "007ebbf8d910a3c8e7e7d2e2d2e22dba0019bd0f8e94a2bfbc19dc384540295b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/29\/5-8.1792453135801.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И ги застави да играат како тележе — Ливан и Сирион како младенец на диви бикови.",
   "tokens": [
     {
       "surface": "וירקידם",
-      "gloss": "и forcing за игра"
+      "gloss": "ги застави да играат"
     },
     {
       "surface": "כמו",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "עגל",
-      "gloss": "телце"
+      "gloss": "тележе"
     },
     {
       "surface": "לבנון",
@@ -54,13 +33,13 @@
     },
     {
       "surface": "בן",
-      "gloss": "младенец"
+      "gloss": "младенец на"
     },
     {
       "surface": "ראמים",
       "gloss": "диви бикови"
     }
   ],
-  "timestamp": "2026-10-19T23:38:55.802659530Z",
+  "timestamp": "2026-10-20T04:30:36.166131171Z",
   "model": "glm-5.3"
 }

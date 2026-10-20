@@ -5,23 +5,7 @@
   "book": "jonah",
   "lang": "mk",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "гнев",
-      "rationale": "מזעפו — букв. 'од својот гнев\/бура'; морето е прикажано како личност што лути"
-    }
-  ],
-  "translation": "И го кренаа ⟨את⟩ Јона и го фрлија во морето, и морето застана од својот гнев.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "9492ce5014b75551d8ba5a09df62ad0eb39a2c29923bf67e427d66463064cb4b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jonah\/1\/13-16.1792452463660.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И го кренаа ⟨את⟩ Јона и го фрлија во морето, и морето стивна од својот гнев.",
   "tokens": [
     {
       "surface": "וישאו",
@@ -49,8 +33,8 @@
       "gloss": "морето"
     },
     {
-      "surface": "ויעמд",
-      "gloss": "застана"
+      "surface": "ויעמד",
+      "gloss": "стивна"
     },
     {
       "surface": "הים",
@@ -61,6 +45,6 @@
       "gloss": "од својот гнев"
     }
   ],
-  "timestamp": "2026-10-19T23:27:43.661301688Z",
+  "timestamp": "2026-10-20T04:13:11.172692367Z",
   "model": "glm-5.3"
 }

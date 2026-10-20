@@ -5,20 +5,11 @@
   "book": "exodus",
   "lang": "mk",
   "chapter": 14,
-  "translation": "И тргна пратеникот на Елохим, кој одеше пред логорот на Јисраел, и отиде зад нив; и тргна столбот на облакот од пред нив и застана зад нив.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "592d321cfd4bddade1a375dcd8e68fd06133a77d608c48dcc62d0bfad7dd2547",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/14\/17-20.1792443556598.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И тргна ⟨се⟩ пратеникот на Елохим што одеше пред логорот на Јисраел, и отиде зад нив; и се тргна столбот на облакот од пред нив, и застана зад нив.",
   "tokens": [
     {
       "surface": "ויסע",
-      "gloss": "и тргна"
+      "gloss": "И тргна"
     },
     {
       "surface": "מלאך",
@@ -30,7 +21,7 @@
     },
     {
       "surface": "ההלך",
-      "gloss": "кој одеше"
+      "gloss": "што одеше"
     },
     {
       "surface": "לפני",
@@ -54,7 +45,7 @@
     },
     {
       "surface": "ויסע",
-      "gloss": "и тргна"
+      "gloss": "и се тргна"
     },
     {
       "surface": "עמוד",
@@ -65,18 +56,18 @@
       "gloss": "на облакот"
     },
     {
-      "surface": "мф",
-      "gloss": ""
+      "surface": "מפניהם",
+      "gloss": "од пред нив"
     },
     {
-      "surface": "ולא",
-      "gloss": ""
+      "surface": "ויעמד",
+      "gloss": "и застана"
     },
     {
-      "surface": "קרב",
-      "gloss": ""
+      "surface": "מאחריהם",
+      "gloss": "зад нив"
     }
   ],
-  "timestamp": "2026-10-19T20:59:16.605558118Z",
+  "timestamp": "2026-10-20T03:44:58.093642148Z",
   "model": "glm-5.3"
 }

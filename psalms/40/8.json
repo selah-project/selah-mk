@@ -5,27 +5,11 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עלי",
-      "rationale": "'за мене' или 'мне задолжено\/пропишано мне' — JPS: 'пропишано за мене'"
-    }
-  ],
-  "translation": "Тогаш реков: Еве, доjдов — во свиток на книгата е напишано за мене.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "1b36c23f3912af408b64b2067bc2ca86a38f1bfbb4f73c1c716271d62b3e01b0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/40\/5-8.1792453291565.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Тогаш јас реков: Еве, дојдов — во свитокот на книгата е напишано за мене.",
   "tokens": [
     {
       "surface": "אז",
-      "gloss": "тогаш"
+      "gloss": "Тогаш"
     },
     {
       "surface": "אמרתי",
@@ -33,15 +17,15 @@
     },
     {
       "surface": "הנה",
-      "gloss": "ево"
+      "gloss": "Еве"
     },
     {
       "surface": "באתי",
-      "gloss": "доjдов"
+      "gloss": "дојдов"
     },
     {
       "surface": "במגלת",
-      "gloss": "во свиток"
+      "gloss": "во свитокот"
     },
     {
       "surface": "ספר",
@@ -49,13 +33,13 @@
     },
     {
       "surface": "כתוב",
-      "gloss": "напишано"
+      "gloss": "напишано ⟨е⟩"
     },
     {
       "surface": "עלי",
       "gloss": "за мене"
     }
   ],
-  "timestamp": "2026-10-19T23:41:31.566390220Z",
+  "timestamp": "2026-10-20T04:31:06.876483958Z",
   "model": "glm-5.3"
 }

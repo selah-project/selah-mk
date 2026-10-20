@@ -5,28 +5,7 @@
   "book": "job",
   "lang": "mk",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨тоа⟩",
-      "rationale": "објектот на носењето е неискажан во хебрејскиот"
-    },
-    {
-      "kind": "hapax",
-      "subject": "בול",
-      "rationale": "'род\/принос на земјата' — се јавува само тука во Танах"
-    }
-  ],
-  "translation": "Зашто планините му носат ⟨тоа⟩ род, и сите ѕверови на полето играат таму.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "1b88c51cb7a46e8d3432c38845377cd38870aedc920b0d3b0ca6cb1f88b46535",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/40\/17-20.1792455355816.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Зашто планините му носат род, и сите ѕверови ⟨се⟩ на полето играат таму.",
   "tokens": [
     {
       "surface": "כי",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "ישאו",
-      "gloss": "носят"
+      "gloss": "носат"
     },
     {
       "surface": "לו",
@@ -69,6 +48,6 @@
       "gloss": "таму"
     }
   ],
-  "timestamp": "2026-10-20T00:15:55.817196216Z",
+  "timestamp": "2026-10-20T04:12:25.255622667Z",
   "model": "glm-5.3"
 }

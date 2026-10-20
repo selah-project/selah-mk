@@ -5,41 +5,15 @@
   "book": "jonah",
   "lang": "mk",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "нефеш",
-      "rationale": "נפש е грло\/дих\/животна сила — задржано како «нефеш», не «душа»."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אפפוני\/יסבבני",
-      "rationale": "два глагола за «опколжување» во паралелизам — повторување на опколеноста."
-    },
-    {
-      "kind": "alternative",
-      "subject": "סוף",
-      "rationale": "папирусна трска; традиционално «морски треви» — тука буквата «трска»."
-    }
-  ],
-  "translation": "Водите ме опколија до нефеш, бездната ме окружи, трска се зави околу главата моја.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "8db7c2e82440410234718a588ea9ab66e213514c3311f2eafedae4ad8e5beceb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jonah\/2\/5-8.1792452425605.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Водите ме опколија до ⟨самата⟩ душа, бездната ме обиколи, трска се обви околу главата моја.",
   "tokens": [
     {
       "surface": "אפפוני",
       "gloss": "ме опколија"
     },
     {
-      "surface": "мים",
-      "gloss": "Водите"
+      "surface": "מים",
+      "gloss": "водите"
     },
     {
       "surface": "עד",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "נפש",
-      "gloss": "нефеш"
+      "gloss": "душата"
     },
     {
       "surface": "תהום",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "יסבבני",
-      "gloss": "ме окружи"
+      "gloss": "ме обиколи"
     },
     {
       "surface": "סוף",
@@ -63,13 +37,13 @@
     },
     {
       "surface": "חבוש",
-      "gloss": "се зави"
+      "gloss": "се обви"
     },
     {
       "surface": "לראשי",
       "gloss": "околу главата моја"
     }
   ],
-  "timestamp": "2026-10-19T23:27:05.606188390Z",
+  "timestamp": "2026-10-20T04:13:16.578671714Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "genesis",
   "lang": "mk",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "има",
-      "rationale": "'אשר לו' буквално 'што е на него'; македонскиот бара глагол 'има'"
-    }
-  ],
-  "translation": "И Сара, жената на господарот мој, роди син на господарот мој по нејзината старост; и му даде ⟨את⟩ сè што има.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "bd2d7f0eb189bf0756cf03c4b40165ecf269f055ccba20bff34e32ac3aa4a01f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/24\/33-36.1792442835368.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И Сара, жената на господарот мој, роди син на господарот мој по нејзината старост; и тој му даде ⟨את⟩ сето она што е негово.",
   "tokens": [
     {
       "surface": "ותלד",
-      "gloss": "роди"
+      "gloss": "и роди"
     },
     {
       "surface": "שרה",
@@ -33,11 +17,11 @@
     },
     {
       "surface": "אשת",
-      "gloss": "жената"
+      "gloss": "жената на"
     },
     {
       "surface": "אדני",
-      "gloss": "на господарот мој"
+      "gloss": "господарот мој"
     },
     {
       "surface": "בן",
@@ -57,7 +41,7 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "даде"
+      "gloss": "и даде"
     },
     {
       "surface": "לו",
@@ -66,21 +50,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "сè"
+      "marks": "сето она што е негово"
     },
     {
       "surface": "כל",
-      "gloss": "сè"
+      "gloss": "сето"
     },
     {
       "surface": "אשר",
-      "gloss": "што"
+      "gloss": "она што"
     },
     {
       "surface": "לו",
-      "gloss": "има"
+      "gloss": "е негово"
     }
   ],
-  "timestamp": "2026-10-19T20:47:15.370416599Z",
+  "timestamp": "2026-10-20T03:56:59.188753904Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "mk",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "шака",
-      "rationale": "כף буквално 'дланка\/шака' — мера за тежина, не лажица."
-    },
-    {
-      "kind": "addition",
-      "subject": "шекели",
-      "rationale": "Хебрејскиот не го вели зборот 'шекели' туку само 'десет' — мерата се подразбира."
-    },
-    {
-      "kind": "measurement",
-      "subject": "десет",
-      "rationale": "Тежината на златниот сад — десет (шекели)."
-    }
-  ],
-  "translation": "Една златна шака од десет < шекели >, полна со каденица.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "a8e41c39ce1bb6f63bef988cfa188776c5a8355bf78c3bf5bb1b4642820e88df",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/7\/37-40.1792444653278.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "една златна лажица од десет шекела, полна со тамјан",
   "tokens": [
     {
       "surface": "כף",
-      "gloss": "шака"
+      "gloss": "лажица"
     },
     {
       "surface": "אחת",
@@ -43,21 +17,21 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "десет"
+      "gloss": "десет (шекела)"
     },
     {
       "surface": "זהב",
       "gloss": "златна"
     },
     {
-      "surface": "мלאה",
+      "surface": "מלאה",
       "gloss": "полна"
     },
     {
       "surface": "קטרת",
-      "gloss": "со каденица"
+      "gloss": "со тамјан"
     }
   ],
-  "timestamp": "2026-10-19T21:17:33.279695274Z",
+  "timestamp": "2026-10-20T04:26:24.368460741Z",
   "model": "glm-5.3"
 }

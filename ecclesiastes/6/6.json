@@ -5,36 +5,15 @@
   "book": "ecclesiastes",
   "lang": "mk",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "илјада години двапати",
-      "rationale": "броење години — илјада, два пати"
-    },
-    {
-      "kind": "invitation",
-      "subject": "зарем не оди сè на едно место?",
-      "rationale": "реторичко прашање упатено кон читателот"
-    }
-  ],
-  "translation": "И да поживеел илјада години двапати, а добро не видел — зарем не оди сè на едно место?",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "e25dd4707c12d39be825e519c7342db0a22f56572462426e3cdb4b54ed67138c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ecclesiastes\/6\/5-8.1792455696834.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И ако поживееше илјада години двапати, па добро не видел — дали не оди сè ⟨на⟩ едно место?",
   "tokens": [
     {
       "surface": "ואלו",
-      "gloss": "и да"
+      "gloss": "и ако"
     },
     {
       "surface": "חיה",
-      "gloss": "поживеел"
+      "gloss": "поживееше"
     },
     {
       "surface": "אלף",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "וטובה",
-      "gloss": "а добро"
+      "gloss": "добро"
     },
     {
       "surface": "לא",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "הלא",
-      "gloss": "зарем"
+      "gloss": "дали не"
     },
     {
       "surface": "אל",
-      "gloss": "на"
+      "gloss": "⟨на⟩"
     },
     {
       "surface": "מקום",
@@ -85,6 +64,6 @@
       "gloss": "оди"
     }
   ],
-  "timestamp": "2026-10-20T00:21:36.834832506Z",
+  "timestamp": "2026-10-20T03:43:32.884211430Z",
   "model": "glm-5.3"
 }

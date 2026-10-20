@@ -5,28 +5,7 @@
   "book": "daniel",
   "lang": "mk",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Елохим",
-      "rationale": "אלהא е арамејски збор за Бог; пренесен како Елохим, а не како „Бог”, за да се чува Името"
-    },
-    {
-      "kind": "you",
-      "subject": "до Навуходоносор",
-      "rationale": "Данил му говори директно на царот"
-    }
-  ],
-  "translation": "Ти, о царю, си цар на царевите, зашто Елохим на небесата ти даде царство, сила, моќ и сллава.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "b048f3ce3e136ccdc75a7bf5a9f673b704c205c1c898a28b998571226e0955f5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/daniel\/2\/37-40.1792455954267.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ти, царе, си цар на царевите, зашто Елах на небесата ти даде царство, сила, моќ и слава.",
   "tokens": [
     {
       "surface": "אנתה",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "מלכא",
-      "gloss": "царю"
+      "gloss": "цару"
     },
     {
       "surface": "מלך",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "אלה",
-      "gloss": "Елохим"
+      "gloss": "Елах"
     },
     {
       "surface": "שמיא",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "сллава"
+      "gloss": "и слава"
     },
     {
       "surface": "יהב",
@@ -81,6 +60,6 @@
       "gloss": "ти"
     }
   ],
-  "timestamp": "2026-10-20T00:25:54.268200747Z",
+  "timestamp": "2026-10-20T04:56:08.650413090Z",
   "model": "glm-5.3"
 }

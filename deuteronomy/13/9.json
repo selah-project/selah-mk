@@ -5,90 +5,69 @@
   "book": "deuteronomy",
   "lang": "mk",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "до Израел",
-      "rationale": "Низ низата заповеди во второ лице, Torата се обра}а непосредно до слушателот."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "шесте не-а",
-      "rationale": "Шесткратното вградување на ло создава ритмична шесна збирка забрани, изгубена ако се спојат."
-    }
-  ],
-  "translation": "Не_pop}шиш да му се покориш, немој да го слушаш, окото твое нека не го пожали, немој да поштедиш и немој да го покриеш.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "18bb400e2036e72450fa56b09ff687eb6ca95326e0b18c292b31a2aa27c65ec5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/13\/9-12.1792445502708.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Нема да му попуштиш и нема да го послушаш; и твоето око нема да го сожали, и нема да поштедиш, и нема да го покриеш.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "не"
+      "gloss": "нема"
     },
     {
       "surface": "תאבה",
-      "gloss": "поп}шуваш"
+      "gloss": "да попуштиш"
     },
     {
       "surface": "לו",
-      "gloss": "нему"
+      "gloss": "му"
     },
     {
       "surface": "ולא",
-      "gloss": "и не"
+      "gloss": "и нема"
     },
     {
       "surface": "תשמע",
-      "gloss": "слушаш"
+      "gloss": "да го послушаш"
     },
     {
       "surface": "אליו",
-      "gloss": "кон него"
+      "gloss": "него"
     },
     {
       "surface": "ולא",
-      "gloss": "и не"
+      "gloss": "и нема"
     },
     {
       "surface": "תחוס",
-      "gloss": "пожали"
+      "gloss": "да сожали"
     },
     {
       "surface": "עינך",
-      "gloss": "окото твое"
+      "gloss": "твоето око"
     },
     {
       "surface": "עליו",
-      "gloss": "над него"
+      "gloss": "него"
     },
     {
       "surface": "ולא",
-      "gloss": "и не"
+      "gloss": "и нема"
     },
     {
       "surface": "תחמל",
-      "gloss": "поштедиш"
+      "gloss": "да поштедиш"
     },
     {
       "surface": "ולא",
-      "gloss": "и не"
+      "gloss": "и нема"
     },
     {
       "surface": "תכסה",
-      "gloss": "покриеш"
+      "gloss": "да покриеш"
     },
     {
       "surface": "עליו",
-      "gloss": "над него"
+      "gloss": "го"
     }
   ],
-  "timestamp": "2026-10-19T21:31:42.709032128Z",
+  "timestamp": "2026-10-20T03:38:16.829644663Z",
   "model": "glm-5.3"
 }

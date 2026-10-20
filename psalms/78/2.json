@@ -5,37 +5,15 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 78,
-  "notes": [
-    {
-      "kind": "mystery",
-      "subject": "гатанки",
-      "rationale": "хидот — намерно темни, скриени изреки што бараат толкување"
-    },
-    {
-      "kind": "substitution",
-      "subject": "машал",
-      "gloss-note": "",
-      "rationale": "машал е споредба\/приказна со преносно значење; оставен транслитиран заради жанрското значење"
-    }
-  ],
-  "translation": "Ке ја отворам устата моја во машал, ке истакам гатанки од davnina.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "3e3ee46cb0243c73fa00113b107409634b754c7f3d77dde0081c59b41f124e16",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/78\/1-4.1792453614302.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Со mashal ⟨е⟩ ќе го отворам устата моја, ќе пуштам да истекуваат хидот — загатки од одамна, од дамнешните времиња.",
   "tokens": [
     {
       "surface": "אפתחה",
-      "gloss": "Ке ја отворам"
+      "gloss": "ќе го отворам"
     },
     {
       "surface": "במשל",
-      "gloss": "во машал"
+      "gloss": "со mashal"
     },
     {
       "surface": "פי",
@@ -43,11 +21,11 @@
     },
     {
       "surface": "אביעה",
-      "gloss": "ке истакам"
+      "gloss": "ќе пуштам да истекуваат"
     },
     {
       "surface": "חידות",
-      "gloss": "гатанки"
+      "gloss": "хидот — загатки"
     },
     {
       "surface": "מני",
@@ -55,9 +33,9 @@
     },
     {
       "surface": "קדם",
-      "gloss": "davnina"
+      "gloss": "одамна, дамнешни времиња"
     }
   ],
-  "timestamp": "2026-10-19T23:46:54.303146616Z",
+  "timestamp": "2026-10-20T04:32:14.196311407Z",
   "model": "glm-5.3"
 }

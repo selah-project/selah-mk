@@ -5,36 +5,15 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 143,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "מצרה",
-      "rationale": "Буквално 'теснота' — притисок, стиснатост; не општа 'мака'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "נפשי",
-      "rationale": "Нефеш е грло\/дах\/животна сила, 'душа' е условен избор."
-    }
-  ],
-  "translation": "Зради името твое, Јахве, оживи ме; во цедек твој изведи ја од теснотија душата моя.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "3a91ba78e2df75e33c1d2bfca9197da87d4ab1d8944a2c55a4624a988c9ca62f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/143\/9-12.1792454147013.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Заради твоето име, Јахве, оживи ме; во твојата цедек изведи ја од теснотата мојата нефеш.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "Зради"
+      "gloss": "заради"
     },
     {
       "surface": "שמך",
-      "gloss": "името твое"
+      "gloss": "твоето име"
     },
     {
       "surface": "יהוה",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "בצדקתך",
-      "gloss": "во цедек твој"
+      "gloss": "во твојата цедек"
     },
     {
       "surface": "תוציא",
@@ -54,13 +33,13 @@
     },
     {
       "surface": "מצרה",
-      "gloss": "од теснотија"
+      "gloss": "од теснотата"
     },
     {
       "surface": "נפשי",
-      "gloss": "душата моя"
+      "gloss": "мојата нефеш"
     }
   ],
-  "timestamp": "2026-10-19T23:55:47.014989206Z",
+  "timestamp": "2026-10-20T04:29:36.237067126Z",
   "model": "glm-5.3"
 }

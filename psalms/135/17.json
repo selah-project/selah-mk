@@ -5,41 +5,15 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 135,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "יש",
-      "rationale": "יש (има\/постои) се понишува со אין — македонскиот го изразува со „нема руах“"
-    },
-    {
-      "kind": "substitution",
-      "subject": "руах",
-      "rationale": "רוח значи и ветер и здив и Дух — се чува звукот руах, а не се избира едно"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אזנים\/יאזינו",
-      "rationale": "корен אזן (ухо\/слуша) — уши имаат, но не „поушвуваат“, играта е во самиот корен"
-    }
-  ],
-  "translation": "Уши имаат, но не слушаат; дури ни руах нема во устата нивни.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "4a6e24b431fe6aaa6fe394a5d0f91720eaf49fbe44d5f758cca56e886d2e0025",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/135\/17-20.1792454110585.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Уши имаат тие, но не слушаат; дури ни руах нема во устата нивни.",
   "tokens": [
     {
       "surface": "אזנים",
-      "gloss": "Уши"
+      "gloss": "уши"
     },
     {
       "surface": "להם",
-      "gloss": "имаат"
+      "gloss": "имаат тие"
     },
     {
       "surface": "ולא",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "יש",
-      "gloss": ""
+      "gloss": "⟨е⟩"
     },
     {
       "surface": "רוח",
@@ -70,6 +44,6 @@
       "gloss": "во устата нивни"
     }
   ],
-  "timestamp": "2026-10-19T23:55:10.585563462Z",
+  "timestamp": "2026-10-20T04:29:57.548629001Z",
   "model": "glm-5.3"
 }

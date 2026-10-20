@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אשרינו סבבוני",
-      "rationale": "'нашите чекори ме опколија' — буквално; други читаат 'тие не опколија во нашите чекори'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "да нè фрлат",
-      "rationale": "לנטות буквално 'да нè наведат\/искриват'"
-    }
-  ],
-  "translation": "Нашите чекори сега ме опколија, очите свои поставија за да нè фрлат на земјата.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "1051d1864eb3c2253e73aeb6880d5cfcb51971bf845197d87d89482d38a35f2c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/17\/9-12.1792452997056.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Чекорите наши сега ме опколија; очите свои ги поставија да нì спуштат ⟨се⟩ на земјата.",
   "tokens": [
     {
       "surface": "אשרינו",
-      "gloss": "нашите чекори"
+      "gloss": "чекорите наши"
     },
     {
       "surface": "עתה",
@@ -46,17 +25,17 @@
     },
     {
       "surface": "ישיתו",
-      "gloss": "поставија"
+      "gloss": "ги поставија"
     },
     {
       "surface": "לנטות",
-      "gloss": "да нè фрлат"
+      "gloss": "да спуштат"
     },
     {
       "surface": "בארץ",
       "gloss": "на земјата"
     }
   ],
-  "timestamp": "2026-10-19T23:36:37.057818614Z",
+  "timestamp": "2026-10-20T04:30:25.320841585Z",
   "model": "glm-5.3"
 }

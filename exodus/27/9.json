@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "mk",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "мишканот",
-      "rationale": "המשכן е мишкан по D2, не „шатор“"
-    },
-    {
-      "kind": "measurement",
-      "subject": "сто лакти",
-      "rationale": "димензии на дворот на табернаколот"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נגב תימנה",
-      "rationale": "двоен израз за југ — јужната страна кон југ"
-    }
-  ],
-  "translation": "И ќе направиш ⟨את⟩ дворот на мишканот, за южната страна, кон југ: завеси за дворот, од препрядено ленено платно, сто лакти должина за едната страна.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "589aa9bf494ccb0db3abecbeeeff8860bd697dc46c27970f62bd968a95847a96",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/27\/9-12.1792443732102.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И ќе направиш ⟨את⟩ дворот на мишканот: за јужната страна, кон југ — завеси за дворот, од шеш испреден ⟨со⟩ лен, сто лакти должина за едната страна.",
   "tokens": [
     {
       "surface": "ועשית",
@@ -72,11 +46,11 @@
     },
     {
       "surface": "שש",
-      "gloss": "ленено платно"
+      "gloss": "шеш"
     },
     {
       "surface": "משזר",
-      "gloss": "препридено"
+      "gloss": "испреден"
     },
     {
       "surface": "מאה",
@@ -99,6 +73,6 @@
       "gloss": "едната"
     }
   ],
-  "timestamp": "2026-10-19T21:02:12.103164081Z",
+  "timestamp": "2026-10-20T03:46:48.362985183Z",
   "model": "glm-5.3"
 }

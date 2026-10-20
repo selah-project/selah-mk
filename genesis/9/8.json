@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "mk",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אתו",
-      "rationale": "את ׬о со предлог значи 'со него' (H854), не обележувач на објект — тука е 'заедно со него'"
-    },
-    {
-      "kind": "you",
-      "subject": "Ное и синовите",
-      "rationale": "директен говор на Елохим упатен на Ное и неговите синови"
-    }
-  ],
-  "translation": "И рече Елохим на Ное и на синовите негови ⟨со⟩ него, велејки:",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "09c94cbdffc7e8f065de9626980ca30469f392f007bbe2f34846cf403b16608f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/9\/5-8.1792442434721.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И Елохим му рече на Ноах и на синовите ⟨негови⟩ со него, велејќи:",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "И рече"
+      "gloss": "и рече"
     },
     {
       "surface": "אלהים",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "נח",
-      "gloss": "Ное"
+      "gloss": "Ноах"
     },
     {
       "surface": "ואל",
@@ -50,17 +29,18 @@
     },
     {
       "surface": "בניו",
-      "gloss": "синовите негови"
+      "gloss": "синовите"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ со него"
+      "gloss": "⟨את⟩",
+      "marks": "со него"
     },
     {
       "surface": "לאמר",
-      "gloss": "велејки"
+      "gloss": "велејќи"
     }
   ],
-  "timestamp": "2026-10-19T20:40:34.722637757Z",
+  "timestamp": "2026-10-20T04:00:57.861553545Z",
   "model": "glm-5.3"
 }

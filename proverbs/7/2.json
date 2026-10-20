@@ -5,28 +5,7 @@
   "book": "proverbs",
   "lang": "mk",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "зеницата",
-      "rationale": "אישון буквално „малечокот човек“ — сликата на отражокот во окото е изгубена."
-    },
-    {
-      "kind": "addition",
-      "subject": "како",
-      "rationale": "Сравнението е именски — глагол „биди\/чувај како“ е додаден од контекстот."
-    }
-  ],
-  "translation": "Чувај ги заповедите мои и живеј, и Тората моя како зеницата на очите твои.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "332e84a698045c086648b6c62a97d1f9b3beacb6edb28ba51631e9e116a55d86",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/7\/1-4.1792454370080.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Чувај ги заповедите мои и живеј, и Тората моја како зеницата на окото твое.",
   "tokens": [
     {
       "surface": "שמר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "ותורתי",
-      "gloss": "и Тората моя"
+      "gloss": "и Тората моја"
     },
     {
       "surface": "כאישון",
@@ -50,9 +29,9 @@
     },
     {
       "surface": "עיניך",
-      "gloss": "на очите твои"
+      "gloss": "на окото твое"
     }
   ],
-  "timestamp": "2026-10-19T23:59:30.081054984Z",
+  "timestamp": "2026-10-20T04:28:07.544676519Z",
   "model": "glm-5.3"
 }

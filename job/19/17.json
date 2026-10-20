@@ -5,49 +5,23 @@
   "book": "job",
   "lang": "mk",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "руах",
-      "rationale": "רוח е здив\/ветер\/руах — се чува формата, не се преведува со 'дух' сам"
-    },
-    {
-      "kind": "crux",
-      "subject": "וחנתי",
-      "rationale": "од חנן — 'моите молби\/милости': дали ги моли синовите (KJV) или молбите му се туѓи на синовите (YLT)"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨е⟩",
-      "rationale": "хебрејскиот нема глагол-сврзка"
-    }
-  ],
-  "translation": "Мојот руах е туѓ на ⟨⟨жената⟩⟩ моја, и се 𝑝𝑟𝑒𝑘𝑢 молбите мои на синовите од утробата моја.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "0a1dd68ddaf6b1b486b359db961adea4a7cac95176dd7be16d3b2a88faa964f1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/19\/17-20.1792455041886.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Туѓа ⟨е⟩ мојата руах на жена ми, и молбата моја — на синовите на утробата моја.",
   "tokens": [
     {
       "surface": "רוחי",
-      "gloss": "руахот мој"
+      "gloss": "мојата руах"
     },
     {
       "surface": "זרה",
-      "gloss": "е туѓ"
+      "gloss": "туѓа"
     },
     {
       "surface": "לאשתי",
-      "gloss": "на жената моја"
+      "gloss": "на жена ми"
     },
     {
       "surface": "וחנתי",
-      "gloss": "и молбите мои"
+      "gloss": "и молбата моја"
     },
     {
       "surface": "לבני",
@@ -55,9 +29,9 @@
     },
     {
       "surface": "בטני",
-      "gloss": "од утробата моја"
+      "gloss": "на утробата моја"
     }
   ],
-  "timestamp": "2026-10-20T00:10:41.886681579Z",
+  "timestamp": "2026-10-20T04:11:27.184071582Z",
   "model": "glm-5.3"
 }

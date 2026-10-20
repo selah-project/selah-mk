@@ -5,31 +5,15 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 80,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "תחינו \/ ונושעה",
-      "rationale": "Призивот „оживи нè“ (ст. 19) се повторува како „спаси нè“ (ст. 20) — рефренот на псалмот."
-    }
-  ],
-  "translation": "и нема да отстапиме од Тебе; врати нè во живот и во Името Твое ќе повикуваме.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "6d83465c25002a10c00071672b9e0500428c68a6fb2586f2190e797e97e2935d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/80\/17-20.1792453640745.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И нема да отстапиме од Тебе; насире́ ни, и во Твоето име ќе повикуваме.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "и нема"
+      "gloss": "и нема да"
     },
     {
       "surface": "נסוג",
-      "gloss": "да отстапиме"
+      "gloss": "отстапиме"
     },
     {
       "surface": "ממך",
@@ -37,17 +21,17 @@
     },
     {
       "surface": "תחינו",
-      "gloss": "врати нè во живот"
+      "gloss": "наживи нè"
     },
     {
       "surface": "ובשמך",
-      "gloss": "и во Името Твое"
+      "gloss": "и во Твоето име"
     },
     {
       "surface": "נקרא",
       "gloss": "ќе повикуваме"
     }
   ],
-  "timestamp": "2026-10-19T23:47:20.746599406Z",
+  "timestamp": "2026-10-20T04:36:12.889825305Z",
   "model": "glm-5.3"
 }

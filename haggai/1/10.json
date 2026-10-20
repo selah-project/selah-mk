@@ -5,48 +5,27 @@
   "book": "haggai",
   "lang": "mk",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על כן",
-      "rationale": "Буквално 'врз тоа' — македонски 'затоа'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "небесата",
-      "rationale": "שמים е двоина (двојно небе); македонскиот нема двоина и губи двојна форма."
-    }
-  ],
-  "translation": "Затоа поради вас небесата задржаа rosа, и земјата го задржа својот род.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "3559b18aa1d248de7a5905fc9c49bc5e7ae14d6e8791e730f3ea0c8c052470a6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/haggai\/1\/9-12.1792452728687.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Затоа над вас небото го задржа ⟨се⟩ росата, а земјата го задржа својот род.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": ""
-    },
-    {
-      "surface": "כן",
       "gloss": "Затоа"
     },
     {
+      "surface": "כן",
+      "gloss": "над"
+    },
+    {
       "surface": "עליכם",
-      "gloss": "поради вас"
+      "gloss": "вас"
     },
     {
       "surface": "כלאו",
-      "gloss": "задржаа"
+      "gloss": "го задржа"
     },
     {
       "surface": "שמים",
-      "gloss": "небесата"
+      "gloss": "небото"
     },
     {
       "surface": "מטל",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "והארץ",
-      "gloss": "и земјата"
+      "gloss": "а земјата"
     },
     {
       "surface": "כלאה",
@@ -65,6 +44,6 @@
       "gloss": "својот род"
     }
   ],
-  "timestamp": "2026-10-19T23:32:08.688792203Z",
+  "timestamp": "2026-10-20T04:00:52.539181160Z",
   "model": "glm-5.3"
 }

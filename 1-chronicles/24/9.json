@@ -5,41 +5,25 @@
   "book": "1-chronicles",
   "lang": "mk",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "свештенички редови",
-      "rationale": "Список на редовите на свештениците по жреб, единаесетти до дванаесетти."
-    }
-  ],
-  "translation": "Петиот за Малкија, шестиот за Мijamin.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "cf6b479101c8538d267d20bf86a07e4afe4374bacfe6a98ecdf56317b7f7c999",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/24\/9-12.1792457205764.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Петтиот ⟨за⟩ Малкија, шестиот ⟨за⟩ Мijáмин —",
   "tokens": [
     {
       "surface": "למלכיה",
-      "gloss": "Малкиjа"
+      "gloss": "⟨за⟩ Малкија"
     },
     {
       "surface": "החמישי",
-      "gloss": "Петиот"
+      "gloss": "петтиот"
     },
     {
       "surface": "למימן",
-      "gloss": "Мijamin"
+      "gloss": "⟨за⟩ Мијамин"
     },
     {
       "surface": "הששי",
       "gloss": "шестиот"
     }
   ],
-  "timestamp": "2026-10-20T00:46:45.765631647Z",
+  "timestamp": "2026-10-20T03:13:12.852186673Z",
   "model": "glm-5.3"
 }

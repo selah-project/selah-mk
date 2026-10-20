@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "mk",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "tunikata на пассимите",
-      "rationale": "כתנת הפסים: 'тунника со пассими' — различно објаснето како 'со многу бои', 'долга до дланки\/стапала' или 'со ленти'; непознат збор"
-    },
-    {
-      "kind": "hapax",
-      "subject": "הפסים",
-      "rationale": "פסים се јавува само тука и во 2 Сам 13:18"
-    }
-  ],
-  "translation": "И биде кога дојде Јосеф кај браќата свои, тие го соблекоа Јосеф — ⟨את⟩ tunikata неговата, ⟨את⟩ tunikata на пассимите што беше на него.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "db41c8b654a0d7d7a6dc269a13834e7835c42386e7e2a7262d8f80fbac853443",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/37\/21-24.1792443096156.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И биде кога Јосеф дојде кај браќата свои, тие го соблекоа ⟨את⟩ Јосеф ⟨את⟩ кошулата негова, ⟨את⟩ кошулата од панделки што беше на него.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "и биде"
+      "gloss": "И биде"
     },
     {
       "surface": "כאשר",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "ויפשיטו",
-      "gloss": "ги соблекоа"
+      "gloss": "тие го соблекоа"
     },
     {
       "surface": "את",
@@ -68,24 +47,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tunikata неговата"
+      "marks": "кошулата негова"
     },
     {
       "surface": "כתנתו",
-      "gloss": "tunikata неговата"
+      "gloss": "кошулата негова"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tunikata на пассимите"
+      "marks": "кошулата од панделки"
     },
     {
       "surface": "כתנת",
-      "gloss": "tunikata на"
+      "gloss": "кошулата"
     },
     {
       "surface": "הפסים",
-      "gloss": "пассимите"
+      "gloss": "од панделки"
     },
     {
       "surface": "אשר",
@@ -93,9 +72,9 @@
     },
     {
       "surface": "עליו",
-      "gloss": "бееше на него"
+      "gloss": "на него"
     }
   ],
-  "timestamp": "2026-10-19T20:51:36.159945320Z",
+  "timestamp": "2026-10-20T03:58:47.513372088Z",
   "model": "glm-5.3"
 }

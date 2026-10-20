@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 106,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "нигу",
-      "rationale": "מהם לא נותר е буквално 'од нив не остана'; 'ниту' е додадено за природен македонски"
-    },
-    {
-      "kind": "substitution",
-      "subject": "непријатели",
-      "rationale": "צר е 'стеснето место \/ тесен', тука како именка 'потисник, непријател'"
-    }
-  ],
-  "translation": "И водите ги покрија ⟨את⟩ непријателите нивни; ниту еден од нив не остана.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "1b4bcb913d47efed2486e31cc367397cac8e7bd5de9a80372b0b4cf5ac152735",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/106\/10-11.1792458403593.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И водите ги покрија ⟨את⟩ нивните непријатели — ниту еден од нив не остана.",
   "tokens": [
     {
       "surface": "ויכסו",
@@ -38,12 +17,11 @@
     },
     {
       "surface": "צריהם",
-      "gloss": "⟨את⟩ непријателите нивни",
-      "marks": "непријателите нивни"
+      "gloss": "нивните непријатели"
     },
     {
       "surface": "אחד",
-      "gloss": "ниту еден"
+      "gloss": "еден"
     },
     {
       "surface": "מהם",
@@ -58,6 +36,6 @@
       "gloss": "остана"
     }
   ],
-  "timestamp": "2026-10-20T01:06:43.593816685Z",
+  "timestamp": "2026-10-20T04:28:39.009535437Z",
   "model": "glm-5.3"
 }

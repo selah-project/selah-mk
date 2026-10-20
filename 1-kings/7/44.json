@@ -5,33 +5,12 @@
   "book": "1-kings",
   "lang": "mk",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "морето",
-      "rationale": "הים е огромниот кружен слив наречен 'Море', не водна површина; македонскиот чува буквата 'море' како име"
-    },
-    {
-      "kind": "measurement",
-      "subject": "едно море, дванаесет волови",
-      "rationale": "пребројување на храмовиот инвентар"
-    }
-  ],
-  "translation": "и ⟨את⟩ едното море, и ⟨את⟩ дванаесетте волови под морето.",
-  "provenance": {
-    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
-    "user-sha256": "0d34374412dbb1a9a0b46d35129c63877bf8e6526b8bec3f34af50c5dd946def",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/7\/41-44.1792448629105.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "и ⟨את⟩ морето — ⟨е⟩ едното, и ⟨את⟩ дванаесетте говеда под морето.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "едното море"
+      "marks": "морето"
     },
     {
       "surface": "הים",
@@ -42,21 +21,21 @@
       "gloss": "едното"
     },
     {
-      "surface": "иאת",
+      "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "дванаесетте волови"
+      "marks": "дванаесетте говеда"
     },
     {
       "surface": "הבקר",
-      "gloss": "волови"
+      "gloss": "говеда"
     },
     {
       "surface": "שנים",
-      "gloss": "два"
+      "gloss": "две"
     },
     {
       "surface": "עשר",
-      "gloss": "наесет"
+      "gloss": "-наесет"
     },
     {
       "surface": "תחת",
@@ -67,6 +46,6 @@
       "gloss": "морето"
     }
   ],
-  "timestamp": "2026-10-19T22:23:49.108554103Z",
+  "timestamp": "2026-10-20T03:16:29.075352046Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "isaiah",
   "lang": "mk",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "е",
-      "rationale": "Хебрејскиот е номинална frase без глагол — 'крш на бунтовниците… заедно'."
-    },
-    {
-      "kind": "alternative",
-      "subject": "ושבר",
-      "rationale": "BSB\/Вулгата го чита како глагол 'ќе бидат скршени'; именската lectura 'крш\/пропаст' е повеќе буквална."
-    }
-  ],
-  "translation": "И ⟨е⟩ крш на бунтовниците и на грешниците заедно, и оние што го оставија Јахве ќе загинат.",
-  "provenance": {
-    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
-    "user-sha256": "eee3dcdb8668e34c30089d842b03c2e976f828dea70b761592f4188a52d3e489",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/1\/25-28.1792449541638.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И кршењето на престапниците и грешниците ⟨е⟩ заедно, и оние што го напуштија Јахве ќе загинат.",
   "tokens": [
     {
       "surface": "ושבר",
-      "gloss": "и крш"
+      "gloss": "И кршењето"
     },
     {
       "surface": "פשעים",
-      "gloss": "на бунтовниците"
+      "gloss": "на престапниците"
     },
     {
       "surface": "וחטאים",
-      "gloss": "и на грешниците"
+      "gloss": "и грешниците"
     },
     {
       "surface": "יחדו",
@@ -46,17 +25,17 @@
     },
     {
       "surface": "ועזבי",
-      "gloss": "и оние што го оставија"
+      "gloss": "и оние што го напуштија"
     },
     {
       "surface": "יהוה",
       "gloss": "Јахве"
     },
     {
-      "surface": "יכלу",
+      "surface": "יכלו",
       "gloss": "ќе загинат"
     }
   ],
-  "timestamp": "2026-10-19T22:39:01.640928325Z",
+  "timestamp": "2026-10-20T04:01:39.259727784Z",
   "model": "glm-5.3"
 }

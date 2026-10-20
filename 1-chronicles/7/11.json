@@ -5,17 +5,69 @@
   "book": "1-chronicles",
   "lang": "mk",
   "chapter": 7,
-  "translation": "",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "bd9f02f896632dce40a8e82ac6afb9264757071c455df73ee8a02be6c58693d0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/7\/9-12.1792456920966.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
-  "tokens": [],
-  "timestamp": "2026-10-20T00:42:00.967612208Z",
+  "translation": "Сите овие беа синови на Једиел, според старешините на ⟨се⟩ родовите, силни јунаци — седумнаесет илјади и двесте, што излегуваа во војска за битка.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Сите"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овие"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "на Једиел"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "според старешините"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "на родовите"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "силни јунаци"
+    },
+    {
+      "surface": "חילים",
+      "gloss": "во храброст"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седум"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "илјади"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "и двесте"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "што излегуваа"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "во војска"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "за битка"
+    }
+  ],
+  "timestamp": "2026-10-20T03:14:14.427417177Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "leviticus",
   "lang": "mk",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "јитма\/јитма",
-      "rationale": "потполна паралелна структура: легне\/седне — ќтаме\/јитаме, хијазмичко повторување задржано во преводот"
-    }
-  ],
-  "translation": "И сè врз што таа легне за време на својата отделеност ќе биде нечисто, и сè на што седне ќе биде нечисто.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "0507b9d4c6b95eb36a58454fe5abd229dbb2aa011a4e4b9ef7680f3a9638fc03",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/15\/17-20.1792444362402.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И сè на што ќе легне таа во својата Nedata — нечисто ⟨е⟩; и сè на што ќе седне таа — нечисто ⟨е⟩.",
   "tokens": [
     {
       "surface": "וכל",
@@ -29,23 +13,23 @@
     },
     {
       "surface": "אשר",
-      "gloss": "што"
+      "gloss": "на што"
     },
     {
       "surface": "תשכב",
-      "gloss": "легне"
+      "gloss": "ќе легне таа"
     },
     {
       "surface": "עליו",
-      "gloss": "врз него"
+      "gloss": "на него"
     },
     {
       "surface": "בנדתה",
-      "gloss": "во својата отделеност"
+      "gloss": "во својата неда"
     },
     {
       "surface": "יטמא",
-      "gloss": "ќе биде нечисто"
+      "gloss": "нечисто"
     },
     {
       "surface": "וכל",
@@ -53,11 +37,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "што"
+      "gloss": "на што"
     },
     {
       "surface": "תשב",
-      "gloss": "седне"
+      "gloss": "ќе седне таа"
     },
     {
       "surface": "עליו",
@@ -65,9 +49,9 @@
     },
     {
       "surface": "יטמא",
-      "gloss": "ќе биде нечисто"
+      "gloss": "нечисто"
     }
   ],
-  "timestamp": "2026-10-19T21:12:42.404697175Z",
+  "timestamp": "2026-10-20T04:19:04.637369414Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "jeremiah",
   "lang": "mk",
   "chapter": 48,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "мчи",
-      "rationale": "מהרה букв. „тече лесно\/брза“ — брзината е слика на течност"
-    }
-  ],
-  "translation": "Блиску е несреќата на Моав да дојде, и злото негово мчи многу.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "06eefd8ad063313dcdd61773269a79244642834baeadf78909e8b62df708604b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/48\/13-16.1792451103839.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Блиску ⟨е⟩ несреќата на Моав да дојде, и злото негово брза многу силно.",
   "tokens": [
     {
       "surface": "קרוב",
-      "gloss": "Блиску е"
+      "gloss": "Блиску"
     },
     {
       "surface": "איד",
@@ -45,13 +29,13 @@
     },
     {
       "surface": "מהרה",
-      "gloss": " мчи"
+      "gloss": "брза"
     },
     {
-      "surface": "мאד",
-      "gloss": "многу"
+      "surface": "מאד",
+      "gloss": "многу силно"
     }
   ],
-  "timestamp": "2026-10-19T23:05:03.841222222Z",
+  "timestamp": "2026-10-20T04:09:01.009060231Z",
   "model": "glm-5.3"
 }

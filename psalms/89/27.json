@@ -5,49 +5,23 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 89,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "си",
-      "rationale": "македонскиот бара копула во вокативната изјава; хебрејскиот ја нема"
-    },
-    {
-      "kind": "substitution",
-      "subject": "Ел",
-      "gloss": "אלי се пишува според звукот — Ел мој, не „Бог мој“"
-    },
-    {
-      "kind": "you",
-      "subject": "до Јахве",
-      "rationale": "цел стих е директна адреса од машиахот кон Ел"
-    }
-  ],
-  "translation": "Тој ќе Ме повика: Татко мой ⟨си⟩ Ти, Ел мој и карпа на спасението мое.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "fa27ee0114a96624500b2d6b8ced6f447cfa0419fe34cc1e24ebe98391cdbf41",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/89\/25-28.1792453712298.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Тој ќе ме повика: Ти си мојот татко, Ел мој и карпа на моето избавување.",
   "tokens": [
     {
       "surface": "הוא",
-      "gloss": "Тој"
+      "gloss": "тој"
     },
     {
       "surface": "יקראני",
-      "gloss": "ќе Ме повика"
+      "gloss": "ќе ме повика"
     },
     {
       "surface": "אבי",
-      "gloss": "Татко мой"
+      "gloss": "мојот татко"
     },
     {
       "surface": "אתה",
-      "gloss": "Ти"
+      "gloss": "ти"
     },
     {
       "surface": "אלי",
@@ -59,9 +33,9 @@
     },
     {
       "surface": "ישועתי",
-      "gloss": "на спасението мое"
+      "gloss": "на моето избавување"
     }
   ],
-  "timestamp": "2026-10-19T23:48:32.299729980Z",
+  "timestamp": "2026-10-20T04:32:30.659601476Z",
   "model": "glm-5.3"
 }

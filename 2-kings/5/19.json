@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "mk",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "כברת",
-      "rationale": "мерка за растојание што се јавува само тука во Танах — повеќето верзии велат „малку“ или „половина ден пат“."
-    },
-    {
-      "kind": "measurement",
-      "subject": "כברת ארץ",
-      "rationale": "растојание изразено како „должина земја“ — неопределена мерка."
-    }
-  ],
-  "translation": "И рече му: Оди во мир. И тој отиде ⟨את⟩ од него една мерка-должина земја.",
-  "provenance": {
-    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
-    "user-sha256": "5ac3f993daa09f1f00e890e827e89f1cff05e5ebe35975115dd02e179553b8c4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/5\/17-20.1792449193373.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И му рече: Оди во мир. И тој отиде од него ⟨את⟩ растојание на една кибра земја.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "И рече"
+      "gloss": "и рече"
     },
     {
       "surface": "לו",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "Оди"
+      "gloss": "оди"
     },
     {
       "surface": "לשלום",
@@ -46,21 +25,22 @@
     },
     {
       "surface": "וילך",
-      "gloss": "И отиде"
+      "gloss": "и отиде"
     },
     {
-      "surface": "мאтו",
-      "gloss": "⟨את⟩ од него"
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "од него — пример: од него"
     },
     {
       "surface": "כברת",
-      "gloss": "мерка-должина"
+      "gloss": "кибра (мерка растојание)"
     },
     {
       "surface": "ארץ",
       "gloss": "земја"
     }
   ],
-  "timestamp": "2026-10-19T22:33:13.375143677Z",
+  "timestamp": "2026-10-20T03:32:08.833394090Z",
   "model": "glm-5.3"
 }

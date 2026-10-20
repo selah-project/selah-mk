@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "mk",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "И ти, подигни",
-      "rationale": "заповед упатена директно на пророкот — повик да се земе жалопојката"
-    },
-    {
-      "kind": "crux",
-      "subject": "жалопојка за",
-      "rationale": "אל често значи 'врз\/против' старешините; жалопојката е НАД нив, т.е. против нив"
-    }
-  ],
-  "translation": "И ти, кревања קינה — подигни жалопојка за старешините на Јисраел.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "d8d884efe0a22ed50725aee063d41e73343fe339cfee654274f65f1f5099d9ac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezekiel\/19\/1-4.1792451555347.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И ти, подземи ⟨се⟩ плач за старешините на Јисраел.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "שא",
-      "gloss": "подигни"
+      "gloss": "подземи"
     },
     {
       "surface": "קינה",
-      "gloss": "жалопојка"
+      "gloss": "плач"
     },
     {
       "surface": "אל",
@@ -53,6 +32,6 @@
       "gloss": "Јисраел"
     }
   ],
-  "timestamp": "2026-10-19T23:12:35.347802539Z",
+  "timestamp": "2026-10-20T03:48:48.716429111Z",
   "model": "glm-5.3"
 }

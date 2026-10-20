@@ -5,20 +5,11 @@
   "book": "2-kings",
   "lang": "mk",
   "chapter": 9,
-  "translation": "И Јеху се качи на кола и поjde во Јизреел, зашто Јорам лежеше таму; а Ахазија, кралот на Јехуда, слезе да го види ⟨את⟩ Јорам.",
-  "provenance": {
-    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
-    "user-sha256": "1c246a19aba2c490cc4c2653d3c6a1657a962e560c4253b1eed12cd5b0755a7a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/9\/13-16.1792449243379.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И Јеху јавна ⟨се⟩ и отиде во Изреел, зашто Јорам лежеше таму, а Ахазија, царот на Јудеја, беше слезел да го види ⟨את⟩ Јорам.",
   "tokens": [
     {
       "surface": "וירכב",
-      "gloss": "се качи на кола"
+      "gloss": "јавна ⟨се⟩"
     },
     {
       "surface": "יהוא",
@@ -26,11 +17,11 @@
     },
     {
       "surface": "וילך",
-      "gloss": "и поjde"
+      "gloss": "и отиде"
     },
     {
       "surface": "יזרעאלה",
-      "gloss": "во Јизреел"
+      "gloss": "во Изреел"
     },
     {
       "surface": "כי",
@@ -53,16 +44,16 @@
       "gloss": "а Ахазија"
     },
     {
-      "surface": "мелек",
-      "gloss": "кралот"
+      "surface": "מלך",
+      "gloss": "царот"
     },
     {
       "surface": "יהודה",
-      "gloss": "на Јехуда"
+      "gloss": "на Јудеја"
     },
     {
       "surface": "ירד",
-      "gloss": "слезе"
+      "gloss": "беше слезел"
     },
     {
       "surface": "לראות",
@@ -78,6 +69,6 @@
       "gloss": "Јорам"
     }
   ],
-  "timestamp": "2026-10-19T22:34:03.382116633Z",
+  "timestamp": "2026-10-20T03:32:11.861839165Z",
   "model": "glm-5.3"
 }

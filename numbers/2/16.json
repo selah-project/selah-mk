@@ -5,44 +5,23 @@
   "book": "numbers",
   "lang": "mk",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "попис",
-      "rationale": "вкупен број на логорот Рувен: 151.450"
-    },
-    {
-      "kind": "addition",
-      "subject": "тие",
-      "rationale": "заменка додадена за јасност кој ќе тргне втор"
-    }
-  ],
-  "translation": "Сите изброени за логорот Рувен: сто илјади и еден и педесет илјади и четиристотини и педесет, по нивните војски — и втори ⟨тие⟩ ќе тргнат.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "2b500ff97263ae027f2b9a5a001f7822a3a1ea33061a9f6788b5047fc31b239c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/2\/13-16.1792444600107.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Сите преброени во логорот на Реувен: сто иlфи и еден и педесет иlфи и четиристотини и педесет, по нивните војски; и втори ќе тргнат.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "сите"
+      "gloss": "Сите"
     },
     {
       "surface": "הפקדים",
-      "gloss": "изброените"
+      "gloss": "преброените"
     },
     {
       "surface": "למחנה",
-      "gloss": "за логорот"
+      "gloss": "во логорот"
     },
     {
       "surface": "ראובן",
-      "gloss": "Рувен"
+      "gloss": "на Реувен"
     },
     {
       "surface": "מאת",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "מאות",
-      "gloss": "стотици"
+      "gloss": "стотини"
     },
     {
       "surface": "וחמשים",
@@ -85,10 +64,10 @@
       "gloss": "и втори"
     },
     {
-      "surface": "יסעову",
+      "surface": "יסעו",
       "gloss": "ќе тргнат"
     }
   ],
-  "timestamp": "2026-10-19T21:16:40.111498837Z",
+  "timestamp": "2026-10-20T04:24:15.576885060Z",
   "model": "glm-5.3"
 }

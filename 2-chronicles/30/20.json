@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "mk",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "прилогот „кон\/кон“ е вграден во глаголот „го послуша“, нема посебен македонски збор."
-    },
-    {
-      "kind": "substitution",
-      "subject": "излечи",
-      "rationale": "וירפא е буквално „излекува“ — физичка слика на мелење\/капење; тука се однесува на простување на народот."
-    }
-  ],
-  "translation": "И Јахве го послуша Хизкијаху и го излечи ⟨את⟩ народот.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "fad44f8a5d360335bf114b94f5a252b2905c33a0c9ad4300b1bf6de7e5f2baf3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-chronicles\/30\/17-20.1792457830377.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И Јахве го послуша Хизкијаху и ги излечи ⟨את⟩ народот.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "И го послуша"
+      "gloss": "послуша"
     },
     {
       "surface": "יהוה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "го"
     },
     {
       "surface": "יחזקיהו",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "וירפא",
-      "gloss": "и го излечи"
+      "gloss": "излечи"
     },
     {
       "surface": "את",
@@ -58,6 +37,6 @@
       "gloss": "народот"
     }
   ],
-  "timestamp": "2026-10-20T00:57:10.378908557Z",
+  "timestamp": "2026-10-20T03:23:18.107664114Z",
   "model": "glm-5.3"
 }

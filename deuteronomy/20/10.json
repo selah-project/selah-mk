@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "mk",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "до Израел",
-      "rationale": "Стихот се обраќа директно на второ лице еднина — на војникот\/народот"
-    },
-    {
-      "kind": "alternative",
-      "subject": "повикај",
-      "rationale": "וקראת е перфект со заповесна сила: 'тогаш ќе повикаш \/ повикај'"
-    }
-  ],
-  "translation": "Кога ќе се приближиш до некој град за да воюваш против него, повикај кон него на мир.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "b2dae9be1df1f72980f92d3961b3be13c96949c81f33f8a1141754d2cb63961a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/deuteronomy\/20\/9-12.1792445578581.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Кога ќе се приближиш кон град за да војуваш спроти него, повикај му ⟨му⟩ на мир.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Кога"
+      "gloss": "кога"
     },
     {
       "surface": "תקרב",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "до"
+      "gloss": "кон"
     },
     {
       "surface": "עיר",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "להלחם",
-      "gloss": "да воюваш"
+      "gloss": "да војуваш"
     },
     {
       "surface": "עליה",
-      "gloss": "против него"
+      "gloss": "спроти него"
     },
     {
       "surface": "וקראת",
@@ -58,13 +37,13 @@
     },
     {
       "surface": "אליה",
-      "gloss": "кон него"
+      "gloss": "му"
     },
     {
       "surface": "לשלום",
       "gloss": "на мир"
     }
   ],
-  "timestamp": "2026-10-19T21:32:58.582651630Z",
+  "timestamp": "2026-10-20T03:39:31.902218780Z",
   "model": "glm-5.3"
 }

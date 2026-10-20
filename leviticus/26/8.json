@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "mk",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "5 : 100, 100 : 10000",
-      "rationale": "Соодноси на моќ — нарастачка од 20× кон 100×, свесна реторичка скала."
-    },
-    {
-      "kind": "alternative",
-      "subject": "רבבה",
-      "rationale": "Може и „бројка без број“\/„миријада“ — букв. е „десет илјади“ како целина."
-    }
-  ],
-  "translation": "И петмина од вас ќе гонат сто, а сто од вас ќе гонат десет илјади; и вашите непријатели ќе паднат пред вас под меч.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "870d0c3724ce02db0aea13fe0b82dfd693986f615f07c0d759671d188980ccba",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/leviticus\/26\/5-8.1792444520713.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И петмина од вас ќе гонат сто, а сто од вас ќе гонат десет илјади; и вашите непријатели ќе паднат пред вас ⟨под⟩ меч.",
   "tokens": [
     {
       "surface": "ורדפו",
@@ -49,7 +28,7 @@
       "gloss": "а сто"
     },
     {
-      "surface": "мכם",
+      "surface": "מכם",
       "gloss": "од вас"
     },
     {
@@ -74,9 +53,9 @@
     },
     {
       "surface": "לחרב",
-      "gloss": "под меч"
+      "gloss": "⟨под⟩ меч"
     }
   ],
-  "timestamp": "2026-10-19T21:15:20.715353278Z",
+  "timestamp": "2026-10-20T04:20:32.967474651Z",
   "model": "glm-5.3"
 }

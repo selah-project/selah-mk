@@ -5,51 +5,35 @@
   "book": "numbers",
   "lang": "mk",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מהודך",
-      "rationale": "הוד — 'величие\/слава\/велепоставеност'; преведувачите колебаат меѓу 'слава', 'авторитет' и 'чест'."
-    }
-  ],
-  "translation": "и дај од величието свое на него, за да слуша целата заедница на синовите Јисраелови.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "e4c81f34a54fb2c02c5121486f7f60459112c71d9e825cc9ceee6aee9942d653",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/27\/17-20.1792445119978.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И стави ⟨е⟩ од својот Hod врз него, за да слуша цела заедницата на синовите Јисраелови.",
   "tokens": [
     {
       "surface": "ונתתה",
-      "gloss": "и дај"
+      "gloss": "стави"
     },
     {
       "surface": "מהודך",
-      "gloss": "од величието свое"
+      "gloss": "од својот Hod"
     },
     {
       "surface": "עליו",
-      "gloss": "на него"
+      "gloss": "врз него"
     },
     {
       "surface": "למען",
       "gloss": "за да"
     },
     {
-      "surface": "ישмעו",
+      "surface": "ישמעו",
       "gloss": "слуша"
     },
     {
       "surface": "כל",
-      "gloss": "целата"
+      "gloss": "цела"
     },
     {
       "surface": "עדת",
-      "gloss": "заедница на"
+      "gloss": "заедницата"
     },
     {
       "surface": "בני",
@@ -57,9 +41,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Јисраелови"
+      "gloss": "Јисраел"
     }
   ],
-  "timestamp": "2026-10-19T21:25:19.979737774Z",
+  "timestamp": "2026-10-20T04:25:18.663246227Z",
   "model": "glm-5.3"
 }

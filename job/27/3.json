@@ -5,28 +5,7 @@
   "book": "job",
   "lang": "mk",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "руах",
-      "rationale": "רוח останува руах — здив\/ветер\/Дух, еден збор"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נשמה \/ רוח",
-      "rationale": "два збора за здив во еден стих — здивот човечки и руах Елоах, паралелизам што се губи ако двата станат 'дух'"
-    }
-  ],
-  "translation": "зашто сè уште е здивот мој во мене, и руах Елоах во ноздрите мои,",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "d6412e9fc0059d6fe7bd8e695fbe47f8d2dc1094142e5433c7fbf63cd7dfb9da",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/27\/1-4.1792455163929.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Зашто се додека душевниот здив е во мене, и руах на Елоах е во носот мој —",
   "tokens": [
     {
       "surface": "כי",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "נשמתי",
-      "gloss": "здивот мој"
+      "gloss": "здиshot мој"
     },
     {
       "surface": "בי",
@@ -58,9 +37,9 @@
     },
     {
       "surface": "באפי",
-      "gloss": "во ноздрите мои"
+      "gloss": "во носот мој"
     }
   ],
-  "timestamp": "2026-10-20T00:12:43.930739865Z",
+  "timestamp": "2026-10-20T04:11:15.274506838Z",
   "model": "glm-5.3"
 }

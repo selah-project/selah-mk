@@ -5,44 +5,28 @@
   "book": "jeremiah",
   "lang": "mk",
   "chapter": 51,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "האגמים",
-      "rationale": "мочуришта\/трски\/тврдини од трска — KJV „трски“, JPS „замоци“; дадено трските"
-    }
-  ],
-  "translation": "и премините се фатени, и ⟨את⟩ трските ги изгорe со оган, и војниците се преплашија.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "9e0667be2e372106fceaa9511c9b2d67c41ceb4e6d858c853189623e6083a484",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/jeremiah\/51\/29-32.1792451267520.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "и премините беа заземени, и ⟨את⟩ мочуриштата ги изгореа со оган, и луѓето на војната се уплашија.",
   "tokens": [
     {
       "surface": "והמעברות",
-      "gloss": "и премините"
+      "gloss": "премините"
     },
     {
       "surface": "נתפשו",
-      "gloss": "се фатени"
+      "gloss": "беа заземени"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "трските"
+      "marks": "мочуриштата"
     },
     {
       "surface": "האגמים",
-      "gloss": "трските"
+      "gloss": "мочуриштата"
     },
     {
       "surface": "שרפו",
-      "gloss": "ги изгора"
+      "gloss": "ги изгореа"
     },
     {
       "surface": "באש",
@@ -50,7 +34,7 @@
     },
     {
       "surface": "ואנשי",
-      "gloss": "и војниците"
+      "gloss": "и луѓето"
     },
     {
       "surface": "המלחמה",
@@ -58,9 +42,9 @@
     },
     {
       "surface": "נבהלו",
-      "gloss": "се преплашија"
+      "gloss": "се уплашија"
     }
   ],
-  "timestamp": "2026-10-19T23:07:47.522373105Z",
+  "timestamp": "2026-10-20T04:09:45.053874235Z",
   "model": "glm-5.3"
 }

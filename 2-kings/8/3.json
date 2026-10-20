@@ -5,36 +5,47 @@
   "book": "2-kings",
   "lang": "mk",
   "chapter": 8,
-  "notes": [
+  "translation": "И на крајот од седум години се врати жената од земјата на Плиштимците, и излезе да извика кон царот ⟨за⟩ својот дом и ⟨за⟩ својата нива.",
+  "tokens": [
     {
-      "kind": "idiom",
-      "subject": "לצעק אל המלך",
-      "rationale": "буквално „да извика кон царот“ — судско барaње со извик, не само молба"
+      "surface": "ויהי",
+      "gloss": "И"
     },
     {
-      "kind": "measurement",
-      "subject": "седум години",
-      "rationale": "крајот на броеното време е одбележан"
-    }
-  ],
-  "translation": "И било на крајот од седум години, та се врати жената од земјата Филистејци и излезе да вика кон царот за домот свој и за полето свое.",
-  "provenance": {
-    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
-    "user-sha256": "168f7387fedcea57ec622e000f8dc7b7097a97b4019af522a33ee47e5b8443f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-kings\/8\/1-4.1792449150859.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
-  "tokens": [
+      "surface": "מקצה",
+      "gloss": "на крајот"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седум"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "се врати"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земјата"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "на Плиштимците"
+    },
     {
       "surface": "ותצא",
       "gloss": "и излезе"
     },
     {
       "surface": "לצעק",
-      "gloss": "да вика"
+      "gloss": "да извика"
     },
     {
       "surface": "אל",
@@ -46,21 +57,21 @@
     },
     {
       "surface": "אל",
-      "gloss": "за"
+      "gloss": "⟨за⟩"
     },
     {
       "surface": "ביתה",
-      "gloss": "домот свој"
+      "gloss": "својот дом"
     },
     {
       "surface": "ואל",
-      "gloss": "и за"
+      "gloss": "и ⟨за⟩"
     },
     {
       "surface": "שדה",
-      "gloss": "полето свое"
+      "gloss": "својата нива"
     }
   ],
-  "timestamp": "2026-10-19T22:32:30.861878056Z",
+  "timestamp": "2026-10-20T03:32:01.261492841Z",
   "model": "glm-5.3"
 }

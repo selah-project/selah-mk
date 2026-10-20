@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨се⟩",
-      "rationale": "Македонските возвратни глаголи бараат „се“ што хебрејскиот го нема"
-    },
-    {
-      "kind": "alternative",
-      "subject": "сам",
-      "rationale": "יחיס — „единствен\/единечен“; може и „осамен“ или „единок“"
-    }
-  ],
-  "translation": "Обрни ⟨се⟩ кон мене и смилувај ⟨се⟩ на мене, зашто сам и беден сум јас.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "2a4a084d38c9048d9451005b7fcdac57ce53288afb945c9eaa0475b240f2053a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/25\/13-16.1792453078447.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Обрати се кон мене и зајќи ми ⟨се⟩, зашто сам и беден сум јас.",
   "tokens": [
     {
       "surface": "פנה",
-      "gloss": "обрни"
+      "gloss": "Обрати се"
     },
     {
       "surface": "אלי",
@@ -38,16 +17,15 @@
     },
     {
       "surface": "וחנני",
-      "gloss": "и смилувај ми се"
+      "gloss": "и зајќи ми ⟨се⟩"
     },
     {
       "surface": "כי",
       "gloss": "зашто"
     },
     {
-      "surface": "יוסף",
-      "gloss": null,
-      "rationale": null
+      "surface": "יחיד",
+      "gloss": "сам"
     },
     {
       "surface": "ועני",
@@ -55,9 +33,9 @@
     },
     {
       "surface": "אני",
-      "gloss": "јас"
+      "gloss": "сум јас"
     }
   ],
-  "timestamp": "2026-10-19T23:37:58.448008117Z",
+  "timestamp": "2026-10-20T04:30:20.570547219Z",
   "model": "glm-5.3"
 }

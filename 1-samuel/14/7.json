@@ -5,29 +5,7 @@
   "book": "1-samuel",
   "lang": "mk",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "одлучи",
-      "rationale": "נטה буквално 'склонись\/пофрли се' — намери кон, не само 'одете'"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨е⟩",
-      "gloss": "",
-      "rationale": "македонскиот бара копула"
-    }
-  ],
-  "translation": "И му рече носачот на оружјата негови: Прави сè што ⟨е⟩ во срцето твое — одлучи ⟨си⟩; еве ме, јас сум со тебе како срцето твое.",
-  "provenance": {
-    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
-    "user-sha256": "8c12ceb12aa27484046b689bc581ca37953665bbfdb0f1554390b27fc9e21e2a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/14\/5-8.1792446843052.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И му рече носачот на неговите оружја: Прави го сè што е во срцето твое; приклони ⟨се⟩ за себе — еве ме, јас ⟨сум⟩ со тебе како срцето твое.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,7 +21,7 @@
     },
     {
       "surface": "כליו",
-      "gloss": "на оружјата негови"
+      "gloss": "на неговите оружја"
     },
     {
       "surface": "עשה",
@@ -63,11 +41,11 @@
     },
     {
       "surface": "נטה",
-      "gloss": "одлучи"
+      "gloss": "приклони"
     },
     {
       "surface": "לך",
-      "gloss": "⟨си⟩"
+      "gloss": "за себе"
     },
     {
       "surface": "הנני",
@@ -82,6 +60,6 @@
       "gloss": "како срцето твое"
     }
   ],
-  "timestamp": "2026-10-19T21:54:03.053936843Z",
+  "timestamp": "2026-10-20T03:17:35.770057344Z",
   "model": "glm-5.3"
 }

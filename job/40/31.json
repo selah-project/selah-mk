@@ -5,36 +5,15 @@
   "book": "job",
   "lang": "mk",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "צלצל",
-      "rationale": "буквално 'звекот\/шум' — тука рибарски копја што жештокаат; 'harпуни' е толкување"
-    },
-    {
-      "kind": "hapax",
-      "subject": "שכות",
-      "rationale": "стрели-трни — збор што ретко се јавува, копја со трнест врв"
-    }
-  ],
-  "translation": "Ќе го наполниш ли кожата негова со стрели, и главата негова со рибарски harпуни?",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "26f5f4d136ad7fce20d7e1a277e0e6ac80ad39bc2a91ee078ed41cb8ad21ae26",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/40\/29-32.1792455360842.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Дали можеш да ја наполниш кожата негова со шилестии стрели, и главата негова со рибино-копје?",
   "tokens": [
     {
       "surface": "התמלא",
-      "gloss": "Ќе го наполниш ли"
+      "gloss": "да ли да наполниш"
     },
     {
       "surface": "בשכות",
-      "gloss": "со стрели"
+      "gloss": "со шилестии стрели"
     },
     {
       "surface": "עורו",
@@ -42,17 +21,17 @@
     },
     {
       "surface": "ובצלצל",
-      "gloss": "и со harпуни"
+      "gloss": "и со трска-копје"
     },
     {
       "surface": "דגים",
-      "gloss": "рибарски"
+      "gloss": "риби"
     },
     {
       "surface": "ראשו",
       "gloss": "главата негова"
     }
   ],
-  "timestamp": "2026-10-20T00:16:00.842930280Z",
+  "timestamp": "2026-10-20T04:12:47.291440866Z",
   "model": "glm-5.3"
 }

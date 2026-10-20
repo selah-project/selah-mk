@@ -5,40 +5,19 @@
   "book": "proverbs",
   "lang": "mk",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "бисери",
-      "rationale": "מפניים е речиси хапакс: 'бисери', 'корал' (LXX) или 'рубини' (традицијата) — сите се погоди"
-    },
-    {
-      "kind": "addition",
-      "subject": "се",
-      "rationale": "македонскиот бара возвратна честичка кај „рамни се“; хебрејскиот ја нема"
-    }
-  ],
-  "translation": "Драгоценa е таа повеќе од бисери, и сите желби твои не се ⟨се⟩ рамни со неа.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "7932d61661b4d4a0808ca5e36159d9ac5c828bd5d220084a535f681cbc2b3689",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/3\/13-16.1792454311685.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Поскапа ⟨е⟩ таа од скапоцени камења, и сите твои желби нема да ⟨се⟩ израмнат со неа.",
   "tokens": [
     {
       "surface": "יקרה",
-      "gloss": "драгоценa"
+      "gloss": "поскапа"
     },
     {
       "surface": "היא",
       "gloss": "таа"
     },
     {
-      "surface": "мфнијм",
-      "gloss": "од бисери"
+      "surface": "מפניים",
+      "gloss": "скапоцени камења"
     },
     {
       "surface": "וכל",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "חפציך",
-      "gloss": "желби твои"
+      "gloss": "твоите желби"
     },
     {
       "surface": "לא",
@@ -54,13 +33,13 @@
     },
     {
       "surface": "ישוו",
-      "gloss": "се рамни"
+      "gloss": "ќе израмнат"
     },
     {
       "surface": "בה",
       "gloss": "со неа"
     }
   ],
-  "timestamp": "2026-10-19T23:58:31.685965249Z",
+  "timestamp": "2026-10-20T04:28:33.079966019Z",
   "model": "glm-5.3"
 }

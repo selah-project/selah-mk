@@ -5,31 +5,10 @@
   "book": "1-kings",
   "lang": "mk",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "הלוא הם כתובים",
-      "rationale": "Реторичко прашање „не се ли тие напишани“ — хебрејскиот очекуван одговор е „да“"
-    },
-    {
-      "kind": "substitution",
-      "subject": "על",
-      "rationale": "буквално „врз\/над“ книгата, македонскиот бара „во“"
-    }
-  ],
-  "translation": "А останатите работи на Шеломо и сè што направи, и неговата мудрост — не се ли тие напишани во книгата на работите на Шеломо?",
-  "provenance": {
-    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
-    "user-sha256": "cbc5686352073280db1da9c26e022bc6c1af21427e447e8dcb73cda7b4cdadbb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-kings\/11\/41-43.1792448807316.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "А останатите работи на Шеломо, сè што направил, и неговата мудрост — не се ли тие напишани врз книгата на работите на Шеломо?",
   "tokens": [
     {
-      "surface": "והשאר",
+      "surface": "ויתר",
       "gloss": "А останатите"
     },
     {
@@ -42,7 +21,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "и сè"
+      "gloss": "сè"
     },
     {
       "surface": "אשר",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "направи"
+      "gloss": "направил"
     },
     {
       "surface": "וחכמתו",
@@ -58,19 +37,19 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "не"
+      "gloss": "не се ли"
     },
     {
       "surface": "הם",
       "gloss": "тие"
     },
     {
-      "surface": "כתובים",
+      "surface": "כתבים",
       "gloss": "напишани"
     },
     {
       "surface": "על",
-      "gloss": "во"
+      "gloss": "врз"
     },
     {
       "surface": "ספר",
@@ -78,13 +57,13 @@
     },
     {
       "surface": "דברי",
-      "gloss": "работите"
+      "gloss": "на работите"
     },
     {
       "surface": "שלמה",
       "gloss": "на Шеломо"
     }
   ],
-  "timestamp": "2026-10-19T22:26:47.317626790Z",
+  "timestamp": "2026-10-20T03:14:50.625150588Z",
   "model": "glm-5.3"
 }

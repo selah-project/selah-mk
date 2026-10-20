@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "mk",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "е",
-      "rationale": "Хебрејскиот нема копула во 'ова уредба'."
-    },
-    {
-      "kind": "you",
-      "subject": "на Моше и на Ахарон",
-      "rationale": "Директно обраќање — заповед упатена преку нив до народот."
-    },
-    {
-      "kind": "substitution",
-      "subject": "син на туѓинец",
-      "rationale": "Букв. 'син на туѓ(ост)'; 'туѓинец' за бришење на сликата."
-    }
-  ],
-  "translation": "И рече Јахве на Моше и на Ахарон: Ова ⟨е⟩ уредбата на песахот — секој син на туѓинец да не јаде од него.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "5596905f1927ef92250bc865a60405ee08d894b08fda6dfc6bf35fcfd44931f3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/12\/41-44.1792443505516.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И рече Јахве на Моше и на Ахарон: Ова ⟨е⟩ уредбата на Песахот — никако син на туѓинец нема да јаде ⟨את⟩ ⟨од него⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "הפסח",
-      "gloss": "на песахот"
+      "gloss": "на Песахот"
     },
     {
       "surface": "כל",
-      "gloss": "секoj"
+      "gloss": "никако"
     },
     {
       "surface": "בן",
@@ -79,17 +53,17 @@
     },
     {
       "surface": "לא",
-      "gloss": "да не"
+      "gloss": "нема"
     },
     {
       "surface": "יאכל",
-      "gloss": "јаде"
+      "gloss": "да јаде"
     },
     {
       "surface": "בו",
-      "gloss": "од него"
+      "gloss": "⟨од него⟩"
     }
   ],
-  "timestamp": "2026-10-19T20:58:25.523170634Z",
+  "timestamp": "2026-10-20T03:45:15.405002027Z",
   "model": "glm-5.3"
 }

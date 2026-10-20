@@ -5,31 +5,15 @@
   "book": "genesis",
   "lang": "mk",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "тоа",
-      "rationale": "хебрејскиот הוא е истакнат заменски subjekt; македонскиот го бара за глаткост."
-    }
-  ],
-  "translation": "Сето она што лази и е живо — вам ќе ви биде за храна: како зелениот раст им дадов ви ⟨את⟩ сè.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "47fad036896cddc179b998e31d3fc70a28b26b35f101949440c727cbb289724d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/9\/1-4.1792442458596.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Сето ⟨את⟩ она што лази и е живо — вам ќе биде за храна: како зелениот тревен раст ви дадов ⟨את⟩ сето.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "сè"
+      "gloss": "сето"
     },
     {
       "surface": "רמש",
-      "gloss": "што лази"
+      "gloss": "она што лази"
     },
     {
       "surface": "אשר",
@@ -61,7 +45,7 @@
     },
     {
       "surface": "עשב",
-      "gloss": "раст"
+      "gloss": "тревен раст"
     },
     {
       "surface": "נתתי",
@@ -74,13 +58,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "сè"
+      "marks": "сето"
     },
     {
       "surface": "כל",
-      "gloss": "сè"
+      "gloss": "сето"
     }
   ],
-  "timestamp": "2026-10-19T20:40:58.601172820Z",
+  "timestamp": "2026-10-20T04:34:46.282922632Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "proverbs",
   "lang": "mk",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Тора",
-      "rationale": "תורתי е 'мојата Тора', не 'мојот закон' — зборот минува според звукот"
-    },
-    {
-      "kind": "you",
-      "subject": "Синко мој",
-      "rationale": "директен обрат кон синот, типично обраќање на Мишле"
-    }
-  ],
-  "translation": "Синко мој, не ја заборавај мојата Тора, а моите заповеди нека ги чува срцето твое;",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "9e3efa0200e526c25cc16d6b56f2d5b0283d7a5b0748e09b2f2ef5fe56db5397",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/3\/1-4.1792454248529.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Синко мој, не ја заборавај ⟨את⟩ Тора⟨та⟩ моја, а заповедите мои нека ги чува срцето твое;",
   "tokens": [
     {
       "surface": "בני",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "תורתי",
-      "gloss": "мојата Тора"
+      "gloss": "Тора⟨та⟩ моја"
     },
     {
       "surface": "אל",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "תשכח",
-      "gloss": "зaboravaj"
+      "gloss": "ја заборавај"
     },
     {
       "surface": "ומצותי",
-      "gloss": "а моите заповеди"
+      "gloss": "а заповедите мои"
     },
     {
       "surface": "יצר",
@@ -57,6 +36,6 @@
       "gloss": "срцето твое"
     }
   ],
-  "timestamp": "2026-10-19T23:57:28.530257276Z",
+  "timestamp": "2026-10-20T04:28:17.903814231Z",
   "model": "glm-5.3"
 }

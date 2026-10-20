@@ -5,28 +5,7 @@
   "book": "job",
   "lang": "mk",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "פימה",
-      "rationale": "„дебелица\/гојност“ — се јавува само тука во Танах."
-    },
-    {
-      "kind": "crux",
-      "subject": "עלי כסל",
-      "rationale": "„врз слабините“ (физичка дебелина) наспроти YLT „врз довербата“ (כסל исто и „самоповерување“)."
-    }
-  ],
-  "translation": "Зашто го покри лицето свое со сало́то свое и прави дебелица на слабините свои.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "5ec23ff52b7d8459c06b636b6d2235e6251f95f4be6e0ebfa915365ade9ab0c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/job\/15\/25-28.1792455002220.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Зашто го покри своето лице со својата дебелина, и прави⟨е⟩ телови масти врз колковите.",
   "tokens": [
     {
       "surface": "כי",
@@ -38,29 +17,29 @@
     },
     {
       "surface": "פניו",
-      "gloss": "лицето свое"
+      "gloss": "своето лице"
     },
     {
       "surface": "בחלבו",
-      "gloss": "со сало́то свое"
+      "gloss": "со својата дебелина"
     },
     {
       "surface": "ויעש",
       "gloss": "и прави"
     },
     {
-      "surface": "пימה",
-      "gloss": "дебелица"
+      "surface": "פימה",
+      "gloss": "телови масти"
     },
     {
       "surface": "עלי",
-      "gloss": "на"
+      "gloss": "врз"
     },
     {
       "surface": "כסל",
-      "gloss": "слабините свои"
+      "gloss": "колковите"
     }
   ],
-  "timestamp": "2026-10-20T00:10:02.221279914Z",
+  "timestamp": "2026-10-20T04:11:02.524794941Z",
   "model": "glm-5.3"
 }

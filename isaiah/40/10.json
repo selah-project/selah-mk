@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "mk",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨е⟩",
-      "rationale": "Хебрејскиот нема копула во „наградата негова со него“."
-    },
-    {
-      "kind": "crux",
-      "subject": "אתו",
-      "rationale": "Овде אתו е предлог „со него“, не објектниот маркер — но gloss носи ⟨את⟩ по правило."
-    }
-  ],
-  "translation": "Еве, Адонај Јахве доаѓа со сила, и раката негова ќе владее ⟨за него⟩; еве, наградата негова ⟨е⟩ со него и делото негово пред него.",
-  "provenance": {
-    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
-    "user-sha256": "2b45e05ca91f290114752edbe6c4ea89335c575badc0098a7398ad28ad321a5b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/isaiah\/40\/9-12.1792450027603.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Еве, Адонај Јахве ⟨е⟩ доаѓа со сила, и раката негова владее за ⟨него⟩; еве, наградата негова ⟨е⟩ со ⟨את⟩ ⟨него⟩, и делото негово пред ⟨него⟩.",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "еве"
+      "gloss": "Еве"
     },
     {
       "surface": "אדני",
@@ -54,15 +33,15 @@
     },
     {
       "surface": "משלה",
-      "gloss": "ќе владее"
+      "gloss": "владее"
     },
     {
       "surface": "לו",
-      "gloss": "за него"
+      "gloss": "за ⟨него⟩"
     },
     {
       "surface": "הנה",
-      "gloss": "еве"
+      "gloss": "ево"
     },
     {
       "surface": "שכרו",
@@ -71,7 +50,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "со него"
+      "marks": "него"
     },
     {
       "surface": "ופעלתו",
@@ -79,9 +58,9 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "пред него"
+      "gloss": "пред ⟨него⟩"
     }
   ],
-  "timestamp": "2026-10-19T22:47:07.606059639Z",
+  "timestamp": "2026-10-20T04:02:52.852388499Z",
   "model": "glm-5.3"
 }

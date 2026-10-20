@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "mk",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בליעל",
-      "rationale": "безвредници (без профит) или лично име Велијал — задржано како име"
-    },
-    {
-      "kind": "crux",
-      "subject": "כמחריש",
-      "rationale": "'како онемел\/замолен' — од корен 'да моли немо'; традицијата: he held his peace (KJV) vs as one deaf (YLТ) — Шаул молчи или се прави дека не чу"
-    }
-  ],
-  "translation": "А синовите на Велијал рекоа: Што ќе нè спаси овој? И го презреа, и не му донесоа дар. И беше ⟨како⟩ замолен.",
-  "provenance": {
-    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
-    "user-sha256": "bea1b9558a093769f9bab62a153e7e59cfa4a2161f24ce4668eea4963ee4c615",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-samuel\/10\/25-27.1792446785113.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И синовите на Велијал рекоа: Што ќе нè избави овој? И го презреа, и не му донесоа дар; а тој беше ⟨како⟩ нем ⟨се држеше⟩.",
   "tokens": [
     {
       "surface": "ובני",
-      "gloss": "а синовите"
+      "gloss": "И синовите"
     },
     {
       "surface": "בליעל",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "מה",
-      "gloss": "што"
+      "gloss": "Што"
     },
     {
       "surface": "ישענו",
-      "gloss": "ќе нè спаси"
+      "gloss": "ќе нè избави"
     },
     {
       "surface": "זה",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "הביאו",
-      "gloss": "му донесоа"
+      "gloss": "донесоа"
     },
     {
       "surface": "לו",
@@ -74,13 +53,13 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "и беше"
+      "gloss": "а тој беше"
     },
     {
       "surface": "כמחריש",
-      "gloss": "како замолен"
+      "gloss": "како нем"
     }
   ],
-  "timestamp": "2026-10-19T21:53:05.114304535Z",
+  "timestamp": "2026-10-20T03:17:56.601150263Z",
   "model": "glm-5.3"
 }

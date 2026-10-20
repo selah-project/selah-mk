@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "но",
-      "rationale": "Хебрејскиот нема спротивителен збор; приговорот е во самиот редослед — го обележав со ⟨но⟩."
-    },
-    {
-      "kind": "substitution",
-      "subject": "излажавме",
-      "rationale": "שקר е лага\/неверно постапување во зборови; во однос на заветот — неверство."
-    }
-  ],
-  "translation": "Сè ова ни дојде, ⟨но⟩ не те заборавивме и не излажавме во заветот твој.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "af2857dcbf67f5d8b33fbb5b3f7d7f8f9ff337c25f88568f6bdd8c66d187c799",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/44\/17-20.1792453260037.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Сето ова нè снајде, и не те заборавивме, и не излагавме во ⟨со⟩ заветот твој.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "Сè"
+      "gloss": "сето"
     },
     {
       "surface": "זאת",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "באתנו",
-      "gloss": "ни дојде"
+      "gloss": "нè снајде"
     },
     {
       "surface": "ולא",
@@ -54,13 +33,13 @@
     },
     {
       "surface": "שקרנו",
-      "gloss": "излажавме"
+      "gloss": "излагавме"
     },
     {
       "surface": "בבריתך",
       "gloss": "во заветот твој"
     }
   ],
-  "timestamp": "2026-10-19T23:41:00.038230567Z",
+  "timestamp": "2026-10-20T04:31:06.963724042Z",
   "model": "glm-5.3"
 }

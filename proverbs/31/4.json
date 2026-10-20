@@ -5,41 +5,15 @@
   "book": "proverbs",
   "lang": "mk",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "או",
-      "rationale": "או веројатно „желба“ (како YLT „a desire of strong drink“) или прашалната форма „каде е?“ (ASV\/JPS); тука елидирано."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אל למלכים … אל למלכים",
-      "rationale": "Двојно повторување на забраната — ритам на мајчиното поучение."
-    },
-    {
-      "kind": "you",
-      "subject": "до Лемуел",
-      "rationale": "Директен обращт: „Лемуеле“."
-    }
-  ],
-  "translation": "Не им припаѓа на царевите, Лемуеле, не им припаѓа на царевите да пијат вино, ни на велможите жесток пијалок.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "dde9941be6f30a67e18cc6bb786b08eee80d9b202a3e0788ab97bcc64ada7b1d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/proverbs\/31\/1-4.1792454787372.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Не е за царевите, Лемуеле, не е за царевите да пијат вино, ни за велможите да копнеат по жесток пијалак.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "Не"
+      "gloss": "не е"
     },
     {
       "surface": "למלכים",
-      "gloss": "им припаѓа на царевите"
+      "gloss": "за царевите"
     },
     {
       "surface": "למואל",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "Не"
+      "gloss": "не е"
     },
     {
       "surface": "למלכים",
-      "gloss": "им припаѓа на царевите"
+      "gloss": "за царевите"
     },
     {
       "surface": "שתו",
@@ -63,17 +37,17 @@
     },
     {
       "surface": "ולרוזנים",
-      "gloss": "ни на велможите"
+      "gloss": "ни за велможите"
     },
     {
       "surface": "או",
-      "gloss": ""
+      "gloss": "да копнеат"
     },
     {
       "surface": "שכר",
-      "gloss": "жесток пијалок"
+      "gloss": "жесток пијалак"
     }
   ],
-  "timestamp": "2026-10-20T00:06:27.373120500Z",
+  "timestamp": "2026-10-20T04:28:21.798186508Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "exodus",
   "lang": "mk",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "תעלנו",
-      "rationale": "'нè кревај\/не нè изведи' — KJV и ASV велат 'with me', хебрејскиот е 'не'"
-    },
-    {
-      "kind": "you",
-      "subject": "Моше му се обраќа на Јахве",
-      "rationale": "директен обраќај соainsPlease"
-    }
-  ],
-  "translation": "И му рече: Ако лицето твое не оди, не нè кревај одтука.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "a50943af0ba1e4122df30205c0af43598c53a6af008cc33aa6af33a2c3f02d26",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/33\/13-16.1792443897642.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И Моше Му рече: ако Твоето лице не оди ⟨со нас⟩, не нè кревај одтука.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "И рече"
+      "gloss": "и рече"
     },
     {
       "surface": "אליו",
-      "gloss": "му"
+      "gloss": "Му"
     },
     {
       "surface": "אם",
-      "gloss": "Ако"
+      "gloss": "ака"
     },
     {
       "surface": "אין",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "פניך",
-      "gloss": "лицето твое"
+      "gloss": "Твоето лице"
     },
     {
       "surface": "הלכים",
@@ -65,6 +44,6 @@
       "gloss": "одтука"
     }
   ],
-  "timestamp": "2026-10-19T21:04:57.647736060Z",
+  "timestamp": "2026-10-20T03:47:16.410709630Z",
   "model": "glm-5.3"
 }

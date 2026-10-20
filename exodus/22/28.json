@@ -5,36 +5,15 @@
   "book": "exodus",
   "lang": "mk",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "דמע",
-      "rationale": "буквално „солза“ — овде сок од маслинки или грозје, слика на течност што тече"
-    },
-    {
-      "kind": "measurement",
-      "subject": "приноси",
-      "rationale": "препис за време на принесување — не одложувај"
-    }
-  ],
-  "translation": "Полнината своја и сокот свој не одложувај; првороденото од синовите свои давaj мене.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "c2af7ba27c532a768ccf1cc6ff3da38ff52fc8ca557f4944e4e16b00a82d4d52",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/22\/25-28.1792443660822.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Полнотата твоја и солзата твоја не ⟨ја⟩ одложувај; првороденото од синовите твои дај Ми.",
   "tokens": [
     {
       "surface": "מלאתך",
-      "gloss": "полнината своја"
+      "gloss": "полнотата твоја"
     },
     {
       "surface": "ודמעך",
-      "gloss": "и сокот свој"
+      "gloss": "и солзата твоја"
     },
     {
       "surface": "לא",
@@ -50,17 +29,17 @@
     },
     {
       "surface": "בניך",
-      "gloss": "од синовите свои"
+      "gloss": "од синовите твои"
     },
     {
       "surface": "תתן",
-      "gloss": "даваj"
+      "gloss": "дај"
     },
     {
       "surface": "לי",
-      "gloss": "мене"
+      "gloss": "Ми"
     }
   ],
-  "timestamp": "2026-10-19T21:01:00.829680520Z",
+  "timestamp": "2026-10-20T03:45:51.495032166Z",
   "model": "glm-5.3"
 }

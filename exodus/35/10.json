@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "mk",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "חכם לב",
-      "rationale": "Дословно „мудар на срце“ — хебрејската пригатка за вешт занаетчија."
-    },
-    {
-      "kind": "invitation",
-      "subject": "до Израел",
-      "rationale": "Повик кон народот — императивни форми нека дојде, нека направи."
-    }
-  ],
-  "translation": "И секој мудар по срце меѓу вас нека дојде и нека го направи ⟨את⟩ сè што заповеда Јахве:",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "3721dd6abfef58bb0395f9712a6065e5d96aa8062f39c472ac0101ef6a09f21f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/exodus\/35\/9-12.1792443906659.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И секој мудар на срце меѓу вас нека дојде и нека го направи ⟨את⟩ сè што заповеда Јахве —",
   "tokens": [
     {
       "surface": "וכל",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "לב",
-      "gloss": "по срце"
+      "gloss": "на срце"
     },
     {
       "surface": "בכם",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ויעשו",
-      "gloss": "и нека го направи"
+      "gloss": "и нека направи"
     },
     {
       "surface": "את",
@@ -74,6 +53,6 @@
       "gloss": "Јахве"
     }
   ],
-  "timestamp": "2026-10-19T21:05:06.661198109Z",
+  "timestamp": "2026-10-20T03:47:16.383576262Z",
   "model": "glm-5.3"
 }

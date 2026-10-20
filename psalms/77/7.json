@@ -5,36 +5,15 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 77,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "песната",
-      "rationale": "негинати може да значи и „меланхолија\/жалост“ — LXX чита „се разјадував“; избрано „песна“"
-    },
-    {
-      "kind": "substitution",
-      "subject": "руах",
-      "rationale": "руах останува руах — дух, здив, ветер во еден збор"
-    }
-  ],
-  "translation": "Се повикувам на песната моја во ноќта; со срцето мое rozmисluвам, и руах мој истражува.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "6a84d3cd64e25f3fe64598015cc650f563b9fc12bab644192602b75f8177ab93",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/77\/5-8.1792453572008.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Сеќавам на својата мелографија во ноќта, со срцето свое размислувам, и мојата руах упорно бара.",
   "tokens": [
     {
       "surface": "אזכרה",
-      "gloss": "Се повикувам"
+      "gloss": "Сеќавам"
     },
     {
       "surface": "נגינתי",
-      "gloss": "на песната моја"
+      "gloss": "на својата мелографија"
     },
     {
       "surface": "בלילה",
@@ -46,21 +25,21 @@
     },
     {
       "surface": "לבבי",
-      "gloss": "срцето мое"
+      "gloss": "срцето свое"
     },
     {
       "surface": "אשיחה",
-      "gloss": "razmisluвам"
+      "gloss": "размислувам"
     },
     {
       "surface": "ויחפש",
-      "gloss": "и истражува"
+      "gloss": "и упорно бара"
     },
     {
       "surface": "רוחי",
-      "gloss": "руах мој"
+      "gloss": "мојата руах"
     }
   ],
-  "timestamp": "2026-10-19T23:46:12.009118044Z",
+  "timestamp": "2026-10-20T04:32:06.488492485Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "zechariah",
   "lang": "mk",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "се",
-      "rationale": "нифал perfecto на עור бара рефлексивна честичка на македонски"
-    },
-    {
-      "kind": "invitation",
-      "subject": "сè тело",
-      "rationale": "повик за тишина упатен кон сите луѓе пред Јахве"
-    }
-  ],
-  "translation": "Замолчете, сè тело, пред лицето на Јахве, зашто ⟨се⟩ разбуди од светото свое живеалиште.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "11eaad8a06b62c46377bff29b15d03ac42fa16950cc282321e5faea6b3e77413",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/zechariah\/2\/17-17.1792452677260.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Замолчете, сето ⟨е⟩ тело, пред лицето на Јахве, зашто ⟨тој⟩ се разбуди од светото ⟨е⟩ живеалиште ⟨негово⟩.",
   "tokens": [
     {
       "surface": "הס",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "сè"
+      "gloss": "сето"
     },
     {
       "surface": "בשר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "מפני",
-      "gloss": "пред лицето"
+      "gloss": "пред лицето на"
     },
     {
       "surface": "יהוה",
@@ -54,17 +33,17 @@
     },
     {
       "surface": "נעור",
-      "gloss": "разбуди"
+      "gloss": "се разбуди"
     },
     {
       "surface": "ממעון",
-      "gloss": "од живеалиштето"
+      "gloss": "од живеалиште"
     },
     {
       "surface": "קדשו",
-      "gloss": "светото свое"
+      "gloss": "светото негово"
     }
   ],
-  "timestamp": "2026-10-19T23:31:17.260694407Z",
+  "timestamp": "2026-10-20T04:34:19.023171175Z",
   "model": "glm-5.3"
 }

@@ -6,15 +6,6 @@
   "lang": "mk",
   "chapter": 8,
   "translation": "и Гера, и Шефуфан, и Хурам.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "e76b22e0627a4ad16b6ffa23e9907de17a283bef0d312cbb6d88aec91c7162b9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/8\/5-8.1792456911452.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
   "tokens": [
     {
       "surface": "וגרא",
@@ -25,10 +16,10 @@
       "gloss": "и Шефуфан"
     },
     {
-      "surface": "иחורם",
+      "surface": "וחורם",
       "gloss": "и Хурам"
     }
   ],
-  "timestamp": "2026-10-20T00:41:51.452743534Z",
+  "timestamp": "2026-10-20T03:13:58.518603857Z",
   "model": "glm-5.3"
 }

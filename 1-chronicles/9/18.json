@@ -5,43 +5,27 @@
   "book": "1-chronicles",
   "lang": "mk",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ועד הנה",
-      "rationale": "'до сега\/дотогаш' — временски ('до денес') или локално ('до таа точка')"
-    }
-  ],
-  "translation": "а дотогаш кај кралската порта, на исток — тие се вратарите за камповите на синовите на Леви.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "28bf7ba2a3a6ddfa8c29ba678c63cdd11e1d92bf64b421f5e8f516d5beb44179",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/9\/17-20.1792456959956.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И до денес ⟨тие⟩ стојат на портата на царот, кон исток; тие се вратарите за логорите на синовите Левијеви.",
   "tokens": [
     {
       "surface": "ועד",
-      "gloss": "а сè до"
+      "gloss": "и до"
     },
     {
       "surface": "הנה",
-      "gloss": "дотогаш"
+      "gloss": "денс"
     },
     {
       "surface": "בשער",
-      "gloss": "кај портата"
+      "gloss": "на портата"
     },
     {
       "surface": "המלך",
-      "gloss": "на кралот"
+      "gloss": "на царот"
     },
     {
       "surface": "מזרחה",
-      "gloss": "на исток"
+      "gloss": "кон исток"
     },
     {
       "surface": "המה",
@@ -53,17 +37,17 @@
     },
     {
       "surface": "למחנות",
-      "gloss": "за камповите"
+      "gloss": "за логорите"
     },
     {
       "surface": "בני",
-      "gloss": "синовите"
+      "gloss": "на синовите"
     },
     {
       "surface": "לוי",
-      "gloss": "на Леви"
+      "gloss": "Леви"
     }
   ],
-  "timestamp": "2026-10-20T00:42:39.957712490Z",
+  "timestamp": "2026-10-20T03:14:40.108756385Z",
   "model": "glm-5.3"
 }

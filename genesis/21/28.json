@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "mk",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "седум",
-      "rationale": "Бројот седум е нагласен и ќе стане клучно прашање во стих 29."
-    },
-    {
-      "kind": "substitution",
-      "subject": "јагниња-овни",
-      "rationale": "כבשה е 'женско јагне од овца' — македонскиот нема еден збор за тоа."
-    }
-  ],
-  "translation": "И Аврахам ги постави ⟨את⟩ седумте јагниња-овни од стадото настрана сами.",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "49002eb342b5c2d67127fcb373e7f2c43ed2e5431afb9a74c09f7a5eb374ff74",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/genesis\/21\/25-28.1792442619281.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И Аврахам ги постави ⟨את⟩ седум јагниња-овни од стадото одделно.",
   "tokens": [
     {
       "surface": "ויצב",
-      "gloss": "ги постави"
+      "gloss": "и постави"
     },
     {
       "surface": "אברהם",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "седумте јагниња-овни"
+      "marks": "седум јагниња-овни"
     },
     {
       "surface": "שבע",
-      "gloss": "седумте"
+      "gloss": "седум"
     },
     {
       "surface": "כבשת",
@@ -51,13 +30,13 @@
     },
     {
       "surface": "הצאן",
-      "gloss": "од стадото"
+      "gloss": "на стадото"
     },
     {
-      "surface": "лבדהן",
-      "gloss": "настрана сами"
+      "surface": "לבדהן",
+      "gloss": "одделно"
     }
   ],
-  "timestamp": "2026-10-19T20:43:39.283310023Z",
+  "timestamp": "2026-10-20T03:56:36.275806057Z",
   "model": "glm-5.3"
 }

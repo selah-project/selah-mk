@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "mk",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עד אנה … ועד אנה",
-      "rationale": "двојно повторување 'до кога' — паралелизам што го засилува приговорот"
-    },
-    {
-      "kind": "crux",
-      "subject": "ינאצני",
-      "rationale": "'презира\/pagлувува\/provokes' — KJV 'provoke', ASV\/JPS 'despise'"
-    },
-    {
-      "kind": "you",
-      "subject": "до Моше",
-      "rationale": "Јахве се обраќа директно на Моше со реторичко прашање"
-    }
-  ],
-  "translation": "И рече Јахве на Моше: До кога ќе Me презира овој народ, и до кога нема да веруваат во Мене, заради сите знаци што ги направив во неговата средина?",
-  "provenance": {
-    "system-sha256": "10fbcbf34321f135e2eb9194887121c802b81e6c22a3b4529039e021359269bb",
-    "user-sha256": "f6907bd14e11587dcc09a235beae6a6789133c1bfa4de14bbe494ee83127bec0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/numbers\/14\/9-12.1792444842109.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И Јахве му рече на Моше: До кога овој народ ќе ме презира, и до кога нема да веруваат во мене, заедно со сите знаци што ги направив во неговата средина?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "и рече"
+      "gloss": "И рече"
     },
     {
       "surface": "יהוה",
@@ -55,15 +29,15 @@
     },
     {
       "surface": "אנה",
-      "gloss": "колку долго"
+      "gloss": "кога"
     },
     {
       "surface": "ינאצני",
-      "gloss": "ќе Me презира"
+      "gloss": "ќе ме презира"
     },
     {
       "surface": "העם",
-      "gloss": "овој народ"
+      "gloss": "народот"
     },
     {
       "surface": "הזה",
@@ -75,27 +49,27 @@
     },
     {
       "surface": "אנה",
-      "gloss": "колку долго"
+      "gloss": "кога"
     },
     {
       "surface": "לא",
-      "gloss": "не"
+      "gloss": "нема"
     },
     {
       "surface": "יאמינו",
-      "gloss": "ќе веруваат"
+      "gloss": "да веруваат"
     },
     {
       "surface": "בי",
-      "gloss": "во Мене"
+      "gloss": "во мене"
     },
     {
       "surface": "בכל",
-      "gloss": "заради сите"
+      "gloss": "заедно со сите"
     },
     {
       "surface": "האתות",
-      "gloss": "знаци"
+      "gloss": "знаците"
     },
     {
       "surface": "אשר",
@@ -110,6 +84,6 @@
       "gloss": "во неговата средина"
     }
   ],
-  "timestamp": "2026-10-19T21:20:42.110808293Z",
+  "timestamp": "2026-10-20T04:23:33.133087851Z",
   "model": "glm-5.3"
 }

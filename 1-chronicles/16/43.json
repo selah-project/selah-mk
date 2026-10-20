@@ -5,23 +5,7 @@
   "book": "1-chronicles",
   "lang": "mk",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ביתו",
-      "rationale": "Хебрејскиот вели 'домот свој' и во третиот и во десеттиот стих — македонскиот го чува двапати"
-    }
-  ],
-  "translation": "И си отиде сè народот, секој човек кон домот свој; и Давид се врати да го благослови ⟨את⟩ домот свој.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "57f81b0feca48bbce70bd141720713744a0b577a58bb4d14a91d42f7815ef9ff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/16\/41-43.1792457037348.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И си отиде си целиот народ, секој човек кон својот дом, а Давид се врати да го благослови ⟨את⟩ својот дом.",
   "tokens": [
     {
       "surface": "וילכו",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "сè"
+      "gloss": "целиот"
     },
     {
       "surface": "העם",
@@ -41,11 +25,11 @@
     },
     {
       "surface": "לביתו",
-      "gloss": "кон домот свој"
+      "gloss": "кон својот дом"
     },
     {
       "surface": "ויסב",
-      "gloss": "и се врати"
+      "gloss": "а се врати"
     },
     {
       "surface": "דויד",
@@ -58,13 +42,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "домот свој"
+      "marks": "својот дом"
     },
     {
       "surface": "ביתו",
-      "gloss": "домот свој"
+      "gloss": "својот дом"
     }
   ],
-  "timestamp": "2026-10-20T00:43:57.349315050Z",
+  "timestamp": "2026-10-20T03:12:32.594567123Z",
   "model": "glm-5.3"
 }

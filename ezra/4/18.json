@@ -5,23 +5,7 @@
   "book": "ezra",
   "lang": "mk",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "разјаснето",
-      "rationale": "מפרש може да значи „преведено“ (од арамејски на персиски) или „јасно\/буквално“; KJV „plainly“, BSB „translated“"
-    }
-  ],
-  "translation": "Писмото што ни го испративте беше разјаснето, прочитано пред мене.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "9ff77f7f146e8ed6e47554aa6333caa5c1fc691c34f4368044c610fecbbabfc5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/ezra\/4\/17-20.1792456404402.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Писмото што ни го испративте е преведено и прочитано пред мене.",
   "tokens": [
     {
       "surface": "נשתונא",
@@ -33,15 +17,15 @@
     },
     {
       "surface": "שלחתון",
-      "gloss": "испративте"
+      "gloss": "го испративте"
     },
     {
       "surface": "עלינא",
       "gloss": "ни"
     },
     {
-      "surface": "мפרש",
-      "gloss": "разјаснето"
+      "surface": "מפרש",
+      "gloss": "преведено"
     },
     {
       "surface": "קרי",
@@ -52,6 +36,6 @@
       "gloss": "пред мене"
     }
   ],
-  "timestamp": "2026-10-20T00:33:24.403642536Z",
+  "timestamp": "2026-10-20T04:35:07.138505464Z",
   "model": "glm-5.3"
 }

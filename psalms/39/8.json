@@ -5,40 +5,19 @@
   "book": "psalms",
   "lang": "mk",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "да",
-      "rationale": "מה קויתי е прашална конструкција без помошен глагол во македонскиот."
-    },
-    {
-      "kind": "you",
-      "subject": "Адонај",
-      "rationale": "Директен обрач до Адонај — врвот на псалмот."
-    }
-  ],
-  "translation": "А сега, што да чекам? Адонај — надежта моја во тебе е.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "d0b9d5ce4e3cd20787d2e9b12fa525c2f5e23e9d2adba20990e82c2d8a24ab38",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/psalms\/39\/5-8.1792453295341.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И сега, Адонај, што⟨е⟩ тоа што го чекам? моето чекање — во тебе е тоа.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "А сега"
+      "gloss": "И сега"
     },
     {
-      "surface": "мах",
+      "surface": "מה",
       "gloss": "што"
     },
     {
       "surface": "קויתי",
-      "gloss": "да чекам"
+      "gloss": "чекам"
     },
     {
       "surface": "אדני",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "תוחלתי",
-      "gloss": "надежта моја"
+      "gloss": "моето чекање"
     },
     {
       "surface": "לך",
@@ -54,9 +33,9 @@
     },
     {
       "surface": "היא",
-      "gloss": "е"
+      "gloss": "е тоа"
     }
   ],
-  "timestamp": "2026-10-19T23:41:35.342678395Z",
+  "timestamp": "2026-10-20T04:30:35.017388956Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "mk",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "со нашите уши",
-      "rationale": "באזנינו — буквално 'во нашите уши'; македонскиот бара 'со'."
-    },
-    {
-      "kind": "you",
-      "subject": "до Јахве",
-      "rationale": "Директно обраќање, исповед на единственоста на Јахве."
-    }
-  ],
-  "translation": "Јахве, нема како Тебе, и нема Елохим освен Тебе, во сè што слушнавме со нашите уши.",
-  "provenance": {
-    "system-sha256": "cdff91b573c4b8948280531e73111d34193b3176ca0e8208552182795a8ea4a9",
-    "user-sha256": "4995ccb8f4d0895b108c95f5ffe7fb04df01a265ec69a65f4bbe661eca6a2c6b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/1-chronicles\/17\/17-20.1792457109465.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Јахве, нема ⟨како⟩ тебе и нема Елохим освен тебе, во сè што слушнавме со нашите уши.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "כמוך",
-      "gloss": "како Тебе"
+      "gloss": "како тебе"
     },
     {
       "surface": "ואין",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "זולתך",
-      "gloss": "освен Тебе"
+      "gloss": "освен тебе"
     },
     {
       "surface": "בכל",
@@ -69,6 +48,6 @@
       "gloss": "со нашите уши"
     }
   ],
-  "timestamp": "2026-10-20T00:45:09.467628234Z",
+  "timestamp": "2026-10-20T03:12:42.552145091Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "mk",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הרבה מאד",
-      "rationale": "двојно 'многу многу' — натрупување задржано со повторување"
-    },
-    {
-      "kind": "measurement",
-      "subject": "бакар",
-      "rationale": "преголемо количество бакар како воен плен"
-    }
-  ],
-  "translation": "А од Тевах и од Беротај, градови на Хададезер, царот Давид земи многу, многу бакар.",
-  "provenance": {
-    "system-sha256": "411b233df70f4229478facfdbccda9736d01965bde9aa8a4c83634ab8f591af5",
-    "user-sha256": "25fcba5ea5436c48696b93dc5e4836f1ca700ab725e9fb0d8576aa72734df495",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mk\/2-samuel\/8\/5-8.1792448152897.json",
-    "code": "e236f7c33-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "И од Бетах и од Беротај, градови на Хададезер, царот Давид зеде бронза — многу, многу.",
   "tokens": [
     {
       "surface": "ומבטח",
-      "gloss": "а од Тевах"
+      "gloss": "од Бетах"
     },
     {
       "surface": "ומברתי",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "הדדעזר",
-      "gloss": "на Хададезер"
+      "gloss": "Хададезер"
     },
     {
       "surface": "לקח",
-      "gloss": "земи"
+      "gloss": "зеде"
     },
     {
       "surface": "המלך",
@@ -58,17 +37,17 @@
     },
     {
       "surface": "נחשת",
-      "gloss": "бакар"
+      "gloss": "бронза"
     },
     {
       "surface": "הרבה",
       "gloss": "многу"
     },
     {
-      "surface": "мאד",
+      "surface": "מאד",
       "gloss": "многу"
     }
   ],
-  "timestamp": "2026-10-19T22:15:52.999965381Z",
+  "timestamp": "2026-10-20T03:35:14.923873865Z",
   "model": "glm-5.3"
 }
